@@ -131,7 +131,7 @@ Clinical relevance: Anti-inflammatory diet and prevention of vitamin D deficienc
 
 * Oral health and all-cause, cardiovascular disease, and respiratory mortality in older people in the UK and USA - August 2021 https://www.nature.com/articles/s41598-021-95865-z FREE PDF
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

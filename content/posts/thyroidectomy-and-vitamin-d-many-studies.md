@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>** 
+ **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery See <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>** 
 
 <!-- {maketoc} -->
  
@@ -22,31 +22,19 @@ categories:
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter field="title" content="THYROIDECTOMY"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="THYROIDECTOMY"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -81,11 +69,11 @@ Before the surgery, more than 80% of patients have extreme vitamin D deficiency 
 <!-- ~tc~ (alias(Thyroid3ctomy and Vitamin D - many studies)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See &lt;a href=&quot;/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs&quot;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;** 
+ **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery See &lt;a href=&quot;/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs&quot;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;** 
 
 &lt;!-- {maketoc} --&gt;
  
@@ -96,31 +84,19 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -169,8 +145,14 @@ AST Structure:
 │   │   inner_content: ` Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See ((Vitamin D is needed before most surgeries – many studies and RCTs))`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See `
-│   │   │   inner_content: ` Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See `
+│   │   │   full_match: ` Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery `
+│   │   │   inner_content: ` Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `See `
+│   │   │   inner_content: `See `
 │   │   ├── LocalLinkNode
 │   │   │   full_match: `((Vitamin D is needed before most surgeries – many studies and RCTs))`
 │   │   │   inner_content: `Vitamin D is needed before most surgeries – many studies and RCTs`
@@ -211,23 +193,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;
-│   │   field: title
-│   │   content: THYROIDECTOMY├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROIDECTOMY&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Vitamin D Status in Patients before Thyroidectomy - Feb 2023`

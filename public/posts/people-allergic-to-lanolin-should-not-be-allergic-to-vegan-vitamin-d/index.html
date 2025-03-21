@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>People allergic to Lanolin should not be allergic to vegan Vitamin D</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -321,7 +321,7 @@
 <h4 id="vitamindwiki----a-hrefpostsvitamin-d3-for-vegans-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d3-for-vegansvitamin-d3-for-vegansa">VitaminDwiki -  <a href="/posts/vitamin-d3-for-vegans" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans">Vitamin D3 for Vegans</a></h4>
 <p><strong><a href="https://www.amazon.com/s?k=%22vitamin+d%22+vegan&amp;i=hpc&amp;ref=nb_sb_noss_2">Amazon has 1000+ Vegan D3 supplements</a></strong></p>
 <p><strong><a href="https://www.amazon.com/s?k=%22vitamin+d%22+lichen&amp;i=hpc&amp;ref=nb_sb_noss_2">Amazon has 200+ Lichen D3 supplements</a></strong></p>
-<p><strong>Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%   and more likely - due to lack of Magnesium or <a href="/posts/gut-friendly-vitamin-dgut-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems">Gut-Friendly Vitamin D|gut problems</a></strong></p>
+<p><strong>Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,   and more likely - due to lack of Magnesium or <a href="/posts/gut-friendly-vitamin-dgut-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems">Gut-Friendly Vitamin D|gut problems</a></strong></p>
 <hr>
 <h4 id="see-also">See also</h4>
 <ul>
@@ -337,7 +337,7 @@
 </ul>
 <!-- ~tc~ (alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) ~/tc~ -->
 <!-- ~tc~ (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) ~/tc~ -->
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -365,7 +365,7 @@ Markdown:
 
  **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+lichen&amp;i=hpc&amp;ref=nb_sb_noss_2)** 
 
- **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%&amp;nbsp;&amp;nbsp; and more likely - due to lack of Magnesium or &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems&quot;&gt;Gut-Friendly Vitamin D|gut problems&lt;/a&gt;** 
+ **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,&amp;nbsp;&amp;nbsp; and more likely - due to lack of Magnesium or &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems&quot;&gt;Gut-Friendly Vitamin D|gut problems&lt;/a&gt;** 
 
 ---
 
@@ -506,8 +506,11 @@ AST Structure:
 │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%~hs~~hs~ and more likely - due to lack of Magnesium or ((Gut-Friendly Vitamin D|gut problems))`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%`
-│   │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%`
+│   │   full_match: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,`
+│   │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``
@@ -620,7 +623,7 @@ __Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -630,8 +633,8 @@ __Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

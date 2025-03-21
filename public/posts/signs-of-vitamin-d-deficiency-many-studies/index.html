@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Signs of Vitamin D Deficiency - many studies</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -306,25 +306,23 @@
 <hr>
 <h4 id="span-stylecolororange12span-vitamindwiki-pages-with-signs-in-thetitle"><span style="color:orange;">12+</span> VitaminDWiki pages with SIGNS in the title</h4>
 <p>This list is automatically updated</p>
-<p>{LIST()}</p>
-<p>{list max=&ldquo;50&rdquo;}</p>
-<!-- {filter field="title" content="SIGNS"} -->
-<!-- {filter type="wiki page"} -->
-<!-- {filter field="title" content=NOT "COVID"} -->
-<!-- {filter field="title" content= NOT "Magnesium"} -->
-<!-- {filter field="title" content=NOT "Sclerosis"} -->
-<!-- {filter field="title" content=NOT "overdose"} -->
-<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
-<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
-<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
-<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
-{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-</code></pre>
-<p>{OUTPUT}</p>
-<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
-<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
-<p>{LIST}</p>
+<!-- {LIST()}
+{list max="50"}
+{filter field="title" content="SIGNS"}
+{filter type="wiki page"}
+{filter field="title" content=NOT "COVID"}
+{filter field="title" content= NOT "Magnesium"}
+{filter field="title" content=NOT "Sclerosis"}
+{filter field="title" content=NOT "overdose"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
+    {column sort="title" label="Title" field="title" mode="raw"}{column}
+    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 <hr>
 <h4 id="an-ai-summary-by-claude-of-the-top-5-signs-of-vitamin-ddeficiency">An AI summary (by Claude) of the top 5 signs of Vitamin D Deficiency</h4>
 <p><strong><a href="https://claude.ai/chats">Claude 2, July 2023</a></strong></p>
@@ -405,7 +403,7 @@
 <hr>
 <h4 id="vitamindwiki---predict-vitamin-dcategoriespredict-vitamin-d-categorycontains">VitaminDwiki - <a href="/categories/predict-vitamin-d">Predict Vitamin D</a> category contains:</h4>
 <p> </p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -418,39 +416,23 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;SIGNS&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=NOT &quot;COVID&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=NOT &quot;overdose&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}
+{filter type=&quot;wiki page&quot;}
+{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}
+{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}
+{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}
+{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -561,55 +543,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;SIGNS&quot;
-│   │   field: title
-│   │   content: SIGNS├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}\n{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}\n{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=NOT &quot;COVID&quot;
-│   │   field: title
-│   │   content: NOT├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content= NOT &quot;Magnesium&quot;
-│   │   field: title
-│   │   content: NOT├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;
-│   │   field: title
-│   │   content: NOT├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=NOT &quot;overdose&quot;
-│   │   field: title
-│   │   content: NOT├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}\n{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;SIGNS&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;COVID&quot;}\n{filter field=&quot;title&quot; content= NOT &quot;Magnesium&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;Sclerosis&quot;}\n{filter field=&quot;title&quot; content=NOT &quot;overdose&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!An AI summary (by Claude) of the top 5 signs of Vitamin D Deficiency`
@@ -1113,7 +1056,7 @@ __Please describe the top 10 signs of Vitamin D deficiency__
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1123,8 +1066,8 @@ __Please describe the top 10 signs of Vitamin D deficiency__
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

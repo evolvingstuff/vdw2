@@ -20,7 +20,7 @@ British Medical Journal (BMJ) consistently publishes the lowest quality of garba
 <!-- ~tc~ (alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

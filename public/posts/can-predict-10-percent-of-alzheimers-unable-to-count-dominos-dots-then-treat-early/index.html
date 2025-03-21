@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Can predict 10% of Alzheimer’s – unable to count dominos dots (then treat early)</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -311,7 +311,7 @@
 <p>&ldquo;That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s.&rdquo;</p>
 </li>
 <li>
-<p>&ldquo;What little public attention PCA has received up to now was mainly due to British author and humanist  <strong>Terry Pratchett</strong> , who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”</p>
+<p>&ldquo;What little public attention PCA has received up to now was mainly due to British author and humanist  <strong>Terry Pratchett</strong> , who announced in December 2007 that he had been diagnosed with the syndrome.  He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”</p>
 </li>
 <li>
 <p>Many interesting reader&rsquo;s comments at the bottom of the Washington Post article</p>
@@ -342,7 +342,7 @@
 <p>It&rsquo;s important to note that while these apps can provide valuable data and insights, they are not a substitute for professional medical diagnosis or treatment. They should be used as supplementary tools, and any concerning findings should be followed up with a healthcare professional. Moreover, the accuracy and effectiveness of such apps can vary, and privacy concerns should be considered when using apps that collect personal health data.</p>
 <p>Test reading, test color, test contrast, etc.</p>
 <!-- ~tc~ (alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) ~/tc~ -->
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -357,7 +357,7 @@ Markdown:
 
 * &quot;That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s.&quot;
 
-* &quot;What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
+* &quot;What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
 
 * Many interesting reader&#39;s comments at the bottom of the Washington Post article
 
@@ -478,8 +478,14 @@ AST Structure:
 │   │   │   full_match: `Terry Pratchett`
 │   │   │   inner_content: `Terry Pratchett`
 │   ├── TextNode
-│   │   full_match: `, who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`
-│   │   inner_content: `, who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`├── TextNode
+│   │   full_match: `, who announced in December 2007 that he had been diagnosed with the syndrome.  `
+│   │   inner_content: `, who announced in December 2007 that he had been diagnosed with the syndrome.  `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`
+│   │   inner_content: `He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Many interesting reader&#39;s comments at the bottom of the Washington Post article`
@@ -632,7 +638,7 @@ Test reading, test color, test contrast, etc.
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -642,8 +648,8 @@ Test reading, test color, test contrast, etc.
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

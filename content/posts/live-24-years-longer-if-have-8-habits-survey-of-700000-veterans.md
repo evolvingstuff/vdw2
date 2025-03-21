@@ -21,7 +21,7 @@ categories:
 
  **[URL](https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/)** 
 
- **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. %%%For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
+ **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
 
 #### What habits will extend life expectancy?
 
@@ -64,7 +64,7 @@ The page includes the following from 2019
 <!-- ~tc~ (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -77,7 +77,7 @@ Markdown:
 
  **[URL](https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/)** 
 
- **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. %%%For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
+ **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
 
 #### What habits will extend life expectancy?
 
@@ -163,8 +163,14 @@ AST Structure:
 │   inner_content: `According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. %%%For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.`
 │   children:
 │   ├── TextNode
-│   │   full_match: `According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. %%%For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.`
-│   │   inner_content: `According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. %%%For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.`├── TextNode
+│   │   full_match: `According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. `
+│   │   inner_content: `According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.`
+│   │   inner_content: `For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── HeadingNode
 │   full_match: `\n!!!!What habits will extend life expectancy?`

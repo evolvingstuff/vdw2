@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>50K vitamin D levels and diseases</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -302,9 +302,25 @@
     <article>
         <h1>50K vitamin D levels and diseases</h1>
         <time>June 28, 2023</time>
-        <p>||Response to Vitamin D |Additional Diseases Treated</p>
-<p><img src="/attachments/d3.mock.jpg" alt="image" width="300">|A%%%B %%%C</p>
-<p>| ||</p>
+        <table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Response to Vitamin D</td>
+          <td>Additional Diseases Treated</td>
+      </tr>
+      <tr>
+          <td><img src="/attachments/d3.mock.jpg" alt="image" width="300"></td>
+          <td>A<br>B <br>C</td>
+      </tr>
+  </tbody>
+</table>
+<p>|   |</p>
 <p><a href="/posts/vitamindwiki-interview-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022">VitaminDWiki interview and transcript - Jan 2022</a></p>
 <p><strong>40-150 ng of Vitamin D need to treat health problems</strong></p>
 <p><strong><a href="/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency">Hypothesis of cause and effect of vitamin D deficiency</a></strong></p>
@@ -313,15 +329,17 @@
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 <p><strong>ADHD     Anxiety     Asthma     Autism     BPH (prostate)     Cancer - Breast     Cancer - Colon     Cancer - Prostate     Cardiovascular     Chronic Obstructive Pulmonary Disease     Cognitive Decline     Colds      Depression     Diabetes     Endometriosis     Falls     Fibromyalgia     Hashimoto&rsquo;s Thyroiditis     Hay Fever     Heart Failure     Hives      Hypertension – Pulmonary     Immune System     Infant     Inflammatory Bowel Syndrome     Influenza     Kidney Disease     Lupus     Migraine     Multiple Sclerosis     Obesity     Osteoarthritis – Knee Pain     Pain - Chronic     Pain - Growing     PMS     Preeclampsia     Premature Birth     Respiratory Tract Infection     Schizophrenia     Sleep - Poor     Sleep Apnea     Smoking     Sports Performance     Stroke     Surgery     Tuberculosis     Ulcerative Colitis     Ulcers – Venous     Urinary Tract Infection</strong></p>
 </div>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
-||Response to Vitamin D |Additional Diseases Treated
 
-&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;|A%%%B %%%C
+| | |
+| --- | --- |
+| Response to Vitamin D  | Additional Diseases Treated |
+| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt; | A&lt;br&gt;B &lt;br&gt;C
 
-| ||
+ |   |
 
 &lt;a href=&quot;/posts/vitamindwiki-interview-and-transcript&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022&quot;&gt;VitaminDWiki interview and transcript - Jan 2022&lt;/a&gt;
 
@@ -343,18 +361,72 @@ Markdown:
 
 AST Structure:
 -------------
-├── TextNode
-│   full_match: `||Response to Vitamin D |Additional Diseases Treated\n`
-│   inner_content: `||Response to Vitamin D |Additional Diseases Treated\n`├── ImgNode
-│   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;
-│   │   type: attId
-│   │   attId: 19707
-│   │   width: 300├── TextNode
-│   full_match: `|A%%%B %%%C\n| ||\n\n`
-│   inner_content: `|A%%%B %%%C\n| ||\n\n`├── LocalLinkNode
+├── TableNode
+│   full_match: `||Response to Vitamin D |Additional Diseases Treated\n{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| ||`
+│   inner_content: `Response to Vitamin D |Additional Diseases Treated\n{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Response to Vitamin D |Additional Diseases Treated`
+│   │   inner_content: `Response to Vitamin D |Additional Diseases Treated`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Response to Vitamin D `
+│   │   │   inner_content: `Response to Vitamin D `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Response to Vitamin D `
+│   │   │   │   inner_content: `Response to Vitamin D `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Additional Diseases Treated`
+│   │   │   inner_content: `Additional Diseases Treated`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Additional Diseases Treated`
+│   │   │   │   inner_content: `Additional Diseases Treated`
+│   ├── TableRowNode
+│   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   │   inner_content: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   inner_content: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   children:
+│   │   │   ├── ImgNode
+│   │   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   │   inner_content: ``
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content:  type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;
+│   │   │   │   │   type: attId
+│   │   │   │   │   attId: 19707
+│   │   │   │   │   width: 300
+│   │   ├── TableCellNode
+│   │   │   full_match: `A%%%B %%%C\n`
+│   │   │   inner_content: `A%%%B %%%C\n`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `A`
+│   │   │   │   inner_content: `A`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `B `
+│   │   │   │   inner_content: `B `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `C\n`
+│   │   │   │   inner_content: `C\n`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── LocalLinkNode
 │   full_match: `((VitaminDWiki interview and transcript - Jan 2022))`
 │   inner_content: `VitaminDWiki interview and transcript - Jan 2022`
 │   page: `VitaminDWiki interview and transcript - Jan 2022`
@@ -824,7 +896,7 @@ __[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -834,8 +906,8 @@ __[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

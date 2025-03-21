@@ -66,7 +66,7 @@ Vitamin D deficiency is common in childhood, pervasive before and after bone mar
 </span> visits to this page
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

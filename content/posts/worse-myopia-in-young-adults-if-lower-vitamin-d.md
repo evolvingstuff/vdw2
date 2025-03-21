@@ -42,7 +42,7 @@ Conclusions: Myopia in young adulthood was most strongly associated with recent 
 <!-- ~tc~ (alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

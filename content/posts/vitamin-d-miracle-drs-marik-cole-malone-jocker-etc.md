@@ -38,7 +38,7 @@ See at VitaminDWiki:
 <!-- ~tc~ (alias(Vitamin D Miracle: Dr.'s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

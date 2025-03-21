@@ -18,9 +18,9 @@ categories:
 
 #### Faecal transplants are just the start for microbiome medicine  - Economist Nov 2023
 
-[<img src="https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg" alt="image">](https://click.e.economist.com/?qs=e8b52f579392a0265fa9d1975fe99347d885e5027412d904498e6571a2868f79e5d2ddb4849294576fc81d9a2b3e12e0026ed24d84865dcf)|%%% **Gilead Amit**  %%% Science correspondent
+[<img src="https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg" alt="image">](https://click.e.economist.com/?qs=e8b52f579392a0265fa9d1975fe99347d885e5027412d904498e6571a2868f79e5d2ddb4849294576fc81d9a2b3e12e0026ed24d84865dcf)| **Gilead Amit**   Science correspondent
 
-Sitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  %%%  %%% Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. %%%  %%% The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. %%% Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. %%% Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as [we report this week](https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7), its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.%%%At present
+Sitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”     Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections.    The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation.  Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point.  Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as [we report this week](https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7), its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.At present
 
 * Americans and Canadians regard it as an investigational drug with limited uses, while 
 
@@ -28,7 +28,7 @@ Sitting in a small windowless lab watching Désirée Prossomariti strain solids 
 
 * In Britain, meanwhile, it is viewed as a medicinal product, which allows for more flexible regulation. 
 
-More practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. %%% The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.
+More practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply.  The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.
 
 ---
 
@@ -168,31 +168,20 @@ Impaired microbiome diversity and composition can develop into a potent etiologi
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter field="title" content="\"Fecal Transplant\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"Fecal Transplant\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST} 
+{LIST} -->
+ 
 
 ---
 
@@ -230,7 +219,7 @@ Faecal transplant therapy (FMT) has been anticipated to treat many diseases simi
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -241,9 +230,9 @@ Markdown:
 
 #### Faecal transplants are just the start for microbiome medicine  - Economist Nov 2023
 
-[&lt;img src=&quot;https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg&quot; alt=&quot;image&quot;&gt;](https://click.e.economist.com/?qs=e8b52f579392a0265fa9d1975fe99347d885e5027412d904498e6571a2868f79e5d2ddb4849294576fc81d9a2b3e12e0026ed24d84865dcf)|%%% **Gilead Amit**  %%% Science correspondent
+[&lt;img src=&quot;https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg&quot; alt=&quot;image&quot;&gt;](https://click.e.economist.com/?qs=e8b52f579392a0265fa9d1975fe99347d885e5027412d904498e6571a2868f79e5d2ddb4849294576fc81d9a2b3e12e0026ed24d84865dcf)| **Gilead Amit**   Science correspondent
 
-Sitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  %%%  %%% Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. %%%  %%% The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. %%% Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. %%% Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as [we report this week](https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7), its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.%%%At present
+Sitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”     Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections.    The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation.  Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point.  Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as [we report this week](https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7), its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.At present
 
 * Americans and Canadians regard it as an investigational drug with limited uses, while 
 
@@ -251,7 +240,7 @@ Sitting in a small windowless lab watching Désirée Prossomariti strain solids 
 
 * In Britain, meanwhile, it is viewed as a medicinal product, which allows for more flexible regulation. 
 
-More practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. %%% The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.
+More practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply.  The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.
 
 ---
 
@@ -391,31 +380,20 @@ Impaired microbiome diversity and composition can develop into a potent etiologi
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST} 
+{LIST} --&gt;
+ 
 
 ---
 
@@ -489,16 +467,46 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content:  src=&quot;https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg&quot;
 │   │   │   src: https://image.e.economist.com/lib/fe8d13727c650c7976/m/4/cbe11a01-a91c-40bd-bcfb-79d237b9e4d0.jpg├── TextNode
-│   full_match: `|%%%`
-│   inner_content: `|%%%`├── BoldNode
+│   full_match: `|`
+│   inner_content: `|`├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── BoldNode
 │   full_match: `__Gilead Amit__`
 │   inner_content: `Gilead Amit`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Gilead Amit`
 │   │   inner_content: `Gilead Amit`├── TextNode
-│   full_match: ` %%% Science correspondent\nSitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  %%%  %%% Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. %%%  %%% The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. %%% Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. %%% Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as `
-│   inner_content: ` %%% Science correspondent\nSitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  %%%  %%% Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. %%%  %%% The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. %%% Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. %%% Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as `├── LinkNode
+│   full_match: ` `
+│   inner_content: ` `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` Science correspondent\nSitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  `
+│   inner_content: ` Science correspondent\nSitting in a small windowless lab watching Désirée Prossomariti strain solids through a sieve, I am reminded, despite myself, of jam-making. “I’ve never looked at it that way,” she says. “But yes, I’ve seen my mother making jam.”  `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: `  `
+│   inner_content: `  `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. `
+│   inner_content: ` Dr Prossomariti is making something much more important, if much less palatable. She manufactures a medical therapeutic known as a faecal microbiota transplant (FMT)—oral capsules derived from freeze-dried human stool that are extraordinarily effective at relieving some nasty bacterial infections. `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: `  `
+│   inner_content: `  `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. `
+│   inner_content: ` The logic is surprisingly sound. The gut microbiome is a complex entity, containing many hundreds of species and a total number of cells that rivals those of the host’s body. When this ecosystem is damaged, the consequences can be felt all over the body. Diabetes, obesity, Parkinson’s disease, Alzheimer’s disease and atopic dermatitis have all been linked to the (mis)activity of the gut microbiome. Some have called the microbiome an organ in its own right. And where there is an organ, there is hope of transplantation. `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. `
+│   inner_content: ` Not long ago, FMT was regarded as fringe. “People would talk about it in conferences, and people would laugh and giggle,” says Simon Goldenberg, who manages the laboratory at Guy’s and St Thomas’ Hospital in London, where Dr Prossomariti works. Then, in 2013, a Dutch clinical trial of FMTs showed such positive results that it was ended early—a supervisory board deeming it unethical to withhold the treatment from the placebo group. That was a turning-point. `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as `
+│   inner_content: ` Many patients now benefit from FMT, and their number is set to rise as more positive results filter in from clinical trials. All the same, as `├── LinkNode
 │   full_match: `[https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7|we report this week]`
 │   inner_content: `we report this week`
 │   url: `https://click.e.economist.com/?qs=e8b52f579392a026020b3e472b3f3c017ba6b29563d2f9dfe0610ae96f1a7576e5c64c547eb4f3032eeffea433dd6a01e6da8a0a1bc9f5b7`
@@ -506,8 +514,12 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `we report this week`
 │   │   inner_content: `we report this week`├── TextNode
-│   full_match: `, its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.%%%At present\n`
-│   inner_content: `, its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.%%%At present\n`├── ListItemNode
+│   full_match: `, its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.`
+│   inner_content: `, its time in the Sun is likely to be short-lived. Crucially, stool is impossible to standardise, and its contents challenging to determine. Its long-term safety profile is also largely unknown. This makes FMT hard to regulate consistently.`├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: `At present\n`
+│   inner_content: `At present\n`├── ListItemNode
 │   full_match: `*Americans and Canadians regard it as an investigational drug with limited uses, while `
 │   inner_content: `Americans and Canadians regard it as an investigational drug with limited uses, while `
 │   depth: `1`
@@ -533,8 +545,12 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `In Britain, meanwhile, it is viewed as a medicinal product, which allows for more flexible regulation. `
 │   │   inner_content: `In Britain, meanwhile, it is viewed as a medicinal product, which allows for more flexible regulation. `├── TextNode
-│   full_match: `\nMore practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. %%% The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.`
-│   inner_content: `\nMore practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. %%% The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.`├── HorizontalRuleNode
+│   full_match: `\nMore practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. `
+│   inner_content: `\nMore practical issues abound. Few donors pass screening tests, and those that do tend to find the donation process—which requires samples to arrive in the lab no more than two hours after being produced—awkward and off-putting. All this strongly limits supply. `├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.`
+│   inner_content: ` The future of microbiome manipulation is likely to involve more bespoke intervention. Designing a microbiome to meet a specific patient’s needs, in other words, rather than copying a template. This is a Herculean task, but some progress is already being made. From creating designer microbial communities that can restore balance to an off-kilter gut, to using hand-picked viruses to kill off the most noxious bacteria, the future of microbiome manipulation looks brighter than ever. And perhaps will smell sweeter too.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Fecal Transplants for Ulcerative Colitis, MS, Depression, Bipolar, and Alcoholism - [https://nutritionfacts.org/video/fecal-transplants-for-ulcerative-colitis-ms-depression-bipolar-and-alcoholism/?utm_source=NutritionFacts.org&amp;utm_campaign=ca561f10f1-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&amp;utm_medium=email&amp;utm_term=0_40f9e497d1-ca561f10f1-25209481&amp;mc_cid=ca561f10f1&amp;mc_eid=b95641625a|Dr. Greger April 2023]`
@@ -1035,23 +1051,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST} `
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST} `├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Fecal Transplant\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Fecal Transplant: The Benefits and Harms of Fecal Microbiota Transplantation book chapter Feb 2024`

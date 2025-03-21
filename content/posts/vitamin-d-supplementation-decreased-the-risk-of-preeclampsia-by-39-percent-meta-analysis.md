@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **Note: 39% reduction is independant of Vitamin D dose. %%%Study using a high dose found a  70% reduction** 
+ **Note: 39% reduction is independant of Vitamin D dose. Study using a high dose found a  70% reduction** 
 
 <!-- {maketoc Title=""} -->
 
@@ -189,11 +189,11 @@ Clin. Endocrinol (Oxf)
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **Note: 39% reduction is independant of Vitamin D dose. %%%Study using a high dose found a  70% reduction** 
+ **Note: 39% reduction is independant of Vitamin D dose. Study using a high dose found a  70% reduction** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -385,8 +385,14 @@ AST Structure:
 │   │   inner_content: `Note: 39% reduction is independant of Vitamin D dose. %%%Study using a high dose found a  70% reduction    `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Note: 39% reduction is independant of Vitamin D dose. %%%Study using a high dose found a  70% reduction    `
-│   │   │   inner_content: `Note: 39% reduction is independant of Vitamin D dose. %%%Study using a high dose found a  70% reduction    `├── TextNode
+│   │   │   full_match: `Note: 39% reduction is independant of Vitamin D dose. `
+│   │   │   inner_content: `Note: 39% reduction is independant of Vitamin D dose. `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Study using a high dose found a  70% reduction    `
+│   │   │   inner_content: `Study using a high dose found a  70% reduction    `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

@@ -37,7 +37,7 @@ Conclusion: Surgical intervention for obesity followed by vitamin D supplementat
 
 {BOX}
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

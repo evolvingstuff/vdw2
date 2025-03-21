@@ -22,7 +22,7 @@ categories:
 
 * "That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s."
 
-* "What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
+* "What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
 
 * Many interesting reader's comments at the bottom of the Washington Post article
 
@@ -77,7 +77,7 @@ Test reading, test color, test contrast, etc.
 <!-- ~tc~ (alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -92,7 +92,7 @@ Markdown:
 
 * &quot;That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s.&quot;
 
-* &quot;What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
+* &quot;What little public attention PCA has received up to now was mainly due to British author and humanist  **Terry Pratchett** , who announced in December 2007 that he had been diagnosed with the syndrome.  He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”
 
 * Many interesting reader&#39;s comments at the bottom of the Washington Post article
 
@@ -213,8 +213,14 @@ AST Structure:
 │   │   │   full_match: `Terry Pratchett`
 │   │   │   inner_content: `Terry Pratchett`
 │   ├── TextNode
-│   │   full_match: `, who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`
-│   │   inner_content: `, who announced in December 2007 that he had been diagnosed with the syndrome.  %%%He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`├── TextNode
+│   │   full_match: `, who announced in December 2007 that he had been diagnosed with the syndrome.  `
+│   │   inner_content: `, who announced in December 2007 that he had been diagnosed with the syndrome.  `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`
+│   │   inner_content: `He pledged to donate $1 million to the Alzheimer’s Research Trust in the United Kingdom and collaborated with the BBC in 2009 on the two-part documentary “Terry Pratchett: Living With Alzheimer’s.”`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Many interesting reader&#39;s comments at the bottom of the Washington Post article`

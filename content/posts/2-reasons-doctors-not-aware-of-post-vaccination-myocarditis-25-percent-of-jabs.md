@@ -16,7 +16,7 @@ categories:
 
  **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&publication_id=1119676&post_id=139148225&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
 
- **1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine** 
+ **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
 
 ---
 
@@ -35,7 +35,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -44,7 +44,7 @@ Markdown:
 
  **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=139148225&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
 
- **1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine** 
+ **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
 
 ---
 
@@ -99,8 +99,14 @@ AST Structure:
 │   │   inner_content: ` 1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine`
-│   │   │   inner_content: ` 1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine`├── HorizontalRuleNode
+│   │   │   full_match: ` 1) Doctor unaware of the death`
+│   │   │   inner_content: ` 1) Doctor unaware of the death`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `2) Patient left his doctor who recommended the vaccine`
+│   │   │   inner_content: `2) Patient left his doctor who recommended the vaccine`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!25% increase in emergency cardiac calls: Israel, age 16-39, first 4 months of 2021`

@@ -44,7 +44,7 @@ categories:
 ##### Observation: It appears that Vaccinations or masks do not reduce chance of long-COVID, but Vitamin D does
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

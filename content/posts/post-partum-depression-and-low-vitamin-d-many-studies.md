@@ -110,7 +110,7 @@ Hundreds of studies are compared at <a href="/posts/overview-loading-of-vitamin-
 <!-- ~tc~ (alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

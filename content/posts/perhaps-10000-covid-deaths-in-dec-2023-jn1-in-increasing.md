@@ -19,7 +19,7 @@ categories:
 
  **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&utm_medium=email&utm_source=newsletter&wpisrc=nl_the7)** 
 
-* "There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month"
+* "There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month"
 
 * "Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that  **this is not the full picture** ."
 
@@ -44,7 +44,7 @@ categories:
 <!-- ~tc~ (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -57,7 +57,7 @@ Markdown:
 
  **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7)** 
 
-* &quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;
+* &quot;There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month&quot;
 
 * &quot;Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that  **this is not the full picture** .&quot;
 
@@ -126,8 +126,14 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `&quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;`
-│   │   inner_content: `&quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;`├── TextNode
+│   │   full_match: `&quot;There was a 42% increase in hospitalizations `
+│   │   inner_content: `&quot;There was a 42% increase in hospitalizations `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `and a 62% increase in ICU admissions from the previous month&quot;`
+│   │   inner_content: `and a 62% increase in ICU admissions from the previous month&quot;`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that __this is not the full picture__.&quot;`

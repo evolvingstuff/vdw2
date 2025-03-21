@@ -135,7 +135,7 @@ Expect that FAR MORE Vitamin D will be produced when UVB can shine on more of th
 
 Cholesterol from wool ==> pre-vitamin D then add UVB ==> Vitamin D
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

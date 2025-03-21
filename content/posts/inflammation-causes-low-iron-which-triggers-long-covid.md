@@ -48,7 +48,7 @@ Thus, defects in iron homeostasis, dysregulated erythropoiesis and immune dysfun
 <!-- ~tc~ (alias(Infection causes low iron, which triggers long-COVID – April 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

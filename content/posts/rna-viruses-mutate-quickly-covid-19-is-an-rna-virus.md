@@ -21,7 +21,7 @@ categories:
 
  **<a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011">Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011</a>** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

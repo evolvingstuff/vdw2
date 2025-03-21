@@ -28,31 +28,21 @@ Ten studies with 1,287,021 postmenopausal women were found eligible for analyses
 
 Our results suggested that 
 
-||Factor| VitaminDWiki observation
-
-age| associated with low Vitamin D
-
-BMI| associated with low Vitamin D
-
-senior high school and above| 
-
-parity ≥ 3| associated with low Vitamin D
-
-history of hypertension| associated with low Vitamin D
-
-history of diabetes mellitus| associated with low Vitamin D
-
-history of alcohol intake| associated with low Vitamin D
-
-age at menarche ≥ 15| 
-
-age at menopause  < 40| 
-
-age at menopause  > 50| 
-
-estrogen use and |
-
- **vitamin D supplements** |People rarely supplement with enough||
+| | |
+| --- | --- |
+| Factor |  VitaminDWiki observation |
+| age |  associated with low Vitamin D |
+| BMI |  associated with low Vitamin D |
+| senior high school and above |   |
+| parity ≥ 3 |  associated with low Vitamin D |
+| history of hypertension |  associated with low Vitamin D |
+| history of diabetes mellitus |  associated with low Vitamin D |
+| history of alcohol intake |  associated with low Vitamin D |
+| age at menarche ≥ 15 |   |
+| age at menopause  < 40 |   |
+| age at menopause  > 50 |   |
+| estrogen use and  |  |
+|  **vitamin D supplements**  | People rarely supplement with enough |
 
 were significantly associated with osteoporotic fracture in postmenopausal women. 
 
@@ -80,7 +70,7 @@ Our findings facilitate the early prediction of osteoporotic fracture in postmen
 
 * <a href="/posts/osteoporosis-28-x-more-likely-if-vitamin-d-receptor-vdr-genes-altered" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis 2.8 X more likely if Vitamin D receptor (VDR) genes altered – Aug 2013">Osteoporosis 2.8 X more likely if Vitamin D receptor (VDR) genes altered – Aug 2013</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -104,31 +94,21 @@ Ten studies with 1,287,021 postmenopausal women were found eligible for analyses
 
 Our results suggested that 
 
-||Factor| VitaminDWiki observation
-
-age| associated with low Vitamin D
-
-BMI| associated with low Vitamin D
-
-senior high school and above| 
-
-parity ≥ 3| associated with low Vitamin D
-
-history of hypertension| associated with low Vitamin D
-
-history of diabetes mellitus| associated with low Vitamin D
-
-history of alcohol intake| associated with low Vitamin D
-
-age at menarche ≥ 15| 
-
-age at menopause  &lt; 40| 
-
-age at menopause  &gt; 50| 
-
-estrogen use and |
-
- **vitamin D supplements** |People rarely supplement with enough||
+| | |
+| --- | --- |
+| Factor |  VitaminDWiki observation |
+| age |  associated with low Vitamin D |
+| BMI |  associated with low Vitamin D |
+| senior high school and above |   |
+| parity ≥ 3 |  associated with low Vitamin D |
+| history of hypertension |  associated with low Vitamin D |
+| history of diabetes mellitus |  associated with low Vitamin D |
+| history of alcohol intake |  associated with low Vitamin D |
+| age at menarche ≥ 15 |   |
+| age at menopause  &lt; 40 |   |
+| age at menopause  &gt; 50 |   |
+| estrogen use and  |  |
+|  **vitamin D supplements**  | People rarely supplement with enough |
 
 were significantly associated with osteoporotic fracture in postmenopausal women. 
 
@@ -195,16 +175,247 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 19913
 │   │   width: 1000├── TextNode
-│   full_match: `\nOsteoporosis affects more than 200 million women worldwide, with postmenopausal women being particularly susceptible to this condition and its severe sequelae disproportionately, such as osteoporotic fractures. To date, the current focus has been more on symptomatic treatment, rather than preventive measures. To address this, we performed a meta-analysis aiming to identify potential predictors of osteoporotic fractures in postmenopausal women, with the ultimate goal of identifying high-risk patients and exploring potential therapeutic approaches. We searched Embase, MEDLINE and Cochrane with search terms (postmenopausal AND fracture) AND (&quot;risk factor&quot; OR &quot;predictive factor&quot;) in May 2022 for cohort and case-control studies on the predictors of osteoporotic fracture in postmenopausal women. \nTen studies with 1,287,021 postmenopausal women were found eligible for analyses, in which the sample size ranged from 311 to 1,272,115. The surveyed date spanned from 1993 to 2021. \nOur results suggested that \n||Factor| VitaminDWiki observation\nage| associated with low Vitamin D\nBMI| associated with low Vitamin D\nsenior high school and above| \nparity ≥ 3| associated with low Vitamin D\nhistory of hypertension| associated with low Vitamin D\nhistory of diabetes mellitus| associated with low Vitamin D\nhistory of alcohol intake| associated with low Vitamin D\nage at menarche ≥ 15| \nage at menopause  &lt; 40| \nage at menopause  &gt; 50| \nestrogen use and |\n`
-│   inner_content: `\nOsteoporosis affects more than 200 million women worldwide, with postmenopausal women being particularly susceptible to this condition and its severe sequelae disproportionately, such as osteoporotic fractures. To date, the current focus has been more on symptomatic treatment, rather than preventive measures. To address this, we performed a meta-analysis aiming to identify potential predictors of osteoporotic fractures in postmenopausal women, with the ultimate goal of identifying high-risk patients and exploring potential therapeutic approaches. We searched Embase, MEDLINE and Cochrane with search terms (postmenopausal AND fracture) AND (&quot;risk factor&quot; OR &quot;predictive factor&quot;) in May 2022 for cohort and case-control studies on the predictors of osteoporotic fracture in postmenopausal women. \nTen studies with 1,287,021 postmenopausal women were found eligible for analyses, in which the sample size ranged from 311 to 1,272,115. The surveyed date spanned from 1993 to 2021. \nOur results suggested that \n||Factor| VitaminDWiki observation\nage| associated with low Vitamin D\nBMI| associated with low Vitamin D\nsenior high school and above| \nparity ≥ 3| associated with low Vitamin D\nhistory of hypertension| associated with low Vitamin D\nhistory of diabetes mellitus| associated with low Vitamin D\nhistory of alcohol intake| associated with low Vitamin D\nage at menarche ≥ 15| \nage at menopause  &lt; 40| \nage at menopause  &gt; 50| \nestrogen use and |\n`├── BoldNode
-│   full_match: `__vitamin D supplements__`
-│   inner_content: `vitamin D supplements`
+│   full_match: `\nOsteoporosis affects more than 200 million women worldwide, with postmenopausal women being particularly susceptible to this condition and its severe sequelae disproportionately, such as osteoporotic fractures. To date, the current focus has been more on symptomatic treatment, rather than preventive measures. To address this, we performed a meta-analysis aiming to identify potential predictors of osteoporotic fractures in postmenopausal women, with the ultimate goal of identifying high-risk patients and exploring potential therapeutic approaches. We searched Embase, MEDLINE and Cochrane with search terms (postmenopausal AND fracture) AND (&quot;risk factor&quot; OR &quot;predictive factor&quot;) in May 2022 for cohort and case-control studies on the predictors of osteoporotic fracture in postmenopausal women. \nTen studies with 1,287,021 postmenopausal women were found eligible for analyses, in which the sample size ranged from 311 to 1,272,115. The surveyed date spanned from 1993 to 2021. \nOur results suggested that \n`
+│   inner_content: `\nOsteoporosis affects more than 200 million women worldwide, with postmenopausal women being particularly susceptible to this condition and its severe sequelae disproportionately, such as osteoporotic fractures. To date, the current focus has been more on symptomatic treatment, rather than preventive measures. To address this, we performed a meta-analysis aiming to identify potential predictors of osteoporotic fractures in postmenopausal women, with the ultimate goal of identifying high-risk patients and exploring potential therapeutic approaches. We searched Embase, MEDLINE and Cochrane with search terms (postmenopausal AND fracture) AND (&quot;risk factor&quot; OR &quot;predictive factor&quot;) in May 2022 for cohort and case-control studies on the predictors of osteoporotic fracture in postmenopausal women. \nTen studies with 1,287,021 postmenopausal women were found eligible for analyses, in which the sample size ranged from 311 to 1,272,115. The surveyed date spanned from 1993 to 2021. \nOur results suggested that \n`├── TableNode
+│   full_match: `||Factor| VitaminDWiki observation\nage| associated with low Vitamin D\nBMI| associated with low Vitamin D\nsenior high school and above| \nparity ≥ 3| associated with low Vitamin D\nhistory of hypertension| associated with low Vitamin D\nhistory of diabetes mellitus| associated with low Vitamin D\nhistory of alcohol intake| associated with low Vitamin D\nage at menarche ≥ 15| \nage at menopause  &lt; 40| \nage at menopause  &gt; 50| \nestrogen use and |\n__vitamin D supplements__|People rarely supplement with enough||`
+│   inner_content: `Factor| VitaminDWiki observation\nage| associated with low Vitamin D\nBMI| associated with low Vitamin D\nsenior high school and above| \nparity ≥ 3| associated with low Vitamin D\nhistory of hypertension| associated with low Vitamin D\nhistory of diabetes mellitus| associated with low Vitamin D\nhistory of alcohol intake| associated with low Vitamin D\nage at menarche ≥ 15| \nage at menopause  &lt; 40| \nage at menopause  &gt; 50| \nestrogen use and |\n__vitamin D supplements__|People rarely supplement with enough`
 │   children:
-│   ├── TextNode
-│   │   full_match: `vitamin D supplements`
-│   │   inner_content: `vitamin D supplements`├── TextNode
-│   full_match: `|People rarely supplement with enough||\nwere significantly associated with osteoporotic fracture in postmenopausal women. \nOur findings facilitate the early prediction of osteoporotic fracture in postmenopausal women and may contribute to potential therapeutic approaches. By focusing on preventive strategies and identifying high-risk individuals, we can work toward reducing the burden of osteoporosis-related fractures in this vulnerable population.\n`
-│   inner_content: `|People rarely supplement with enough||\nwere significantly associated with osteoporotic fracture in postmenopausal women. \nOur findings facilitate the early prediction of osteoporotic fracture in postmenopausal women and may contribute to potential therapeutic approaches. By focusing on preventive strategies and identifying high-risk individuals, we can work toward reducing the burden of osteoporosis-related fractures in this vulnerable population.\n`├── BoldNode
+│   ├── TableRowNode
+│   │   full_match: `Factor| VitaminDWiki observation`
+│   │   inner_content: `Factor| VitaminDWiki observation`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Factor`
+│   │   │   inner_content: `Factor`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Factor`
+│   │   │   │   inner_content: `Factor`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` VitaminDWiki observation`
+│   │   │   inner_content: ` VitaminDWiki observation`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` VitaminDWiki observation`
+│   │   │   │   inner_content: ` VitaminDWiki observation`
+│   ├── TableRowNode
+│   │   full_match: `age| associated with low Vitamin D`
+│   │   inner_content: `age| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `age`
+│   │   │   inner_content: `age`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `age`
+│   │   │   │   inner_content: `age`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `BMI| associated with low Vitamin D`
+│   │   inner_content: `BMI| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `BMI`
+│   │   │   inner_content: `BMI`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `BMI`
+│   │   │   │   inner_content: `BMI`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `senior high school and above| `
+│   │   inner_content: `senior high school and above| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `senior high school and above`
+│   │   │   inner_content: `senior high school and above`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `senior high school and above`
+│   │   │   │   inner_content: `senior high school and above`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   ├── TableRowNode
+│   │   full_match: `parity ≥ 3| associated with low Vitamin D`
+│   │   inner_content: `parity ≥ 3| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `parity ≥ 3`
+│   │   │   inner_content: `parity ≥ 3`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `parity ≥ 3`
+│   │   │   │   inner_content: `parity ≥ 3`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `history of hypertension| associated with low Vitamin D`
+│   │   inner_content: `history of hypertension| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `history of hypertension`
+│   │   │   inner_content: `history of hypertension`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `history of hypertension`
+│   │   │   │   inner_content: `history of hypertension`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `history of diabetes mellitus| associated with low Vitamin D`
+│   │   inner_content: `history of diabetes mellitus| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `history of diabetes mellitus`
+│   │   │   inner_content: `history of diabetes mellitus`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `history of diabetes mellitus`
+│   │   │   │   inner_content: `history of diabetes mellitus`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `history of alcohol intake| associated with low Vitamin D`
+│   │   inner_content: `history of alcohol intake| associated with low Vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `history of alcohol intake`
+│   │   │   inner_content: `history of alcohol intake`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `history of alcohol intake`
+│   │   │   │   inner_content: `history of alcohol intake`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` associated with low Vitamin D`
+│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `age at menarche ≥ 15| `
+│   │   inner_content: `age at menarche ≥ 15| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `age at menarche ≥ 15`
+│   │   │   inner_content: `age at menarche ≥ 15`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `age at menarche ≥ 15`
+│   │   │   │   inner_content: `age at menarche ≥ 15`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   ├── TableRowNode
+│   │   full_match: `age at menopause  &lt; 40| `
+│   │   inner_content: `age at menopause  &lt; 40| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `age at menopause  &lt; 40`
+│   │   │   inner_content: `age at menopause  &lt; 40`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `age at menopause  &lt; 40`
+│   │   │   │   inner_content: `age at menopause  &lt; 40`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   ├── TableRowNode
+│   │   full_match: `age at menopause  &gt; 50| `
+│   │   inner_content: `age at menopause  &gt; 50| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `age at menopause  &gt; 50`
+│   │   │   inner_content: `age at menopause  &gt; 50`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `age at menopause  &gt; 50`
+│   │   │   │   inner_content: `age at menopause  &gt; 50`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   ├── TableRowNode
+│   │   full_match: `estrogen use and |`
+│   │   inner_content: `estrogen use and |`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `estrogen use and `
+│   │   │   inner_content: `estrogen use and `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `estrogen use and `
+│   │   │   │   inner_content: `estrogen use and `
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `__vitamin D supplements__|People rarely supplement with enough`
+│   │   inner_content: `__vitamin D supplements__|People rarely supplement with enough`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__vitamin D supplements__`
+│   │   │   inner_content: `__vitamin D supplements__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__vitamin D supplements__`
+│   │   │   │   inner_content: `vitamin D supplements`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `vitamin D supplements`
+│   │   │   │   │   inner_content: `vitamin D supplements`
+│   │   ├── TableCellNode
+│   │   │   full_match: `People rarely supplement with enough`
+│   │   │   inner_content: `People rarely supplement with enough`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `People rarely supplement with enough`
+│   │   │   │   inner_content: `People rarely supplement with enough`├── TextNode
+│   full_match: `\nwere significantly associated with osteoporotic fracture in postmenopausal women. \nOur findings facilitate the early prediction of osteoporotic fracture in postmenopausal women and may contribute to potential therapeutic approaches. By focusing on preventive strategies and identifying high-risk individuals, we can work toward reducing the burden of osteoporosis-related fractures in this vulnerable population.\n`
+│   inner_content: `\nwere significantly associated with osteoporotic fracture in postmenopausal women. \nOur findings facilitate the early prediction of osteoporotic fracture in postmenopausal women and may contribute to potential therapeutic approaches. By focusing on preventive strategies and identifying high-risk individuals, we can work toward reducing the burden of osteoporosis-related fractures in this vulnerable population.\n`├── BoldNode
 │   full_match: `__Clipped from PDF__`
 │   inner_content: `Clipped from PDF`
 │   children:

@@ -20,39 +20,23 @@ categories:
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter field="title" content="\"COST-EFFECTIVE\" OR \"COST EFFECTIVE\""} -->
-
-<!-- {filter field="title" content="NOT \" Many studies\""} -->
-
-<!-- {filter field="title" content="NOT \" Magnesium Chloride\""} -->
-
-<!-- {filter field="title" content="NOT \" Zika\""} -->
-
-<!-- {filter field="title" content="NOT \" old\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"COST-EFFECTIVE\" OR \"COST EFFECTIVE\""}
+{filter field="title" content="NOT \" Many studies\""}
+{filter field="title" content="NOT \" Magnesium Chloride\""}
+{filter field="title" content="NOT \" Zika\""}
+{filter field="title" content="NOT \" old\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -86,7 +70,7 @@ This list is automatically updated
 
 #### VitaminDWiki - <a href="/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-illion-annually" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually">Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually</a>
 
- ||::Outcome:: |Reduction due to %%%improving vitamin D status
+ ||::Outcome:: |Reduction due to improving vitamin D status
 
 Cancer|15 %
 
@@ -139,7 +123,7 @@ Copy and paste results just after the Associations heading
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -153,39 +137,23 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -219,7 +187,7 @@ This list is automatically updated
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-illion-annually&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually&quot;&gt;Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually&lt;/a&gt;
 
- ||::Outcome:: |Reduction due to %%%improving vitamin D status
+ ||::Outcome:: |Reduction due to improving vitamin D status
 
 Cancer|15 %
 
@@ -315,55 +283,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Cost savings with Vitamin D)) contains`
@@ -532,8 +461,14 @@ AST Structure:
 │   │   size: 16
 │   children:
 │   ├── TextNode
-│   │   full_match: `||::Outcome:: |Reduction due to %%%improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %`
-│   │   inner_content: `||::Outcome:: |Reduction due to %%%improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %`├── TextNode
+│   │   full_match: `||::Outcome:: |Reduction due to `
+│   │   inner_content: `||::Outcome:: |Reduction due to `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %`
+│   │   inner_content: `improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %`├── TextNode
 │   full_match: ` `
 │   inner_content: ` `├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
@@ -606,26 +541,20 @@ AST Structure:
 │   │   │   customsearchjs: 0
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `\n{LIST()}\n    `
-│   │   │   inner_content: `\n{LIST()}\n    `
-│   │   ├── FilterNode
-│   │   │   full_match: `{filter categories=&quot;87&quot;}`
-│   │   │   inner_content: ``
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
+│   │   ├── ListNode
+│   │   │   full_match: `{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}`
+│   │   │   inner_content: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
 │   │   │   attrs_dict:
-│   │   │   │   raw_content: categories=&quot;87&quot;
-│   │   │   │   categories: 87
+│   │   │   │   raw_content: 
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   inner_content: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
 │   │   ├── TextNode
-│   │   │   full_match: `\n    `
-│   │   │   inner_content: `\n    `
-│   │   ├── FilterNode
-│   │   │   full_match: `{filter type=&quot;wiki page&quot;}`
-│   │   │   inner_content: ``
-│   │   │   attrs_dict:
-│   │   │   │   raw_content: type=&quot;wiki page&quot;
-│   │   │   │   type: wiki page
-│   │   ├── TextNode
-│   │   │   full_match: `\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
-│   │   │   inner_content: `\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── TextNode

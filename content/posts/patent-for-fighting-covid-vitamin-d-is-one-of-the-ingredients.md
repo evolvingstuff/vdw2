@@ -47,7 +47,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

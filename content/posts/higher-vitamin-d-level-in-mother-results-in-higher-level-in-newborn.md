@@ -41,7 +41,7 @@ The results of this study suggest that there may be potential new biomarkers to 
 <!-- ~tc~ (alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

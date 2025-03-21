@@ -50,7 +50,7 @@ categories:
 <!-- ~tc~ (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

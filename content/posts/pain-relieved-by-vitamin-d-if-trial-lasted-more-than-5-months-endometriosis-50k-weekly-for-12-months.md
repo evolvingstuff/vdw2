@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.%%%It takes at least 5 months for vitamin D dosing to fully respond without a loading dose%%%Loading doses, on the other hand, result in a response/benefit in < 1 month** 
+ **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.It takes at least 5 months for vitamin D dosing to fully respond without a loading doseLoading doses, on the other hand, result in a response/benefit in < 1 month** 
 
 <!-- {maketoc Title=""} -->
 
@@ -74,11 +74,11 @@ This list is automatically updated
 ##### Example: <a href="/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021">Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.%%%It takes at least 5 months for vitamin D dosing to fully respond without a loading dose%%%Loading doses, on the other hand, result in a response/benefit in &lt; 1 month** 
+ **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.It takes at least 5 months for vitamin D dosing to fully respond without a loading doseLoading doses, on the other hand, result in a response/benefit in &lt; 1 month** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -148,8 +148,20 @@ AST Structure:
 │   inner_content: `Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.%%%It takes at least 5 months for vitamin D dosing to fully respond without a loading dose%%%Loading doses, on the other hand, result in a response/benefit in &lt; 1 month`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.%%%It takes at least 5 months for vitamin D dosing to fully respond without a loading dose%%%Loading doses, on the other hand, result in a response/benefit in &lt; 1 month`
-│   │   inner_content: `Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.%%%It takes at least 5 months for vitamin D dosing to fully respond without a loading dose%%%Loading doses, on the other hand, result in a response/benefit in &lt; 1 month`├── TextNode
+│   │   full_match: `Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.`
+│   │   inner_content: `Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `It takes at least 5 months for vitamin D dosing to fully respond without a loading dose`
+│   │   inner_content: `It takes at least 5 months for vitamin D dosing to fully respond without a loading dose`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Loading doses, on the other hand, result in a response/benefit in &lt; 1 month`
+│   │   inner_content: `Loading doses, on the other hand, result in a response/benefit in &lt; 1 month`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

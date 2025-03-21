@@ -33,7 +33,7 @@ Vitamin D deficiency, generally defined as 25-hydroxyvitamin D (25(OH)D) concent
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

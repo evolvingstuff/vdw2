@@ -114,7 +114,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

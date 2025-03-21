@@ -17,48 +17,31 @@ categories:
 
 #### All objects in the category:
 
-{LIST(cache="y")}
-
-   
-<!-- {filter categories="3"} -->
-
+<!-- {LIST(cache="y")}
+   {filter categories="3"}
  {OUTPUT(template="count")}
-
   {OUTPUT}
-
-{LIST}
+{LIST} -->
 
 #### Wiki pages in the category:
 
-{LIST(cache="y")}
-
-   
-<!-- {filter categories="3"} -->
-
-  
-<!-- {filter type="wiki page"} -->
-
+<!-- {LIST(cache="y")}
+   {filter categories="3"}
+  {filter type="wiki page"}
  {OUTPUT(template="count")}
-
   {OUTPUT}
-
-{LIST}
+{LIST} -->
 
 #### Files in the category:
 
-{LIST(cache="y")}  
-<!-- {filter categories="3"} -->
-
-  
-<!-- {filter type="file"} -->
-
+<!-- {LIST(cache="y")}  {filter categories="3"}
+  {filter type="file"}
   {OUTPUT(template="count")}
-
   {OUTPUT}
+{LIST} -->
 
-{LIST}
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -68,46 +51,29 @@ Markdown:
 
 #### All objects in the category:
 
-{LIST(cache=&quot;y&quot;)}
-
-   
-&lt;!-- {filter categories=&quot;3&quot;} --&gt;
-
+&lt;!-- {LIST(cache=&quot;y&quot;)}
+   {filter categories=&quot;3&quot;}
  {OUTPUT(template=&quot;count&quot;)}
-
   {OUTPUT}
-
-{LIST}
+{LIST} --&gt;
 
 #### Wiki pages in the category:
 
-{LIST(cache=&quot;y&quot;)}
-
-   
-&lt;!-- {filter categories=&quot;3&quot;} --&gt;
-
-  
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+&lt;!-- {LIST(cache=&quot;y&quot;)}
+   {filter categories=&quot;3&quot;}
+  {filter type=&quot;wiki page&quot;}
  {OUTPUT(template=&quot;count&quot;)}
-
   {OUTPUT}
-
-{LIST}
+{LIST} --&gt;
 
 #### Files in the category:
 
-{LIST(cache=&quot;y&quot;)}  
-&lt;!-- {filter categories=&quot;3&quot;} --&gt;
-
-  
-&lt;!-- {filter type=&quot;file&quot;} --&gt;
-
+&lt;!-- {LIST(cache=&quot;y&quot;)}  {filter categories=&quot;3&quot;}
+  {filter type=&quot;file&quot;}
   {OUTPUT(template=&quot;count&quot;)}
-
   {OUTPUT}
+{LIST} --&gt;
 
-{LIST}
 
 AST Structure:
 -------------
@@ -139,15 +105,19 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `All objects in the category:`
 │   │   inner_content: `All objects in the category:`├── TextNode
-│   full_match: `\n{LIST(cache=&quot;y&quot;)}\n   `
-│   inner_content: `\n{LIST(cache=&quot;y&quot;)}\n   `├── FilterNode
-│   full_match: `{filter categories=&quot;3&quot;}`
-│   inner_content: ``
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST(cache=&quot;y&quot;)}\n   {filter categories=&quot;3&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}`
+│   inner_content: `\n   {filter categories=&quot;3&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
 │   attrs_dict:
-│   │   raw_content: categories=&quot;3&quot;
-│   │   categories: 3├── TextNode
-│   full_match: `\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}\n`
-│   inner_content: `\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}\n`├── HeadingNode
+│   │   raw_content: cache=&quot;y&quot;
+│   │   cache: y
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n   {filter categories=&quot;3&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
+│   │   inner_content: `\n   {filter categories=&quot;3&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
 │   full_match: `\n!!!! Wiki pages in the category:`
 │   inner_content: `Wiki pages in the category:`
 │   level: `4`
@@ -155,22 +125,19 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Wiki pages in the category:`
 │   │   inner_content: `Wiki pages in the category:`├── TextNode
-│   full_match: `\n{LIST(cache=&quot;y&quot;)}\n   `
-│   inner_content: `\n{LIST(cache=&quot;y&quot;)}\n   `├── FilterNode
-│   full_match: `{filter categories=&quot;3&quot;}`
-│   inner_content: ``
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST(cache=&quot;y&quot;)}\n   {filter categories=&quot;3&quot;}\n  {filter type=&quot;wiki page&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}`
+│   inner_content: `\n   {filter categories=&quot;3&quot;}\n  {filter type=&quot;wiki page&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
 │   attrs_dict:
-│   │   raw_content: categories=&quot;3&quot;
-│   │   categories: 3├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}\n\n`
-│   inner_content: `\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}\n\n`├── HeadingNode
+│   │   raw_content: cache=&quot;y&quot;
+│   │   cache: y
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n   {filter categories=&quot;3&quot;}\n  {filter type=&quot;wiki page&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
+│   │   inner_content: `\n   {filter categories=&quot;3&quot;}\n  {filter type=&quot;wiki page&quot;}\n {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── HeadingNode
 │   full_match: `\n!!!! Files in the category:`
 │   inner_content: `Files in the category:`
 │   level: `4`
@@ -178,22 +145,17 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Files in the category:`
 │   │   inner_content: `Files in the category:`├── TextNode
-│   full_match: `\n{LIST(cache=&quot;y&quot;)}  `
-│   inner_content: `\n{LIST(cache=&quot;y&quot;)}  `├── FilterNode
-│   full_match: `{filter categories=&quot;3&quot;}`
-│   inner_content: ``
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST(cache=&quot;y&quot;)}  {filter categories=&quot;3&quot;}\n  {filter type=&quot;file&quot;}\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}`
+│   inner_content: `  {filter categories=&quot;3&quot;}\n  {filter type=&quot;file&quot;}\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
 │   attrs_dict:
-│   │   raw_content: categories=&quot;3&quot;
-│   │   categories: 3├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── FilterNode
-│   full_match: `{filter type=&quot;file&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;file&quot;
-│   │   type: file├── TextNode
-│   full_match: `\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}`
-│   inner_content: `\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n{LIST}`
+│   │   raw_content: cache=&quot;y&quot;
+│   │   cache: y
+│   children:
+│   ├── TextNode
+│   │   full_match: `  {filter categories=&quot;3&quot;}\n  {filter type=&quot;file&quot;}\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
+│   │   inner_content: `  {filter categories=&quot;3&quot;}\n  {filter type=&quot;file&quot;}\n  {OUTPUT(template=&quot;count&quot;)}\n  {OUTPUT}\n`
 
 Original Tiki:
 -------------

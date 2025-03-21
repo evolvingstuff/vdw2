@@ -98,7 +98,7 @@ Note: Butyrate has helped my wife's collitis, another gut problem
 ######## VitaminDWiki –  [Viamin D timeline - 1900 to 2022](/posts/viamin-d-timeline-1900-to-2022)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

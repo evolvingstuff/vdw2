@@ -52,7 +52,7 @@ There were no statistically significant effects of serum vitamin D concentration
 <!-- ~tc~ (alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

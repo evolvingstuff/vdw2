@@ -72,7 +72,7 @@ From <a href="/posts/magnesium-increases-vitamin-d-and-decreases-mortality-2013"
 
 * <a href="/posts/vitamin-d-level-can-be-high-but-little-benefit-due-to-kidney-genes-low-magnesium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D level can be high, but little benefit: due to kidney, genes, low Magnesium etc.">Vitamin D level can be high, but little benefit: due to kidney, genes, low Magnesium etc.</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

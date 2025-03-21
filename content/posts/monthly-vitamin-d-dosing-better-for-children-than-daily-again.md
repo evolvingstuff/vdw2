@@ -43,7 +43,7 @@ Conclusions: Monthly administration of vitamin D3 may be an effective and safe a
 <!-- ~tc~ (alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

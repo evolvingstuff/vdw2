@@ -114,7 +114,7 @@ Serum 25(OH)D concentrations were negatively associated with total and regional 
 <!-- ~tc~ (alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -17,60 +17,33 @@ date: 2023-12-18
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="150"}
-
-<!-- {filter field="title" content="\"  4,000 \" OR “\"4000\""} -->
-"}
-
-<!-- {filter field="title" content="NOT \" 900,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 600,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 450,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 440,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 170,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 100,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 50,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 30,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 25,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 22,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 10,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 5,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 2,000\""} -->
-
-<!-- {filter field="title" content="NOT \" dollars\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"  4,000 \" OR “\"4000\""}"}
+{filter field="title" content="NOT \" 900,000\""}
+{filter field="title" content="NOT \" 600,000\""}
+{filter field="title" content="NOT \" 450,000\""}
+{filter field="title" content="NOT \" 440,000\""}
+{filter field="title" content="NOT \" 170,000\""}
+{filter field="title" content="NOT \" 100,000\""}
+{filter field="title" content="NOT \" 50,000\""}
+{filter field="title" content="NOT \" 30,000\""}
+{filter field="title" content="NOT \" 25,000\""}
+{filter field="title" content="NOT \" 22,000\""}
+{filter field="title" content="NOT \" 10,000\""}
+{filter field="title" content="NOT \" 5,000\""}
+{filter field="title" content="NOT \" 2,000\""}
+{filter field="title" content="NOT \" dollars\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -82,7 +55,7 @@ European Journal of Nutrition February 2023
 
 Armin Zittermann, Christian Trummer, Verena Theiler-Schwetz & Stefan Pilz 
 
- <span style="color:orange;"> **Note** : No indication of how much Calcium (food or supplement) each group was taking%%%Nor if any vitamin K2 was taken (which reduces Calcium in the blood)</span>
+ <span style="color:orange;"> **Note** : No indication of how much Calcium (food or supplement) each group was takingNor if any vitamin K2 was taken (which reduces Calcium in the blood)</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
@@ -124,7 +97,7 @@ Supplemental vitamin D doses of 3200–4000 IU/d appear to increase the risk of 
 
 <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -137,60 +110,33 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;} --&gt;
-&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -202,7 +148,7 @@ European Journal of Nutrition February 2023
 
 Armin Zittermann, Christian Trummer, Verena Theiler-Schwetz &amp; Stefan Pilz 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note** : No indication of how much Calcium (food or supplement) each group was taking%%%Nor if any vitamin K2 was taken (which reduces Calcium in the blood)&lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **Note** : No indication of how much Calcium (food or supplement) each group was takingNor if any vitamin K2 was taken (which reduces Calcium in the blood)&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
@@ -285,135 +231,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
-│   full_match: `&quot;}\n`
-│   inner_content: `&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;  4,000 \&quot; OR “\&quot;4000\&quot;&quot;}&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 450,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 440,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 170,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 30,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 25,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 22,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 5,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 2,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollars\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!4000 IU daily - rare risk of hypercalcemia - meta-analysis Feb 2023`
@@ -446,8 +273,14 @@ AST Structure:
 │   │   │   full_match: `Note`
 │   │   │   inner_content: `Note`
 │   ├── TextNode
-│   │   full_match: `: No indication of how much Calcium (food or supplement) each group was taking%%%Nor if any vitamin K2 was taken (which reduces Calcium in the blood)`
-│   │   inner_content: `: No indication of how much Calcium (food or supplement) each group was taking%%%Nor if any vitamin K2 was taken (which reduces Calcium in the blood)`├── TextNode
+│   │   full_match: `: No indication of how much Calcium (food or supplement) each group was taking`
+│   │   inner_content: `: No indication of how much Calcium (food or supplement) each group was taking`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Nor if any vitamin K2 was taken (which reduces Calcium in the blood)`
+│   │   inner_content: `Nor if any vitamin K2 was taken (which reduces Calcium in the blood)`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20485&quot; width=&quot;900&quot;}`

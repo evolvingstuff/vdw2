@@ -44,13 +44,15 @@ categories:
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 
- ||Deaths|Year
+ 
+| | |
+| --- | --- |
+| Deaths | Year |
+| 972.5  | 2022 |
+| 907.2  | 2021 |
+| 830.5  | <2019 |
 
-972.5 |2022
-
-907.2 |2021
-
-830.5 |<2019|| 
+ 
 
 &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Canadian Gov PDF](/attachments/d3.mock.pdf)** 
 
@@ -69,7 +71,7 @@ categories:
 <!-- ~tc~ (alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -106,13 +108,15 @@ Markdown:
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 
- ||Deaths|Year
+ 
+| | |
+| --- | --- |
+| Deaths | Year |
+| 972.5  | 2022 |
+| 907.2  | 2021 |
+| 830.5  | &lt;2019 |
 
-972.5 |2022
-
-907.2 |2021
-
-830.5 |&lt;2019|| 
+ 
 
 &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Canadian Gov PDF](/attachments/d3.mock.pdf)** 
 
@@ -310,8 +314,87 @@ AST Structure:
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n ||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| `
-│   │   inner_content: `\n ||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| `├── TextNode
+│   │   full_match: `\n `
+│   │   inner_content: `\n `
+│   ├── TableNode
+│   │   full_match: `||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019||`
+│   │   inner_content: `Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Deaths|Year`
+│   │   │   inner_content: `Deaths|Year`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Deaths`
+│   │   │   │   inner_content: `Deaths`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Deaths`
+│   │   │   │   │   inner_content: `Deaths`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Year`
+│   │   │   │   inner_content: `Year`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Year`
+│   │   │   │   │   inner_content: `Year`
+│   │   ├── TableRowNode
+│   │   │   full_match: `972.5 |2022`
+│   │   │   inner_content: `972.5 |2022`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `972.5 `
+│   │   │   │   inner_content: `972.5 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `972.5 `
+│   │   │   │   │   inner_content: `972.5 `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2022`
+│   │   │   │   inner_content: `2022`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2022`
+│   │   │   │   │   inner_content: `2022`
+│   │   ├── TableRowNode
+│   │   │   full_match: `907.2 |2021`
+│   │   │   inner_content: `907.2 |2021`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `907.2 `
+│   │   │   │   inner_content: `907.2 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `907.2 `
+│   │   │   │   │   inner_content: `907.2 `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2021`
+│   │   │   │   inner_content: `2021`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2021`
+│   │   │   │   │   inner_content: `2021`
+│   │   ├── TableRowNode
+│   │   │   full_match: `830.5 |&lt;2019`
+│   │   │   inner_content: `830.5 |&lt;2019`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `830.5 `
+│   │   │   │   inner_content: `830.5 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `830.5 `
+│   │   │   │   │   inner_content: `830.5 `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&lt;2019`
+│   │   │   │   inner_content: `&lt;2019`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&lt;2019`
+│   │   │   │   │   inner_content: `&lt;2019`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~`

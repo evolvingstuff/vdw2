@@ -38,7 +38,7 @@ In the two years that have passed, it has become increasingly clear that the gen
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

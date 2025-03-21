@@ -34,7 +34,7 @@ In both samples, higher Vitamin D partly mediated the association between both h
 
 * [Vitamin D deficient seniors in acute care were more agitated and disinhibited – April 2024](/posts/vitamin-d-deficient-seniors-in-acute-care-were-more-agitated-and-disinhibited)
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

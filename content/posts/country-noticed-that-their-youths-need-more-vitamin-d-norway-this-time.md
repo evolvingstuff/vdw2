@@ -97,7 +97,7 @@ Conclusion: Vitamin D concentrations were often insufficient among children livi
 <!-- ~tc~ (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

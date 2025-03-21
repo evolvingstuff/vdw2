@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Folate in VitaminDWiki - many studies</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -306,21 +306,19 @@
 <hr>
 <h4 id="span-stylecolororange31span-vitamindwiki-pages-with-folate-or-folic-in-the-title"><span style="color:orange;">31+</span> VitaminDWiki pages with FOLATE or FOLIC in the title</h4>
 <p>This list is automatically updated</p>
-<p>{LIST()}</p>
-<p>{list max=&ldquo;150&rdquo;}</p>
-<!-- {filter field="title" content="folate OR FOLIC"} -->
-<!-- {filter type="wiki page"} -->
-<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
-<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
-<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
-<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
-{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-</code></pre>
-<p>{OUTPUT}</p>
-<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
-<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
-<p>{LIST}</p>
+<!-- {LIST()}
+{list max="150"}
+{filter field="title" content="folate OR FOLIC"}
+{filter type="wiki page"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
+    {column sort="title" label="Title" field="title" mode="raw"}{column}
+    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 <hr>
 <h4 id="the-evolution-of-folate-supplementation---from-one-size-for-all-to-personalized-precision-poly-paths---july-2023">The evolution of folate supplementation - from one size for all to personalized, precision, poly-paths - July 2023</h4>
 <p>J Transl Int Med . 2023 Jul 5;11(2):128-137. <a href="https://doi.org/10.2478/jtim-2023-0087">doi: 10.2478/jtim-2023-0087</a></p>
@@ -330,7 +328,7 @@
 <p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
 <hr>
 <h4 id="vitamindwiki---a-hrefpostsvitamin-d-cofactors-in-a-nutshell-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-cofactors-in-a-nutshellvitamin-d-cofactors-in-a-nutshella-table-show-the-importance-of-each">VitaminDwiki - <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">Vitamin D Cofactors in a nutshell</a> table show the importance of each</h4>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -344,31 +342,19 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -433,23 +419,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;
-│   │   field: title
-│   │   content: folate OR FOLIC├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;folate OR FOLIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!The evolution of folate supplementation - from one size for all to personalized, precision, poly-paths - July 2023`
@@ -571,7 +550,7 @@ Folate is a crucial nutrient that supports physiological functions. Low folate l
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -581,8 +560,8 @@ Folate is a crucial nutrient that supports physiological functions. Low folate l
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

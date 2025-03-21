@@ -39,7 +39,7 @@ Blood profiling data in athletic populations and their respective responses to S
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

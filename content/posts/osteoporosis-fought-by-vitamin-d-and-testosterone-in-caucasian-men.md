@@ -129,7 +129,7 @@ TRT is able to inhibit bone resorption and increase bone mass, particularly at t
 <!-- ~tc~ (alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

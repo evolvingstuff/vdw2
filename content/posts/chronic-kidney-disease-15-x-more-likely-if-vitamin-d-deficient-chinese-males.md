@@ -89,7 +89,7 @@ Our study demonstrated that VDD was independently associated with early-stage CK
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

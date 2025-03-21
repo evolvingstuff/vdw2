@@ -14,15 +14,13 @@ categories:
 
  **Candidate causes include:** 
 
-||Low vitamin D| (which can be fought by Vitamin D)
-
-<a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studiesmicroplastics" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies|Microplastics">Microplastics now causing problems in most life forms - many studies|Microplastics</a>| (which can be fought by Vitamin D)
-
-<a href="/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-s-processed-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods">Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods</a> |(which can be fought by Vitamin D)
-
-<a href="/posts/air-pollution-reduces-vitamin-dair-pollution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D|Air pollution">Air Pollution reduces Vitamin D|Air pollution</a>| (which can be fought by Vitamin D)
-
-<a href="/posts/ddt-and-other-pesticides-decrease-vitamin-dpesticides" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D|Pesticides">DDT and other pesticides decrease vitamin D|Pesticides</a> | (which can be fought by Vitamin D)||
+| | |
+| --- | --- |
+| Low vitamin D |  (which can be fought by Vitamin D) |
+| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) |  (which can be fought by Vitamin D) |
+| ((Ultra-processed foods associated with worse health and lower Vitamin D - several studies | Ultra-processed foods))  | (which can be fought by Vitamin D) |
+| ((Air Pollution reduces Vitamin D | Air pollution)) |  (which can be fought by Vitamin D) |
+| ((DDT and other pesticides decrease vitamin D | Pesticides))  |  (which can be fought by Vitamin D) |
 
 ---
 
@@ -34,31 +32,19 @@ categories:
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter field="title" content="\"EARLY-ONSET\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"EARLY-ONSET\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -92,7 +78,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -100,15 +86,13 @@ Markdown:
 
  **Candidate causes include:** 
 
-||Low vitamin D| (which can be fought by Vitamin D)
-
-&lt;a href=&quot;/posts/microplastics-now-causing-problems-in-most-life-forms-many-studiesmicroplastics&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies|Microplastics&quot;&gt;Microplastics now causing problems in most life forms - many studies|Microplastics&lt;/a&gt;| (which can be fought by Vitamin D)
-
-&lt;a href=&quot;/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-s-processed-foods&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods&quot;&gt;Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods&lt;/a&gt; |(which can be fought by Vitamin D)
-
-&lt;a href=&quot;/posts/air-pollution-reduces-vitamin-dair-pollution&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D|Air pollution&quot;&gt;Air Pollution reduces Vitamin D|Air pollution&lt;/a&gt;| (which can be fought by Vitamin D)
-
-&lt;a href=&quot;/posts/ddt-and-other-pesticides-decrease-vitamin-dpesticides&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT and other pesticides decrease vitamin D|Pesticides&quot;&gt;DDT and other pesticides decrease vitamin D|Pesticides&lt;/a&gt; | (which can be fought by Vitamin D)||
+| | |
+| --- | --- |
+| Low vitamin D |  (which can be fought by Vitamin D) |
+| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) |  (which can be fought by Vitamin D) |
+| ((Ultra-processed foods associated with worse health and lower Vitamin D - several studies | Ultra-processed foods))  | (which can be fought by Vitamin D) |
+| ((Air Pollution reduces Vitamin D | Air pollution)) |  (which can be fought by Vitamin D) |
+| ((DDT and other pesticides decrease vitamin D | Pesticides))  |  (which can be fought by Vitamin D) |
 
 ---
 
@@ -120,31 +104,19 @@ Markdown:
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -198,52 +170,133 @@ AST Structure:
 │   │   │   full_match: `Candidate causes include:`
 │   │   │   inner_content: `Candidate causes include:`
 │   ├── TextNode
-│   │   full_match: `\n||Low vitamin D| (which can be fought by Vitamin D)\n`
-│   │   inner_content: `\n||Low vitamin D| (which can be fought by Vitamin D)\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((Microplastics now causing problems in most life forms - many studies|Microplastics))`
-│   │   inner_content: `Microplastics now causing problems in most life forms - many studies|Microplastics`
-│   │   page: `Microplastics now causing problems in most life forms - many studies|Microplastics`
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||Low vitamin D| (which can be fought by Vitamin D)\n((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)\n((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)\n((Air Pollution reduces Vitamin D|Air pollution))| (which can be fought by Vitamin D)\n((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)||`
+│   │   inner_content: `Low vitamin D| (which can be fought by Vitamin D)\n((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)\n((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)\n((Air Pollution reduces Vitamin D|Air pollution))| (which can be fought by Vitamin D)\n((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Microplastics now causing problems in most life forms - many studies|Microplastics`
-│   │   │   inner_content: `Microplastics now causing problems in most life forms - many studies|Microplastics`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Low vitamin D| (which can be fought by Vitamin D)`
+│   │   │   inner_content: `Low vitamin D| (which can be fought by Vitamin D)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Low vitamin D`
+│   │   │   │   inner_content: `Low vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Low vitamin D`
+│   │   │   │   │   inner_content: `Low vitamin D`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   ├── TableRowNode
+│   │   │   full_match: `((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)`
+│   │   │   inner_content: `((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `((Microplastics now causing problems in most life forms - many studies`
+│   │   │   │   inner_content: `((Microplastics now causing problems in most life forms - many studies`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `((Microplastics now causing problems in most life forms - many studies`
+│   │   │   │   │   inner_content: `((Microplastics now causing problems in most life forms - many studies`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Microplastics))`
+│   │   │   │   inner_content: `Microplastics))`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Microplastics))`
+│   │   │   │   │   inner_content: `Microplastics))`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   ├── TableRowNode
+│   │   │   full_match: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)`
+│   │   │   inner_content: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies`
+│   │   │   │   inner_content: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies`
+│   │   │   │   │   inner_content: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Ultra-processed foods)) `
+│   │   │   │   inner_content: `Ultra-processed foods)) `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Ultra-processed foods)) `
+│   │   │   │   │   inner_content: `Ultra-processed foods)) `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   inner_content: `(which can be fought by Vitamin D)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: `(which can be fought by Vitamin D)`
+│   │   ├── TableRowNode
+│   │   │   full_match: `((Air Pollution reduces Vitamin D|Air pollution))| (which can be fought by Vitamin D)`
+│   │   │   inner_content: `((Air Pollution reduces Vitamin D|Air pollution))| (which can be fought by Vitamin D)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `((Air Pollution reduces Vitamin D`
+│   │   │   │   inner_content: `((Air Pollution reduces Vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `((Air Pollution reduces Vitamin D`
+│   │   │   │   │   inner_content: `((Air Pollution reduces Vitamin D`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Air pollution))`
+│   │   │   │   inner_content: `Air pollution))`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Air pollution))`
+│   │   │   │   │   inner_content: `Air pollution))`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   ├── TableRowNode
+│   │   │   full_match: `((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)`
+│   │   │   inner_content: `((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `((DDT and other pesticides decrease vitamin D`
+│   │   │   │   inner_content: `((DDT and other pesticides decrease vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `((DDT and other pesticides decrease vitamin D`
+│   │   │   │   │   inner_content: `((DDT and other pesticides decrease vitamin D`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Pesticides)) `
+│   │   │   │   inner_content: `Pesticides)) `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Pesticides)) `
+│   │   │   │   │   inner_content: `Pesticides)) `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
 │   ├── TextNode
-│   │   full_match: `| (which can be fought by Vitamin D)\n`
-│   │   inner_content: `| (which can be fought by Vitamin D)\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods))`
-│   │   inner_content: `Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods`
-│   │   page: `Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods`
-│   │   │   inner_content: `Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods`
-│   ├── TextNode
-│   │   full_match: ` |(which can be fought by Vitamin D)\n`
-│   │   inner_content: ` |(which can be fought by Vitamin D)\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((Air Pollution reduces Vitamin D|Air pollution))`
-│   │   inner_content: `Air Pollution reduces Vitamin D|Air pollution`
-│   │   page: `Air Pollution reduces Vitamin D|Air pollution`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Air Pollution reduces Vitamin D|Air pollution`
-│   │   │   inner_content: `Air Pollution reduces Vitamin D|Air pollution`
-│   ├── TextNode
-│   │   full_match: `| (which can be fought by Vitamin D)\n`
-│   │   inner_content: `| (which can be fought by Vitamin D)\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((DDT and other pesticides decrease vitamin D|Pesticides))`
-│   │   inner_content: `DDT and other pesticides decrease vitamin D|Pesticides`
-│   │   page: `DDT and other pesticides decrease vitamin D|Pesticides`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `DDT and other pesticides decrease vitamin D|Pesticides`
-│   │   │   inner_content: `DDT and other pesticides decrease vitamin D|Pesticides`
-│   ├── TextNode
-│   │   full_match: ` | (which can be fought by Vitamin D)||\n`
-│   │   inner_content: ` | (which can be fought by Vitamin D)||\n`├── HorizontalRuleNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -284,23 +337,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Why are so many young people getting cancer? - April 2024`

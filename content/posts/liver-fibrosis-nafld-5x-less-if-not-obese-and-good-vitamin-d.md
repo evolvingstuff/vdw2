@@ -50,7 +50,7 @@ Conclusions: This large population-based investigation indicated that elevated s
 <!-- ~tc~ (alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

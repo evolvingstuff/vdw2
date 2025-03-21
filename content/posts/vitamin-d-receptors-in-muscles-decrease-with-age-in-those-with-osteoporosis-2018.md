@@ -57,7 +57,7 @@ This list is automatically updated
 
 contains  [Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020](https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020)
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -47,7 +47,7 @@ Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. Mc
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

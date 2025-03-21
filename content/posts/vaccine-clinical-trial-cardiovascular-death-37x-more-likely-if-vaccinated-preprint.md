@@ -45,7 +45,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

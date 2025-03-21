@@ -116,7 +116,7 @@ In summary, the characterization of alternative signaling pathways by D3 and rel
 <!-- ~tc~ (alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

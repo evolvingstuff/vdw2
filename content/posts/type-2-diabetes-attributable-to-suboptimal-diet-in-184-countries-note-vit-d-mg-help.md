@@ -98,7 +98,7 @@ We demonstrated that adherence to a healthy diet was generally associated with a
 
 Our results suggest that dietary patterns associated with markers of hyperinsulinemia and inflammation and diabetes development may inform on future dietary guidelines for chronic disease prevention.
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

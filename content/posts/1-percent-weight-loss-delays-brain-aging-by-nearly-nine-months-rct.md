@@ -61,7 +61,7 @@ https://doi.org/10.7554/eLife.83604.sa0
 <!-- ~tc~ (alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

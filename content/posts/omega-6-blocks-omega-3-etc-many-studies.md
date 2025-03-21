@@ -81,43 +81,25 @@ I hope this information helps! Feel free to ask if you have any further question
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="150"}
-
-<!-- {filter type="wiki page"} -->
-
-<!-- {filter field="title" content="Omega-6"} -->
-
-<!-- {filter field="title" content="NOT \" 6 month\""} -->
-
-<!-- {filter field="title" content="NOT \" 6 percent\""} -->
-
-<!-- {filter field="title" content="NOT \" 6 week\""} -->
-
-<!-- {filter field="title" content="NOT \" 6x reduction\""} -->
-
-<!-- {filter field="title" content="NOT \"Jan 6, 2021\""} -->
-
-<!-- {filter field="title" content="NOT \" 6 to 7 \""} -->
-
+{filter type="wiki page"}
+{filter field="title" content="Omega-6"}
+{filter field="title" content="NOT \" 6 month\""}
+{filter field="title" content="NOT \" 6 percent\""}
+{filter field="title" content="NOT \" 6 week\""}
+{filter field="title" content="NOT \" 6x reduction\""}
+{filter field="title" content="NOT \"Jan 6, 2021\""}
+{filter field="title" content="NOT \" 6 to 7 \""}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -241,7 +223,7 @@ While there are other problematic components in the standard American diet, the 
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -315,43 +297,25 @@ I hope this information helps! Feel free to ask if you have any further question
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;Omega-6&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;} --&gt;
-
+{filter type=&quot;wiki page&quot;}
+{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -833,71 +797,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;Omega-6&quot;
-│   │   field: title
-│   │   content: Omega-6├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!The Simplest Way to Balance the Omega-6 to Omega-3 Ratio - video Dec 2022`

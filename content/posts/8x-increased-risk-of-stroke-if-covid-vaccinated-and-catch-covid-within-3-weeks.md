@@ -62,7 +62,7 @@ This list is automatically updated
 #### See also: [V-safe - 7% had emergency medical after vaccination - CDC response, cancel V-safe - Sept 2023](/posts/v-safe-7-percent-had-emergency-medical-after-vaccination-cdc-response-cancel-v-safe)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -54,7 +54,7 @@ This is the real task we face as individuals and as a society: To construct a ne
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

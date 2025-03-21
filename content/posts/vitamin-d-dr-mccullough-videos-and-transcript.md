@@ -273,7 +273,7 @@ My protocol was 10,000 units a day. I get them on that, and leave them on that, 
 <!-- ~tc~ (alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

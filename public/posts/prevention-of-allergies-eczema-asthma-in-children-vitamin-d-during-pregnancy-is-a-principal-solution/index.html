@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Prevention of allergies, eczema, asthma, in children – Vitamin D during pregnancy is a principal solution</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -310,9 +310,32 @@
 <p>The allergy epidemic has been attributed to environmental influences related to urbanization and the modern lifestyle. In this regard, various theories exploring the role of microbes (hygiene, old friends, microbiota, and biodiversity hypotheses), and the epithelial barrier (epithelial, dual allergen exposure and vitamin D hypotheses) have been proposed. These hypotheses have guided clinical studies that led to the formulation of intervention strategies during the proposed window of opportunity dubbed as the &ldquo;first thousand days.&rdquo; The most significant intervention is a paradigm shift from allergen avoidance to early introduction of allergenic foods, particularly egg and peanut, around 6 months of age for the prevention of food allergy. This recommendation has been adopted globally and included in allergy prevention guidelines. Other strategies with less robust clinical evidence include: encouraging a healthy balanced diet, rich in fish, during pregnancy; continuing allergenic food intake during pregnancy and lactation; vitamin D supplementation in pregnant women with asthma; discouraging social indications for caesarean section delivery; judicious use of antibiotics in early childhood; daily emollient use from birth in high risk babies; and avoiding cow&rsquo;s milk formula use in the first week of life. However, if early supplementation with cow&rsquo;s milk formula is required, continuing at least 10 mL of formula daily until age 2 months may be considered. Translating these strategies to public health and clinical practice is still a work in progress. Long-term population studies are crucial to assess the feasibility of these measures on allergy prevention.</p>
 <p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
 <h5 id="big-differences-in-allergies-in-asian-children-singapore-australia">Big differences in allergies in Asian children: Singapore, Australia</h5>
-<p>||Health problem| Singapore|Australia</p>
-<p>Food allergy| 1.1% |15%</p>
-<p>Eczema–  early onset|8%|30%||</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Health problem</td>
+          <td>Singapore</td>
+          <td>Australia</td>
+      </tr>
+      <tr>
+          <td>Food allergy</td>
+          <td>1.1%</td>
+          <td>15%</td>
+      </tr>
+      <tr>
+          <td>Eczema–  early onset</td>
+          <td>8%</td>
+          <td>30%</td>
+      </tr>
+  </tbody>
+</table>
 <hr>
 <h4 id="vitamindwiki---a-hrefpostsallergy-overview-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-allergy---overviewallergy---overviewa">VitaminDWiki - <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a></h4>
 <hr>
@@ -323,7 +346,7 @@
 <h5 id="there-have-been--span-stylecolororange">There have been  <span style="color:orange;"></h5>
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14547{SQL} -->
 <p></span> visits to this page</p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -345,11 +368,11 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 ##### Big differences in allergies in Asian children: Singapore, Australia
 
-||Health problem| Singapore|Australia
-
-Food allergy| 1.1% |15%
-
-Eczema–  early onset|8%|30%||
+| | | |
+| --- | --- | --- |
+| Health problem |  Singapore | Australia |
+| Food allergy |  1.1%  | 15% |
+| Eczema–  early onset | 8% | 30% |
 
 ---
 
@@ -433,8 +456,86 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Big differences in allergies in Asian children: Singapore, Australia`
 │   │   inner_content: `Big differences in allergies in Asian children: Singapore, Australia`├── TextNode
-│   full_match: `\n||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`
-│   inner_content: `\n||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`├── HorizontalRuleNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`
+│   inner_content: `Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Health problem| Singapore|Australia`
+│   │   inner_content: `Health problem| Singapore|Australia`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Health problem`
+│   │   │   inner_content: `Health problem`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Health problem`
+│   │   │   │   inner_content: `Health problem`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Singapore`
+│   │   │   inner_content: ` Singapore`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Singapore`
+│   │   │   │   inner_content: ` Singapore`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Australia`
+│   │   │   inner_content: `Australia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Australia`
+│   │   │   │   inner_content: `Australia`
+│   ├── TableRowNode
+│   │   full_match: `Food allergy| 1.1% |15%`
+│   │   inner_content: `Food allergy| 1.1% |15%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Food allergy`
+│   │   │   inner_content: `Food allergy`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Food allergy`
+│   │   │   │   inner_content: `Food allergy`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 1.1% `
+│   │   │   inner_content: ` 1.1% `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 1.1% `
+│   │   │   │   inner_content: ` 1.1% `
+│   │   ├── TableCellNode
+│   │   │   full_match: `15%`
+│   │   │   inner_content: `15%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `15%`
+│   │   │   │   inner_content: `15%`
+│   ├── TableRowNode
+│   │   full_match: `Eczema–  early onset|8%|30%`
+│   │   inner_content: `Eczema–  early onset|8%|30%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Eczema–  early onset`
+│   │   │   inner_content: `Eczema–  early onset`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Eczema–  early onset`
+│   │   │   │   inner_content: `Eczema–  early onset`
+│   │   ├── TableCellNode
+│   │   │   full_match: `8%`
+│   │   │   inner_content: `8%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `8%`
+│   │   │   │   inner_content: `8%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `30%`
+│   │   │   inner_content: `30%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `30%`
+│   │   │   │   inner_content: `30%`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Allergy - Overview))`
@@ -545,7 +646,7 @@ Eczema–  early onset|8%|30%||
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -555,8 +656,8 @@ Eczema–  early onset|8%|30%||
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

@@ -20,7 +20,7 @@ date: 2023-03-27
 
 * Also:  **Maternal mortality**  in the U.S. [reached a high in 2021](https://www.npr.org/sections/health-shots/2023/03/16/1163786037/maternal-deaths-in-the-u-s-spiked-in-2021-cdc-reports).
 
-* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association %%% &nbsp;&nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
+* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association  &nbsp;&nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
 
 * "American  **children are less likely to live to age 5**  than children in other high-income countries," the authors write on the second page. It goes on: "Even Americans with healthy behaviors, 
 
@@ -30,7 +30,7 @@ date: 2023-03-27
 
 *  However, "the United States has higher survival after age 75 than do peer countries,..."
 
- **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.** 
+ **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
 
 #### Life Expectancy - unknown source Sept 2023
 
@@ -56,21 +56,18 @@ date: 2023-03-27
 
 #### Wikipedia [Life Expectancy](https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy) 2020
 
-||Japan|84.6|
-
-Iceland|83.1|
-
-UK|80.9|
-
-US|77.3|
-
-Saudi Arabia|76.6|[$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764)
-
-World|73.3| ||
+| | | |
+| --- | --- | --- |
+| Japan | 84.6 |  |
+| Iceland | 83.1 |  |
+| UK | 80.9 |  |
+| US | 77.3 |  |
+| Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
+| World | 73.3 |   |
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -86,7 +83,7 @@ Markdown:
 
 * Also:  **Maternal mortality**  in the U.S. [reached a high in 2021](https://www.npr.org/sections/health-shots/2023/03/16/1163786037/maternal-deaths-in-the-u-s-spiked-in-2021-cdc-reports).
 
-* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association %%% &amp;nbsp;&amp;nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
+* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association  &amp;nbsp;&amp;nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
 
 * &quot;American  **children are less likely to live to age 5**  than children in other high-income countries,&quot; the authors write on the second page. It goes on: &quot;Even Americans with healthy behaviors, 
 
@@ -96,7 +93,7 @@ Markdown:
 
 *  However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;
 
- **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.** 
+ **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
 
 #### Life Expectancy - unknown source Sept 2023
 
@@ -122,17 +119,14 @@ Markdown:
 
 #### Wikipedia [Life Expectancy](https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy) 2020
 
-||Japan|84.6|
-
-Iceland|83.1|
-
-UK|80.9|
-
-US|77.3|
-
-Saudi Arabia|76.6|[$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764)
-
-World|73.3| ||
+| | | |
+| --- | --- | --- |
+| Japan | 84.6 |  |
+| Iceland | 83.1 |  |
+| UK | 80.9 |  |
+| US | 77.3 |  |
+| Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
+| World | 73.3 |   |
 
 
 
@@ -238,8 +232,14 @@ AST Structure:
 │   │   │   full_match: `a paper`
 │   │   │   inner_content: `a paper`
 │   ├── TextNode
-│   │   full_match: ` in the Journal of the American Medical Association %%% `
-│   │   inner_content: ` in the Journal of the American Medical Association %%% `
+│   │   full_match: ` in the Journal of the American Medical Association `
+│   │   inner_content: ` in the Journal of the American Medical Association `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``
@@ -306,8 +306,14 @@ AST Structure:
 │   inner_content: `Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.`
-│   │   inner_content: `Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.`├── TextNode
+│   │   full_match: `Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. `
+│   │   inner_content: `Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `In many other countries a new drug must be more cost-effective than the existing drug.`
+│   │   inner_content: `In many other countries a new drug must be more cost-effective than the existing drug.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── HeadingNode
 │   full_match: `!!!!Life Expectancy - unknown source Sept 2023`
@@ -439,17 +445,154 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` 2020`
 │   │   inner_content: ` 2020`├── TextNode
-│   full_match: `\n||Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|`
-│   inner_content: `\n||Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|`├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
-│   inner_content: `$1bn/year funding to increase it`
-│   url: `https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| ||`
+│   inner_content: `Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| `
 │   children:
-│   ├── TextNode
-│   │   full_match: `$1bn/year funding to increase it`
-│   │   inner_content: `$1bn/year funding to increase it`├── TextNode
-│   full_match: `\nWorld|73.3| ||\n`
-│   inner_content: `\nWorld|73.3| ||\n`
+│   ├── TableRowNode
+│   │   full_match: `Japan|84.6|`
+│   │   inner_content: `Japan|84.6|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Japan`
+│   │   │   inner_content: `Japan`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Japan`
+│   │   │   │   inner_content: `Japan`
+│   │   ├── TableCellNode
+│   │   │   full_match: `84.6`
+│   │   │   inner_content: `84.6`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `84.6`
+│   │   │   │   inner_content: `84.6`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `Iceland|83.1|`
+│   │   inner_content: `Iceland|83.1|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Iceland`
+│   │   │   inner_content: `Iceland`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Iceland`
+│   │   │   │   inner_content: `Iceland`
+│   │   ├── TableCellNode
+│   │   │   full_match: `83.1`
+│   │   │   inner_content: `83.1`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `83.1`
+│   │   │   │   inner_content: `83.1`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `UK|80.9|`
+│   │   inner_content: `UK|80.9|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `UK`
+│   │   │   inner_content: `UK`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `UK`
+│   │   │   │   inner_content: `UK`
+│   │   ├── TableCellNode
+│   │   │   full_match: `80.9`
+│   │   │   inner_content: `80.9`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `80.9`
+│   │   │   │   inner_content: `80.9`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `US|77.3|`
+│   │   inner_content: `US|77.3|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `US`
+│   │   │   inner_content: `US`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `US`
+│   │   │   │   inner_content: `US`
+│   │   ├── TableCellNode
+│   │   │   full_match: `77.3`
+│   │   │   inner_content: `77.3`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `77.3`
+│   │   │   │   inner_content: `77.3`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `Saudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   inner_content: `Saudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Saudi Arabia`
+│   │   │   inner_content: `Saudi Arabia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Saudi Arabia`
+│   │   │   │   inner_content: `Saudi Arabia`
+│   │   ├── TableCellNode
+│   │   │   full_match: `76.6`
+│   │   │   inner_content: `76.6`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `76.6`
+│   │   │   │   inner_content: `76.6`
+│   │   ├── TableCellNode
+│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$1bn/year funding to increase it]`
+│   │   │   inner_content: `$1bn/year funding to increase it]`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$1bn/year funding to increase it]`
+│   │   │   │   inner_content: `$1bn/year funding to increase it]`
+│   ├── TableRowNode
+│   │   full_match: `World|73.3| `
+│   │   inner_content: `World|73.3| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `World`
+│   │   │   inner_content: `World`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `World`
+│   │   │   │   inner_content: `World`
+│   │   ├── TableCellNode
+│   │   │   full_match: `73.3`
+│   │   │   inner_content: `73.3`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `73.3`
+│   │   │   │   inner_content: `73.3`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
 
 Original Tiki:
 -------------

@@ -61,7 +61,7 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 <!-- ~tc~ (alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

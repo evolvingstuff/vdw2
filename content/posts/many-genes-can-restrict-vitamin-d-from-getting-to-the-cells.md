@@ -96,7 +96,7 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 #### It appears that 1/3 of people with Vitamin D diseases have a poor Vitamin d Receptor
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

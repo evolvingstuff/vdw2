@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Risk of Vitamin D deficiency with Breast Cancer: 2.7 X if normal weight, 7 X if obese (no surprise)</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -307,12 +307,32 @@
 <h4 id="post-diagnosis-serum-25-hydroxyvitamin-d-concentrations-in-women-treated-for-breast-cancer-participating-in-a-lifestyle-trial-in-italy">Post-diagnosis serum 25-hydroxyvitamin D concentrations in women treated for breast cancer participating in a lifestyle trial in Italy</h4>
 <p>Reumatismo  2024 Mar 22;76(1). <a href="https://doi.org/10.4081/reumatismo.2024.1632">doi: 10.4081/reumatismo.2024.1632</a> Italy</p>
 <p><strong>Risks for those not supplementing with Vitamin D</strong></p>
-<p>||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2</p>
-<p>25-30|2.68 X</p>
-<blockquote>
-<p>30|5.38 X</p>
-</blockquote>
-<p>≥35|7.08 X||</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>BMI</td>
+          <td>Risk of &lt;20 ng<br>vs  &lt;25 kg/m2</td>
+      </tr>
+      <tr>
+          <td>25-30</td>
+          <td>2.68 X</td>
+      </tr>
+      <tr>
+          <td>&gt;30</td>
+          <td>5.38 X</td>
+      </tr>
+      <tr>
+          <td>≥35</td>
+          <td>7.08 X</td>
+      </tr>
+  </tbody>
+</table>
 <p>Objective: To report cross-sectionally serum levels of 25-hydroxyvitamin D <span>[25(OH)D]</span> in women living in Italy within 12 months from breast cancer (BC) diagnosis.</p>
 <p>Methods: Baseline data were obtained from 394 women diagnosed with primary BC, enrolled from 2016 to 2019 in a lifestyle trial conducted in Italy. Subjects&rsquo; characteristics were compared between two 25(OH)D concentrations (hypovitaminosis D&lt;20 and ≥20 ng/mL) with the Chi-squared test or Fisher&rsquo;s exact test for small-expected counts. Using multiple logistic regression-adjusted models, we estimated odds ratios (ORs) of hypovitaminosis D with 95% confidence intervals (CIs) in the total sample and in the unsupplemented subgroup.</p>
 <p>Results: Hypovitaminosis D was found in 39% of all subjects, 60% in unsupplemented subjects, and 10% in supplemented subjects. Increasing ORs of hypovitaminosis D were found with increasing body mass index, 25-30, &gt;30, and ≥35 versus &lt;25 kg/m2 (ORs: 2.50, 4.64, and 5.81, respectively, in the total cohort and ORs: 2.68, 5.38, and 7.08 in the unsupplemented); living in the most southern Italian region (OR 2.50, 95%CI 1.22-5.13); and with hypertriglyceridemia (OR 2.46; 95%CI 1.16-5.22), chemotherapy history (OR 1.86, 95%CI 1.03-3.38), and inversely with anti-estrogenic therapy (OR 0.43, 95%CI 0.24-0.75) in the total sample.</p>
@@ -329,7 +349,7 @@
 <pre><code>   studies in both categories Obesity and Dark Skin** 
 </code></pre>
 <p>This list is automatically updated</p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -344,13 +364,12 @@ Reumatismo  2024 Mar 22;76(1). [doi: 10.4081/reumatismo.2024.1632](https://doi.o
 
  **Risks for those not supplementing with Vitamin D** 
 
-||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 
-
-25-30|2.68 X
-
-&gt;30|5.38 X
-
-≥35|7.08 X||
+| | |
+| --- | --- |
+| BMI | Risk of &lt;20 ng&lt;br&gt;vs  &lt;25 kg/m2  |
+| 25-30 | 2.68 X |
+| &gt;30 | 5.38 X |
+| ≥35 | 7.08 X |
 
 Objective: To report cross-sectionally serum levels of 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; in women living in Italy within 12 months from breast cancer (BC) diagnosis.
 
@@ -427,8 +446,93 @@ AST Structure:
 │   │   style: font-size:18px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||\n`
-│   │   inner_content: `\n||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||`
+│   │   inner_content: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   inner_content: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `BMI`
+│   │   │   │   inner_content: `BMI`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `BMI`
+│   │   │   │   │   inner_content: `BMI`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   │   inner_content: `Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Risk of &lt;20 ng`
+│   │   │   │   │   inner_content: `Risk of &lt;20 ng`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `vs  &lt;25 kg/m2 `
+│   │   │   │   │   inner_content: `vs  &lt;25 kg/m2 `
+│   │   ├── TableRowNode
+│   │   │   full_match: `25-30|2.68 X`
+│   │   │   inner_content: `25-30|2.68 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `25-30`
+│   │   │   │   inner_content: `25-30`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `25-30`
+│   │   │   │   │   inner_content: `25-30`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2.68 X`
+│   │   │   │   inner_content: `2.68 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2.68 X`
+│   │   │   │   │   inner_content: `2.68 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt;30|5.38 X`
+│   │   │   inner_content: `&gt;30|5.38 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt;30`
+│   │   │   │   inner_content: `&gt;30`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt;30`
+│   │   │   │   │   inner_content: `&gt;30`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `5.38 X`
+│   │   │   │   inner_content: `5.38 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `5.38 X`
+│   │   │   │   │   inner_content: `5.38 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `≥35|7.08 X`
+│   │   │   inner_content: `≥35|7.08 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `≥35`
+│   │   │   │   inner_content: `≥35`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `≥35`
+│   │   │   │   │   inner_content: `≥35`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `7.08 X`
+│   │   │   │   inner_content: `7.08 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `7.08 X`
+│   │   │   │   │   inner_content: `7.08 X`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\n\nObjective: To report cross-sectionally serum levels of 25-hydroxyvitamin D `
 │   inner_content: `\n\nObjective: To report cross-sectionally serum levels of 25-hydroxyvitamin D `├── LinkNode
 │   full_match: `[25(OH)D]`
@@ -622,7 +726,7 @@ __VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -632,8 +736,8 @@ __VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

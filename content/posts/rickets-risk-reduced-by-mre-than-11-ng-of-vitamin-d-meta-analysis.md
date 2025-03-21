@@ -59,7 +59,7 @@ Conclusion: This systematic review and IPD meta-analysis suggests that from a pu
 <!-- ~tc~ (alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

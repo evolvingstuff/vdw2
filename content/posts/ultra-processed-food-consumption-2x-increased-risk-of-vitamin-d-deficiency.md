@@ -44,7 +44,7 @@ Although studies show that the intake of ultra-processed products (UPP) has a ne
 #### See also: [Ultra-processed foods associated with worse health and lower Vitamin D - several studies](/posts/ultra-processed-foods-associated-with-worse-health-and-lower-vitamin-d-several-studies)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

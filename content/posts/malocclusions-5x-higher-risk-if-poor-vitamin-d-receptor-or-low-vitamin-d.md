@@ -85,7 +85,7 @@ See also: <a href="/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitami
 <!-- ~tc~ (alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

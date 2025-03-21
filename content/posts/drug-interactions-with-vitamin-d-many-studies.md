@@ -8,7 +8,7 @@ date: 2024-02-18
 ---
 
 
- **Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%% <span style="color:orange;">Warning:</span> <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be amplified by vitamin D">Chemotherapy might be amplified by vitamin D</a> and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug** 
+ **Sometimes a drug reduces Vitamin D levels in the bloodScores of times Vitamin D will improve the a drug efficacy <span style="color:orange;">Warning:</span> <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be amplified by vitamin D">Chemotherapy might be amplified by vitamin D</a> and become deadlyIn rare cases Vitamin D reduces the benefit of a drug** 
 
 <!-- {maketoc Title=""} -->
 
@@ -38,63 +38,37 @@ date: 2024-02-18
 
 #### <a href="/posts/endocrine-disrupting-chemicals-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endocrine Disrupting Chemicals - book April 2019">Endocrine Disrupting Chemicals - book April 2019</a> contains:
 
-|| **Medication** | **Type** | **Effect on Vitamin D** 
-
-Metformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications
-
-Thiazolidinediones (TDZs)|Antidiabetic|Increases risk of  **bone**  loss, especially in women
-
-Thiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia
-
-Loop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D
-
-Potassium-Sparing Diuretics|Diuretic|Mixed findings
-
-Calcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency
-
-Angiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels
-
-Statins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use
-
-Bile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses
-
-Vitamin K Antagonists|Cardiovascular|May lower vitamin D levels
-
-Platelet Aggregation Inhibitors|Cardiovascular|Mixed findings
-
-Heparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin
-
-Digoxin|Cardiovascular|Linked to lower vitamin D
-
-Benzodiazepines|CNS|Linked to lower vitamin D
-
-Antidepressants (SSRIs)|CNS|Linked to lower vitamin D
-
-Enzyme-Inducing **antiepileptic**  Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency
-
-Newer **antiepileptic**  Drugs|CNS|Mixed findings; may lower  **bone**  mineral density and increase risk of fracture
-
-Proton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended
-
-Histamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings
-
-Lipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption
-
-Laxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia
-
-Corticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis
-
-Inhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact  **bone**  metabolism and  **bone**  mineral density, especially in those with COPD
-
-Hydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels
-
-Antimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use
-
-Sulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels
-
-Highly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D
-
-Chemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies||
+| | | |
+| --- | --- | --- |
+|  **Medication**  |  **Type**  |  **Effect on Vitamin D**  |
+| Metformin | Antidiabetic | May lower vitamin D levels, with other oral antidiabetic medications |
+| Thiazolidinediones (TDZs) | Antidiabetic | Increases risk of  **bone**  loss, especially in women |
+| Thiazide Diuretics | Diuretic | Potential increased risk of hypercalcemia |
+| Loop Diuretics | Diuretic | Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D |
+| Potassium-Sparing Diuretics | Diuretic | Mixed findings |
+| Calcium Channel Blockers | Cardiovascular | Increase risk of vitamin D deficiency |
+| Angiotensin-ConvertingEnzyme (ACE) Inhibitors | Cardiovascular | May lower vitamin D levels |
+| Statins | Cardiovascular | Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use |
+| Bile Acid Sequestrants | Cardiovascular | May decrease vitamin D absorption, increase risk of osteomalacia at certain doses |
+| Vitamin K Antagonists | Cardiovascular | May lower vitamin D levels |
+| Platelet Aggregation Inhibitors | Cardiovascular | Mixed findings |
+| Heparin | Cardiovascular | Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin |
+| Digoxin | Cardiovascular | Linked to lower vitamin D |
+| Benzodiazepines | CNS | Linked to lower vitamin D |
+| Antidepressants (SSRIs) | CNS | Linked to lower vitamin D |
+| Enzyme-Inducing **antiepileptic**  Drugs (AEDs) | CNS | Linked to lower vitamin D and vitamin D deficiency |
+| Newer **antiepileptic**  Drugs | CNS | Mixed findings; may lower  **bone**  mineral density and increase risk of fracture |
+| Proton Pump Inhibitors (PPIs) | Gastrointestinal | May increased risk of osteoporosis; vitamin D and calcium supplementation recommended |
+| Histamine H2-Receptor Antagonists | Gastrointestinal | May decrease vitamin D, mixed findings |
+| Lipase Inhibitors | Gastrointestinal | May inhibit vitamin D uptake and absorption |
+| Laxatives | Gastrointestinal | Reduce vitamin D absorption, may result in osteomalacia |
+| Corticosteroids | Anti-Inflammatory | May reduce vitamin D levels, increase risk of osteoporosis |
+| Inhaled Corticosteroids (ICS) | Anti-Inflammatory | Mixed findings; long term use may negatively impact  **bone**  metabolism and  **bone**  mineral density, especially in those with COPD |
+| Hydroxychloroquine | Anti-Inflammatory | May increase vitamin D levels |
+| Antimicrobials | Anti-infectives/<br>Antivirals | May decrease vitamin D; increased risk of osteomalacia with prolonged use |
+| Sulphonamides and Urea Derivatives | Anti-infectives/<br>Antivirals | Lower vitamin D levels |
+| Highly Active Antiretroviral Therapy (HAART) | Anti-infectives/<br>Antivirals | Mixed findings, may lower vitamin D |
+| Chemotherapeutic Agents | Cancer | May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies |
 
 CNS = Central Nervous System
 
@@ -694,11 +668,11 @@ Given that the quality of the data is heterogeneous, newer, more robustly design
 
  
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%% &lt;span style=&quot;color:orange;&quot;&gt;Warning:&lt;/span&gt; &lt;a href=&quot;/posts/chemotherapy-might-be-amplified-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chemotherapy might be amplified by vitamin D&quot;&gt;Chemotherapy might be amplified by vitamin D&lt;/a&gt; and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug** 
+ **Sometimes a drug reduces Vitamin D levels in the bloodScores of times Vitamin D will improve the a drug efficacy &lt;span style=&quot;color:orange;&quot;&gt;Warning:&lt;/span&gt; &lt;a href=&quot;/posts/chemotherapy-might-be-amplified-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chemotherapy might be amplified by vitamin D&quot;&gt;Chemotherapy might be amplified by vitamin D&lt;/a&gt; and become deadlyIn rare cases Vitamin D reduces the benefit of a drug** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -728,63 +702,37 @@ Markdown:
 
 #### &lt;a href=&quot;/posts/endocrine-disrupting-chemicals-book&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Endocrine Disrupting Chemicals - book April 2019&quot;&gt;Endocrine Disrupting Chemicals - book April 2019&lt;/a&gt; contains:
 
-|| **Medication** | **Type** | **Effect on Vitamin D** 
-
-Metformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications
-
-Thiazolidinediones (TDZs)|Antidiabetic|Increases risk of  **bone**  loss, especially in women
-
-Thiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia
-
-Loop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D
-
-Potassium-Sparing Diuretics|Diuretic|Mixed findings
-
-Calcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency
-
-Angiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels
-
-Statins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use
-
-Bile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses
-
-Vitamin K Antagonists|Cardiovascular|May lower vitamin D levels
-
-Platelet Aggregation Inhibitors|Cardiovascular|Mixed findings
-
-Heparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin
-
-Digoxin|Cardiovascular|Linked to lower vitamin D
-
-Benzodiazepines|CNS|Linked to lower vitamin D
-
-Antidepressants (SSRIs)|CNS|Linked to lower vitamin D
-
-Enzyme-Inducing **antiepileptic**  Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency
-
-Newer **antiepileptic**  Drugs|CNS|Mixed findings; may lower  **bone**  mineral density and increase risk of fracture
-
-Proton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended
-
-Histamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings
-
-Lipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption
-
-Laxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia
-
-Corticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis
-
-Inhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact  **bone**  metabolism and  **bone**  mineral density, especially in those with COPD
-
-Hydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels
-
-Antimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use
-
-Sulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels
-
-Highly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D
-
-Chemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies||
+| | | |
+| --- | --- | --- |
+|  **Medication**  |  **Type**  |  **Effect on Vitamin D**  |
+| Metformin | Antidiabetic | May lower vitamin D levels, with other oral antidiabetic medications |
+| Thiazolidinediones (TDZs) | Antidiabetic | Increases risk of  **bone**  loss, especially in women |
+| Thiazide Diuretics | Diuretic | Potential increased risk of hypercalcemia |
+| Loop Diuretics | Diuretic | Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D |
+| Potassium-Sparing Diuretics | Diuretic | Mixed findings |
+| Calcium Channel Blockers | Cardiovascular | Increase risk of vitamin D deficiency |
+| Angiotensin-ConvertingEnzyme (ACE) Inhibitors | Cardiovascular | May lower vitamin D levels |
+| Statins | Cardiovascular | Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use |
+| Bile Acid Sequestrants | Cardiovascular | May decrease vitamin D absorption, increase risk of osteomalacia at certain doses |
+| Vitamin K Antagonists | Cardiovascular | May lower vitamin D levels |
+| Platelet Aggregation Inhibitors | Cardiovascular | Mixed findings |
+| Heparin | Cardiovascular | Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin |
+| Digoxin | Cardiovascular | Linked to lower vitamin D |
+| Benzodiazepines | CNS | Linked to lower vitamin D |
+| Antidepressants (SSRIs) | CNS | Linked to lower vitamin D |
+| Enzyme-Inducing **antiepileptic**  Drugs (AEDs) | CNS | Linked to lower vitamin D and vitamin D deficiency |
+| Newer **antiepileptic**  Drugs | CNS | Mixed findings; may lower  **bone**  mineral density and increase risk of fracture |
+| Proton Pump Inhibitors (PPIs) | Gastrointestinal | May increased risk of osteoporosis; vitamin D and calcium supplementation recommended |
+| Histamine H2-Receptor Antagonists | Gastrointestinal | May decrease vitamin D, mixed findings |
+| Lipase Inhibitors | Gastrointestinal | May inhibit vitamin D uptake and absorption |
+| Laxatives | Gastrointestinal | Reduce vitamin D absorption, may result in osteomalacia |
+| Corticosteroids | Anti-Inflammatory | May reduce vitamin D levels, increase risk of osteoporosis |
+| Inhaled Corticosteroids (ICS) | Anti-Inflammatory | Mixed findings; long term use may negatively impact  **bone**  metabolism and  **bone**  mineral density, especially in those with COPD |
+| Hydroxychloroquine | Anti-Inflammatory | May increase vitamin D levels |
+| Antimicrobials | Anti-infectives/&lt;br&gt;Antivirals | May decrease vitamin D; increased risk of osteomalacia with prolonged use |
+| Sulphonamides and Urea Derivatives | Anti-infectives/&lt;br&gt;Antivirals | Lower vitamin D levels |
+| Highly Active Antiretroviral Therapy (HAART) | Anti-infectives/&lt;br&gt;Antivirals | Mixed findings, may lower vitamin D |
+| Chemotherapeutic Agents | Cancer | May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies |
 
 CNS = Central Nervous System
 
@@ -1398,8 +1346,17 @@ AST Structure:
 │   │   inner_content: ` Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%%~~#F06:Warning:~~ ((Chemotherapy might be amplified by vitamin D)) and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%%`
-│   │   │   inner_content: ` Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%%`
+│   │   │   full_match: ` Sometimes a drug reduces Vitamin D levels in the blood`
+│   │   │   inner_content: ` Sometimes a drug reduces Vitamin D levels in the blood`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Scores of times Vitamin D will improve the a drug efficacy`
+│   │   │   inner_content: `Scores of times Vitamin D will improve the a drug efficacy`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#F06:Warning:~~`
 │   │   │   inner_content: `Warning:`
@@ -1421,8 +1378,14 @@ AST Structure:
 │   │   │   │   full_match: `Chemotherapy might be amplified by vitamin D`
 │   │   │   │   inner_content: `Chemotherapy might be amplified by vitamin D`
 │   │   ├── TextNode
-│   │   │   full_match: ` and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug`
-│   │   │   inner_content: ` and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug`├── TextNode
+│   │   │   full_match: ` and become deadly`
+│   │   │   inner_content: ` and become deadly`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `In rare cases Vitamin D reduces the benefit of a drug`
+│   │   │   inner_content: `In rare cases Vitamin D reduces the benefit of a drug`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;[div]lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -1554,80 +1517,828 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` contains:`
 │   │   inner_content: ` contains:`├── TextNode
-│   full_match: `\n||`
-│   inner_content: `\n||`├── BoldNode
-│   full_match: `__Medication__`
-│   inner_content: `Medication`
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||__Medication__|__Type__|__Effect on Vitamin D__\nMetformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications\nThiazolidinediones (TDZs)|Antidiabetic|Increases risk of __bone__ loss, especially in women\nThiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia\nLoop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D\nPotassium-Sparing Diuretics|Diuretic|Mixed findings\nCalcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency\nAngiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels\nStatins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use\nBile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses\nVitamin K Antagonists|Cardiovascular|May lower vitamin D levels\nPlatelet Aggregation Inhibitors|Cardiovascular|Mixed findings\nHeparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin\nDigoxin|Cardiovascular|Linked to lower vitamin D\nBenzodiazepines|CNS|Linked to lower vitamin D\nAntidepressants (SSRIs)|CNS|Linked to lower vitamin D\nEnzyme-Inducing__antiepileptic__ Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency\nNewer__antiepileptic__ Drugs|CNS|Mixed findings; may lower __bone__ mineral density and increase risk of fracture\nProton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended\nHistamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings\nLipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption\nLaxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia\nCorticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis\nInhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD\nHydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels\nAntimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use\nSulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels\nHighly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D\nChemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies||`
+│   inner_content: `__Medication__|__Type__|__Effect on Vitamin D__\nMetformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications\nThiazolidinediones (TDZs)|Antidiabetic|Increases risk of __bone__ loss, especially in women\nThiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia\nLoop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D\nPotassium-Sparing Diuretics|Diuretic|Mixed findings\nCalcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency\nAngiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels\nStatins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use\nBile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses\nVitamin K Antagonists|Cardiovascular|May lower vitamin D levels\nPlatelet Aggregation Inhibitors|Cardiovascular|Mixed findings\nHeparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin\nDigoxin|Cardiovascular|Linked to lower vitamin D\nBenzodiazepines|CNS|Linked to lower vitamin D\nAntidepressants (SSRIs)|CNS|Linked to lower vitamin D\nEnzyme-Inducing__antiepileptic__ Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency\nNewer__antiepileptic__ Drugs|CNS|Mixed findings; may lower __bone__ mineral density and increase risk of fracture\nProton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended\nHistamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings\nLipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption\nLaxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia\nCorticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis\nInhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD\nHydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels\nAntimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use\nSulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels\nHighly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D\nChemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
 │   children:
-│   ├── TextNode
-│   │   full_match: `Medication`
-│   │   inner_content: `Medication`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Type__`
-│   inner_content: `Type`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Type`
-│   │   inner_content: `Type`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Effect on Vitamin D__`
-│   inner_content: `Effect on Vitamin D`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Effect on Vitamin D`
-│   │   inner_content: `Effect on Vitamin D`├── TextNode
-│   full_match: `\nMetformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications\nThiazolidinediones (TDZs)|Antidiabetic|Increases risk of `
-│   inner_content: `\nMetformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications\nThiazolidinediones (TDZs)|Antidiabetic|Increases risk of `├── BoldNode
-│   full_match: `__bone__`
-│   inner_content: `bone`
-│   children:
-│   ├── TextNode
-│   │   full_match: `bone`
-│   │   inner_content: `bone`├── TextNode
-│   full_match: ` loss, especially in women\nThiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia\nLoop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D\nPotassium-Sparing Diuretics|Diuretic|Mixed findings\nCalcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency\nAngiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels\nStatins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use\nBile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses\nVitamin K Antagonists|Cardiovascular|May lower vitamin D levels\nPlatelet Aggregation Inhibitors|Cardiovascular|Mixed findings\nHeparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin\nDigoxin|Cardiovascular|Linked to lower vitamin D\nBenzodiazepines|CNS|Linked to lower vitamin D\nAntidepressants (SSRIs)|CNS|Linked to lower vitamin D\nEnzyme-Inducing`
-│   inner_content: ` loss, especially in women\nThiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia\nLoop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D\nPotassium-Sparing Diuretics|Diuretic|Mixed findings\nCalcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency\nAngiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels\nStatins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use\nBile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses\nVitamin K Antagonists|Cardiovascular|May lower vitamin D levels\nPlatelet Aggregation Inhibitors|Cardiovascular|Mixed findings\nHeparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin\nDigoxin|Cardiovascular|Linked to lower vitamin D\nBenzodiazepines|CNS|Linked to lower vitamin D\nAntidepressants (SSRIs)|CNS|Linked to lower vitamin D\nEnzyme-Inducing`├── BoldNode
-│   full_match: `__antiepileptic__`
-│   inner_content: `antiepileptic`
-│   children:
-│   ├── TextNode
-│   │   full_match: `antiepileptic`
-│   │   inner_content: `antiepileptic`├── TextNode
-│   full_match: ` Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency\nNewer`
-│   inner_content: ` Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency\nNewer`├── BoldNode
-│   full_match: `__antiepileptic__`
-│   inner_content: `antiepileptic`
-│   children:
-│   ├── TextNode
-│   │   full_match: `antiepileptic`
-│   │   inner_content: `antiepileptic`├── TextNode
-│   full_match: ` Drugs|CNS|Mixed findings; may lower `
-│   inner_content: ` Drugs|CNS|Mixed findings; may lower `├── BoldNode
-│   full_match: `__bone__`
-│   inner_content: `bone`
-│   children:
-│   ├── TextNode
-│   │   full_match: `bone`
-│   │   inner_content: `bone`├── TextNode
-│   full_match: ` mineral density and increase risk of fracture\nProton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended\nHistamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings\nLipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption\nLaxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia\nCorticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis\nInhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact `
-│   inner_content: ` mineral density and increase risk of fracture\nProton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended\nHistamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings\nLipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption\nLaxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia\nCorticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis\nInhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact `├── BoldNode
-│   full_match: `__bone__`
-│   inner_content: `bone`
-│   children:
-│   ├── TextNode
-│   │   full_match: `bone`
-│   │   inner_content: `bone`├── TextNode
-│   full_match: ` metabolism and `
-│   inner_content: ` metabolism and `├── BoldNode
-│   full_match: `__bone__`
-│   inner_content: `bone`
-│   children:
-│   ├── TextNode
-│   │   full_match: `bone`
-│   │   inner_content: `bone`├── TextNode
-│   full_match: ` mineral density, especially in those with COPD\nHydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels\nAntimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use\nSulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels\nHighly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D\nChemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies||\nCNS = Central Nervous System`
-│   inner_content: ` mineral density, especially in those with COPD\nHydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels\nAntimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use\nSulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels\nHighly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D\nChemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies||\nCNS = Central Nervous System`├── HorizontalRuleNode
+│   ├── TableRowNode
+│   │   full_match: `__Medication__|__Type__|__Effect on Vitamin D__`
+│   │   inner_content: `__Medication__|__Type__|__Effect on Vitamin D__`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Medication__`
+│   │   │   inner_content: `__Medication__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Medication__`
+│   │   │   │   inner_content: `Medication`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Medication`
+│   │   │   │   │   inner_content: `Medication`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Type__`
+│   │   │   inner_content: `__Type__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Type__`
+│   │   │   │   inner_content: `Type`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Type`
+│   │   │   │   │   inner_content: `Type`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Effect on Vitamin D__`
+│   │   │   inner_content: `__Effect on Vitamin D__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Effect on Vitamin D__`
+│   │   │   │   inner_content: `Effect on Vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Effect on Vitamin D`
+│   │   │   │   │   inner_content: `Effect on Vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `Metformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications`
+│   │   inner_content: `Metformin|Antidiabetic|May lower vitamin D levels, with other oral antidiabetic medications`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Metformin`
+│   │   │   inner_content: `Metformin`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Metformin`
+│   │   │   │   inner_content: `Metformin`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Antidiabetic`
+│   │   │   inner_content: `Antidiabetic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antidiabetic`
+│   │   │   │   inner_content: `Antidiabetic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May lower vitamin D levels, with other oral antidiabetic medications`
+│   │   │   inner_content: `May lower vitamin D levels, with other oral antidiabetic medications`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May lower vitamin D levels, with other oral antidiabetic medications`
+│   │   │   │   inner_content: `May lower vitamin D levels, with other oral antidiabetic medications`
+│   ├── TableRowNode
+│   │   full_match: `Thiazolidinediones (TDZs)|Antidiabetic|Increases risk of __bone__ loss, especially in women`
+│   │   inner_content: `Thiazolidinediones (TDZs)|Antidiabetic|Increases risk of __bone__ loss, especially in women`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Thiazolidinediones (TDZs)`
+│   │   │   inner_content: `Thiazolidinediones (TDZs)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Thiazolidinediones (TDZs)`
+│   │   │   │   inner_content: `Thiazolidinediones (TDZs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Antidiabetic`
+│   │   │   inner_content: `Antidiabetic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antidiabetic`
+│   │   │   │   inner_content: `Antidiabetic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Increases risk of __bone__ loss, especially in women`
+│   │   │   inner_content: `Increases risk of __bone__ loss, especially in women`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Increases risk of `
+│   │   │   │   inner_content: `Increases risk of `
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__bone__`
+│   │   │   │   inner_content: `bone`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `bone`
+│   │   │   │   │   inner_content: `bone`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` loss, especially in women`
+│   │   │   │   inner_content: ` loss, especially in women`
+│   ├── TableRowNode
+│   │   full_match: `Thiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia`
+│   │   inner_content: `Thiazide Diuretics|Diuretic|Potential increased risk of hypercalcemia`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Thiazide Diuretics`
+│   │   │   inner_content: `Thiazide Diuretics`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Thiazide Diuretics`
+│   │   │   │   inner_content: `Thiazide Diuretics`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Diuretic`
+│   │   │   inner_content: `Diuretic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Diuretic`
+│   │   │   │   inner_content: `Diuretic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Potential increased risk of hypercalcemia`
+│   │   │   inner_content: `Potential increased risk of hypercalcemia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Potential increased risk of hypercalcemia`
+│   │   │   │   inner_content: `Potential increased risk of hypercalcemia`
+│   ├── TableRowNode
+│   │   full_match: `Loop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   │   inner_content: `Loop Diuretics|Diuretic|Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Loop Diuretics`
+│   │   │   inner_content: `Loop Diuretics`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Loop Diuretics`
+│   │   │   │   inner_content: `Loop Diuretics`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Diuretic`
+│   │   │   inner_content: `Diuretic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Diuretic`
+│   │   │   │   inner_content: `Diuretic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   │   │   inner_content: `Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   │   │   │   inner_content: `Potential increased risk of hyperparathyroidism and increased conversion of 25(OH)D to 1,25(OH)2D`
+│   ├── TableRowNode
+│   │   full_match: `Potassium-Sparing Diuretics|Diuretic|Mixed findings`
+│   │   inner_content: `Potassium-Sparing Diuretics|Diuretic|Mixed findings`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Potassium-Sparing Diuretics`
+│   │   │   inner_content: `Potassium-Sparing Diuretics`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Potassium-Sparing Diuretics`
+│   │   │   │   inner_content: `Potassium-Sparing Diuretics`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Diuretic`
+│   │   │   inner_content: `Diuretic`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Diuretic`
+│   │   │   │   inner_content: `Diuretic`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings`
+│   │   │   inner_content: `Mixed findings`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings`
+│   │   │   │   inner_content: `Mixed findings`
+│   ├── TableRowNode
+│   │   full_match: `Calcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency`
+│   │   inner_content: `Calcium Channel Blockers|Cardiovascular|Increase risk of vitamin D deficiency`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Calcium Channel Blockers`
+│   │   │   inner_content: `Calcium Channel Blockers`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Calcium Channel Blockers`
+│   │   │   │   inner_content: `Calcium Channel Blockers`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Increase risk of vitamin D deficiency`
+│   │   │   inner_content: `Increase risk of vitamin D deficiency`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Increase risk of vitamin D deficiency`
+│   │   │   │   inner_content: `Increase risk of vitamin D deficiency`
+│   ├── TableRowNode
+│   │   full_match: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels`
+│   │   inner_content: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors|Cardiovascular|May lower vitamin D levels`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors`
+│   │   │   inner_content: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors`
+│   │   │   │   inner_content: `Angiotensin-ConvertingEnzyme (ACE) Inhibitors`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May lower vitamin D levels`
+│   │   │   inner_content: `May lower vitamin D levels`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May lower vitamin D levels`
+│   │   │   │   inner_content: `May lower vitamin D levels`
+│   ├── TableRowNode
+│   │   full_match: `Statins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   │   inner_content: `Statins|Cardiovascular|Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Statins`
+│   │   │   inner_content: `Statins`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Statins`
+│   │   │   │   inner_content: `Statins`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   │   │   inner_content: `Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   │   │   │   inner_content: `Mixed findings; some have shown increased vitamin D levels while others have found decreased levels with statin use`
+│   ├── TableRowNode
+│   │   full_match: `Bile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   │   inner_content: `Bile Acid Sequestrants|Cardiovascular|May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Bile Acid Sequestrants`
+│   │   │   inner_content: `Bile Acid Sequestrants`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Bile Acid Sequestrants`
+│   │   │   │   inner_content: `Bile Acid Sequestrants`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   │   │   inner_content: `May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   │   │   │   inner_content: `May decrease vitamin D absorption, increase risk of osteomalacia at certain doses`
+│   ├── TableRowNode
+│   │   full_match: `Vitamin K Antagonists|Cardiovascular|May lower vitamin D levels`
+│   │   inner_content: `Vitamin K Antagonists|Cardiovascular|May lower vitamin D levels`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin K Antagonists`
+│   │   │   inner_content: `Vitamin K Antagonists`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin K Antagonists`
+│   │   │   │   inner_content: `Vitamin K Antagonists`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May lower vitamin D levels`
+│   │   │   inner_content: `May lower vitamin D levels`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May lower vitamin D levels`
+│   │   │   │   inner_content: `May lower vitamin D levels`
+│   ├── TableRowNode
+│   │   full_match: `Platelet Aggregation Inhibitors|Cardiovascular|Mixed findings`
+│   │   inner_content: `Platelet Aggregation Inhibitors|Cardiovascular|Mixed findings`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Platelet Aggregation Inhibitors`
+│   │   │   inner_content: `Platelet Aggregation Inhibitors`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Platelet Aggregation Inhibitors`
+│   │   │   │   inner_content: `Platelet Aggregation Inhibitors`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings`
+│   │   │   inner_content: `Mixed findings`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings`
+│   │   │   │   inner_content: `Mixed findings`
+│   ├── TableRowNode
+│   │   full_match: `Heparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   │   inner_content: `Heparin|Cardiovascular|Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Heparin`
+│   │   │   inner_content: `Heparin`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Heparin`
+│   │   │   │   inner_content: `Heparin`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   │   │   inner_content: `Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   │   │   │   inner_content: `Negatively affects vitamin D metabolism, increases risk of osteoporotic fractures, especially seen with unfractionated heparin`
+│   ├── TableRowNode
+│   │   full_match: `Digoxin|Cardiovascular|Linked to lower vitamin D`
+│   │   inner_content: `Digoxin|Cardiovascular|Linked to lower vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Digoxin`
+│   │   │   inner_content: `Digoxin`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Digoxin`
+│   │   │   │   inner_content: `Digoxin`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cardiovascular`
+│   │   │   │   inner_content: `Cardiovascular`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   inner_content: `Linked to lower vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   │   inner_content: `Linked to lower vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `Benzodiazepines|CNS|Linked to lower vitamin D`
+│   │   inner_content: `Benzodiazepines|CNS|Linked to lower vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Benzodiazepines`
+│   │   │   inner_content: `Benzodiazepines`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Benzodiazepines`
+│   │   │   │   inner_content: `Benzodiazepines`
+│   │   ├── TableCellNode
+│   │   │   full_match: `CNS`
+│   │   │   inner_content: `CNS`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `CNS`
+│   │   │   │   inner_content: `CNS`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   inner_content: `Linked to lower vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   │   inner_content: `Linked to lower vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `Antidepressants (SSRIs)|CNS|Linked to lower vitamin D`
+│   │   inner_content: `Antidepressants (SSRIs)|CNS|Linked to lower vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Antidepressants (SSRIs)`
+│   │   │   inner_content: `Antidepressants (SSRIs)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antidepressants (SSRIs)`
+│   │   │   │   inner_content: `Antidepressants (SSRIs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `CNS`
+│   │   │   inner_content: `CNS`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `CNS`
+│   │   │   │   inner_content: `CNS`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   inner_content: `Linked to lower vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Linked to lower vitamin D`
+│   │   │   │   inner_content: `Linked to lower vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `Enzyme-Inducing__antiepileptic__ Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency`
+│   │   inner_content: `Enzyme-Inducing__antiepileptic__ Drugs (AEDs)|CNS|Linked to lower vitamin D and vitamin D deficiency`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Enzyme-Inducing__antiepileptic__ Drugs (AEDs)`
+│   │   │   inner_content: `Enzyme-Inducing__antiepileptic__ Drugs (AEDs)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Enzyme-Inducing`
+│   │   │   │   inner_content: `Enzyme-Inducing`
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__antiepileptic__`
+│   │   │   │   inner_content: `antiepileptic`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `antiepileptic`
+│   │   │   │   │   inner_content: `antiepileptic`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Drugs (AEDs)`
+│   │   │   │   inner_content: ` Drugs (AEDs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `CNS`
+│   │   │   inner_content: `CNS`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `CNS`
+│   │   │   │   inner_content: `CNS`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Linked to lower vitamin D and vitamin D deficiency`
+│   │   │   inner_content: `Linked to lower vitamin D and vitamin D deficiency`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Linked to lower vitamin D and vitamin D deficiency`
+│   │   │   │   inner_content: `Linked to lower vitamin D and vitamin D deficiency`
+│   ├── TableRowNode
+│   │   full_match: `Newer__antiepileptic__ Drugs|CNS|Mixed findings; may lower __bone__ mineral density and increase risk of fracture`
+│   │   inner_content: `Newer__antiepileptic__ Drugs|CNS|Mixed findings; may lower __bone__ mineral density and increase risk of fracture`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Newer__antiepileptic__ Drugs`
+│   │   │   inner_content: `Newer__antiepileptic__ Drugs`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Newer`
+│   │   │   │   inner_content: `Newer`
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__antiepileptic__`
+│   │   │   │   inner_content: `antiepileptic`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `antiepileptic`
+│   │   │   │   │   inner_content: `antiepileptic`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Drugs`
+│   │   │   │   inner_content: ` Drugs`
+│   │   ├── TableCellNode
+│   │   │   full_match: `CNS`
+│   │   │   inner_content: `CNS`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `CNS`
+│   │   │   │   inner_content: `CNS`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings; may lower __bone__ mineral density and increase risk of fracture`
+│   │   │   inner_content: `Mixed findings; may lower __bone__ mineral density and increase risk of fracture`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings; may lower `
+│   │   │   │   inner_content: `Mixed findings; may lower `
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__bone__`
+│   │   │   │   inner_content: `bone`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `bone`
+│   │   │   │   │   inner_content: `bone`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` mineral density and increase risk of fracture`
+│   │   │   │   inner_content: ` mineral density and increase risk of fracture`
+│   ├── TableRowNode
+│   │   full_match: `Proton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   │   inner_content: `Proton Pump Inhibitors (PPIs)|Gastrointestinal|May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Proton Pump Inhibitors (PPIs)`
+│   │   │   inner_content: `Proton Pump Inhibitors (PPIs)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Proton Pump Inhibitors (PPIs)`
+│   │   │   │   inner_content: `Proton Pump Inhibitors (PPIs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Gastrointestinal`
+│   │   │   inner_content: `Gastrointestinal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Gastrointestinal`
+│   │   │   │   inner_content: `Gastrointestinal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   │   │   inner_content: `May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   │   │   │   inner_content: `May increased risk of osteoporosis; vitamin D and calcium supplementation recommended`
+│   ├── TableRowNode
+│   │   full_match: `Histamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings`
+│   │   inner_content: `Histamine H2-Receptor Antagonists|Gastrointestinal|May decrease vitamin D, mixed findings`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Histamine H2-Receptor Antagonists`
+│   │   │   inner_content: `Histamine H2-Receptor Antagonists`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Histamine H2-Receptor Antagonists`
+│   │   │   │   inner_content: `Histamine H2-Receptor Antagonists`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Gastrointestinal`
+│   │   │   inner_content: `Gastrointestinal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Gastrointestinal`
+│   │   │   │   inner_content: `Gastrointestinal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May decrease vitamin D, mixed findings`
+│   │   │   inner_content: `May decrease vitamin D, mixed findings`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May decrease vitamin D, mixed findings`
+│   │   │   │   inner_content: `May decrease vitamin D, mixed findings`
+│   ├── TableRowNode
+│   │   full_match: `Lipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption`
+│   │   inner_content: `Lipase Inhibitors|Gastrointestinal|May inhibit vitamin D uptake and absorption`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Lipase Inhibitors`
+│   │   │   inner_content: `Lipase Inhibitors`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Lipase Inhibitors`
+│   │   │   │   inner_content: `Lipase Inhibitors`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Gastrointestinal`
+│   │   │   inner_content: `Gastrointestinal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Gastrointestinal`
+│   │   │   │   inner_content: `Gastrointestinal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May inhibit vitamin D uptake and absorption`
+│   │   │   inner_content: `May inhibit vitamin D uptake and absorption`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May inhibit vitamin D uptake and absorption`
+│   │   │   │   inner_content: `May inhibit vitamin D uptake and absorption`
+│   ├── TableRowNode
+│   │   full_match: `Laxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia`
+│   │   inner_content: `Laxatives|Gastrointestinal|Reduce vitamin D absorption, may result in osteomalacia`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Laxatives`
+│   │   │   inner_content: `Laxatives`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Laxatives`
+│   │   │   │   inner_content: `Laxatives`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Gastrointestinal`
+│   │   │   inner_content: `Gastrointestinal`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Gastrointestinal`
+│   │   │   │   inner_content: `Gastrointestinal`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Reduce vitamin D absorption, may result in osteomalacia`
+│   │   │   inner_content: `Reduce vitamin D absorption, may result in osteomalacia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Reduce vitamin D absorption, may result in osteomalacia`
+│   │   │   │   inner_content: `Reduce vitamin D absorption, may result in osteomalacia`
+│   ├── TableRowNode
+│   │   full_match: `Corticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis`
+│   │   inner_content: `Corticosteroids|Anti-Inflammatory|May reduce vitamin D levels, increase risk of osteoporosis`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Corticosteroids`
+│   │   │   inner_content: `Corticosteroids`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Corticosteroids`
+│   │   │   │   inner_content: `Corticosteroids`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-Inflammatory`
+│   │   │   inner_content: `Anti-Inflammatory`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-Inflammatory`
+│   │   │   │   inner_content: `Anti-Inflammatory`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May reduce vitamin D levels, increase risk of osteoporosis`
+│   │   │   inner_content: `May reduce vitamin D levels, increase risk of osteoporosis`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May reduce vitamin D levels, increase risk of osteoporosis`
+│   │   │   │   inner_content: `May reduce vitamin D levels, increase risk of osteoporosis`
+│   ├── TableRowNode
+│   │   full_match: `Inhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD`
+│   │   inner_content: `Inhaled Corticosteroids (ICS)|Anti-Inflammatory|Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Inhaled Corticosteroids (ICS)`
+│   │   │   inner_content: `Inhaled Corticosteroids (ICS)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Inhaled Corticosteroids (ICS)`
+│   │   │   │   inner_content: `Inhaled Corticosteroids (ICS)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-Inflammatory`
+│   │   │   inner_content: `Anti-Inflammatory`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-Inflammatory`
+│   │   │   │   inner_content: `Anti-Inflammatory`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD`
+│   │   │   inner_content: `Mixed findings; long term use may negatively impact __bone__ metabolism and __bone__ mineral density, especially in those with COPD`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings; long term use may negatively impact `
+│   │   │   │   inner_content: `Mixed findings; long term use may negatively impact `
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__bone__`
+│   │   │   │   inner_content: `bone`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `bone`
+│   │   │   │   │   inner_content: `bone`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` metabolism and `
+│   │   │   │   inner_content: ` metabolism and `
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__bone__`
+│   │   │   │   inner_content: `bone`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `bone`
+│   │   │   │   │   inner_content: `bone`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` mineral density, especially in those with COPD`
+│   │   │   │   inner_content: ` mineral density, especially in those with COPD`
+│   ├── TableRowNode
+│   │   full_match: `Hydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels`
+│   │   inner_content: `Hydroxychloroquine|Anti-Inflammatory|May increase vitamin D levels`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Hydroxychloroquine`
+│   │   │   inner_content: `Hydroxychloroquine`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Hydroxychloroquine`
+│   │   │   │   inner_content: `Hydroxychloroquine`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-Inflammatory`
+│   │   │   inner_content: `Anti-Inflammatory`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-Inflammatory`
+│   │   │   │   inner_content: `Anti-Inflammatory`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May increase vitamin D levels`
+│   │   │   inner_content: `May increase vitamin D levels`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May increase vitamin D levels`
+│   │   │   │   inner_content: `May increase vitamin D levels`
+│   ├── TableRowNode
+│   │   full_match: `Antimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   │   inner_content: `Antimicrobials|Anti-infectives/%%%Antivirals|May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Antimicrobials`
+│   │   │   inner_content: `Antimicrobials`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antimicrobials`
+│   │   │   │   inner_content: `Antimicrobials`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-infectives/%%%Antivirals`
+│   │   │   inner_content: `Anti-infectives/%%%Antivirals`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-infectives/`
+│   │   │   │   inner_content: `Anti-infectives/`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antivirals`
+│   │   │   │   inner_content: `Antivirals`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   │   │   inner_content: `May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   │   │   │   inner_content: `May decrease vitamin D; increased risk of osteomalacia with prolonged use`
+│   ├── TableRowNode
+│   │   full_match: `Sulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels`
+│   │   inner_content: `Sulphonamides and Urea Derivatives|Anti-infectives/%%%Antivirals|Lower vitamin D levels`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Sulphonamides and Urea Derivatives`
+│   │   │   inner_content: `Sulphonamides and Urea Derivatives`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sulphonamides and Urea Derivatives`
+│   │   │   │   inner_content: `Sulphonamides and Urea Derivatives`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-infectives/%%%Antivirals`
+│   │   │   inner_content: `Anti-infectives/%%%Antivirals`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-infectives/`
+│   │   │   │   inner_content: `Anti-infectives/`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antivirals`
+│   │   │   │   inner_content: `Antivirals`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Lower vitamin D levels`
+│   │   │   inner_content: `Lower vitamin D levels`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Lower vitamin D levels`
+│   │   │   │   inner_content: `Lower vitamin D levels`
+│   ├── TableRowNode
+│   │   full_match: `Highly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D`
+│   │   inner_content: `Highly Active Antiretroviral Therapy (HAART)|Anti-infectives/%%%Antivirals|Mixed findings, may lower vitamin D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Highly Active Antiretroviral Therapy (HAART)`
+│   │   │   inner_content: `Highly Active Antiretroviral Therapy (HAART)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Highly Active Antiretroviral Therapy (HAART)`
+│   │   │   │   inner_content: `Highly Active Antiretroviral Therapy (HAART)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Anti-infectives/%%%Antivirals`
+│   │   │   inner_content: `Anti-infectives/%%%Antivirals`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Anti-infectives/`
+│   │   │   │   inner_content: `Anti-infectives/`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Antivirals`
+│   │   │   │   inner_content: `Antivirals`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mixed findings, may lower vitamin D`
+│   │   │   inner_content: `Mixed findings, may lower vitamin D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mixed findings, may lower vitamin D`
+│   │   │   │   inner_content: `Mixed findings, may lower vitamin D`
+│   ├── TableRowNode
+│   │   full_match: `Chemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
+│   │   inner_content: `Chemotherapeutic Agents|Cancer|May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Chemotherapeutic Agents`
+│   │   │   inner_content: `Chemotherapeutic Agents`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Chemotherapeutic Agents`
+│   │   │   │   inner_content: `Chemotherapeutic Agents`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Cancer`
+│   │   │   inner_content: `Cancer`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Cancer`
+│   │   │   │   inner_content: `Cancer`
+│   │   ├── TableCellNode
+│   │   │   full_match: `May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
+│   │   │   inner_content: `May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`
+│   │   │   │   inner_content: `May lower vitamin D levels; studies show vitamin D may enhance the effect of these therapies`├── TextNode
+│   full_match: `\nCNS = Central Nervous System`
+│   inner_content: `\nCNS = Central Nervous System`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!! 24 classes of drugs that impact Vitamin D status (ignores Vitamin D getting to cells) - Dec 2022`

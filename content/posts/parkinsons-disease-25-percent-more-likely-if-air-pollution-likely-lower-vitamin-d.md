@@ -22,7 +22,7 @@ categories:
 
 * "In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%)."
 
- **Comment by VitaminDWiki%%%Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
+ **Comment by VitaminDWikiDue to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
 
 ---
 
@@ -39,7 +39,7 @@ categories:
 <!-- ~tc~ (alias(Parkinson's Disease 25 percent more likely if air pollution (likely lower Vitamin D - April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -55,7 +55,7 @@ Markdown:
 
 * &quot;In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%).&quot;
 
- **Comment by VitaminDWiki%%%Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
+ **Comment by VitaminDWikiDue to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
 
 ---
 
@@ -150,8 +150,14 @@ AST Structure:
 │   │   inner_content: `Comment by VitaminDWiki%%%Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Comment by VitaminDWiki%%%Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution`
-│   │   │   inner_content: `Comment by VitaminDWiki%%%Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution`├── HorizontalRuleNode
+│   │   │   full_match: `Comment by VitaminDWiki`
+│   │   │   inner_content: `Comment by VitaminDWiki`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution`
+│   │   │   inner_content: `Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki-  ((Air Pollution reduces Vitamin D)) contains`

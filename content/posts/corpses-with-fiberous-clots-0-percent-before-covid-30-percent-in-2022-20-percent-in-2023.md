@@ -41,7 +41,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

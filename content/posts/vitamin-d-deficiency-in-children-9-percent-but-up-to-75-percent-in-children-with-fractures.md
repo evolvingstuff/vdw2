@@ -39,7 +39,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF%%% "There is evidence that about <span style="color:orange;"> 66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
+ **Clipped from PDF "There is evidence that about <span style="color:orange;"> 66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -65,7 +65,7 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 <img src="/attachments/d3.mock.jpg" alt="image"> <img src="/attachments/d3.mock.jpg" alt="image">
 
- **<span style="color:orange;">Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is <20 ng %%% ~hs</span>hs~&nbsp; If not, nothing can be said about vitamin D level~~** 
+ **<span style="color:orange;">Summary: If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is <20 ng  ~hs</span>hs~&nbsp; If not, nothing can be said about vitamin D level~~** 
 
 ---
 
@@ -75,33 +75,19 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="100"}
-
-  
-<!-- {filter type="wiki page"} -->
-
-  
-<!-- {filter field="title" content="children AND monthly"} -->
-
+  {filter type="wiki page"}
+  {filter field="title" content="children AND monthly"}
   {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
  **See also [Better than Daily](/categories/better-than-daily)** 
 
@@ -123,7 +109,7 @@ This list is automatically updated
 
 1. Open 50K capsule and pour the tasteless powder into fruit juice, water, etc
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -154,7 +140,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF%%% &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt; 66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
+ **Clipped from PDF &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt; 66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -180,7 +166,7 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs&lt;/span&gt;hs~&amp;nbsp; If not, nothing can be said about vitamin D level~~** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Summary: If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng  ~hs&lt;/span&gt;hs~&amp;nbsp; If not, nothing can be said about vitamin D level~~** 
 
 ---
 
@@ -190,33 +176,19 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;100&quot;}
-
-  
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
-  
-&lt;!-- {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;} --&gt;
-
+  {filter type=&quot;wiki page&quot;}
+  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}
   {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
  **See also [Better than Daily](/categories/better-than-daily)** 
 
@@ -353,8 +325,14 @@ AST Structure:
 │   inner_content: `Clipped from PDF%%% &quot;There is evidence that about~~#00F: 66% of all pediatric fractures occur in children who fracture on more than one occasion~~,...`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Clipped from PDF%%% &quot;There is evidence that about`
-│   │   inner_content: `Clipped from PDF%%% &quot;There is evidence that about`
+│   │   full_match: `Clipped from PDF`
+│   │   inner_content: `Clipped from PDF`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` &quot;There is evidence that about`
+│   │   inner_content: ` &quot;There is evidence that about`
 │   ├── ColorNode
 │   │   full_match: `~~#00F: 66% of all pediatric fractures occur in children who fracture on more than one occasion~~`
 │   │   inner_content: ` 66% of all pediatric fractures occur in children who fracture on more than one occasion`
@@ -527,8 +505,20 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs`
-│   │   │   │   inner_content: `Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs`
+│   │   │   │   full_match: `Summary: `
+│   │   │   │   inner_content: `Summary: `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng `
+│   │   │   │   inner_content: `If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` ~hs`
+│   │   │   │   inner_content: ` ~hs`
 │   │   ├── TextNode
 │   │   │   full_match: `hs~`
 │   │   │   inner_content: `hs~`
@@ -573,23 +563,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;100&quot;}\n  `
-│   inner_content: `\n{LIST()}\n{list max=&quot;100&quot;}\n  `├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;children AND monthly&quot;
-│   │   field: title
-│   │   content: children AND monthly├── TextNode
-│   full_match: `\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`
-│   inner_content: `\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`├── BoldNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
 │   full_match: `__See also ((Better than Daily))__`
 │   inner_content: `See also ((Better than Daily))`
 │   children:

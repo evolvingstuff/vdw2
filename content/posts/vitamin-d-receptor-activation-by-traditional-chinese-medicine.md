@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,%%%This study adds many more VDR activators, many of which are on Amazon%%%For most activators it is not known%%% &nbsp;&nbsp; Which activator is best for each health problem %%% &nbsp;&nbsp;  Dose size %%%  &nbsp;&nbsp;  Dose Frequency (X doses per day -- X doses per month)%%%  &nbsp;&nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
+ **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,This study adds many more VDR activators, many of which are on AmazonFor most activators it is not known &nbsp;&nbsp; Which activator is best for each health problem  &nbsp;&nbsp;  Dose size   &nbsp;&nbsp;  Dose Frequency (X doses per day -- X doses per month)  &nbsp;&nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
 
 <!-- {maketoc Title=""} -->
 
@@ -610,11 +610,11 @@ Moreover, the underlying mechanisms of how TCM modulates VDR are still largely u
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,%%%This study adds many more VDR activators, many of which are on Amazon%%%For most activators it is not known%%% &amp;nbsp;&amp;nbsp; Which activator is best for each health problem %%% &amp;nbsp;&amp;nbsp;  Dose size %%%  &amp;nbsp;&amp;nbsp;  Dose Frequency (X doses per day -- X doses per month)%%%  &amp;nbsp;&amp;nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
+ **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,This study adds many more VDR activators, many of which are on AmazonFor most activators it is not known &amp;nbsp;&amp;nbsp; Which activator is best for each health problem  &amp;nbsp;&amp;nbsp;  Dose size   &amp;nbsp;&amp;nbsp;  Dose Frequency (X doses per day -- X doses per month)  &amp;nbsp;&amp;nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -1228,29 +1228,65 @@ AST Structure:
 │   │   inner_content: `Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,%%%This study adds many more VDR activators, many of which are on Amazon%%%For most activators it is not known%%% ~hs~~hs~ Which activator is best for each health problem %%% ~hs~~hs~  Dose size %%%  ~hs~~hs~  Dose Frequency (X doses per day -- X doses per month)%%%  ~hs~~hs~Should dosing be constant, ramp up, or start with a loading dose `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,%%%This study adds many more VDR activators, many of which are on Amazon%%%For most activators it is not known%%% `
-│   │   │   inner_content: `Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,%%%This study adds many more VDR activators, many of which are on Amazon%%%For most activators it is not known%%% `
+│   │   │   full_match: `Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,`
+│   │   │   inner_content: `Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `This study adds many more VDR activators, many of which are on Amazon`
+│   │   │   inner_content: `This study adds many more VDR activators, many of which are on Amazon`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `For most activators it is not known`
+│   │   │   inner_content: `For most activators it is not known`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
 │   │   ├── HorizontalSpaceNode
 │   │   │   full_match: `~hs~~hs~`
 │   │   │   inner_content: ``
 │   │   │   repetitions: `2`
 │   │   ├── TextNode
-│   │   │   full_match: ` Which activator is best for each health problem %%% `
-│   │   │   inner_content: ` Which activator is best for each health problem %%% `
+│   │   │   full_match: ` Which activator is best for each health problem `
+│   │   │   inner_content: ` Which activator is best for each health problem `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
 │   │   ├── HorizontalSpaceNode
 │   │   │   full_match: `~hs~~hs~`
 │   │   │   inner_content: ``
 │   │   │   repetitions: `2`
 │   │   ├── TextNode
-│   │   │   full_match: `  Dose size %%%  `
-│   │   │   inner_content: `  Dose size %%%  `
+│   │   │   full_match: `  Dose size `
+│   │   │   inner_content: `  Dose size `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `  `
+│   │   │   inner_content: `  `
 │   │   ├── HorizontalSpaceNode
 │   │   │   full_match: `~hs~~hs~`
 │   │   │   inner_content: ``
 │   │   │   repetitions: `2`
 │   │   ├── TextNode
-│   │   │   full_match: `  Dose Frequency (X doses per day -- X doses per month)%%%  `
-│   │   │   inner_content: `  Dose Frequency (X doses per day -- X doses per month)%%%  `
+│   │   │   full_match: `  Dose Frequency (X doses per day -- X doses per month)`
+│   │   │   inner_content: `  Dose Frequency (X doses per day -- X doses per month)`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `  `
+│   │   │   inner_content: `  `
 │   │   ├── HorizontalSpaceNode
 │   │   │   full_match: `~hs~~hs~`
 │   │   │   inner_content: ``

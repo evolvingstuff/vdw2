@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Perhaps 10,000 COVID deaths in Dec 2023 (JN.1 in increasing)</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -308,7 +308,7 @@
 <p><strong><a href="https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7">Washington Post</a></strong></p>
 <ul>
 <li>
-<p>&ldquo;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&rdquo;</p>
+<p>&ldquo;There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month&rdquo;</p>
 </li>
 <li>
 <p>&ldquo;Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that  <strong>this is not the full picture</strong> .&rdquo;</p>
@@ -332,7 +332,7 @@
 </li>
 </ul>
 <!-- ~tc~ (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) ~/tc~ -->
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -345,7 +345,7 @@ Markdown:
 
  **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7)** 
 
-* &quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;
+* &quot;There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month&quot;
 
 * &quot;Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that  **this is not the full picture** .&quot;
 
@@ -414,8 +414,14 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `&quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;`
-│   │   inner_content: `&quot;There was a 42% increase in hospitalizations %%%and a 62% increase in ICU admissions from the previous month&quot;`├── TextNode
+│   │   full_match: `&quot;There was a 42% increase in hospitalizations `
+│   │   inner_content: `&quot;There was a 42% increase in hospitalizations `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `and a 62% increase in ICU admissions from the previous month&quot;`
+│   │   inner_content: `and a 62% increase in ICU admissions from the previous month&quot;`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;Trends are based on data reported to the WHO from fewer than 50 countries, mostly in Europe and the Americas, said Tedros, who noted that __this is not the full picture__.&quot;`
@@ -576,7 +582,7 @@ __[https://covid.cdc.gov/covid-data-tracker/?utm_source=substack&amp;utm_medium=
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -586,8 +592,8 @@ __[https://covid.cdc.gov/covid-data-tracker/?utm_source=substack&amp;utm_medium=
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

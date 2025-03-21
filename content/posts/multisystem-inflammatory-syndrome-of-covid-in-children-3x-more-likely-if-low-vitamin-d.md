@@ -44,7 +44,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

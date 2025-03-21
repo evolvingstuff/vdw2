@@ -54,7 +54,7 @@ Conclusion Early-onset cancer morbidity continues to increase worldwide with not
 <!-- ~tc~ (alias(79% increase in early-onset cancer in 30 years - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

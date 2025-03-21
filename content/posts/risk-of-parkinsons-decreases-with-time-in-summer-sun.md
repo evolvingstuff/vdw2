@@ -59,7 +59,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

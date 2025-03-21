@@ -34,7 +34,7 @@ There does not appear to be a conference for any other single supplement  ~/tc~ 
 
 page is under construction
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

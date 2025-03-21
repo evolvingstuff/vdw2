@@ -92,7 +92,7 @@ Vitamin D deficiency might be an important systemic factor associated to pelvic 
 <!-- ~tc~ (alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

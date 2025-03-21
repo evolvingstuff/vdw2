@@ -15,19 +15,15 @@ categories:
 
 7 errors made by Randomized Controlled Vitamin D Trials
 
-|| 1) Too small of a dose |as low as 400 IU in one study
-
-2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks
-
-3) Used D2 not D3 |D2 has a half-life of only a few days
-
-4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose
-
-5) Any amount of vitamin D supplementation was allowed|including only 200 IU
-
-6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng
-
-7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed||
+| | |
+| --- | --- |
+|  1) Too small of a dose  | as low as 400 IU in one study |
+| 2) Too infrequent  | dosing up to 8 weeks, should be less than 2 weeks |
+| 3) Used D2 not D3  | D2 has a half-life of only a few days |
+| 4) Too short of a trial period  | as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose |
+| 5) Any amount of vitamin D supplementation was allowed | including only 200 IU |
+| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones |  many health problems need 50 to 150 ng |
+| 7) Assume that only vitamin D is needed | Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed |
 
 ---
 
@@ -69,7 +65,7 @@ Vitamin supplementation does not improve clinical cardiovascular outcomes in gen
 <!-- ~tc~ (alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -77,19 +73,15 @@ Markdown:
 
 7 errors made by Randomized Controlled Vitamin D Trials
 
-|| 1) Too small of a dose |as low as 400 IU in one study
-
-2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks
-
-3) Used D2 not D3 |D2 has a half-life of only a few days
-
-4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose
-
-5) Any amount of vitamin D supplementation was allowed|including only 200 IU
-
-6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng
-
-7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed||
+| | |
+| --- | --- |
+|  1) Too small of a dose  | as low as 400 IU in one study |
+| 2) Too infrequent  | dosing up to 8 weeks, should be less than 2 weeks |
+| 3) Used D2 not D3  | D2 has a half-life of only a few days |
+| 4) Too short of a trial period  | as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose |
+| 5) Any amount of vitamin D supplementation was allowed | including only 200 IU |
+| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones |  many health problems need 50 to 150 ng |
+| 7) Assume that only vitamin D is needed | Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed |
 
 ---
 
@@ -141,8 +133,141 @@ AST Structure:
 │   │   style: font-size:21px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n7 errors made by Randomized Controlled Vitamin D Trials\n|| 1) Too small of a dose |as low as 400 IU in one study\n2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks\n3) Used D2 not D3 |D2 has a half-life of only a few days\n4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose\n5) Any amount of vitamin D supplementation was allowed|including only 200 IU\n6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng\n7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed||\n`
-│   │   inner_content: `\n7 errors made by Randomized Controlled Vitamin D Trials\n|| 1) Too small of a dose |as low as 400 IU in one study\n2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks\n3) Used D2 not D3 |D2 has a half-life of only a few days\n4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose\n5) Any amount of vitamin D supplementation was allowed|including only 200 IU\n6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng\n7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed||\n`├── HorizontalRuleNode
+│   │   full_match: `\n7 errors made by Randomized Controlled Vitamin D Trials\n`
+│   │   inner_content: `\n7 errors made by Randomized Controlled Vitamin D Trials\n`
+│   ├── TableNode
+│   │   full_match: `|| 1) Too small of a dose |as low as 400 IU in one study\n2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks\n3) Used D2 not D3 |D2 has a half-life of only a few days\n4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose\n5) Any amount of vitamin D supplementation was allowed|including only 200 IU\n6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng\n7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed||`
+│   │   inner_content: ` 1) Too small of a dose |as low as 400 IU in one study\n2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks\n3) Used D2 not D3 |D2 has a half-life of only a few days\n4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose\n5) Any amount of vitamin D supplementation was allowed|including only 200 IU\n6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng\n7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` 1) Too small of a dose |as low as 400 IU in one study`
+│   │   │   inner_content: ` 1) Too small of a dose |as low as 400 IU in one study`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 1) Too small of a dose `
+│   │   │   │   inner_content: ` 1) Too small of a dose `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 1) Too small of a dose `
+│   │   │   │   │   inner_content: ` 1) Too small of a dose `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `as low as 400 IU in one study`
+│   │   │   │   inner_content: `as low as 400 IU in one study`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `as low as 400 IU in one study`
+│   │   │   │   │   inner_content: `as low as 400 IU in one study`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks`
+│   │   │   inner_content: `2) Too infrequent |dosing up to 8 weeks, should be less than 2 weeks`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2) Too infrequent `
+│   │   │   │   inner_content: `2) Too infrequent `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2) Too infrequent `
+│   │   │   │   │   inner_content: `2) Too infrequent `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `dosing up to 8 weeks, should be less than 2 weeks`
+│   │   │   │   inner_content: `dosing up to 8 weeks, should be less than 2 weeks`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `dosing up to 8 weeks, should be less than 2 weeks`
+│   │   │   │   │   inner_content: `dosing up to 8 weeks, should be less than 2 weeks`
+│   │   ├── TableRowNode
+│   │   │   full_match: `3) Used D2 not D3 |D2 has a half-life of only a few days`
+│   │   │   inner_content: `3) Used D2 not D3 |D2 has a half-life of only a few days`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `3) Used D2 not D3 `
+│   │   │   │   inner_content: `3) Used D2 not D3 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `3) Used D2 not D3 `
+│   │   │   │   │   inner_content: `3) Used D2 not D3 `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `D2 has a half-life of only a few days`
+│   │   │   │   inner_content: `D2 has a half-life of only a few days`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `D2 has a half-life of only a few days`
+│   │   │   │   │   inner_content: `D2 has a half-life of only a few days`
+│   │   ├── TableRowNode
+│   │   │   full_match: `4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   │   inner_content: `4) Too short of a trial period |as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `4) Too short of a trial period `
+│   │   │   │   inner_content: `4) Too short of a trial period `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `4) Too short of a trial period `
+│   │   │   │   │   inner_content: `4) Too short of a trial period `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   │   │   inner_content: `as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   │   │   │   inner_content: `as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose`
+│   │   ├── TableRowNode
+│   │   │   full_match: `5) Any amount of vitamin D supplementation was allowed|including only 200 IU`
+│   │   │   inner_content: `5) Any amount of vitamin D supplementation was allowed|including only 200 IU`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `5) Any amount of vitamin D supplementation was allowed`
+│   │   │   │   inner_content: `5) Any amount of vitamin D supplementation was allowed`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `5) Any amount of vitamin D supplementation was allowed`
+│   │   │   │   │   inner_content: `5) Any amount of vitamin D supplementation was allowed`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `including only 200 IU`
+│   │   │   │   inner_content: `including only 200 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `including only 200 IU`
+│   │   │   │   │   inner_content: `including only 200 IU`
+│   │   ├── TableRowNode
+│   │   │   full_match: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng`
+│   │   │   inner_content: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones| many health problems need 50 to 150 ng`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones`
+│   │   │   │   inner_content: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones`
+│   │   │   │   │   inner_content: `6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` many health problems need 50 to 150 ng`
+│   │   │   │   inner_content: ` many health problems need 50 to 150 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` many health problems need 50 to 150 ng`
+│   │   │   │   │   inner_content: ` many health problems need 50 to 150 ng`
+│   │   ├── TableRowNode
+│   │   │   full_match: `7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   │   inner_content: `7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `7) Assume that only vitamin D is needed`
+│   │   │   │   inner_content: `7) Assume that only vitamin D is needed`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `7) Assume that only vitamin D is needed`
+│   │   │   │   │   inner_content: `7) Assume that only vitamin D is needed`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   │   │   inner_content: `Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   │   │   │   │   inner_content: `Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

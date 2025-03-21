@@ -80,7 +80,7 @@ are also predictors of Vitamin D deficiency. Due to the link between Vitamin D D
 <!-- ~tc~ (alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

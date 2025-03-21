@@ -54,7 +54,7 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 
 ##### Note: The author and the founder of VitaminDWiki attempted a COVID Vitamin D RCT in April 2020
 
- **People at the Gates foundation were  initially interested in funding the RCT%%%Gates foundation management; however, it had a policy to not fund ANY vitamin D project%%%Funding was provided by the founder of VitaminDWiki%%% 400,000 IU vitamin D capsules with matching placebos were purchased%%%RCT was unable to start due to government corruption** 
+ **People at the Gates foundation were  initially interested in funding the RCTGates foundation management; however, it had a policy to not fund ANY vitamin D projectFunding was provided by the founder of VitaminDWiki 400,000 IU vitamin D capsules with matching placebos were purchasedRCT was unable to start due to government corruption** 
 
 ---
 
@@ -67,7 +67,7 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 <!-- ~tc~ (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -114,7 +114,7 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 
 ##### Note: The author and the founder of VitaminDWiki attempted a COVID Vitamin D RCT in April 2020
 
- **People at the Gates foundation were  initially interested in funding the RCT%%%Gates foundation management; however, it had a policy to not fund ANY vitamin D project%%%Funding was provided by the founder of VitaminDWiki%%% 400,000 IU vitamin D capsules with matching placebos were purchased%%%RCT was unable to start due to government corruption** 
+ **People at the Gates foundation were  initially interested in funding the RCTGates foundation management; however, it had a policy to not fund ANY vitamin D projectFunding was provided by the founder of VitaminDWiki 400,000 IU vitamin D capsules with matching placebos were purchasedRCT was unable to start due to government corruption** 
 
 ---
 
@@ -339,8 +339,32 @@ AST Structure:
 │   inner_content: `People at the Gates foundation were  initially interested in funding the RCT%%%Gates foundation management; however, it had a policy to not fund ANY vitamin D project%%%Funding was provided by the founder of VitaminDWiki%%% 400,000 IU vitamin D capsules with matching placebos were purchased%%%RCT was unable to start due to government corruption`
 │   children:
 │   ├── TextNode
-│   │   full_match: `People at the Gates foundation were  initially interested in funding the RCT%%%Gates foundation management; however, it had a policy to not fund ANY vitamin D project%%%Funding was provided by the founder of VitaminDWiki%%% 400,000 IU vitamin D capsules with matching placebos were purchased%%%RCT was unable to start due to government corruption`
-│   │   inner_content: `People at the Gates foundation were  initially interested in funding the RCT%%%Gates foundation management; however, it had a policy to not fund ANY vitamin D project%%%Funding was provided by the founder of VitaminDWiki%%% 400,000 IU vitamin D capsules with matching placebos were purchased%%%RCT was unable to start due to government corruption`├── HorizontalRuleNode
+│   │   full_match: `People at the Gates foundation were  initially interested in funding the RCT`
+│   │   inner_content: `People at the Gates foundation were  initially interested in funding the RCT`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Gates foundation management; however, it had a policy to not fund ANY vitamin D project`
+│   │   inner_content: `Gates foundation management; however, it had a policy to not fund ANY vitamin D project`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Funding was provided by the founder of VitaminDWiki`
+│   │   inner_content: `Funding was provided by the founder of VitaminDWiki`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` 400,000 IU vitamin D capsules with matching placebos were purchased`
+│   │   inner_content: ` 400,000 IU vitamin D capsules with matching placebos were purchased`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `RCT was unable to start due to government corruption`
+│   │   inner_content: `RCT was unable to start due to government corruption`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))`

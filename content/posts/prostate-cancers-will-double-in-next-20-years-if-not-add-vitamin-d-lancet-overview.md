@@ -83,7 +83,7 @@ The Lancet Commission on prostate cancer provides an agenda for a realistic prog
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

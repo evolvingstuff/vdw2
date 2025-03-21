@@ -71,17 +71,16 @@ categories:
 
 1. <a href="/posts/loading-dose-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D|Loading dose">Loading Dose of Vitamin D|Loading dose</a> if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, <a href="/posts/forms-of-vitamin-ddifferent-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Forms of Vitamin D|different form">Forms of Vitamin D|different form</a>, <a href="/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp">Vitamin D from low-cost UVB lamps|UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshellcofactors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors">Vitamin D Cofactors in a nutshell|cofactors</a>, <a href="/posts/better-than-dailynon-daily-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|non-daily dose">Better than Daily|non-daily dose</a>** 
+ **The above are all documented in VitaminDWiki - Solutions include: different dose size, <a href="/posts/forms-of-vitamin-ddifferent-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Forms of Vitamin D|different form">Forms of Vitamin D|different form</a>, <a href="/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp">Vitamin D from low-cost UVB lamps|UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshellcofactors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors">Vitamin D Cofactors in a nutshell|cofactors</a>, <a href="/posts/better-than-dailynon-daily-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|non-daily dose">Better than Daily|non-daily dose</a>** 
 
  **<span style="color:orange;"> Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
 
-||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%& no health problems
-
-> 30 - 50 ng| $5/year
-
-> 40 - 60 ng| $30/year
-
-> 80 - 100 ng| $150/year %%%(includes Vit. D test||
+| | |
+| --- | --- |
+| Goal: for <br>95% of people |  Annual Cost (guess) <br>for normal weight<br>& no health problems |
+| > 30 - 50 ng |  $5/year |
+| > 40 - 60 ng |  $30/year |
+| > 80 - 100 ng |  $150/year <br>(includes Vit. D test |
 
  **The higher goals require** 
 
@@ -617,12 +616,12 @@ There are many ways to bypass each of those restrictions
 
 See [Genetics](/categories/genetics) for details
 
-* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level%%%But at $200 and with no data on the results%%%, virtually no one buys the test
+* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-levelBut at $200 and with no data on the results, virtually no one buys the test
 
 <!-- ~tc~ (alias(Factors for personalization of Vitamin D treatment)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -687,17 +686,16 @@ Markdown:
 
 1. &lt;a href=&quot;/posts/loading-dose-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D|Loading dose&quot;&gt;Loading Dose of Vitamin D|Loading dose&lt;/a&gt; if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, &lt;a href=&quot;/posts/forms-of-vitamin-ddifferent-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Forms of Vitamin D|different form&quot;&gt;Forms of Vitamin D|different form&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp&quot;&gt;Vitamin D from low-cost UVB lamps|UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshellcofactors&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors&quot;&gt;Vitamin D Cofactors in a nutshell|cofactors&lt;/a&gt;, &lt;a href=&quot;/posts/better-than-dailynon-daily-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|non-daily dose&quot;&gt;Better than Daily|non-daily dose&lt;/a&gt;** 
+ **The above are all documented in VitaminDWiki - Solutions include: different dose size, &lt;a href=&quot;/posts/forms-of-vitamin-ddifferent-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Forms of Vitamin D|different form&quot;&gt;Forms of Vitamin D|different form&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp&quot;&gt;Vitamin D from low-cost UVB lamps|UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshellcofactors&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors&quot;&gt;Vitamin D Cofactors in a nutshell|cofactors&lt;/a&gt;, &lt;a href=&quot;/posts/better-than-dailynon-daily-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|non-daily dose&quot;&gt;Better than Daily|non-daily dose&lt;/a&gt;** 
 
  **&lt;span style=&quot;color:orange;&quot;&gt; Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
 
-||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems
-
-&gt; 30 - 50 ng| $5/year
-
-&gt; 40 - 60 ng| $30/year
-
-&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test||
+| | |
+| --- | --- |
+| Goal: for &lt;br&gt;95% of people |  Annual Cost (guess) &lt;br&gt;for normal weight&lt;br&gt;&amp; no health problems |
+| &gt; 30 - 50 ng |  $5/year |
+| &gt; 40 - 60 ng |  $30/year |
+| &gt; 80 - 100 ng |  $150/year &lt;br&gt;(includes Vit. D test |
 
  **The higher goals require** 
 
@@ -1233,7 +1231,7 @@ There are many ways to bypass each of those restrictions
 
 See [Genetics](/categories/genetics) for details
 
-* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level%%%But at $200 and with no data on the results%%%, virtually no one buys the test
+* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-levelBut at $200 and with no data on the results, virtually no one buys the test
 
 &lt;!-- ~tc~ (alias(Factors for personalization of Vitamin D treatment)) ~/tc~ --&gt;
 
@@ -1698,8 +1696,14 @@ AST Structure:
 │   inner_content: `The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, ((Forms of Vitamin D|different form)), ((Vitamin D from low-cost UVB lamps|UV lamp)), ((Vitamin D Cofactors in a nutshell|cofactors)), ((Better than Daily|non-daily dose))`
 │   children:
 │   ├── TextNode
-│   │   full_match: `The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, `
-│   │   inner_content: `The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, `
+│   │   full_match: `The above are all documented in VitaminDWiki - Solutions include: `
+│   │   inner_content: `The above are all documented in VitaminDWiki - Solutions include: `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `different dose size, `
+│   │   inner_content: `different dose size, `
 │   ├── LocalLinkNode
 │   │   full_match: `((Forms of Vitamin D|different form))`
 │   │   inner_content: `Forms of Vitamin D|different form`
@@ -1771,8 +1775,111 @@ AST Structure:
 │   │   style: font-size:18px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems\n&gt; 30 - 50 ng| $5/year\n&gt; 40 - 60 ng| $30/year\n&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test||\n`
-│   │   inner_content: `\n||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems\n&gt; 30 - 50 ng| $5/year\n&gt; 40 - 60 ng| $30/year\n&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test||\n`
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems\n&gt; 30 - 50 ng| $5/year\n&gt; 40 - 60 ng| $30/year\n&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test||`
+│   │   inner_content: `Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems\n&gt; 30 - 50 ng| $5/year\n&gt; 40 - 60 ng| $30/year\n&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems`
+│   │   │   inner_content: `Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Goal: for %%%95% of people`
+│   │   │   │   inner_content: `Goal: for %%%95% of people`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Goal: for `
+│   │   │   │   │   inner_content: `Goal: for `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `95% of people`
+│   │   │   │   │   inner_content: `95% of people`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Annual Cost (guess) %%%for normal weight%%%&amp; no health problems`
+│   │   │   │   inner_content: ` Annual Cost (guess) %%%for normal weight%%%&amp; no health problems`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Annual Cost (guess) `
+│   │   │   │   │   inner_content: ` Annual Cost (guess) `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `for normal weight`
+│   │   │   │   │   inner_content: `for normal weight`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&amp; no health problems`
+│   │   │   │   │   inner_content: `&amp; no health problems`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt; 30 - 50 ng| $5/year`
+│   │   │   inner_content: `&gt; 30 - 50 ng| $5/year`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt; 30 - 50 ng`
+│   │   │   │   inner_content: `&gt; 30 - 50 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt; 30 - 50 ng`
+│   │   │   │   │   inner_content: `&gt; 30 - 50 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` $5/year`
+│   │   │   │   inner_content: ` $5/year`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` $5/year`
+│   │   │   │   │   inner_content: ` $5/year`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt; 40 - 60 ng| $30/year`
+│   │   │   inner_content: `&gt; 40 - 60 ng| $30/year`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt; 40 - 60 ng`
+│   │   │   │   inner_content: `&gt; 40 - 60 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt; 40 - 60 ng`
+│   │   │   │   │   inner_content: `&gt; 40 - 60 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` $30/year`
+│   │   │   │   inner_content: ` $30/year`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` $30/year`
+│   │   │   │   │   inner_content: ` $30/year`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test`
+│   │   │   inner_content: `&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt; 80 - 100 ng`
+│   │   │   │   inner_content: `&gt; 80 - 100 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt; 80 - 100 ng`
+│   │   │   │   │   inner_content: `&gt; 80 - 100 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` $150/year %%%(includes Vit. D test`
+│   │   │   │   inner_content: ` $150/year %%%(includes Vit. D test`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` $150/year `
+│   │   │   │   │   inner_content: ` $150/year `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `(includes Vit. D test`
+│   │   │   │   │   inner_content: `(includes Vit. D test`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
 │   ├── BoldNode
 │   │   full_match: `__The higher goals require __`
 │   │   inner_content: `The higher goals require `
@@ -3980,8 +4087,20 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level%%%But at $200 and with no data on the results%%%, virtually no one buys the test`
-│   │   inner_content: `At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level%%%But at $200 and with no data on the results%%%, virtually no one buys the test`├── TextNode
+│   │   full_match: `At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level`
+│   │   inner_content: `At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `But at $200 and with no data on the results`
+│   │   inner_content: `But at $200 and with no data on the results`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `, virtually no one buys the test`
+│   │   inner_content: `, virtually no one buys the test`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Factors for personalization of Vitamin D treatment)) ~/tc~`

@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Response to infant 2,000 IU Vitamin D daily was in 194 ng, monthly dosing was 20% less – RCT</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -313,9 +313,28 @@
 <p>Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are efficacious and safe for treating symptomatic vitamin D deficiency in infants.</p>
 <h5 id="results-summary">Results summary</h5>
 <p>78 total infants RCT for 12 weeks</p>
-<p>||Daily|Monthly bolus</p>
-<p>2,000 IU| 60,000 IU</p>
-<p>194 ng|154 ng||</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Daily</td>
+          <td>Monthly bolus</td>
+      </tr>
+      <tr>
+          <td>2,000 IU</td>
+          <td>60,000 IU</td>
+      </tr>
+      <tr>
+          <td>194 ng</td>
+          <td>154 ng</td>
+      </tr>
+  </tbody>
+</table>
 <p><strong><span style="color:orange;">Not mentioned: Infant age, BMI, breastfeeding or mother&rsquo;s supplementation</span></strong></p>
 <hr>
 <h4 id="vitamindwiki---infrequent-is-often-be-better-than-daily">VitaminDWiki - Infrequent is often be better than daily</h4>
@@ -468,7 +487,7 @@
 <p>McKenna, MJ, Murray, BF. Vitamin D dose response is underestimated by endocrine society’s clinical practice guideline. Endocr Connect 2013;2:87–95. <a href="https://doi.org/10.1530/ec-13-0008">https://doi.org/10.1530/ec-13-0008</a> . - DOI</p>
 </li>
 </ol>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -496,11 +515,11 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 78 total infants RCT for 12 weeks 
 
-||Daily|Monthly bolus
-
-2,000 IU| 60,000 IU
-
-194 ng|154 ng||
+| | |
+| --- | --- |
+| Daily | Monthly bolus |
+| 2,000 IU |  60,000 IU |
+| 194 ng | 154 ng |
 
  **&lt;span style=&quot;color:orange;&quot;&gt;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&lt;/span&gt;** 
 
@@ -716,8 +735,69 @@ AST Structure:
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n78 total infants RCT for 12 weeks \n||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||\n`
-│   │   inner_content: `\n78 total infants RCT for 12 weeks \n||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||\n`
+│   │   full_match: `\n78 total infants RCT for 12 weeks \n`
+│   │   inner_content: `\n78 total infants RCT for 12 weeks \n`
+│   ├── TableNode
+│   │   full_match: `||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||`
+│   │   inner_content: `Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Daily|Monthly bolus`
+│   │   │   inner_content: `Daily|Monthly bolus`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Daily`
+│   │   │   │   inner_content: `Daily`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Daily`
+│   │   │   │   │   inner_content: `Daily`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Monthly bolus`
+│   │   │   │   inner_content: `Monthly bolus`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Monthly bolus`
+│   │   │   │   │   inner_content: `Monthly bolus`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2,000 IU| 60,000 IU`
+│   │   │   inner_content: `2,000 IU| 60,000 IU`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2,000 IU`
+│   │   │   │   inner_content: `2,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2,000 IU`
+│   │   │   │   │   inner_content: `2,000 IU`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 60,000 IU`
+│   │   │   │   inner_content: ` 60,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 60,000 IU`
+│   │   │   │   │   inner_content: ` 60,000 IU`
+│   │   ├── TableRowNode
+│   │   │   full_match: `194 ng|154 ng`
+│   │   │   inner_content: `194 ng|154 ng`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `194 ng`
+│   │   │   │   inner_content: `194 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `194 ng`
+│   │   │   │   │   inner_content: `194 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `154 ng`
+│   │   │   │   inner_content: `154 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `154 ng`
+│   │   │   │   │   inner_content: `154 ng`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&#39;&#39;~~__`
 │   │   inner_content: `~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&#39;&#39;~~`
@@ -1473,7 +1553,7 @@ __~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1483,8 +1563,8 @@ __~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

@@ -48,7 +48,7 @@ Conclusion: Diet type and age can affect serum 25(OH)D levels in healthy cats wh
 <!-- ~tc~ (alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

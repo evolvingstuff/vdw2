@@ -75,7 +75,7 @@ Vaccine Dec 2023 https://doi.org/10.1016/j.vaccine.2023.12.060
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the preprint PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

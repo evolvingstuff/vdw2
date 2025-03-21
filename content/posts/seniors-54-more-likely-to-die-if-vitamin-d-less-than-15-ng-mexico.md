@@ -54,7 +54,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

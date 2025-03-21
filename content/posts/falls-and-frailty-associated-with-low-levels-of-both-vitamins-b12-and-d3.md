@@ -48,7 +48,7 @@ Conclusions: Higher levels of vitamins B12 but not of D3 are associated with bet
 #### VitaminDWiki –  <a href="/posts/frailty-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D - many studies">Frailty and Vitamin D - many studies</a> 15+
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

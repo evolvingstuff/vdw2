@@ -47,7 +47,7 @@ Variations in GC, CYP2R1, VDR, and CYP24A1 genes were reported most frequently, 
 
 ---
 
-#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes %%%are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
+#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
 
 ---
 
@@ -58,7 +58,7 @@ Variations in GC, CYP2R1, VDR, and CYP24A1 genes were reported most frequently, 
 <!-- ~tc~ (alias(12 Vitamin D genes – Sept 2021)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -96,7 +96,7 @@ Variations in GC, CYP2R1, VDR, and CYP24A1 genes were reported most frequently, 
 
 ---
 
-#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes %%%are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
+#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
 
 ---
 
@@ -182,8 +182,14 @@ AST Structure:
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes %%%are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)`
-│   │   inner_content: `Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes %%%are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)`├── HorizontalRuleNode
+│   │   full_match: `Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes `
+│   │   inner_content: `Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)`
+│   │   inner_content: `are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Genetics)) category contains`

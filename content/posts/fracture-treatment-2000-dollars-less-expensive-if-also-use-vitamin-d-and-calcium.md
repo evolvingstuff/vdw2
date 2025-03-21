@@ -67,7 +67,7 @@ Three thousand four hundred and seventy-five patients were included in the prese
 <!-- ~tc~ (alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

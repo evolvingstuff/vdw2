@@ -48,7 +48,7 @@ Our study supports a causal relationship between vitamin D deficiency and mortal
 <!-- ~tc~ (alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

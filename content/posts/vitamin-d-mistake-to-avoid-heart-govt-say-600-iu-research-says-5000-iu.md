@@ -45,7 +45,7 @@ So, the US and 100's of other countries now have RDA = 600 IU which is at least 
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

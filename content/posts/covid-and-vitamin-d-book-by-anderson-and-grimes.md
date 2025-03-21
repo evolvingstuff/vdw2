@@ -187,7 +187,7 @@ which has links to books and videos on COVID and Vitamin D
 <!-- ~tc~ (alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

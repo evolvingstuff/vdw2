@@ -280,7 +280,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 <!-- ~tc~ (alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -231,7 +231,7 @@ This list is automatically updated
 #### See also <a href="/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular Disease is treated by Vitamin D - many studies">Cardiovascular Disease is treated by Vitamin D - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

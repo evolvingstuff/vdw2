@@ -34,7 +34,7 @@ Colorectal cancer (CRC) is one of the most commonly occurring neoplasias in huma
 #### See also: <a href="/posts/vitamin-d-receptor-cancers-or-viruses-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor (Cancers OR Viruses) - many studies">Vitamin D Receptor (Cancers OR Viruses) - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

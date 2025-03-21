@@ -38,7 +38,7 @@ In conclusion, VD deficiency is associated with increased PD risk, but VD supple
 <!-- ~tc~ (alias(Parkinson's disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

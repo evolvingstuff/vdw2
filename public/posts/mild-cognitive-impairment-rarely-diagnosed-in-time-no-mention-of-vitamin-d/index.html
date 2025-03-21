@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Mild Cognitive Impairment rarely diagnosed in time (no mention of Vitamin D)</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -305,7 +305,7 @@
         <!-- {maketoc Title=""} -->
 <hr>
 <h4 id="nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed---wired">Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired</h4>
-<p><strong>Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.</strong></p>
+<p><strong>Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.</strong></p>
 <ul>
 <li>
 <p>&ldquo;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&rdquo; July 2023 <a href="https://doi.org/10.1186/s13195-023-01272-z">https://doi.org/10.1186/s13195-023-01272-z</a> FREE PDF</p>
@@ -359,7 +359,7 @@
 </ul>
 </li>
 </ul>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -370,7 +370,7 @@ Markdown:
 
 #### Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired
 
- **Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
+ **Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
 
 * &quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
@@ -436,8 +436,14 @@ AST Structure:
 │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
-│   │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`├── TextNode
+│   │   full_match: `Millions of older adults likely have minor memory issues that can later become dementia. `
+│   │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
+│   │   inner_content: `But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF`
@@ -654,7 +660,7 @@ __Millions of older adults likely have minor memory issues that can later become
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -664,8 +670,8 @@ __Millions of older adults likely have minor memory issues that can later become
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

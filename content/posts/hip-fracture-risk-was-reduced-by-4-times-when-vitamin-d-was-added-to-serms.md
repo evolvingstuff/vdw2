@@ -23,7 +23,7 @@ Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/1
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 
- **<span style="color:orange;">4X reduction in hip fractures in those who happened to be prescribed %%%to take some  amount of Vitamin D in addition to SERMS</span>** 
+ **<span style="color:orange;">4X reduction in hip fractures in those who happened to be prescribed to take some  amount of Vitamin D in addition to SERMS</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -99,31 +99,19 @@ Conclusion: The risk of osteoporotic fractures, especially hip fractures, was lo
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="150"}
-
-<!-- {filter field="title" content="\"Hip Fracture\" OR “\"Hip Surgery\" OR "\"Hip Replace\"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"Hip Fracture\" OR “\"Hip Surgery\" OR "\"Hip Replace\"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -134,7 +122,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Hip fracture risk reduced by 4X when Vitamin D was added to SERMS - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -151,7 +139,7 @@ Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/1
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 
- **&lt;span style=&quot;color:orange;&quot;&gt;4X reduction in hip fractures in those who happened to be prescribed %%%to take some  amount of Vitamin D in addition to SERMS&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;4X reduction in hip fractures in those who happened to be prescribed to take some  amount of Vitamin D in addition to SERMS&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -227,31 +215,19 @@ Conclusion: The risk of osteoporotic fractures, especially hip fractures, was lo
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -326,8 +302,14 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `4X reduction in hip fractures in those who happened to be prescribed %%%to take some  amount of Vitamin D in addition to SERMS`
-│   │   │   │   inner_content: `4X reduction in hip fractures in those who happened to be prescribed %%%to take some  amount of Vitamin D in addition to SERMS`├── TextNode
+│   │   │   │   full_match: `4X reduction in hip fractures in those who happened to be prescribed `
+│   │   │   │   inner_content: `4X reduction in hip fractures in those who happened to be prescribed `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `to take some  amount of Vitamin D in addition to SERMS`
+│   │   │   │   inner_content: `to take some  amount of Vitamin D in addition to SERMS`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20688&quot; width=&quot;600&quot;}`
@@ -623,23 +605,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleAltNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Hip Fracture\&quot; OR “\&quot;Hip Surgery\&quot; OR &quot;\&quot;Hip Replace\&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleAltNode
 │   full_match: `\n----\n`
 │   inner_content: `----`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Falls and Fractures)) category`

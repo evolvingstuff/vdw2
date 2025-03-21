@@ -29,7 +29,7 @@ categories:
 <!-- ~tc~ (alias(30% increase in cancers while under age 50 expected in a decade – March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

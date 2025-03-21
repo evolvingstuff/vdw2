@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Vitamin D dosing - many studies</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -306,72 +306,66 @@
 <hr>
 <h4 id="43-vitamindwiki-pages-have-50000-60000-iu-and-monthly-in-their-title">43+ VitaminDWiki pages have 50,000 60,000 IU AND MONTHLY in their title</h4>
 <p>Note: India uses 60,000 IU capsules</p>
-<p>{LIST()}</p>
-<p>{list max=&ldquo;350&rdquo;}</p>
-<!-- {filter field="title" content="(50,000 OR 50000 OR 60,000) AND MONTHLY"} -->
-<!-- {filter field="title" content="NOT \" 7,000\""} -->
-<!-- {filter field="title" content="NOT \" 3 weeks\""} -->
-<!-- {filter field="title" content="NOT \" 10,000\""} -->
-<!-- {filter field="title" content="NOT \" dollar prize\""} -->
-<!-- {filter field="title" content="NOT \" Omicron\""} -->
-<!-- {filter type="wiki page"} -->
-<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
-<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
-<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
-<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
-{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-</code></pre>
-<p>{OUTPUT}</p>
-<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
-<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
-<p>{LIST}</p>
+<!-- {LIST()}
+{list max="350"}
+{filter field="title" content="(50,000 OR 50000 OR 60,000) AND MONTHLY"}
+{filter field="title" content="NOT \" 7,000\""}
+{filter field="title" content="NOT \" 3 weeks\""}
+{filter field="title" content="NOT \" 10,000\""}
+{filter field="title" content="NOT \" dollar prize\""}
+{filter field="title" content="NOT \" Omicron\""}
+{filter type="wiki page"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
+    {column sort="title" label="Title" field="title" mode="raw"}{column}
+    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 <hr>
 <h4 id="12-vitamindwiki-pages-have-50000-or-60000-iu-and-bi-weekly-in-their-title">12+ VitaminDWiki pages have 50,000 or 60,000 IU AND BI-WEEKLY in their title</h4>
 <p>Note: India uses 60,000 IU capsules</p>
-<p>{LIST()}</p>
-<p>{list max=&ldquo;350&rdquo;}</p>
-<!-- {filter field="title" content="(50,000 OR 50000 OR 60,000) AND BI-WEEKLY"} -->
-<!-- {filter field="title" content="NOT \" 7,000\""} -->
-<!-- {filter field="title" content="NOT \" 3 weeks\""} -->
-<!-- {filter field="title" content="NOT \" 10,000\""} -->
-<!-- {filter field="title" content="NOT \" dollar prize\""} -->
-<!-- {filter field="title" content="NOT \" Omicron\""} -->
-<!-- {filter type="wiki page"} -->
-<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
-<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
-<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
-<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
-{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-</code></pre>
-<p>{OUTPUT}</p>
-<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
-<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
-<p>{LIST}</p>
+<!-- {LIST()}
+{list max="350"}
+{filter field="title" content="(50,000 OR 50000 OR 60,000) AND BI-WEEKLY"}
+{filter field="title" content="NOT \" 7,000\""}
+{filter field="title" content="NOT \" 3 weeks\""}
+{filter field="title" content="NOT \" 10,000\""}
+{filter field="title" content="NOT \" dollar prize\""}
+{filter field="title" content="NOT \" Omicron\""}
+{filter type="wiki page"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
+    {column sort="title" label="Title" field="title" mode="raw"}{column}
+    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 <hr>
 <h4 id="130-vitamindwiki-pages-have-50000-or-60000-iu-and-weekly-in-their-title">130+ VitaminDWiki pages have 50,000 or 60,000 IU AND WEEKLY in their title</h4>
 <p>Note: India uses 60,000 IU capsules</p>
-<p>{LIST()}</p>
-<p>{list max=&ldquo;350&rdquo;}</p>
-<!-- {filter field="title" content="(50,000 OR 50000 OR 60,000) AND WEEKLY"} -->
-<!-- {filter field="title" content="NOT \" 7,000\""} -->
-<!-- {filter field="title" content="NOT \" 3 weeks\""} -->
-<!-- {filter field="title" content="NOT \" 10,000\""} -->
-<!-- {filter field="title" content="NOT \" dollar prize\""} -->
-<!-- {filter field="title" content="NOT \" Omicron\""} -->
-<!-- {filter type="wiki page"} -->
-<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
-<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
-<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
-<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
-{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-</code></pre>
-<p>{OUTPUT}</p>
-<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
-<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
-<p>{LIST}</p>
+<!-- {LIST()}
+{list max="350"}
+{filter field="title" content="(50,000 OR 50000 OR 60,000) AND WEEKLY"}
+{filter field="title" content="NOT \" 7,000\""}
+{filter field="title" content="NOT \" 3 weeks\""}
+{filter field="title" content="NOT \" 10,000\""}
+{filter field="title" content="NOT \" dollar prize\""}
+{filter field="title" content="NOT \" Omicron\""}
+{filter type="wiki page"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
+    {column sort="title" label="Title" field="title" mode="raw"}{column}
+    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 <hr>
 <h4 id="7-vitamindwiki-pages-have-50000-or-60000-iu-with-daily-dosing">7+ VitaminDWiki pages have 50,000 or 60,000 IU with DAILY dosing</h4>
 <ol>
@@ -398,7 +392,7 @@
 </li>
 </ol>
 <p><del>tc</del> creation_date /<del>tc</del></p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -411,41 +405,24 @@ Markdown:
 
 Note: India uses 60,000 IU capsules
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;350&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -453,41 +430,24 @@ Note: India uses 60,000 IU capsules
 
 Note: India uses 60,000 IU capsules
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;350&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -495,41 +455,24 @@ Note: India uses 60,000 IU capsules
 
 Note: India uses 60,000 IU capsules
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;350&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -575,63 +518,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `43+ VitaminDWiki pages have 50,000 60,000 IU AND MONTHLY in their title`
 │   │   inner_content: `43+ VitaminDWiki pages have 50,000 60,000 IU AND MONTHLY in their title`├── TextNode
-│   full_match: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`
-│   inner_content: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}`
-│   inner_content: ``
+│   full_match: `\nNote: India uses 60,000 IU capsules\n`
+│   inner_content: `\nNote: India uses 60,000 IU capsules\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;
-│   │   field: title
-│   │   content: (50,000 OR 50000 OR 60,000) AND MONTHLY├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND MONTHLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!12+ VitaminDWiki pages have 50,000 or 60,000 IU AND BI-WEEKLY in their title`
@@ -641,63 +537,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `12+ VitaminDWiki pages have 50,000 or 60,000 IU AND BI-WEEKLY in their title`
 │   │   inner_content: `12+ VitaminDWiki pages have 50,000 or 60,000 IU AND BI-WEEKLY in their title`├── TextNode
-│   full_match: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`
-│   inner_content: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}`
-│   inner_content: ``
+│   full_match: `\nNote: India uses 60,000 IU capsules\n`
+│   inner_content: `\nNote: India uses 60,000 IU capsules\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;
-│   │   field: title
-│   │   content: (50,000 OR 50000 OR 60,000) AND BI-WEEKLY├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND BI-WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!130+ VitaminDWiki pages have 50,000 or 60,000 IU AND WEEKLY in their title`
@@ -707,63 +556,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `130+ VitaminDWiki pages have 50,000 or 60,000 IU AND WEEKLY in their title`
 │   │   inner_content: `130+ VitaminDWiki pages have 50,000 or 60,000 IU AND WEEKLY in their title`├── TextNode
-│   full_match: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`
-│   inner_content: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;350&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}`
-│   inner_content: ``
+│   full_match: `\nNote: India uses 60,000 IU capsules\n`
+│   inner_content: `\nNote: India uses 60,000 IU capsules\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;
-│   │   field: title
-│   │   content: (50,000 OR 50000 OR 60,000) AND WEEKLY├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;350&quot;}\n{filter field=&quot;title&quot; content=&quot;(50,000 OR 50000 OR 60,000) AND WEEKLY&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 7,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 3 weeks\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; dollar prize\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Omicron\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!7+ VitaminDWiki pages have 50,000 or 60,000 IU with DAILY dosing`
@@ -959,7 +761,7 @@ Note: India uses 60,000 IU capsules
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -969,8 +771,8 @@ Note: India uses 60,000 IU capsules
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

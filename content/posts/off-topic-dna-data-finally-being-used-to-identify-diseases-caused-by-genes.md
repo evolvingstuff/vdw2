@@ -64,7 +64,7 @@ categories:
 <!-- ~tc~ (alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -24,27 +24,19 @@ categories:
 
 * "To obtain the VAERS results for post-COVID-19 vaccination metabolic disorders, the final list of ~3100 MedDRA LLT terms (see Appendix 1 for the specific MedDRA query used to identify metabolic disorder-related symptoms in VAERS) was intersected with all the ~18,000 VAERS terms, resulting in  **335 VAERS symptoms (with non-zero entries) related to metabolic disorders post-COVID-19 vaccination**  (see Appendix 2 for the VAERS COVID-19 results). 
 
-||SYMPTOM|#after COVID%%%Vaccination| definition
-
-ACUTE RESPIRATORY FAILURE|5971|
-
-HYPOPHAGIA|1463| Reduced ingestion of food
-
-HYPONATRAEMIA|823|low sodium
-
-HYPERGLYCAEMIA|639|sugar too high
-
-HYPOKALAEMIA|604|low potassium
-
-GOUT|577
-
-DIABETES MELLITUS|528
-
-METABOLIC ENCEPHALOPATHY|483|Brain
-
-HYPOTHYROIDISM|394
-
-HYPOMAGNESAEMIA|195|low Magnesium||
+| | | |
+| --- | --- | --- |
+| SYMPTOM | 1. after COVIDVaccination |  definition |
+| ACUTE RESPIRATORY FAILURE | 5971 |  |
+| HYPOPHAGIA | 1463 |  Reduced ingestion of food |
+| HYPONATRAEMIA | 823 | low sodium |
+| HYPERGLYCAEMIA | 639 | sugar too high |
+| HYPOKALAEMIA | 604 | low potassium |
+| GOUT | 577 |
+| DIABETES MELLITUS | 528 |
+| METABOLIC ENCEPHALOPATHY | 483 | Brain |
+| HYPOTHYROIDISM | 394 |
+| HYPOMAGNESAEMIA | 195 | low Magnesium |
 
 ---
 
@@ -68,7 +60,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -85,27 +77,19 @@ Markdown:
 
 * &quot;To obtain the VAERS results for post-COVID-19 vaccination metabolic disorders, the final list of ~3100 MedDRA LLT terms (see Appendix 1 for the specific MedDRA query used to identify metabolic disorder-related symptoms in VAERS) was intersected with all the ~18,000 VAERS terms, resulting in  **335 VAERS symptoms (with non-zero entries) related to metabolic disorders post-COVID-19 vaccination**  (see Appendix 2 for the VAERS COVID-19 results). 
 
-||SYMPTOM|#after COVID%%%Vaccination| definition
-
-ACUTE RESPIRATORY FAILURE|5971|
-
-HYPOPHAGIA|1463| Reduced ingestion of food
-
-HYPONATRAEMIA|823|low sodium
-
-HYPERGLYCAEMIA|639|sugar too high
-
-HYPOKALAEMIA|604|low potassium
-
-GOUT|577
-
-DIABETES MELLITUS|528
-
-METABOLIC ENCEPHALOPATHY|483|Brain
-
-HYPOTHYROIDISM|394
-
-HYPOMAGNESAEMIA|195|low Magnesium||
+| | | |
+| --- | --- | --- |
+| SYMPTOM | 1. after COVIDVaccination |  definition |
+| ACUTE RESPIRATORY FAILURE | 5971 |  |
+| HYPOPHAGIA | 1463 |  Reduced ingestion of food |
+| HYPONATRAEMIA | 823 | low sodium |
+| HYPERGLYCAEMIA | 639 | sugar too high |
+| HYPOKALAEMIA | 604 | low potassium |
+| GOUT | 577 |
+| DIABETES MELLITUS | 528 |
+| METABOLIC ENCEPHALOPATHY | 483 | Brain |
+| HYPOTHYROIDISM | 394 |
+| HYPOMAGNESAEMIA | 195 | low Magnesium |
 
 ---
 
@@ -248,8 +232,272 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` (see Appendix 2 for the VAERS COVID-19 results). `
 │   │   inner_content: ` (see Appendix 2 for the VAERS COVID-19 results). `├── TextNode
-│   full_match: `\n||SYMPTOM|#after COVID%%%Vaccination| definition\nACUTE RESPIRATORY FAILURE|5971|\nHYPOPHAGIA|1463| Reduced ingestion of food\nHYPONATRAEMIA|823|low sodium\nHYPERGLYCAEMIA|639|sugar too high\nHYPOKALAEMIA|604|low potassium\nGOUT|577\nDIABETES MELLITUS|528\nMETABOLIC ENCEPHALOPATHY|483|Brain\nHYPOTHYROIDISM|394\nHYPOMAGNESAEMIA|195|low Magnesium||`
-│   inner_content: `\n||SYMPTOM|#after COVID%%%Vaccination| definition\nACUTE RESPIRATORY FAILURE|5971|\nHYPOPHAGIA|1463| Reduced ingestion of food\nHYPONATRAEMIA|823|low sodium\nHYPERGLYCAEMIA|639|sugar too high\nHYPOKALAEMIA|604|low potassium\nGOUT|577\nDIABETES MELLITUS|528\nMETABOLIC ENCEPHALOPATHY|483|Brain\nHYPOTHYROIDISM|394\nHYPOMAGNESAEMIA|195|low Magnesium||`├── HorizontalRuleNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||SYMPTOM|#after COVID%%%Vaccination| definition\nACUTE RESPIRATORY FAILURE|5971|\nHYPOPHAGIA|1463| Reduced ingestion of food\nHYPONATRAEMIA|823|low sodium\nHYPERGLYCAEMIA|639|sugar too high\nHYPOKALAEMIA|604|low potassium\nGOUT|577\nDIABETES MELLITUS|528\nMETABOLIC ENCEPHALOPATHY|483|Brain\nHYPOTHYROIDISM|394\nHYPOMAGNESAEMIA|195|low Magnesium||`
+│   inner_content: `SYMPTOM|#after COVID%%%Vaccination| definition\nACUTE RESPIRATORY FAILURE|5971|\nHYPOPHAGIA|1463| Reduced ingestion of food\nHYPONATRAEMIA|823|low sodium\nHYPERGLYCAEMIA|639|sugar too high\nHYPOKALAEMIA|604|low potassium\nGOUT|577\nDIABETES MELLITUS|528\nMETABOLIC ENCEPHALOPATHY|483|Brain\nHYPOTHYROIDISM|394\nHYPOMAGNESAEMIA|195|low Magnesium`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `SYMPTOM|#after COVID%%%Vaccination| definition`
+│   │   inner_content: `SYMPTOM|#after COVID%%%Vaccination| definition`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `SYMPTOM`
+│   │   │   inner_content: `SYMPTOM`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `SYMPTOM`
+│   │   │   │   inner_content: `SYMPTOM`
+│   │   ├── TableCellNode
+│   │   │   full_match: `#after COVID%%%Vaccination`
+│   │   │   inner_content: `#after COVID%%%Vaccination`
+│   │   │   children:
+│   │   │   ├── NumListItemNode
+│   │   │   │   full_match: `#after COVID%%%Vaccination`
+│   │   │   │   inner_content: `after COVID%%%Vaccination`
+│   │   │   │   depth: `1`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `after COVID`
+│   │   │   │   │   inner_content: `after COVID`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vaccination`
+│   │   │   │   │   inner_content: `Vaccination`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` definition`
+│   │   │   inner_content: ` definition`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` definition`
+│   │   │   │   inner_content: ` definition`
+│   ├── TableRowNode
+│   │   full_match: `ACUTE RESPIRATORY FAILURE|5971|`
+│   │   inner_content: `ACUTE RESPIRATORY FAILURE|5971|`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `ACUTE RESPIRATORY FAILURE`
+│   │   │   inner_content: `ACUTE RESPIRATORY FAILURE`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `ACUTE RESPIRATORY FAILURE`
+│   │   │   │   inner_content: `ACUTE RESPIRATORY FAILURE`
+│   │   ├── TableCellNode
+│   │   │   full_match: `5971`
+│   │   │   inner_content: `5971`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `5971`
+│   │   │   │   inner_content: `5971`
+│   │   ├── TableCellNode
+│   │   │   full_match: ``
+│   │   │   inner_content: ``
+│   ├── TableRowNode
+│   │   full_match: `HYPOPHAGIA|1463| Reduced ingestion of food`
+│   │   inner_content: `HYPOPHAGIA|1463| Reduced ingestion of food`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPOPHAGIA`
+│   │   │   inner_content: `HYPOPHAGIA`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPOPHAGIA`
+│   │   │   │   inner_content: `HYPOPHAGIA`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1463`
+│   │   │   inner_content: `1463`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1463`
+│   │   │   │   inner_content: `1463`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Reduced ingestion of food`
+│   │   │   inner_content: ` Reduced ingestion of food`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Reduced ingestion of food`
+│   │   │   │   inner_content: ` Reduced ingestion of food`
+│   ├── TableRowNode
+│   │   full_match: `HYPONATRAEMIA|823|low sodium`
+│   │   inner_content: `HYPONATRAEMIA|823|low sodium`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPONATRAEMIA`
+│   │   │   inner_content: `HYPONATRAEMIA`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPONATRAEMIA`
+│   │   │   │   inner_content: `HYPONATRAEMIA`
+│   │   ├── TableCellNode
+│   │   │   full_match: `823`
+│   │   │   inner_content: `823`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `823`
+│   │   │   │   inner_content: `823`
+│   │   ├── TableCellNode
+│   │   │   full_match: `low sodium`
+│   │   │   inner_content: `low sodium`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `low sodium`
+│   │   │   │   inner_content: `low sodium`
+│   ├── TableRowNode
+│   │   full_match: `HYPERGLYCAEMIA|639|sugar too high`
+│   │   inner_content: `HYPERGLYCAEMIA|639|sugar too high`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPERGLYCAEMIA`
+│   │   │   inner_content: `HYPERGLYCAEMIA`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPERGLYCAEMIA`
+│   │   │   │   inner_content: `HYPERGLYCAEMIA`
+│   │   ├── TableCellNode
+│   │   │   full_match: `639`
+│   │   │   inner_content: `639`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `639`
+│   │   │   │   inner_content: `639`
+│   │   ├── TableCellNode
+│   │   │   full_match: `sugar too high`
+│   │   │   inner_content: `sugar too high`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `sugar too high`
+│   │   │   │   inner_content: `sugar too high`
+│   ├── TableRowNode
+│   │   full_match: `HYPOKALAEMIA|604|low potassium`
+│   │   inner_content: `HYPOKALAEMIA|604|low potassium`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPOKALAEMIA`
+│   │   │   inner_content: `HYPOKALAEMIA`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPOKALAEMIA`
+│   │   │   │   inner_content: `HYPOKALAEMIA`
+│   │   ├── TableCellNode
+│   │   │   full_match: `604`
+│   │   │   inner_content: `604`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `604`
+│   │   │   │   inner_content: `604`
+│   │   ├── TableCellNode
+│   │   │   full_match: `low potassium`
+│   │   │   inner_content: `low potassium`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `low potassium`
+│   │   │   │   inner_content: `low potassium`
+│   ├── TableRowNode
+│   │   full_match: `GOUT|577`
+│   │   inner_content: `GOUT|577`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `GOUT`
+│   │   │   inner_content: `GOUT`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `GOUT`
+│   │   │   │   inner_content: `GOUT`
+│   │   ├── TableCellNode
+│   │   │   full_match: `577`
+│   │   │   inner_content: `577`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `577`
+│   │   │   │   inner_content: `577`
+│   ├── TableRowNode
+│   │   full_match: `DIABETES MELLITUS|528`
+│   │   inner_content: `DIABETES MELLITUS|528`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `DIABETES MELLITUS`
+│   │   │   inner_content: `DIABETES MELLITUS`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `DIABETES MELLITUS`
+│   │   │   │   inner_content: `DIABETES MELLITUS`
+│   │   ├── TableCellNode
+│   │   │   full_match: `528`
+│   │   │   inner_content: `528`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `528`
+│   │   │   │   inner_content: `528`
+│   ├── TableRowNode
+│   │   full_match: `METABOLIC ENCEPHALOPATHY|483|Brain`
+│   │   inner_content: `METABOLIC ENCEPHALOPATHY|483|Brain`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `METABOLIC ENCEPHALOPATHY`
+│   │   │   inner_content: `METABOLIC ENCEPHALOPATHY`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `METABOLIC ENCEPHALOPATHY`
+│   │   │   │   inner_content: `METABOLIC ENCEPHALOPATHY`
+│   │   ├── TableCellNode
+│   │   │   full_match: `483`
+│   │   │   inner_content: `483`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `483`
+│   │   │   │   inner_content: `483`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Brain`
+│   │   │   inner_content: `Brain`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Brain`
+│   │   │   │   inner_content: `Brain`
+│   ├── TableRowNode
+│   │   full_match: `HYPOTHYROIDISM|394`
+│   │   inner_content: `HYPOTHYROIDISM|394`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPOTHYROIDISM`
+│   │   │   inner_content: `HYPOTHYROIDISM`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPOTHYROIDISM`
+│   │   │   │   inner_content: `HYPOTHYROIDISM`
+│   │   ├── TableCellNode
+│   │   │   full_match: `394`
+│   │   │   inner_content: `394`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `394`
+│   │   │   │   inner_content: `394`
+│   ├── TableRowNode
+│   │   full_match: `HYPOMAGNESAEMIA|195|low Magnesium`
+│   │   inner_content: `HYPOMAGNESAEMIA|195|low Magnesium`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `HYPOMAGNESAEMIA`
+│   │   │   inner_content: `HYPOMAGNESAEMIA`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `HYPOMAGNESAEMIA`
+│   │   │   │   inner_content: `HYPOMAGNESAEMIA`
+│   │   ├── TableCellNode
+│   │   │   full_match: `195`
+│   │   │   inner_content: `195`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `195`
+│   │   │   │   inner_content: `195`
+│   │   ├── TableCellNode
+│   │   │   full_match: `low Magnesium`
+│   │   │   inner_content: `low Magnesium`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `low Magnesium`
+│   │   │   │   inner_content: `low Magnesium`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Metabolic Syndrome)) contains:`

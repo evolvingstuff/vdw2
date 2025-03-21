@@ -198,7 +198,7 @@ Conclusion: Vitamin D levels of pregnant women with hyperemesis gravidarum were 
 <!-- ~tc~ (alias(Nausea and vommiting while pregnant associated with low Vitamin D)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

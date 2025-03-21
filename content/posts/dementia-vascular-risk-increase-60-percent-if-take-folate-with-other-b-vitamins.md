@@ -48,7 +48,7 @@ Folate/folic acid supplementation alone is significantly associated with a highe
 <!-- ~tc~ (alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

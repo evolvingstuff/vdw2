@@ -23,7 +23,7 @@ date: 2023-08-07
 <!-- ~tc~ (alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

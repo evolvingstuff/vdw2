@@ -79,7 +79,7 @@ As to the scientific journal literature, you can generally obtain PDFs through p
 <!-- ~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

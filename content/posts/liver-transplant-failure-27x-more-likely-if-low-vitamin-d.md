@@ -146,7 +146,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

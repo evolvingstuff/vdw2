@@ -49,7 +49,7 @@ The data showed that VDD was common among the critically ill and was related to 
 <!-- ~tc~ (alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

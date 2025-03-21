@@ -194,7 +194,7 @@ Vitamin D is crucial to the health and performance of athletes. Although the exa
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

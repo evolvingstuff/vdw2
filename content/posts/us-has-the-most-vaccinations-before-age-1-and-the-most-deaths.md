@@ -111,7 +111,7 @@ Drop in US SIDS when vaccinations slowed due to COVID-19 – July 2021
 #### VitaminDWiki - <a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

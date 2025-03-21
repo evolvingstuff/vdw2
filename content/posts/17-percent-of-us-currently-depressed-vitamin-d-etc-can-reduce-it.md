@@ -10,7 +10,7 @@ categories:
 ---
 
 
- <span style="color:orange;">Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241)%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs</span>hs~ otherwise must wait for 2 months to notice reduced depression%%%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>%%%Both Omega-3 and Magnesium also reduce depression ~~
+ <span style="color:orange;">Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs</span>hs~ otherwise must wait for 2 months to notice reduced depression&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>Both Omega-3 and Magnesium also reduce depression ~~
 
 ---
 
@@ -50,11 +50,11 @@ categories:
 <!-- ~tc~ (alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241)%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs&lt;/span&gt;hs~ otherwise must wait for 2 months to notice reduced depression%%%&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;%%%Both Omega-3 and Magnesium also reduce depression ~~
+ &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs&lt;/span&gt;hs~ otherwise must wait for 2 months to notice reduced depression&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;Both Omega-3 and Magnesium also reduce depression ~~
 
 ---
 
@@ -110,8 +110,14 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly `
-│   │   │   inner_content: `Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly `
+│   │   │   full_match: `Vitamin D is the lowest-cost depression treatment: only pennies a day `
+│   │   │   inner_content: `Vitamin D is the lowest-cost depression treatment: only pennies a day `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Single 50,000 IU capsule bi-weekly or weekly `
+│   │   │   inner_content: `Single 50,000 IU capsule bi-weekly or weekly `
 │   │   ├── LinkNode
 │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]`
 │   │   │   inner_content: `(RCT)`
@@ -120,12 +126,24 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `(RCT)`
 │   │   │   │   inner_content: `(RCT)`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
 │   │   ├── TextNode
-│   │   │   full_match: `%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs`
-│   │   │   inner_content: `%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs`
+│   │   │   full_match: ` Start with 50,000 IU daily for the first week to get results in 1 week, `
+│   │   │   inner_content: ` Start with 50,000 IU daily for the first week to get results in 1 week, `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` ~hs`
+│   │   │   inner_content: ` ~hs`
 │   ├── TextNode
-│   │   full_match: `hs~ otherwise must wait for 2 months to notice reduced depression%%%`
-│   │   inner_content: `hs~ otherwise must wait for 2 months to notice reduced depression%%%`
+│   │   full_match: `hs~ otherwise must wait for 2 months to notice reduced depression`
+│   │   inner_content: `hs~ otherwise must wait for 2 months to notice reduced depression`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -138,9 +156,12 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Can get 50,000 IU Vitamin D anywhere on the globe`
 │   │   │   inner_content: `Can get 50,000 IU Vitamin D anywhere on the globe`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── TextNode
-│   │   full_match: `%%%Both Omega-3 and Magnesium also reduce depression ~~`
-│   │   inner_content: `%%%Both Omega-3 and Magnesium also reduce depression ~~`├── HorizontalRuleNode
+│   │   full_match: `Both Omega-3 and Magnesium also reduce depression ~~`
+│   │   inner_content: `Both Omega-3 and Magnesium also reduce depression ~~`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

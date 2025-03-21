@@ -63,7 +63,7 @@ Adult Saudi females showed improved muscle strength and quality of life followin
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -37,7 +37,7 @@ In contrast, the present study’s results suggest that male PT young adults exh
 #### VitaminDWiki - <a href="/posts/low-heart-rate-variability-bad-is-associated-with-low-vitamin-d-and-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low heart rate variability (bad) is associated with low Vitamin D and COVID – many studies">Low heart rate variability (bad) is associated with low Vitamin D and COVID – many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

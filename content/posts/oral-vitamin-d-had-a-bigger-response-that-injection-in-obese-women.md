@@ -41,7 +41,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ##### I do not recall seeing this before
 
- **Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time** 
+ **Is it due to obesity?Or due to when the Vitamin D test was given relative to dosing time** 
 
 ---
 
@@ -49,7 +49,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -86,7 +86,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ##### I do not recall seeing this before
 
- **Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time** 
+ **Is it due to obesity?Or due to when the Vitamin D test was given relative to dosing time** 
 
 ---
 
@@ -144,8 +144,14 @@ AST Structure:
 │   inner_content: `Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time`
-│   │   inner_content: `Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time`├── HorizontalRuleNode
+│   │   full_match: `Is it due to obesity?`
+│   │   inner_content: `Is it due to obesity?`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Or due to when the Vitamin D test was given relative to dosing time`
+│   │   inner_content: `Or due to when the Vitamin D test was given relative to dosing time`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDwiki – ((Injection)) contains`

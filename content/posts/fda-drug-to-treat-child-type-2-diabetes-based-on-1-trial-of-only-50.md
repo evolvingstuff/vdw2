@@ -48,7 +48,7 @@ categories:
 <!-- ~tc~ (alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

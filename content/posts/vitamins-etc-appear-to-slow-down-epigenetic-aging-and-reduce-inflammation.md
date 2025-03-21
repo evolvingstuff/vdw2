@@ -148,7 +148,7 @@ Plasma GDF-15 and C-reactive protein (CRP) concentrations were quantified as mar
 <!-- ~tc~ (alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

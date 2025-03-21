@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Chance of moderately severe COVID 3X less likely if plant-based diet</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -302,7 +302,7 @@
     <article>
         <h1>Chance of moderately severe COVID 3X less likely if plant-based diet</h1>
         <time>May 11, 2023</time>
-        <p><strong><span style="color:orange;">Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D </span></strong></p>
+        <p><strong><span style="color:orange;">Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D </span></strong></p>
 <!-- {maketoc Title=""} -->
 <hr>
 <h4 id="plant-based-diets-pescatarian-diets-and-covid-19-severity-a-population-based-casecontrol-study-in-six-countries">Plant-based diets, pescatarian diets and COVID-19 severity: a population-based case–control study in six countries</h4>
@@ -367,11 +367,11 @@
 <p>Diabetes and the Nutrition and Diets for Its Prevention and Treatment: A Systematic Review and Dietetic Perspective - Feb 2020</p>
 </li>
 </ul>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D &lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D &lt;/span&gt;** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
  
@@ -465,8 +465,14 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D `
-│   │   │   │   inner_content: `Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D `├── TextNode
+│   │   │   │   full_match: `Note: The survey did not ask about vitamin D supplementation. `
+│   │   │   │   inner_content: `Note: The survey did not ask about vitamin D supplementation. `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `People on a plant-based diet have less diabetes and may also supplement with Vitamin D `
+│   │   │   │   inner_content: `People on a plant-based diet have less diabetes and may also supplement with Vitamin D `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -843,7 +849,7 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -853,8 +859,8 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

@@ -163,7 +163,7 @@ Conclusions: Monthly administration of oral cholecalciferol 25,000IU every 4 wee
 <!-- ~tc~ (alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

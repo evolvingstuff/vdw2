@@ -161,7 +161,7 @@ Summary: Vitamin D status appears to be relevant to reproductive physiology, and
 <!-- ~tc~ (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

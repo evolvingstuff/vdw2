@@ -92,7 +92,7 @@ Conclusions: The majority of pregnant women evaluated in this study were vitamin
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -61,7 +61,7 @@ Perhaps due to the pinoresinol in the oil
 <!-- ~tc~ (alias(Olive oil problem with vitamin D (again) - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -48,7 +48,7 @@ Copy and paste results just after the Associations heading
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -899,26 +899,20 @@ AST Structure:
 │   │   │   customsearchjs: 0
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `\n{LIST()}\n    `
-│   │   │   inner_content: `\n{LIST()}\n    `
-│   │   ├── FilterNode
-│   │   │   full_match: `{filter categories=&quot;82&quot;}`
-│   │   │   inner_content: ``
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
+│   │   ├── ListNode
+│   │   │   full_match: `{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}`
+│   │   │   inner_content: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
 │   │   │   attrs_dict:
-│   │   │   │   raw_content: categories=&quot;82&quot;
-│   │   │   │   categories: 82
+│   │   │   │   raw_content: 
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   inner_content: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
 │   │   ├── TextNode
-│   │   │   full_match: `\n    `
-│   │   │   inner_content: `\n    `
-│   │   ├── FilterNode
-│   │   │   full_match: `{filter type=&quot;wiki page&quot;}`
-│   │   │   inner_content: ``
-│   │   │   attrs_dict:
-│   │   │   │   raw_content: type=&quot;wiki page&quot;
-│   │   │   │   type: wiki page
-│   │   ├── TextNode
-│   │   │   full_match: `\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
-│   │   │   inner_content: `\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── TextNode

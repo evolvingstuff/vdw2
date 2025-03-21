@@ -64,7 +64,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

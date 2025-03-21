@@ -35,7 +35,7 @@ Smoking ==> reduces Vitamin D ==> increases hair loss
 #### VitaminDWiki - <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -53,7 +53,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 * <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a> 25,000 visitors as of Oct 2023
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

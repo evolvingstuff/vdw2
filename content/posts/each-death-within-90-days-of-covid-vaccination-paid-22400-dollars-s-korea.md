@@ -60,7 +60,7 @@ categories:
 <!-- ~tc~ (alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

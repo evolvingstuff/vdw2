@@ -44,7 +44,7 @@ Mediation analysis showed a 16.3% contribution of maternal hsCRP to the relation
 
 * <a href="/posts/air-pollution-decreases-vitamin-d-levels-while-pregnant-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution decreases Vitamin D levels (while pregnant in this case) – July 2022">Air pollution decreases Vitamin D levels (while pregnant in this case) – July 2022</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

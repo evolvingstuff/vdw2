@@ -42,7 +42,7 @@ Includes > 100 items, such items as
 <!-- ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

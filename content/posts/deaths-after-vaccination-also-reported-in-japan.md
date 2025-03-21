@@ -30,7 +30,7 @@ categories:
 #### VitaminDWiki - [Excess deaths after COVID vaccination - 17 countries - Sept 2023](/posts/excess-deaths-after-covid-vaccination-17-countries)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

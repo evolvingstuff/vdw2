@@ -57,7 +57,7 @@ Conclusion: Vitamin D replacement has a positive effect on cognitive domains rel
 
 #### Comment on inadequate follow-up dosing by VitaminDWiki:
 
- **Only 1,000 IU of vitamin D was given daily during the last 4 months%%%If they had instead used 50,000 IU every two weeks they would have had much better outcomes%%%And vitamin D levels of 40 ng instead of 30 ng** 
+ **Only 1,000 IU of vitamin D was given daily during the last 4 monthsIf they had instead used 50,000 IU every two weeks they would have had much better outcomesAnd vitamin D levels of 40 ng instead of 30 ng** 
 
 ---
 
@@ -77,7 +77,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -126,7 +126,7 @@ Conclusion: Vitamin D replacement has a positive effect on cognitive domains rel
 
 #### Comment on inadequate follow-up dosing by VitaminDWiki:
 
- **Only 1,000 IU of vitamin D was given daily during the last 4 months%%%If they had instead used 50,000 IU every two weeks they would have had much better outcomes%%%And vitamin D levels of 40 ng instead of 30 ng** 
+ **Only 1,000 IU of vitamin D was given daily during the last 4 monthsIf they had instead used 50,000 IU every two weeks they would have had much better outcomesAnd vitamin D levels of 40 ng instead of 30 ng** 
 
 ---
 
@@ -296,8 +296,20 @@ AST Structure:
 │   inner_content: `Only 1,000 IU of vitamin D was given daily during the last 4 months%%%If they had instead used 50,000 IU every two weeks they would have had much better outcomes%%%And vitamin D levels of 40 ng instead of 30 ng`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Only 1,000 IU of vitamin D was given daily during the last 4 months%%%If they had instead used 50,000 IU every two weeks they would have had much better outcomes%%%And vitamin D levels of 40 ng instead of 30 ng`
-│   │   inner_content: `Only 1,000 IU of vitamin D was given daily during the last 4 months%%%If they had instead used 50,000 IU every two weeks they would have had much better outcomes%%%And vitamin D levels of 40 ng instead of 30 ng`├── HorizontalRuleNode
+│   │   full_match: `Only 1,000 IU of vitamin D was given daily during the last 4 months`
+│   │   inner_content: `Only 1,000 IU of vitamin D was given daily during the last 4 months`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `If they had instead used 50,000 IU every two weeks they would have had much better outcomes`
+│   │   inner_content: `If they had instead used 50,000 IU every two weeks they would have had much better outcomes`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `And vitamin D levels of 40 ng instead of 30 ng`
+│   │   inner_content: `And vitamin D levels of 40 ng instead of 30 ng`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 162  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Intervention - non daily and Cognition`

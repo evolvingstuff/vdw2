@@ -177,7 +177,7 @@ If there is no published clinical evidence, assessments are based on: pharmacody
 <!-- ~tc~ (alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

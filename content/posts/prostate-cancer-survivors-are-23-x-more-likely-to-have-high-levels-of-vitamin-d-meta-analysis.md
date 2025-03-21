@@ -85,7 +85,7 @@ This list is automatically updated
 #### VitaminDWiki – <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer probably reduced by vitamin D - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

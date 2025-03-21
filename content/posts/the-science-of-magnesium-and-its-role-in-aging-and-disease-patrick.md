@@ -114,7 +114,7 @@ The page also highlights the significance of both vitamin D and its cofactors to
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

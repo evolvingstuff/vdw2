@@ -36,7 +36,7 @@ categories:
 <!-- ~tc~ (alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

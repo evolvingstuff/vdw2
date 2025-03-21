@@ -78,7 +78,7 @@ Lots of details in the article
 <!-- ~tc~ (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

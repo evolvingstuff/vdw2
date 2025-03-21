@@ -42,7 +42,7 @@ American and English parliamentarians question administrative and political lead
 #### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

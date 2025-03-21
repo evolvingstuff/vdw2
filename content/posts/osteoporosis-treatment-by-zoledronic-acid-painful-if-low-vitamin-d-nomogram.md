@@ -74,7 +74,7 @@ Musculoskeletal pain is a common symptom of APR in OP patients treated with intr
 <!-- ~tc~ (alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

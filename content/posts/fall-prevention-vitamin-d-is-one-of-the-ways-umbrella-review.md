@@ -180,7 +180,7 @@ Conclusion: 'Exercise' interventions may be the most appropriate falls preventio
 <!-- ~tc~ (alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -45,7 +45,7 @@ categories:
 
 * [74% of autopsies were found to be related to COVID vaccination (from 44 studies) – Lancet July 2023](/posts/74-percent-of-autopsies-were-found-to-be-related-to-covid-vaccination-from-44-studies-lancet)
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

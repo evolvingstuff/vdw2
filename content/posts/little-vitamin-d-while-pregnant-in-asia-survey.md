@@ -37,7 +37,7 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
 
 #### VitaminDWiki recommends: 50,000 IU D3 weekly before, during, and after pregnancy
 
- **Preferably starting 50,000 IU daily for the first week. %%%Otherwise it takes 5 month for the vitamin D levels to plateau%%% %%% <span style="color:orange;">Any amount of Vitamin D is far better than no Vitamin D</span>%%%No Vitamin D screening nor test is needed** 
+ **Preferably starting 50,000 IU daily for the first week. Otherwise it takes 5 month for the vitamin D levels to plateau  <span style="color:orange;">Any amount of Vitamin D is far better than no Vitamin D</span>No Vitamin D screening nor test is needed** 
 
  **Note: Vitamin D2 should NOT be taken, and if taken, D2 must be daily** 
 
@@ -45,33 +45,20 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter categories="12"} -->
-
-<!-- {filter field="title" content="\"WEEkly\" OR “\"biweekly\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter categories="12"}
+{filter field="title" content="\"WEEkly\" OR “\"biweekly\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -210,7 +197,7 @@ Not Sure	8/15	(53.3	%)
 #### VitaminDWiki – [Breastfeeding and Vitamin D - many studies](/posts/breastfeeding-and-vitamin-d-many-studies): 39+ as of Dec 2023
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -239,7 +226,7 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
 
 #### VitaminDWiki recommends: 50,000 IU D3 weekly before, during, and after pregnancy
 
- **Preferably starting 50,000 IU daily for the first week. %%%Otherwise it takes 5 month for the vitamin D levels to plateau%%% %%% &lt;span style=&quot;color:orange;&quot;&gt;Any amount of Vitamin D is far better than no Vitamin D&lt;/span&gt;%%%No Vitamin D screening nor test is needed** 
+ **Preferably starting 50,000 IU daily for the first week. Otherwise it takes 5 month for the vitamin D levels to plateau  &lt;span style=&quot;color:orange;&quot;&gt;Any amount of Vitamin D is far better than no Vitamin D&lt;/span&gt;No Vitamin D screening nor test is needed** 
 
  **Note: Vitamin D2 should NOT be taken, and if taken, D2 must be daily** 
 
@@ -247,33 +234,20 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter categories=&quot;12&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter categories=&quot;12&quot;}
+{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -475,8 +449,23 @@ AST Structure:
 │   inner_content: `Preferably starting 50,000 IU daily for the first week. %%%Otherwise it takes 5 month for the vitamin D levels to plateau%%% %%%~~#00F:Any amount of Vitamin D is far better than no Vitamin D~~%%%No Vitamin D screening nor test is needed`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Preferably starting 50,000 IU daily for the first week. %%%Otherwise it takes 5 month for the vitamin D levels to plateau%%% %%%`
-│   │   inner_content: `Preferably starting 50,000 IU daily for the first week. %%%Otherwise it takes 5 month for the vitamin D levels to plateau%%% %%%`
+│   │   full_match: `Preferably starting 50,000 IU daily for the first week. `
+│   │   inner_content: `Preferably starting 50,000 IU daily for the first week. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Otherwise it takes 5 month for the vitamin D levels to plateau`
+│   │   inner_content: `Otherwise it takes 5 month for the vitamin D levels to plateau`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── ColorNode
 │   │   full_match: `~~#00F:Any amount of Vitamin D is far better than no Vitamin D~~`
 │   │   inner_content: `Any amount of Vitamin D is far better than no Vitamin D`
@@ -486,9 +475,12 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Any amount of Vitamin D is far better than no Vitamin D`
 │   │   │   inner_content: `Any amount of Vitamin D is far better than no Vitamin D`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── TextNode
-│   │   full_match: `%%%No Vitamin D screening nor test is needed`
-│   │   inner_content: `%%%No Vitamin D screening nor test is needed`├── TextNode
+│   │   full_match: `No Vitamin D screening nor test is needed`
+│   │   inner_content: `No Vitamin D screening nor test is needed`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── BoldNode
 │   full_match: `__Note: Vitamin D2 should NOT be taken, and if taken, D2 must be daily__`
@@ -523,30 +515,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter categories=&quot;12&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: categories=&quot;12&quot;
-│   │   categories: 12├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;12&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;12&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;12&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;12&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;WEEkly\&quot; OR “\&quot;biweekly\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!VitaminDWiki - ((Can get 50,000 IU Vitamin D anywhere on the globe))`

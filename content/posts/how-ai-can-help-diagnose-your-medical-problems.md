@@ -193,7 +193,7 @@ Will probably encourage the Chat to ask for clarifying information if needed (la
 
  **[Google Claims Healthcare AI More Empathetic, Accurate Than Real-Life Doctors](https://www.pymnts.com/artificial-intelligence-2/2024/google-claims-healthcare-ai-more-empathetic-accurate-than-real-life-doctors/#:~:text=But%20the%20AMIE%20chatbot%2C%20based,both%20respiratory%20and%20cardiovascular%20conditions. ) Jan 2024** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

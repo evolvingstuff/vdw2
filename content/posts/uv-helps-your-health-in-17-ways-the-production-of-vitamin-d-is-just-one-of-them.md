@@ -363,7 +363,7 @@ Ultraviolet radiation (UVR) is primarily recognized for its detrimental effects 
 
 * <a href="/posts/less-sun-means-more-disease-grant-holick-cannell-et-al" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015">Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

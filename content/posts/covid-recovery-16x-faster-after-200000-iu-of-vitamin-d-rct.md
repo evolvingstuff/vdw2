@@ -66,7 +66,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

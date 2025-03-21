@@ -11,7 +11,7 @@ categories:
 ---
 
 
- <span style="color:orange;">__Note: COVID %%% ~hs</span>hs~ ==> deactivates Vitamin D Receptor %%%&nbsp;&nbsp;&nbsp;&nbsp; ==> reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
+ <span style="color:orange;">__Note: COVID  ~hs</span>hs~ ==> deactivates Vitamin D Receptor &nbsp;&nbsp;&nbsp;&nbsp; ==> reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
 
 <!-- {maketoc Title=""} -->
 
@@ -237,11 +237,11 @@ Hence, it is possible to speculate that severe COVID-19 patients are characteriz
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;__Note: COVID %%% ~hs&lt;/span&gt;hs~ ==&gt; deactivates Vitamin D Receptor %%%&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
+ &lt;span style=&quot;color:orange;&quot;&gt;__Note: COVID  ~hs&lt;/span&gt;hs~ ==&gt; deactivates Vitamin D Receptor &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -483,11 +483,20 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `__Note: COVID %%% ~hs`
-│   │   │   inner_content: `__Note: COVID %%% ~hs`
+│   │   │   full_match: `__Note: COVID `
+│   │   │   inner_content: `__Note: COVID `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` ~hs`
+│   │   │   inner_content: ` ~hs`
 │   ├── TextNode
-│   │   full_match: `hs~ ==&gt; deactivates Vitamin D Receptor %%%`
-│   │   inner_content: `hs~ ==&gt; deactivates Vitamin D Receptor %%%`
+│   │   full_match: `hs~ ==&gt; deactivates Vitamin D Receptor `
+│   │   inner_content: `hs~ ==&gt; deactivates Vitamin D Receptor `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``

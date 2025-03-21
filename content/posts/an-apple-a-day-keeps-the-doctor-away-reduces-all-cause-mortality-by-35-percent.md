@@ -106,7 +106,7 @@ categories:
 <!-- ~tc~ (alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

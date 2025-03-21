@@ -45,7 +45,7 @@ Conclusion: COVID-19 survivors with long COVID have lower 25(OH) vitamin D level
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

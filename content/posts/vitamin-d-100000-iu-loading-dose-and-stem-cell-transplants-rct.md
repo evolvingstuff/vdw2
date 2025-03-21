@@ -44,7 +44,7 @@ In conclusion, single loading dose vitamin D3 significantly increased total 25(O
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

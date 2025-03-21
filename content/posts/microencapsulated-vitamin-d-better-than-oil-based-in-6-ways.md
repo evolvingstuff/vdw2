@@ -41,7 +41,7 @@ In the microencapsulated vitamin D group, there was a decrease in
 
 The fasting plasma glucose levels did not change significantly.
 
-Conclusion: The results of our study show that the patients supplemented with a microencapsulated%%% form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
+Conclusion: The results of our study show that the patients supplemented with a microencapsulated form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
 
 ---
 
@@ -87,7 +87,7 @@ Our findings indicate that a nanoemulsion-based delivery system is a promising a
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -122,7 +122,7 @@ In the microencapsulated vitamin D group, there was a decrease in
 
 The fasting plasma glucose levels did not change significantly.
 
-Conclusion: The results of our study show that the patients supplemented with a microencapsulated%%% form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
+Conclusion: The results of our study show that the patients supplemented with a microencapsulated form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
 
 ---
 
@@ -273,8 +273,12 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` (p=0.006). `
 │   │   inner_content: ` (p=0.006). `├── TextNode
-│   full_match: `\nThe fasting plasma glucose levels did not change significantly.\n\nConclusion: The results of our study show that the patients supplemented with a microencapsulated%%% form of vitamin D3 achieved `
-│   inner_content: `\nThe fasting plasma glucose levels did not change significantly.\n\nConclusion: The results of our study show that the patients supplemented with a microencapsulated%%% form of vitamin D3 achieved `├── BoldNode
+│   full_match: `\nThe fasting plasma glucose levels did not change significantly.\n\nConclusion: The results of our study show that the patients supplemented with a microencapsulated`
+│   inner_content: `\nThe fasting plasma glucose levels did not change significantly.\n\nConclusion: The results of our study show that the patients supplemented with a microencapsulated`├── NewlineNode
+│   full_match: `%%%`
+│   inner_content: ``├── TextNode
+│   full_match: ` form of vitamin D3 achieved `
+│   inner_content: ` form of vitamin D3 achieved `├── BoldNode
 │   full_match: `__faster compensation of 25(OH)D levels__`
 │   inner_content: `faster compensation of 25(OH)D levels`
 │   children:

@@ -57,11 +57,11 @@ Appropriately powered studies of longer duration are recommended for replication
 
 ##### Vitamin D group had 13% less hospital cost than the control group
 
-||Group|Total Hospital $|# of people days|Average $/day
-
-Control |$41,109,649 |590,000 |$69.67
-
-Intervention|$2,318,500 |37,900|$61.16||
+| | | | |
+| --- | --- | --- | --- |
+| Group | Total Hospital $ | 1.  of people days | Average $/day |
+| Control  | $41,109,649  | 590,000  | $69.67 |
+| Intervention | $2,318,500  | 37,900 | $61.16 |
 
 However, the abstract says: "Costs of care between the groups were not statistically different. "
 
@@ -89,66 +89,36 @@ However, the abstract says: "Costs of care between the groups were not statistic
 
 This list is automatically updated
 
-{LIST()}
-
-  
-<!-- {filter type="wiki page"} -->
-
+<!-- {LIST()}
+  {filter type="wiki page"}
 {list max="100"}
-
-<!-- {filter field="title" content="\" 5000 \" OR \" 5,000 \""} -->
-
-<!-- {filter field="title" content="NOT \" 50000\""} -->
-
-<!-- {filter field="title" content="NOT \" 50,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 12,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 1,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 300,000\""} -->
-
-<!-- {filter field="title" content="NOT \" mice\""} -->
-
-<!-- {filter field="title" content="NOT \" 900,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 100,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 10,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 20,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 4,000\""} -->
-
-<!-- {filter field="title" content="NOT \" 600,000\""} -->
-
-<!-- {filter field="title" content="NOT \" years\""} -->
-
-<!-- {filter field="title" content="NOT \" 245,000\""} -->
-
-<!-- {filter field="title" content="NOT \" school days\""} -->
-
-<!-- {filter field="title" content="NOT \" D2\""} -->
-
-<!-- {filter field="title" content="NOT \" fossil\""} -->
-
+{filter field="title" content="\" 5000 \" OR \" 5,000 \""}
+{filter field="title" content="NOT \" 50000\""}
+{filter field="title" content="NOT \" 50,000\""}
+{filter field="title" content="NOT \" 12,000\""}
+{filter field="title" content="NOT \" 1,000\""}
+{filter field="title" content="NOT \" 300,000\""}
+{filter field="title" content="NOT \" mice\""}
+{filter field="title" content="NOT \" 900,000\""}
+{filter field="title" content="NOT \" 100,000\""}
+{filter field="title" content="NOT \" 10,000\""}
+{filter field="title" content="NOT \" 20,000\""}
+{filter field="title" content="NOT \" 4,000\""}
+{filter field="title" content="NOT \" 600,000\""}
+{filter field="title" content="NOT \" years\""}
+{filter field="title" content="NOT \" 245,000\""}
+{filter field="title" content="NOT \" school days\""}
+{filter field="title" content="NOT \" D2\""}
+{filter field="title" content="NOT \" fossil\""}
   {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -163,7 +133,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -214,11 +184,11 @@ Appropriately powered studies of longer duration are recommended for replication
 
 ##### Vitamin D group had 13% less hospital cost than the control group
 
-||Group|Total Hospital $|# of people days|Average $/day
-
-Control |$41,109,649 |590,000 |$69.67
-
-Intervention|$2,318,500 |37,900|$61.16||
+| | | | |
+| --- | --- | --- | --- |
+| Group | Total Hospital $ | 1.  of people days | Average $/day |
+| Control  | $41,109,649  | 590,000  | $69.67 |
+| Intervention | $2,318,500  | 37,900 | $61.16 |
 
 However, the abstract says: &quot;Costs of care between the groups were not statistically different. &quot;
 
@@ -246,66 +216,36 @@ However, the abstract says: &quot;Costs of care between the groups were not stat
 
 This list is automatically updated
 
-{LIST()}
-
-  
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+&lt;!-- {LIST()}
+  {filter type=&quot;wiki page&quot;}
 {list max=&quot;100&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}
   {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -466,8 +406,114 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D group had 13% less hospital cost than the control group`
 │   │   inner_content: `Vitamin D group had 13% less hospital cost than the control group`├── TextNode
-│   full_match: `\n||Group|Total Hospital $|# of people days|Average $/day\nControl |$41,109,649 |590,000 |$69.67\nIntervention|$2,318,500 |37,900|$61.16||\nHowever, the abstract says: &quot;Costs of care between the groups were not statistically different. &quot;`
-│   inner_content: `\n||Group|Total Hospital $|# of people days|Average $/day\nControl |$41,109,649 |590,000 |$69.67\nIntervention|$2,318,500 |37,900|$61.16||\nHowever, the abstract says: &quot;Costs of care between the groups were not statistically different. &quot;`├── HorizontalRuleNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Group|Total Hospital $|# of people days|Average $/day\nControl |$41,109,649 |590,000 |$69.67\nIntervention|$2,318,500 |37,900|$61.16||`
+│   inner_content: `Group|Total Hospital $|# of people days|Average $/day\nControl |$41,109,649 |590,000 |$69.67\nIntervention|$2,318,500 |37,900|$61.16`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Group|Total Hospital $|# of people days|Average $/day`
+│   │   inner_content: `Group|Total Hospital $|# of people days|Average $/day`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Group`
+│   │   │   inner_content: `Group`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Group`
+│   │   │   │   inner_content: `Group`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Total Hospital $`
+│   │   │   inner_content: `Total Hospital $`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Total Hospital $`
+│   │   │   │   inner_content: `Total Hospital $`
+│   │   ├── TableCellNode
+│   │   │   full_match: `# of people days`
+│   │   │   inner_content: `# of people days`
+│   │   │   children:
+│   │   │   ├── NumListItemNode
+│   │   │   │   full_match: `# of people days`
+│   │   │   │   inner_content: ` of people days`
+│   │   │   │   depth: `1`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` of people days`
+│   │   │   │   │   inner_content: ` of people days`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Average $/day`
+│   │   │   inner_content: `Average $/day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Average $/day`
+│   │   │   │   inner_content: `Average $/day`
+│   ├── TableRowNode
+│   │   full_match: `Control |$41,109,649 |590,000 |$69.67`
+│   │   inner_content: `Control |$41,109,649 |590,000 |$69.67`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Control `
+│   │   │   inner_content: `Control `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Control `
+│   │   │   │   inner_content: `Control `
+│   │   ├── TableCellNode
+│   │   │   full_match: `$41,109,649 `
+│   │   │   inner_content: `$41,109,649 `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$41,109,649 `
+│   │   │   │   inner_content: `$41,109,649 `
+│   │   ├── TableCellNode
+│   │   │   full_match: `590,000 `
+│   │   │   inner_content: `590,000 `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `590,000 `
+│   │   │   │   inner_content: `590,000 `
+│   │   ├── TableCellNode
+│   │   │   full_match: `$69.67`
+│   │   │   inner_content: `$69.67`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$69.67`
+│   │   │   │   inner_content: `$69.67`
+│   ├── TableRowNode
+│   │   full_match: `Intervention|$2,318,500 |37,900|$61.16`
+│   │   inner_content: `Intervention|$2,318,500 |37,900|$61.16`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Intervention`
+│   │   │   inner_content: `Intervention`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Intervention`
+│   │   │   │   inner_content: `Intervention`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$2,318,500 `
+│   │   │   inner_content: `$2,318,500 `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$2,318,500 `
+│   │   │   │   inner_content: `$2,318,500 `
+│   │   ├── TableCellNode
+│   │   │   full_match: `37,900`
+│   │   │   inner_content: `37,900`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `37,900`
+│   │   │   │   inner_content: `37,900`
+│   │   ├── TableCellNode
+│   │   │   full_match: `$61.16`
+│   │   │   inner_content: `$61.16`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `$61.16`
+│   │   │   │   inner_content: `$61.16`├── TextNode
+│   full_match: `\nHowever, the abstract says: &quot;Costs of care between the groups were not statistically different. &quot;`
+│   inner_content: `\nHowever, the abstract says: &quot;Costs of care between the groups were not statistically different. &quot;`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!It actually takes &gt;150 days for response to plateau, not 60 days (in this study)`
@@ -579,159 +625,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n  `
-│   inner_content: `\n{LIST()}\n  `├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{list max=&quot;100&quot;}\n`
-│   inner_content: `\n{list max=&quot;100&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── BoldNode
 │   full_match: `__URL = is.gd/dcost3__`

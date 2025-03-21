@@ -44,7 +44,7 @@ Children with asthma and obesity are more likely to have lower vitamin D levels,
 <!-- ~tc~ (alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

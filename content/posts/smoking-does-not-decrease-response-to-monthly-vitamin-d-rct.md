@@ -105,7 +105,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 <!-- ~tc~ (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

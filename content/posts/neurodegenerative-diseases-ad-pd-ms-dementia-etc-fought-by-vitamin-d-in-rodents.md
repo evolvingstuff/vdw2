@@ -51,7 +51,7 @@ Neurodegenerative diseases, featured by progressive loss of structure or functio
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

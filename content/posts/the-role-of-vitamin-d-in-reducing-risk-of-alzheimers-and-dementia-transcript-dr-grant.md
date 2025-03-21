@@ -187,7 +187,7 @@ Corrected March 2023, attached at the bottom of this page
 <!-- ~tc~ (alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -29,7 +29,7 @@ Of those, 70% start in childhood.  (56% of rare diseases start in childhood)
 <!-- ~tc~ (alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

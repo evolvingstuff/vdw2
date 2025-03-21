@@ -108,7 +108,7 @@ In low-functioning older adults with serum 25(OH)D levels 10–29 ng/mL, vitam
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

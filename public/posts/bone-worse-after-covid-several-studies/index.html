@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Bone worse after COVID - several studies</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -302,7 +302,7 @@
     <article>
         <h1>Bone worse after COVID - several studies</h1>
         <time>November 22, 2023</time>
-        <p><span style="color:orange;"><strong>Note: COVID %%% <del>hs</span>hs</del> ==&gt; deactivates Vitamin D Receptor %%%     ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~</strong></p>
+        <p><span style="color:orange;"><strong>Note: COVID  <del>hs</span>hs</del> ==&gt; deactivates Vitamin D Receptor      ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~</strong></p>
 <!-- {maketoc Title=""} -->
 <hr>
 <h4 id="effect-of-covid-19-pandemic-on-lifestyle-and-bone-mineral-density-in-young-adults---nov-2023">Effect of COVID-19 pandemic on lifestyle and bone mineral density in young adults - Nov 2023</h4>
@@ -556,11 +556,11 @@
 <p>Global data correlate severe vitamin D deficiency with COVID-19-associated coagulopathy, further suggesting the presence of a hypercoagulable state in severe COVID-19 patients, which could promote thrombosis in the lungs and in other organs. The feedback loop between COVID-19-associated coagulopathy and vitamin D also involves platelets (PLTs), since vitamin D deficiency stimulates PLT activation and aggregation and increases fibrinolysis and thrombosis. Vitamin D and PLTs share and play specific roles not only in coagulation and thrombosis but also during inflammation, endothelial dysfunction, and immune response. Additionally, another ‘fil rouge’ between vitamin D and PLTs is represented by their role in mineral metabolism and bone health, since vitamin D deficiency, low PLT count, and altered PLT-related parameters are linked to abnormal bone remodeling in certain pathological conditions, such as osteoporosis (OP).</p>
 <p>Hence, it is possible to speculate that severe COVID-19 patients are characterized by the presence of several predisposing factors to bone fragility and OP that may be monitored to avoid potential complications. Here, we hypothesize different pervasive actions of vitamin D and PLT association in COVID-19, also allowing for potential preliminary information on bone health status during COVID-19 infection.</p>
 <p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;__Note: COVID %%% ~hs&lt;/span&gt;hs~ ==&gt; deactivates Vitamin D Receptor %%%&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
+ &lt;span style=&quot;color:orange;&quot;&gt;__Note: COVID  ~hs&lt;/span&gt;hs~ ==&gt; deactivates Vitamin D Receptor &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium ~~__
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -802,11 +802,20 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `__Note: COVID %%% ~hs`
-│   │   │   inner_content: `__Note: COVID %%% ~hs`
+│   │   │   full_match: `__Note: COVID `
+│   │   │   inner_content: `__Note: COVID `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` ~hs`
+│   │   │   inner_content: ` ~hs`
 │   ├── TextNode
-│   │   full_match: `hs~ ==&gt; deactivates Vitamin D Receptor %%%`
-│   │   inner_content: `hs~ ==&gt; deactivates Vitamin D Receptor %%%`
+│   │   full_match: `hs~ ==&gt; deactivates Vitamin D Receptor `
+│   │   inner_content: `hs~ ==&gt; deactivates Vitamin D Receptor `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -2094,7 +2103,7 @@ Hence, it is possible to speculate that severe COVID-19 patients are characteriz
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -2104,8 +2113,8 @@ Hence, it is possible to speculate that severe COVID-19 patients are characteriz
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

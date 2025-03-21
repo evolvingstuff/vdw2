@@ -87,7 +87,7 @@ Gynecological cancer and atherosclerosis are two of the most frequent medical en
 <!-- ~tc~ (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

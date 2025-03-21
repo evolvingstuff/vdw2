@@ -60,7 +60,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

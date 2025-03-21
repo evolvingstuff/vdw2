@@ -92,7 +92,7 @@ To paraphrase Confucius,“Real knowledge is to know the extent of one’s ignor
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

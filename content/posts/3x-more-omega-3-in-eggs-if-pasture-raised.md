@@ -29,7 +29,7 @@ A 2011 study found that approximately  **10%**  of hens in a commercially housed
 
 * <a href="/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017">Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

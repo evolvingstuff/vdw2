@@ -134,7 +134,7 @@ The causes of complex diseases remain an enigma despite decades of epidemiologic
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

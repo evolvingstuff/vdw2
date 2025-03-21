@@ -67,7 +67,7 @@ However, spontaneous resolution can be time-consuming and may take months to res
 <!-- ~tc~ (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

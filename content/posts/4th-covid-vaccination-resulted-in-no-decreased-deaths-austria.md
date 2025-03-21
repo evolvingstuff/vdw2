@@ -58,7 +58,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 <!-- ~tc~ (alias(4th COVID vaccination: increased infections, no decreased deaths (Austria) - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

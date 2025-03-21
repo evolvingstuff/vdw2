@@ -107,7 +107,7 @@ The funding sources had no involvement in or restrictions regarding publication.
 <!-- ~tc~ (alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -22,7 +22,7 @@ Nutrients. 2023 Jul 20;15(14):3228. [doi: 10.3390/nu15143228.](https://doi.org/1
 
 Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3
 
- <span style="color:orange;"> **It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed** </span>
+ <span style="color:orange;"> **It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed** </span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -59,7 +59,7 @@ Conclusions: Dietary supplements, despite their variability, allowed the majorit
 <!-- ~tc~ (alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -75,7 +75,7 @@ Nutrients. 2023 Jul 20;15(14):3228. [doi: 10.3390/nu15143228.](https://doi.org/1
 
 Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3
 
- &lt;span style=&quot;color:orange;&quot;&gt; **It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed** &lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -154,8 +154,14 @@ AST Structure:
 │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`
-│   │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`├── TextNode
+│   │   │   full_match: `It is strange that the abstract barely mentions Vitamin D,`
+│   │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` while their table shows it is the most needed`
+│   │   │   inner_content: ` while their table shows it is the most needed`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19870&quot; width=&quot;600&quot;}`

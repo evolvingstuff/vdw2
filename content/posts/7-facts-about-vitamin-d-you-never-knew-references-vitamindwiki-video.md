@@ -97,7 +97,7 @@ It’s almost impossible to get vitamin D from your diet, so you need to take ce
 
  
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

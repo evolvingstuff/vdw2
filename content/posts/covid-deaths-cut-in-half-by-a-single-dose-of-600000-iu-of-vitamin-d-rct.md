@@ -39,11 +39,11 @@ Results: in all, 90 patients (45 each group) were included for intention-to-trea
 
  **Vitamin D levels in ng/mL** 
 
-|| Group|Baseline|Day 7
-
-Vitamin D|12 (10-16)|60 (55-65) 
-
-Placebo|13 (12-18)|4 (1-7)||
+| | | |
+| --- | --- | --- |
+|  Group | Baseline | Day 7 |
+| Vitamin D | 12 (10-16) | 60 (55-65)  |
+| Placebo | 13 (12-18) | 4 (1-7) |
 
 - - - - - - - - -
 
@@ -75,43 +75,25 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter categories="155"} -->
-
-<!-- {filter field="title" content="VITAMIN RCT"} -->
-
-<!-- {filter field="title" content="NOT \" Dengue\""} -->
-
-<!-- {filter field="title" content="NOT \" influenza\""} -->
-
-<!-- {filter field="title" content="NOT \" respiratory\""} -->
-
-<!-- {filter field="title" content="NOT \" antibody\""} -->
-
-<!-- {filter field="title" content="NOT \" flu\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter categories="155"}
+{filter field="title" content="VITAMIN RCT"}
+{filter field="title" content="NOT \" Dengue\""}
+{filter field="title" content="NOT \" influenza\""}
+{filter field="title" content="NOT \" respiratory\""}
+{filter field="title" content="NOT \" antibody\""}
+{filter field="title" content="NOT \" flu\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -134,7 +116,7 @@ This list is automatically updated
 #### VitaminDWiki - <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -165,11 +147,11 @@ Results: in all, 90 patients (45 each group) were included for intention-to-trea
 
  **Vitamin D levels in ng/mL** 
 
-|| Group|Baseline|Day 7
-
-Vitamin D|12 (10-16)|60 (55-65) 
-
-Placebo|13 (12-18)|4 (1-7)||
+| | | |
+| --- | --- | --- |
+|  Group | Baseline | Day 7 |
+| Vitamin D | 12 (10-16) | 60 (55-65)  |
+| Placebo | 13 (12-18) | 4 (1-7) |
 
 - - - - - - - - -
 
@@ -201,43 +183,25 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter categories=&quot;155&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter categories=&quot;155&quot;}
+{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -324,8 +288,90 @@ AST Structure:
 │   │   │   full_match: `Vitamin D levels in ng/mL`
 │   │   │   inner_content: `Vitamin D levels in ng/mL`
 │   ├── TextNode
-│   │   full_match: `\n|| Group|Baseline|Day 7\nVitamin D|12 (10-16)|60 (55-65) \nPlacebo|13 (12-18)|4 (1-7)||\n`
-│   │   inner_content: `\n|| Group|Baseline|Day 7\nVitamin D|12 (10-16)|60 (55-65) \nPlacebo|13 (12-18)|4 (1-7)||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `|| Group|Baseline|Day 7\nVitamin D|12 (10-16)|60 (55-65) \nPlacebo|13 (12-18)|4 (1-7)||`
+│   │   inner_content: ` Group|Baseline|Day 7\nVitamin D|12 (10-16)|60 (55-65) \nPlacebo|13 (12-18)|4 (1-7)`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` Group|Baseline|Day 7`
+│   │   │   inner_content: ` Group|Baseline|Day 7`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Group`
+│   │   │   │   inner_content: ` Group`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Group`
+│   │   │   │   │   inner_content: ` Group`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Baseline`
+│   │   │   │   inner_content: `Baseline`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Baseline`
+│   │   │   │   │   inner_content: `Baseline`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Day 7`
+│   │   │   │   inner_content: `Day 7`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Day 7`
+│   │   │   │   │   inner_content: `Day 7`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Vitamin D|12 (10-16)|60 (55-65) `
+│   │   │   inner_content: `Vitamin D|12 (10-16)|60 (55-65) `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Vitamin D`
+│   │   │   │   inner_content: `Vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin D`
+│   │   │   │   │   inner_content: `Vitamin D`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `12 (10-16)`
+│   │   │   │   inner_content: `12 (10-16)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `12 (10-16)`
+│   │   │   │   │   inner_content: `12 (10-16)`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `60 (55-65) `
+│   │   │   │   inner_content: `60 (55-65) `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `60 (55-65) `
+│   │   │   │   │   inner_content: `60 (55-65) `
+│   │   ├── TableRowNode
+│   │   │   full_match: `Placebo|13 (12-18)|4 (1-7)`
+│   │   │   inner_content: `Placebo|13 (12-18)|4 (1-7)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Placebo`
+│   │   │   │   inner_content: `Placebo`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Placebo`
+│   │   │   │   │   inner_content: `Placebo`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `13 (12-18)`
+│   │   │   │   inner_content: `13 (12-18)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `13 (12-18)`
+│   │   │   │   │   inner_content: `13 (12-18)`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `4 (1-7)`
+│   │   │   │   inner_content: `4 (1-7)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `4 (1-7)`
+│   │   │   │   │   inner_content: `4 (1-7)`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\n- - - - - - - - -\nThe SOFA score on Day 7 was better in the vitamin D group `
 │   inner_content: `\n- - - - - - - - -\nThe SOFA score on Day 7 was better in the vitamin D group `├── LinkNode
 │   full_match: `[3 (95% CI, 2-5) versus 5 (95% CI, 3-7), P = 0.01, intergroup difference - 2 (95% CI, -4 to -0.01); r = 0.4]`
@@ -434,70 +480,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter categories=&quot;155&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: categories=&quot;155&quot;
-│   │   categories: 155├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;
-│   │   field: title
-│   │   content: VITAMIN RCT├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;VITAMIN RCT&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Dengue\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; influenza\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; respiratory\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; antibody\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; flu\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))`

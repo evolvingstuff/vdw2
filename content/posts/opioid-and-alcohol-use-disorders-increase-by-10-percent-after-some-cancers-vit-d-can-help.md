@@ -78,7 +78,7 @@ The distribution of specific SUDs was different compared with that in the lifeti
 <!-- ~tc~ (alias(Opioid and alcohol use  disorders increase by 10% after some Cancers (Vit D can help)- Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

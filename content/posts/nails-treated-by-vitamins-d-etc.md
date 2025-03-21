@@ -40,7 +40,7 @@ Key Messages: Besides topical tazarotene and vitamin D analogs for nail psoriasi
 #### Tea Tree Oil kills nail fungus
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

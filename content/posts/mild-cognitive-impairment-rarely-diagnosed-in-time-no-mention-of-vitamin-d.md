@@ -15,7 +15,7 @@ date: 2023-11-13
 
 #### Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired
 
- **Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
+ **Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
 
 * "Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis" July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
@@ -51,7 +51,7 @@ date: 2023-11-13
 
   * APOE – 4 – 75% have 0 copies, single copy 30% higher risk of Alz. 2 copies = 70% higher risk
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -62,7 +62,7 @@ Markdown:
 
 #### Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired
 
- **Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
+ **Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
 
 * &quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
@@ -128,8 +128,14 @@ AST Structure:
 │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
-│   │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. %%%But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`├── TextNode
+│   │   full_match: `Millions of older adults likely have minor memory issues that can later become dementia. `
+│   │   inner_content: `Millions of older adults likely have minor memory issues that can later become dementia. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`
+│   │   inner_content: `But only a fraction of them are diagnosed early enough for new treatments to stand a chance.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF`

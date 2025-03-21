@@ -96,7 +96,7 @@ Vitamin D levels affect the disease course in COVID-19 infection and proper bloo
 <!-- ~tc~ (alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

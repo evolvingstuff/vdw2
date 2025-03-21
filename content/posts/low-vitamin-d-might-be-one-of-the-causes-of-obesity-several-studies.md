@@ -67,7 +67,7 @@ Obesity is defined as an excess amount of body fat and represents a significant 
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

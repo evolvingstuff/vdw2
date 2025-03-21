@@ -61,7 +61,7 @@ Discussion: Vitamin D may be a potential agent for dementia prevention.
 <!-- ~tc~ (alias(Dementia again associated with low Vitamin D – 15th study in 10 years – March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

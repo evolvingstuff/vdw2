@@ -57,7 +57,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Asthma by age 7 if wheezing before preeschools and poor vitamin D Receptor - May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

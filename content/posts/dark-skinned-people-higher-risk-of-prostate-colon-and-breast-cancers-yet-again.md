@@ -20,15 +20,13 @@ Blacks who are not near the equator and outdoors all of the time have low Vitami
 
 The health disparity for dark skinned people is almost the same as whites having a low level of vitamin D
 
-|| |   Black %%%vs White|White - low D %%%vs White - high D
-
- breast cancer| 1.34  |   1.26
-
- colorectal cancer| 1.43  |    1.44
-
-cardiovascular disease|1.29   |   1.27
-
- all-cause mortality| 1.26  |  1.26 ||
+| | | |
+| --- | --- | --- |
+|   |    Black <br>vs White | White - low D <br>vs White - high D |
+|  breast cancer |  1.34   |    1.26 |
+|  colorectal cancer |  1.43   |     1.44 |
+| cardiovascular disease | 1.29    |    1.27 |
+|  all-cause mortality |  1.26   |   1.26  |
 
 ---
 
@@ -48,33 +46,20 @@ cardiovascular disease|1.29   |   1.27
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter categories="2"} -->
-
-<!-- {filter field="title" content="cancer"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter categories="2"}
+{filter field="title" content="cancer"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -93,7 +78,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Dark skinned people continue to have higher risk of Prostrate, Colon, and Breast Cancers - April 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -107,15 +92,13 @@ Blacks who are not near the equator and outdoors all of the time have low Vitami
 
 The health disparity for dark skinned people is almost the same as whites having a low level of vitamin D
 
-|| |   Black %%%vs White|White - low D %%%vs White - high D
-
- breast cancer| 1.34  |   1.26
-
- colorectal cancer| 1.43  |    1.44
-
-cardiovascular disease|1.29   |   1.27
-
- all-cause mortality| 1.26  |  1.26 ||
+| | | |
+| --- | --- | --- |
+|   |    Black &lt;br&gt;vs White | White - low D &lt;br&gt;vs White - high D |
+|  breast cancer |  1.34   |    1.26 |
+|  colorectal cancer |  1.43   |     1.44 |
+| cardiovascular disease | 1.29    |    1.27 |
+|  all-cause mortality |  1.26   |   1.26  |
 
 ---
 
@@ -135,33 +118,20 @@ cardiovascular disease|1.29   |   1.27
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter categories=&quot;2&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;cancer&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter categories=&quot;2&quot;}
+{filter field=&quot;title&quot; content=&quot;cancer&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -211,8 +181,152 @@ AST Structure:
 │   │   │   full_match: `Chart of Vitamin D levels vs race - April 2013|Click here for details`
 │   │   │   inner_content: `Chart of Vitamin D levels vs race - April 2013|Click here for details`
 │   ├── TextNode
-│   │   full_match: `\nThe health disparity for dark skinned people is almost the same as whites having a low level of vitamin D\n|| |   Black %%%vs White|White - low D %%%vs White - high D\n breast cancer| 1.34  |   1.26\n colorectal cancer| 1.43  |    1.44\ncardiovascular disease|1.29   |   1.27\n all-cause mortality| 1.26  |  1.26 ||\n`
-│   │   inner_content: `\nThe health disparity for dark skinned people is almost the same as whites having a low level of vitamin D\n|| |   Black %%%vs White|White - low D %%%vs White - high D\n breast cancer| 1.34  |   1.26\n colorectal cancer| 1.43  |    1.44\ncardiovascular disease|1.29   |   1.27\n all-cause mortality| 1.26  |  1.26 ||\n`├── HorizontalRuleNode
+│   │   full_match: `\nThe health disparity for dark skinned people is almost the same as whites having a low level of vitamin D\n`
+│   │   inner_content: `\nThe health disparity for dark skinned people is almost the same as whites having a low level of vitamin D\n`
+│   ├── TableNode
+│   │   full_match: `|| |   Black %%%vs White|White - low D %%%vs White - high D\n breast cancer| 1.34  |   1.26\n colorectal cancer| 1.43  |    1.44\ncardiovascular disease|1.29   |   1.27\n all-cause mortality| 1.26  |  1.26 ||`
+│   │   inner_content: ` |   Black %%%vs White|White - low D %%%vs White - high D\n breast cancer| 1.34  |   1.26\n colorectal cancer| 1.43  |    1.44\ncardiovascular disease|1.29   |   1.27\n all-cause mortality| 1.26  |  1.26 `
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |   Black %%%vs White|White - low D %%%vs White - high D`
+│   │   │   inner_content: ` |   Black %%%vs White|White - low D %%%vs White - high D`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `   Black %%%vs White`
+│   │   │   │   inner_content: `   Black %%%vs White`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `   Black `
+│   │   │   │   │   inner_content: `   Black `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `vs White`
+│   │   │   │   │   inner_content: `vs White`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `White - low D %%%vs White - high D`
+│   │   │   │   inner_content: `White - low D %%%vs White - high D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `White - low D `
+│   │   │   │   │   inner_content: `White - low D `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `vs White - high D`
+│   │   │   │   │   inner_content: `vs White - high D`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` breast cancer| 1.34  |   1.26`
+│   │   │   inner_content: ` breast cancer| 1.34  |   1.26`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` breast cancer`
+│   │   │   │   inner_content: ` breast cancer`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` breast cancer`
+│   │   │   │   │   inner_content: ` breast cancer`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 1.34  `
+│   │   │   │   inner_content: ` 1.34  `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 1.34  `
+│   │   │   │   │   inner_content: ` 1.34  `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `   1.26`
+│   │   │   │   inner_content: `   1.26`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `   1.26`
+│   │   │   │   │   inner_content: `   1.26`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` colorectal cancer| 1.43  |    1.44`
+│   │   │   inner_content: ` colorectal cancer| 1.43  |    1.44`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` colorectal cancer`
+│   │   │   │   inner_content: ` colorectal cancer`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` colorectal cancer`
+│   │   │   │   │   inner_content: ` colorectal cancer`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 1.43  `
+│   │   │   │   inner_content: ` 1.43  `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 1.43  `
+│   │   │   │   │   inner_content: ` 1.43  `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `    1.44`
+│   │   │   │   inner_content: `    1.44`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `    1.44`
+│   │   │   │   │   inner_content: `    1.44`
+│   │   ├── TableRowNode
+│   │   │   full_match: `cardiovascular disease|1.29   |   1.27`
+│   │   │   inner_content: `cardiovascular disease|1.29   |   1.27`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `cardiovascular disease`
+│   │   │   │   inner_content: `cardiovascular disease`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `cardiovascular disease`
+│   │   │   │   │   inner_content: `cardiovascular disease`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1.29   `
+│   │   │   │   inner_content: `1.29   `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1.29   `
+│   │   │   │   │   inner_content: `1.29   `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `   1.27`
+│   │   │   │   inner_content: `   1.27`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `   1.27`
+│   │   │   │   │   inner_content: `   1.27`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` all-cause mortality| 1.26  |  1.26 `
+│   │   │   inner_content: ` all-cause mortality| 1.26  |  1.26 `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` all-cause mortality`
+│   │   │   │   inner_content: ` all-cause mortality`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` all-cause mortality`
+│   │   │   │   │   inner_content: ` all-cause mortality`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 1.26  `
+│   │   │   │   inner_content: ` 1.26  `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 1.26  `
+│   │   │   │   │   inner_content: ` 1.26  `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `  1.26 `
+│   │   │   │   inner_content: `  1.26 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  1.26 `
+│   │   │   │   │   inner_content: `  1.26 `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -295,30 +409,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter categories=&quot;2&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: categories=&quot;2&quot;
-│   │   categories: 2├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;cancer&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;cancer&quot;
-│   │   field: title
-│   │   content: cancer├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;2&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Overview Dark Skin and Vitamin D)) contains `

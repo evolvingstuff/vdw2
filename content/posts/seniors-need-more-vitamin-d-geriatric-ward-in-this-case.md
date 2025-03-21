@@ -49,7 +49,7 @@ The logistic regression model demonstrated that obese patients had over two time
 <!-- ~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

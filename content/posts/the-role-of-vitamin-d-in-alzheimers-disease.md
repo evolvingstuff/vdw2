@@ -37,7 +37,7 @@ However, it has been shown that the genomic vitamin D signaling pathway is alrea
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

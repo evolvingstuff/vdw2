@@ -34,7 +34,7 @@ Appears to refer to: [Monitoring reports of the effectiveness of COVID-19 vaccin
 
 * [T1 Diabetes increased by 27% by second year of COVID – meta-analysis June 2023](/posts/t1-diabetes-increased-by-27-percent-by-second-year-of-covid-meta-analysis)
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

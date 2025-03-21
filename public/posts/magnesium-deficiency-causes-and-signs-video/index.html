@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Magnesium deficiency: causes and signs - video</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -347,13 +347,13 @@
 <p>• Inflammation</p>
 <p>• Nystagmus</p>
 <p>• Asthma</p>
-<p><strong>Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye.</strong></p>
+<p><strong>Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.</strong></p>
 <ul>
 <li>Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses.</li>
 </ul>
 <hr>
 <h4 id="vitamindwiki--a-hrefpostsmagnesium-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-magnesium-and-vitamin-dmagnesium-and-vitamin-da-contains">VitaminDWiki – <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium and Vitamin D</a> contains</h4>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -450,7 +450,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye.** 
+ **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
 
@@ -550,8 +550,14 @@ AST Structure:
 │   │   │   full_match: `number 1 earliest sign`
 │   │   │   inner_content: `number 1 earliest sign`
 │   ├── TextNode
-│   │   full_match: ` of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye. `
-│   │   inner_content: ` of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye. `├── TextNode
+│   │   full_match: ` of a magnesium deficiency. `
+│   │   inner_content: ` of a magnesium deficiency. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Tetany is a twitching of the muscles, often affecting the left eye. `
+│   │   inner_content: `Tetany is a twitching of the muscles, often affecting the left eye. `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. `
@@ -663,7 +669,7 @@ __Neuromuscular excitability, or tetany, is the ~~#00F:number 1 earliest sign~~ 
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -673,8 +679,8 @@ __Neuromuscular excitability, or tetany, is the ~~#00F:number 1 earliest sign~~ 
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

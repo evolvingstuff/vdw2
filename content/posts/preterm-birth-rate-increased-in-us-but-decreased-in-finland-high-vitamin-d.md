@@ -47,7 +47,7 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 * Prevalence of preterm birth in Scandinavian countries: a systematic review and meta-analysis - Oct 2023  &nbsp;  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -68,7 +68,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

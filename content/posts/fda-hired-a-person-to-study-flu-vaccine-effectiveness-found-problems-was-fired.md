@@ -128,7 +128,7 @@ See also: <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes
 <!-- ~tc~ (alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

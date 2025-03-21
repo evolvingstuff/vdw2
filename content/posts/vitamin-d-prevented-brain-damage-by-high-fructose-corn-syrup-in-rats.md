@@ -120,7 +120,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### VitaminDWiki - [Fructose, HFCS and Vitamin D - many studies](/posts/fructose-hfcs-and-vitamin-d-many-studies)
 
- **which contains: %%% Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
+ **which contains:  Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
 
 ---
 
@@ -252,7 +252,7 @@ Overall, the research suggests that a diet high in HFCS may be detrimental to vi
 
 It is important to note that the research on HFCS and vitamin D is ongoing, and the long-term health implications of this interaction are still being investigated. However, the existing evidence suggests that it may be beneficial to limit your intake of HFCS to support optimal vitamin D status and health.
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -365,7 +365,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### VitaminDWiki - [Fructose, HFCS and Vitamin D - many studies](/posts/fructose-hfcs-and-vitamin-d-many-studies)
 
- **which contains: %%% Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
+ **which contains:  Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
 
 ---
 
@@ -920,8 +920,14 @@ AST Structure:
 │   inner_content: `which contains: %%% Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023`
 │   children:
 │   ├── TextNode
-│   │   full_match: `which contains: %%% Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023`
-│   │   inner_content: `which contains: %%% Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023`├── HorizontalRuleNode
+│   │   full_match: `which contains: `
+│   │   inner_content: `which contains: `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023`
+│   │   inner_content: ` Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!7,700 studies resulted from a query for: (&quot;high fructose&quot; OR HFCS) &quot;vitamin d&quot; as of Dec 2023`

@@ -31,11 +31,11 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 #### VitaminDWiki – <a href="/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene">CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene</a>
 
-|| **Proper activation** |makes sure that Vitamin D does not accumulate in the body
-
- **Too much activation** |Less vitamin D actually gets to cells
-
- **Too little activation** | Vitamin D accumulates to toxic levels ( <1 in 10,000 people)||
+| | |
+| --- | --- |
+|  **Proper activation**  | makes sure that Vitamin D does not accumulate in the body |
+|  **Too much activation**  | Less vitamin D actually gets to cells |
+|  **Too little activation**  |  Vitamin D accumulates to toxic levels ( <1 in 10,000 people) |
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
@@ -43,9 +43,9 @@ Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting 
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
- **A poor CYP24A1 reduces the Vitamin D getting to cells %%% &nbsp; without reducing measured Vitamin D level in blood** 
+ **A poor CYP24A1 reduces the Vitamin D getting to cells  &nbsp; without reducing measured Vitamin D level in blood** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -70,11 +70,11 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&quot;&gt;CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&lt;/a&gt;
 
-|| **Proper activation** |makes sure that Vitamin D does not accumulate in the body
-
- **Too much activation** |Less vitamin D actually gets to cells
-
- **Too little activation** | Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)||
+| | |
+| --- | --- |
+|  **Proper activation**  | makes sure that Vitamin D does not accumulate in the body |
+|  **Too much activation**  | Less vitamin D actually gets to cells |
+|  **Too little activation**  |  Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people) |
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
@@ -82,7 +82,7 @@ Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting 
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
- **A poor CYP24A1 reduces the Vitamin D getting to cells %%% &amp;nbsp; without reducing measured Vitamin D level in blood** 
+ **A poor CYP24A1 reduces the Vitamin D getting to cells  &amp;nbsp; without reducing measured Vitamin D level in blood** 
 
 AST Structure:
 -------------
@@ -145,32 +145,79 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
 │   │   │   inner_content: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`├── TextNode
-│   full_match: `\n||`
-│   inner_content: `\n||`├── BoldNode
-│   full_match: `__Proper activation__`
-│   inner_content: `Proper activation`
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||__Proper activation__|makes sure that Vitamin D does not accumulate in the body\n__Too much activation__|Less vitamin D actually gets to cells\n__Too little activation__| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)||`
+│   inner_content: `__Proper activation__|makes sure that Vitamin D does not accumulate in the body\n__Too much activation__|Less vitamin D actually gets to cells\n__Too little activation__| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
 │   children:
-│   ├── TextNode
-│   │   full_match: `Proper activation`
-│   │   inner_content: `Proper activation`├── TextNode
-│   full_match: `|makes sure that Vitamin D does not accumulate in the body\n`
-│   inner_content: `|makes sure that Vitamin D does not accumulate in the body\n`├── BoldNode
-│   full_match: `__Too much activation__`
-│   inner_content: `Too much activation`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Too much activation`
-│   │   inner_content: `Too much activation`├── TextNode
-│   full_match: `|Less vitamin D actually gets to cells\n`
-│   inner_content: `|Less vitamin D actually gets to cells\n`├── BoldNode
-│   full_match: `__Too little activation__`
-│   inner_content: `Too little activation`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Too little activation`
-│   │   inner_content: `Too little activation`├── TextNode
-│   full_match: `| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)||\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`
-│   inner_content: `| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)||\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`├── ImgNode
+│   ├── TableRowNode
+│   │   full_match: `__Proper activation__|makes sure that Vitamin D does not accumulate in the body`
+│   │   inner_content: `__Proper activation__|makes sure that Vitamin D does not accumulate in the body`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Proper activation__`
+│   │   │   inner_content: `__Proper activation__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Proper activation__`
+│   │   │   │   inner_content: `Proper activation`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Proper activation`
+│   │   │   │   │   inner_content: `Proper activation`
+│   │   ├── TableCellNode
+│   │   │   full_match: `makes sure that Vitamin D does not accumulate in the body`
+│   │   │   inner_content: `makes sure that Vitamin D does not accumulate in the body`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `makes sure that Vitamin D does not accumulate in the body`
+│   │   │   │   inner_content: `makes sure that Vitamin D does not accumulate in the body`
+│   ├── TableRowNode
+│   │   full_match: `__Too much activation__|Less vitamin D actually gets to cells`
+│   │   inner_content: `__Too much activation__|Less vitamin D actually gets to cells`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Too much activation__`
+│   │   │   inner_content: `__Too much activation__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Too much activation__`
+│   │   │   │   inner_content: `Too much activation`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Too much activation`
+│   │   │   │   │   inner_content: `Too much activation`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Less vitamin D actually gets to cells`
+│   │   │   inner_content: `Less vitamin D actually gets to cells`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Less vitamin D actually gets to cells`
+│   │   │   │   inner_content: `Less vitamin D actually gets to cells`
+│   ├── TableRowNode
+│   │   full_match: `__Too little activation__| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   inner_content: `__Too little activation__| Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Too little activation__`
+│   │   │   inner_content: `__Too little activation__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Too little activation__`
+│   │   │   │   inner_content: `Too little activation`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Too little activation`
+│   │   │   │   │   inner_content: `Too little activation`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   │   inner_content: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   │   │   inner_content: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`├── TextNode
+│   full_match: `\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`
+│   inner_content: `\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`├── ImgNode
 │   full_match: `{img fileId=&quot;3239&quot; width =&quot;400&quot; link=&quot;Genetics&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -193,8 +240,14 @@ AST Structure:
 │   inner_content: `A poor CYP24A1 reduces the Vitamin D getting to cells %%% ~hs~ without reducing measured Vitamin D level in blood`
 │   children:
 │   ├── TextNode
-│   │   full_match: `A poor CYP24A1 reduces the Vitamin D getting to cells %%% `
-│   │   inner_content: `A poor CYP24A1 reduces the Vitamin D getting to cells %%% `
+│   │   full_match: `A poor CYP24A1 reduces the Vitamin D getting to cells `
+│   │   inner_content: `A poor CYP24A1 reduces the Vitamin D getting to cells `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~`
 │   │   inner_content: ``

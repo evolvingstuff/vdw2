@@ -47,7 +47,7 @@ Conclusion: In this prospective study of health care workers, neither serum 25OH
 <!-- ~tc~ (alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

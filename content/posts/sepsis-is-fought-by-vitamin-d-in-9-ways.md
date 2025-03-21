@@ -37,7 +37,7 @@ Vitamin D is an important immune modulator that is linked to infection susceptib
 <!-- ~tc~ (alias(Vitamin D Deficiency: An Underestimated Factor in Sepsis – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

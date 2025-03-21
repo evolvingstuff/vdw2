@@ -41,7 +41,7 @@ Conclusion The test agent significantly reduced SARS-CoV-2 infection in healthca
 <!-- ~tc~ (alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

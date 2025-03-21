@@ -41,7 +41,7 @@ categories:
 
 * [13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine problems (just US) - March 2023](/posts/13-b-dollar-income-to-pfizer-and-moderna-147-b-dollar-cost-of-vaccine-problems-just-us)
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

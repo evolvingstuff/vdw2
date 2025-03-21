@@ -79,7 +79,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(T2 Diabetes is fought by Vitamin K2 – several studies)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

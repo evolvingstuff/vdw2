@@ -65,7 +65,7 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 
 * <a href="/posts/vitamin-d-might-augment-covid-19-vaccines-6-papers-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might augment COVID-19 vaccines – 6 papers as of Dec 2021">Vitamin D might augment COVID-19 vaccines – 6 papers as of Dec 2021</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

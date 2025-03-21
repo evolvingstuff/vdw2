@@ -29,7 +29,7 @@ categories:
 <!-- ~tc~ (alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

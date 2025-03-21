@@ -34,7 +34,7 @@ Overall, the present MR study supports that elevated 25OHD levels reduce the ris
 <!-- ~tc~ (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -32,7 +32,7 @@ High-dose vitamin D supplementation can increase total osteocalcin concentration
 <!-- ~tc~ (alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -58,7 +58,7 @@ In recent years the possible multiple positive effects of vitamin D (antineoplas
 <!-- ~tc~ (alias(Italian women taking Vitamin D (Osteroporosis, etc) - Dec 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

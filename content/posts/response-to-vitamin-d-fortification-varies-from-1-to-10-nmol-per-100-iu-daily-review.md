@@ -110,7 +110,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 <!-- ~tc~ (alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

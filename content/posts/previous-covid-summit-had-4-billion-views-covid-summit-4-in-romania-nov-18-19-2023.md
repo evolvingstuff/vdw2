@@ -94,7 +94,7 @@ And still they continue to lie.
 <!-- ~tc~ (alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

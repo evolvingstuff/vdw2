@@ -78,7 +78,7 @@ In this review, we summarized current studies that include pathogenesis of gut m
 #### VitaminDWiki <a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

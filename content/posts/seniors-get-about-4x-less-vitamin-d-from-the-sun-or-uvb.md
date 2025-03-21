@@ -83,7 +83,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Seniors get about 4X less vitamin D from the sun)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

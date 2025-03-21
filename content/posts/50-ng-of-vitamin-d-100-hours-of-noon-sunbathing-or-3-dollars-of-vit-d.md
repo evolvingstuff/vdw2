@@ -18,7 +18,7 @@ categories:
 
 #### Only 90 minutes of sun daily: if 7 factors are all good
 
- **<span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs</span>hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% &nbsp;&nbsp; 2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants ~~**   
+ **<span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight ~hs</span>hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin &nbsp;&nbsp; 2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants ~~**   
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -37,7 +37,7 @@ categories:
 <!-- ~tc~ (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -49,7 +49,7 @@ Markdown:
 
 #### Only 90 minutes of sun daily: if 7 factors are all good
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs&lt;/span&gt;hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% &amp;nbsp;&amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants ~~**   
+ **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight ~hs&lt;/span&gt;hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin &amp;nbsp;&amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants ~~**   
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -106,11 +106,23 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs`
-│   │   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs`
+│   │   │   full_match: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
+│   │   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` ~hs`
+│   │   │   inner_content: ` ~hs`
 │   ├── TextNode
-│   │   full_match: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% `
-│   │   inner_content: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% `
+│   │   full_match: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin`
+│   │   inner_content: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``

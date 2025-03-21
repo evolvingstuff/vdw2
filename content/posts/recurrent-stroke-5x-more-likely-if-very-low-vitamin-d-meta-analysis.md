@@ -44,7 +44,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Receurrent Strok 5X more likely if very low vitamin D - meta-analysis Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

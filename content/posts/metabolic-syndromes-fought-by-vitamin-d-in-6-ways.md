@@ -79,7 +79,7 @@ In conclusion, this Research Topic presents a diverse body of information that s
 <!-- ~tc~ (alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

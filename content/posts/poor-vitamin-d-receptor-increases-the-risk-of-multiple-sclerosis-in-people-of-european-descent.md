@@ -66,7 +66,7 @@ The incidence of MS varies significantly by race and ethnicity, with whites of E
 
 [full response by Perplexity Feb 2024]( https://www.perplexity.ai/search/How-does-the-XEqEV5ulQBaN4OauWzjUIg?s=c  )
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

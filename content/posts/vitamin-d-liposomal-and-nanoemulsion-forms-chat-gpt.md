@@ -94,7 +94,7 @@ In summary, for Vitamin D supplementation, oral intake and sunlight exposure are
 
 which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble - RCT Jan 2023
 
- **The founder has been using nanoemulsion Vitamin D both %%%topically (for skin problems) and%%%inhaled (for improved breathing and getting D to the brain) since about 2014 %%% &nbsp;&nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
+ **The founder has been using nanoemulsion Vitamin D both topically (for skin problems) andinhaled (for improved breathing and getting D to the brain) since about 2014  &nbsp;&nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
 
 ---
 
@@ -107,7 +107,7 @@ which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble -
 <!-- ~tc~ (alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -194,7 +194,7 @@ In summary, for Vitamin D supplementation, oral intake and sunlight exposure are
 
 which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble - RCT Jan 2023
 
- **The founder has been using nanoemulsion Vitamin D both %%%topically (for skin problems) and%%%inhaled (for improved breathing and getting D to the brain) since about 2014 %%% &amp;nbsp;&amp;nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
+ **The founder has been using nanoemulsion Vitamin D both topically (for skin problems) andinhaled (for improved breathing and getting D to the brain) since about 2014  &amp;nbsp;&amp;nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
 
 ---
 
@@ -620,8 +620,26 @@ AST Structure:
 │   inner_content: `The founder has been using nanoemulsion Vitamin D both %%%topically (for skin problems) and%%%inhaled (for improved breathing and getting D to the brain) since about 2014 %%% ~hs~~hs~ It seems to improve my ability to bike up steep hills within 5 minutes`
 │   children:
 │   ├── TextNode
-│   │   full_match: `The founder has been using nanoemulsion Vitamin D both %%%topically (for skin problems) and%%%inhaled (for improved breathing and getting D to the brain) since about 2014 %%% `
-│   │   inner_content: `The founder has been using nanoemulsion Vitamin D both %%%topically (for skin problems) and%%%inhaled (for improved breathing and getting D to the brain) since about 2014 %%% `
+│   │   full_match: `The founder has been using nanoemulsion Vitamin D both `
+│   │   inner_content: `The founder has been using nanoemulsion Vitamin D both `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `topically (for skin problems) and`
+│   │   inner_content: `topically (for skin problems) and`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `inhaled (for improved breathing and getting D to the brain) since about 2014 `
+│   │   inner_content: `inhaled (for improved breathing and getting D to the brain) since about 2014 `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``

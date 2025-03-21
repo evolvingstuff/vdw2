@@ -47,7 +47,7 @@ Vitamin D is traditionally known for its role in calcium homeostasis and bone he
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -56,7 +56,7 @@ Conclusion: The rate of VD deficiency is higher in RSA patients. VD deficiency m
 <!-- ~tc~ (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

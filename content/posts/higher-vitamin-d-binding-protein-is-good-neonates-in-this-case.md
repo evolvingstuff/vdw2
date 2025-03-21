@@ -292,7 +292,7 @@ R335-2019-2339/Lundbeckfonden (Lundbeck Foundation)
 <!-- ~tc~ (alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -245,7 +245,7 @@ Interpretation: The consistency seen among cases in this review with known COVID
 <!-- ~tc~ (alias(Autopsy Lancet)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

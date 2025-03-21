@@ -49,7 +49,7 @@ Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

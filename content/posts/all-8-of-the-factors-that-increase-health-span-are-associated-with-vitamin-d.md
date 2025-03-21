@@ -96,7 +96,7 @@ based on Association of Cardiovascular Health With Life Expectancy Free of Cardi
 <!-- ~tc~ (alias(All 8 of the factors that increase Health span are associated with Vitamin D - March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

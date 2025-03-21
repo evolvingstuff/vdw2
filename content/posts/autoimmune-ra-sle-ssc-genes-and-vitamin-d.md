@@ -115,7 +115,7 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 <!-- ~tc~ (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

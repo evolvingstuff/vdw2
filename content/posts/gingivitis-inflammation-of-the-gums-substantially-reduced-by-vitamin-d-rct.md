@@ -51,7 +51,7 @@ Vitamin D supplementation can reduce gingivitis severity. The optimal blood vita
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -75,7 +75,7 @@ This list is automatically updated
 #### See also [Nursing homes and Vitamin D - many studies](/posts/nursing-homes-and-vitamin-d-many-studies) 24+ studies
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

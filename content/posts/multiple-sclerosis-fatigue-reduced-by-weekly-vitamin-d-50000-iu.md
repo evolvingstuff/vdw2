@@ -24,7 +24,7 @@ Purificación López-Muñoz 1 2, Ana Isabel Torres-Costoso 1 3, Rubén Fernánde
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<span style="color:orange;">With 1296 trials to select from, %%%they managed to include a trial that used an impossibly small 40 IU of Vitamin D</span>** 
+ **<span style="color:orange;">With 1296 trials to select from, they managed to include a trial that used an impossibly small 40 IU of Vitamin D</span>** 
 
 Vitamin D supplementation has been considered a possible treatment to reduce the risk of disease activity and progression in people with multiple sclerosis (MS). However, its effect on disease symptoms remains unclear. The aim of this meta-analysis was to conduct a systematic review to assess the effect of vitamin D on fatigue in this population. The systematic review was conducted using the MEDLINE, Cochrane Library, Embase and Web of Science databases from inception to May 2023. Randomized controlled trials (RCTs) reporting pre-post changes in fatigue after vitamin D supplementation were included. Pooled effect sizes and 95% confidence intervals (95% CIs) were calculated by applying a random effects model with Stata/SE (Version 16.0; StataCorp., College Station, TX, USA). The Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed. A total of five studies with 345 individuals (271 females; age range: 25.4-41.1 years) were included. A significant reduction in fatigue was perceived when vitamin D supplementation was compared with a control group: -0.18 (95% CI: -0.36 to -0.01; I2 = 0%). Thus, our findings show that the therapeutic use of vitamin D on fatigue in people with MS could be considered. Nevertheless, due to the lack of agreement on the dose to be applied, it is recommended to use it under medical prescription.
 
@@ -52,33 +52,22 @@ Bahmani, E.; Hoseini, R.; Amiri, E. The effect of home-based aerobic training an
 
 Note: India uses 60,000 IU capsules
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="250"}
-
-<!-- {filter field="title" content="50,000 OR 60,000"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="50,000 OR 60,000"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
 
-{LIST}
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -96,7 +85,7 @@ Purificación López-Muñoz 1 2, Ana Isabel Torres-Costoso 1 3, Rubén Fernánde
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;With 1296 trials to select from, %%%they managed to include a trial that used an impossibly small 40 IU of Vitamin D&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;With 1296 trials to select from, they managed to include a trial that used an impossibly small 40 IU of Vitamin D&lt;/span&gt;** 
 
 Vitamin D supplementation has been considered a possible treatment to reduce the risk of disease activity and progression in people with multiple sclerosis (MS). However, its effect on disease symptoms remains unclear. The aim of this meta-analysis was to conduct a systematic review to assess the effect of vitamin D on fatigue in this population. The systematic review was conducted using the MEDLINE, Cochrane Library, Embase and Web of Science databases from inception to May 2023. Randomized controlled trials (RCTs) reporting pre-post changes in fatigue after vitamin D supplementation were included. Pooled effect sizes and 95% confidence intervals (95% CIs) were calculated by applying a random effects model with Stata/SE (Version 16.0; StataCorp., College Station, TX, USA). The Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed. A total of five studies with 345 individuals (271 females; age range: 25.4-41.1 years) were included. A significant reduction in fatigue was perceived when vitamin D supplementation was compared with a control group: -0.18 (95% CI: -0.36 to -0.01; I2 = 0%). Thus, our findings show that the therapeutic use of vitamin D on fatigue in people with MS could be considered. Nevertheless, due to the lack of agreement on the dose to be applied, it is recommended to use it under medical prescription.
 
@@ -124,31 +113,20 @@ Bahmani, E.; Hoseini, R.; Amiri, E. The effect of home-based aerobic training an
 
 Note: India uses 60,000 IU capsules
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;250&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST} --&gt;
 
-{LIST}
 
 AST Structure:
 -------------
@@ -201,8 +179,14 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `With 1296 trials to select from, %%%they managed to include a trial that used an impossibly small 40 IU of Vitamin D`
-│   │   │   inner_content: `With 1296 trials to select from, %%%they managed to include a trial that used an impossibly small 40 IU of Vitamin D`├── TextNode
+│   │   │   full_match: `With 1296 trials to select from, `
+│   │   │   inner_content: `With 1296 trials to select from, `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `they managed to include a trial that used an impossibly small 40 IU of Vitamin D`
+│   │   │   inner_content: `they managed to include a trial that used an impossibly small 40 IU of Vitamin D`├── TextNode
 │   full_match: `\n\nVitamin D supplementation has been considered a possible treatment to reduce the risk of disease activity and progression in people with multiple sclerosis (MS). However, its effect on disease symptoms remains unclear. The aim of this meta-analysis was to conduct a systematic review to assess the effect of vitamin D on fatigue in this population. The systematic review was conducted using the MEDLINE, Cochrane Library, Embase and Web of Science databases from inception to May 2023. Randomized controlled trials (RCTs) reporting pre-post changes in fatigue after vitamin D supplementation were included. Pooled effect sizes and 95% confidence intervals (95% CIs) were calculated by applying a random effects model with Stata/SE (Version 16.0; StataCorp., College Station, TX, USA). The Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed. A total of five studies with 345 individuals (271 females; age range: 25.4-41.1 years) were included. A significant reduction in fatigue was perceived when vitamin D supplementation was compared with a control group: -0.18 (95% CI: -0.36 to -0.01; I2 = 0%). Thus, our findings show that the therapeutic use of vitamin D on fatigue in people with MS could be considered. Nevertheless, due to the lack of agreement on the dose to be applied, it is recommended to use it under medical prescription.\n`
 │   inner_content: `\n\nVitamin D supplementation has been considered a possible treatment to reduce the risk of disease activity and progression in people with multiple sclerosis (MS). However, its effect on disease symptoms remains unclear. The aim of this meta-analysis was to conduct a systematic review to assess the effect of vitamin D on fatigue in this population. The systematic review was conducted using the MEDLINE, Cochrane Library, Embase and Web of Science databases from inception to May 2023. Randomized controlled trials (RCTs) reporting pre-post changes in fatigue after vitamin D supplementation were included. Pooled effect sizes and 95% confidence intervals (95% CIs) were calculated by applying a random effects model with Stata/SE (Version 16.0; StataCorp., College Station, TX, USA). The Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed. A total of five studies with 345 individuals (271 females; age range: 25.4-41.1 years) were included. A significant reduction in fatigue was perceived when vitamin D supplementation was compared with a control group: -0.18 (95% CI: -0.36 to -0.01; I2 = 0%). Thus, our findings show that the therapeutic use of vitamin D on fatigue in people with MS could be considered. Nevertheless, due to the lack of agreement on the dose to be applied, it is recommended to use it under medical prescription.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19801&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
@@ -335,23 +319,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`
 │   │   inner_content: `229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`├── TextNode
-│   full_match: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;250&quot;}\n`
-│   inner_content: `\nNote: India uses 60,000 IU capsules\n{LIST()}\n{list max=&quot;250&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}`
-│   inner_content: ``
+│   full_match: `\nNote: India uses 60,000 IU capsules\n`
+│   inner_content: `\nNote: India uses 60,000 IU capsules\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;
-│   │   field: title
-│   │   content: 50,000 OR 60,000├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 
 Original Tiki:
 -------------

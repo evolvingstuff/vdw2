@@ -70,7 +70,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 <!-- ~tc~ (alias(Fibromyalgia pain, fatigue, etc. reduced by 50,000 IU of Vitamin D for 12 weeks –  Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

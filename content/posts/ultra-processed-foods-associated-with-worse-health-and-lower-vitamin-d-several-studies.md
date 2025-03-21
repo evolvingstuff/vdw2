@@ -248,7 +248,7 @@ The consumption of UPFs is also linked to higher levels of harmful chemicals lik
 
  **[References, images, videos](https://www.perplexity.ai/search/please-describe-ultraprocessed-o8.jmduXQI64ZRA0p8uK9g)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

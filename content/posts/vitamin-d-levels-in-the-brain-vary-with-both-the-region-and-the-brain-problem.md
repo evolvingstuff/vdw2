@@ -48,7 +48,7 @@ Higher brain 25(OH)D3 concentrations were associated with better cognitive funct
 
 * <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

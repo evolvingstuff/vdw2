@@ -30,7 +30,7 @@ L Máčová 1, R Kancheva, M Bičíková
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-  **<span style="color:orange;">Factors that are up-regulated are marked in green</span>%%%  <span style="color:orange;">factors that are down-regulated are in red</span>.** 
+  **<span style="color:orange;">Factors that are up-regulated are marked in green</span>  <span style="color:orange;">factors that are down-regulated are in red</span>.** 
 
 Vitamin D is a lipid-soluble vitamin that can be found in some foods. It is also produced endogenously (in the presence of ultraviolet light), transported through the blood to the targets organs and this is the reason to consider vitamin D as a hormone. It is known that vitamin D has genomic and non-genomic effects. 
 
@@ -62,7 +62,7 @@ This review is focused mainly on
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -81,7 +81,7 @@ L Máčová 1, R Kancheva, M Bičíková
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  **&lt;span style=&quot;color:orange;&quot;&gt;Factors that are up-regulated are marked in green&lt;/span&gt;%%%  &lt;span style=&quot;color:orange;&quot;&gt;factors that are down-regulated are in red&lt;/span&gt;.** 
+  **&lt;span style=&quot;color:orange;&quot;&gt;Factors that are up-regulated are marked in green&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;factors that are down-regulated are in red&lt;/span&gt;.** 
 
 Vitamin D is a lipid-soluble vitamin that can be found in some foods. It is also produced endogenously (in the presence of ultraviolet light), transported through the blood to the targets organs and this is the reason to consider vitamin D as a hormone. It is known that vitamin D has genomic and non-genomic effects. 
 
@@ -169,9 +169,12 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Factors that are up-regulated are marked in green`
 │   │   │   inner_content: `Factors that are up-regulated are marked in green`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── TextNode
-│   │   full_match: `%%% `
-│   │   inner_content: `%%% `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── ColorNode
 │   │   full_match: `~~#F06:factors that are down-regulated are in red~~`
 │   │   inner_content: `factors that are down-regulated are in red`

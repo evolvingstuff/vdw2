@@ -65,7 +65,7 @@ excellent reveiw of a decade of progress
 <!-- ~tc~ (alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

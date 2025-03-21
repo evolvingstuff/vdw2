@@ -37,7 +37,7 @@ Vitamin D plays a central role in maintaining calcium, phosphorus, and bone home
 #### VitaminDWiki - [Vitamin D Receptor deactivated by some health problems - many studies](/posts/vitamin-d-receptor-deactivated-by-some-health-problems-many-studies)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

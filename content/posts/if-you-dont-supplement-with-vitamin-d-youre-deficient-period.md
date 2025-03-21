@@ -52,7 +52,7 @@ categories:
 <!-- ~tc~ (alias(If you don’t supplement with vitamin D, you’re deficient… period - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

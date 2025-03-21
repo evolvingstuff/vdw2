@@ -184,7 +184,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

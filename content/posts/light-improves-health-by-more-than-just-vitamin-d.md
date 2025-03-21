@@ -146,7 +146,7 @@ categories:
 
 * <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

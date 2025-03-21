@@ -220,31 +220,19 @@ This list is automatically updated
 
 #### 7 of the many studies by Carlberg in VitaminDWiki
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="150"}
-
-<!-- {filter field="title" content="CARLBERG"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="CARLBERG"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
  **<a href="/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019">Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a>** 
 
@@ -266,97 +254,52 @@ This list is automatically updated
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="100"}
-
-<!-- {filter field="title" exact="aging OR ageing"} -->
-
-<!-- {filter field="title" content="NOT \"as you age\""} -->
-
-<!-- {filter field="title" content="NOT \"AI, age\""} -->
-
-<!-- {filter field="title" content="NOT \"race, age\""} -->
-
-<!-- {filter field="title" content="NOT \"age-adjusted\""} -->
-
-<!-- {filter field="title" content="NOT \"age-associated\""} -->
-
-<!-- {filter field="title" content="NOT \"age-related\""} -->
-
-<!-- {filter field="title" content="NOT \"age, skin\""} -->
-
-<!-- {filter field="title" content="NOT \"age of menapause\""} -->
-
-<!-- {filter field="title" content="NOT \"add ages 0.5\""} -->
-
-<!-- {filter field="title" content="NOT \"age 0\""} -->
-
-<!-- {filter field="title" content="NOT \"age 1\""} -->
-
-<!-- {filter field="title" content="NOT \"age 2\""} -->
-
-<!-- {filter field="title" content="NOT \"age 3\""} -->
-
-<!-- {filter field="title" content="NOT \"age 4\""} -->
-
-<!-- {filter field="title" content="NOT \"age 6\""} -->
-
-<!-- {filter field="title" content="NOT \"age 7\""} -->
-
-<!-- {filter field="title" content="NOT \"age 9\""} -->
-
-<!-- {filter field="title" content="NOT \"age 12\""} -->
-
-<!-- {filter field="title" content="NOT \"age 16\""} -->
-
-<!-- {filter field="title" content="NOT \"age 18\""} -->
-
-<!-- {filter field="title" content="NOT \"age 20\""} -->
-
-<!-- {filter field="title" content="NOT \"age 35\""} -->
-
-<!-- {filter field="title" content="NOT \"age 37\""} -->
-
-<!-- {filter field="title" content="NOT \"age 50\""} -->
-
-<!-- {filter field="title" content="NOT \"MS, age, etc\""} -->
-
-<!-- {filter field="title" content="NOT \"middle aged\""} -->
-
-<!-- {filter field="title" content="NOT \"to age book\""} -->
-
-<!-- {filter field="title" content="NOT \"victorean age\""} -->
-
-<!-- {filter field="title" content="NOT \"vs age and\""} -->
-
-<!-- {filter field="title" content="NOT \"with age (perhaps\""} -->
-
-<!-- {filter field="title" content="NOT \"with the age of the child\""} -->
-
-<!-- {filter field="title" content="NOT \"decrease with age\""} -->
-
-<!-- {filter field="title" content="NOT \"worse with age\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" exact="aging OR ageing"}
+{filter field="title" content="NOT \"as you age\""}
+{filter field="title" content="NOT \"AI, age\""}
+{filter field="title" content="NOT \"race, age\""}
+{filter field="title" content="NOT \"age-adjusted\""}
+{filter field="title" content="NOT \"age-associated\""}
+{filter field="title" content="NOT \"age-related\""}
+{filter field="title" content="NOT \"age, skin\""}
+{filter field="title" content="NOT \"age of menapause\""}
+{filter field="title" content="NOT \"add ages 0.5\""}
+{filter field="title" content="NOT \"age 0\""}
+{filter field="title" content="NOT \"age 1\""}
+{filter field="title" content="NOT \"age 2\""}
+{filter field="title" content="NOT \"age 3\""}
+{filter field="title" content="NOT \"age 4\""}
+{filter field="title" content="NOT \"age 6\""}
+{filter field="title" content="NOT \"age 7\""}
+{filter field="title" content="NOT \"age 9\""}
+{filter field="title" content="NOT \"age 12\""}
+{filter field="title" content="NOT \"age 16\""}
+{filter field="title" content="NOT \"age 18\""}
+{filter field="title" content="NOT \"age 20\""}
+{filter field="title" content="NOT \"age 35\""}
+{filter field="title" content="NOT \"age 37\""}
+{filter field="title" content="NOT \"age 50\""}
+{filter field="title" content="NOT \"MS, age, etc\""}
+{filter field="title" content="NOT \"middle aged\""}
+{filter field="title" content="NOT \"to age book\""}
+{filter field="title" content="NOT \"victorean age\""}
+{filter field="title" content="NOT \"vs age and\""}
+{filter field="title" content="NOT \"with age (perhaps\""}
+{filter field="title" content="NOT \"with the age of the child\""}
+{filter field="title" content="NOT \"decrease with age\""}
+{filter field="title" content="NOT \"worse with age\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 * [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
@@ -365,7 +308,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Vitamin D and Aging: Central Role of Immunocompetence – Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -578,31 +521,19 @@ This list is automatically updated
 
 #### 7 of the many studies by Carlberg in VitaminDWiki
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;CARLBERG&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
  **&lt;a href=&quot;/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019&quot;&gt;Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019&lt;/a&gt;** 
 
@@ -624,97 +555,52 @@ This list is automatically updated
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;100&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 * [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
@@ -2742,23 +2628,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `7 of the many studies by Carlberg in VitaminDWiki`
 │   │   inner_content: `7 of the many studies by Carlberg in VitaminDWiki`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;CARLBERG&quot;
-│   │   field: title
-│   │   content: CARLBERG├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`├── BoldNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CARLBERG&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
 │   full_match: `__((Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019))__`
 │   inner_content: `((Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019))`
 │   children:
@@ -2861,287 +2742,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;100&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;100&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; exact=&quot;aging OR ageing&quot;
-│   │   field: title
-│   │   exact: aging OR ageing├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`├── ListItemNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; exact=&quot;aging OR ageing&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;as you age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;AI, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;race, age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-adjusted\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-associated\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age-related\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age, skin\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age of menapause\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;add ages 0.5\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 0\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 1\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 3\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 4\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 6\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 7\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 9\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 12\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 16\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 18\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 20\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 35\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 37\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;age 50\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;MS, age, etc\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;middle aged\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;to age book\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;victorean age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;vs age and\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with age (perhaps\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;with the age of the child\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;decrease with age\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;worse with age\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
 │   full_match: `*((How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023))`
 │   inner_content: `((How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023))`
 │   depth: `1`

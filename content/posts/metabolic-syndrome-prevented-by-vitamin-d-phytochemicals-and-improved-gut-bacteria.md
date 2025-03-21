@@ -70,7 +70,7 @@ Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut m
 <!-- ~tc~ (alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

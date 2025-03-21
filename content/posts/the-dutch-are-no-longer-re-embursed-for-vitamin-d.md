@@ -16,7 +16,7 @@ categories:
 
 * "...discontinue the reimbursement of all vitamin D products containing cholecalciferol or calcifediol from 1 January 2023"
 
- **People belong to this vulnerable group if they have at least 1 of these characteristics. %%%This was selected because people often have more than 1 issue.** 
+ **People belong to this vulnerable group if they have at least 1 of these characteristics. This was selected because people often have more than 1 issue.** 
 
 people with difficulty keeping oversight of their medicines;
 
@@ -34,7 +34,7 @@ people with limited health literacy;
 
 people with low-level literacy.
 
- **Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
+ **Study results: most people continued taking vitamin DThe study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
 
 * 65% continued to use vitamin D and now pay for it themselves. The main reason is that people consider vitamin D necessary for their health. 
 
@@ -62,7 +62,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 • If this is extrapolated to the Dutch situation, it affects about 25,000 vulnerable people who are forgoing vitamin D because of the costs (available over the counter from less than 10 euros per person per year).
 
- <span style="color:orange;"> **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost <5 euros/person/year %%%AND there would be 13 fewer occasions to forget to take it** </span>
+ <span style="color:orange;"> **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost <5 euros/person/year AND there would be 13 fewer occasions to forget to take it** </span>
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the 5 page study from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -93,7 +93,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 #### VitaminDWiki: [Vitamin D has been found to be cost-effective by many studies](/posts/vitamin-d-has-been-found-to-be-cost-effective-by-many-studies)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -103,7 +103,7 @@ Markdown:
 
 * &quot;...discontinue the reimbursement of all vitamin D products containing cholecalciferol or calcifediol from 1 January 2023&quot;
 
- **People belong to this vulnerable group if they have at least 1 of these characteristics. %%%This was selected because people often have more than 1 issue.** 
+ **People belong to this vulnerable group if they have at least 1 of these characteristics. This was selected because people often have more than 1 issue.** 
 
 people with difficulty keeping oversight of their medicines;
 
@@ -121,7 +121,7 @@ people with limited health literacy;
 
 people with low-level literacy.
 
- **Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
+ **Study results: most people continued taking vitamin DThe study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
 
 * 65% continued to use vitamin D and now pay for it themselves. The main reason is that people consider vitamin D necessary for their health. 
 
@@ -149,7 +149,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 • If this is extrapolated to the Dutch situation, it affects about 25,000 vulnerable people who are forgoing vitamin D because of the costs (available over the counter from less than 10 euros per person per year).
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year %%%AND there would be 13 fewer occasions to forget to take it** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year AND there would be 13 fewer occasions to forget to take it** &lt;/span&gt;
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the 5 page study from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -212,16 +212,28 @@ AST Structure:
 │   inner_content: `People belong to this vulnerable group if they have at least 1 of these characteristics. %%%This was selected because people often have more than 1 issue.`
 │   children:
 │   ├── TextNode
-│   │   full_match: `People belong to this vulnerable group if they have at least 1 of these characteristics. %%%This was selected because people often have more than 1 issue.`
-│   │   inner_content: `People belong to this vulnerable group if they have at least 1 of these characteristics. %%%This was selected because people often have more than 1 issue.`├── TextNode
+│   │   full_match: `People belong to this vulnerable group if they have at least 1 of these characteristics. `
+│   │   inner_content: `People belong to this vulnerable group if they have at least 1 of these characteristics. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `This was selected because people often have more than 1 issue.`
+│   │   inner_content: `This was selected because people often have more than 1 issue.`├── TextNode
 │   full_match: `\npeople with difficulty keeping oversight of their medicines;\npeople with osteoporosis;\npeople with a language barrier or an immigration background;\npeople with a low level of education;\npeople with low socio-economic status;\npeople with generally ill health;\npeople with limited health literacy;\npeople with low-level literacy.\n\n`
 │   inner_content: `\npeople with difficulty keeping oversight of their medicines;\npeople with osteoporosis;\npeople with a language barrier or an immigration background;\npeople with a low level of education;\npeople with low socio-economic status;\npeople with generally ill health;\npeople with limited health literacy;\npeople with low-level literacy.\n\n`├── BoldNode
 │   full_match: `__Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:__`
 │   inner_content: `Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:`
-│   │   inner_content: `Study results: most people continued taking vitamin D%%%The study shows that a large proportion of vulnerable people have continued to take vitamin D:`├── TextNode
+│   │   full_match: `Study results: most people continued taking vitamin D`
+│   │   inner_content: `Study results: most people continued taking vitamin D`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `The study shows that a large proportion of vulnerable people have continued to take vitamin D:`
+│   │   inner_content: `The study shows that a large proportion of vulnerable people have continued to take vitamin D:`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*65% continued to use vitamin D and now pay for it themselves. The main reason is that people consider vitamin D necessary for their health. `
@@ -330,8 +342,14 @@ AST Structure:
 │   │   inner_content: `Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year %%%AND there would be 13 fewer occasions to forget to take it`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year %%%AND there would be 13 fewer occasions to forget to take it`
-│   │   │   inner_content: `Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year %%%AND there would be 13 fewer occasions to forget to take it`├── TextNode
+│   │   │   full_match: `Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year `
+│   │   │   inner_content: `Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `AND there would be 13 fewer occasions to forget to take it`
+│   │   │   inner_content: `AND there would be 13 fewer occasions to forget to take it`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;21049&quot; icon=&quot;1&quot;)}Download the 5 page study from VitaminDWiki {ATTACH}__{FONT}`

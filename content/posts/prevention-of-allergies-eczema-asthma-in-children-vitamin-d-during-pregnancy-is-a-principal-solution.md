@@ -29,11 +29,11 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 ##### Big differences in allergies in Asian children: Singapore, Australia
 
-||Health problem| Singapore|Australia
-
-Food allergy| 1.1% |15%
-
-Eczema–  early onset|8%|30%||
+| | | |
+| --- | --- | --- |
+| Health problem |  Singapore | Australia |
+| Food allergy |  1.1%  | 15% |
+| Eczema–  early onset | 8% | 30% |
 
 ---
 
@@ -54,7 +54,7 @@ Eczema–  early onset|8%|30%||
 </span> visits to this page
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -76,11 +76,11 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 ##### Big differences in allergies in Asian children: Singapore, Australia
 
-||Health problem| Singapore|Australia
-
-Food allergy| 1.1% |15%
-
-Eczema–  early onset|8%|30%||
+| | | |
+| --- | --- | --- |
+| Health problem |  Singapore | Australia |
+| Food allergy |  1.1%  | 15% |
+| Eczema–  early onset | 8% | 30% |
 
 ---
 
@@ -164,8 +164,86 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Big differences in allergies in Asian children: Singapore, Australia`
 │   │   inner_content: `Big differences in allergies in Asian children: Singapore, Australia`├── TextNode
-│   full_match: `\n||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`
-│   inner_content: `\n||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`├── HorizontalRuleNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%||`
+│   inner_content: `Health problem| Singapore|Australia\nFood allergy| 1.1% |15%\nEczema–  early onset|8%|30%`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Health problem| Singapore|Australia`
+│   │   inner_content: `Health problem| Singapore|Australia`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Health problem`
+│   │   │   inner_content: `Health problem`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Health problem`
+│   │   │   │   inner_content: `Health problem`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Singapore`
+│   │   │   inner_content: ` Singapore`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Singapore`
+│   │   │   │   inner_content: ` Singapore`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Australia`
+│   │   │   inner_content: `Australia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Australia`
+│   │   │   │   inner_content: `Australia`
+│   ├── TableRowNode
+│   │   full_match: `Food allergy| 1.1% |15%`
+│   │   inner_content: `Food allergy| 1.1% |15%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Food allergy`
+│   │   │   inner_content: `Food allergy`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Food allergy`
+│   │   │   │   inner_content: `Food allergy`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 1.1% `
+│   │   │   inner_content: ` 1.1% `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 1.1% `
+│   │   │   │   inner_content: ` 1.1% `
+│   │   ├── TableCellNode
+│   │   │   full_match: `15%`
+│   │   │   inner_content: `15%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `15%`
+│   │   │   │   inner_content: `15%`
+│   ├── TableRowNode
+│   │   full_match: `Eczema–  early onset|8%|30%`
+│   │   inner_content: `Eczema–  early onset|8%|30%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Eczema–  early onset`
+│   │   │   inner_content: `Eczema–  early onset`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Eczema–  early onset`
+│   │   │   │   inner_content: `Eczema–  early onset`
+│   │   ├── TableCellNode
+│   │   │   full_match: `8%`
+│   │   │   inner_content: `8%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `8%`
+│   │   │   │   inner_content: `8%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `30%`
+│   │   │   inner_content: `30%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `30%`
+│   │   │   │   inner_content: `30%`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Allergy - Overview))`

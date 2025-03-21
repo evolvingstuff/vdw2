@@ -43,7 +43,7 @@ Conclusions: Overall, IBS patients may benefit from vitamin D supplementation to
 ##### Note: Many people with IBS need a gut-friendly form of Vitamin D
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

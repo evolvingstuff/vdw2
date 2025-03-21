@@ -87,7 +87,7 @@ Recent studies have reported that the use of intermittent high-dose bolus, intro
 <!-- ~tc~ (alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

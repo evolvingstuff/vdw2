@@ -35,7 +35,7 @@ Yes, some health problems associated with a poor diet can be mitigated by Vitami
 <!-- ~tc~ (alias(Can some of the health problems of a poor diet be reduced by Vitamin D - asked Chat-GPT Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

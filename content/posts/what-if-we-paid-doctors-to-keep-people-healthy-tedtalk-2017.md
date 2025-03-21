@@ -95,7 +95,7 @@ Most of the technologies that we need to initiate that change are already existi
 
  **[What If Doctors Were Paid to Keep People Well? - March 2021](https://nutritionstudies.org/what-if-doctors-were-paid-to-keep-people-well/)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

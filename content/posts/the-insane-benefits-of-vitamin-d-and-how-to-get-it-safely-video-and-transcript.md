@@ -111,7 +111,7 @@ And so it's a really important thing to make sure you get. So how does your body
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

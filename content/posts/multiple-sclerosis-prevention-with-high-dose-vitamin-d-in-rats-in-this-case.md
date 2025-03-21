@@ -52,7 +52,7 @@ Vitamin D (VD) is the most discussed antioxidant supplement for multiple scleros
 <!-- ~tc~ (alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

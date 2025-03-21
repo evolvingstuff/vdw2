@@ -73,7 +73,7 @@ This list is automatically updated
 
 <a href="/posts/multiple-sclerosisclick-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis|click here for details">Multiple Sclerosis|click here for details</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

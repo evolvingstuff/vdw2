@@ -34,7 +34,7 @@ The findings of the present study showed that in postmenopausal women with UUI o
 <!-- ~tc~ (alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

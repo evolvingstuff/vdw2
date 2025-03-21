@@ -102,31 +102,19 @@ Medicines & Healthcare products Regulatory Agency [https://www.bmj.com/content/3
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="70"}
-
-<!-- {filter field="title" content="TRANSCRIPT" OR "TRANSCRIPTION"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="TRANSCRIPT" OR "TRANSCRIPTION"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -158,27 +146,19 @@ This list is automatically updated
 
 #### Countries of recent Meta-analyses of Vitamin D and COVID
 
-||Italy| Jan 2023
-
-Eqypt| Dec 2022
-
-Iran |Sept 2022
-
-Italy |July 2022
-
-India| Jan 2022
-
-Italy |Dec 2021
-
-Sri Lanka |Dec 2021
-
-Greece|Dec 2021
-
-Turkey|Oct 2021
-
-Poland| Oct 2021
-
-Italy|Oct 2021||
+| | |
+| --- | --- |
+| Italy |  Jan 2023 |
+| Eqypt |  Dec 2022 |
+| Iran  | Sept 2022 |
+| Italy  | July 2022 |
+| India |  Jan 2022 |
+| Italy  | Dec 2021 |
+| Sri Lanka  | Dec 2021 |
+| Greece | Dec 2021 |
+| Turkey | Oct 2021 |
+| Poland |  Oct 2021 |
+| Italy | Oct 2021 |
 
  **Note: before vaccines there were many publications concerning Vitamin D and COVID** 
 
@@ -194,7 +174,7 @@ Italy|Oct 2021||
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -289,31 +269,19 @@ Medicines &amp; Healthcare products Regulatory Agency [https://www.bmj.com/conte
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;70&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -345,27 +313,19 @@ This list is automatically updated
 
 #### Countries of recent Meta-analyses of Vitamin D and COVID
 
-||Italy| Jan 2023
-
-Eqypt| Dec 2022
-
-Iran |Sept 2022
-
-Italy |July 2022
-
-India| Jan 2022
-
-Italy |Dec 2021
-
-Sri Lanka |Dec 2021
-
-Greece|Dec 2021
-
-Turkey|Oct 2021
-
-Poland| Oct 2021
-
-Italy|Oct 2021||
+| | |
+| --- | --- |
+| Italy |  Jan 2023 |
+| Eqypt |  Dec 2022 |
+| Iran  | Sept 2022 |
+| Italy  | July 2022 |
+| India |  Jan 2022 |
+| Italy  | Dec 2021 |
+| Sri Lanka  | Dec 2021 |
+| Greece | Dec 2021 |
+| Turkey | Oct 2021 |
+| Poland |  Oct 2021 |
+| Italy | Oct 2021 |
 
  **Note: before vaccines there were many publications concerning Vitamin D and COVID** 
 
@@ -708,23 +668,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;70&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;70&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;
-│   │   field: title
-│   │   content: TRANSCRIPT├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!{SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 82  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Virus meta-analyses on VitaminDWiki`
@@ -883,8 +836,211 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Countries of recent Meta-analyses of Vitamin D and COVID`
 │   │   inner_content: `Countries of recent Meta-analyses of Vitamin D and COVID`├── TextNode
-│   full_match: `\n||Italy| Jan 2023\nEqypt| Dec 2022\nIran |Sept 2022\nItaly |July 2022\nIndia| Jan 2022\nItaly |Dec 2021\nSri Lanka |Dec 2021\nGreece|Dec 2021\nTurkey|Oct 2021\nPoland| Oct 2021\nItaly|Oct 2021||\n`
-│   inner_content: `\n||Italy| Jan 2023\nEqypt| Dec 2022\nIran |Sept 2022\nItaly |July 2022\nIndia| Jan 2022\nItaly |Dec 2021\nSri Lanka |Dec 2021\nGreece|Dec 2021\nTurkey|Oct 2021\nPoland| Oct 2021\nItaly|Oct 2021||\n`├── BoldNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Italy| Jan 2023\nEqypt| Dec 2022\nIran |Sept 2022\nItaly |July 2022\nIndia| Jan 2022\nItaly |Dec 2021\nSri Lanka |Dec 2021\nGreece|Dec 2021\nTurkey|Oct 2021\nPoland| Oct 2021\nItaly|Oct 2021||`
+│   inner_content: `Italy| Jan 2023\nEqypt| Dec 2022\nIran |Sept 2022\nItaly |July 2022\nIndia| Jan 2022\nItaly |Dec 2021\nSri Lanka |Dec 2021\nGreece|Dec 2021\nTurkey|Oct 2021\nPoland| Oct 2021\nItaly|Oct 2021`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Italy| Jan 2023`
+│   │   inner_content: `Italy| Jan 2023`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Italy`
+│   │   │   inner_content: `Italy`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Italy`
+│   │   │   │   inner_content: `Italy`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Jan 2023`
+│   │   │   inner_content: ` Jan 2023`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Jan 2023`
+│   │   │   │   inner_content: ` Jan 2023`
+│   ├── TableRowNode
+│   │   full_match: `Eqypt| Dec 2022`
+│   │   inner_content: `Eqypt| Dec 2022`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Eqypt`
+│   │   │   inner_content: `Eqypt`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Eqypt`
+│   │   │   │   inner_content: `Eqypt`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Dec 2022`
+│   │   │   inner_content: ` Dec 2022`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Dec 2022`
+│   │   │   │   inner_content: ` Dec 2022`
+│   ├── TableRowNode
+│   │   full_match: `Iran |Sept 2022`
+│   │   inner_content: `Iran |Sept 2022`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Iran `
+│   │   │   inner_content: `Iran `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Iran `
+│   │   │   │   inner_content: `Iran `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Sept 2022`
+│   │   │   inner_content: `Sept 2022`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sept 2022`
+│   │   │   │   inner_content: `Sept 2022`
+│   ├── TableRowNode
+│   │   full_match: `Italy |July 2022`
+│   │   inner_content: `Italy |July 2022`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Italy `
+│   │   │   inner_content: `Italy `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Italy `
+│   │   │   │   inner_content: `Italy `
+│   │   ├── TableCellNode
+│   │   │   full_match: `July 2022`
+│   │   │   inner_content: `July 2022`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `July 2022`
+│   │   │   │   inner_content: `July 2022`
+│   ├── TableRowNode
+│   │   full_match: `India| Jan 2022`
+│   │   inner_content: `India| Jan 2022`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `India`
+│   │   │   inner_content: `India`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `India`
+│   │   │   │   inner_content: `India`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Jan 2022`
+│   │   │   inner_content: ` Jan 2022`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Jan 2022`
+│   │   │   │   inner_content: ` Jan 2022`
+│   ├── TableRowNode
+│   │   full_match: `Italy |Dec 2021`
+│   │   inner_content: `Italy |Dec 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Italy `
+│   │   │   inner_content: `Italy `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Italy `
+│   │   │   │   inner_content: `Italy `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Dec 2021`
+│   │   │   inner_content: `Dec 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Dec 2021`
+│   │   │   │   inner_content: `Dec 2021`
+│   ├── TableRowNode
+│   │   full_match: `Sri Lanka |Dec 2021`
+│   │   inner_content: `Sri Lanka |Dec 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Sri Lanka `
+│   │   │   inner_content: `Sri Lanka `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sri Lanka `
+│   │   │   │   inner_content: `Sri Lanka `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Dec 2021`
+│   │   │   inner_content: `Dec 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Dec 2021`
+│   │   │   │   inner_content: `Dec 2021`
+│   ├── TableRowNode
+│   │   full_match: `Greece|Dec 2021`
+│   │   inner_content: `Greece|Dec 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Greece`
+│   │   │   inner_content: `Greece`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Greece`
+│   │   │   │   inner_content: `Greece`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Dec 2021`
+│   │   │   inner_content: `Dec 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Dec 2021`
+│   │   │   │   inner_content: `Dec 2021`
+│   ├── TableRowNode
+│   │   full_match: `Turkey|Oct 2021`
+│   │   inner_content: `Turkey|Oct 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Turkey`
+│   │   │   inner_content: `Turkey`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Turkey`
+│   │   │   │   inner_content: `Turkey`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Oct 2021`
+│   │   │   inner_content: `Oct 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Oct 2021`
+│   │   │   │   inner_content: `Oct 2021`
+│   ├── TableRowNode
+│   │   full_match: `Poland| Oct 2021`
+│   │   inner_content: `Poland| Oct 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Poland`
+│   │   │   inner_content: `Poland`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Poland`
+│   │   │   │   inner_content: `Poland`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` Oct 2021`
+│   │   │   inner_content: ` Oct 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Oct 2021`
+│   │   │   │   inner_content: ` Oct 2021`
+│   ├── TableRowNode
+│   │   full_match: `Italy|Oct 2021`
+│   │   inner_content: `Italy|Oct 2021`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Italy`
+│   │   │   inner_content: `Italy`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Italy`
+│   │   │   │   inner_content: `Italy`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Oct 2021`
+│   │   │   inner_content: `Oct 2021`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Oct 2021`
+│   │   │   │   inner_content: `Oct 2021`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
 │   full_match: `__Note: before vaccines there were many publications concerning Vitamin D and COVID__`
 │   inner_content: `Note: before vaccines there were many publications concerning Vitamin D and COVID`
 │   children:

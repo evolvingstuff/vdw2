@@ -15,15 +15,13 @@ date: 2023-12-09
 
 #### Summary - approximate
 
-|| |cost/year|years %%%extended|cost per year %%%/year extended
-
-Good diet|$3000|10 years| **$300/year** 
-
-Exercise|1000 %%%hours| 5 years?| **$2000/year** %%%assume $10/hour
-
-Omega-3|$300| 8 years?| **$37/year** 
-
-Vitamin D|$20|3 years| **$7/year** ||
+| | | | |
+| --- | --- | --- | --- |
+|   | cost/year | years <br>extended | cost per year <br>/year extended |
+| Good diet | $3000 | 10 years |  **$300/year**  |
+| Exercise | 1000 <br>hours |  5 years? |  **$2000/year** <br>assume $10/hour |
+| Omega-3 | $300 |  8 years? |  **$37/year**  |
+| Vitamin D | $20 | 3 years |  **$7/year**  |
 
 ---
 
@@ -93,31 +91,19 @@ A sustained dietary change may give substantial health gains for people of all a
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="70"}
-
-<!-- {filter field="title" content="\"life-extension\" OR “\"extend life\" OR “\"years longer\" OR “\"longer life\" OR “\"life expectancy\"  OR “\"healthspan\"  OR “\"long life\"  OR “\"lifespan\" OR “\"longevity\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"life-extension\" OR “\"extend life\" OR “\"years longer\" OR “\"longer life\" OR “\"life expectancy\"  OR “\"healthspan\"  OR “\"long life\"  OR “\"lifespan\" OR “\"longevity\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -150,7 +136,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -161,15 +147,13 @@ Markdown:
 
 #### Summary - approximate
 
-|| |cost/year|years %%%extended|cost per year %%%/year extended
-
-Good diet|$3000|10 years| **$300/year** 
-
-Exercise|1000 %%%hours| 5 years?| **$2000/year** %%%assume $10/hour
-
-Omega-3|$300| 8 years?| **$37/year** 
-
-Vitamin D|$20|3 years| **$7/year** ||
+| | | | |
+| --- | --- | --- | --- |
+|   | cost/year | years &lt;br&gt;extended | cost per year &lt;br&gt;/year extended |
+| Good diet | $3000 | 10 years |  **$300/year**  |
+| Exercise | 1000 &lt;br&gt;hours |  5 years? |  **$2000/year** &lt;br&gt;assume $10/hour |
+| Omega-3 | $300 |  8 years? |  **$37/year**  |
+| Vitamin D | $20 | 3 years |  **$7/year**  |
 
 ---
 
@@ -239,31 +223,19 @@ A sustained dietary change may give substantial health gains for people of all a
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;70&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -329,48 +301,215 @@ AST Structure:
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n|| |cost/year|years %%%extended|cost per year %%%/year extended\nGood diet|$3000|10 years|`
-│   │   inner_content: `\n|| |cost/year|years %%%extended|cost per year %%%/year extended\nGood diet|$3000|10 years|`
-│   ├── BoldNode
-│   │   full_match: `__$300/year__`
-│   │   inner_content: `$300/year`
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `|| |cost/year|years %%%extended|cost per year %%%/year extended\nGood diet|$3000|10 years|__$300/year__\nExercise|1000 %%%hours| 5 years?|__$2000/year__%%%assume $10/hour\nOmega-3|$300| 8 years?|__$37/year__\nVitamin D|$20|3 years|__$7/year__||`
+│   │   inner_content: ` |cost/year|years %%%extended|cost per year %%%/year extended\nGood diet|$3000|10 years|__$300/year__\nExercise|1000 %%%hours| 5 years?|__$2000/year__%%%assume $10/hour\nOmega-3|$300| 8 years?|__$37/year__\nVitamin D|$20|3 years|__$7/year__`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `$300/year`
-│   │   │   inner_content: `$300/year`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |cost/year|years %%%extended|cost per year %%%/year extended`
+│   │   │   inner_content: ` |cost/year|years %%%extended|cost per year %%%/year extended`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `cost/year`
+│   │   │   │   inner_content: `cost/year`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `cost/year`
+│   │   │   │   │   inner_content: `cost/year`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `years %%%extended`
+│   │   │   │   inner_content: `years %%%extended`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `years `
+│   │   │   │   │   inner_content: `years `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `extended`
+│   │   │   │   │   inner_content: `extended`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `cost per year %%%/year extended`
+│   │   │   │   inner_content: `cost per year %%%/year extended`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `cost per year `
+│   │   │   │   │   inner_content: `cost per year `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `/year extended`
+│   │   │   │   │   inner_content: `/year extended`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Good diet|$3000|10 years|__$300/year__`
+│   │   │   inner_content: `Good diet|$3000|10 years|__$300/year__`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Good diet`
+│   │   │   │   inner_content: `Good diet`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Good diet`
+│   │   │   │   │   inner_content: `Good diet`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `$3000`
+│   │   │   │   inner_content: `$3000`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `$3000`
+│   │   │   │   │   inner_content: `$3000`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `10 years`
+│   │   │   │   inner_content: `10 years`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `10 years`
+│   │   │   │   │   inner_content: `10 years`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__$300/year__`
+│   │   │   │   inner_content: `__$300/year__`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__$300/year__`
+│   │   │   │   │   inner_content: `$300/year`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `$300/year`
+│   │   │   │   │   │   inner_content: `$300/year`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Exercise|1000 %%%hours| 5 years?|__$2000/year__%%%assume $10/hour`
+│   │   │   inner_content: `Exercise|1000 %%%hours| 5 years?|__$2000/year__%%%assume $10/hour`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Exercise`
+│   │   │   │   inner_content: `Exercise`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Exercise`
+│   │   │   │   │   inner_content: `Exercise`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1000 %%%hours`
+│   │   │   │   inner_content: `1000 %%%hours`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1000 `
+│   │   │   │   │   inner_content: `1000 `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `hours`
+│   │   │   │   │   inner_content: `hours`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 5 years?`
+│   │   │   │   inner_content: ` 5 years?`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 5 years?`
+│   │   │   │   │   inner_content: ` 5 years?`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__$2000/year__%%%assume $10/hour`
+│   │   │   │   inner_content: `__$2000/year__%%%assume $10/hour`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__$2000/year__`
+│   │   │   │   │   inner_content: `$2000/year`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `$2000/year`
+│   │   │   │   │   │   inner_content: `$2000/year`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `assume $10/hour`
+│   │   │   │   │   inner_content: `assume $10/hour`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Omega-3|$300| 8 years?|__$37/year__`
+│   │   │   inner_content: `Omega-3|$300| 8 years?|__$37/year__`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Omega-3`
+│   │   │   │   inner_content: `Omega-3`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Omega-3`
+│   │   │   │   │   inner_content: `Omega-3`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `$300`
+│   │   │   │   inner_content: `$300`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `$300`
+│   │   │   │   │   inner_content: `$300`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 8 years?`
+│   │   │   │   inner_content: ` 8 years?`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 8 years?`
+│   │   │   │   │   inner_content: ` 8 years?`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__$37/year__`
+│   │   │   │   inner_content: `__$37/year__`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__$37/year__`
+│   │   │   │   │   inner_content: `$37/year`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `$37/year`
+│   │   │   │   │   │   inner_content: `$37/year`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Vitamin D|$20|3 years|__$7/year__`
+│   │   │   inner_content: `Vitamin D|$20|3 years|__$7/year__`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Vitamin D`
+│   │   │   │   inner_content: `Vitamin D`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin D`
+│   │   │   │   │   inner_content: `Vitamin D`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `$20`
+│   │   │   │   inner_content: `$20`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `$20`
+│   │   │   │   │   inner_content: `$20`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `3 years`
+│   │   │   │   inner_content: `3 years`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `3 years`
+│   │   │   │   │   inner_content: `3 years`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__$7/year__`
+│   │   │   │   inner_content: `__$7/year__`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__$7/year__`
+│   │   │   │   │   inner_content: `$7/year`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `$7/year`
+│   │   │   │   │   │   inner_content: `$7/year`
 │   ├── TextNode
-│   │   full_match: `\nExercise|1000 %%%hours| 5 years?|`
-│   │   inner_content: `\nExercise|1000 %%%hours| 5 years?|`
-│   ├── BoldNode
-│   │   full_match: `__$2000/year__`
-│   │   inner_content: `$2000/year`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `$2000/year`
-│   │   │   inner_content: `$2000/year`
-│   ├── TextNode
-│   │   full_match: `%%%assume $10/hour\nOmega-3|$300| 8 years?|`
-│   │   inner_content: `%%%assume $10/hour\nOmega-3|$300| 8 years?|`
-│   ├── BoldNode
-│   │   full_match: `__$37/year__`
-│   │   inner_content: `$37/year`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `$37/year`
-│   │   │   inner_content: `$37/year`
-│   ├── TextNode
-│   │   full_match: `\nVitamin D|$20|3 years|`
-│   │   inner_content: `\nVitamin D|$20|3 years|`
-│   ├── BoldNode
-│   │   full_match: `__$7/year__`
-│   │   inner_content: `$7/year`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `$7/year`
-│   │   │   inner_content: `$7/year`
-│   ├── TextNode
-│   │   full_match: `||\n`
-│   │   inner_content: `||\n`├── HorizontalRuleNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Optimized diet adds 8 years to 60 year-old women - March 2022`
@@ -739,23 +878,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;70&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;70&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Exercise and Vitamin D are synergistic - many studies)) 66+`

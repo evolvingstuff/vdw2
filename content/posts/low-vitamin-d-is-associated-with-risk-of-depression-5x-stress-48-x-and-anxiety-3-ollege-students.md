@@ -61,7 +61,7 @@ were significantly higher in the vitamin D-deficient group. The research shows a
 #### VitaminDWiki – <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies">Mental stress, physical stress associations with low vitamin D - many studies</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

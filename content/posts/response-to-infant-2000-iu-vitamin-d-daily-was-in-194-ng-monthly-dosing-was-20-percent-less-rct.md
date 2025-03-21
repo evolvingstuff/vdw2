@@ -36,11 +36,11 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 78 total infants RCT for 12 weeks 
 
-||Daily|Monthly bolus
-
-2,000 IU| 60,000 IU
-
-194 ng|154 ng||
+| | |
+| --- | --- |
+| Daily | Monthly bolus |
+| 2,000 IU |  60,000 IU |
+| 194 ng | 154 ng |
 
  **<span style="color:orange;">Not mentioned: Infant age, BMI, breastfeeding or mother's supplementation</span>** 
 
@@ -172,7 +172,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -200,11 +200,11 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 78 total infants RCT for 12 weeks 
 
-||Daily|Monthly bolus
-
-2,000 IU| 60,000 IU
-
-194 ng|154 ng||
+| | |
+| --- | --- |
+| Daily | Monthly bolus |
+| 2,000 IU |  60,000 IU |
+| 194 ng | 154 ng |
 
  **&lt;span style=&quot;color:orange;&quot;&gt;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&lt;/span&gt;** 
 
@@ -420,8 +420,69 @@ AST Structure:
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n78 total infants RCT for 12 weeks \n||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||\n`
-│   │   inner_content: `\n78 total infants RCT for 12 weeks \n||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||\n`
+│   │   full_match: `\n78 total infants RCT for 12 weeks \n`
+│   │   inner_content: `\n78 total infants RCT for 12 weeks \n`
+│   ├── TableNode
+│   │   full_match: `||Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng||`
+│   │   inner_content: `Daily|Monthly bolus\n2,000 IU| 60,000 IU\n194 ng|154 ng`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Daily|Monthly bolus`
+│   │   │   inner_content: `Daily|Monthly bolus`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Daily`
+│   │   │   │   inner_content: `Daily`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Daily`
+│   │   │   │   │   inner_content: `Daily`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Monthly bolus`
+│   │   │   │   inner_content: `Monthly bolus`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Monthly bolus`
+│   │   │   │   │   inner_content: `Monthly bolus`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2,000 IU| 60,000 IU`
+│   │   │   inner_content: `2,000 IU| 60,000 IU`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2,000 IU`
+│   │   │   │   inner_content: `2,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2,000 IU`
+│   │   │   │   │   inner_content: `2,000 IU`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 60,000 IU`
+│   │   │   │   inner_content: ` 60,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 60,000 IU`
+│   │   │   │   │   inner_content: ` 60,000 IU`
+│   │   ├── TableRowNode
+│   │   │   full_match: `194 ng|154 ng`
+│   │   │   inner_content: `194 ng|154 ng`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `194 ng`
+│   │   │   │   inner_content: `194 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `194 ng`
+│   │   │   │   │   inner_content: `194 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `154 ng`
+│   │   │   │   inner_content: `154 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `154 ng`
+│   │   │   │   │   inner_content: `154 ng`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&#39;&#39;~~__`
 │   │   inner_content: `~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&#39;&#39;~~`

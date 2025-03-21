@@ -392,7 +392,7 @@ Vitamin D affects a wide range of physiological functions including the control 
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

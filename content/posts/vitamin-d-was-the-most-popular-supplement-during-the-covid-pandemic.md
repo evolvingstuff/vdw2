@@ -58,7 +58,7 @@ Numerous scientific studies have demonstrated their beneficial properties as wel
 #### VitaminDWiki – <a href="/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D">26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

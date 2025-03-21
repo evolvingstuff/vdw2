@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>50 ng of Vitamin D - 100 hours of noon sunbathing OR 3 dollars of Vit D</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -305,7 +305,7 @@
         <!-- {maketoc Title=""} -->
 <hr>
 <h4 id="only-90-minutes-of-sun-daily-if-7-factors-are-all-good">Only 90 minutes of sun daily: if 7 factors are all good</h4>
-<p><strong><span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% <del>hs</span>hs</del> 3X longer for each of the following: Obese, Elderly, Dark Skin%%%    2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants ~~</strong></p>
+<p><strong><span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight <del>hs</span>hs</del> 3X longer for each of the following: Obese, Elderly, Dark Skin    2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants ~~</strong></p>
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 <hr>
 <h4 id="vitamindwiki--noontime-sun-and-dcategoriesnoontime-sun-and-d-category-contains">VitaminDWiki – <a href="/categories/noontime-sun-and-d">Noontime sun and D</a> category contains</h4>
@@ -314,7 +314,7 @@
 <!-- ~tc~ (alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) ~/tc~ -->
 <!-- ~tc~ (alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) ~/tc~ -->
 <!-- ~tc~ (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) ~/tc~ -->
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -326,7 +326,7 @@ Markdown:
 
 #### Only 90 minutes of sun daily: if 7 factors are all good
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs&lt;/span&gt;hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% &amp;nbsp;&amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants ~~**   
+ **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight ~hs&lt;/span&gt;hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin &amp;nbsp;&amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants ~~**   
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -383,11 +383,23 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs`
-│   │   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs`
+│   │   │   full_match: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
+│   │   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` ~hs`
+│   │   │   inner_content: ` ~hs`
 │   ├── TextNode
-│   │   full_match: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% `
-│   │   inner_content: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% `
+│   │   full_match: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin`
+│   │   inner_content: `hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``
@@ -514,7 +526,7 @@ __~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around 
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -524,8 +536,8 @@ __~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around 
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

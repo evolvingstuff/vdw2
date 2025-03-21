@@ -130,7 +130,7 @@ J Nutr Sci. 2022; 11: e61.  [doi: 10.1017/jns.2022.57](https://doi.org/10.1017/j
 <!-- ~tc~ (alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

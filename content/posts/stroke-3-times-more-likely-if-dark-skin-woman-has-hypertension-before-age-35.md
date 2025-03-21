@@ -82,7 +82,7 @@ This count & list is automatically updated
 <!-- ~tc~ (alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

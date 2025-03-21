@@ -67,7 +67,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 <!-- ~tc~ (alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

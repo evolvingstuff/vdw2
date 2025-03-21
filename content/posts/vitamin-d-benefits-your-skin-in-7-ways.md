@@ -52,7 +52,7 @@ Darker skin produces less vitamin D than lighter skin.  This is because melani
 <!-- ~tc~ (alias(Vitamin D can have a number of benefits for your skin)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

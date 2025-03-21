@@ -32,7 +32,7 @@ Vitamin D (Vit D) affects musculoskeletal performance and central nervous system
 <!-- ~tc~ (alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

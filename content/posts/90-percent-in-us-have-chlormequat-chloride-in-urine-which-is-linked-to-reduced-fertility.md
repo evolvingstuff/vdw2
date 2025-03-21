@@ -20,13 +20,12 @@ categories:
 
  **EPA Considers Expanding Chlormequat (a pesticide) Use in Crops** 
 
-||Date|%
-
-2017|69%
-
-2018-2022| 74%
-
-2023|90%||
+| | |
+| --- | --- |
+| Date | % |
+| 2017 | 69% |
+| 2018-2022 |  74% |
+| 2023 | 90% |
 
 ---
 
@@ -45,7 +44,7 @@ categories:
 <!-- ~tc~ (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -58,13 +57,12 @@ Markdown:
 
  **EPA Considers Expanding Chlormequat (a pesticide) Use in Crops** 
 
-||Date|%
-
-2017|69%
-
-2018-2022| 74%
-
-2023|90%||
+| | |
+| --- | --- |
+| Date | % |
+| 2017 | 69% |
+| 2018-2022 |  74% |
+| 2023 | 90% |
 
 ---
 
@@ -142,8 +140,87 @@ AST Structure:
 │   │   style: font-size:20px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||\n`
-│   │   inner_content: `\n||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||\n`├── HorizontalRuleNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||Date|%\n2017|69%\n2018-2022| 74%\n2023|90%||`
+│   │   inner_content: `Date|%\n2017|69%\n2018-2022| 74%\n2023|90%`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Date|%`
+│   │   │   inner_content: `Date|%`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Date`
+│   │   │   │   inner_content: `Date`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Date`
+│   │   │   │   │   inner_content: `Date`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `%`
+│   │   │   │   inner_content: `%`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `%`
+│   │   │   │   │   inner_content: `%`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2017|69%`
+│   │   │   inner_content: `2017|69%`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2017`
+│   │   │   │   inner_content: `2017`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2017`
+│   │   │   │   │   inner_content: `2017`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `69%`
+│   │   │   │   inner_content: `69%`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `69%`
+│   │   │   │   │   inner_content: `69%`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018-2022| 74%`
+│   │   │   inner_content: `2018-2022| 74%`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018-2022`
+│   │   │   │   inner_content: `2018-2022`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018-2022`
+│   │   │   │   │   inner_content: `2018-2022`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 74%`
+│   │   │   │   inner_content: ` 74%`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 74%`
+│   │   │   │   │   inner_content: ` 74%`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2023|90%`
+│   │   │   inner_content: `2023|90%`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2023`
+│   │   │   │   inner_content: `2023`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2023`
+│   │   │   │   │   inner_content: `2023`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `90%`
+│   │   │   │   inner_content: `90%`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `90%`
+│   │   │   │   │   inner_content: `90%`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Pesticides 8 X less likely to result in female infertility if take vitamin D – Sept 2023))`

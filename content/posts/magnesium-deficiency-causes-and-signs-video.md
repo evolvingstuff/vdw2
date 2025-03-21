@@ -103,7 +103,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye.** 
+ **Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
 
@@ -113,7 +113,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -210,7 +210,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye.** 
+ **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
 
@@ -310,8 +310,14 @@ AST Structure:
 │   │   │   full_match: `number 1 earliest sign`
 │   │   │   inner_content: `number 1 earliest sign`
 │   ├── TextNode
-│   │   full_match: ` of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye. `
-│   │   inner_content: ` of a magnesium deficiency. %%%Tetany is a twitching of the muscles, often affecting the left eye. `├── TextNode
+│   │   full_match: ` of a magnesium deficiency. `
+│   │   inner_content: ` of a magnesium deficiency. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: `Tetany is a twitching of the muscles, often affecting the left eye. `
+│   │   inner_content: `Tetany is a twitching of the muscles, often affecting the left eye. `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. `

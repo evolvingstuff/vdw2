@@ -42,7 +42,7 @@ Hacı BOLAT  Alirıza ERDOĞAN
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 
- <span style="color:orange;"> **Breast Pattern: %%%Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** </span>
+ <span style="color:orange;"> **Breast Pattern: Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** </span>
 
 Purpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.
 
@@ -56,7 +56,7 @@ Conclusion: Our study revealed that women with fibrocystic masses in their breas
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -92,7 +92,7 @@ Hacı BOLAT  Alirıza ERDOĞAN
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;350&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Breast Pattern: %%%Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **Breast Pattern: Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** &lt;/span&gt;
 
 Purpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.
 
@@ -176,8 +176,14 @@ AST Structure:
 │   │   inner_content: `Breast Pattern: %%%Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Breast Pattern: %%%Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)`
-│   │   │   inner_content: `Breast Pattern: %%%Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)`├── TextNode
+│   │   │   full_match: `Breast Pattern: `
+│   │   │   inner_content: `Breast Pattern: `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)`
+│   │   │   inner_content: `Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)`├── TextNode
 │   full_match: `\n\nPurpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.\n\nMaterials and Methods: The study included 612 patients who presented with breast complaints or referred for routine screening between 2018-2021 and were requested to have breast ultrasonography (USG) and mammography (MG) examinations. Patients were divided into two groups; group 1 consisted of women with fibrocystic mass (BI-RADS 2-3) and group 2 consisted of women without breast mass (BI-RADS 1). These two groups were compared by age, breast USG, MG results, and blood 25-hydroxy vitamin D levels.\n\nResults: Of the 612 patients, 310 (51%) had fibrocystic mass in their breasts, while 302 (49%) had normal breasts. The mean age of both groups was similar. Those with fibrocystic mass in the breast had lower vitamin D levels and higher breast density than the control group. The group with higher breast density had lower vitamin D levels, and there was a negative correlation between vitamin D level and breast density\n\nConclusion: Our study revealed that women with fibrocystic masses in their breasts (BI- RADS2 and BI-RADS3) had higher breast density and lower vitamin D levels than women without breast mass.\n`
 │   inner_content: `\n\nPurpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.\n\nMaterials and Methods: The study included 612 patients who presented with breast complaints or referred for routine screening between 2018-2021 and were requested to have breast ultrasonography (USG) and mammography (MG) examinations. Patients were divided into two groups; group 1 consisted of women with fibrocystic mass (BI-RADS 2-3) and group 2 consisted of women without breast mass (BI-RADS 1). These two groups were compared by age, breast USG, MG results, and blood 25-hydroxy vitamin D levels.\n\nResults: Of the 612 patients, 310 (51%) had fibrocystic mass in their breasts, while 302 (49%) had normal breasts. The mean age of both groups was similar. Those with fibrocystic mass in the breast had lower vitamin D levels and higher breast density than the control group. The group with higher breast density had lower vitamin D levels, and there was a negative correlation between vitamin D level and breast density\n\nConclusion: Our study revealed that women with fibrocystic masses in their breasts (BI- RADS2 and BI-RADS3) had higher breast density and lower vitamin D levels than women without breast mass.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19695&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`

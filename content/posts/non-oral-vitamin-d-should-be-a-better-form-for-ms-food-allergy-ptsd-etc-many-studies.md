@@ -45,7 +45,7 @@ Non-oral forms include: topical, patches, injection, UV, sublingual and inhaled
 <!-- ~tc~ (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

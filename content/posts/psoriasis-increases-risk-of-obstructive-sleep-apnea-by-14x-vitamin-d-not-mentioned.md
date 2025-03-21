@@ -61,7 +61,7 @@ categories:
 <!-- ~tc~ (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

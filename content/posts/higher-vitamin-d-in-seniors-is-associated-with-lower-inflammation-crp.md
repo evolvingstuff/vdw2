@@ -41,7 +41,7 @@ Research studies have observed associations of vitamin D with inflammation but d
 <!-- ~tc~ (alias(Higher Vitamin D in seniors is associated with lower Inflammation (CRP)   – June 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

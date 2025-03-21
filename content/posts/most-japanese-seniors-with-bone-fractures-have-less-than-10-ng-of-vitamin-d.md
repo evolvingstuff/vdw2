@@ -48,7 +48,7 @@ Conclusions: Vitamin D deficiency was severe and PTH levels were higher in the t
 <!-- ~tc~ (alias(Most seniors with bone fractures have less than 10 ng of vitamin D - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

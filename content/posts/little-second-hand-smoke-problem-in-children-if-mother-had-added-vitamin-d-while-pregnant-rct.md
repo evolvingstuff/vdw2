@@ -83,7 +83,7 @@ Our study indicates that cumulative TSE, reflected by increased plasma cotinine 
 <!-- ~tc~ (alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

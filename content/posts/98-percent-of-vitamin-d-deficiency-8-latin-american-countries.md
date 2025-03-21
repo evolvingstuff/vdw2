@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU%%%80% Magnesium deficiency** 
+ **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU80% Magnesium deficiency** 
 
 <!-- {maketoc Title=""} -->
 
@@ -40,11 +40,11 @@ Conclusions: There is an urgent need to define direct regional actions and strat
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU%%%80% Magnesium deficiency** 
+ **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU80% Magnesium deficiency** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -88,8 +88,14 @@ AST Structure:
 │   │   inner_content: `98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU%%%80% Magnesium deficiency`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU%%%80% Magnesium deficiency`
-│   │   │   inner_content: `98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU%%%80% Magnesium deficiency`├── TextNode
+│   │   │   full_match: `98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU`
+│   │   │   inner_content: `98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `80% Magnesium deficiency`
+│   │   │   inner_content: `80% Magnesium deficiency`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

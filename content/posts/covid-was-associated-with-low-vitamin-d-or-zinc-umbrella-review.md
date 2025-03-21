@@ -72,7 +72,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(COVID was associated with Vitamin D and Zinc deficiencies – umbrella review Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

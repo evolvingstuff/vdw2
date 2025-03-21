@@ -65,7 +65,7 @@ In patients with PD, vitamin D levels significantly correlated with falls and so
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

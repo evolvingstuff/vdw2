@@ -62,7 +62,7 @@ Int J Mol Sci 2022 Dec 7;23(24):15480. [doi: 10.3390/ijms232415480.](https://doi
 <!-- ~tc~ (alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

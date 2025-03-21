@@ -387,29 +387,20 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above <span style="color:orange;"> 50 ng/mL</span>** 
 
-|| **Body Weight %%% &nbsp; (lbs)** | **Body Weight %%% &nbsp; (kgs)** | **Calcifediol%%% &nbsp; (mg)** | **Equivalent%%% in IU** | **If Calcifediol is not available%%% a bolus of Vitamin D3** 
-
-15-21|7-10|0.1|16,000|20,000
-
-22-30|10-14|0.15|24,000|35,000
-
-31-40|15-18|0.2|32,000|50,000
-
-41-50|19-23|0.3|48,000|60,000
-
-61-70|28-32|0.5|80,000|100,000
-
-71-86|33-39|0.6|96,000|150,000
-
-86-100|40-45|0.7|112,000|200,000
-
-101-150|46-68|0.8|128,000|250,000
-
-151-200|69-90|1.0|160,000|300,000
-
-201-300|91-136|1.15|240,000|400,000
-
->300|>137|2.0|320,000|500,000||
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Body Weight  &nbsp; (lbs)**  |  **Body Weight  &nbsp; (kgs)**  |  **Calcifediol &nbsp; (mg)**  |  **Equivalent in IU**  |  **If Calcifediol is not available a bolus of Vitamin D3**  |
+| 15-21 | 7-10 | 0.1 | 16,000 | 20,000 |
+| 22-30 | 10-14 | 0.15 | 24,000 | 35,000 |
+| 31-40 | 15-18 | 0.2 | 32,000 | 50,000 |
+| 41-50 | 19-23 | 0.3 | 48,000 | 60,000 |
+| 61-70 | 28-32 | 0.5 | 80,000 | 100,000 |
+| 71-86 | 33-39 | 0.6 | 96,000 | 150,000 |
+| 86-100 | 40-45 | 0.7 | 112,000 | 200,000 |
+| 101-150 | 46-68 | 0.8 | 128,000 | 250,000 |
+| 151-200 | 69-90 | 1.0 | 160,000 | 300,000 |
+| 201-300 | 91-136 | 1.15 | 240,000 | 400,000 |
+| >300 | >137 | 2.0 | 320,000 | 500,000 |
 
 ---
 
@@ -420,7 +411,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 #### VitaminDwiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -803,29 +794,20 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above &lt;span style=&quot;color:orange;&quot;&gt; 50 ng/mL&lt;/span&gt;** 
 
-|| **Body Weight %%% &amp;nbsp; (lbs)** | **Body Weight %%% &amp;nbsp; (kgs)** | **Calcifediol%%% &amp;nbsp; (mg)** | **Equivalent%%% in IU** | **If Calcifediol is not available%%% a bolus of Vitamin D3** 
-
-15-21|7-10|0.1|16,000|20,000
-
-22-30|10-14|0.15|24,000|35,000
-
-31-40|15-18|0.2|32,000|50,000
-
-41-50|19-23|0.3|48,000|60,000
-
-61-70|28-32|0.5|80,000|100,000
-
-71-86|33-39|0.6|96,000|150,000
-
-86-100|40-45|0.7|112,000|200,000
-
-101-150|46-68|0.8|128,000|250,000
-
-151-200|69-90|1.0|160,000|300,000
-
-201-300|91-136|1.15|240,000|400,000
-
-&gt;300|&gt;137|2.0|320,000|500,000||
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Body Weight  &amp;nbsp; (lbs)**  |  **Body Weight  &amp;nbsp; (kgs)**  |  **Calcifediol &amp;nbsp; (mg)**  |  **Equivalent in IU**  |  **If Calcifediol is not available a bolus of Vitamin D3**  |
+| 15-21 | 7-10 | 0.1 | 16,000 | 20,000 |
+| 22-30 | 10-14 | 0.15 | 24,000 | 35,000 |
+| 31-40 | 15-18 | 0.2 | 32,000 | 50,000 |
+| 41-50 | 19-23 | 0.3 | 48,000 | 60,000 |
+| 61-70 | 28-32 | 0.5 | 80,000 | 100,000 |
+| 71-86 | 33-39 | 0.6 | 96,000 | 150,000 |
+| 86-100 | 40-45 | 0.7 | 112,000 | 200,000 |
+| 101-150 | 46-68 | 0.8 | 128,000 | 250,000 |
+| 151-200 | 69-90 | 1.0 | 160,000 | 300,000 |
+| 201-300 | 91-136 | 1.15 | 240,000 | 400,000 |
+| &gt;300 | &gt;137 | 2.0 | 320,000 | 500,000 |
 
 ---
 
@@ -4360,69 +4342,550 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: ` 50 ng/mL`
 │   │   │   inner_content: ` 50 ng/mL`├── TextNode
-│   full_match: `\n||`
-│   inner_content: `\n||`├── BoldNode
-│   full_match: `__Body Weight %%% ~hs~ (lbs)__`
-│   inner_content: `Body Weight %%% ~hs~ (lbs)`
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||__Body Weight %%% ~hs~ (lbs)__|__Body Weight %%% ~hs~ (kgs)__|__Calcifediol%%% ~hs~ (mg)__|__Equivalent%%% in IU__|__If Calcifediol is not available%%% a bolus of Vitamin D3__\n15-21|7-10|0.1|16,000|20,000\n22-30|10-14|0.15|24,000|35,000\n31-40|15-18|0.2|32,000|50,000\n41-50|19-23|0.3|48,000|60,000\n61-70|28-32|0.5|80,000|100,000\n71-86|33-39|0.6|96,000|150,000\n86-100|40-45|0.7|112,000|200,000\n101-150|46-68|0.8|128,000|250,000\n151-200|69-90|1.0|160,000|300,000\n201-300|91-136|1.15|240,000|400,000\n&gt;300|&gt;137|2.0|320,000|500,000||`
+│   inner_content: `__Body Weight %%% ~hs~ (lbs)__|__Body Weight %%% ~hs~ (kgs)__|__Calcifediol%%% ~hs~ (mg)__|__Equivalent%%% in IU__|__If Calcifediol is not available%%% a bolus of Vitamin D3__\n15-21|7-10|0.1|16,000|20,000\n22-30|10-14|0.15|24,000|35,000\n31-40|15-18|0.2|32,000|50,000\n41-50|19-23|0.3|48,000|60,000\n61-70|28-32|0.5|80,000|100,000\n71-86|33-39|0.6|96,000|150,000\n86-100|40-45|0.7|112,000|200,000\n101-150|46-68|0.8|128,000|250,000\n151-200|69-90|1.0|160,000|300,000\n201-300|91-136|1.15|240,000|400,000\n&gt;300|&gt;137|2.0|320,000|500,000`
 │   children:
-│   ├── TextNode
-│   │   full_match: `Body Weight %%% `
-│   │   inner_content: `Body Weight %%% `
-│   ├── HorizontalSpaceNode
-│   │   full_match: `~hs~`
-│   │   inner_content: ``
-│   │   repetitions: `1`
-│   ├── TextNode
-│   │   full_match: ` (lbs)`
-│   │   inner_content: ` (lbs)`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Body Weight %%% ~hs~ (kgs)__`
-│   inner_content: `Body Weight %%% ~hs~ (kgs)`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Body Weight %%% `
-│   │   inner_content: `Body Weight %%% `
-│   ├── HorizontalSpaceNode
-│   │   full_match: `~hs~`
-│   │   inner_content: ``
-│   │   repetitions: `1`
-│   ├── TextNode
-│   │   full_match: ` (kgs)`
-│   │   inner_content: ` (kgs)`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Calcifediol%%% ~hs~ (mg)__`
-│   inner_content: `Calcifediol%%% ~hs~ (mg)`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Calcifediol%%% `
-│   │   inner_content: `Calcifediol%%% `
-│   ├── HorizontalSpaceNode
-│   │   full_match: `~hs~`
-│   │   inner_content: ``
-│   │   repetitions: `1`
-│   ├── TextNode
-│   │   full_match: ` (mg)`
-│   │   inner_content: ` (mg)`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Equivalent%%% in IU__`
-│   inner_content: `Equivalent%%% in IU`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Equivalent%%% in IU`
-│   │   inner_content: `Equivalent%%% in IU`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__If Calcifediol is not available%%% a bolus of Vitamin D3__`
-│   inner_content: `If Calcifediol is not available%%% a bolus of Vitamin D3`
-│   children:
-│   ├── TextNode
-│   │   full_match: `If Calcifediol is not available%%% a bolus of Vitamin D3`
-│   │   inner_content: `If Calcifediol is not available%%% a bolus of Vitamin D3`├── TextNode
-│   full_match: `\n15-21|7-10|0.1|16,000|20,000\n22-30|10-14|0.15|24,000|35,000\n31-40|15-18|0.2|32,000|50,000\n41-50|19-23|0.3|48,000|60,000\n61-70|28-32|0.5|80,000|100,000\n71-86|33-39|0.6|96,000|150,000\n86-100|40-45|0.7|112,000|200,000\n101-150|46-68|0.8|128,000|250,000\n151-200|69-90|1.0|160,000|300,000\n201-300|91-136|1.15|240,000|400,000\n&gt;300|&gt;137|2.0|320,000|500,000||`
-│   inner_content: `\n15-21|7-10|0.1|16,000|20,000\n22-30|10-14|0.15|24,000|35,000\n31-40|15-18|0.2|32,000|50,000\n41-50|19-23|0.3|48,000|60,000\n61-70|28-32|0.5|80,000|100,000\n71-86|33-39|0.6|96,000|150,000\n86-100|40-45|0.7|112,000|200,000\n101-150|46-68|0.8|128,000|250,000\n151-200|69-90|1.0|160,000|300,000\n201-300|91-136|1.15|240,000|400,000\n&gt;300|&gt;137|2.0|320,000|500,000||`├── HorizontalRuleNode
+│   ├── TableRowNode
+│   │   full_match: `__Body Weight %%% ~hs~ (lbs)__|__Body Weight %%% ~hs~ (kgs)__|__Calcifediol%%% ~hs~ (mg)__|__Equivalent%%% in IU__|__If Calcifediol is not available%%% a bolus of Vitamin D3__`
+│   │   inner_content: `__Body Weight %%% ~hs~ (lbs)__|__Body Weight %%% ~hs~ (kgs)__|__Calcifediol%%% ~hs~ (mg)__|__Equivalent%%% in IU__|__If Calcifediol is not available%%% a bolus of Vitamin D3__`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Body Weight %%% ~hs~ (lbs)__`
+│   │   │   inner_content: `__Body Weight %%% ~hs~ (lbs)__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Body Weight %%% ~hs~ (lbs)__`
+│   │   │   │   inner_content: `Body Weight %%% ~hs~ (lbs)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Body Weight `
+│   │   │   │   │   inner_content: `Body Weight `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `1`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (lbs)`
+│   │   │   │   │   inner_content: ` (lbs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Body Weight %%% ~hs~ (kgs)__`
+│   │   │   inner_content: `__Body Weight %%% ~hs~ (kgs)__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Body Weight %%% ~hs~ (kgs)__`
+│   │   │   │   inner_content: `Body Weight %%% ~hs~ (kgs)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Body Weight `
+│   │   │   │   │   inner_content: `Body Weight `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `1`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (kgs)`
+│   │   │   │   │   inner_content: ` (kgs)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Calcifediol%%% ~hs~ (mg)__`
+│   │   │   inner_content: `__Calcifediol%%% ~hs~ (mg)__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Calcifediol%%% ~hs~ (mg)__`
+│   │   │   │   inner_content: `Calcifediol%%% ~hs~ (mg)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Calcifediol`
+│   │   │   │   │   inner_content: `Calcifediol`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `1`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` (mg)`
+│   │   │   │   │   inner_content: ` (mg)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Equivalent%%% in IU__`
+│   │   │   inner_content: `__Equivalent%%% in IU__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Equivalent%%% in IU__`
+│   │   │   │   inner_content: `Equivalent%%% in IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Equivalent`
+│   │   │   │   │   inner_content: `Equivalent`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` in IU`
+│   │   │   │   │   inner_content: ` in IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__If Calcifediol is not available%%% a bolus of Vitamin D3__`
+│   │   │   inner_content: `__If Calcifediol is not available%%% a bolus of Vitamin D3__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__If Calcifediol is not available%%% a bolus of Vitamin D3__`
+│   │   │   │   inner_content: `If Calcifediol is not available%%% a bolus of Vitamin D3`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `If Calcifediol is not available`
+│   │   │   │   │   inner_content: `If Calcifediol is not available`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` a bolus of Vitamin D3`
+│   │   │   │   │   inner_content: ` a bolus of Vitamin D3`
+│   ├── TableRowNode
+│   │   full_match: `15-21|7-10|0.1|16,000|20,000`
+│   │   inner_content: `15-21|7-10|0.1|16,000|20,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `15-21`
+│   │   │   inner_content: `15-21`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `15-21`
+│   │   │   │   inner_content: `15-21`
+│   │   ├── TableCellNode
+│   │   │   full_match: `7-10`
+│   │   │   inner_content: `7-10`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `7-10`
+│   │   │   │   inner_content: `7-10`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.1`
+│   │   │   inner_content: `0.1`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.1`
+│   │   │   │   inner_content: `0.1`
+│   │   ├── TableCellNode
+│   │   │   full_match: `16,000`
+│   │   │   inner_content: `16,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `16,000`
+│   │   │   │   inner_content: `16,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `20,000`
+│   │   │   inner_content: `20,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `20,000`
+│   │   │   │   inner_content: `20,000`
+│   ├── TableRowNode
+│   │   full_match: `22-30|10-14|0.15|24,000|35,000`
+│   │   inner_content: `22-30|10-14|0.15|24,000|35,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `22-30`
+│   │   │   inner_content: `22-30`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `22-30`
+│   │   │   │   inner_content: `22-30`
+│   │   ├── TableCellNode
+│   │   │   full_match: `10-14`
+│   │   │   inner_content: `10-14`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10-14`
+│   │   │   │   inner_content: `10-14`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.15`
+│   │   │   inner_content: `0.15`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.15`
+│   │   │   │   inner_content: `0.15`
+│   │   ├── TableCellNode
+│   │   │   full_match: `24,000`
+│   │   │   inner_content: `24,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `24,000`
+│   │   │   │   inner_content: `24,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `35,000`
+│   │   │   inner_content: `35,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `35,000`
+│   │   │   │   inner_content: `35,000`
+│   ├── TableRowNode
+│   │   full_match: `31-40|15-18|0.2|32,000|50,000`
+│   │   inner_content: `31-40|15-18|0.2|32,000|50,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `31-40`
+│   │   │   inner_content: `31-40`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `31-40`
+│   │   │   │   inner_content: `31-40`
+│   │   ├── TableCellNode
+│   │   │   full_match: `15-18`
+│   │   │   inner_content: `15-18`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `15-18`
+│   │   │   │   inner_content: `15-18`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.2`
+│   │   │   inner_content: `0.2`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.2`
+│   │   │   │   inner_content: `0.2`
+│   │   ├── TableCellNode
+│   │   │   full_match: `32,000`
+│   │   │   inner_content: `32,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `32,000`
+│   │   │   │   inner_content: `32,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `50,000`
+│   │   │   inner_content: `50,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `50,000`
+│   │   │   │   inner_content: `50,000`
+│   ├── TableRowNode
+│   │   full_match: `41-50|19-23|0.3|48,000|60,000`
+│   │   inner_content: `41-50|19-23|0.3|48,000|60,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `41-50`
+│   │   │   inner_content: `41-50`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `41-50`
+│   │   │   │   inner_content: `41-50`
+│   │   ├── TableCellNode
+│   │   │   full_match: `19-23`
+│   │   │   inner_content: `19-23`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `19-23`
+│   │   │   │   inner_content: `19-23`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.3`
+│   │   │   inner_content: `0.3`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.3`
+│   │   │   │   inner_content: `0.3`
+│   │   ├── TableCellNode
+│   │   │   full_match: `48,000`
+│   │   │   inner_content: `48,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `48,000`
+│   │   │   │   inner_content: `48,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `60,000`
+│   │   │   inner_content: `60,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `60,000`
+│   │   │   │   inner_content: `60,000`
+│   ├── TableRowNode
+│   │   full_match: `61-70|28-32|0.5|80,000|100,000`
+│   │   inner_content: `61-70|28-32|0.5|80,000|100,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `61-70`
+│   │   │   inner_content: `61-70`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `61-70`
+│   │   │   │   inner_content: `61-70`
+│   │   ├── TableCellNode
+│   │   │   full_match: `28-32`
+│   │   │   inner_content: `28-32`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `28-32`
+│   │   │   │   inner_content: `28-32`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.5`
+│   │   │   inner_content: `0.5`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.5`
+│   │   │   │   inner_content: `0.5`
+│   │   ├── TableCellNode
+│   │   │   full_match: `80,000`
+│   │   │   inner_content: `80,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `80,000`
+│   │   │   │   inner_content: `80,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `100,000`
+│   │   │   inner_content: `100,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `100,000`
+│   │   │   │   inner_content: `100,000`
+│   ├── TableRowNode
+│   │   full_match: `71-86|33-39|0.6|96,000|150,000`
+│   │   inner_content: `71-86|33-39|0.6|96,000|150,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `71-86`
+│   │   │   inner_content: `71-86`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `71-86`
+│   │   │   │   inner_content: `71-86`
+│   │   ├── TableCellNode
+│   │   │   full_match: `33-39`
+│   │   │   inner_content: `33-39`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `33-39`
+│   │   │   │   inner_content: `33-39`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.6`
+│   │   │   inner_content: `0.6`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.6`
+│   │   │   │   inner_content: `0.6`
+│   │   ├── TableCellNode
+│   │   │   full_match: `96,000`
+│   │   │   inner_content: `96,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `96,000`
+│   │   │   │   inner_content: `96,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `150,000`
+│   │   │   inner_content: `150,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `150,000`
+│   │   │   │   inner_content: `150,000`
+│   ├── TableRowNode
+│   │   full_match: `86-100|40-45|0.7|112,000|200,000`
+│   │   inner_content: `86-100|40-45|0.7|112,000|200,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `86-100`
+│   │   │   inner_content: `86-100`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `86-100`
+│   │   │   │   inner_content: `86-100`
+│   │   ├── TableCellNode
+│   │   │   full_match: `40-45`
+│   │   │   inner_content: `40-45`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `40-45`
+│   │   │   │   inner_content: `40-45`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.7`
+│   │   │   inner_content: `0.7`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.7`
+│   │   │   │   inner_content: `0.7`
+│   │   ├── TableCellNode
+│   │   │   full_match: `112,000`
+│   │   │   inner_content: `112,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `112,000`
+│   │   │   │   inner_content: `112,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `200,000`
+│   │   │   inner_content: `200,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `200,000`
+│   │   │   │   inner_content: `200,000`
+│   ├── TableRowNode
+│   │   full_match: `101-150|46-68|0.8|128,000|250,000`
+│   │   inner_content: `101-150|46-68|0.8|128,000|250,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `101-150`
+│   │   │   inner_content: `101-150`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `101-150`
+│   │   │   │   inner_content: `101-150`
+│   │   ├── TableCellNode
+│   │   │   full_match: `46-68`
+│   │   │   inner_content: `46-68`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `46-68`
+│   │   │   │   inner_content: `46-68`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.8`
+│   │   │   inner_content: `0.8`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.8`
+│   │   │   │   inner_content: `0.8`
+│   │   ├── TableCellNode
+│   │   │   full_match: `128,000`
+│   │   │   inner_content: `128,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `128,000`
+│   │   │   │   inner_content: `128,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `250,000`
+│   │   │   inner_content: `250,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `250,000`
+│   │   │   │   inner_content: `250,000`
+│   ├── TableRowNode
+│   │   full_match: `151-200|69-90|1.0|160,000|300,000`
+│   │   inner_content: `151-200|69-90|1.0|160,000|300,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `151-200`
+│   │   │   inner_content: `151-200`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `151-200`
+│   │   │   │   inner_content: `151-200`
+│   │   ├── TableCellNode
+│   │   │   full_match: `69-90`
+│   │   │   inner_content: `69-90`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `69-90`
+│   │   │   │   inner_content: `69-90`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1.0`
+│   │   │   inner_content: `1.0`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1.0`
+│   │   │   │   inner_content: `1.0`
+│   │   ├── TableCellNode
+│   │   │   full_match: `160,000`
+│   │   │   inner_content: `160,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `160,000`
+│   │   │   │   inner_content: `160,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `300,000`
+│   │   │   inner_content: `300,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `300,000`
+│   │   │   │   inner_content: `300,000`
+│   ├── TableRowNode
+│   │   full_match: `201-300|91-136|1.15|240,000|400,000`
+│   │   inner_content: `201-300|91-136|1.15|240,000|400,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `201-300`
+│   │   │   inner_content: `201-300`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `201-300`
+│   │   │   │   inner_content: `201-300`
+│   │   ├── TableCellNode
+│   │   │   full_match: `91-136`
+│   │   │   inner_content: `91-136`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `91-136`
+│   │   │   │   inner_content: `91-136`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1.15`
+│   │   │   inner_content: `1.15`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1.15`
+│   │   │   │   inner_content: `1.15`
+│   │   ├── TableCellNode
+│   │   │   full_match: `240,000`
+│   │   │   inner_content: `240,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `240,000`
+│   │   │   │   inner_content: `240,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `400,000`
+│   │   │   inner_content: `400,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `400,000`
+│   │   │   │   inner_content: `400,000`
+│   ├── TableRowNode
+│   │   full_match: `&gt;300|&gt;137|2.0|320,000|500,000`
+│   │   inner_content: `&gt;300|&gt;137|2.0|320,000|500,000`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `&gt;300`
+│   │   │   inner_content: `&gt;300`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `&gt;300`
+│   │   │   │   inner_content: `&gt;300`
+│   │   ├── TableCellNode
+│   │   │   full_match: `&gt;137`
+│   │   │   inner_content: `&gt;137`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `&gt;137`
+│   │   │   │   inner_content: `&gt;137`
+│   │   ├── TableCellNode
+│   │   │   full_match: `2.0`
+│   │   │   inner_content: `2.0`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2.0`
+│   │   │   │   inner_content: `2.0`
+│   │   ├── TableCellNode
+│   │   │   full_match: `320,000`
+│   │   │   inner_content: `320,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `320,000`
+│   │   │   │   inner_content: `320,000`
+│   │   ├── TableCellNode
+│   │   │   full_match: `500,000`
+│   │   │   inner_content: `500,000`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `500,000`
+│   │   │   │   inner_content: `500,000`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!40-150 ng of Vitamin D is needed to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`

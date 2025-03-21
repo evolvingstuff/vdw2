@@ -37,7 +37,7 @@ Conclusion: Available evidence points to lower levels of vitamin D in patients w
 <!-- ~tc~ (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

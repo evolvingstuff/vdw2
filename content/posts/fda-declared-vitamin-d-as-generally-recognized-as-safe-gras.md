@@ -17,17 +17,14 @@ categories:
 
 * "To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation."
 
-||IU max|Age
-
-1,000 IU|0 - 6 months 
-
-1,500 IU| 6 - 12 months 
-
-2,500 IU| 1 - 3 years 
-
-3,000 IU| 4 - 8 years
-
-4,000 IU|> 8 years||
+| | |
+| --- | --- |
+| IU max | Age |
+| 1,000 IU | 0 - 6 months  |
+| 1,500 IU |  6 - 12 months  |
+| 2,500 IU |  1 - 3 years  |
+| 3,000 IU |  4 - 8 years |
+| 4,000 IU | > 8 years |
 
 Appears to be no change in 13 years, even though they admitted that they had made a math error
 
@@ -38,7 +35,7 @@ Appears to be no change in 13 years, even though they admitted that they had mad
 <!-- ~tc~ (alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -49,17 +46,14 @@ Markdown:
 
 * &quot;To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation.&quot;
 
-||IU max|Age
-
-1,000 IU|0 - 6 months 
-
-1,500 IU| 6 - 12 months 
-
-2,500 IU| 1 - 3 years 
-
-3,000 IU| 4 - 8 years
-
-4,000 IU|&gt; 8 years||
+| | |
+| --- | --- |
+| IU max | Age |
+| 1,000 IU | 0 - 6 months  |
+| 1,500 IU |  6 - 12 months  |
+| 2,500 IU |  1 - 3 years  |
+| 3,000 IU |  4 - 8 years |
+| 4,000 IU | &gt; 8 years |
 
 Appears to be no change in 13 years, even though they admitted that they had made a math error
 
@@ -111,8 +105,121 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `&quot;To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation.&quot;`
 │   │   inner_content: `&quot;To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation.&quot;`├── TextNode
-│   full_match: `\n||IU max|Age\n1,000 IU|0 - 6 months \n1,500 IU| 6 - 12 months \n2,500 IU| 1 - 3 years \n3,000 IU| 4 - 8 years\n4,000 IU|&gt; 8 years||\nAppears to be no change in 13 years, even though they admitted that they had made a math error\n`
-│   inner_content: `\n||IU max|Age\n1,000 IU|0 - 6 months \n1,500 IU| 6 - 12 months \n2,500 IU| 1 - 3 years \n3,000 IU| 4 - 8 years\n4,000 IU|&gt; 8 years||\nAppears to be no change in 13 years, even though they admitted that they had made a math error\n`├── LocalLinkNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||IU max|Age\n1,000 IU|0 - 6 months \n1,500 IU| 6 - 12 months \n2,500 IU| 1 - 3 years \n3,000 IU| 4 - 8 years\n4,000 IU|&gt; 8 years||`
+│   inner_content: `IU max|Age\n1,000 IU|0 - 6 months \n1,500 IU| 6 - 12 months \n2,500 IU| 1 - 3 years \n3,000 IU| 4 - 8 years\n4,000 IU|&gt; 8 years`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `IU max|Age`
+│   │   inner_content: `IU max|Age`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `IU max`
+│   │   │   inner_content: `IU max`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `IU max`
+│   │   │   │   inner_content: `IU max`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Age`
+│   │   │   inner_content: `Age`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Age`
+│   │   │   │   inner_content: `Age`
+│   ├── TableRowNode
+│   │   full_match: `1,000 IU|0 - 6 months `
+│   │   inner_content: `1,000 IU|0 - 6 months `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `1,000 IU`
+│   │   │   inner_content: `1,000 IU`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1,000 IU`
+│   │   │   │   inner_content: `1,000 IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0 - 6 months `
+│   │   │   inner_content: `0 - 6 months `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0 - 6 months `
+│   │   │   │   inner_content: `0 - 6 months `
+│   ├── TableRowNode
+│   │   full_match: `1,500 IU| 6 - 12 months `
+│   │   inner_content: `1,500 IU| 6 - 12 months `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `1,500 IU`
+│   │   │   inner_content: `1,500 IU`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1,500 IU`
+│   │   │   │   inner_content: `1,500 IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 6 - 12 months `
+│   │   │   inner_content: ` 6 - 12 months `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 6 - 12 months `
+│   │   │   │   inner_content: ` 6 - 12 months `
+│   ├── TableRowNode
+│   │   full_match: `2,500 IU| 1 - 3 years `
+│   │   inner_content: `2,500 IU| 1 - 3 years `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `2,500 IU`
+│   │   │   inner_content: `2,500 IU`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2,500 IU`
+│   │   │   │   inner_content: `2,500 IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 1 - 3 years `
+│   │   │   inner_content: ` 1 - 3 years `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 1 - 3 years `
+│   │   │   │   inner_content: ` 1 - 3 years `
+│   ├── TableRowNode
+│   │   full_match: `3,000 IU| 4 - 8 years`
+│   │   inner_content: `3,000 IU| 4 - 8 years`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `3,000 IU`
+│   │   │   inner_content: `3,000 IU`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `3,000 IU`
+│   │   │   │   inner_content: `3,000 IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 4 - 8 years`
+│   │   │   inner_content: ` 4 - 8 years`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 4 - 8 years`
+│   │   │   │   inner_content: ` 4 - 8 years`
+│   ├── TableRowNode
+│   │   full_match: `4,000 IU|&gt; 8 years`
+│   │   inner_content: `4,000 IU|&gt; 8 years`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `4,000 IU`
+│   │   │   inner_content: `4,000 IU`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `4,000 IU`
+│   │   │   │   inner_content: `4,000 IU`
+│   │   ├── TableCellNode
+│   │   │   full_match: `&gt; 8 years`
+│   │   │   inner_content: `&gt; 8 years`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `&gt; 8 years`
+│   │   │   │   inner_content: `&gt; 8 years`├── TextNode
+│   full_match: `\nAppears to be no change in 13 years, even though they admitted that they had made a math error\n`
+│   inner_content: `\nAppears to be no change in 13 years, even though they admitted that they had made a math error\n`├── LocalLinkNode
 │   full_match: `((Vitamin D math mistake had been made, adults need at least 8000 IU – July 2017))`
 │   inner_content: `Vitamin D math mistake had been made, adults need at least 8000 IU – July 2017`
 │   page: `Vitamin D math mistake had been made, adults need at least 8000 IU – July 2017`

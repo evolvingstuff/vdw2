@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Death after pre-hypertension 4X more likely if very low Vitamin D</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -309,10 +309,32 @@
 <p>Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp; Long Zhou</p>
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 <p><strong>Table of adjusted data by VitaminDWiki</strong></p>
-<p>|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol</p>
-<p>&lt;25 nmol| 4.1 X</p>
-<p>25-59 nmol |1.2 X</p>
-<p>50-75 nmol|1.7X||</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Vitamin D level</td>
+          <td>Risk of death <br>relative to &gt;75 nmol</td>
+      </tr>
+      <tr>
+          <td>&lt;25 nmol</td>
+          <td>4.1 X</td>
+      </tr>
+      <tr>
+          <td>25-59 nmol</td>
+          <td>1.2 X</td>
+      </tr>
+      <tr>
+          <td>50-75 nmol</td>
+          <td>1.7X</td>
+      </tr>
+  </tbody>
+</table>
 <p>Background</p>
 <p>Prehypertension affects 25–50% of adults worldwide and no prior study has examined the relationship between serum 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations and mortality risk in individuals with prehypertension. This study aims to investigate the association of serum 25(OH)D concentrations with all-cause and CVD mortality among prehypertensive adults by utilizing data from the US National Health and Nutrition Examination Survey (NHANES) 2007–2014 and linked 2019 mortality file.</p>
 <p>Methods</p>
@@ -334,7 +356,7 @@
 <hr>
 <h4 id="vitamindwiki--a-hrefpostssmoking-reduces-vitamin-d-many-studiessmoking-reduces-vitamin-d-77-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-smoking-reduces-vitamin-d---many-studiessmoking-reduces-vitamin-d---77-studiessmoking-reduces-vitamin-d---many-studiessmoking-reduces-vitamin-d---77-studiesa">VitaminDWiki – <a href="/posts/smoking-reduces-vitamin-d-many-studiessmoking-reduces-vitamin-d-77-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies">Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies</a></h4>
 <p><strong>If you must smoke, you must also take Vitamin D - even just once a month</strong></p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -353,13 +375,12 @@ Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp; Long Zhou
 
  **Table of adjusted data by VitaminDWiki** 
 
-|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol
-
-&lt;25 nmol| 4.1 X
-
-25-59 nmol |1.2 X
-
-50-75 nmol|1.7X||
+| | |
+| --- | --- |
+|  Vitamin D level | Risk of death &lt;br&gt;relative to &gt;75 nmol |
+| &lt;25 nmol |  4.1 X |
+| 25-59 nmol  | 1.2 X |
+| 50-75 nmol | 1.7X |
 
 Background
 
@@ -462,8 +483,93 @@ AST Structure:
 │   │   │   full_match: `Table of adjusted data by VitaminDWiki`
 │   │   │   inner_content: `Table of adjusted data by VitaminDWiki`
 │   ├── TextNode
-│   │   full_match: `\n|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||\n`
-│   │   inner_content: `\n|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||`
+│   │   inner_content: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol`
+│   │   │   inner_content: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Vitamin D level`
+│   │   │   │   inner_content: ` Vitamin D level`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Vitamin D level`
+│   │   │   │   │   inner_content: ` Vitamin D level`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Risk of death %%%relative to &gt;75 nmol`
+│   │   │   │   inner_content: `Risk of death %%%relative to &gt;75 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Risk of death `
+│   │   │   │   │   inner_content: `Risk of death `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `relative to &gt;75 nmol`
+│   │   │   │   │   inner_content: `relative to &gt;75 nmol`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&lt;25 nmol| 4.1 X`
+│   │   │   inner_content: `&lt;25 nmol| 4.1 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&lt;25 nmol`
+│   │   │   │   inner_content: `&lt;25 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&lt;25 nmol`
+│   │   │   │   │   inner_content: `&lt;25 nmol`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 4.1 X`
+│   │   │   │   inner_content: ` 4.1 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 4.1 X`
+│   │   │   │   │   inner_content: ` 4.1 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `25-59 nmol |1.2 X`
+│   │   │   inner_content: `25-59 nmol |1.2 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `25-59 nmol `
+│   │   │   │   inner_content: `25-59 nmol `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `25-59 nmol `
+│   │   │   │   │   inner_content: `25-59 nmol `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1.2 X`
+│   │   │   │   inner_content: `1.2 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1.2 X`
+│   │   │   │   │   inner_content: `1.2 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `50-75 nmol|1.7X`
+│   │   │   inner_content: `50-75 nmol|1.7X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50-75 nmol`
+│   │   │   │   inner_content: `50-75 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50-75 nmol`
+│   │   │   │   │   inner_content: `50-75 nmol`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1.7X`
+│   │   │   │   inner_content: `1.7X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1.7X`
+│   │   │   │   │   inner_content: `1.7X`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\nBackground\nPrehypertension affects 25–50% of adults worldwide and no prior study has examined the relationship between serum 25-hydroxyvitamin D `
 │   inner_content: `\nBackground\nPrehypertension affects 25–50% of adults worldwide and no prior study has examined the relationship between serum 25-hydroxyvitamin D `├── LinkNode
 │   full_match: `[25(OH)D]`
@@ -649,7 +755,7 @@ __If you must smoke, you must also take Vitamin D - even just once a month__
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -659,8 +765,8 @@ __If you must smoke, you must also take Vitamin D - even just once a month__
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

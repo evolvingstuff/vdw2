@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">Significantly decreased risk of Alzheimer's if any of the following: %%%1) Leafy veggie diet %%%2) Reduce sugar (Type 3 Diabetes)%%%3) Increase Vitamin D levels. %%%4) Increase Omega-3 %%%5) Increase Magnesium %%%~hs</span>hs~&nbsp;&nbsp;&nbsp;&nbsp; Founder of VitaminDWiki does all five~~** 
+ **<span style="color:orange;">Significantly decreased risk of Alzheimer's if any of the following: 1) Leafy veggie diet 2) Reduce sugar (Type 3 Diabetes)3) Increase Vitamin D levels. 4) Increase Omega-3 5) Increase Magnesium ~hs</span>hs~&nbsp;&nbsp;&nbsp;&nbsp; Founder of VitaminDWiki does all five~~** 
 
 <!-- {maketoc} -->
  
@@ -62,11 +62,11 @@ categories:
 <!-- ~tc~ (alias(Alzheimer's 40 percent less likely if leafy veggy diet - March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Significantly decreased risk of Alzheimer&#39;s if any of the following: %%%1) Leafy veggie diet %%%2) Reduce sugar (Type 3 Diabetes)%%%3) Increase Vitamin D levels. %%%4) Increase Omega-3 %%%5) Increase Magnesium %%%~hs&lt;/span&gt;hs~&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Founder of VitaminDWiki does all five~~** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Significantly decreased risk of Alzheimer&#39;s if any of the following: 1) Leafy veggie diet 2) Reduce sugar (Type 3 Diabetes)3) Increase Vitamin D levels. 4) Increase Omega-3 5) Increase Magnesium ~hs&lt;/span&gt;hs~&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Founder of VitaminDWiki does all five~~** 
 
 &lt;!-- {maketoc} --&gt;
  
@@ -138,8 +138,44 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `Significantly decreased risk of Alzheimer&#39;s if any of the following: %%%1) Leafy veggie diet %%%2) Reduce sugar (Type 3 Diabetes)%%%3) Increase Vitamin D levels. %%%4) Increase Omega-3 %%%5) Increase Magnesium %%%~hs`
-│   │   │   │   inner_content: `Significantly decreased risk of Alzheimer&#39;s if any of the following: %%%1) Leafy veggie diet %%%2) Reduce sugar (Type 3 Diabetes)%%%3) Increase Vitamin D levels. %%%4) Increase Omega-3 %%%5) Increase Magnesium %%%~hs`
+│   │   │   │   full_match: `Significantly decreased risk of Alzheimer&#39;s if any of the following: `
+│   │   │   │   inner_content: `Significantly decreased risk of Alzheimer&#39;s if any of the following: `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1) Leafy veggie diet `
+│   │   │   │   inner_content: `1) Leafy veggie diet `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2) Reduce sugar (Type 3 Diabetes)`
+│   │   │   │   inner_content: `2) Reduce sugar (Type 3 Diabetes)`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `3) Increase Vitamin D levels. `
+│   │   │   │   inner_content: `3) Increase Vitamin D levels. `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `4) Increase Omega-3 `
+│   │   │   │   inner_content: `4) Increase Omega-3 `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `5) Increase Magnesium `
+│   │   │   │   inner_content: `5) Increase Magnesium `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `~hs`
+│   │   │   │   inner_content: `~hs`
 │   │   ├── TextNode
 │   │   │   full_match: `hs~`
 │   │   │   inner_content: `hs~`

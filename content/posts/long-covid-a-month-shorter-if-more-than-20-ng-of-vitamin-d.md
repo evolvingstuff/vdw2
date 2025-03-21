@@ -62,7 +62,7 @@ which contains:  **Long COVID associated with Low Vitamin D – Oct 2023**
 <!-- ~tc~ (alias(Long-COVID a month shorter if more than 20 ng of Vitamin D -  Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

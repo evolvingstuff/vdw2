@@ -24,83 +24,47 @@ I might have it make timelines for include:
 
 Omega-3 health, "vitamin D" "vitamin K", Diabetes, Pregnancy "vitamin d" 
 
-||1900|Magnesium's Role in Muscle Contraction
-
-1934|Magnesium Deficiency Discovered
-
-1941|FDA Approves Magnesium as Laxative
-
-1960|Magnesium's Role in Heart Health Established
-
-1985|Magnesium Supplementation in Pregnancy Recommended
-
-1994|Magnesium Supplementation Reduces Migraine Frequency
-
-1997|FDA Approves Magnesium for Treating Preeclampsia
-
-2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes
-
-2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients
-
-2010|Magnesium Supplementation Benefits Asthma Patients
-
-2010|FDA Approves Magnesium Sulfate Injection for Migraines
-
-2012|Magnesium Deficiency Linked to Migraines
-
-2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients
-
-2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients
-
-2013|Magnesium Reduces Heart Disease Risk
-
-2014|Magnesium Helps with Muscle Cramps
-
-2014|Magnesium Supplementation Benefits Always Fatigued Patients
-
-2015|Magnesium Linked to Lower Risk of Colorectal Cancer
-
-2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients
-
-2016|Magnesium Supplementation Benefits Heart Attack Survivors
-
-2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome
-
-2016|Magnesium Supplementation Improves Blood Pressure
-
-2017|Magnesium Deficiency Linked to Anxiety
-
-2017|Magnesium Helps with Restless Leg Syndrome
-
-2017|Benefits of Magnesium for Depression and Anxiety Established
-
-2018|Magnesium Deficiency Linked to Fibromyalgia
-
-2018|Magnesium Deficiency Linked to Sleep Disorders
-
-2018|Magnesium Helps with PMS Symptoms
-
-2018|Magnesium Reduces the Risk of Stroke
-
-2018|Magnesium Supplementation Benefits Chronic Pain Patients
-
-2019|Magnesium Helps with Menopausal Symptoms
-
-2019|Magnesium Supplementation Benefits People with ADHD
-
-2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis
-
-2020|Magnesium Helps with Tinnitus
-
-2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease
-
-2020|Magnesium Deficiency Linked to Insulin Resistance
-
-2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)
-
-2021|Magnesium Supplementation May Improve Sleep Quality
-
-2022|Magnesium May Improve Exercise Performance||
+| | |
+| --- | --- |
+| 1900 | Magnesium's Role in Muscle Contraction |
+| 1934 | Magnesium Deficiency Discovered |
+| 1941 | FDA Approves Magnesium as Laxative |
+| 1960 | Magnesium's Role in Heart Health Established |
+| 1985 | Magnesium Supplementation in Pregnancy Recommended |
+| 1994 | Magnesium Supplementation Reduces Migraine Frequency |
+| 1997 | FDA Approves Magnesium for Treating Preeclampsia |
+| 2004 | Magnesium Supplementation Reduces Risk of Type 2 Diabetes |
+| 2009 | Magnesium Supplementation Improves Heart Function in Heart Failure Patients |
+| 2010 | Magnesium Supplementation Benefits Asthma Patients |
+| 2010 | FDA Approves Magnesium Sulfate Injection for Migraines |
+| 2012 | Magnesium Deficiency Linked to Migraines |
+| 2012 | Magnesium Supplementation Benefits Chronic Kidney Disease Patients |
+| 2013 | Magnesium Supplementation Benefits Type 2 Diabetes Patients |
+| 2013 | Magnesium Reduces Heart Disease Risk |
+| 2014 | Magnesium Helps with Muscle Cramps |
+| 2014 | Magnesium Supplementation Benefits Always Fatigued Patients |
+| 2015 | Magnesium Linked to Lower Risk of Colorectal Cancer |
+| 2015 | Magnesium Supplementation Benefits Type 1 Diabetes Patients |
+| 2016 | Magnesium Supplementation Benefits Heart Attack Survivors |
+| 2016 | Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome |
+| 2016 | Magnesium Supplementation Improves Blood Pressure |
+| 2017 | Magnesium Deficiency Linked to Anxiety |
+| 2017 | Magnesium Helps with Restless Leg Syndrome |
+| 2017 | Benefits of Magnesium for Depression and Anxiety Established |
+| 2018 | Magnesium Deficiency Linked to Fibromyalgia |
+| 2018 | Magnesium Deficiency Linked to Sleep Disorders |
+| 2018 | Magnesium Helps with PMS Symptoms |
+| 2018 | Magnesium Reduces the Risk of Stroke |
+| 2018 | Magnesium Supplementation Benefits Chronic Pain Patients |
+| 2019 | Magnesium Helps with Menopausal Symptoms |
+| 2019 | Magnesium Supplementation Benefits People with ADHD |
+| 2019 | Magnesium Supplementation Benefits People with Rheumatoid Arthritis |
+| 2020 | Magnesium Helps with Tinnitus |
+| 2020 | Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease |
+| 2020 | Magnesium Deficiency Linked to Insulin Resistance |
+| 2021 | Magnesium Helps with Asthenopia (Computer Vision Syndrome) |
+| 2021 | Magnesium Supplementation May Improve Sleep Quality |
+| 2022 | Magnesium May Improve Exercise Performance |
 
 ---
 
@@ -112,7 +76,7 @@ Omega-3 health, "vitamin D" "vitamin K", Diabetes, Pregnancy "vitamin d"
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -130,83 +94,47 @@ I might have it make timelines for include:
 
 Omega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; 
 
-||1900|Magnesium&#39;s Role in Muscle Contraction
-
-1934|Magnesium Deficiency Discovered
-
-1941|FDA Approves Magnesium as Laxative
-
-1960|Magnesium&#39;s Role in Heart Health Established
-
-1985|Magnesium Supplementation in Pregnancy Recommended
-
-1994|Magnesium Supplementation Reduces Migraine Frequency
-
-1997|FDA Approves Magnesium for Treating Preeclampsia
-
-2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes
-
-2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients
-
-2010|Magnesium Supplementation Benefits Asthma Patients
-
-2010|FDA Approves Magnesium Sulfate Injection for Migraines
-
-2012|Magnesium Deficiency Linked to Migraines
-
-2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients
-
-2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients
-
-2013|Magnesium Reduces Heart Disease Risk
-
-2014|Magnesium Helps with Muscle Cramps
-
-2014|Magnesium Supplementation Benefits Always Fatigued Patients
-
-2015|Magnesium Linked to Lower Risk of Colorectal Cancer
-
-2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients
-
-2016|Magnesium Supplementation Benefits Heart Attack Survivors
-
-2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome
-
-2016|Magnesium Supplementation Improves Blood Pressure
-
-2017|Magnesium Deficiency Linked to Anxiety
-
-2017|Magnesium Helps with Restless Leg Syndrome
-
-2017|Benefits of Magnesium for Depression and Anxiety Established
-
-2018|Magnesium Deficiency Linked to Fibromyalgia
-
-2018|Magnesium Deficiency Linked to Sleep Disorders
-
-2018|Magnesium Helps with PMS Symptoms
-
-2018|Magnesium Reduces the Risk of Stroke
-
-2018|Magnesium Supplementation Benefits Chronic Pain Patients
-
-2019|Magnesium Helps with Menopausal Symptoms
-
-2019|Magnesium Supplementation Benefits People with ADHD
-
-2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis
-
-2020|Magnesium Helps with Tinnitus
-
-2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease
-
-2020|Magnesium Deficiency Linked to Insulin Resistance
-
-2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)
-
-2021|Magnesium Supplementation May Improve Sleep Quality
-
-2022|Magnesium May Improve Exercise Performance||
+| | |
+| --- | --- |
+| 1900 | Magnesium&#39;s Role in Muscle Contraction |
+| 1934 | Magnesium Deficiency Discovered |
+| 1941 | FDA Approves Magnesium as Laxative |
+| 1960 | Magnesium&#39;s Role in Heart Health Established |
+| 1985 | Magnesium Supplementation in Pregnancy Recommended |
+| 1994 | Magnesium Supplementation Reduces Migraine Frequency |
+| 1997 | FDA Approves Magnesium for Treating Preeclampsia |
+| 2004 | Magnesium Supplementation Reduces Risk of Type 2 Diabetes |
+| 2009 | Magnesium Supplementation Improves Heart Function in Heart Failure Patients |
+| 2010 | Magnesium Supplementation Benefits Asthma Patients |
+| 2010 | FDA Approves Magnesium Sulfate Injection for Migraines |
+| 2012 | Magnesium Deficiency Linked to Migraines |
+| 2012 | Magnesium Supplementation Benefits Chronic Kidney Disease Patients |
+| 2013 | Magnesium Supplementation Benefits Type 2 Diabetes Patients |
+| 2013 | Magnesium Reduces Heart Disease Risk |
+| 2014 | Magnesium Helps with Muscle Cramps |
+| 2014 | Magnesium Supplementation Benefits Always Fatigued Patients |
+| 2015 | Magnesium Linked to Lower Risk of Colorectal Cancer |
+| 2015 | Magnesium Supplementation Benefits Type 1 Diabetes Patients |
+| 2016 | Magnesium Supplementation Benefits Heart Attack Survivors |
+| 2016 | Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome |
+| 2016 | Magnesium Supplementation Improves Blood Pressure |
+| 2017 | Magnesium Deficiency Linked to Anxiety |
+| 2017 | Magnesium Helps with Restless Leg Syndrome |
+| 2017 | Benefits of Magnesium for Depression and Anxiety Established |
+| 2018 | Magnesium Deficiency Linked to Fibromyalgia |
+| 2018 | Magnesium Deficiency Linked to Sleep Disorders |
+| 2018 | Magnesium Helps with PMS Symptoms |
+| 2018 | Magnesium Reduces the Risk of Stroke |
+| 2018 | Magnesium Supplementation Benefits Chronic Pain Patients |
+| 2019 | Magnesium Helps with Menopausal Symptoms |
+| 2019 | Magnesium Supplementation Benefits People with ADHD |
+| 2019 | Magnesium Supplementation Benefits People with Rheumatoid Arthritis |
+| 2020 | Magnesium Helps with Tinnitus |
+| 2020 | Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease |
+| 2020 | Magnesium Deficiency Linked to Insulin Resistance |
+| 2021 | Magnesium Helps with Asthenopia (Computer Vision Syndrome) |
+| 2021 | Magnesium Supplementation May Improve Sleep Quality |
+| 2022 | Magnesium May Improve Exercise Performance |
 
 ---
 
@@ -263,8 +191,717 @@ AST Structure:
 │   │   │   full_match: `Timeline was generated in just 2 minutes using AI by  https://www.preceden.com/`
 │   │   │   inner_content: `Timeline was generated in just 2 minutes using AI by  https://www.preceden.com/`
 │   ├── TextNode
-│   │   full_match: `\nI might have it make timelines for include:\nOmega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; \n||1900|Magnesium&#39;s Role in Muscle Contraction\n1934|Magnesium Deficiency Discovered\n1941|FDA Approves Magnesium as Laxative\n1960|Magnesium&#39;s Role in Heart Health Established\n1985|Magnesium Supplementation in Pregnancy Recommended\n1994|Magnesium Supplementation Reduces Migraine Frequency\n1997|FDA Approves Magnesium for Treating Preeclampsia\n2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes\n2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients\n2010|Magnesium Supplementation Benefits Asthma Patients\n2010|FDA Approves Magnesium Sulfate Injection for Migraines\n2012|Magnesium Deficiency Linked to Migraines\n2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients\n2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients\n2013|Magnesium Reduces Heart Disease Risk\n2014|Magnesium Helps with Muscle Cramps\n2014|Magnesium Supplementation Benefits Always Fatigued Patients\n2015|Magnesium Linked to Lower Risk of Colorectal Cancer\n2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients\n2016|Magnesium Supplementation Benefits Heart Attack Survivors\n2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome\n2016|Magnesium Supplementation Improves Blood Pressure\n2017|Magnesium Deficiency Linked to Anxiety\n2017|Magnesium Helps with Restless Leg Syndrome\n2017|Benefits of Magnesium for Depression and Anxiety Established\n2018|Magnesium Deficiency Linked to Fibromyalgia\n2018|Magnesium Deficiency Linked to Sleep Disorders\n2018|Magnesium Helps with PMS Symptoms\n2018|Magnesium Reduces the Risk of Stroke\n2018|Magnesium Supplementation Benefits Chronic Pain Patients\n2019|Magnesium Helps with Menopausal Symptoms\n2019|Magnesium Supplementation Benefits People with ADHD\n2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis\n2020|Magnesium Helps with Tinnitus\n2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease\n2020|Magnesium Deficiency Linked to Insulin Resistance\n2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)\n2021|Magnesium Supplementation May Improve Sleep Quality\n2022|Magnesium May Improve Exercise Performance||\n`
-│   │   inner_content: `\nI might have it make timelines for include:\nOmega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; \n||1900|Magnesium&#39;s Role in Muscle Contraction\n1934|Magnesium Deficiency Discovered\n1941|FDA Approves Magnesium as Laxative\n1960|Magnesium&#39;s Role in Heart Health Established\n1985|Magnesium Supplementation in Pregnancy Recommended\n1994|Magnesium Supplementation Reduces Migraine Frequency\n1997|FDA Approves Magnesium for Treating Preeclampsia\n2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes\n2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients\n2010|Magnesium Supplementation Benefits Asthma Patients\n2010|FDA Approves Magnesium Sulfate Injection for Migraines\n2012|Magnesium Deficiency Linked to Migraines\n2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients\n2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients\n2013|Magnesium Reduces Heart Disease Risk\n2014|Magnesium Helps with Muscle Cramps\n2014|Magnesium Supplementation Benefits Always Fatigued Patients\n2015|Magnesium Linked to Lower Risk of Colorectal Cancer\n2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients\n2016|Magnesium Supplementation Benefits Heart Attack Survivors\n2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome\n2016|Magnesium Supplementation Improves Blood Pressure\n2017|Magnesium Deficiency Linked to Anxiety\n2017|Magnesium Helps with Restless Leg Syndrome\n2017|Benefits of Magnesium for Depression and Anxiety Established\n2018|Magnesium Deficiency Linked to Fibromyalgia\n2018|Magnesium Deficiency Linked to Sleep Disorders\n2018|Magnesium Helps with PMS Symptoms\n2018|Magnesium Reduces the Risk of Stroke\n2018|Magnesium Supplementation Benefits Chronic Pain Patients\n2019|Magnesium Helps with Menopausal Symptoms\n2019|Magnesium Supplementation Benefits People with ADHD\n2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis\n2020|Magnesium Helps with Tinnitus\n2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease\n2020|Magnesium Deficiency Linked to Insulin Resistance\n2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)\n2021|Magnesium Supplementation May Improve Sleep Quality\n2022|Magnesium May Improve Exercise Performance||\n`├── HorizontalRuleNode
+│   │   full_match: `\nI might have it make timelines for include:\nOmega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; \n`
+│   │   inner_content: `\nI might have it make timelines for include:\nOmega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; \n`
+│   ├── TableNode
+│   │   full_match: `||1900|Magnesium&#39;s Role in Muscle Contraction\n1934|Magnesium Deficiency Discovered\n1941|FDA Approves Magnesium as Laxative\n1960|Magnesium&#39;s Role in Heart Health Established\n1985|Magnesium Supplementation in Pregnancy Recommended\n1994|Magnesium Supplementation Reduces Migraine Frequency\n1997|FDA Approves Magnesium for Treating Preeclampsia\n2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes\n2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients\n2010|Magnesium Supplementation Benefits Asthma Patients\n2010|FDA Approves Magnesium Sulfate Injection for Migraines\n2012|Magnesium Deficiency Linked to Migraines\n2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients\n2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients\n2013|Magnesium Reduces Heart Disease Risk\n2014|Magnesium Helps with Muscle Cramps\n2014|Magnesium Supplementation Benefits Always Fatigued Patients\n2015|Magnesium Linked to Lower Risk of Colorectal Cancer\n2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients\n2016|Magnesium Supplementation Benefits Heart Attack Survivors\n2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome\n2016|Magnesium Supplementation Improves Blood Pressure\n2017|Magnesium Deficiency Linked to Anxiety\n2017|Magnesium Helps with Restless Leg Syndrome\n2017|Benefits of Magnesium for Depression and Anxiety Established\n2018|Magnesium Deficiency Linked to Fibromyalgia\n2018|Magnesium Deficiency Linked to Sleep Disorders\n2018|Magnesium Helps with PMS Symptoms\n2018|Magnesium Reduces the Risk of Stroke\n2018|Magnesium Supplementation Benefits Chronic Pain Patients\n2019|Magnesium Helps with Menopausal Symptoms\n2019|Magnesium Supplementation Benefits People with ADHD\n2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis\n2020|Magnesium Helps with Tinnitus\n2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease\n2020|Magnesium Deficiency Linked to Insulin Resistance\n2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)\n2021|Magnesium Supplementation May Improve Sleep Quality\n2022|Magnesium May Improve Exercise Performance||`
+│   │   inner_content: `1900|Magnesium&#39;s Role in Muscle Contraction\n1934|Magnesium Deficiency Discovered\n1941|FDA Approves Magnesium as Laxative\n1960|Magnesium&#39;s Role in Heart Health Established\n1985|Magnesium Supplementation in Pregnancy Recommended\n1994|Magnesium Supplementation Reduces Migraine Frequency\n1997|FDA Approves Magnesium for Treating Preeclampsia\n2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes\n2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients\n2010|Magnesium Supplementation Benefits Asthma Patients\n2010|FDA Approves Magnesium Sulfate Injection for Migraines\n2012|Magnesium Deficiency Linked to Migraines\n2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients\n2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients\n2013|Magnesium Reduces Heart Disease Risk\n2014|Magnesium Helps with Muscle Cramps\n2014|Magnesium Supplementation Benefits Always Fatigued Patients\n2015|Magnesium Linked to Lower Risk of Colorectal Cancer\n2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients\n2016|Magnesium Supplementation Benefits Heart Attack Survivors\n2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome\n2016|Magnesium Supplementation Improves Blood Pressure\n2017|Magnesium Deficiency Linked to Anxiety\n2017|Magnesium Helps with Restless Leg Syndrome\n2017|Benefits of Magnesium for Depression and Anxiety Established\n2018|Magnesium Deficiency Linked to Fibromyalgia\n2018|Magnesium Deficiency Linked to Sleep Disorders\n2018|Magnesium Helps with PMS Symptoms\n2018|Magnesium Reduces the Risk of Stroke\n2018|Magnesium Supplementation Benefits Chronic Pain Patients\n2019|Magnesium Helps with Menopausal Symptoms\n2019|Magnesium Supplementation Benefits People with ADHD\n2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis\n2020|Magnesium Helps with Tinnitus\n2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease\n2020|Magnesium Deficiency Linked to Insulin Resistance\n2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)\n2021|Magnesium Supplementation May Improve Sleep Quality\n2022|Magnesium May Improve Exercise Performance`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `1900|Magnesium&#39;s Role in Muscle Contraction`
+│   │   │   inner_content: `1900|Magnesium&#39;s Role in Muscle Contraction`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1900`
+│   │   │   │   inner_content: `1900`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1900`
+│   │   │   │   │   inner_content: `1900`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium&#39;s Role in Muscle Contraction`
+│   │   │   │   inner_content: `Magnesium&#39;s Role in Muscle Contraction`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium&#39;s Role in Muscle Contraction`
+│   │   │   │   │   inner_content: `Magnesium&#39;s Role in Muscle Contraction`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1934|Magnesium Deficiency Discovered`
+│   │   │   inner_content: `1934|Magnesium Deficiency Discovered`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1934`
+│   │   │   │   inner_content: `1934`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1934`
+│   │   │   │   │   inner_content: `1934`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Discovered`
+│   │   │   │   inner_content: `Magnesium Deficiency Discovered`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Discovered`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Discovered`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1941|FDA Approves Magnesium as Laxative`
+│   │   │   inner_content: `1941|FDA Approves Magnesium as Laxative`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1941`
+│   │   │   │   inner_content: `1941`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1941`
+│   │   │   │   │   inner_content: `1941`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `FDA Approves Magnesium as Laxative`
+│   │   │   │   inner_content: `FDA Approves Magnesium as Laxative`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `FDA Approves Magnesium as Laxative`
+│   │   │   │   │   inner_content: `FDA Approves Magnesium as Laxative`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1960|Magnesium&#39;s Role in Heart Health Established`
+│   │   │   inner_content: `1960|Magnesium&#39;s Role in Heart Health Established`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1960`
+│   │   │   │   inner_content: `1960`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1960`
+│   │   │   │   │   inner_content: `1960`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium&#39;s Role in Heart Health Established`
+│   │   │   │   inner_content: `Magnesium&#39;s Role in Heart Health Established`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium&#39;s Role in Heart Health Established`
+│   │   │   │   │   inner_content: `Magnesium&#39;s Role in Heart Health Established`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1985|Magnesium Supplementation in Pregnancy Recommended`
+│   │   │   inner_content: `1985|Magnesium Supplementation in Pregnancy Recommended`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1985`
+│   │   │   │   inner_content: `1985`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1985`
+│   │   │   │   │   inner_content: `1985`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation in Pregnancy Recommended`
+│   │   │   │   inner_content: `Magnesium Supplementation in Pregnancy Recommended`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation in Pregnancy Recommended`
+│   │   │   │   │   inner_content: `Magnesium Supplementation in Pregnancy Recommended`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1994|Magnesium Supplementation Reduces Migraine Frequency`
+│   │   │   inner_content: `1994|Magnesium Supplementation Reduces Migraine Frequency`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1994`
+│   │   │   │   inner_content: `1994`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1994`
+│   │   │   │   │   inner_content: `1994`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Reduces Migraine Frequency`
+│   │   │   │   inner_content: `Magnesium Supplementation Reduces Migraine Frequency`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Reduces Migraine Frequency`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Reduces Migraine Frequency`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1997|FDA Approves Magnesium for Treating Preeclampsia`
+│   │   │   inner_content: `1997|FDA Approves Magnesium for Treating Preeclampsia`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1997`
+│   │   │   │   inner_content: `1997`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1997`
+│   │   │   │   │   inner_content: `1997`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `FDA Approves Magnesium for Treating Preeclampsia`
+│   │   │   │   inner_content: `FDA Approves Magnesium for Treating Preeclampsia`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `FDA Approves Magnesium for Treating Preeclampsia`
+│   │   │   │   │   inner_content: `FDA Approves Magnesium for Treating Preeclampsia`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   │   inner_content: `2004|Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2004`
+│   │   │   │   inner_content: `2004`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2004`
+│   │   │   │   │   inner_content: `2004`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   │   │   inner_content: `Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Reduces Risk of Type 2 Diabetes`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   │   inner_content: `2009|Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2009`
+│   │   │   │   inner_content: `2009`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2009`
+│   │   │   │   │   inner_content: `2009`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Improves Heart Function in Heart Failure Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2010|Magnesium Supplementation Benefits Asthma Patients`
+│   │   │   inner_content: `2010|Magnesium Supplementation Benefits Asthma Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2010`
+│   │   │   │   inner_content: `2010`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2010`
+│   │   │   │   │   inner_content: `2010`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Asthma Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Asthma Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Asthma Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Asthma Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2010|FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   │   inner_content: `2010|FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2010`
+│   │   │   │   inner_content: `2010`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2010`
+│   │   │   │   │   inner_content: `2010`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   │   │   inner_content: `FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   │   │   │   inner_content: `FDA Approves Magnesium Sulfate Injection for Migraines`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2012|Magnesium Deficiency Linked to Migraines`
+│   │   │   inner_content: `2012|Magnesium Deficiency Linked to Migraines`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2012`
+│   │   │   │   inner_content: `2012`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2012`
+│   │   │   │   │   inner_content: `2012`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Linked to Migraines`
+│   │   │   │   inner_content: `Magnesium Deficiency Linked to Migraines`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Linked to Migraines`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Linked to Migraines`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   │   inner_content: `2012|Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2012`
+│   │   │   │   inner_content: `2012`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2012`
+│   │   │   │   │   inner_content: `2012`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Chronic Kidney Disease Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   │   inner_content: `2013|Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2013`
+│   │   │   │   inner_content: `2013`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2013`
+│   │   │   │   │   inner_content: `2013`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Type 2 Diabetes Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2013|Magnesium Reduces Heart Disease Risk`
+│   │   │   inner_content: `2013|Magnesium Reduces Heart Disease Risk`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2013`
+│   │   │   │   inner_content: `2013`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2013`
+│   │   │   │   │   inner_content: `2013`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Reduces Heart Disease Risk`
+│   │   │   │   inner_content: `Magnesium Reduces Heart Disease Risk`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Reduces Heart Disease Risk`
+│   │   │   │   │   inner_content: `Magnesium Reduces Heart Disease Risk`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2014|Magnesium Helps with Muscle Cramps`
+│   │   │   inner_content: `2014|Magnesium Helps with Muscle Cramps`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2014`
+│   │   │   │   inner_content: `2014`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2014`
+│   │   │   │   │   inner_content: `2014`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with Muscle Cramps`
+│   │   │   │   inner_content: `Magnesium Helps with Muscle Cramps`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with Muscle Cramps`
+│   │   │   │   │   inner_content: `Magnesium Helps with Muscle Cramps`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2014|Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   │   inner_content: `2014|Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2014`
+│   │   │   │   inner_content: `2014`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2014`
+│   │   │   │   │   inner_content: `2014`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Always Fatigued Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2015|Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   │   inner_content: `2015|Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2015`
+│   │   │   │   inner_content: `2015`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2015`
+│   │   │   │   │   inner_content: `2015`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   │   │   inner_content: `Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   │   │   │   inner_content: `Magnesium Linked to Lower Risk of Colorectal Cancer`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   │   inner_content: `2015|Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2015`
+│   │   │   │   inner_content: `2015`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2015`
+│   │   │   │   │   inner_content: `2015`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Type 1 Diabetes Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2016|Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   │   inner_content: `2016|Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2016`
+│   │   │   │   inner_content: `2016`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2016`
+│   │   │   │   │   inner_content: `2016`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Heart Attack Survivors`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   │   inner_content: `2016|Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2016`
+│   │   │   │   inner_content: `2016`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2016`
+│   │   │   │   │   inner_content: `2016`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Chronic Fatigue Syndrome`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2016|Magnesium Supplementation Improves Blood Pressure`
+│   │   │   inner_content: `2016|Magnesium Supplementation Improves Blood Pressure`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2016`
+│   │   │   │   inner_content: `2016`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2016`
+│   │   │   │   │   inner_content: `2016`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Improves Blood Pressure`
+│   │   │   │   inner_content: `Magnesium Supplementation Improves Blood Pressure`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Improves Blood Pressure`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Improves Blood Pressure`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2017|Magnesium Deficiency Linked to Anxiety`
+│   │   │   inner_content: `2017|Magnesium Deficiency Linked to Anxiety`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2017`
+│   │   │   │   inner_content: `2017`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2017`
+│   │   │   │   │   inner_content: `2017`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Linked to Anxiety`
+│   │   │   │   inner_content: `Magnesium Deficiency Linked to Anxiety`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Linked to Anxiety`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Linked to Anxiety`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2017|Magnesium Helps with Restless Leg Syndrome`
+│   │   │   inner_content: `2017|Magnesium Helps with Restless Leg Syndrome`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2017`
+│   │   │   │   inner_content: `2017`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2017`
+│   │   │   │   │   inner_content: `2017`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with Restless Leg Syndrome`
+│   │   │   │   inner_content: `Magnesium Helps with Restless Leg Syndrome`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with Restless Leg Syndrome`
+│   │   │   │   │   inner_content: `Magnesium Helps with Restless Leg Syndrome`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2017|Benefits of Magnesium for Depression and Anxiety Established`
+│   │   │   inner_content: `2017|Benefits of Magnesium for Depression and Anxiety Established`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2017`
+│   │   │   │   inner_content: `2017`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2017`
+│   │   │   │   │   inner_content: `2017`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Benefits of Magnesium for Depression and Anxiety Established`
+│   │   │   │   inner_content: `Benefits of Magnesium for Depression and Anxiety Established`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Benefits of Magnesium for Depression and Anxiety Established`
+│   │   │   │   │   inner_content: `Benefits of Magnesium for Depression and Anxiety Established`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018|Magnesium Deficiency Linked to Fibromyalgia`
+│   │   │   inner_content: `2018|Magnesium Deficiency Linked to Fibromyalgia`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018`
+│   │   │   │   inner_content: `2018`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018`
+│   │   │   │   │   inner_content: `2018`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Linked to Fibromyalgia`
+│   │   │   │   inner_content: `Magnesium Deficiency Linked to Fibromyalgia`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Linked to Fibromyalgia`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Linked to Fibromyalgia`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018|Magnesium Deficiency Linked to Sleep Disorders`
+│   │   │   inner_content: `2018|Magnesium Deficiency Linked to Sleep Disorders`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018`
+│   │   │   │   inner_content: `2018`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018`
+│   │   │   │   │   inner_content: `2018`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Linked to Sleep Disorders`
+│   │   │   │   inner_content: `Magnesium Deficiency Linked to Sleep Disorders`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Linked to Sleep Disorders`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Linked to Sleep Disorders`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018|Magnesium Helps with PMS Symptoms`
+│   │   │   inner_content: `2018|Magnesium Helps with PMS Symptoms`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018`
+│   │   │   │   inner_content: `2018`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018`
+│   │   │   │   │   inner_content: `2018`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with PMS Symptoms`
+│   │   │   │   inner_content: `Magnesium Helps with PMS Symptoms`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with PMS Symptoms`
+│   │   │   │   │   inner_content: `Magnesium Helps with PMS Symptoms`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018|Magnesium Reduces the Risk of Stroke`
+│   │   │   inner_content: `2018|Magnesium Reduces the Risk of Stroke`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018`
+│   │   │   │   inner_content: `2018`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018`
+│   │   │   │   │   inner_content: `2018`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Reduces the Risk of Stroke`
+│   │   │   │   inner_content: `Magnesium Reduces the Risk of Stroke`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Reduces the Risk of Stroke`
+│   │   │   │   │   inner_content: `Magnesium Reduces the Risk of Stroke`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2018|Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   │   inner_content: `2018|Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2018`
+│   │   │   │   inner_content: `2018`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2018`
+│   │   │   │   │   inner_content: `2018`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits Chronic Pain Patients`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2019|Magnesium Helps with Menopausal Symptoms`
+│   │   │   inner_content: `2019|Magnesium Helps with Menopausal Symptoms`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2019`
+│   │   │   │   inner_content: `2019`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2019`
+│   │   │   │   │   inner_content: `2019`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with Menopausal Symptoms`
+│   │   │   │   inner_content: `Magnesium Helps with Menopausal Symptoms`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with Menopausal Symptoms`
+│   │   │   │   │   inner_content: `Magnesium Helps with Menopausal Symptoms`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2019|Magnesium Supplementation Benefits People with ADHD`
+│   │   │   inner_content: `2019|Magnesium Supplementation Benefits People with ADHD`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2019`
+│   │   │   │   inner_content: `2019`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2019`
+│   │   │   │   │   inner_content: `2019`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits People with ADHD`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits People with ADHD`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits People with ADHD`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits People with ADHD`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   │   inner_content: `2019|Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2019`
+│   │   │   │   inner_content: `2019`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2019`
+│   │   │   │   │   inner_content: `2019`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Rheumatoid Arthritis`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2020|Magnesium Helps with Tinnitus`
+│   │   │   inner_content: `2020|Magnesium Helps with Tinnitus`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2020`
+│   │   │   │   inner_content: `2020`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2020`
+│   │   │   │   │   inner_content: `2020`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with Tinnitus`
+│   │   │   │   inner_content: `Magnesium Helps with Tinnitus`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with Tinnitus`
+│   │   │   │   │   inner_content: `Magnesium Helps with Tinnitus`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   │   inner_content: `2020|Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2020`
+│   │   │   │   inner_content: `2020`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2020`
+│   │   │   │   │   inner_content: `2020`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   │   │   │   inner_content: `Magnesium Supplementation Benefits People with Chronic Obstructive Pulmonary Disease`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2020|Magnesium Deficiency Linked to Insulin Resistance`
+│   │   │   inner_content: `2020|Magnesium Deficiency Linked to Insulin Resistance`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2020`
+│   │   │   │   inner_content: `2020`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2020`
+│   │   │   │   │   inner_content: `2020`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Deficiency Linked to Insulin Resistance`
+│   │   │   │   inner_content: `Magnesium Deficiency Linked to Insulin Resistance`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Deficiency Linked to Insulin Resistance`
+│   │   │   │   │   inner_content: `Magnesium Deficiency Linked to Insulin Resistance`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   │   inner_content: `2021|Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2021`
+│   │   │   │   inner_content: `2021`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2021`
+│   │   │   │   │   inner_content: `2021`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   │   │   inner_content: `Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   │   │   │   inner_content: `Magnesium Helps with Asthenopia (Computer Vision Syndrome)`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2021|Magnesium Supplementation May Improve Sleep Quality`
+│   │   │   inner_content: `2021|Magnesium Supplementation May Improve Sleep Quality`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2021`
+│   │   │   │   inner_content: `2021`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2021`
+│   │   │   │   │   inner_content: `2021`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium Supplementation May Improve Sleep Quality`
+│   │   │   │   inner_content: `Magnesium Supplementation May Improve Sleep Quality`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium Supplementation May Improve Sleep Quality`
+│   │   │   │   │   inner_content: `Magnesium Supplementation May Improve Sleep Quality`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2022|Magnesium May Improve Exercise Performance`
+│   │   │   inner_content: `2022|Magnesium May Improve Exercise Performance`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2022`
+│   │   │   │   inner_content: `2022`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2022`
+│   │   │   │   │   inner_content: `2022`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Magnesium May Improve Exercise Performance`
+│   │   │   │   inner_content: `Magnesium May Improve Exercise Performance`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Magnesium May Improve Exercise Performance`
+│   │   │   │   │   inner_content: `Magnesium May Improve Exercise Performance`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Magnesium and Vitamin D)) contains `

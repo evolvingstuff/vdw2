@@ -382,7 +382,7 @@ Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://do
 
  **[SubStack](https://rwmalonemd.substack.com/p/rapid-onset-gender-dysphoria-rogd?utm_source=substack&utm_medium=email)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

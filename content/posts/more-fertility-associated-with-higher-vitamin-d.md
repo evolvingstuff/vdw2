@@ -60,7 +60,7 @@ Conclusion: Taken together, these results indicate that higher levels of 25(OH)D
 <!-- ~tc~ (alias(More fertile associated with higher vitamin D - Dec 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

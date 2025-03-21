@@ -39,7 +39,7 @@ Our findings reveal that survivors with VDD exhibited significantly greater thic
 #### <a href="/posts/children-with-low-vitamin-d-were-18-x-more-likely-to-have-poor-arteries-27-years-later" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with low vitamin D were 1.8 X more likely to have poor arteries 27 years later – Feb 2015">Children with low vitamin D were 1.8 X more likely to have poor arteries 27 years later – Feb 2015</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

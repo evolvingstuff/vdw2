@@ -59,7 +59,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

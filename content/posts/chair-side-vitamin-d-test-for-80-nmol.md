@@ -79,7 +79,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 <!-- ~tc~ (alias(Chair-side 80 nmol vitamin D test 80 nmol - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

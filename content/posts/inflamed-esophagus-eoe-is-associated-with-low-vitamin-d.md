@@ -78,7 +78,7 @@ Lipinska-Opalka A, Tomaszewska A, Kubiak JZ, Kalicki B. Vitamin D and Immunologi
 <!-- ~tc~ (alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

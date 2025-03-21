@@ -39,7 +39,7 @@ Conclusions: The MR results suggest that PM (PM10, PM2.5-10 and PM2.5 absorbance
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

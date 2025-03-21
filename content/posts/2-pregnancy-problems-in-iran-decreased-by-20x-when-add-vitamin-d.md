@@ -24,13 +24,12 @@ Mina Amiri 1, Maryam Rostami 2, Ali Sheidaei 3, Aida Fallahzadeh 4, Fahimeh Rame
 
 ##### Summary by VitaminDWiki
 
-||Vitamin D level|cesarean|preeclampsia|preterm delivery
-
-<10 ng|47%|27%|28%
-
-10-20 ng|36%|14%|12%
-
->20 ng|18%|1.5%|1%||
+| | | | |
+| --- | --- | --- | --- |
+| Vitamin D level | cesarean | preeclampsia | preterm delivery |
+| <10 ng | 47% | 27% | 28% |
+| 10-20 ng | 36% | 14% | 12% |
+| >20 ng | 18% | 1.5% | 1% |
 
 * 800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly
 
@@ -69,7 +68,7 @@ Previous publications of this study
 <!-- ~tc~ (alias(2 Pregnancy problems decrease by 20X if add Vitamin D – May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -87,13 +86,12 @@ Mina Amiri 1, Maryam Rostami 2, Ali Sheidaei 3, Aida Fallahzadeh 4, Fahimeh Rame
 
 ##### Summary by VitaminDWiki
 
-||Vitamin D level|cesarean|preeclampsia|preterm delivery
-
-&lt;10 ng|47%|27%|28%
-
-10-20 ng|36%|14%|12%
-
-&gt;20 ng|18%|1.5%|1%||
+| | | | |
+| --- | --- | --- | --- |
+| Vitamin D level | cesarean | preeclampsia | preterm delivery |
+| &lt;10 ng | 47% | 27% | 28% |
+| 10-20 ng | 36% | 14% | 12% |
+| &gt;20 ng | 18% | 1.5% | 1% |
 
 * 800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly
 
@@ -171,8 +169,141 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Summary by VitaminDWiki`
 │   │   inner_content: `Summary by VitaminDWiki`├── TextNode
-│   full_match: `\n||Vitamin D level|cesarean|preeclampsia|preterm delivery\n&lt;10 ng|47%|27%|28%\n10-20 ng|36%|14%|12%\n&gt;20 ng|18%|1.5%|1%||\n`
-│   inner_content: `\n||Vitamin D level|cesarean|preeclampsia|preterm delivery\n&lt;10 ng|47%|27%|28%\n10-20 ng|36%|14%|12%\n&gt;20 ng|18%|1.5%|1%||\n`├── ListItemNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Vitamin D level|cesarean|preeclampsia|preterm delivery\n&lt;10 ng|47%|27%|28%\n10-20 ng|36%|14%|12%\n&gt;20 ng|18%|1.5%|1%||`
+│   inner_content: `Vitamin D level|cesarean|preeclampsia|preterm delivery\n&lt;10 ng|47%|27%|28%\n10-20 ng|36%|14%|12%\n&gt;20 ng|18%|1.5%|1%`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Vitamin D level|cesarean|preeclampsia|preterm delivery`
+│   │   inner_content: `Vitamin D level|cesarean|preeclampsia|preterm delivery`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Vitamin D level`
+│   │   │   inner_content: `Vitamin D level`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin D level`
+│   │   │   │   inner_content: `Vitamin D level`
+│   │   ├── TableCellNode
+│   │   │   full_match: `cesarean`
+│   │   │   inner_content: `cesarean`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `cesarean`
+│   │   │   │   inner_content: `cesarean`
+│   │   ├── TableCellNode
+│   │   │   full_match: `preeclampsia`
+│   │   │   inner_content: `preeclampsia`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `preeclampsia`
+│   │   │   │   inner_content: `preeclampsia`
+│   │   ├── TableCellNode
+│   │   │   full_match: `preterm delivery`
+│   │   │   inner_content: `preterm delivery`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `preterm delivery`
+│   │   │   │   inner_content: `preterm delivery`
+│   ├── TableRowNode
+│   │   full_match: `&lt;10 ng|47%|27%|28%`
+│   │   inner_content: `&lt;10 ng|47%|27%|28%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `&lt;10 ng`
+│   │   │   inner_content: `&lt;10 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `&lt;10 ng`
+│   │   │   │   inner_content: `&lt;10 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `47%`
+│   │   │   inner_content: `47%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `47%`
+│   │   │   │   inner_content: `47%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `27%`
+│   │   │   inner_content: `27%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `27%`
+│   │   │   │   inner_content: `27%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `28%`
+│   │   │   inner_content: `28%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `28%`
+│   │   │   │   inner_content: `28%`
+│   ├── TableRowNode
+│   │   full_match: `10-20 ng|36%|14%|12%`
+│   │   inner_content: `10-20 ng|36%|14%|12%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `10-20 ng`
+│   │   │   inner_content: `10-20 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10-20 ng`
+│   │   │   │   inner_content: `10-20 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `36%`
+│   │   │   inner_content: `36%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `36%`
+│   │   │   │   inner_content: `36%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `14%`
+│   │   │   inner_content: `14%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `14%`
+│   │   │   │   inner_content: `14%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `12%`
+│   │   │   inner_content: `12%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `12%`
+│   │   │   │   inner_content: `12%`
+│   ├── TableRowNode
+│   │   full_match: `&gt;20 ng|18%|1.5%|1%`
+│   │   inner_content: `&gt;20 ng|18%|1.5%|1%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `&gt;20 ng`
+│   │   │   inner_content: `&gt;20 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `&gt;20 ng`
+│   │   │   │   inner_content: `&gt;20 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `18%`
+│   │   │   inner_content: `18%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `18%`
+│   │   │   │   inner_content: `18%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1.5%`
+│   │   │   inner_content: `1.5%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1.5%`
+│   │   │   │   inner_content: `1.5%`
+│   │   ├── TableCellNode
+│   │   │   full_match: `1%`
+│   │   │   inner_content: `1%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `1%`
+│   │   │   │   inner_content: `1%`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
 │   full_match: `*800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly`
 │   inner_content: `800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly`
 │   depth: `1`

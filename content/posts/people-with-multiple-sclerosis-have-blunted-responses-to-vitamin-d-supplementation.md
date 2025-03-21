@@ -255,7 +255,7 @@ Vitamin D deficiency is a risk factor for developing multiple sclerosis (MS). Ho
 <!-- ~tc~ (alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

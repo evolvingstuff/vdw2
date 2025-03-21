@@ -46,7 +46,7 @@ The freedom of information results from the CDC are at the above website
 <!-- ~tc~ (alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

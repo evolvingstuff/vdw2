@@ -65,7 +65,7 @@ This list is automatically updated
 #### VitaminDWiki founder was unable to get his Omega-3 index >4 until he reduced Omega-6 intake
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

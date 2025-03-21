@@ -40,7 +40,7 @@ categories:
 <!-- ~tc~ (alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

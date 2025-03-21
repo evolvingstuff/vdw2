@@ -239,7 +239,7 @@ A number of anti-angiogenesis drugs have been FDA-approved and are being used in
 #### See also <a href="/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articlesobesity-incre-d-many-articles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles">Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles</a>
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -33,7 +33,7 @@ This study aimed to investigate the potential relationship between vitamin D and
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

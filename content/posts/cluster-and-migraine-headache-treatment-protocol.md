@@ -103,13 +103,12 @@ It’s important to start this regimen and treatment protocol with the accelerat
 
 We use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: 
 
-||Target 25(OH)D concentration|Loading Schedule
-
-Episodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days
-
-Chronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days
-
-Migraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days ||
+| | |
+| --- | --- |
+| Target 25(OH)D concentration | Loading Schedule |
+| Episodic CHer 80 to 100 ng/mL.  |  Load at 50,000 IU/day for 12 - 14 days |
+| Chronic CHer 90 to 120 ng/mL.   |  Load at 50,000 IU/day for 14 - 16 days |
+| Migraineurs 100 to 140 ng/mL.  |  Load at 50,000 IU/day for 16 - 18 days  |
 
 It's important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  
 
@@ -169,13 +168,12 @@ The following chart illustrates days to a favorable response with a significant 
 
 While the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:
 
-|| IU of Vitamin D/day|Genes activated
-
-600 IU/|162 genes
-
-4,000 IU/| 320 genes
-
-10,000 IU|1289 genes||
+| | |
+| --- | --- |
+|  IU of Vitamin D/day | Genes activated |
+| 600 IU/ | 162 genes |
+| 4,000 IU/ |  320 genes |
+| 10,000 IU | 1289 genes |
 
 The authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses <5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 > 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.
 
@@ -230,7 +228,7 @@ If you have any comments or questions about this Quick Start Guide, please shoot
 <!-- ~tc~ (alias(Cluster and Migraine headache inflammation protocol - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -327,13 +325,12 @@ It’s important to start this regimen and treatment protocol with the accelerat
 
 We use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: 
 
-||Target 25(OH)D concentration|Loading Schedule
-
-Episodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days
-
-Chronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days
-
-Migraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days ||
+| | |
+| --- | --- |
+| Target 25(OH)D concentration | Loading Schedule |
+| Episodic CHer 80 to 100 ng/mL.  |  Load at 50,000 IU/day for 12 - 14 days |
+| Chronic CHer 90 to 120 ng/mL.   |  Load at 50,000 IU/day for 14 - 16 days |
+| Migraineurs 100 to 140 ng/mL.  |  Load at 50,000 IU/day for 16 - 18 days  |
 
 It&#39;s important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  
 
@@ -393,13 +390,12 @@ The following chart illustrates days to a favorable response with a significant 
 
 While the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:
 
-|| IU of Vitamin D/day|Genes activated
-
-600 IU/|162 genes
-
-4,000 IU/| 320 genes
-
-10,000 IU|1289 genes||
+| | |
+| --- | --- |
+|  IU of Vitamin D/day | Genes activated |
+| 600 IU/ | 162 genes |
+| 4,000 IU/ |  320 genes |
+| 10,000 IU | 1289 genes |
 
 The authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.
 
@@ -1240,8 +1236,87 @@ AST Structure:
 │   │   │   full_match: `Starting the Anti-Inflammatory Regimen`
 │   │   │   inner_content: `Starting the Anti-Inflammatory Regimen`
 │   ├── TextNode
-│   │   full_match: `\nIt’s important to start this regimen and treatment protocol with the accelerated vitamin D3 loading schedule for faster headache pain-free response times.  This is done with a total loading dose 600,000 IU (15 mg) vitamin D3 spread over 12 days at 50,000 IU/day or 6 days at 100,000 IU/day. Both schedules are equally effective. For children or adults weighing under 115 lbs (52 Kg) compute the total loading dose at 7500 IU/Kg body weight.  The cofactors are taken daily.At the completion of either loading schedule, drop back to an initial maintenance dose of 10,000 IU/day with the liquid softgel vitamin D3 or 50,000 IU/week with the Bio-Tech D3-50.  Loading schedules like this are fastest way to elevate serum 25(OH)D3 up into a therapeutic target range that will significantly reduce the frequency of your CH, MH or prevent them completely.  If there has been no change in CH patterns after five (5) days of loading vitamin D3 with either schedule, start the Antihistamine Full Monty supplements, but continue the loading schedule.   It’s important to double the Magnesium dose while loading.  Take a 400 mg dose of magnesium with breakfast and a second 400 mg dose with the evening meal.  This provides 12 hours and 12 feet GI tract separation between doses to help avoid osmotic diarrhea.  It’s also important to hydrate with 2.5 liters of water a day particularly while loading and any time the maintenance dose is greater than 10,000 IU/day. Have your Primary Care Physician (PCP) schedule lab assays of your 25(OH)D3, calcium and PTH 15 days after completing the loading schedule at 100,000 IU/day or 30 days after starting the loading schedule at 50,000 IU/day.  What we’re looking for is a gain in the 25(OH)D3 serum concentration of 55 to 60 ng/mL above the baseline value. Serum calcium should be within its normal reference range and PTH lower than baseline.  If there has been no favorable CH response after this first loading schedule, ask your PCP to include the High-Sensitivity C Reactive Protein (hs-CRP) assay and if elevated try to determine the source of the inflammation.\nWe use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: \n\n||Target 25(OH)D concentration|Loading Schedule\nEpisodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days\nChronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days\nMigraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days ||\n\nIt&#39;s important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  \n\nIn practice, CHers and Migraineurs can start the accelerated vitamin D3 loading schedule at 50,000 IU/day and stay on it until they experience a favorable response or 20 days whichever occurs first then drop back to an initial maintenance dose of one (1) D3-50 a week and obtain assays for serum 25(OH)D3, calcium and PTH.  Some CHers have stayed on this loading schedule for 30 days, a total loading dose of 1.5 million IU of vitamin D3, yet calcium homeostasis maintained their calcium serum concentration within its normal reference range.  Again, it is very important to do loading schedules like this under a physician’s supervision with regular lab assays for serum 25(OH)D3, calcium and PTH at 30 days after start of loading.\n\nIf the favorable response occurs before reaching the end of the loading schedule, continue loading until you reach the end of the loading schedule for your type headache. This will build a 25(OH)D3 reserve above the CH threshold serum concentration.  If you haven&#39;t experienced a favorable response by the end of the loading schedule, continue loading until you experience a favorable response or you reach 20 days from start of the regimen, whichever occurs first, then drop back to a maintenance dose of one (1) D3-50 a week until you have assay results in hand for 25(OH)D3, calcium and PTH.  \n\n`
-│   │   inner_content: `\nIt’s important to start this regimen and treatment protocol with the accelerated vitamin D3 loading schedule for faster headache pain-free response times.  This is done with a total loading dose 600,000 IU (15 mg) vitamin D3 spread over 12 days at 50,000 IU/day or 6 days at 100,000 IU/day. Both schedules are equally effective. For children or adults weighing under 115 lbs (52 Kg) compute the total loading dose at 7500 IU/Kg body weight.  The cofactors are taken daily.At the completion of either loading schedule, drop back to an initial maintenance dose of 10,000 IU/day with the liquid softgel vitamin D3 or 50,000 IU/week with the Bio-Tech D3-50.  Loading schedules like this are fastest way to elevate serum 25(OH)D3 up into a therapeutic target range that will significantly reduce the frequency of your CH, MH or prevent them completely.  If there has been no change in CH patterns after five (5) days of loading vitamin D3 with either schedule, start the Antihistamine Full Monty supplements, but continue the loading schedule.   It’s important to double the Magnesium dose while loading.  Take a 400 mg dose of magnesium with breakfast and a second 400 mg dose with the evening meal.  This provides 12 hours and 12 feet GI tract separation between doses to help avoid osmotic diarrhea.  It’s also important to hydrate with 2.5 liters of water a day particularly while loading and any time the maintenance dose is greater than 10,000 IU/day. Have your Primary Care Physician (PCP) schedule lab assays of your 25(OH)D3, calcium and PTH 15 days after completing the loading schedule at 100,000 IU/day or 30 days after starting the loading schedule at 50,000 IU/day.  What we’re looking for is a gain in the 25(OH)D3 serum concentration of 55 to 60 ng/mL above the baseline value. Serum calcium should be within its normal reference range and PTH lower than baseline.  If there has been no favorable CH response after this first loading schedule, ask your PCP to include the High-Sensitivity C Reactive Protein (hs-CRP) assay and if elevated try to determine the source of the inflammation.\nWe use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: \n\n||Target 25(OH)D concentration|Loading Schedule\nEpisodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days\nChronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days\nMigraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days ||\n\nIt&#39;s important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  \n\nIn practice, CHers and Migraineurs can start the accelerated vitamin D3 loading schedule at 50,000 IU/day and stay on it until they experience a favorable response or 20 days whichever occurs first then drop back to an initial maintenance dose of one (1) D3-50 a week and obtain assays for serum 25(OH)D3, calcium and PTH.  Some CHers have stayed on this loading schedule for 30 days, a total loading dose of 1.5 million IU of vitamin D3, yet calcium homeostasis maintained their calcium serum concentration within its normal reference range.  Again, it is very important to do loading schedules like this under a physician’s supervision with regular lab assays for serum 25(OH)D3, calcium and PTH at 30 days after start of loading.\n\nIf the favorable response occurs before reaching the end of the loading schedule, continue loading until you reach the end of the loading schedule for your type headache. This will build a 25(OH)D3 reserve above the CH threshold serum concentration.  If you haven&#39;t experienced a favorable response by the end of the loading schedule, continue loading until you experience a favorable response or you reach 20 days from start of the regimen, whichever occurs first, then drop back to a maintenance dose of one (1) D3-50 a week until you have assay results in hand for 25(OH)D3, calcium and PTH.  \n\n`├── TextNode
+│   │   full_match: `\nIt’s important to start this regimen and treatment protocol with the accelerated vitamin D3 loading schedule for faster headache pain-free response times.  This is done with a total loading dose 600,000 IU (15 mg) vitamin D3 spread over 12 days at 50,000 IU/day or 6 days at 100,000 IU/day. Both schedules are equally effective. For children or adults weighing under 115 lbs (52 Kg) compute the total loading dose at 7500 IU/Kg body weight.  The cofactors are taken daily.At the completion of either loading schedule, drop back to an initial maintenance dose of 10,000 IU/day with the liquid softgel vitamin D3 or 50,000 IU/week with the Bio-Tech D3-50.  Loading schedules like this are fastest way to elevate serum 25(OH)D3 up into a therapeutic target range that will significantly reduce the frequency of your CH, MH or prevent them completely.  If there has been no change in CH patterns after five (5) days of loading vitamin D3 with either schedule, start the Antihistamine Full Monty supplements, but continue the loading schedule.   It’s important to double the Magnesium dose while loading.  Take a 400 mg dose of magnesium with breakfast and a second 400 mg dose with the evening meal.  This provides 12 hours and 12 feet GI tract separation between doses to help avoid osmotic diarrhea.  It’s also important to hydrate with 2.5 liters of water a day particularly while loading and any time the maintenance dose is greater than 10,000 IU/day. Have your Primary Care Physician (PCP) schedule lab assays of your 25(OH)D3, calcium and PTH 15 days after completing the loading schedule at 100,000 IU/day or 30 days after starting the loading schedule at 50,000 IU/day.  What we’re looking for is a gain in the 25(OH)D3 serum concentration of 55 to 60 ng/mL above the baseline value. Serum calcium should be within its normal reference range and PTH lower than baseline.  If there has been no favorable CH response after this first loading schedule, ask your PCP to include the High-Sensitivity C Reactive Protein (hs-CRP) assay and if elevated try to determine the source of the inflammation.\nWe use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: \n\n`
+│   │   inner_content: `\nIt’s important to start this regimen and treatment protocol with the accelerated vitamin D3 loading schedule for faster headache pain-free response times.  This is done with a total loading dose 600,000 IU (15 mg) vitamin D3 spread over 12 days at 50,000 IU/day or 6 days at 100,000 IU/day. Both schedules are equally effective. For children or adults weighing under 115 lbs (52 Kg) compute the total loading dose at 7500 IU/Kg body weight.  The cofactors are taken daily.At the completion of either loading schedule, drop back to an initial maintenance dose of 10,000 IU/day with the liquid softgel vitamin D3 or 50,000 IU/week with the Bio-Tech D3-50.  Loading schedules like this are fastest way to elevate serum 25(OH)D3 up into a therapeutic target range that will significantly reduce the frequency of your CH, MH or prevent them completely.  If there has been no change in CH patterns after five (5) days of loading vitamin D3 with either schedule, start the Antihistamine Full Monty supplements, but continue the loading schedule.   It’s important to double the Magnesium dose while loading.  Take a 400 mg dose of magnesium with breakfast and a second 400 mg dose with the evening meal.  This provides 12 hours and 12 feet GI tract separation between doses to help avoid osmotic diarrhea.  It’s also important to hydrate with 2.5 liters of water a day particularly while loading and any time the maintenance dose is greater than 10,000 IU/day. Have your Primary Care Physician (PCP) schedule lab assays of your 25(OH)D3, calcium and PTH 15 days after completing the loading schedule at 100,000 IU/day or 30 days after starting the loading schedule at 50,000 IU/day.  What we’re looking for is a gain in the 25(OH)D3 serum concentration of 55 to 60 ng/mL above the baseline value. Serum calcium should be within its normal reference range and PTH lower than baseline.  If there has been no favorable CH response after this first loading schedule, ask your PCP to include the High-Sensitivity C Reactive Protein (hs-CRP) assay and if elevated try to determine the source of the inflammation.\nWe use a loading dose of 50,000 IU/day for the loading schedules listed below by type headache to reach the initial target 25(OH)D3 serum concentration by type headache: \n\n`
+│   ├── TableNode
+│   │   full_match: `||Target 25(OH)D concentration|Loading Schedule\nEpisodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days\nChronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days\nMigraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days ||`
+│   │   inner_content: `Target 25(OH)D concentration|Loading Schedule\nEpisodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days\nChronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days\nMigraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days `
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Target 25(OH)D concentration|Loading Schedule`
+│   │   │   inner_content: `Target 25(OH)D concentration|Loading Schedule`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Target 25(OH)D concentration`
+│   │   │   │   inner_content: `Target 25(OH)D concentration`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Target 25(OH)D concentration`
+│   │   │   │   │   inner_content: `Target 25(OH)D concentration`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Loading Schedule`
+│   │   │   │   inner_content: `Loading Schedule`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Loading Schedule`
+│   │   │   │   │   inner_content: `Loading Schedule`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Episodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days`
+│   │   │   inner_content: `Episodic CHer 80 to 100 ng/mL. | Load at 50,000 IU/day for 12 - 14 days`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Episodic CHer 80 to 100 ng/mL. `
+│   │   │   │   inner_content: `Episodic CHer 80 to 100 ng/mL. `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Episodic CHer 80 to 100 ng/mL. `
+│   │   │   │   │   inner_content: `Episodic CHer 80 to 100 ng/mL. `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Load at 50,000 IU/day for 12 - 14 days`
+│   │   │   │   inner_content: ` Load at 50,000 IU/day for 12 - 14 days`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Load at 50,000 IU/day for 12 - 14 days`
+│   │   │   │   │   inner_content: ` Load at 50,000 IU/day for 12 - 14 days`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Chronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days`
+│   │   │   inner_content: `Chronic CHer 90 to 120 ng/mL.  | Load at 50,000 IU/day for 14 - 16 days`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Chronic CHer 90 to 120 ng/mL.  `
+│   │   │   │   inner_content: `Chronic CHer 90 to 120 ng/mL.  `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Chronic CHer 90 to 120 ng/mL.  `
+│   │   │   │   │   inner_content: `Chronic CHer 90 to 120 ng/mL.  `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Load at 50,000 IU/day for 14 - 16 days`
+│   │   │   │   inner_content: ` Load at 50,000 IU/day for 14 - 16 days`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Load at 50,000 IU/day for 14 - 16 days`
+│   │   │   │   │   inner_content: ` Load at 50,000 IU/day for 14 - 16 days`
+│   │   ├── TableRowNode
+│   │   │   full_match: `Migraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days `
+│   │   │   inner_content: `Migraineurs 100 to 140 ng/mL. | Load at 50,000 IU/day for 16 - 18 days `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Migraineurs 100 to 140 ng/mL. `
+│   │   │   │   inner_content: `Migraineurs 100 to 140 ng/mL. `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Migraineurs 100 to 140 ng/mL. `
+│   │   │   │   │   inner_content: `Migraineurs 100 to 140 ng/mL. `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Load at 50,000 IU/day for 16 - 18 days `
+│   │   │   │   inner_content: ` Load at 50,000 IU/day for 16 - 18 days `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Load at 50,000 IU/day for 16 - 18 days `
+│   │   │   │   │   inner_content: ` Load at 50,000 IU/day for 16 - 18 days `
+│   ├── TextNode
+│   │   full_match: `\n\nIt&#39;s important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  \n\nIn practice, CHers and Migraineurs can start the accelerated vitamin D3 loading schedule at 50,000 IU/day and stay on it until they experience a favorable response or 20 days whichever occurs first then drop back to an initial maintenance dose of one (1) D3-50 a week and obtain assays for serum 25(OH)D3, calcium and PTH.  Some CHers have stayed on this loading schedule for 30 days, a total loading dose of 1.5 million IU of vitamin D3, yet calcium homeostasis maintained their calcium serum concentration within its normal reference range.  Again, it is very important to do loading schedules like this under a physician’s supervision with regular lab assays for serum 25(OH)D3, calcium and PTH at 30 days after start of loading.\n\nIf the favorable response occurs before reaching the end of the loading schedule, continue loading until you reach the end of the loading schedule for your type headache. This will build a 25(OH)D3 reserve above the CH threshold serum concentration.  If you haven&#39;t experienced a favorable response by the end of the loading schedule, continue loading until you experience a favorable response or you reach 20 days from start of the regimen, whichever occurs first, then drop back to a maintenance dose of one (1) D3-50 a week until you have assay results in hand for 25(OH)D3, calcium and PTH.  \n\n`
+│   │   inner_content: `\n\nIt&#39;s important to understand these suggested 25(OH)D3 serum concentration target ranges and loading schedules are a starting point for the average ECHer, CCHer and Migraineur with average weight and normal BMI.  Many CCHers and Migraineurs will require a higher 25(OH)D3 serum concentration, a longer period of loading at 50,000 IU/day and a higher maintenance dose to experience and maintain a CH pain-free response.  \n\nIn practice, CHers and Migraineurs can start the accelerated vitamin D3 loading schedule at 50,000 IU/day and stay on it until they experience a favorable response or 20 days whichever occurs first then drop back to an initial maintenance dose of one (1) D3-50 a week and obtain assays for serum 25(OH)D3, calcium and PTH.  Some CHers have stayed on this loading schedule for 30 days, a total loading dose of 1.5 million IU of vitamin D3, yet calcium homeostasis maintained their calcium serum concentration within its normal reference range.  Again, it is very important to do loading schedules like this under a physician’s supervision with regular lab assays for serum 25(OH)D3, calcium and PTH at 30 days after start of loading.\n\nIf the favorable response occurs before reaching the end of the loading schedule, continue loading until you reach the end of the loading schedule for your type headache. This will build a 25(OH)D3 reserve above the CH threshold serum concentration.  If you haven&#39;t experienced a favorable response by the end of the loading schedule, continue loading until you experience a favorable response or you reach 20 days from start of the regimen, whichever occurs first, then drop back to a maintenance dose of one (1) D3-50 a week until you have assay results in hand for 25(OH)D3, calcium and PTH.  \n\n`├── TextNode
 │   full_match: `Alternative Loading Schedule.  `
 │   inner_content: `Alternative Loading Schedule.  `├── BoldNode
 │   full_match: `__In mid 2021, many CHers started evaluating an alternative vitamin D3 loading schedule that uses a combination of 100,000 IU/day of the Bio-Tech D3-50 plus 0.5 ml (40,000 IU/day) of the Nutrasal Micro D vitamin D3 nano emulsion taken sublingual (under the tongue).  This combined 140,000 IU dose of vitamin D3 is typically taken for five (5) days for a total vitamin D3 loading dose of 700,000 IU.  At the completion of this loading schedule and you’ve experienced a CH pain free response, drop back to the maintenance dose.\n\n__`
@@ -1423,8 +1498,87 @@ AST Structure:
 │   │   │   full_match: `https://www.nature.com/articles/s41598-019-53864-1`
 │   │   │   inner_content: `https://www.nature.com/articles/s41598-019-53864-1`
 │   ├── TextNode
-│   │   full_match: `\nWhile the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:\n\n|| IU of Vitamin D/day|Genes activated\n600 IU/|162 genes\n4,000 IU/| 320 genes\n10,000 IU|1289 genes||\n\nThe authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.\nIf you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at `
-│   │   inner_content: `\nWhile the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:\n\n|| IU of Vitamin D/day|Genes activated\n600 IU/|162 genes\n4,000 IU/| 320 genes\n10,000 IU|1289 genes||\n\nThe authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.\nIf you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at `
+│   │   full_match: `\nWhile the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:\n\n`
+│   │   inner_content: `\nWhile the title of this study may be confusing, the results are very clear.  Higher doses of vitamin D3 activate higher numbers of vitamin D3 genes.  Specifically, this study found a clear 25(OH)D3 dose response to progressively higher maintenance doses of vitamin D3 in terms of the number of genes activated:\n\n`
+│   ├── TableNode
+│   │   full_match: `|| IU of Vitamin D/day|Genes activated\n600 IU/|162 genes\n4,000 IU/| 320 genes\n10,000 IU|1289 genes||`
+│   │   inner_content: ` IU of Vitamin D/day|Genes activated\n600 IU/|162 genes\n4,000 IU/| 320 genes\n10,000 IU|1289 genes`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` IU of Vitamin D/day|Genes activated`
+│   │   │   inner_content: ` IU of Vitamin D/day|Genes activated`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` IU of Vitamin D/day`
+│   │   │   │   inner_content: ` IU of Vitamin D/day`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` IU of Vitamin D/day`
+│   │   │   │   │   inner_content: ` IU of Vitamin D/day`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Genes activated`
+│   │   │   │   inner_content: `Genes activated`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Genes activated`
+│   │   │   │   │   inner_content: `Genes activated`
+│   │   ├── TableRowNode
+│   │   │   full_match: `600 IU/|162 genes`
+│   │   │   inner_content: `600 IU/|162 genes`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `600 IU/`
+│   │   │   │   inner_content: `600 IU/`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `600 IU/`
+│   │   │   │   │   inner_content: `600 IU/`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `162 genes`
+│   │   │   │   inner_content: `162 genes`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `162 genes`
+│   │   │   │   │   inner_content: `162 genes`
+│   │   ├── TableRowNode
+│   │   │   full_match: `4,000 IU/| 320 genes`
+│   │   │   inner_content: `4,000 IU/| 320 genes`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `4,000 IU/`
+│   │   │   │   inner_content: `4,000 IU/`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `4,000 IU/`
+│   │   │   │   │   inner_content: `4,000 IU/`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 320 genes`
+│   │   │   │   inner_content: ` 320 genes`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 320 genes`
+│   │   │   │   │   inner_content: ` 320 genes`
+│   │   ├── TableRowNode
+│   │   │   full_match: `10,000 IU|1289 genes`
+│   │   │   inner_content: `10,000 IU|1289 genes`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `10,000 IU`
+│   │   │   │   inner_content: `10,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `10,000 IU`
+│   │   │   │   │   inner_content: `10,000 IU`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1289 genes`
+│   │   │   │   inner_content: `1289 genes`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1289 genes`
+│   │   │   │   │   inner_content: `1289 genes`
+│   ├── TextNode
+│   │   full_match: `\n\nThe authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.\nIf you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at `
+│   │   inner_content: `\n\nThe authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.\nIf you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at `
 │   ├── LinkNode
 │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=4597|VitaminDWiki.com]`
 │   │   inner_content: `VitaminDWiki.com`

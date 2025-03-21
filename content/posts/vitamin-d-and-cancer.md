@@ -237,7 +237,7 @@ Cancer is characterized by the abnormal and uncontrollable division and growth o
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

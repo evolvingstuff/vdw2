@@ -110,7 +110,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 <!-- ~tc~ (alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

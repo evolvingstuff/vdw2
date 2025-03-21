@@ -34,7 +34,7 @@ categories:
 
  **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+lichen&i=hpc&ref=nb_sb_noss_2)** 
 
- **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%&nbsp;&nbsp; and more likely - due to lack of Magnesium or <a href="/posts/gut-friendly-vitamin-dgut-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems">Gut-Friendly Vitamin D|gut problems</a>** 
+ **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,&nbsp;&nbsp; and more likely - due to lack of Magnesium or <a href="/posts/gut-friendly-vitamin-dgut-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems">Gut-Friendly Vitamin D|gut problems</a>** 
 
 ---
 
@@ -51,7 +51,7 @@ categories:
 <!-- ~tc~ (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -79,7 +79,7 @@ Markdown:
 
  **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+lichen&amp;i=hpc&amp;ref=nb_sb_noss_2)** 
 
- **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%&amp;nbsp;&amp;nbsp; and more likely - due to lack of Magnesium or &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems&quot;&gt;Gut-Friendly Vitamin D|gut problems&lt;/a&gt;** 
+ **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,&amp;nbsp;&amp;nbsp; and more likely - due to lack of Magnesium or &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut problems&quot;&gt;Gut-Friendly Vitamin D|gut problems&lt;/a&gt;** 
 
 ---
 
@@ -220,8 +220,11 @@ AST Structure:
 │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%~hs~~hs~ and more likely - due to lack of Magnesium or ((Gut-Friendly Vitamin D|gut problems))`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%`
-│   │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%`
+│   │   full_match: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,`
+│   │   inner_content: `Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,`
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``

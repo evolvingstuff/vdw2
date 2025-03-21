@@ -71,39 +71,25 @@ Given that studies endorsed by the NIH suggest a correlation between deficient v
 
 The [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm) is a program comprising a series of studies evaluating the health and nutritional well-being of both adults and children in the United States. The NHANES data from the years 2017-2018 evaluated serum vitamin D levels in the US population. It made this analysis by taking note of different forms of vitamin D in the body: 25-hydroxyvitamin D2 + D3 ([VIDMS](https://wwwn.cdc.gov/nchs/nhanes/2015-2016/VID_I.htm)), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).
 
-|| **Range (ng/ml)** | **Percentage** 
-
-0-10|4.05
-
-10-20|24.19
-
-20-30|38.94
-
-30-40|21.61
-
-40-50|7.38
-
-50-60|2.57
-
-60-70|0.80
-
-70-80|0.23
-
-80-90|0.18
-
-90-100|0.01
-
-100-110|0.03
-
-110-140|0.00
-
-140-150|0.01
-
-150-160|0.00
-
-160-170|0.01
-
-Over 170|0.00||
+| | |
+| --- | --- |
+|  **Range (ng/ml)**  |  **Percentage**  |
+| 0-10 | 4.05 |
+| 10-20 | 24.19 |
+| 20-30 | 38.94 |
+| 30-40 | 21.61 |
+| 40-50 | 7.38 |
+| 50-60 | 2.57 |
+| 60-70 | 0.80 |
+| 70-80 | 0.23 |
+| 80-90 | 0.18 |
+| 90-100 | 0.01 |
+| 100-110 | 0.03 |
+| 110-140 | 0.00 |
+| 140-150 | 0.01 |
+| 150-160 | 0.00 |
+| 160-170 | 0.01 |
+| Over 170 | 0.00 |
 
 <img src="https://imagedelivery.net/WEWiZyGwyq-Q4qn_WluYYg/77c2d486-4c7c-4582-5f26-10bb1a29af00/public" alt="image">
 
@@ -143,35 +129,21 @@ However, it’s important to note the [side effects](https://www.healthline.com
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="50"}
-
-<!-- {filter categories="155"} -->
-
-<!-- {filter field="title" content="50 ng"} -->
-
-<!-- {filter field="title" content="NOT \" hammer\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter categories="155"}
+{filter field="title" content="50 ng"}
+{filter field="title" content="NOT \" hammer\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 ---
 
@@ -179,46 +151,29 @@ This list is automatically updated
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="100"}
-
-<!-- {filter field="title" content="\"50 ng\""} -->
-
-<!-- {filter field="title" content="NOT \" 26\""} -->
-
-<!-- {filter field="title" content="NOT \" 32\""} -->
-
-<!-- {filter field="title" content="NOT \" staph\""} -->
-
-<!-- {filter field="title" content="NOT \" chinese\""} -->
-
-<!-- {filter field="title" content="NOT \" RCT Nov 2013\""} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="\"50 ng\""}
+{filter field="title" content="NOT \" 26\""}
+{filter field="title" content="NOT \" 32\""}
+{filter field="title" content="NOT \" staph\""}
+{filter field="title" content="NOT \" chinese\""}
+{filter field="title" content="NOT \" RCT Nov 2013\""}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 <!-- ~tc~ (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -283,39 +238,25 @@ Given that studies endorsed by the NIH suggest a correlation between deficient v
 
 The [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm) is a program comprising a series of studies evaluating the health and nutritional well-being of both adults and children in the United States. The NHANES data from the years 2017-2018 evaluated serum vitamin D levels in the US population. It made this analysis by taking note of different forms of vitamin D in the body: 25-hydroxyvitamin D2 + D3 ([VIDMS](https://wwwn.cdc.gov/nchs/nhanes/2015-2016/VID_I.htm)), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).
 
-|| **Range (ng/ml)** | **Percentage** 
-
-0-10|4.05
-
-10-20|24.19
-
-20-30|38.94
-
-30-40|21.61
-
-40-50|7.38
-
-50-60|2.57
-
-60-70|0.80
-
-70-80|0.23
-
-80-90|0.18
-
-90-100|0.01
-
-100-110|0.03
-
-110-140|0.00
-
-140-150|0.01
-
-150-160|0.00
-
-160-170|0.01
-
-Over 170|0.00||
+| | |
+| --- | --- |
+|  **Range (ng/ml)**  |  **Percentage**  |
+| 0-10 | 4.05 |
+| 10-20 | 24.19 |
+| 20-30 | 38.94 |
+| 30-40 | 21.61 |
+| 40-50 | 7.38 |
+| 50-60 | 2.57 |
+| 60-70 | 0.80 |
+| 70-80 | 0.23 |
+| 80-90 | 0.18 |
+| 90-100 | 0.01 |
+| 100-110 | 0.03 |
+| 110-140 | 0.00 |
+| 140-150 | 0.01 |
+| 150-160 | 0.00 |
+| 160-170 | 0.01 |
+| Over 170 | 0.00 |
 
 &lt;img src=&quot;https://imagedelivery.net/WEWiZyGwyq-Q4qn_WluYYg/77c2d486-4c7c-4582-5f26-10bb1a29af00/public&quot; alt=&quot;image&quot;&gt;
 
@@ -355,35 +296,21 @@ However, it’s important to note the [side effects](https://www.healthline.com
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;50&quot;}
-
-&lt;!-- {filter categories=&quot;155&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;50 ng&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter categories=&quot;155&quot;}
+{filter field=&quot;title&quot; content=&quot;50 ng&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 ---
 
@@ -391,41 +318,24 @@ This list is automatically updated
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;100&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 &lt;!-- ~tc~ (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) ~/tc~ --&gt;
 
@@ -828,24 +738,327 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VIDMS`
 │   │   inner_content: `VIDMS`├── TextNode
-│   full_match: `), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).\n\n||`
-│   inner_content: `), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).\n\n||`├── BoldNode
-│   full_match: `__Range (ng/ml)__`
-│   inner_content: `Range (ng/ml)`
+│   full_match: `), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).\n\n`
+│   inner_content: `), 25-hydroxyvitamin D2 (VD2MS), 25-hydroxyvitamin D3 (VD3MS) and epi-25-hydroxyvitamin D3 (VE3MS).\n\n`├── TableNode
+│   full_match: `||__Range (ng/ml)__|__Percentage__\n0-10|4.05\n10-20|24.19\n20-30|38.94\n30-40|21.61\n40-50|7.38\n50-60|2.57\n60-70|0.80\n70-80|0.23\n80-90|0.18\n90-100|0.01\n100-110|0.03\n110-140|0.00\n140-150|0.01\n150-160|0.00\n160-170|0.01\nOver 170|0.00||`
+│   inner_content: `__Range (ng/ml)__|__Percentage__\n0-10|4.05\n10-20|24.19\n20-30|38.94\n30-40|21.61\n40-50|7.38\n50-60|2.57\n60-70|0.80\n70-80|0.23\n80-90|0.18\n90-100|0.01\n100-110|0.03\n110-140|0.00\n140-150|0.01\n150-160|0.00\n160-170|0.01\nOver 170|0.00`
 │   children:
-│   ├── TextNode
-│   │   full_match: `Range (ng/ml)`
-│   │   inner_content: `Range (ng/ml)`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Percentage__`
-│   inner_content: `Percentage`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Percentage`
-│   │   inner_content: `Percentage`├── TextNode
-│   full_match: `\n0-10|4.05\n10-20|24.19\n20-30|38.94\n30-40|21.61\n40-50|7.38\n50-60|2.57\n60-70|0.80\n70-80|0.23\n80-90|0.18\n90-100|0.01\n100-110|0.03\n110-140|0.00\n140-150|0.01\n150-160|0.00\n160-170|0.01\nOver 170|0.00||\n`
-│   inner_content: `\n0-10|4.05\n10-20|24.19\n20-30|38.94\n30-40|21.61\n40-50|7.38\n50-60|2.57\n60-70|0.80\n70-80|0.23\n80-90|0.18\n90-100|0.01\n100-110|0.03\n110-140|0.00\n140-150|0.01\n150-160|0.00\n160-170|0.01\nOver 170|0.00||\n`├── ImgNode
+│   ├── TableRowNode
+│   │   full_match: `__Range (ng/ml)__|__Percentage__`
+│   │   inner_content: `__Range (ng/ml)__|__Percentage__`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Range (ng/ml)__`
+│   │   │   inner_content: `__Range (ng/ml)__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Range (ng/ml)__`
+│   │   │   │   inner_content: `Range (ng/ml)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Range (ng/ml)`
+│   │   │   │   │   inner_content: `Range (ng/ml)`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Percentage__`
+│   │   │   inner_content: `__Percentage__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Percentage__`
+│   │   │   │   inner_content: `Percentage`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Percentage`
+│   │   │   │   │   inner_content: `Percentage`
+│   ├── TableRowNode
+│   │   full_match: `0-10|4.05`
+│   │   inner_content: `0-10|4.05`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `0-10`
+│   │   │   inner_content: `0-10`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0-10`
+│   │   │   │   inner_content: `0-10`
+│   │   ├── TableCellNode
+│   │   │   full_match: `4.05`
+│   │   │   inner_content: `4.05`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `4.05`
+│   │   │   │   inner_content: `4.05`
+│   ├── TableRowNode
+│   │   full_match: `10-20|24.19`
+│   │   inner_content: `10-20|24.19`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `10-20`
+│   │   │   inner_content: `10-20`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10-20`
+│   │   │   │   inner_content: `10-20`
+│   │   ├── TableCellNode
+│   │   │   full_match: `24.19`
+│   │   │   inner_content: `24.19`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `24.19`
+│   │   │   │   inner_content: `24.19`
+│   ├── TableRowNode
+│   │   full_match: `20-30|38.94`
+│   │   inner_content: `20-30|38.94`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `20-30`
+│   │   │   inner_content: `20-30`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `20-30`
+│   │   │   │   inner_content: `20-30`
+│   │   ├── TableCellNode
+│   │   │   full_match: `38.94`
+│   │   │   inner_content: `38.94`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `38.94`
+│   │   │   │   inner_content: `38.94`
+│   ├── TableRowNode
+│   │   full_match: `30-40|21.61`
+│   │   inner_content: `30-40|21.61`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `30-40`
+│   │   │   inner_content: `30-40`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `30-40`
+│   │   │   │   inner_content: `30-40`
+│   │   ├── TableCellNode
+│   │   │   full_match: `21.61`
+│   │   │   inner_content: `21.61`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `21.61`
+│   │   │   │   inner_content: `21.61`
+│   ├── TableRowNode
+│   │   full_match: `40-50|7.38`
+│   │   inner_content: `40-50|7.38`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `40-50`
+│   │   │   inner_content: `40-50`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `40-50`
+│   │   │   │   inner_content: `40-50`
+│   │   ├── TableCellNode
+│   │   │   full_match: `7.38`
+│   │   │   inner_content: `7.38`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `7.38`
+│   │   │   │   inner_content: `7.38`
+│   ├── TableRowNode
+│   │   full_match: `50-60|2.57`
+│   │   inner_content: `50-60|2.57`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `50-60`
+│   │   │   inner_content: `50-60`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `50-60`
+│   │   │   │   inner_content: `50-60`
+│   │   ├── TableCellNode
+│   │   │   full_match: `2.57`
+│   │   │   inner_content: `2.57`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2.57`
+│   │   │   │   inner_content: `2.57`
+│   ├── TableRowNode
+│   │   full_match: `60-70|0.80`
+│   │   inner_content: `60-70|0.80`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `60-70`
+│   │   │   inner_content: `60-70`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `60-70`
+│   │   │   │   inner_content: `60-70`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.80`
+│   │   │   inner_content: `0.80`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.80`
+│   │   │   │   inner_content: `0.80`
+│   ├── TableRowNode
+│   │   full_match: `70-80|0.23`
+│   │   inner_content: `70-80|0.23`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `70-80`
+│   │   │   inner_content: `70-80`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `70-80`
+│   │   │   │   inner_content: `70-80`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.23`
+│   │   │   inner_content: `0.23`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.23`
+│   │   │   │   inner_content: `0.23`
+│   ├── TableRowNode
+│   │   full_match: `80-90|0.18`
+│   │   inner_content: `80-90|0.18`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `80-90`
+│   │   │   inner_content: `80-90`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `80-90`
+│   │   │   │   inner_content: `80-90`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.18`
+│   │   │   inner_content: `0.18`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.18`
+│   │   │   │   inner_content: `0.18`
+│   ├── TableRowNode
+│   │   full_match: `90-100|0.01`
+│   │   inner_content: `90-100|0.01`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `90-100`
+│   │   │   inner_content: `90-100`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `90-100`
+│   │   │   │   inner_content: `90-100`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.01`
+│   │   │   inner_content: `0.01`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.01`
+│   │   │   │   inner_content: `0.01`
+│   ├── TableRowNode
+│   │   full_match: `100-110|0.03`
+│   │   inner_content: `100-110|0.03`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `100-110`
+│   │   │   inner_content: `100-110`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `100-110`
+│   │   │   │   inner_content: `100-110`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.03`
+│   │   │   inner_content: `0.03`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.03`
+│   │   │   │   inner_content: `0.03`
+│   ├── TableRowNode
+│   │   full_match: `110-140|0.00`
+│   │   inner_content: `110-140|0.00`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `110-140`
+│   │   │   inner_content: `110-140`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `110-140`
+│   │   │   │   inner_content: `110-140`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.00`
+│   │   │   inner_content: `0.00`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.00`
+│   │   │   │   inner_content: `0.00`
+│   ├── TableRowNode
+│   │   full_match: `140-150|0.01`
+│   │   inner_content: `140-150|0.01`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `140-150`
+│   │   │   inner_content: `140-150`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `140-150`
+│   │   │   │   inner_content: `140-150`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.01`
+│   │   │   inner_content: `0.01`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.01`
+│   │   │   │   inner_content: `0.01`
+│   ├── TableRowNode
+│   │   full_match: `150-160|0.00`
+│   │   inner_content: `150-160|0.00`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `150-160`
+│   │   │   inner_content: `150-160`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `150-160`
+│   │   │   │   inner_content: `150-160`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.00`
+│   │   │   inner_content: `0.00`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.00`
+│   │   │   │   inner_content: `0.00`
+│   ├── TableRowNode
+│   │   full_match: `160-170|0.01`
+│   │   inner_content: `160-170|0.01`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `160-170`
+│   │   │   inner_content: `160-170`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `160-170`
+│   │   │   │   inner_content: `160-170`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.01`
+│   │   │   inner_content: `0.01`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.01`
+│   │   │   │   inner_content: `0.01`
+│   ├── TableRowNode
+│   │   full_match: `Over 170|0.00`
+│   │   inner_content: `Over 170|0.00`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Over 170`
+│   │   │   inner_content: `Over 170`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Over 170`
+│   │   │   │   inner_content: `Over 170`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.00`
+│   │   │   inner_content: `0.00`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.00`
+│   │   │   │   inner_content: `0.00`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img src=&quot;https://imagedelivery.net/WEWiZyGwyq-Q4qn_WluYYg/77c2d486-4c7c-4582-5f26-10bb1a29af00/public&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1059,38 +1272,16 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
-│   full_match: `{filter categories=&quot;155&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: categories=&quot;155&quot;
-│   │   categories: 155├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;50 ng&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;50 ng&quot;
-│   │   field: title
-│   │   content: 50 ng├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`├── HorizontalRuleNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!75+ pages have 50 ng in VitaminDWiki title`
@@ -1108,63 +1299,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;100&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;100&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;
-│   │   field: title
-│   │   content: \├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;
-│   │   field: title
-│   │   content: NOT \├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`├── TikiCommentNode
+│   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
 │   children:

@@ -42,7 +42,7 @@ Lastly, according to one study, vitamin D intake < 80 IU/kg/day was significantl
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

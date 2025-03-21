@@ -51,7 +51,7 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 <!-- ~tc~ (alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

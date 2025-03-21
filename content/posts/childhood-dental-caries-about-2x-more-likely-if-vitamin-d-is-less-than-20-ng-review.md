@@ -41,7 +41,7 @@ Specifically, children and adolescents with Vitamin D insufficiency (<50 nmol/L)
 <!-- ~tc~ (alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

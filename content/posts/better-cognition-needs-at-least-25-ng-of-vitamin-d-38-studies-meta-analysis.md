@@ -92,7 +92,7 @@ Dementia is also associated with Magnesium
 
 Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

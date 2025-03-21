@@ -34,7 +34,7 @@ Calcium deficiency is widespread globally, especially in diets with minimal cons
 <!-- ~tc~ (alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

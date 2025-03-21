@@ -90,7 +90,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 <!-- ~tc~ (alias(Parkinson's Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

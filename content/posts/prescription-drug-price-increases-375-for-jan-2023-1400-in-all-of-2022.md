@@ -13,7 +13,7 @@ date: 2023-01-07
 
  **[Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-prices-least-350-drugs-us-january-2022-12-30/)** 
 
- **Note: With new law. Medicare might be able to have price caps in Jan 2026. %%% &nbsp;&nbsp; BigPharma appears to want to get all their increases in before then** 
+ **Note: With new law. Medicare might be able to have price caps in Jan 2026.  &nbsp;&nbsp; BigPharma appears to want to get all their increases in before then** 
 
  **In 1984 Pharma lobbyists got a law passed that handcuffed Medicare on negotiating competitive drug prices** 
 
@@ -38,7 +38,7 @@ date: 2023-01-07
 <!-- ~tc~ (alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -47,7 +47,7 @@ Markdown:
 
  **[Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-prices-least-350-drugs-us-january-2022-12-30/)** 
 
- **Note: With new law. Medicare might be able to have price caps in Jan 2026. %%% &amp;nbsp;&amp;nbsp; BigPharma appears to want to get all their increases in before then** 
+ **Note: With new law. Medicare might be able to have price caps in Jan 2026.  &amp;nbsp;&amp;nbsp; BigPharma appears to want to get all their increases in before then** 
 
  **In 1984 Pharma lobbyists got a law passed that handcuffed Medicare on negotiating competitive drug prices** 
 
@@ -101,8 +101,14 @@ AST Structure:
 │   inner_content: `Note: With new law. Medicare might be able to have price caps in Jan 2026. %%% ~hs~~hs~ BigPharma appears to want to get all their increases in before then`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Note: With new law. Medicare might be able to have price caps in Jan 2026. %%% `
-│   │   inner_content: `Note: With new law. Medicare might be able to have price caps in Jan 2026. %%% `
+│   │   full_match: `Note: With new law. Medicare might be able to have price caps in Jan 2026. `
+│   │   inner_content: `Note: With new law. Medicare might be able to have price caps in Jan 2026. `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``

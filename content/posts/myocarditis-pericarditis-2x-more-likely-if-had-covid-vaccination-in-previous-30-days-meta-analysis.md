@@ -61,7 +61,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

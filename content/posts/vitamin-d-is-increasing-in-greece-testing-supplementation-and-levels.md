@@ -87,7 +87,7 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 <!-- ~tc~ (alias(Vitamin D is incrasing in Greece: testing, supplementation, and levels – Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

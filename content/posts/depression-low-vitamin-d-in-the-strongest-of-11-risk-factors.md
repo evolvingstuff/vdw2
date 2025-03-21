@@ -24,7 +24,7 @@ Savas Tuna 1, Mehmet Akif Aydin 2, Muhammet Fatih Aydin 3
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
- <span style="color:orange;"> **Note: They did not measure Omega-3  %%% Serum Magnesium is a poor indicator of free Magnesium** </span>
+ <span style="color:orange;"> **Note: They did not measure Omega-3   Serum Magnesium is a poor indicator of free Magnesium** </span>
 
 Objective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.
 
@@ -61,7 +61,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -79,7 +79,7 @@ Savas Tuna 1, Mehmet Akif Aydin 2, Muhammet Fatih Aydin 3
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: They did not measure Omega-3  %%% Serum Magnesium is a poor indicator of free Magnesium** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **Note: They did not measure Omega-3   Serum Magnesium is a poor indicator of free Magnesium** &lt;/span&gt;
 
 Objective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.
 
@@ -166,8 +166,14 @@ AST Structure:
 │   │   │   inner_content: `Note: They did not measure Omega-3  %%% Serum Magnesium is a poor indicator of free Magnesium `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `Note: They did not measure Omega-3  %%% Serum Magnesium is a poor indicator of free Magnesium `
-│   │   │   │   inner_content: `Note: They did not measure Omega-3  %%% Serum Magnesium is a poor indicator of free Magnesium `├── TextNode
+│   │   │   │   full_match: `Note: They did not measure Omega-3  `
+│   │   │   │   inner_content: `Note: They did not measure Omega-3  `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` Serum Magnesium is a poor indicator of free Magnesium `
+│   │   │   │   inner_content: ` Serum Magnesium is a poor indicator of free Magnesium `├── TextNode
 │   full_match: `\n\nObjective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.\n\nMethods: This study was conducted from 2013 to 2022. Patients&#39; demographic data, such as age, sex, and body mass index (BMI), and laboratory parameters, including prealbumin, albumin, calcium, phosphorus, parathyroid hormone, 25-OHD, magnesium, hemoglobin, fat percentage, and C-reactive protein, were recorded. The Beck Depression Inventory was used to determine depression levels.\n\nResults: A total of 223 colon cancer patients aged 19-84 undergoing chemotherapy at our clinic were included in this prospective study. The male patients&#39; mean BMI was 22.91 ± 3.74 kg/m2, whereas that of the female patients was 26.17 ± 3.75 kg/m2. The difference was statistically significant (p &lt; 0.001). The mean total Beck Depression Inventory score was 13 ± 9. In this patient population, 105 (47.09%) patients had minimal depression, 69 (30.94%) had mild depression, 35 (15.70%) had moderate depression, and 14 (6.28%) had severe depression. The Beck Depression Inventory score was negatively and strongly associated with BMI and moderately and negatively associated with albumin levels.\n\nConclusion: This study reveals a significant correlation between 25-OHD levels and the Beck Depression Inventory scores among cancer patients. We believe that 25-OHD levels may be used to determine the presence of depressive symptoms in cancer patients. However, further comprehensive multicentre studies are needed to draw more definitive conclusions.\n`
 │   inner_content: `\n\nObjective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.\n\nMethods: This study was conducted from 2013 to 2022. Patients&#39; demographic data, such as age, sex, and body mass index (BMI), and laboratory parameters, including prealbumin, albumin, calcium, phosphorus, parathyroid hormone, 25-OHD, magnesium, hemoglobin, fat percentage, and C-reactive protein, were recorded. The Beck Depression Inventory was used to determine depression levels.\n\nResults: A total of 223 colon cancer patients aged 19-84 undergoing chemotherapy at our clinic were included in this prospective study. The male patients&#39; mean BMI was 22.91 ± 3.74 kg/m2, whereas that of the female patients was 26.17 ± 3.75 kg/m2. The difference was statistically significant (p &lt; 0.001). The mean total Beck Depression Inventory score was 13 ± 9. In this patient population, 105 (47.09%) patients had minimal depression, 69 (30.94%) had mild depression, 35 (15.70%) had moderate depression, and 14 (6.28%) had severe depression. The Beck Depression Inventory score was negatively and strongly associated with BMI and moderately and negatively associated with albumin levels.\n\nConclusion: This study reveals a significant correlation between 25-OHD levels and the Beck Depression Inventory scores among cancer patients. We believe that 25-OHD levels may be used to determine the presence of depressive symptoms in cancer patients. However, further comprehensive multicentre studies are needed to draw more definitive conclusions.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19152&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`

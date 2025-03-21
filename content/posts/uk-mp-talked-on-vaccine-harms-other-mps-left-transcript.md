@@ -187,7 +187,7 @@ The MPs much thicker political mud associated with being part of the nationalist
 <!-- ~tc~ (alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

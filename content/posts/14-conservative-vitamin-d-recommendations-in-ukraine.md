@@ -150,56 +150,35 @@ Despite a recently decreased frequency of VDD in the Ukrainian population, the e
 
 This list is automatically updated
 
-{LIST()}
-
+<!-- {LIST()}
 {list max="150"}
-
-<!-- {filter field="title" content="RECOMMEND"} -->
-
-<!-- {filter field="title" content="NOT 2010"} -->
-
-<!-- {filter field="title" content="NOT calcium"} -->
-
-<!-- {filter field="title" content="NOT vaccination"} -->
-
-<!-- {filter field="title" content="NOT dietary"} -->
-
-<!-- {filter field="title" content="NOT Omega"} -->
-
-<!-- {filter field="title" content="NOT food"} -->
-
-<!-- {filter field="title" content="NOT OZ"} -->
-
-<!-- {filter field="title" content="NOT Zika"} -->
-
-<!-- {filter field="title" content="NOT sunahine"} -->
-
-<!-- {filter type="wiki page"} -->
-
+{filter field="title" content="RECOMMEND"}
+{filter field="title" content="NOT 2010"}
+{filter field="title" content="NOT calcium"}
+{filter field="title" content="NOT vaccination"}
+{filter field="title" content="NOT dietary"}
+{filter field="title" content="NOT Omega"}
+{filter field="title" content="NOT food"}
+{filter field="title" content="NOT OZ"}
+{filter field="title" content="NOT Zika"}
+{filter field="title" content="NOT sunahine"}
+{filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
-
 {OUTPUT(template="table")}
-
    {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-
     {column sort="title" label="Title" field="title" mode="raw"}{column}
-
     {column label="Modified" sort="modification_date_major" field="modification_date_major"}
-
 {OUTPUT}
-
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
-
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
-
-{LIST}
+{LIST} -->
 
 <!-- ~tc~ (alias(14 Vitamin D recommendations in Ukraine – Jan 2024)) ~/tc~ -->
 
 <!-- ~tc~ (alias(14 conservative Vitamin D recommendations in Ukraine – Jan 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -342,49 +321,28 @@ Despite a recently decreased frequency of VDD in the Ukrainian population, the e
 
 This list is automatically updated
 
-{LIST()}
-
+&lt;!-- {LIST()}
 {list max=&quot;150&quot;}
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT 2010&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT calcium&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT dietary&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT Omega&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT food&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT OZ&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT Zika&quot;} --&gt;
-
-&lt;!-- {filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;} --&gt;
-
-&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
-
+{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT food&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}
+{filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
-
 {OUTPUT(template=&quot;table&quot;)}
-
    {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-
     {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-
     {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
-
 {OUTPUT}
-
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
-
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
-
-{LIST}
+{LIST} --&gt;
 
 &lt;!-- ~tc~ (alias(14 Vitamin D recommendations in Ukraine – Jan 2024)) ~/tc~ --&gt;
 
@@ -934,95 +892,18 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `This list is automatically updated`
 │   │   inner_content: `This list is automatically updated`├── TextNode
-│   full_match: `\n{LIST()}\n{list max=&quot;150&quot;}\n`
-│   inner_content: `\n{LIST()}\n{list max=&quot;150&quot;}\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;RECOMMEND&quot;
-│   │   field: title
-│   │   content: RECOMMEND├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}`
-│   inner_content: ``
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT food&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT food&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT 2010&quot;
-│   │   field: title
-│   │   content: NOT 2010├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT calcium&quot;
-│   │   field: title
-│   │   content: NOT calcium├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT vaccination&quot;
-│   │   field: title
-│   │   content: NOT vaccination├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT dietary&quot;
-│   │   field: title
-│   │   content: NOT dietary├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT Omega&quot;
-│   │   field: title
-│   │   content: NOT Omega├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT food&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT food&quot;
-│   │   field: title
-│   │   content: NOT food├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT OZ&quot;
-│   │   field: title
-│   │   content: NOT OZ├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT Zika&quot;
-│   │   field: title
-│   │   content: NOT Zika├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: field=&quot;title&quot; content=&quot;NOT sunahine&quot;
-│   │   field: title
-│   │   content: NOT sunahine├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── FilterNode
-│   full_match: `{filter type=&quot;wiki page&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content: type=&quot;wiki page&quot;
-│   │   type: wiki page├── TextNode
-│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`
-│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n\n`├── TikiCommentNode
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT food&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;RECOMMEND&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT 2010&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT calcium&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT vaccination&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT dietary&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Omega&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT food&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT OZ&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT Zika&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT sunahine&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(14 Vitamin D recommendations in Ukraine – Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(14 Vitamin D recommendations in Ukraine – Jan 2024)) `
 │   children:

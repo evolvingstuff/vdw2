@@ -22,15 +22,13 @@ Clinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 ht
 
 A. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e
 
-||ng/ml|% increase in%%% total health care $$ 
-
-5 ng|211%
-
-10 ng|42%
-
-20 ng| 14%
-
-30 ng|reference||
+| | |
+| --- | --- |
+| ng/ml | % increase in<br> total health care $$  |
+| 5 ng | 211% |
+| 10 ng | 42% |
+| 20 ng |  14% |
+| 30 ng | reference |
 
 Background & aims
 
@@ -70,7 +68,7 @@ We found a relation between lower 25OHD concentrations and increased inpatient h
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -86,15 +84,13 @@ Clinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 ht
 
 A. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e
 
-||ng/ml|% increase in%%% total health care $$ 
-
-5 ng|211%
-
-10 ng|42%
-
-20 ng| 14%
-
-30 ng|reference||
+| | |
+| --- | --- |
+| ng/ml | % increase in&lt;br&gt; total health care $$  |
+| 5 ng | 211% |
+| 10 ng | 42% |
+| 20 ng |  14% |
+| 30 ng | reference |
 
 Background &amp; aims
 
@@ -160,8 +156,109 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D and health care costs: Results from two independent population-based cohort studies`
 │   │   inner_content: `Vitamin D and health care costs: Results from two independent population-based cohort studies`├── TextNode
-│   full_match: `\nClinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 https://doi.org/10.1016/j.clnu.2017.10.014\nA. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e\n\n||ng/ml|% increase in%%% total health care $$ \n5 ng|211%\n10 ng|42%\n20 ng| 14%\n30 ng|reference||\nBackground &amp; aims\nVitamin D deficiency is associated with higher morbidity. However, there is few data regarding the effect of vitamin D deficiency on health care costs. This study examined the cross-sectional and longitudinal associations between the serum 25-hydroxy vitamin D concentration (25OHD) and direct health care costs and hospitalization in two independent samples of the general population in North-Eastern Germany .\n\nMethods\nWe studied 7217 healthy individuals from the ‘Study of Health in Pomerania’ (SHIP n = 3203) and the ‘Study of Health in Pomerania-Trend’ (SHIP-Trend n = 4014) who had valid 25OHD measurements and provided data on annual total costs, outpatient costs, hospital stays, and inpatient costs. The associations between 25OHD concentrations (modelled continuously using factional polynomials) and health care costs were examined using a generalized linear model with gamma distribution and a log link. Poisson regression models were used to estimate relative risks of hospitalization.\n\nResults\nIn cross-sectional analysis of SHIP-Trend, non-linear associations between the 25OHD concentration and inpatient costs and hospitalization were detected: participants with 25OHD concentrations of 5, 10 and 15 ng/ml had 226.1%, 51.5% and 14.1%, respectively, higher inpatient costs than those with 25OHD concentrations of 20 ng/ml (overall p-value = 0.001) in multivariable models.\n\nConclusions\nWe found a relation between lower 25OHD concentrations and increased inpatient health care costs and hospitalization. Our results thus indicate an influence of vitamin D deficiency on health care costs in the general population.\n`
-│   inner_content: `\nClinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 https://doi.org/10.1016/j.clnu.2017.10.014\nA. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e\n\n||ng/ml|% increase in%%% total health care $$ \n5 ng|211%\n10 ng|42%\n20 ng| 14%\n30 ng|reference||\nBackground &amp; aims\nVitamin D deficiency is associated with higher morbidity. However, there is few data regarding the effect of vitamin D deficiency on health care costs. This study examined the cross-sectional and longitudinal associations between the serum 25-hydroxy vitamin D concentration (25OHD) and direct health care costs and hospitalization in two independent samples of the general population in North-Eastern Germany .\n\nMethods\nWe studied 7217 healthy individuals from the ‘Study of Health in Pomerania’ (SHIP n = 3203) and the ‘Study of Health in Pomerania-Trend’ (SHIP-Trend n = 4014) who had valid 25OHD measurements and provided data on annual total costs, outpatient costs, hospital stays, and inpatient costs. The associations between 25OHD concentrations (modelled continuously using factional polynomials) and health care costs were examined using a generalized linear model with gamma distribution and a log link. Poisson regression models were used to estimate relative risks of hospitalization.\n\nResults\nIn cross-sectional analysis of SHIP-Trend, non-linear associations between the 25OHD concentration and inpatient costs and hospitalization were detected: participants with 25OHD concentrations of 5, 10 and 15 ng/ml had 226.1%, 51.5% and 14.1%, respectively, higher inpatient costs than those with 25OHD concentrations of 20 ng/ml (overall p-value = 0.001) in multivariable models.\n\nConclusions\nWe found a relation between lower 25OHD concentrations and increased inpatient health care costs and hospitalization. Our results thus indicate an influence of vitamin D deficiency on health care costs in the general population.\n`├── FontNode
+│   full_match: `\nClinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 https://doi.org/10.1016/j.clnu.2017.10.014\nA. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e\n\n`
+│   inner_content: `\nClinical Nutrition Volume 37, Issue 6, Part A, December 2018, Pages 2149-2155 https://doi.org/10.1016/j.clnu.2017.10.014\nA. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J. Grabe c, C.O. Schmidt d, S.E. Baumeister d e\n\n`├── TableNode
+│   full_match: `||ng/ml|% increase in%%% total health care $$ \n5 ng|211%\n10 ng|42%\n20 ng| 14%\n30 ng|reference||`
+│   inner_content: `ng/ml|% increase in%%% total health care $$ \n5 ng|211%\n10 ng|42%\n20 ng| 14%\n30 ng|reference`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `ng/ml|% increase in%%% total health care $$ `
+│   │   inner_content: `ng/ml|% increase in%%% total health care $$ `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `ng/ml`
+│   │   │   inner_content: `ng/ml`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `ng/ml`
+│   │   │   │   inner_content: `ng/ml`
+│   │   ├── TableCellNode
+│   │   │   full_match: `% increase in%%% total health care $$ `
+│   │   │   inner_content: `% increase in%%% total health care $$ `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `% increase in`
+│   │   │   │   inner_content: `% increase in`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` total health care $$ `
+│   │   │   │   inner_content: ` total health care $$ `
+│   ├── TableRowNode
+│   │   full_match: `5 ng|211%`
+│   │   inner_content: `5 ng|211%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `5 ng`
+│   │   │   inner_content: `5 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `5 ng`
+│   │   │   │   inner_content: `5 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `211%`
+│   │   │   inner_content: `211%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `211%`
+│   │   │   │   inner_content: `211%`
+│   ├── TableRowNode
+│   │   full_match: `10 ng|42%`
+│   │   inner_content: `10 ng|42%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `10 ng`
+│   │   │   inner_content: `10 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10 ng`
+│   │   │   │   inner_content: `10 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `42%`
+│   │   │   inner_content: `42%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `42%`
+│   │   │   │   inner_content: `42%`
+│   ├── TableRowNode
+│   │   full_match: `20 ng| 14%`
+│   │   inner_content: `20 ng| 14%`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `20 ng`
+│   │   │   inner_content: `20 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `20 ng`
+│   │   │   │   inner_content: `20 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 14%`
+│   │   │   inner_content: ` 14%`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 14%`
+│   │   │   │   inner_content: ` 14%`
+│   ├── TableRowNode
+│   │   full_match: `30 ng|reference`
+│   │   inner_content: `30 ng|reference`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `30 ng`
+│   │   │   inner_content: `30 ng`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `30 ng`
+│   │   │   │   inner_content: `30 ng`
+│   │   ├── TableCellNode
+│   │   │   full_match: `reference`
+│   │   │   inner_content: `reference`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `reference`
+│   │   │   │   inner_content: `reference`├── TextNode
+│   full_match: `\nBackground &amp; aims\nVitamin D deficiency is associated with higher morbidity. However, there is few data regarding the effect of vitamin D deficiency on health care costs. This study examined the cross-sectional and longitudinal associations between the serum 25-hydroxy vitamin D concentration (25OHD) and direct health care costs and hospitalization in two independent samples of the general population in North-Eastern Germany .\n\nMethods\nWe studied 7217 healthy individuals from the ‘Study of Health in Pomerania’ (SHIP n = 3203) and the ‘Study of Health in Pomerania-Trend’ (SHIP-Trend n = 4014) who had valid 25OHD measurements and provided data on annual total costs, outpatient costs, hospital stays, and inpatient costs. The associations between 25OHD concentrations (modelled continuously using factional polynomials) and health care costs were examined using a generalized linear model with gamma distribution and a log link. Poisson regression models were used to estimate relative risks of hospitalization.\n\nResults\nIn cross-sectional analysis of SHIP-Trend, non-linear associations between the 25OHD concentration and inpatient costs and hospitalization were detected: participants with 25OHD concentrations of 5, 10 and 15 ng/ml had 226.1%, 51.5% and 14.1%, respectively, higher inpatient costs than those with 25OHD concentrations of 20 ng/ml (overall p-value = 0.001) in multivariable models.\n\nConclusions\nWe found a relation between lower 25OHD concentrations and increased inpatient health care costs and hospitalization. Our results thus indicate an influence of vitamin D deficiency on health care costs in the general population.\n`
+│   inner_content: `\nBackground &amp; aims\nVitamin D deficiency is associated with higher morbidity. However, there is few data regarding the effect of vitamin D deficiency on health care costs. This study examined the cross-sectional and longitudinal associations between the serum 25-hydroxy vitamin D concentration (25OHD) and direct health care costs and hospitalization in two independent samples of the general population in North-Eastern Germany .\n\nMethods\nWe studied 7217 healthy individuals from the ‘Study of Health in Pomerania’ (SHIP n = 3203) and the ‘Study of Health in Pomerania-Trend’ (SHIP-Trend n = 4014) who had valid 25OHD measurements and provided data on annual total costs, outpatient costs, hospital stays, and inpatient costs. The associations between 25OHD concentrations (modelled continuously using factional polynomials) and health care costs were examined using a generalized linear model with gamma distribution and a log link. Poisson regression models were used to estimate relative risks of hospitalization.\n\nResults\nIn cross-sectional analysis of SHIP-Trend, non-linear associations between the 25OHD concentration and inpatient costs and hospitalization were detected: participants with 25OHD concentrations of 5, 10 and 15 ng/ml had 226.1%, 51.5% and 14.1%, respectively, higher inpatient costs than those with 25OHD concentrations of 20 ng/ml (overall p-value = 0.001) in multivariable models.\n\nConclusions\nWe found a relation between lower 25OHD concentrations and increased inpatient health care costs and hospitalization. Our results thus indicate an influence of vitamin D deficiency on health care costs in the general population.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19907&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19907&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:

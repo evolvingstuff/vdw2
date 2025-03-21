@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Majority of pregnant women do not get 400 IU of Vitamin D daily</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566339">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566339"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -307,7 +307,7 @@
 <h4 id="micronutrient-gaps-and-supplement-use-in-a-diverse-cohort-of-pregnant-women">Micronutrient Gaps and Supplement Use in a Diverse Cohort of Pregnant Women</h4>
 <p>Nutrients. 2023 Jul 20;15(14):3228. <a href="https://doi.org/10.3390/nu15143228.">doi: 10.3390/nu15143228.</a></p>
 <p>Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3</p>
-<p><span style="color:orange;"> <strong>It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed</strong> </span></p>
+<p><span style="color:orange;"> <strong>It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed</strong> </span></p>
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 <p>Background: Micronutrition in pregnancy is critical to impact not only fetal growth and development but also long-term physical and psychiatric health outcomes.</p>
 <p>Objective: Estimate micronutrient intake from food and dietary supplements in a diverse cohort of pregnant women and compare intake to the Dietary Reference Intakes (DRIs).</p>
@@ -325,7 +325,7 @@
 <hr>
 <h4 id="vitamindwiki--a-hrefpostsis-50-ng-of-vitamin-d-too-high-just-right-or-not-enough-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughis-50-ng-of-vitamin-d-too-high-just-right-or-not-enougha">VitaminDWiki – <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a></h4>
 <!-- ~tc~ (alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) ~/tc~ -->
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -341,7 +341,7 @@ Nutrients. 2023 Jul 20;15(14):3228. [doi: 10.3390/nu15143228.](https://doi.org/1
 
 Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3
 
- &lt;span style=&quot;color:orange;&quot;&gt; **It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed** &lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -420,8 +420,14 @@ AST Structure:
 │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`
-│   │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,%%% while their table shows it is the most needed`├── TextNode
+│   │   │   full_match: `It is strange that the abstract barely mentions Vitamin D,`
+│   │   │   inner_content: `It is strange that the abstract barely mentions Vitamin D,`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` while their table shows it is the most needed`
+│   │   │   inner_content: ` while their table shows it is the most needed`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19870&quot; width=&quot;600&quot;}`
@@ -599,7 +605,7 @@ Conclusions: Dietary supplements, despite their variability, allowed the majorit
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -609,8 +615,8 @@ Conclusions: Dietary supplements, despite their variability, allowed the majorit
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566339',
-            indexUrl: '\/js\/search_index.json?v=1742566339'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

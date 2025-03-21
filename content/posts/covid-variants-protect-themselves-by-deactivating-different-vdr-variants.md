@@ -58,7 +58,7 @@ The cells in a person who has been infected by the virus (COVID and many others)
 
 This reduces the immune system capability ==> more sickness.
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

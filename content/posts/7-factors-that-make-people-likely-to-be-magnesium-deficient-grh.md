@@ -81,7 +81,7 @@ Malabsorption due to gastrointestinal disorders, such as Chrohn’s disease, ulc
 #### VitaminDWiki – <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> (350,000 visitors as of Oct 2023)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

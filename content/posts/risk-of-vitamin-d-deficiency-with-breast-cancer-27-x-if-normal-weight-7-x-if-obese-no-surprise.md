@@ -22,13 +22,12 @@ Reumatismo  2024 Mar 22;76(1). [doi: 10.4081/reumatismo.2024.1632](https://doi.o
 
  **Risks for those not supplementing with Vitamin D** 
 
-||BMI|Risk of <20 ng%%%vs  <25 kg/m2 
-
-25-30|2.68 X
-
->30|5.38 X
-
-≥35|7.08 X||
+| | |
+| --- | --- |
+| BMI | Risk of <20 ng<br>vs  <25 kg/m2  |
+| 25-30 | 2.68 X |
+| >30 | 5.38 X |
+| ≥35 | 7.08 X |
 
 Objective: To report cross-sectionally serum levels of 25-hydroxyvitamin D <span>[25(OH)D]</span> in women living in Italy within 12 months from breast cancer (BC) diagnosis.
 
@@ -60,7 +59,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -75,13 +74,12 @@ Reumatismo  2024 Mar 22;76(1). [doi: 10.4081/reumatismo.2024.1632](https://doi.o
 
  **Risks for those not supplementing with Vitamin D** 
 
-||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 
-
-25-30|2.68 X
-
-&gt;30|5.38 X
-
-≥35|7.08 X||
+| | |
+| --- | --- |
+| BMI | Risk of &lt;20 ng&lt;br&gt;vs  &lt;25 kg/m2  |
+| 25-30 | 2.68 X |
+| &gt;30 | 5.38 X |
+| ≥35 | 7.08 X |
 
 Objective: To report cross-sectionally serum levels of 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; in women living in Italy within 12 months from breast cancer (BC) diagnosis.
 
@@ -158,8 +156,93 @@ AST Structure:
 │   │   style: font-size:18px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||\n`
-│   │   inner_content: `\n||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X||`
+│   │   inner_content: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 \n25-30|2.68 X\n&gt;30|5.38 X\n≥35|7.08 X`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   inner_content: `BMI|Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `BMI`
+│   │   │   │   inner_content: `BMI`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `BMI`
+│   │   │   │   │   inner_content: `BMI`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   │   inner_content: `Risk of &lt;20 ng%%%vs  &lt;25 kg/m2 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Risk of &lt;20 ng`
+│   │   │   │   │   inner_content: `Risk of &lt;20 ng`
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `vs  &lt;25 kg/m2 `
+│   │   │   │   │   inner_content: `vs  &lt;25 kg/m2 `
+│   │   ├── TableRowNode
+│   │   │   full_match: `25-30|2.68 X`
+│   │   │   inner_content: `25-30|2.68 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `25-30`
+│   │   │   │   inner_content: `25-30`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `25-30`
+│   │   │   │   │   inner_content: `25-30`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2.68 X`
+│   │   │   │   inner_content: `2.68 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2.68 X`
+│   │   │   │   │   inner_content: `2.68 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt;30|5.38 X`
+│   │   │   inner_content: `&gt;30|5.38 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt;30`
+│   │   │   │   inner_content: `&gt;30`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt;30`
+│   │   │   │   │   inner_content: `&gt;30`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `5.38 X`
+│   │   │   │   inner_content: `5.38 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `5.38 X`
+│   │   │   │   │   inner_content: `5.38 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `≥35|7.08 X`
+│   │   │   inner_content: `≥35|7.08 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `≥35`
+│   │   │   │   inner_content: `≥35`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `≥35`
+│   │   │   │   │   inner_content: `≥35`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `7.08 X`
+│   │   │   │   inner_content: `7.08 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `7.08 X`
+│   │   │   │   │   inner_content: `7.08 X`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\n\nObjective: To report cross-sectionally serum levels of 25-hydroxyvitamin D `
 │   inner_content: `\n\nObjective: To report cross-sectionally serum levels of 25-hydroxyvitamin D `├── LinkNode
 │   full_match: `[25(OH)D]`

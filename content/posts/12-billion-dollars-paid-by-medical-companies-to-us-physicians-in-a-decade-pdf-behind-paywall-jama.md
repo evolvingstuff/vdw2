@@ -73,7 +73,7 @@ Study limitations included not recording payments made to other health care prof
 
  **<a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

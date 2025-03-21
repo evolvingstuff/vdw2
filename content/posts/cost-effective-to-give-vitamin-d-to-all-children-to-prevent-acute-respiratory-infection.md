@@ -55,7 +55,7 @@ Conclusion: In conclusion, our study shows that Vitamin D supplementation is a c
 <!-- ~tc~ (alias(Cost-effective to give Vitamin D to all children prevent acute respiratory infection – April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

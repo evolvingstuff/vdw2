@@ -37,7 +37,7 @@ But, Vitamin D does would not generate $22 billion in profits nor kickbacks to N
 <!-- ~tc~ (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

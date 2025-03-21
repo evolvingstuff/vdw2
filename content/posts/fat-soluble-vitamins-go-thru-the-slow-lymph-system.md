@@ -121,7 +121,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 <!-- ~tc~ (alias(Fat soluble Vitamins go thru the slow lymph system)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

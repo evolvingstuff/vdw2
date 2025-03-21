@@ -160,7 +160,7 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

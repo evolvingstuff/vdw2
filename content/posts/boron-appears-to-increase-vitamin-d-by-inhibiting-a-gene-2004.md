@@ -47,7 +47,7 @@ This list is automatically updated
 
  **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=5,48&sciodt=0,48&cites=2796858776624621335&scipsc=)** 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

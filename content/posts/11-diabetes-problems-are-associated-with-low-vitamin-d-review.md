@@ -69,7 +69,7 @@ Due to the diverse implications of vitamin D deficiency and insufficiency, scree
 <!-- ~tc~ (alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

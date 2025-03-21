@@ -53,15 +53,13 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 
 - - - - - - - - - 
 
-||Initial level|4 week Loading dose|Maintenance dose
-
->30 ng| 0 IU |0 ?
-
-20-30 ng| 300,000| 820 IU
-
-10-20 ng|600,000 | 1000 IU
-
-0-10 ng|1,000,000 IU|2000 IU ||
+| | | |
+| --- | --- | --- |
+| Initial level | 4 week Loading dose | Maintenance dose |
+| >30 ng |  0 IU  | 0 ? |
+| 20-30 ng |  300,000 |  820 IU |
+| 10-20 ng | 600,000  |  1000 IU |
+| 0-10 ng | 1,000,000 IU | 2000 IU  |
 
  &nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
 
@@ -156,7 +154,7 @@ Breast Cancer, for example, needs >80 ng
 <!-- ~tc~ (alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -202,15 +200,13 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 
 - - - - - - - - - 
 
-||Initial level|4 week Loading dose|Maintenance dose
-
-&gt;30 ng| 0 IU |0 ?
-
-20-30 ng| 300,000| 820 IU
-
-10-20 ng|600,000 | 1000 IU
-
-0-10 ng|1,000,000 IU|2000 IU ||
+| | | |
+| --- | --- | --- |
+| Initial level | 4 week Loading dose | Maintenance dose |
+| &gt;30 ng |  0 IU  | 0 ? |
+| 20-30 ng |  300,000 |  820 IU |
+| 10-20 ng | 600,000  |  1000 IU |
+| 0-10 ng | 1,000,000 IU | 2000 IU  |
 
  &amp;nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
 
@@ -461,8 +457,140 @@ AST Structure:
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n||Initial level|4 week Loading dose|Maintenance dose\n&gt;30 ng| 0 IU |0 ?\n20-30 ng| 300,000| 820 IU\n10-20 ng|600,000 | 1000 IU\n0-10 ng|1,000,000 IU|2000 IU ||\n`
-│   │   inner_content: `\n||Initial level|4 week Loading dose|Maintenance dose\n&gt;30 ng| 0 IU |0 ?\n20-30 ng| 300,000| 820 IU\n10-20 ng|600,000 | 1000 IU\n0-10 ng|1,000,000 IU|2000 IU ||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||Initial level|4 week Loading dose|Maintenance dose\n&gt;30 ng| 0 IU |0 ?\n20-30 ng| 300,000| 820 IU\n10-20 ng|600,000 | 1000 IU\n0-10 ng|1,000,000 IU|2000 IU ||`
+│   │   inner_content: `Initial level|4 week Loading dose|Maintenance dose\n&gt;30 ng| 0 IU |0 ?\n20-30 ng| 300,000| 820 IU\n10-20 ng|600,000 | 1000 IU\n0-10 ng|1,000,000 IU|2000 IU `
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `Initial level|4 week Loading dose|Maintenance dose`
+│   │   │   inner_content: `Initial level|4 week Loading dose|Maintenance dose`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Initial level`
+│   │   │   │   inner_content: `Initial level`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Initial level`
+│   │   │   │   │   inner_content: `Initial level`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `4 week Loading dose`
+│   │   │   │   inner_content: `4 week Loading dose`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `4 week Loading dose`
+│   │   │   │   │   inner_content: `4 week Loading dose`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Maintenance dose`
+│   │   │   │   inner_content: `Maintenance dose`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Maintenance dose`
+│   │   │   │   │   inner_content: `Maintenance dose`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&gt;30 ng| 0 IU |0 ?`
+│   │   │   inner_content: `&gt;30 ng| 0 IU |0 ?`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&gt;30 ng`
+│   │   │   │   inner_content: `&gt;30 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&gt;30 ng`
+│   │   │   │   │   inner_content: `&gt;30 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 0 IU `
+│   │   │   │   inner_content: ` 0 IU `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 0 IU `
+│   │   │   │   │   inner_content: ` 0 IU `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `0 ?`
+│   │   │   │   inner_content: `0 ?`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `0 ?`
+│   │   │   │   │   inner_content: `0 ?`
+│   │   ├── TableRowNode
+│   │   │   full_match: `20-30 ng| 300,000| 820 IU`
+│   │   │   inner_content: `20-30 ng| 300,000| 820 IU`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `20-30 ng`
+│   │   │   │   inner_content: `20-30 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `20-30 ng`
+│   │   │   │   │   inner_content: `20-30 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 300,000`
+│   │   │   │   inner_content: ` 300,000`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 300,000`
+│   │   │   │   │   inner_content: ` 300,000`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 820 IU`
+│   │   │   │   inner_content: ` 820 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 820 IU`
+│   │   │   │   │   inner_content: ` 820 IU`
+│   │   ├── TableRowNode
+│   │   │   full_match: `10-20 ng|600,000 | 1000 IU`
+│   │   │   inner_content: `10-20 ng|600,000 | 1000 IU`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `10-20 ng`
+│   │   │   │   inner_content: `10-20 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `10-20 ng`
+│   │   │   │   │   inner_content: `10-20 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `600,000 `
+│   │   │   │   inner_content: `600,000 `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `600,000 `
+│   │   │   │   │   inner_content: `600,000 `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 1000 IU`
+│   │   │   │   inner_content: ` 1000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 1000 IU`
+│   │   │   │   │   inner_content: ` 1000 IU`
+│   │   ├── TableRowNode
+│   │   │   full_match: `0-10 ng|1,000,000 IU|2000 IU `
+│   │   │   inner_content: `0-10 ng|1,000,000 IU|2000 IU `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `0-10 ng`
+│   │   │   │   inner_content: `0-10 ng`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `0-10 ng`
+│   │   │   │   │   inner_content: `0-10 ng`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1,000,000 IU`
+│   │   │   │   inner_content: `1,000,000 IU`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1,000,000 IU`
+│   │   │   │   │   inner_content: `1,000,000 IU`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2000 IU `
+│   │   │   │   inner_content: `2000 IU `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2000 IU `
+│   │   │   │   │   inner_content: `2000 IU `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\n `
 │   inner_content: `\n `├── HorizontalSpaceNode
 │   full_match: `~hs~`

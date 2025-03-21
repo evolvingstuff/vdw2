@@ -48,7 +48,7 @@ in contrast, intake of alpha-linolenic acid, long-chain omega-3 fatty acids, and
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

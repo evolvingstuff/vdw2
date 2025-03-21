@@ -40,7 +40,7 @@ Conclusion: VDR polymorphisms of FokI and BsmI are associated with the risk of M
 <!-- ~tc~ (alias(Microcephaly patients  have both poor Vitamin D levels and Receptors - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

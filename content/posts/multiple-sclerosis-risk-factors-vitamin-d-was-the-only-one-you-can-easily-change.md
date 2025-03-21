@@ -52,7 +52,7 @@ This list is automatically updated
 <!-- ~tc~ (alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">The study looked at >2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?</span>** 
+ **<span style="color:orange;">The study looked at >2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?</span>** 
 
  **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss)** 
 
@@ -50,11 +50,11 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
 
  **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss)** 
 
@@ -116,8 +116,14 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?`
-│   │   │   │   inner_content: `The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?`├── TextNode
+│   │   │   │   full_match: `The study looked at &gt;2,000 studies. `
+│   │   │   │   inner_content: `The study looked at &gt;2,000 studies. `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Wonder how much they were paid to find the 10 studies that did not find a benefit?`
+│   │   │   │   inner_content: `Wonder how much they were paid to find the 10 studies that did not find a benefit?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__[https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss|30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023]__`

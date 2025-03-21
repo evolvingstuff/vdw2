@@ -72,7 +72,7 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 <!-- ~tc~ (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

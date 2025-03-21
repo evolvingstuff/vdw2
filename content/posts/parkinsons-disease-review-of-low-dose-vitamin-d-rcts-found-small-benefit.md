@@ -35,7 +35,7 @@ In recent years, neurodegenerative diseases are a leading cause of morbidity and
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

@@ -52,7 +52,7 @@ For now, compelling evidence that vitamin D supplementation effectively improves
 <!-- ~tc~ (alias(Better survival of many cancers if higher level of vitamin D - 2020)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

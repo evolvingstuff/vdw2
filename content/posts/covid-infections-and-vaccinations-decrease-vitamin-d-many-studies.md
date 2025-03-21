@@ -81,7 +81,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 <!-- ~tc~ (alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

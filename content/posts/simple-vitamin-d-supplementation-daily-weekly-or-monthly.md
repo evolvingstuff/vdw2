@@ -59,7 +59,7 @@ Conclusion: Simplified dosing could empower clinicians to address vitamin D defi
 <!-- ~tc~ (alias(different patient groups)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

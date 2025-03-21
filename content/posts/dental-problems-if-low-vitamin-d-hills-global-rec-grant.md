@@ -37,25 +37,18 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 
 ##### Hills Criterion
 
-|| **Criterion** | **Meaning** 
-
- **Strength of association** |OR or RR between 1 and 2 is considered weak, whereas >2.0 is considered strong.
-
- **Consistency** |Similar findings in different situations.
-
- **Specificity** |A factor influences specifically a particular outcome or population.
-
- **Temporality** |The causal agent should precede the incidence of an expected outcome.
-
- **Biological gradient** |A monotonically changing dose-response relationship.
-
- **Plausibility** |Mechanisms exist to explain the effect.
-
- **Coherence** |The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.
-
- **Experiment** |RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.
-
- **Analogy**  <span style="color:orange;"> . . . . . . . . . . . . . . . . . . . . </span>|Analogous exposures for demonstrated outcomes.||
+| | |
+| --- | --- |
+|  **Criterion**  |  **Meaning**  |
+|  **Strength of association**  | OR or RR between 1 and 2 is considered weak, whereas >2.0 is considered strong. |
+|  **Consistency**  | Similar findings in different situations. |
+|  **Specificity**  | A factor influences specifically a particular outcome or population. |
+|  **Temporality**  | The causal agent should precede the incidence of an expected outcome. |
+|  **Biological gradient**  | A monotonically changing dose-response relationship. |
+|  **Plausibility**  | Mechanisms exist to explain the effect. |
+|  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
+|  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
+|  **Analogy**  <span style="color:orange;"> . . . . . . . . . . . . . . . . . . . . </span> | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
@@ -588,7 +581,7 @@ OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 <!-- ~tc~ (alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -619,25 +612,18 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 
 ##### Hills Criterion
 
-|| **Criterion** | **Meaning** 
-
- **Strength of association** |OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.
-
- **Consistency** |Similar findings in different situations.
-
- **Specificity** |A factor influences specifically a particular outcome or population.
-
- **Temporality** |The causal agent should precede the incidence of an expected outcome.
-
- **Biological gradient** |A monotonically changing dose-response relationship.
-
- **Plausibility** |Mechanisms exist to explain the effect.
-
- **Coherence** |The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.
-
- **Experiment** |RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.
-
- **Analogy**  &lt;span style=&quot;color:orange;&quot;&gt; . . . . . . . . . . . . . . . . . . . . &lt;/span&gt;|Analogous exposures for demonstrated outcomes.||
+| | |
+| --- | --- |
+|  **Criterion**  |  **Meaning**  |
+|  **Strength of association**  | OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong. |
+|  **Consistency**  | Similar findings in different situations. |
+|  **Specificity**  | A factor influences specifically a particular outcome or population. |
+|  **Temporality**  | The causal agent should precede the incidence of an expected outcome. |
+|  **Biological gradient**  | A monotonically changing dose-response relationship. |
+|  **Plausibility**  | Mechanisms exist to explain the effect. |
+|  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
+|  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
+|  **Analogy**  &lt;span style=&quot;color:orange;&quot;&gt; . . . . . . . . . . . . . . . . . . . . &lt;/span&gt; | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
@@ -1267,104 +1253,246 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Hills Criterion`
 │   │   inner_content: `Hills Criterion`├── TextNode
-│   full_match: `\n||`
-│   inner_content: `\n||`├── BoldNode
-│   full_match: `__Criterion__`
-│   inner_content: `Criterion`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Criterion`
-│   │   inner_content: `Criterion`├── TextNode
-│   full_match: `|`
-│   inner_content: `|`├── BoldNode
-│   full_match: `__Meaning__`
-│   inner_content: `Meaning`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Meaning`
-│   │   inner_content: `Meaning`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── BoldNode
-│   full_match: `__Strength of association__`
-│   inner_content: `Strength of association`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||__Criterion__|__Meaning__\n__Strength of association__|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.\n__Consistency__|Similar findings in different situations.\n__Specificity__|A factor influences specifically a particular outcome or population.\n__Temporality__|The causal agent should precede the incidence of an expected outcome.\n__Biological gradient__|A monotonically changing dose-response relationship.\n__Plausibility__|Mechanisms exist to explain the effect.\n__Coherence__|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.\n__Experiment__|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.\n__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~|Analogous exposures for demonstrated outcomes.||`
+│   inner_content: `__Criterion__|__Meaning__\n__Strength of association__|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.\n__Consistency__|Similar findings in different situations.\n__Specificity__|A factor influences specifically a particular outcome or population.\n__Temporality__|The causal agent should precede the incidence of an expected outcome.\n__Biological gradient__|A monotonically changing dose-response relationship.\n__Plausibility__|Mechanisms exist to explain the effect.\n__Coherence__|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.\n__Experiment__|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.\n__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~|Analogous exposures for demonstrated outcomes.`
 │   children:
-│   ├── TextNode
-│   │   full_match: `Strength of association`
-│   │   inner_content: `Strength of association`├── TextNode
-│   full_match: `|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.\n`
-│   inner_content: `|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.\n`├── BoldNode
-│   full_match: `__Consistency__`
-│   inner_content: `Consistency`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Consistency`
-│   │   inner_content: `Consistency`├── TextNode
-│   full_match: `|Similar findings in different situations.\n`
-│   inner_content: `|Similar findings in different situations.\n`├── BoldNode
-│   full_match: `__Specificity__`
-│   inner_content: `Specificity`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Specificity`
-│   │   inner_content: `Specificity`├── TextNode
-│   full_match: `|A factor influences specifically a particular outcome or population.\n`
-│   inner_content: `|A factor influences specifically a particular outcome or population.\n`├── BoldNode
-│   full_match: `__Temporality__`
-│   inner_content: `Temporality`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Temporality`
-│   │   inner_content: `Temporality`├── TextNode
-│   full_match: `|The causal agent should precede the incidence of an expected outcome.\n`
-│   inner_content: `|The causal agent should precede the incidence of an expected outcome.\n`├── BoldNode
-│   full_match: `__Biological gradient__`
-│   inner_content: `Biological gradient`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Biological gradient`
-│   │   inner_content: `Biological gradient`├── TextNode
-│   full_match: `|A monotonically changing dose-response relationship.\n`
-│   inner_content: `|A monotonically changing dose-response relationship.\n`├── BoldNode
-│   full_match: `__Plausibility__`
-│   inner_content: `Plausibility`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Plausibility`
-│   │   inner_content: `Plausibility`├── TextNode
-│   full_match: `|Mechanisms exist to explain the effect.\n`
-│   inner_content: `|Mechanisms exist to explain the effect.\n`├── BoldNode
-│   full_match: `__Coherence__`
-│   inner_content: `Coherence`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Coherence`
-│   │   inner_content: `Coherence`├── TextNode
-│   full_match: `|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.\n`
-│   inner_content: `|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.\n`├── BoldNode
-│   full_match: `__Experiment__`
-│   inner_content: `Experiment`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Experiment`
-│   │   inner_content: `Experiment`├── TextNode
-│   full_match: `|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.\n`
-│   inner_content: `|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.\n`├── BoldNode
-│   full_match: `__Analogy__`
-│   inner_content: `Analogy`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Analogy`
-│   │   inner_content: `Analogy`├── ColorNode
-│   full_match: `~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~`
-│   inner_content: ` . . . . . . . . . . . . . . . . . . . . `
-│   attrs_dict:
-│   │   raw_content: #FFF
-│   children:
-│   ├── TextNode
-│   │   full_match: ` . . . . . . . . . . . . . . . . . . . . `
-│   │   inner_content: ` . . . . . . . . . . . . . . . . . . . . `├── TextNode
-│   full_match: `|Analogous exposures for demonstrated outcomes.||\nOR—odds ratio; RCT—randomized controlled trial; RR—relative risk.`
-│   inner_content: `|Analogous exposures for demonstrated outcomes.||\nOR—odds ratio; RCT—randomized controlled trial; RR—relative risk.`├── HorizontalRuleNode
+│   ├── TableRowNode
+│   │   full_match: `__Criterion__|__Meaning__`
+│   │   inner_content: `__Criterion__|__Meaning__`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Criterion__`
+│   │   │   inner_content: `__Criterion__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Criterion__`
+│   │   │   │   inner_content: `Criterion`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Criterion`
+│   │   │   │   │   inner_content: `Criterion`
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Meaning__`
+│   │   │   inner_content: `__Meaning__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Meaning__`
+│   │   │   │   inner_content: `Meaning`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Meaning`
+│   │   │   │   │   inner_content: `Meaning`
+│   ├── TableRowNode
+│   │   full_match: `__Strength of association__|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   │   inner_content: `__Strength of association__|OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Strength of association__`
+│   │   │   inner_content: `__Strength of association__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Strength of association__`
+│   │   │   │   inner_content: `Strength of association`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Strength of association`
+│   │   │   │   │   inner_content: `Strength of association`
+│   │   ├── TableCellNode
+│   │   │   full_match: `OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   │   │   inner_content: `OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   │   │   │   inner_content: `OR or RR between 1 and 2 is considered weak, whereas &gt;2.0 is considered strong.`
+│   ├── TableRowNode
+│   │   full_match: `__Consistency__|Similar findings in different situations.`
+│   │   inner_content: `__Consistency__|Similar findings in different situations.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Consistency__`
+│   │   │   inner_content: `__Consistency__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Consistency__`
+│   │   │   │   inner_content: `Consistency`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Consistency`
+│   │   │   │   │   inner_content: `Consistency`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Similar findings in different situations.`
+│   │   │   inner_content: `Similar findings in different situations.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Similar findings in different situations.`
+│   │   │   │   inner_content: `Similar findings in different situations.`
+│   ├── TableRowNode
+│   │   full_match: `__Specificity__|A factor influences specifically a particular outcome or population.`
+│   │   inner_content: `__Specificity__|A factor influences specifically a particular outcome or population.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Specificity__`
+│   │   │   inner_content: `__Specificity__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Specificity__`
+│   │   │   │   inner_content: `Specificity`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Specificity`
+│   │   │   │   │   inner_content: `Specificity`
+│   │   ├── TableCellNode
+│   │   │   full_match: `A factor influences specifically a particular outcome or population.`
+│   │   │   inner_content: `A factor influences specifically a particular outcome or population.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `A factor influences specifically a particular outcome or population.`
+│   │   │   │   inner_content: `A factor influences specifically a particular outcome or population.`
+│   ├── TableRowNode
+│   │   full_match: `__Temporality__|The causal agent should precede the incidence of an expected outcome.`
+│   │   inner_content: `__Temporality__|The causal agent should precede the incidence of an expected outcome.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Temporality__`
+│   │   │   inner_content: `__Temporality__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Temporality__`
+│   │   │   │   inner_content: `Temporality`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Temporality`
+│   │   │   │   │   inner_content: `Temporality`
+│   │   ├── TableCellNode
+│   │   │   full_match: `The causal agent should precede the incidence of an expected outcome.`
+│   │   │   inner_content: `The causal agent should precede the incidence of an expected outcome.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `The causal agent should precede the incidence of an expected outcome.`
+│   │   │   │   inner_content: `The causal agent should precede the incidence of an expected outcome.`
+│   ├── TableRowNode
+│   │   full_match: `__Biological gradient__|A monotonically changing dose-response relationship.`
+│   │   inner_content: `__Biological gradient__|A monotonically changing dose-response relationship.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Biological gradient__`
+│   │   │   inner_content: `__Biological gradient__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Biological gradient__`
+│   │   │   │   inner_content: `Biological gradient`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Biological gradient`
+│   │   │   │   │   inner_content: `Biological gradient`
+│   │   ├── TableCellNode
+│   │   │   full_match: `A monotonically changing dose-response relationship.`
+│   │   │   inner_content: `A monotonically changing dose-response relationship.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `A monotonically changing dose-response relationship.`
+│   │   │   │   inner_content: `A monotonically changing dose-response relationship.`
+│   ├── TableRowNode
+│   │   full_match: `__Plausibility__|Mechanisms exist to explain the effect.`
+│   │   inner_content: `__Plausibility__|Mechanisms exist to explain the effect.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Plausibility__`
+│   │   │   inner_content: `__Plausibility__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Plausibility__`
+│   │   │   │   inner_content: `Plausibility`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Plausibility`
+│   │   │   │   │   inner_content: `Plausibility`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mechanisms exist to explain the effect.`
+│   │   │   inner_content: `Mechanisms exist to explain the effect.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mechanisms exist to explain the effect.`
+│   │   │   │   inner_content: `Mechanisms exist to explain the effect.`
+│   ├── TableRowNode
+│   │   full_match: `__Coherence__|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   │   inner_content: `__Coherence__|The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Coherence__`
+│   │   │   inner_content: `__Coherence__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Coherence__`
+│   │   │   │   inner_content: `Coherence`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Coherence`
+│   │   │   │   │   inner_content: `Coherence`
+│   │   ├── TableCellNode
+│   │   │   full_match: `The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   │   │   inner_content: `The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   │   │   │   inner_content: `The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease.`
+│   ├── TableRowNode
+│   │   full_match: `__Experiment__|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   │   inner_content: `__Experiment__|RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Experiment__`
+│   │   │   inner_content: `__Experiment__`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Experiment__`
+│   │   │   │   inner_content: `Experiment`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Experiment`
+│   │   │   │   │   inner_content: `Experiment`
+│   │   ├── TableCellNode
+│   │   │   full_match: `RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   │   │   inner_content: `RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   │   │   │   inner_content: `RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used.`
+│   ├── TableRowNode
+│   │   full_match: `__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~|Analogous exposures for demonstrated outcomes.`
+│   │   inner_content: `__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~|Analogous exposures for demonstrated outcomes.`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~`
+│   │   │   inner_content: `__Analogy__~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Analogy__`
+│   │   │   │   inner_content: `Analogy`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Analogy`
+│   │   │   │   │   inner_content: `Analogy`
+│   │   │   ├── ColorNode
+│   │   │   │   full_match: `~~#FFF: . . . . . . . . . . . . . . . . . . . . ~~`
+│   │   │   │   inner_content: ` . . . . . . . . . . . . . . . . . . . . `
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: #FFF
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` . . . . . . . . . . . . . . . . . . . . `
+│   │   │   │   │   inner_content: ` . . . . . . . . . . . . . . . . . . . . `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Analogous exposures for demonstrated outcomes.`
+│   │   │   inner_content: `Analogous exposures for demonstrated outcomes.`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Analogous exposures for demonstrated outcomes.`
+│   │   │   │   inner_content: `Analogous exposures for demonstrated outcomes.`├── TextNode
+│   full_match: `\nOR—odds ratio; RCT—randomized controlled trial; RR—relative risk.`
+│   inner_content: `\nOR—odds ratio; RCT—randomized controlled trial; RR—relative risk.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `\n!!!!!256 References`

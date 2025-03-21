@@ -51,7 +51,7 @@ Compelling evidence indicates that Epstein Barr virus (EBV) infection is a prere
 <!-- ~tc~ (alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

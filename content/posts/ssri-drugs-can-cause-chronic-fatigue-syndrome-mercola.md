@@ -64,7 +64,7 @@ The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalop
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

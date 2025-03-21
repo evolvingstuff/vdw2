@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023 %%% &nbsp;&nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023  &nbsp;&nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
 
 <!-- {maketoc title="charts WITHOUT transcript"} -->
  
@@ -78,7 +78,10 @@ Vitamin D improves the immune system
 
 ### (4) 3 forms of Vitamin D in the blood: the final form is a  <span style="color:orange;">Hormone</span>
 
- ||<img src="/attachments/d3.mock.jpg" alt="image" width="600">| <img src="/attachments/d3.mock.jpg" alt="image" width="600">||
+ 
+| | |
+| --- | --- |
+| <img src="/attachments/d3.mock.jpg" alt="image" width="600"> |  <img src="/attachments/d3.mock.jpg" alt="image" width="600"> |
 
 ---
 
@@ -182,7 +185,7 @@ Vitamin D improves the immune system
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
- **Put pills in at the beginning of the month%%%Take allotted pills each week%%%Take all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
 
 &nbsp;
 
@@ -220,21 +223,26 @@ Vitamin D improves the immune system
 
 ### (15) Vitamin D dose varies with weight and obesity
 
-  || **Adult**  |Normal weight|50K  per week
+  
+| | | |
+| --- | --- | --- |
+|  **Adult**   | Normal weight | 50K  per week |
+|   | Obese | 100K per week |
 
- |Obese|100K per week||
+| | | |
+| --- | --- | --- |
+|  **Youth**  | Normal weight | 50K every other week |
+|   | Obese | 50K:  5 per month |
 
-|| **Youth** |Normal weight|50K every other week
+| | | |
+| --- | --- | --- |
+|  **Child**   | Normal weight |  **<span style="color:orange;">10K</span>**  weekly |
+|   | Obese | 50K every other week  |
 
- |Obese|50K:  5 per month||
-
-|| **Child**  |Normal weight| **<span style="color:orange;">10K</span>**  weekly
-
- |Obese|50K every other week ||
-
-|| **Infant**  |Normal weight| <span style="color:orange;">10K</span> **every other week
-
- |Obese| <span style="color:orange;">10K</span>**   5 per month||
+| | | |
+| --- | --- | --- |
+|  **Infant**   | Normal weight |  <span style="color:orange;">10K</span>__ every other week |
+|   | Obese |  <span style="color:orange;">10K</span>__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 
@@ -266,9 +274,9 @@ Vitamin D improves the immune system
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
-  **After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting** 
+  **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
 
- **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> %%%&nbsp;&nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
+ **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> &nbsp;&nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
 
 ---
 
@@ -349,11 +357,11 @@ Note Humans and animals have evolved to go for days with many nutrients
 <!-- ~tc~ (alias(Iceland charts as of March 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023 %%% &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
 
 &lt;!-- {maketoc title=&quot;charts WITHOUT transcript&quot;} --&gt;
  
@@ -420,7 +428,10 @@ Vitamin D improves the immune system
 
 ### (4) 3 forms of Vitamin D in the blood: the final form is a  &lt;span style=&quot;color:orange;&quot;&gt;Hormone&lt;/span&gt;
 
- ||&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;||
+ 
+| | |
+| --- | --- |
+| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; |  &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; |
 
 ---
 
@@ -524,7 +535,7 @@ Vitamin D improves the immune system
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
- **Put pills in at the beginning of the month%%%Take allotted pills each week%%%Take all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
 
 &amp;nbsp;
 
@@ -562,21 +573,26 @@ Vitamin D improves the immune system
 
 ### (15) Vitamin D dose varies with weight and obesity
 
-  || **Adult**  |Normal weight|50K  per week
+  
+| | | |
+| --- | --- | --- |
+|  **Adult**   | Normal weight | 50K  per week |
+|   | Obese | 100K per week |
 
- |Obese|100K per week||
+| | | |
+| --- | --- | --- |
+|  **Youth**  | Normal weight | 50K every other week |
+|   | Obese | 50K:  5 per month |
 
-|| **Youth** |Normal weight|50K every other week
+| | | |
+| --- | --- | --- |
+|  **Child**   | Normal weight |  **&lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**  weekly |
+|   | Obese | 50K every other week  |
 
- |Obese|50K:  5 per month||
-
-|| **Child**  |Normal weight| **&lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**  weekly
-
- |Obese|50K every other week ||
-
-|| **Infant**  |Normal weight| &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt; **every other week
-
- |Obese| &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**   5 per month||
+| | | |
+| --- | --- | --- |
+|  **Infant**   | Normal weight |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__ every other week |
+|   | Obese |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 
@@ -608,9 +624,9 @@ Vitamin D improves the immune system
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
-  **After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting** 
+  **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
 
- **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt; %%%&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
+ **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
 
 ---
 
@@ -717,8 +733,14 @@ AST Structure:
 │   │   │   inner_content: ``
 │   │   │   repetitions: `2`
 │   │   ├── TextNode
-│   │   │   full_match: `Presented in Iceland March 4, 2023 %%% `
-│   │   │   inner_content: `Presented in Iceland March 4, 2023 %%% `
+│   │   │   full_match: `Presented in Iceland March 4, 2023 `
+│   │   │   inner_content: `Presented in Iceland March 4, 2023 `
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
 │   │   ├── HorizontalSpaceNode
 │   │   │   full_match: `~hs~~hs~`
 │   │   │   inner_content: ``
@@ -948,25 +970,41 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Hormone`
 │   │   │   inner_content: `Hormone`├── TextNode
-│   full_match: `\n ||`
-│   inner_content: `\n ||`├── ImgNode
-│   full_match: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;600&quot;
-│   │   fileId: 2696
-│   │   width: 600├── TextNode
-│   full_match: `| `
-│   inner_content: `| `├── ImgNode
-│   full_match: `{img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;
-│   │   type: attId
-│   │   attId: 19098 
-│   │   width: 600├── TextNode
-│   full_match: `||`
-│   inner_content: `||`├── HorizontalRuleNode
+│   full_match: `\n `
+│   inner_content: `\n `├── TableNode
+│   full_match: `||{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}||`
+│   inner_content: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   │   inner_content: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}`
+│   │   │   inner_content: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}`
+│   │   │   children:
+│   │   │   ├── ImgNode
+│   │   │   │   full_match: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}`
+│   │   │   │   inner_content: ``
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content:  fileId=&quot;2696&quot; width =&quot;600&quot;
+│   │   │   │   │   fileId: 2696
+│   │   │   │   │   width: 600
+│   │   ├── TableCellNode
+│   │   │   full_match: ` {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   │   │   inner_content: ` {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   ├── ImgNode
+│   │   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
+│   │   │   │   inner_content: ``
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content:  type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;
+│   │   │   │   │   type: attId
+│   │   │   │   │   attId: 19098 
+│   │   │   │   │   width: 600├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!(5) Some hospitals are noticing: Higher cost if low Vitamin D`
@@ -2070,8 +2108,20 @@ AST Structure:
 │   │   inner_content: `Put pills in at the beginning of the month%%%Take allotted pills each week%%%Take all remaining pills, even those forgotten, before end of the month`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Put pills in at the beginning of the month%%%Take allotted pills each week%%%Take all remaining pills, even those forgotten, before end of the month`
-│   │   │   inner_content: `Put pills in at the beginning of the month%%%Take allotted pills each week%%%Take all remaining pills, even those forgotten, before end of the month`├── TextNode
+│   │   │   full_match: `Put pills in at the beginning of the month`
+│   │   │   inner_content: `Put pills in at the beginning of the month`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Take allotted pills each week`
+│   │   │   inner_content: `Take allotted pills each week`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `Take all remaining pills, even those forgotten, before end of the month`
+│   │   │   inner_content: `Take all remaining pills, even those forgotten, before end of the month`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~`
@@ -2218,92 +2268,289 @@ AST Structure:
 │   │   size: 24
 │   children:
 │   ├── TextNode
-│   │   full_match: `  ||`
-│   │   inner_content: `  ||`
-│   ├── BoldNode
-│   │   full_match: `__Adult__`
-│   │   inner_content: `Adult`
+│   │   full_match: `  `
+│   │   inner_content: `  `
+│   ├── TableNode
+│   │   full_match: `||__Adult__ |Normal weight|50K  per week\n |Obese|100K per week||`
+│   │   inner_content: `__Adult__ |Normal weight|50K  per week\n |Obese|100K per week`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Adult`
-│   │   │   inner_content: `Adult`
-│   ├── TextNode
-│   │   full_match: ` |Normal weight|50K  per week\n |Obese|100K per week||\n||`
-│   │   inner_content: ` |Normal weight|50K  per week\n |Obese|100K per week||\n||`
-│   ├── BoldNode
-│   │   full_match: `__Youth__`
-│   │   inner_content: `Youth`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Youth`
-│   │   │   inner_content: `Youth`
-│   ├── TextNode
-│   │   full_match: `|Normal weight|50K every other week\n |Obese|50K:  5 per month||\n||`
-│   │   inner_content: `|Normal weight|50K every other week\n |Obese|50K:  5 per month||\n||`
-│   ├── BoldNode
-│   │   full_match: `__Child__`
-│   │   inner_content: `Child`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Child`
-│   │   │   inner_content: `Child`
-│   ├── TextNode
-│   │   full_match: ` |Normal weight|`
-│   │   inner_content: ` |Normal weight|`
-│   ├── BoldNode
-│   │   full_match: `__~~#00F:10K~~__`
-│   │   inner_content: `~~#00F:10K~~`
-│   │   children:
-│   │   ├── ColorNode
-│   │   │   full_match: `~~#00F:10K~~`
-│   │   │   inner_content: `10K`
-│   │   │   attrs_dict:
-│   │   │   │   raw_content: #00F
+│   │   ├── TableRowNode
+│   │   │   full_match: `__Adult__ |Normal weight|50K  per week`
+│   │   │   inner_content: `__Adult__ |Normal weight|50K  per week`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `10K`
-│   │   │   │   inner_content: `10K`
-│   ├── TextNode
-│   │   full_match: ` weekly\n |Obese|50K every other week ||\n||`
-│   │   inner_content: ` weekly\n |Obese|50K every other week ||\n||`
-│   ├── BoldNode
-│   │   full_match: `__Infant__`
-│   │   inner_content: `Infant`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Infant`
-│   │   │   inner_content: `Infant`
-│   ├── TextNode
-│   │   full_match: ` |Normal weight|`
-│   │   inner_content: ` |Normal weight|`
-│   ├── ColorNode
-│   │   full_match: `~~#00F:10K~~`
-│   │   inner_content: `10K`
-│   │   attrs_dict:
-│   │   │   raw_content: #00F
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `10K`
-│   │   │   inner_content: `10K`
-│   ├── BoldNode
-│   │   full_match: `__ every other week\n |Obese|~~#00F:10K~~__`
-│   │   inner_content: ` every other week\n |Obese|~~#00F:10K~~`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` every other week\n |Obese|`
-│   │   │   inner_content: ` every other week\n |Obese|`
-│   │   ├── ColorNode
-│   │   │   full_match: `~~#00F:10K~~`
-│   │   │   inner_content: `10K`
-│   │   │   attrs_dict:
-│   │   │   │   raw_content: #00F
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__Adult__ `
+│   │   │   │   inner_content: `__Adult__ `
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__Adult__`
+│   │   │   │   │   inner_content: `Adult`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `Adult`
+│   │   │   │   │   │   inner_content: `Adult`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Normal weight`
+│   │   │   │   inner_content: `Normal weight`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Normal weight`
+│   │   │   │   │   inner_content: `Normal weight`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50K  per week`
+│   │   │   │   inner_content: `50K  per week`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50K  per week`
+│   │   │   │   │   inner_content: `50K  per week`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |Obese|100K per week`
+│   │   │   inner_content: ` |Obese|100K per week`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `10K`
-│   │   │   │   inner_content: `10K`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Obese`
+│   │   │   │   inner_content: `Obese`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Obese`
+│   │   │   │   │   inner_content: `Obese`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `100K per week`
+│   │   │   │   inner_content: `100K per week`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `100K per week`
+│   │   │   │   │   inner_content: `100K per week`
 │   ├── TextNode
-│   │   full_match: `  5 per month||`
-│   │   inner_content: `  5 per month||`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month||`
+│   │   inner_content: `__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `__Youth__|Normal weight|50K every other week`
+│   │   │   inner_content: `__Youth__|Normal weight|50K every other week`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__Youth__`
+│   │   │   │   inner_content: `__Youth__`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__Youth__`
+│   │   │   │   │   inner_content: `Youth`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `Youth`
+│   │   │   │   │   │   inner_content: `Youth`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Normal weight`
+│   │   │   │   inner_content: `Normal weight`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Normal weight`
+│   │   │   │   │   inner_content: `Normal weight`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50K every other week`
+│   │   │   │   inner_content: `50K every other week`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50K every other week`
+│   │   │   │   │   inner_content: `50K every other week`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |Obese|50K:  5 per month`
+│   │   │   inner_content: ` |Obese|50K:  5 per month`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Obese`
+│   │   │   │   inner_content: `Obese`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Obese`
+│   │   │   │   │   inner_content: `Obese`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50K:  5 per month`
+│   │   │   │   inner_content: `50K:  5 per month`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50K:  5 per month`
+│   │   │   │   │   inner_content: `50K:  5 per month`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week ||`
+│   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week `
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly`
+│   │   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__Child__ `
+│   │   │   │   inner_content: `__Child__ `
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__Child__`
+│   │   │   │   │   inner_content: `Child`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `Child`
+│   │   │   │   │   │   inner_content: `Child`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Normal weight`
+│   │   │   │   inner_content: `Normal weight`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Normal weight`
+│   │   │   │   │   inner_content: `Normal weight`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__~~#00F:10K~~__ weekly`
+│   │   │   │   inner_content: `__~~#00F:10K~~__ weekly`
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__~~#00F:10K~~__`
+│   │   │   │   │   inner_content: `~~#00F:10K~~`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── ColorNode
+│   │   │   │   │   │   full_match: `~~#00F:10K~~`
+│   │   │   │   │   │   inner_content: `10K`
+│   │   │   │   │   │   attrs_dict:
+│   │   │   │   │   │   │   raw_content: #00F
+│   │   │   │   │   │   children:
+│   │   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   │   full_match: `10K`
+│   │   │   │   │   │   │   inner_content: `10K`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` weekly`
+│   │   │   │   │   inner_content: ` weekly`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |Obese|50K every other week `
+│   │   │   inner_content: ` |Obese|50K every other week `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Obese`
+│   │   │   │   inner_content: `Obese`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Obese`
+│   │   │   │   │   inner_content: `Obese`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50K every other week `
+│   │   │   │   inner_content: `50K every other week `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50K every other week `
+│   │   │   │   │   inner_content: `50K every other week `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month||`
+│   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week`
+│   │   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `__Infant__ `
+│   │   │   │   inner_content: `__Infant__ `
+│   │   │   │   children:
+│   │   │   │   ├── BoldNode
+│   │   │   │   │   full_match: `__Infant__`
+│   │   │   │   │   inner_content: `Infant`
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `Infant`
+│   │   │   │   │   │   inner_content: `Infant`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Normal weight`
+│   │   │   │   inner_content: `Normal weight`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Normal weight`
+│   │   │   │   │   inner_content: `Normal weight`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `~~#00F:10K~~__ every other week`
+│   │   │   │   inner_content: `~~#00F:10K~~__ every other week`
+│   │   │   │   children:
+│   │   │   │   ├── ColorNode
+│   │   │   │   │   full_match: `~~#00F:10K~~`
+│   │   │   │   │   inner_content: `10K`
+│   │   │   │   │   attrs_dict:
+│   │   │   │   │   │   raw_content: #00F
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `10K`
+│   │   │   │   │   │   inner_content: `10K`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `__ every other week`
+│   │   │   │   │   inner_content: `__ every other week`
+│   │   ├── TableRowNode
+│   │   │   full_match: ` |Obese|~~#00F:10K~~__  5 per month`
+│   │   │   inner_content: ` |Obese|~~#00F:10K~~__  5 per month`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` `
+│   │   │   │   │   inner_content: ` `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Obese`
+│   │   │   │   inner_content: `Obese`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Obese`
+│   │   │   │   │   inner_content: `Obese`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `~~#00F:10K~~__  5 per month`
+│   │   │   │   inner_content: `~~#00F:10K~~__  5 per month`
+│   │   │   │   children:
+│   │   │   │   ├── ColorNode
+│   │   │   │   │   full_match: `~~#00F:10K~~`
+│   │   │   │   │   inner_content: `10K`
+│   │   │   │   │   attrs_dict:
+│   │   │   │   │   │   raw_content: #00F
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `10K`
+│   │   │   │   │   │   inner_content: `10K`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `__  5 per month`
+│   │   │   │   │   inner_content: `__  5 per month`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;24&quot;)}__ The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity__{FONT}`
@@ -2423,8 +2670,38 @@ AST Structure:
 │   │   inner_content: `After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting`
-│   │   │   inner_content: `After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting`├── TextNode
+│   │   │   full_match: `After your vitamin D level has plateaued`
+│   │   │   inner_content: `After your vitamin D level has plateaued`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `You will experience fat/weight loss if you stress your body by:`
+│   │   │   inner_content: `You will experience fat/weight loss if you stress your body by:`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `1) Exercise`
+│   │   │   inner_content: `1) Exercise`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `2) Calorie restrictive diet`
+│   │   │   inner_content: `2) Calorie restrictive diet`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: `3) Intermitant fasting`
+│   │   │   inner_content: `3) Intermitant fasting`
+│   │   ├── NewlineNode
+│   │   │   full_match: `%%%`
+│   │   │   inner_content: ``
+│   │   ├── TextNode
+│   │   │   full_match: ` 4) Water-only fasting`
+│   │   │   inner_content: ` 4) Water-only fasting`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── BoldNode
 │   full_match: `__See ((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs)) %%%~hs~~hs~((The Vitamin That Quadruples Weight Loss - Oct 2019))__`
@@ -2442,8 +2719,11 @@ AST Structure:
 │   │   │   full_match: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs`
 │   │   │   inner_content: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs`
 │   ├── TextNode
-│   │   full_match: ` %%%`
-│   │   inner_content: ` %%%`
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── NewlineNode
+│   │   full_match: `%%%`
+│   │   inner_content: ``
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``

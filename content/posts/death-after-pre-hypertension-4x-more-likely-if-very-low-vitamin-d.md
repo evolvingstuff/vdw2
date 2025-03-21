@@ -25,13 +25,12 @@ Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li & Long Zhou
 
  **Table of adjusted data by VitaminDWiki** 
 
-|| Vitamin D level|Risk of death %%%relative to >75 nmol
-
-<25 nmol| 4.1 X
-
-25-59 nmol |1.2 X
-
-50-75 nmol|1.7X||
+| | |
+| --- | --- |
+|  Vitamin D level | Risk of death <br>relative to >75 nmol |
+| <25 nmol |  4.1 X |
+| 25-59 nmol  | 1.2 X |
+| 50-75 nmol | 1.7X |
 
 Background
 
@@ -73,7 +72,7 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -92,13 +91,12 @@ Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp; Long Zhou
 
  **Table of adjusted data by VitaminDWiki** 
 
-|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol
-
-&lt;25 nmol| 4.1 X
-
-25-59 nmol |1.2 X
-
-50-75 nmol|1.7X||
+| | |
+| --- | --- |
+|  Vitamin D level | Risk of death &lt;br&gt;relative to &gt;75 nmol |
+| &lt;25 nmol |  4.1 X |
+| 25-59 nmol  | 1.2 X |
+| 50-75 nmol | 1.7X |
 
 Background
 
@@ -201,8 +199,93 @@ AST Structure:
 │   │   │   full_match: `Table of adjusted data by VitaminDWiki`
 │   │   │   inner_content: `Table of adjusted data by VitaminDWiki`
 │   ├── TextNode
-│   │   full_match: `\n|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||\n`
-│   │   inner_content: `\n|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||\n`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── TableNode
+│   │   full_match: `|| Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X||`
+│   │   inner_content: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol\n&lt;25 nmol| 4.1 X\n25-59 nmol |1.2 X\n50-75 nmol|1.7X`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol`
+│   │   │   inner_content: ` Vitamin D level|Risk of death %%%relative to &gt;75 nmol`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Vitamin D level`
+│   │   │   │   inner_content: ` Vitamin D level`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Vitamin D level`
+│   │   │   │   │   inner_content: ` Vitamin D level`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Risk of death %%%relative to &gt;75 nmol`
+│   │   │   │   inner_content: `Risk of death %%%relative to &gt;75 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Risk of death `
+│   │   │   │   │   inner_content: `Risk of death `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `relative to &gt;75 nmol`
+│   │   │   │   │   inner_content: `relative to &gt;75 nmol`
+│   │   ├── TableRowNode
+│   │   │   full_match: `&lt;25 nmol| 4.1 X`
+│   │   │   inner_content: `&lt;25 nmol| 4.1 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `&lt;25 nmol`
+│   │   │   │   inner_content: `&lt;25 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `&lt;25 nmol`
+│   │   │   │   │   inner_content: `&lt;25 nmol`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` 4.1 X`
+│   │   │   │   inner_content: ` 4.1 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` 4.1 X`
+│   │   │   │   │   inner_content: ` 4.1 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `25-59 nmol |1.2 X`
+│   │   │   inner_content: `25-59 nmol |1.2 X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `25-59 nmol `
+│   │   │   │   inner_content: `25-59 nmol `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `25-59 nmol `
+│   │   │   │   │   inner_content: `25-59 nmol `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1.2 X`
+│   │   │   │   inner_content: `1.2 X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1.2 X`
+│   │   │   │   │   inner_content: `1.2 X`
+│   │   ├── TableRowNode
+│   │   │   full_match: `50-75 nmol|1.7X`
+│   │   │   inner_content: `50-75 nmol|1.7X`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `50-75 nmol`
+│   │   │   │   inner_content: `50-75 nmol`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `50-75 nmol`
+│   │   │   │   │   inner_content: `50-75 nmol`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1.7X`
+│   │   │   │   inner_content: `1.7X`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1.7X`
+│   │   │   │   │   inner_content: `1.7X`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\nBackground\nPrehypertension affects 25–50% of adults worldwide and no prior study has examined the relationship between serum 25-hydroxyvitamin D `
 │   inner_content: `\nBackground\nPrehypertension affects 25–50% of adults worldwide and no prior study has examined the relationship between serum 25-hydroxyvitamin D `├── LinkNode
 │   full_match: `[25(OH)D]`

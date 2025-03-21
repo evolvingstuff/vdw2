@@ -31,29 +31,20 @@ Hopefully the symptoms have not changed with the
 
  
 
-||8 points|Loss of smell or taste
-
-7 points |Post-exertional malaise
-
-4 points |Chronic cough
-
-3 points|Brain fog
-
-3 points|Thirst
-
-2 points| Heart palpitations: 
-
-2 points|Chest pain
-
-1 point|Fatigue
-
-1 point|Dizziness
-
-1 point|Gastrointestinal symptoms
-
-1 point|Issues with sexual desire or capacity
-
-1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||
+| | |
+| --- | --- |
+| 8 points | Loss of smell or taste |
+| 7 points  | Post-exertional malaise |
+| 4 points  | Chronic cough |
+| 3 points | Brain fog |
+| 3 points | Thirst |
+| 2 points |  Heart palpitations:  |
+| 2 points | Chest pain |
+| 1 point | Fatigue |
+| 1 point | Dizziness |
+| 1 point | Gastrointestinal symptoms |
+| 1 point | Issues with sexual desire or capacity |
+| 1 point | Abnormal movements (including tremors, <br>slowed movements, rigidity, or <br>sudden, unintended and uncontrollable jerky movements) |
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -64,7 +55,7 @@ Hopefully the symptoms have not changed with the
 <!-- ~tc~ (alias(You have long-COVID if you have more than 12 points - May 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
@@ -89,29 +80,20 @@ Hopefully the symptoms have not changed with the
 
  
 
-||8 points|Loss of smell or taste
-
-7 points |Post-exertional malaise
-
-4 points |Chronic cough
-
-3 points|Brain fog
-
-3 points|Thirst
-
-2 points| Heart palpitations: 
-
-2 points|Chest pain
-
-1 point|Fatigue
-
-1 point|Dizziness
-
-1 point|Gastrointestinal symptoms
-
-1 point|Issues with sexual desire or capacity
-
-1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||
+| | |
+| --- | --- |
+| 8 points | Loss of smell or taste |
+| 7 points  | Post-exertional malaise |
+| 4 points  | Chronic cough |
+| 3 points | Brain fog |
+| 3 points | Thirst |
+| 2 points |  Heart palpitations:  |
+| 2 points | Chest pain |
+| 1 point | Fatigue |
+| 1 point | Dizziness |
+| 1 point | Gastrointestinal symptoms |
+| 1 point | Issues with sexual desire or capacity |
+| 1 point | Abnormal movements (including tremors, &lt;br&gt;slowed movements, rigidity, or &lt;br&gt;sudden, unintended and uncontrollable jerky movements) |
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -213,8 +195,243 @@ AST Structure:
 │   │   size: 20
 │   children:
 │   ├── TextNode
-│   │   full_match: ` \n||8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||\n`
-│   │   inner_content: ` \n||8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||\n`├── TextNode
+│   │   full_match: ` \n`
+│   │   inner_content: ` \n`
+│   ├── TableNode
+│   │   full_match: `||8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||`
+│   │   inner_content: `8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
+│   │   children:
+│   │   ├── TableRowNode
+│   │   │   full_match: `8 points|Loss of smell or taste`
+│   │   │   inner_content: `8 points|Loss of smell or taste`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `8 points`
+│   │   │   │   inner_content: `8 points`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `8 points`
+│   │   │   │   │   inner_content: `8 points`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Loss of smell or taste`
+│   │   │   │   inner_content: `Loss of smell or taste`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Loss of smell or taste`
+│   │   │   │   │   inner_content: `Loss of smell or taste`
+│   │   ├── TableRowNode
+│   │   │   full_match: `7 points |Post-exertional malaise`
+│   │   │   inner_content: `7 points |Post-exertional malaise`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `7 points `
+│   │   │   │   inner_content: `7 points `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `7 points `
+│   │   │   │   │   inner_content: `7 points `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Post-exertional malaise`
+│   │   │   │   inner_content: `Post-exertional malaise`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Post-exertional malaise`
+│   │   │   │   │   inner_content: `Post-exertional malaise`
+│   │   ├── TableRowNode
+│   │   │   full_match: `4 points |Chronic cough`
+│   │   │   inner_content: `4 points |Chronic cough`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `4 points `
+│   │   │   │   inner_content: `4 points `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `4 points `
+│   │   │   │   │   inner_content: `4 points `
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Chronic cough`
+│   │   │   │   inner_content: `Chronic cough`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Chronic cough`
+│   │   │   │   │   inner_content: `Chronic cough`
+│   │   ├── TableRowNode
+│   │   │   full_match: `3 points|Brain fog`
+│   │   │   inner_content: `3 points|Brain fog`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `3 points`
+│   │   │   │   inner_content: `3 points`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `3 points`
+│   │   │   │   │   inner_content: `3 points`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Brain fog`
+│   │   │   │   inner_content: `Brain fog`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Brain fog`
+│   │   │   │   │   inner_content: `Brain fog`
+│   │   ├── TableRowNode
+│   │   │   full_match: `3 points|Thirst`
+│   │   │   inner_content: `3 points|Thirst`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `3 points`
+│   │   │   │   inner_content: `3 points`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `3 points`
+│   │   │   │   │   inner_content: `3 points`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Thirst`
+│   │   │   │   inner_content: `Thirst`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Thirst`
+│   │   │   │   │   inner_content: `Thirst`
+│   │   ├── TableRowNode
+│   │   │   full_match: `2 points| Heart palpitations: `
+│   │   │   inner_content: `2 points| Heart palpitations: `
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2 points`
+│   │   │   │   inner_content: `2 points`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2 points`
+│   │   │   │   │   inner_content: `2 points`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: ` Heart palpitations: `
+│   │   │   │   inner_content: ` Heart palpitations: `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: ` Heart palpitations: `
+│   │   │   │   │   inner_content: ` Heart palpitations: `
+│   │   ├── TableRowNode
+│   │   │   full_match: `2 points|Chest pain`
+│   │   │   inner_content: `2 points|Chest pain`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `2 points`
+│   │   │   │   inner_content: `2 points`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `2 points`
+│   │   │   │   │   inner_content: `2 points`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Chest pain`
+│   │   │   │   inner_content: `Chest pain`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Chest pain`
+│   │   │   │   │   inner_content: `Chest pain`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1 point|Fatigue`
+│   │   │   inner_content: `1 point|Fatigue`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1 point`
+│   │   │   │   inner_content: `1 point`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 point`
+│   │   │   │   │   inner_content: `1 point`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Fatigue`
+│   │   │   │   inner_content: `Fatigue`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Fatigue`
+│   │   │   │   │   inner_content: `Fatigue`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1 point|Dizziness`
+│   │   │   inner_content: `1 point|Dizziness`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1 point`
+│   │   │   │   inner_content: `1 point`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 point`
+│   │   │   │   │   inner_content: `1 point`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Dizziness`
+│   │   │   │   inner_content: `Dizziness`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Dizziness`
+│   │   │   │   │   inner_content: `Dizziness`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1 point|Gastrointestinal symptoms`
+│   │   │   inner_content: `1 point|Gastrointestinal symptoms`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1 point`
+│   │   │   │   inner_content: `1 point`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 point`
+│   │   │   │   │   inner_content: `1 point`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Gastrointestinal symptoms`
+│   │   │   │   inner_content: `Gastrointestinal symptoms`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Gastrointestinal symptoms`
+│   │   │   │   │   inner_content: `Gastrointestinal symptoms`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1 point|Issues with sexual desire or capacity`
+│   │   │   inner_content: `1 point|Issues with sexual desire or capacity`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1 point`
+│   │   │   │   inner_content: `1 point`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 point`
+│   │   │   │   │   inner_content: `1 point`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Issues with sexual desire or capacity`
+│   │   │   │   inner_content: `Issues with sexual desire or capacity`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Issues with sexual desire or capacity`
+│   │   │   │   │   inner_content: `Issues with sexual desire or capacity`
+│   │   ├── TableRowNode
+│   │   │   full_match: `1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
+│   │   │   inner_content: `1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
+│   │   │   children:
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `1 point`
+│   │   │   │   inner_content: `1 point`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 point`
+│   │   │   │   │   inner_content: `1 point`
+│   │   │   ├── TableCellNode
+│   │   │   │   full_match: `Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
+│   │   │   │   inner_content: `Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Abnormal movements (including tremors, `
+│   │   │   │   │   inner_content: `Abnormal movements (including tremors, `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `slowed movements, rigidity, or `
+│   │   │   │   │   inner_content: `slowed movements, rigidity, or `
+│   │   │   │   ├── NewlineNode
+│   │   │   │   │   full_match: `%%%`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `sudden, unintended and uncontrollable jerky movements)`
+│   │   │   │   │   inner_content: `sudden, unintended and uncontrollable jerky movements)`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19592&quot; width=&quot;700&quot;}`

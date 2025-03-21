@@ -10,11 +10,13 @@ categories:
 ---
 
 
-||Response to Vitamin D |Additional Diseases Treated
 
-<img src="/attachments/d3.mock.jpg" alt="image" width="300">|A%%%B %%%C
+| | |
+| --- | --- |
+| Response to Vitamin D  | Additional Diseases Treated |
+| <img src="/attachments/d3.mock.jpg" alt="image" width="300"> | A<br>B <br>C
 
-| ||
+ |   |
 
 <a href="/posts/vitamindwiki-interview-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022">VitaminDWiki interview and transcript - Jan 2022</a>
 
@@ -34,15 +36,17 @@ categories:
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
-||Response to Vitamin D |Additional Diseases Treated
 
-&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;|A%%%B %%%C
+| | |
+| --- | --- |
+| Response to Vitamin D  | Additional Diseases Treated |
+| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt; | A&lt;br&gt;B &lt;br&gt;C
 
-| ||
+ |   |
 
 &lt;a href=&quot;/posts/vitamindwiki-interview-and-transcript&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022&quot;&gt;VitaminDWiki interview and transcript - Jan 2022&lt;/a&gt;
 
@@ -64,18 +68,72 @@ Markdown:
 
 AST Structure:
 -------------
-├── TextNode
-│   full_match: `||Response to Vitamin D |Additional Diseases Treated\n`
-│   inner_content: `||Response to Vitamin D |Additional Diseases Treated\n`├── ImgNode
-│   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
-│   inner_content: ``
-│   attrs_dict:
-│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;
-│   │   type: attId
-│   │   attId: 19707
-│   │   width: 300├── TextNode
-│   full_match: `|A%%%B %%%C\n| ||\n\n`
-│   inner_content: `|A%%%B %%%C\n| ||\n\n`├── LocalLinkNode
+├── TableNode
+│   full_match: `||Response to Vitamin D |Additional Diseases Treated\n{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| ||`
+│   inner_content: `Response to Vitamin D |Additional Diseases Treated\n{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Response to Vitamin D |Additional Diseases Treated`
+│   │   inner_content: `Response to Vitamin D |Additional Diseases Treated`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Response to Vitamin D `
+│   │   │   inner_content: `Response to Vitamin D `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Response to Vitamin D `
+│   │   │   │   inner_content: `Response to Vitamin D `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Additional Diseases Treated`
+│   │   │   inner_content: `Additional Diseases Treated`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Additional Diseases Treated`
+│   │   │   │   inner_content: `Additional Diseases Treated`
+│   ├── TableRowNode
+│   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   │   inner_content: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C\n| `
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   inner_content: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   children:
+│   │   │   ├── ImgNode
+│   │   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   │   │   │   inner_content: ``
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content:  type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;
+│   │   │   │   │   type: attId
+│   │   │   │   │   attId: 19707
+│   │   │   │   │   width: 300
+│   │   ├── TableCellNode
+│   │   │   full_match: `A%%%B %%%C\n`
+│   │   │   inner_content: `A%%%B %%%C\n`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `A`
+│   │   │   │   inner_content: `A`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `B `
+│   │   │   │   inner_content: `B `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `C\n`
+│   │   │   │   inner_content: `C\n`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── LocalLinkNode
 │   full_match: `((VitaminDWiki interview and transcript - Jan 2022))`
 │   inner_content: `VitaminDWiki interview and transcript - Jan 2022`
 │   page: `VitaminDWiki interview and transcript - Jan 2022`

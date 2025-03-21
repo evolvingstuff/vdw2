@@ -58,7 +58,7 @@ Conclusion: To sum up, the efficacy of intermittent vitamin D supplementation wa
 <!-- ~tc~ (alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

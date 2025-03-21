@@ -100,7 +100,7 @@ Bone Fractures, <a href="/posts/vitamin-k-cardiovascular-health-and-stroke-many-
 <!-- ~tc~ (alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

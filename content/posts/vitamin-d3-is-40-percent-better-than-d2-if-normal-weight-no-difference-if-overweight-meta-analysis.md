@@ -67,7 +67,7 @@ Previous meta-analyses suggest that vitamin D3 may be more potent in increasing 
 <!-- ~tc~ (alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

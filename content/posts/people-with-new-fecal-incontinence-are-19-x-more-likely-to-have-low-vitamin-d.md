@@ -132,7 +132,7 @@ Conclusion & inferences: Patients with FI had higher rates of vitamin-D deficien
 <!-- ~tc~ (alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

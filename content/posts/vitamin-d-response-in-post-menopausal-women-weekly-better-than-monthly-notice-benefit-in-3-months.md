@@ -58,7 +58,7 @@ Conclusions: Supplementation with calcifediol is more effective and faster compa
 #### VitaminDWiki - [Menopause delayed and symptoms decreased by Vitamin D - many studies](/posts/menopause-delayed-and-symptoms-decreased-by-vitamin-d-many-studies)
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

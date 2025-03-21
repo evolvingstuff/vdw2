@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Breast Cancer not prevented by vitamin D when use small doses or for just a short time – Meta-analysis</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742566338">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="/css/main.css?v=1742575830">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742566338"></script>
+    <script src="/js/search.js?v=1742575830"></script>
 </head>
 <body>
     <div class="container">
@@ -302,7 +302,7 @@
     <article>
         <h1>Breast Cancer not prevented by vitamin D when use small doses or for just a short time – Meta-analysis</h1>
         <time>May 11, 2023</time>
-        <p><strong><span style="color:orange;">The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?</span></strong></p>
+        <p><strong><span style="color:orange;">The study looked at &gt;2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?</span></strong></p>
 <p><strong><a href="https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss">30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023</a></strong></p>
 <!-- {maketoc Title=""} -->
 <hr>
@@ -321,11 +321,11 @@
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 82  OR categId = 42 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
 <p></span>   Meta-analysis of Breast Cancer (both prevention and treatment)</p>
 <p>This list is automatically updated</p>
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
 
  **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss)** 
 
@@ -387,8 +387,14 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?`
-│   │   │   │   inner_content: `The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?`├── TextNode
+│   │   │   │   full_match: `The study looked at &gt;2,000 studies. `
+│   │   │   │   inner_content: `The study looked at &gt;2,000 studies. `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Wonder how much they were paid to find the 10 studies that did not find a benefit?`
+│   │   │   │   inner_content: `Wonder how much they were paid to find the 10 studies that did not find a benefit?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__[https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss|30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023]__`
@@ -571,7 +577,7 @@ Conclusion: There is insufficient evidence to support the efficacy of vitamin D 
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script src="/js/lightspa.js?v=1742575830"></script>
     <script>
         
         const spa = new LightSPA({
@@ -581,8 +587,8 @@ Conclusion: There is insufficient evidence to support the efficacy of vitamin D 
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742566338',
-            indexUrl: '\/js\/search_index.json?v=1742566338'
+            documentsUrl: '\/js\/search_documents.json?v=1742575830',
+            indexUrl: '\/js\/search_index.json?v=1742575830'
         });
     </script>
 </body>

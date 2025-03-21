@@ -44,7 +44,7 @@ categories:
 <!-- ~tc~ (alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

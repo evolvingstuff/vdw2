@@ -92,7 +92,7 @@ https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
 <!-- ~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

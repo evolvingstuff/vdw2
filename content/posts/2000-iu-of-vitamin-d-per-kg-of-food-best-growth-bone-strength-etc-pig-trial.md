@@ -52,7 +52,7 @@ The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking st
 <!-- ~tc~ (alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

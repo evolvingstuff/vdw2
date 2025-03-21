@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D </span>** 
+ **<span style="color:orange;">Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D </span>** 
 
 <!-- {maketoc Title=""} -->
  
@@ -81,11 +81,11 @@ This list is automatically updated
 
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D &lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D &lt;/span&gt;** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
  
@@ -179,8 +179,14 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D `
-│   │   │   │   inner_content: `Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D `├── TextNode
+│   │   │   │   full_match: `Note: The survey did not ask about vitamin D supplementation. `
+│   │   │   │   inner_content: `Note: The survey did not ask about vitamin D supplementation. `
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `People on a plant-based diet have less diabetes and may also supplement with Vitamin D `
+│   │   │   │   inner_content: `People on a plant-based diet have less diabetes and may also supplement with Vitamin D `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`

@@ -54,7 +54,7 @@ Prospero registration number: CRD42022287057.
 
 * <a href="/posts/recommended-increasing-vitamin-d-for-space-flight-nasa" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recommended increasing vitamin D for space flight – NASA Sept 2013">Recommended increasing vitamin D for space flight – NASA Sept 2013</a>
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------

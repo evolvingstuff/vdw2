@@ -50,7 +50,7 @@ In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/
 <!-- ~tc~ (alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) ~/tc~ -->
 
 
-<pre style="background-color: #e0e0e0;">
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
