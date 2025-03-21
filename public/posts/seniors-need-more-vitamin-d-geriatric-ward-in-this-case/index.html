@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Seniors need more Vitamin D (Geriatric Ward in this case)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Seniors need more Vitamin D (Geriatric Ward in this case)</h1>
+        <time>January 24, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="vitamin-d-status-among-patients-admitted-to-a-geriatric-ward-are-recommendations-for-preventing-its-deficiency-effective-enough">Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?</h4>
+<p>Nutrients 2024 Jan 6;16(2):193. <a href="https://doi.org/10.3390/nu16020193.">doi: 10.3390/nu16020193.</a></p>
+<p>Maksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="200">
+<p>Despite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old.</p>
+<p>The median 25(OH)D concentration was found to be 22.95 (IQR, 13.7-33.0) ng/mL.</p>
+<p>Notably, profound deficiency (&lt;10 ng/mL) was noted in 15% of the participants, while 67.5% exhibited VD inadequacy (&lt;30 ng/mL).</p>
+<p>It is worth mentioning that only 18.3% of individuals took VD supplements preadmission. Insufficiency was more prevalent in nonsupplemented individuals (70.9% vs. 52.3%, p = 0.02) and those with a BMI ≥30 kg/m2 (76.2% vs. 59.2%, p = 0.007).</p>
+<p>The logistic regression model demonstrated that obese patients had over two times higher odds of VD inadequacy (OR = 2.21, p = 0.0074), as did nonsupplemented individuals (OR = 2.23, p = 0.0187). The high prevalence of VD deficiency and inadequacy in geriatric ward admissions emphasizes the urgent need for targeted interventions and enhanced education for older adults, caregivers, and physicians to improve adherence to preventive supplementation practices.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="vitamindwiki--a-hrefposts13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level---july-202313-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level---july-2023a">VitaminDWiki – <a href="/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023">13 reasons why many seniors need more vitamin D (both dose and level) - July 2023</a></h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostselderly-often-trapped-in-vitamin-d-vicious-circles-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-elderly-often-trapped-in-vitamin-d-vicious-circleselderly-often-trapped-in-vitamin-d-vicious-circlesa">VitaminDWiki – <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Elderly often trapped in vitamin D vicious circles">Elderly often trapped in vitamin D vicious circles</a></h4>
+ <img src="/attachments/d3.mock.jpg" alt="image">
+<!-- ~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?
+
+Nutrients 2024 Jan 6;16(2):193. [doi: 10.3390/nu16020193.](https://doi.org/10.3390/nu16020193.)
+
+Maksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
+
+Despite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old. 
+
+The median 25(OH)D concentration was found to be 22.95 (IQR, 13.7-33.0) ng/mL. 
+
+Notably, profound deficiency (&lt;10 ng/mL) was noted in 15% of the participants, while 67.5% exhibited VD inadequacy (&lt;30 ng/mL). 
+
+It is worth mentioning that only 18.3% of individuals took VD supplements preadmission. Insufficiency was more prevalent in nonsupplemented individuals (70.9% vs. 52.3%, p = 0.02) and those with a BMI ≥30 kg/m2 (76.2% vs. 59.2%, p = 0.007). 
+
+The logistic regression model demonstrated that obese patients had over two times higher odds of VD inadequacy (OR = 2.21, p = 0.0074), as did nonsupplemented individuals (OR = 2.23, p = 0.0187). The high prevalence of VD deficiency and inadequacy in geriatric ward admissions emphasizes the urgent need for targeted interventions and enhanced education for older adults, caregivers, and physicians to improve adherence to preventive supplementation practices.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot;&gt;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&lt;/a&gt;
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/elderly-often-trapped-in-vitamin-d-vicious-circles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Elderly often trapped in vitamin D vicious circles&quot;&gt;Elderly often trapped in vitamin D vicious circles&lt;/a&gt;
+
+ &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+&lt;!-- ~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?`
+│   inner_content: `Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?`
+│   │   inner_content: `Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?`├── TextNode
+│   full_match: `\nNutrients 2024 Jan 6;16(2):193. `
+│   inner_content: `\nNutrients 2024 Jan 6;16(2):193. `├── DoiLinkNode
+│   full_match: `doi: 10.3390/nu16020193.`
+│   inner_content: `10.3390/nu16020193.`├── TextNode
+│   full_match: `\nMaksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4\n\n`
+│   inner_content: `\nMaksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20700&quot; width=&quot;200&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20700&quot; width=&quot;200&quot;
+│   │   type: attId
+│   │   attId: 20700
+│   │   width: 200├── TextNode
+│   full_match: `\nDespite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old. \nThe median 25(OH)D concentration was found to be 22.95 (IQR, 13.7-33.0) ng/mL. \nNotably, profound deficiency (&lt;10 ng/mL) was noted in 15% of the participants, while 67.5% exhibited VD inadequacy (&lt;30 ng/mL). \nIt is worth mentioning that only 18.3% of individuals took VD supplements preadmission. Insufficiency was more prevalent in nonsupplemented individuals (70.9% vs. 52.3%, p = 0.02) and those with a BMI ≥30 kg/m2 (76.2% vs. 59.2%, p = 0.007). \nThe logistic regression model demonstrated that obese patients had over two times higher odds of VD inadequacy (OR = 2.21, p = 0.0074), as did nonsupplemented individuals (OR = 2.23, p = 0.0187). The high prevalence of VD deficiency and inadequacy in geriatric ward admissions emphasizes the urgent need for targeted interventions and enhanced education for older adults, caregivers, and physicians to improve adherence to preventive supplementation practices.\n`
+│   inner_content: `\nDespite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old. \nThe median 25(OH)D concentration was found to be 22.95 (IQR, 13.7-33.0) ng/mL. \nNotably, profound deficiency (&lt;10 ng/mL) was noted in 15% of the participants, while 67.5% exhibited VD inadequacy (&lt;30 ng/mL). \nIt is worth mentioning that only 18.3% of individuals took VD supplements preadmission. Insufficiency was more prevalent in nonsupplemented individuals (70.9% vs. 52.3%, p = 0.02) and those with a BMI ≥30 kg/m2 (76.2% vs. 59.2%, p = 0.007). \nThe logistic regression model demonstrated that obese patients had over two times higher odds of VD inadequacy (OR = 2.21, p = 0.0074), as did nonsupplemented individuals (OR = 2.23, p = 0.0187). The high prevalence of VD deficiency and inadequacy in geriatric ward admissions emphasizes the urgent need for targeted interventions and enhanced education for older adults, caregivers, and physicians to improve adherence to preventive supplementation practices.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20699
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023)) `
+│   inner_content: `VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023))`
+│   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   page: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`
+│   │   │   inner_content: `13 reasons why many seniors need more vitamin D (both dose and level) - July 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Elderly often trapped in vitamin D vicious circles))`
+│   inner_content: `VitaminDWiki – ((Elderly often trapped in vitamin D vicious circles))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Elderly often trapped in vitamin D vicious circles))`
+│   │   inner_content: `Elderly often trapped in vitamin D vicious circles`
+│   │   page: `Elderly often trapped in vitamin D vicious circles`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Elderly often trapped in vitamin D vicious circles`
+│   │   │   inner_content: `Elderly often trapped in vitamin D vicious circles`├── TextNode
+│   full_match: `\n `
+│   inner_content: `\n `├── ImgNode
+│   full_match: `{img fileId=1461}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=1461
+│   │   fileId: 1461├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~`
+│   inner_content: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
+│   │   inner_content: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Vitamin D Status among Patients Admitted to a Geriatric Ward-Are Recommendations for Preventing Its Deficiency Effective Enough?
+Nutrients 2024 Jan 6;16(2):193. doi: 10.3390/nu16020193.
+Maksymilian Adam Lech 1, Marcin Warpechowski 1, Aleksandra Wojszel 1, Justyna Rentflejsz 2 3 4, Marta Świętek 4, Zyta Beata Wojszel 3 4
+
+{img type=&quot;attId&quot; attId=&quot;20700&quot; width=&quot;200&quot;}
+Despite a decade of available recommendations aimed at preventing vitamin D (VD) deficiency in Poland, the efficacy of these measures among community-dwelling older individuals remains inconsistent. The PolSenior2 study provided valuable insights into VD status among community-dwelling older individuals in Poland. However, it is important to note that this research did not include the elderly living in care institutions. Therefore, our study concentrates on evaluating VD status in older patients admitted to a geriatrics ward to indirectly assess their adherence to existing recommendations and preventive actions in this particular setting (whether they translate into health-promoting behaviors (i.e., taking vitamin D supplements) and whether the recommended, optimal 25(OH)D concentration values are achieved). This approach offers a comprehensive understanding of VD status in a previously understudied population. We aimed to evaluate VD status in patients aged 70 and above within the geriatrics ward, exploring its association with age, sex, BMI, and the use of VD supplements. The study involved the measurement of serum VD concentration in 240 individuals. Of these participants, 177 (73.8%) were women, and 193 (80.4%) were over 75 years old. 
+The median 25(OH)D concentration was found to be 22.95 (IQR, 13.7-33.0) ng/mL. 
+Notably, profound deficiency (&lt;10 ng/mL) was noted in 15% of the participants, while 67.5% exhibited VD inadequacy (&lt;30 ng/mL). 
+It is worth mentioning that only 18.3% of individuals took VD supplements preadmission. Insufficiency was more prevalent in nonsupplemented individuals (70.9% vs. 52.3%, p = 0.02) and those with a BMI ≥30 kg/m2 (76.2% vs. 59.2%, p = 0.007). 
+The logistic regression model demonstrated that obese patients had over two times higher odds of VD inadequacy (OR = 2.21, p = 0.0074), as did nonsupplemented individuals (OR = 2.23, p = 0.0187). The high prevalence of VD deficiency and inadequacy in geriatric ward admissions emphasizes the urgent need for targeted interventions and enhanced education for older adults, caregivers, and physicians to improve adherence to preventive supplementation practices.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20699&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki – ((13 reasons why many seniors need more vitamin D (both dose and level) - July 2023)) 
+{include page=&quot;13 reasons why many seniors need more vitamin D (both dose and level) - July 2023&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Elderly often trapped in vitamin D vicious circles))
+ {img fileId=1461}
+
+~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

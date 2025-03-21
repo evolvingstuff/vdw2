@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer - Lymphoma on VitaminDWiki</title>
+    <link>http://localhost:1313/categories/cancer---lymphoma/</link>
+    <description>Recent content in Cancer - Lymphoma on VitaminDWiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cancer---lymphoma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lymphoma treated by Vitamin D - many studies</title>
+      <link>http://localhost:1313/posts/lymphoma-treated-by-vitamin-d-many-studies/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lymphoma-treated-by-vitamin-d-many-studies/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;span-stylecolororange12span-vitamindwiki-pages-have-lymphoma-in-the-title&#34;&gt;&lt;span style=&#34;color:orange;&#34;&gt;12+&lt;/span&gt; VitaminDWiki pages have LYMPHOMA in the title&lt;/h4&gt;&#xA;&lt;p&gt;This list is automatically updated&lt;/p&gt;&#xA;&lt;p&gt;{LIST()}&lt;/p&gt;&#xA;&lt;p&gt;{list max=&amp;ldquo;150&amp;rdquo;}&lt;/p&gt;&#xA;&lt;!-- {filter field=&#34;title&#34; content=&#34;LYMPHOMA&#34;} --&gt;&#xA;&lt;!-- {filter type=&#34;wiki page&#34;} --&gt;&#xA;&lt;p&gt;{sort mode=&amp;ldquo;modification_date_major_desc&amp;rdquo;}&lt;/p&gt;&#xA;&lt;p&gt;{OUTPUT(template=&amp;ldquo;table&amp;rdquo;)}&lt;/p&gt;&#xA;&lt;p&gt;{tableparams allowtableexpansion=&amp;ldquo;n&amp;rdquo; shownbitems=&amp;ldquo;y&amp;rdquo; title=&amp;quot;&amp;quot;}&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}&#xA;&#xA;{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;{OUTPUT}&lt;/p&gt;&#xA;&lt;p&gt;{FORMAT(name=&amp;ldquo;title&amp;rdquo;)}{display name=title format=&amp;ldquo;objectlink&amp;rdquo;}{FORMAT}&lt;/p&gt;&#xA;&lt;p&gt;{FORMAT(name=&amp;ldquo;modification_date_major&amp;rdquo;)}{display name=modification_date_major format=&amp;ldquo;date&amp;rdquo;}{FORMAT}&lt;/p&gt;&#xA;&lt;p&gt;{LIST}&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamin-d-is-one-of-the-lymphoma-treatments---dec-2023&#34;&gt;Vitamin D is one of the Lymphoma treatments - Dec 2023&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Integrative Approaches in the Treatment of Patients Affected by Lymphoma&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

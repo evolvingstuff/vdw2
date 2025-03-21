@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Better cognition associated with higher Omega-3 index</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Better cognition associated with higher Omega-3 index</h1>
+        <time>November 1, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="omega-3-fatty-acids-cognition-and-brain-volume-in-older-adults">Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults</h4>
+<p>Brain Sci. 2023, 13, 1278. <a href="https://doi.org/">https://doi.org/</a> 10.3390/brainsci13091278</p>
+<p>Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Grace J. Lee 1'*</p>
+<ul>
+<li>
+<p>Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; <a href="mailto:sloong@students.llu.edu">sloong@students.llu.edu</a></p>
+</li>
+<li>
+<p>Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; <a href="mailto:sabarnes@llu.edu">sabarnes@llu.edu</a> (S.B.)</p>
+</li>
+<li>
+<p>School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; <a href="mailto:ngatto@llu.edu">ngatto@llu.edu</a></p>
+<ul>
+<li>Correspondence: <a href="mailto:gracelee@llu.edu">gracelee@llu.edu</a></li>
+</ul>
+</li>
+</ul>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>The elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega- 3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall.</p>
+<p>This exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="vitamindwiki--">VitaminDWiki -</h4>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
+<pre><code>   studies in both categories Cognitive and Omega-3
+</code></pre>
+<p>This list is automatically updated</p>
+<hr>
+<h4 id="vitamindwiki--cognitivecategoriescognitive-category-contains">VitaminDWiki – <a href="/categories/cognitive">Cognitive</a> category contains:</h4>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostsvitamin-d-and-omega-3omega-3-helps-many-health-problems-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-and-omega-3omega-3-helps-many-health-problemsvitamin-d-and-omega-3omega-3-helps-many-health-problemsa">VitaminDWiki - <a href="/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems">Vitamin D and Omega-3|Omega-3 helps many health problems</a></h4>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostsoverview-omega-3-many-benefits-include-helping-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-omega-3-many-benefits-include-helping-vitamin-doverview-omega-3-many-benefits-include-helping-vitamin-da">VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a></h4>
+<hr>
+<h4 id="vitamindwiki-founder-was-unable-to-get-his-omega-3-index-4-until-he-reduced-omega-6-intake">VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake</h4>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults
+
+Brain Sci. 2023, 13, 1278. https://doi.org/ 10.3390/brainsci13091278
+
+Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Grace J. Lee 1&#39;*
+
+* Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu
+
+* Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)
+
+* School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
+
+  *  Correspondence: gracelee@llu.edu
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+The elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega- 3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall. 
+
+This exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### VitaminDWiki -  
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
+       studies in both categories Cognitive and Omega-3
+
+This list is automatically updated
+
+---
+
+#### VitaminDWiki – [Cognitive](/categories/cognitive) category contains:
+
+---
+
+#### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems&quot;&gt;Vitamin D and Omega-3|Omega-3 helps many health problems&lt;/a&gt;
+
+ 
+
+---
+
+#### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D&lt;/a&gt;
+
+---
+
+#### VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults`
+│   inner_content: `Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults`
+│   │   inner_content: `Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults`├── TextNode
+│   full_match: `\nBrain Sci. 2023, 13, 1278. https://doi.org/ 10.3390/brainsci13091278\nSpencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Grace J. Lee 1&#39;*\n`
+│   inner_content: `\nBrain Sci. 2023, 13, 1278. https://doi.org/ 10.3390/brainsci13091278\nSpencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Grace J. Lee 1&#39;*\n`├── ListItemNode
+│   full_match: `*Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu`
+│   inner_content: `Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu`
+│   │   inner_content: `Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)`
+│   inner_content: `Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)`
+│   │   inner_content: `Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu`
+│   inner_content: `School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu`
+│   │   inner_content: `School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `** Correspondence: gracelee@llu.edu`
+│   inner_content: ` Correspondence: gracelee@llu.edu`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: ` Correspondence: gracelee@llu.edu`
+│   │   inner_content: ` Correspondence: gracelee@llu.edu`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20329&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20329&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20329
+│   │   width: 600├── TextNode
+│   full_match: `\nThe elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega- 3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall. \n\nThis exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.\n`
+│   inner_content: `\nThe elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega- 3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall. \n\nThis exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20328
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Cognitive and Omega-3`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Cognitive and Omega-3`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Cognitive and Omega-3`
+│   │   inner_content: `       studies in both categories Cognitive and Omega-3`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;122+110&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;122+110&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 122+110
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cognitive)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cognitive)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cognitive))`
+│   │   inner_content: `Cognitive`
+│   │   page: `Cognitive`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cognitive`
+│   │   │   inner_content: `Cognitive`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cognitive&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cognitive&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cognitive
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D and Omega-3|Omega-3 helps many health problems))`
+│   inner_content: `VitaminDWiki - ((Vitamin D and Omega-3|Omega-3 helps many health problems))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D and Omega-3|Omega-3 helps many health problems))`
+│   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`
+│   │   page: `Vitamin D and Omega-3|Omega-3 helps many health problems`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`
+│   │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`├── TextNode
+│   full_match: `\n `
+│   inner_content: `\n `├── IncludeNode
+│   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Vitamin D and Omega-3
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Overview: Omega-3 many benefits include helping vitamin D))`
+│   inner_content: `VitaminDWiki - ((Overview: Omega-3 many benefits include helping vitamin D))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D))`
+│   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D`
+│   │   page: `Overview: Omega-3 many benefits include helping vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D`
+│   │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake`
+│   inner_content: `VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake`
+│   │   inner_content: `VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults
+Brain Sci. 2023, 13, 1278. https://doi.org/ 10.3390/brainsci13091278
+Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Grace J. Lee 1&#39;*
+*Department of Psychology, School of Behavioral Health, Loma Linda University, Loma Linda, CA 92350, USA; sloong@students.llu.edu
+*Department of Radiology, School of Medicine, Loma Linda University, Loma Linda, CA 92350, USA; sabarnes@llu.edu (S.B.)
+*School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
+** Correspondence: gracelee@llu.edu
+{img type=&quot;attId&quot; attId=&quot;20329&quot; width=&quot;600&quot;}
+The elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega- 3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall. 
+
+This exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20328&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Cognitive and Omega-3
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;122+110&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki – ((Cognitive)) category contains:
+{include page=&quot;Cognitive&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki - ((Vitamin D and Omega-3|Omega-3 helps many health problems))
+ {include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki - ((Overview: Omega-3 many benefits include helping vitamin D))
+---
+!!!!VitaminDWiki founder was unable to get his Omega-3 index &gt;4 until he reduced Omega-6 intake
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

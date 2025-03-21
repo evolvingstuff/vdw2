@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/main.css?v={{ now.Unix }}">
+    <link rel="stylesheet" href="/css/pagination.css?v={{ now.Unix }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="{{ "/js/search.js" | relURL }}?v={{ now.Unix }}"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                {{ range .Site.Taxonomies.categories }}
+                <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="content" role="main">
+            {{ block "main" . }}{{ end }}
+        </div>
+    </div>
+
+    <script src="{{ "/js/lightspa.js" | relURL }}?v={{ now.Unix }}"></script>
+    <script>
+        // Initialize LightSPA
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        // Initialize Search with Hugo-generated URLs
+        const search = new Search({
+            documentsUrl: '{{ "/js/search_documents.json" | relURL }}?v={{ now.Unix }}',
+            indexUrl: '{{ "/js/search_index.json" | relURL }}?v={{ now.Unix }}'
+        });
+    </script>
+</body>
+</html>

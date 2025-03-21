@@ -1,0 +1,2372 @@
+---
+title: "Sunlight and UVB provide a few more health benefits than Vitamin D (Nitric Oxide, etc.) – Weller"
+slug: "sunlight-and-uvb-provide-a-few-more-health-benefits-than-vitamin-d-nitric-oxide-etc-weller"
+aliases:
+  - "/Sunlight+and+UVB+provide+a+few+more+health+benefits+than+Vitamin+D+Nitric+Oxide+etc+–+Weller+April+2024"
+  - "/tiki-index.php?page_id=15240"
+date: 2024-04-26
+categories:
+  - "Noontime sun and D"
+  - "UV and Vitamin D"
+---
+
+
+
+<!-- {maketoc Title=""} -->
+
+---
+
+#### Sunlight: Time for a Rethink?
+
+Review J Invest Dermatol . 2024 Apr 24:S0022-202X(24)00280-X. [doi: 10.1016/j.jid.2023.12.027](https://doi.org/10.1016/j.jid.2023.12.027)
+
+Richard B Weller 1
+
+UVR is a skin carcinogen, yet no studies link sun exposure to increased all-cause mortality. Epidemiological studies from the United Kingdom and Sweden link sun exposure with reduced all-cause, cardiovascular, and cancer mortality. Vitamin D synthesis is dependent on UVB exposure. Individuals with higher serum levels of vitamin D are healthier in many ways, yet multiple trials of oral vitamin D supplementation show little benefit. Growing evidence shows that sunlight has health benefits through vitamin D-independent pathways, such as photomobilization of  **nitric oxide**  from cutaneous stores with reduction in cardiovascular morbidity. Sunlight has important systemic health benefit as well as risks.
+
+ **PDF Table of Contents** 
+
+* HISTORY OF UV ADVICE RELATED TO SKIN CANCER
+
+* EVOLUTION OF SKIN COLOR
+
+* SUNLIGHT AND ALL-CAUSE MORTALITY
+
+* MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)
+
+* MECHANISMS,  **NITRIC OVIDE** , AND CARDIOVASCULAR DISEASE
+
+* OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH
+
+* MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS
+
+* MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET
+
+##### REFERENCES
+
+* Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.
+
+* Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.
+
+* Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by  **nitric oxide**  in vitro. Redox Biol 2020;37:101734.
+
+* Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of  **nitric oxide**  on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.
+
+* Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A.  **nitric oxide**  inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.
+
+* Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.
+
+* Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.
+
+* American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).
+
+* American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).
+
+* Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.
+
+* Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.
+
+* Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.
+
+* Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis <span>[published correction appears in JAMA Cardiol 2020;5:112]</span>. JAMA Car­diol 2019;4:765—76.
+
+* Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.
+
+* Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.
+
+* Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.
+
+* Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.
+
+* Blood Pressure Lowering Treatment Trialists' Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis <span>[published correction appears in Lan­cet. 2021 May 22;397:1884]</span>. Lancet 2021;397:1625-36.
+
+* Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis <span>[published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]</span>. Lancet Diabetes Endocrinol 2014;2:307-20.
+
+* Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.
+
+* Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.
+
+* Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.
+
+* Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.
+
+* Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.
+
+* Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.
+
+* Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.
+
+* Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.
+
+* Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.
+
+* Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.
+
+* Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.
+
+* Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.
+
+* De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.
+
+* Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance  **NO**  formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.
+
+* Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.
+
+* Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.
+
+* Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.
+
+* Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.
+
+* Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.
+
+* Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.
+
+* Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.
+
+* Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.
+
+* Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.
+
+* Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.
+
+* Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.
+
+* Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.
+
+* Gomberg B. British food control. Antioch Rev 1944;4:218-29.
+
+* Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.
+
+* Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.
+
+* Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.
+
+* Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.
+
+* Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.
+
+* Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.
+
+* Hazell G, Khazova M, O'Mahoney P. Low-dose daylight exposure induces  **nitric oxide**  release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.
+
+* He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.
+
+* Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.
+
+* Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.
+
+* Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.
+
+* Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.
+
+* Mordor Intelligence. Vitamin D supplement market size & share analysis - growth trends & forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).
+
+* Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.
+
+* Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.
+
+* Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.
+
+* Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.
+
+* Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.
+
+* Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.
+
+* Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.
+
+* Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.
+
+* Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.
+
+* Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.
+
+* LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.
+
+* Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.
+
+* Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.
+
+* Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.
+
+* Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.
+
+* Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.
+
+* Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.
+
+* Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of  **nitric oxide**  synthase. J Invest Dermatol 2014;134:1839-46.
+
+* Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.
+
+* Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.
+
+* Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.
+
+* Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.
+
+* Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.
+
+* Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.
+
+* Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.
+
+* Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.
+
+* Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.
+
+* Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.
+
+* Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.
+
+* Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.
+
+* Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.
+
+* Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.
+
+* National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).
+
+* Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.
+
+* Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.
+
+* Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.
+
+* Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.
+
+* Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of  **nitric oxide**  from intracutaneous photolabile  **nitric oxide**  derivates. Circ Res 2009;105:1031 —40.
+
+* Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.
+
+* Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.
+
+* PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.
+
+* Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.
+
+* Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.
+
+* Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.
+
+* Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.
+
+* Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.
+
+* Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.
+
+* Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.
+
+* Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.
+
+* Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.
+
+* Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).
+
+* Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.
+
+* Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.
+
+* Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.
+
+* Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.
+
+* Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.
+
+* Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.
+
+* Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.
+
+* Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.
+
+* Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.
+
+* Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.
+
+* Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.
+
+* Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.
+
+* Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.
+
+* Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.
+
+* Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.
+
+* Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.
+
+* Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.
+
+* Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.
+
+* Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.
+
+* Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.
+
+* Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.
+
+* Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.
+
+* Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension <span>[published correction appears in J Hypertens 2019;37:226]</span>. J Hypertens 2018;36: 1953-2041.
+
+* World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).
+
+* Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.
+
+* Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.
+
+* Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.
+
+* Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.
+
+* Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.
+
+* Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.
+
+* Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.
+
+---
+
+#### VitaminDwiki – <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+
+
+
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Sunlight: Time for a Rethink?
+
+Review J Invest Dermatol . 2024 Apr 24:S0022-202X(24)00280-X. [doi: 10.1016/j.jid.2023.12.027](https://doi.org/10.1016/j.jid.2023.12.027)
+
+Richard B Weller 1
+
+UVR is a skin carcinogen, yet no studies link sun exposure to increased all-cause mortality. Epidemiological studies from the United Kingdom and Sweden link sun exposure with reduced all-cause, cardiovascular, and cancer mortality. Vitamin D synthesis is dependent on UVB exposure. Individuals with higher serum levels of vitamin D are healthier in many ways, yet multiple trials of oral vitamin D supplementation show little benefit. Growing evidence shows that sunlight has health benefits through vitamin D-independent pathways, such as photomobilization of  **nitric oxide**  from cutaneous stores with reduction in cardiovascular morbidity. Sunlight has important systemic health benefit as well as risks.
+
+ **PDF Table of Contents** 
+
+* HISTORY OF UV ADVICE RELATED TO SKIN CANCER
+
+* EVOLUTION OF SKIN COLOR
+
+* SUNLIGHT AND ALL-CAUSE MORTALITY
+
+* MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)
+
+* MECHANISMS,  **NITRIC OVIDE** , AND CARDIOVASCULAR DISEASE
+
+* OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH
+
+* MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS
+
+* MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET
+
+##### REFERENCES
+
+* Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.
+
+* Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.
+
+* Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by  **nitric oxide**  in vitro. Redox Biol 2020;37:101734.
+
+* Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of  **nitric oxide**  on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.
+
+* Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A.  **nitric oxide**  inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.
+
+* Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.
+
+* Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.
+
+* American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).
+
+* American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).
+
+* Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.
+
+* Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.
+
+* Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.
+
+* Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis &lt;span&gt;[published correction appears in JAMA Cardiol 2020;5:112]&lt;/span&gt;. JAMA Car­diol 2019;4:765—76.
+
+* Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.
+
+* Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.
+
+* Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.
+
+* Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.
+
+* Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis &lt;span&gt;[published correction appears in Lan­cet. 2021 May 22;397:1884]&lt;/span&gt;. Lancet 2021;397:1625-36.
+
+* Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis &lt;span&gt;[published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]&lt;/span&gt;. Lancet Diabetes Endocrinol 2014;2:307-20.
+
+* Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.
+
+* Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.
+
+* Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.
+
+* Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.
+
+* Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.
+
+* Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.
+
+* Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.
+
+* Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.
+
+* Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.
+
+* Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.
+
+* Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.
+
+* Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.
+
+* De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.
+
+* Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance  **NO**  formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.
+
+* Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.
+
+* Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.
+
+* Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.
+
+* Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.
+
+* Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.
+
+* Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.
+
+* Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.
+
+* Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.
+
+* Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.
+
+* Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.
+
+* Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.
+
+* Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.
+
+* Gomberg B. British food control. Antioch Rev 1944;4:218-29.
+
+* Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.
+
+* Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.
+
+* Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.
+
+* Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.
+
+* Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.
+
+* Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.
+
+* Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces  **nitric oxide**  release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.
+
+* He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.
+
+* Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.
+
+* Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.
+
+* Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.
+
+* Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.
+
+* Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).
+
+* Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.
+
+* Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.
+
+* Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.
+
+* Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.
+
+* Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.
+
+* Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.
+
+* Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.
+
+* Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.
+
+* Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.
+
+* Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.
+
+* LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.
+
+* Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.
+
+* Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.
+
+* Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.
+
+* Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.
+
+* Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.
+
+* Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.
+
+* Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of  **nitric oxide**  synthase. J Invest Dermatol 2014;134:1839-46.
+
+* Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.
+
+* Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.
+
+* Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.
+
+* Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.
+
+* Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.
+
+* Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.
+
+* Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.
+
+* Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.
+
+* Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.
+
+* Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.
+
+* Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.
+
+* Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.
+
+* Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.
+
+* Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.
+
+* National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).
+
+* Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.
+
+* Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.
+
+* Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.
+
+* Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.
+
+* Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of  **nitric oxide**  from intracutaneous photolabile  **nitric oxide**  derivates. Circ Res 2009;105:1031 —40.
+
+* Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.
+
+* Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.
+
+* PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.
+
+* Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.
+
+* Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.
+
+* Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.
+
+* Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.
+
+* Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.
+
+* Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.
+
+* Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.
+
+* Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.
+
+* Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.
+
+* Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).
+
+* Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.
+
+* Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.
+
+* Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.
+
+* Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.
+
+* Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.
+
+* Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.
+
+* Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.
+
+* Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.
+
+* Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.
+
+* Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.
+
+* Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.
+
+* Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.
+
+* Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.
+
+* Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.
+
+* Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.
+
+* Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.
+
+* Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.
+
+* Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.
+
+* Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.
+
+* Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.
+
+* Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.
+
+* Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.
+
+* Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension &lt;span&gt;[published correction appears in J Hypertens 2019;37:226]&lt;/span&gt;. J Hypertens 2018;36: 1953-2041.
+
+* World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).
+
+* Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.
+
+* Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.
+
+* Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.
+
+* Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.
+
+* Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.
+
+* Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.
+
+* Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.
+
+---
+
+#### VitaminDwiki – &lt;a href=&quot;/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&quot;&gt;Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&lt;/a&gt;
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Sunlight: Time for a Rethink?`
+│   inner_content: `Sunlight: Time for a Rethink?`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sunlight: Time for a Rethink?`
+│   │   inner_content: `Sunlight: Time for a Rethink?`├── TextNode
+│   full_match: `\nReview J Invest Dermatol . 2024 Apr 24:S0022-202X(24)00280-X. `
+│   inner_content: `\nReview J Invest Dermatol . 2024 Apr 24:S0022-202X(24)00280-X. `├── DoiLinkNode
+│   full_match: `doi: 10.1016/j.jid.2023.12.027`
+│   inner_content: `10.1016/j.jid.2023.12.027`├── TextNode
+│   full_match: `\nRichard B Weller 1\n\nUVR is a skin carcinogen, yet no studies link sun exposure to increased all-cause mortality. Epidemiological studies from the United Kingdom and Sweden link sun exposure with reduced all-cause, cardiovascular, and cancer mortality. Vitamin D synthesis is dependent on UVB exposure. Individuals with higher serum levels of vitamin D are healthier in many ways, yet multiple trials of oral vitamin D supplementation show little benefit. Growing evidence shows that sunlight has health benefits through vitamin D-independent pathways, such as photomobilization of `
+│   inner_content: `\nRichard B Weller 1\n\nUVR is a skin carcinogen, yet no studies link sun exposure to increased all-cause mortality. Epidemiological studies from the United Kingdom and Sweden link sun exposure with reduced all-cause, cardiovascular, and cancer mortality. Vitamin D synthesis is dependent on UVB exposure. Individuals with higher serum levels of vitamin D are healthier in many ways, yet multiple trials of oral vitamin D supplementation show little benefit. Growing evidence shows that sunlight has health benefits through vitamin D-independent pathways, such as photomobilization of `├── BoldNode
+│   full_match: `__nitric oxide__`
+│   inner_content: `nitric oxide`
+│   children:
+│   ├── TextNode
+│   │   full_match: `nitric oxide`
+│   │   inner_content: `nitric oxide`├── TextNode
+│   full_match: ` from cutaneous stores with reduction in cardiovascular morbidity. Sunlight has important systemic health benefit as well as risks.\n`
+│   inner_content: ` from cutaneous stores with reduction in cardiovascular morbidity. Sunlight has important systemic health benefit as well as risks.\n`├── BoldNode
+│   full_match: `__PDF Table of Contents__`
+│   inner_content: `PDF Table of Contents`
+│   children:
+│   ├── TextNode
+│   │   full_match: `PDF Table of Contents`
+│   │   inner_content: `PDF Table of Contents`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*HISTORY OF UV ADVICE RELATED TO SKIN CANCER`
+│   inner_content: `HISTORY OF UV ADVICE RELATED TO SKIN CANCER`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `HISTORY OF UV ADVICE RELATED TO SKIN CANCER`
+│   │   inner_content: `HISTORY OF UV ADVICE RELATED TO SKIN CANCER`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*EVOLUTION OF SKIN COLOR`
+│   inner_content: `EVOLUTION OF SKIN COLOR`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `EVOLUTION OF SKIN COLOR`
+│   │   inner_content: `EVOLUTION OF SKIN COLOR`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*SUNLIGHT AND ALL-CAUSE MORTALITY`
+│   inner_content: `SUNLIGHT AND ALL-CAUSE MORTALITY`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `SUNLIGHT AND ALL-CAUSE MORTALITY`
+│   │   inner_content: `SUNLIGHT AND ALL-CAUSE MORTALITY`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)`
+│   inner_content: `MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)`
+│   │   inner_content: `MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*MECHANISMS, __NITRIC OVIDE__, AND CARDIOVASCULAR DISEASE`
+│   inner_content: `MECHANISMS, __NITRIC OVIDE__, AND CARDIOVASCULAR DISEASE`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MECHANISMS, `
+│   │   inner_content: `MECHANISMS, `
+│   ├── BoldNode
+│   │   full_match: `__NITRIC OVIDE__`
+│   │   inner_content: `NITRIC OVIDE`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `NITRIC OVIDE`
+│   │   │   inner_content: `NITRIC OVIDE`
+│   ├── TextNode
+│   │   full_match: `, AND CARDIOVASCULAR DISEASE`
+│   │   inner_content: `, AND CARDIOVASCULAR DISEASE`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH`
+│   inner_content: `OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH`
+│   │   inner_content: `OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS`
+│   inner_content: `MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS`
+│   │   inner_content: `MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET`
+│   inner_content: `MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET`
+│   │   inner_content: `MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!REFERENCES`
+│   inner_content: `REFERENCES`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `REFERENCES`
+│   │   inner_content: `REFERENCES`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.`
+│   inner_content: `Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.`
+│   │   inner_content: `Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.`
+│   inner_content: `Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.`
+│   │   inner_content: `Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by __nitric oxide__ in vitro. Redox Biol 2020;37:101734.`
+│   inner_content: `Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by __nitric oxide__ in vitro. Redox Biol 2020;37:101734.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by `
+│   │   inner_content: `Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` in vitro. Redox Biol 2020;37:101734.`
+│   │   inner_content: ` in vitro. Redox Biol 2020;37:101734.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of __nitric oxide__ on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.`
+│   inner_content: `Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of __nitric oxide__ on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of `
+│   │   inner_content: `Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.`
+│   │   inner_content: ` on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A. __nitric oxide__ inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.`
+│   inner_content: `Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A. __nitric oxide__ inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A. `
+│   │   inner_content: `Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A. `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.`
+│   │   inner_content: ` inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.`
+│   inner_content: `Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.`
+│   │   inner_content: `Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.`
+│   inner_content: `Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.`
+│   │   inner_content: `Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).`
+│   inner_content: `American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).`
+│   │   inner_content: `American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).`
+│   inner_content: `American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).`
+│   │   inner_content: `American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.`
+│   inner_content: `Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.`
+│   │   inner_content: `Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.`
+│   inner_content: `Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.`
+│   │   inner_content: `Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.`
+│   inner_content: `Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.`
+│   │   inner_content: `Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis [published correction appears in JAMA Cardiol 2020;5:112]. JAMA Car­diol 2019;4:765—76.`
+│   inner_content: `Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis [published correction appears in JAMA Cardiol 2020;5:112]. JAMA Car­diol 2019;4:765—76.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis `
+│   │   inner_content: `Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis `
+│   ├── LinkNode
+│   │   full_match: `[published correction appears in JAMA Cardiol 2020;5:112]`
+│   │   inner_content: `published correction appears in JAMA Cardiol 2020;5:112`
+│   │   url: `published correction appears in JAMA Cardiol 2020;5:112`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `published correction appears in JAMA Cardiol 2020;5:112`
+│   │   │   inner_content: `published correction appears in JAMA Cardiol 2020;5:112`
+│   ├── TextNode
+│   │   full_match: `. JAMA Car­diol 2019;4:765—76.`
+│   │   inner_content: `. JAMA Car­diol 2019;4:765—76.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.`
+│   inner_content: `Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.`
+│   │   inner_content: `Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.`
+│   inner_content: `Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.`
+│   │   inner_content: `Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.`
+│   inner_content: `Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.`
+│   │   inner_content: `Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.`
+│   inner_content: `Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.`
+│   │   inner_content: `Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis [published correction appears in Lan­cet. 2021 May 22;397:1884]. Lancet 2021;397:1625-36.`
+│   inner_content: `Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis [published correction appears in Lan­cet. 2021 May 22;397:1884]. Lancet 2021;397:1625-36.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis `
+│   │   inner_content: `Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis `
+│   ├── LinkNode
+│   │   full_match: `[published correction appears in Lan­cet. 2021 May 22;397:1884]`
+│   │   inner_content: `published correction appears in Lan­cet. 2021 May 22;397:1884`
+│   │   url: `published correction appears in Lan­cet. 2021 May 22;397:1884`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `published correction appears in Lan­cet. 2021 May 22;397:1884`
+│   │   │   inner_content: `published correction appears in Lan­cet. 2021 May 22;397:1884`
+│   ├── TextNode
+│   │   full_match: `. Lancet 2021;397:1625-36.`
+│   │   inner_content: `. Lancet 2021;397:1625-36.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis [published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]. Lancet Diabetes Endocrinol 2014;2:307-20.`
+│   inner_content: `Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis [published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]. Lancet Diabetes Endocrinol 2014;2:307-20.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis `
+│   │   inner_content: `Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis `
+│   ├── LinkNode
+│   │   full_match: `[published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]`
+│   │   inner_content: `published correction appears in Lancet Diabetes Endocrinol 2020;8:e5`
+│   │   url: `published correction appears in Lancet Diabetes Endocrinol 2020;8:e5`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `published correction appears in Lancet Diabetes Endocrinol 2020;8:e5`
+│   │   │   inner_content: `published correction appears in Lancet Diabetes Endocrinol 2020;8:e5`
+│   ├── TextNode
+│   │   full_match: `. Lancet Diabetes Endocrinol 2014;2:307-20.`
+│   │   inner_content: `. Lancet Diabetes Endocrinol 2014;2:307-20.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.`
+│   inner_content: `Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.`
+│   │   inner_content: `Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.`
+│   inner_content: `Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.`
+│   │   inner_content: `Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.`
+│   inner_content: `Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.`
+│   │   inner_content: `Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.`
+│   inner_content: `Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.`
+│   │   inner_content: `Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.`
+│   inner_content: `Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.`
+│   │   inner_content: `Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.`
+│   inner_content: `Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.`
+│   │   inner_content: `Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.`
+│   inner_content: `Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.`
+│   │   inner_content: `Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.`
+│   inner_content: `Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.`
+│   │   inner_content: `Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.`
+│   inner_content: `Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.`
+│   │   inner_content: `Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.`
+│   inner_content: `Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.`
+│   │   inner_content: `Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.`
+│   inner_content: `Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.`
+│   │   inner_content: `Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.`
+│   inner_content: `Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.`
+│   │   inner_content: `Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.`
+│   inner_content: `De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.`
+│   │   inner_content: `De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance __NO__ formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.`
+│   inner_content: `Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance __NO__ formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance `
+│   │   inner_content: `Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance `
+│   ├── BoldNode
+│   │   full_match: `__NO__`
+│   │   inner_content: `NO`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `NO`
+│   │   │   inner_content: `NO`
+│   ├── TextNode
+│   │   full_match: ` formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.`
+│   │   inner_content: ` formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.`
+│   inner_content: `Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.`
+│   │   inner_content: `Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.`
+│   inner_content: `Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.`
+│   │   inner_content: `Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.`
+│   inner_content: `Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.`
+│   │   inner_content: `Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.`
+│   inner_content: `Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.`
+│   │   inner_content: `Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.`
+│   inner_content: `Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.`
+│   │   inner_content: `Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.`
+│   inner_content: `Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.`
+│   │   inner_content: `Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.`
+│   inner_content: `Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.`
+│   │   inner_content: `Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.`
+│   inner_content: `Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.`
+│   │   inner_content: `Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.`
+│   inner_content: `Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.`
+│   │   inner_content: `Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.`
+│   inner_content: `Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.`
+│   │   inner_content: `Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.`
+│   inner_content: `Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.`
+│   │   inner_content: `Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.`
+│   inner_content: `Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.`
+│   │   inner_content: `Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Gomberg B. British food control. Antioch Rev 1944;4:218-29.`
+│   inner_content: `Gomberg B. British food control. Antioch Rev 1944;4:218-29.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Gomberg B. British food control. Antioch Rev 1944;4:218-29.`
+│   │   inner_content: `Gomberg B. British food control. Antioch Rev 1944;4:218-29.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.`
+│   inner_content: `Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.`
+│   │   inner_content: `Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.`
+│   inner_content: `Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.`
+│   │   inner_content: `Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.`
+│   inner_content: `Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.`
+│   │   inner_content: `Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.`
+│   inner_content: `Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.`
+│   │   inner_content: `Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.`
+│   inner_content: `Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.`
+│   │   inner_content: `Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.`
+│   inner_content: `Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.`
+│   │   inner_content: `Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces __nitric oxide__ release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.`
+│   inner_content: `Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces __nitric oxide__ release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces `
+│   │   inner_content: `Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.`
+│   │   inner_content: ` release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.`
+│   inner_content: `He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.`
+│   │   inner_content: `He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.`
+│   inner_content: `Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.`
+│   │   inner_content: `Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.`
+│   inner_content: `Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.`
+│   │   inner_content: `Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.`
+│   inner_content: `Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.`
+│   │   inner_content: `Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.`
+│   inner_content: `Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.`
+│   │   inner_content: `Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).`
+│   inner_content: `Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).`
+│   │   inner_content: `Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.`
+│   inner_content: `Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.`
+│   │   inner_content: `Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.`
+│   inner_content: `Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.`
+│   │   inner_content: `Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.`
+│   inner_content: `Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.`
+│   │   inner_content: `Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.`
+│   inner_content: `Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.`
+│   │   inner_content: `Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.`
+│   inner_content: `Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.`
+│   │   inner_content: `Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.`
+│   inner_content: `Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.`
+│   │   inner_content: `Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.`
+│   inner_content: `Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.`
+│   │   inner_content: `Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.`
+│   inner_content: `Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.`
+│   │   inner_content: `Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.`
+│   inner_content: `Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.`
+│   │   inner_content: `Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.`
+│   inner_content: `Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.`
+│   │   inner_content: `Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.`
+│   inner_content: `LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.`
+│   │   inner_content: `LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.`
+│   inner_content: `Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.`
+│   │   inner_content: `Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.`
+│   inner_content: `Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.`
+│   │   inner_content: `Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.`
+│   inner_content: `Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.`
+│   │   inner_content: `Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.`
+│   inner_content: `Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.`
+│   │   inner_content: `Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.`
+│   inner_content: `Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.`
+│   │   inner_content: `Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.`
+│   inner_content: `Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.`
+│   │   inner_content: `Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of __nitric oxide__ synthase. J Invest Dermatol 2014;134:1839-46.`
+│   inner_content: `Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of __nitric oxide__ synthase. J Invest Dermatol 2014;134:1839-46.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of `
+│   │   inner_content: `Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` synthase. J Invest Dermatol 2014;134:1839-46.`
+│   │   inner_content: ` synthase. J Invest Dermatol 2014;134:1839-46.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.`
+│   inner_content: `Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.`
+│   │   inner_content: `Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.`
+│   inner_content: `Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.`
+│   │   inner_content: `Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.`
+│   inner_content: `Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.`
+│   │   inner_content: `Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.`
+│   inner_content: `Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.`
+│   │   inner_content: `Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.`
+│   inner_content: `Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.`
+│   │   inner_content: `Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.`
+│   inner_content: `Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.`
+│   │   inner_content: `Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.`
+│   inner_content: `Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.`
+│   │   inner_content: `Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.`
+│   inner_content: `Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.`
+│   │   inner_content: `Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.`
+│   inner_content: `Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.`
+│   │   inner_content: `Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.`
+│   inner_content: `Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.`
+│   │   inner_content: `Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.`
+│   inner_content: `Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.`
+│   │   inner_content: `Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.`
+│   inner_content: `Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.`
+│   │   inner_content: `Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.`
+│   inner_content: `Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.`
+│   │   inner_content: `Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.`
+│   inner_content: `Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.`
+│   │   inner_content: `Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).`
+│   inner_content: `National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).`
+│   │   inner_content: `National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.`
+│   inner_content: `Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.`
+│   │   inner_content: `Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.`
+│   inner_content: `Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.`
+│   │   inner_content: `Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.`
+│   inner_content: `Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.`
+│   │   inner_content: `Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.`
+│   inner_content: `Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.`
+│   │   inner_content: `Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of __nitric oxide__ from intracutaneous photolabile __nitric oxide__ derivates. Circ Res 2009;105:1031 —40.`
+│   inner_content: `Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of __nitric oxide__ from intracutaneous photolabile __nitric oxide__ derivates. Circ Res 2009;105:1031 —40.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of `
+│   │   inner_content: `Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` from intracutaneous photolabile `
+│   │   inner_content: ` from intracutaneous photolabile `
+│   ├── BoldNode
+│   │   full_match: `__nitric oxide__`
+│   │   inner_content: `nitric oxide`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `nitric oxide`
+│   │   │   inner_content: `nitric oxide`
+│   ├── TextNode
+│   │   full_match: ` derivates. Circ Res 2009;105:1031 —40.`
+│   │   inner_content: ` derivates. Circ Res 2009;105:1031 —40.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.`
+│   inner_content: `Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.`
+│   │   inner_content: `Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.`
+│   inner_content: `Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.`
+│   │   inner_content: `Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.`
+│   inner_content: `PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.`
+│   │   inner_content: `PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.`
+│   inner_content: `Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.`
+│   │   inner_content: `Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.`
+│   inner_content: `Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.`
+│   │   inner_content: `Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.`
+│   inner_content: `Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.`
+│   │   inner_content: `Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.`
+│   inner_content: `Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.`
+│   │   inner_content: `Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.`
+│   inner_content: `Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.`
+│   │   inner_content: `Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.`
+│   inner_content: `Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.`
+│   │   inner_content: `Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.`
+│   inner_content: `Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.`
+│   │   inner_content: `Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.`
+│   inner_content: `Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.`
+│   │   inner_content: `Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.`
+│   inner_content: `Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.`
+│   │   inner_content: `Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).`
+│   inner_content: `Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).`
+│   │   inner_content: `Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.`
+│   inner_content: `Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.`
+│   │   inner_content: `Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.`
+│   inner_content: `Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.`
+│   │   inner_content: `Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.`
+│   inner_content: `Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.`
+│   │   inner_content: `Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.`
+│   inner_content: `Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.`
+│   │   inner_content: `Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.`
+│   inner_content: `Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.`
+│   │   inner_content: `Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.`
+│   inner_content: `Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.`
+│   │   inner_content: `Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.`
+│   inner_content: `Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.`
+│   │   inner_content: `Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.`
+│   inner_content: `Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.`
+│   │   inner_content: `Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.`
+│   inner_content: `Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.`
+│   │   inner_content: `Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.`
+│   inner_content: `Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.`
+│   │   inner_content: `Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.`
+│   inner_content: `Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.`
+│   │   inner_content: `Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.`
+│   inner_content: `Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.`
+│   │   inner_content: `Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.`
+│   inner_content: `Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.`
+│   │   inner_content: `Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.`
+│   inner_content: `Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.`
+│   │   inner_content: `Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.`
+│   inner_content: `Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.`
+│   │   inner_content: `Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.`
+│   inner_content: `Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.`
+│   │   inner_content: `Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.`
+│   inner_content: `Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.`
+│   │   inner_content: `Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.`
+│   inner_content: `Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.`
+│   │   inner_content: `Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.`
+│   inner_content: `Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.`
+│   │   inner_content: `Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.`
+│   inner_content: `Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.`
+│   │   inner_content: `Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.`
+│   inner_content: `Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.`
+│   │   inner_content: `Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.`
+│   inner_content: `Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.`
+│   │   inner_content: `Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension [published correction appears in J Hypertens 2019;37:226]. J Hypertens 2018;36: 1953-2041.`
+│   inner_content: `Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension [published correction appears in J Hypertens 2019;37:226]. J Hypertens 2018;36: 1953-2041.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension `
+│   │   inner_content: `Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension `
+│   ├── LinkNode
+│   │   full_match: `[published correction appears in J Hypertens 2019;37:226]`
+│   │   inner_content: `published correction appears in J Hypertens 2019;37:226`
+│   │   url: `published correction appears in J Hypertens 2019;37:226`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `published correction appears in J Hypertens 2019;37:226`
+│   │   │   inner_content: `published correction appears in J Hypertens 2019;37:226`
+│   ├── TextNode
+│   │   full_match: `. J Hypertens 2018;36: 1953-2041.`
+│   │   inner_content: `. J Hypertens 2018;36: 1953-2041.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).`
+│   inner_content: `World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).`
+│   │   inner_content: `World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.`
+│   inner_content: `Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.`
+│   │   inner_content: `Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.`
+│   inner_content: `Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.`
+│   │   inner_content: `Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.`
+│   inner_content: `Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.`
+│   │   inner_content: `Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.`
+│   inner_content: `Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.`
+│   │   inner_content: `Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.`
+│   inner_content: `Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.`
+│   │   inner_content: `Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.`
+│   inner_content: `Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.`
+│   │   inner_content: `Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.`
+│   inner_content: `Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.`
+│   │   inner_content: `Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
+│   inner_content: `VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDwiki – `
+│   │   inner_content: `VitaminDwiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
+│   │   inner_content: `Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.`
+│   │   page: `Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.`
+│   │   │   inner_content: `Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Sunlight: Time for a Rethink?
+Review J Invest Dermatol . 2024 Apr 24:S0022-202X(24)00280-X. doi: 10.1016/j.jid.2023.12.027
+Richard B Weller 1
+
+UVR is a skin carcinogen, yet no studies link sun exposure to increased all-cause mortality. Epidemiological studies from the United Kingdom and Sweden link sun exposure with reduced all-cause, cardiovascular, and cancer mortality. Vitamin D synthesis is dependent on UVB exposure. Individuals with higher serum levels of vitamin D are healthier in many ways, yet multiple trials of oral vitamin D supplementation show little benefit. Growing evidence shows that sunlight has health benefits through vitamin D-independent pathways, such as photomobilization of __nitric oxide__ from cutaneous stores with reduction in cardiovascular morbidity. Sunlight has important systemic health benefit as well as risks.
+__PDF Table of Contents__
+*HISTORY OF UV ADVICE RELATED TO SKIN CANCER
+*EVOLUTION OF SKIN COLOR
+*SUNLIGHT AND ALL-CAUSE MORTALITY
+*MECHANISMS, VITAMIN D, CORRELATION BUT NOT CAUSATION (UNLESS YOU HAVE RICKETS)
+*MECHANISMS, __NITRIC OVIDE__, AND CARDIOVASCULAR DISEASE
+*OTHER MECHANISMS OF ACTION OF UV ON SYSTEMIC HEALTH
+*MYOPIA AND THE DEVELOPMENT OF OPHTHALMOLOGICAL GUIDANCE ON MINIMUM TIME OUTDOORS
+*MS AND OTHER CONDITIONS SUGGESTED BY THE SUNLIGHT QUARTET
+!!!!!REFERENCES
+*Afzal S, Br0ndum-Jacobsen P, Bojesen SE, Nordestgaard BG. Genetically low vitamin D concentrations and increased mortality: Mendelian random­isation analysis in three large cohorts. BMJ 2014;349:g6330.
+*Aggarwal R, Chiu N, Wadhera RK, Moran AE, Raber I, Shen C, et al. Racial/ ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension 2021;78: 1719—26.
+*Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Jarhult JD, et al. Mitigation of the replication of SARS-CoV-2 by __nitric oxide__ in vitro. Redox Biol 2020;37:101734.
+*Akerstrom S, Gunalan V, Keng CT, Tan YJ, Mirazimi A. Dual effect of __nitric oxide__ on SARS-CoV replication: viral RNA production and palmitoylation of the S protein are affected. Virology 2009;395:1 —9.
+*Akerstrom S, Mousavi-Jazi M, Klingstrom J, Leijon M, Lundkvist A, Mirazimi A. __nitric oxide__ inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol 2005;79:1966—9.
+*Albert CM, Cook NR, Pester J, Moorthy MV, Ridge C, Danik JS, et al. Effect of marine omega-3 fatty acid and vitamin D supplementation on incident atrial fibrillation: a randomized clinical trial. jAMa 2021;325:1061—73.
+*Alfredsson L, Armstrong BK, Butterfield DA, Chowdhury R, de Gruijl FR, Feelisch M, et al. Insufficient sun exposure has become a real public health problem. IntJ Environ Res Public Health 2020;17:5014.
+*American Academy of Dermatology. Practice safe sun. https://www.aad.org/ public/everyday-care/sun-protection/shade-clothing-sunscreen/practice- safe-sun; 2022. (accessed November 24, 2023).
+*American Academy of Dermatology. Vitamin D. https://www.aad.org/media/ stats-vitamin-d#: w :text=The%20AAD%20recommends%20getting%20 vitamin%20D%20from%20a,D%20intake%20may%20not%20lower% 20cancer%20mortality.%209-10; 2023. (accessed November 10, 2023).
+*Autier P, Mullie P, Macacu A, Dragomir M, Boniol M, Coppens K, et al. Effect of vitamin D supplementation on non-skeletal disorders: a systematic re­view of meta-analyses and randomised trials. Lancet Diabetes Endocrinol 2017;5:986—1004.
+*Baker LB. Physiology of sweat gland function: the roles of sweating and sweat composition in human health. Temperature (Austin) 2019;6:211 —59.
+*Baldassarre D, Nyyssonen K, Rauramaa R, de Faire U, Hamsten A, Smit AJ, et al. Cross-sectional analysis of baseline data to identify the major de­terminants of carotid intima-media thickness in a European population: the IMPROVE study. Eur Heart J 2010;31:614—22.
+*Barbarawi M, Kheiri B, Zayed Y, Barbarawi O, Dhillon H, Swaid B, et al. Vitamin D supplementation and cardiovascular disease risks in more than 83 000 individuals in 21 randomized clinical trials: a meta-analysis [published correction appears in JAMA Cardiol 2020;5:112]. JAMA Car­diol 2019;4:765—76.
+*Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, et al. Effect of vitamin D supplementation on the incidence of diabetes mellitus. J Clin Endocrinol Metab 2020;105:2857—68.
+*Barresi C, Stremnitzer C, Mlitz V, Kezic S, Kammeyer A, Ghannadan M, et al. Increased sensitivity of histidinemic mice to UVB radiation suggests a crucial role of endogenous urocanic acid in photoprotection. J Invest Dermatol 2011;131:188—94.
+*Batty GD, Gaye B, Gale CR, Hamer M, Lassale C. Explaining ethnic differ­entials in COVID-19 mortality: a cohort study. Am J Epidemiol 2022;191: 275—81.
+*Bernard JJ, Gallo RL, Krutmann J. Photoimmunology: how ultraviolet radia­tion affects the immune system. Nat Rev Immunol 2019;19:688—701.
+*Blood Pressure Lowering Treatment Trialists&#39; Collaboration. Pharmacological blood pressure lowering for primary and secondary prevention of cardio­vascular disease across different levels of blood pressure: an individual participant-level data meta-analysis [published correction appears in Lan­cet. 2021 May 22;397:1884]. Lancet 2021;397:1625-36.
+*Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supple­mentation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis [published correction appears in Lancet Diabetes Endocrinol 2020;8:e5]. Lancet Diabetes Endocrinol 2014;2:307-20.
+*Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of vitamin D supplementation: evidence from human studies. Nat Rev Endocrinol 2022;18:96-110.
+*Breuer J, Schwab N, Schneider-Hohendorf T, Marziniak M, Mohan H, Bhatia U, et al. Ultraviolet B light attenuates the systemic immune response in central nervous system autoimmunity. Ann Neurol 2014;75:739-58.
+*Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P, Istre MS, Kalleberg KT, et al. Prevention of Covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D sup­plement: quadruple blinded, randomised placebo controlled trial. BMJ 2022;378:e071245.
+*Carleton T, Cornetet J, Huybers P, Meng KC, Proctor J. Global evidence for ultraviolet radiation decreasing COVID-19 growth rates. Proc Natl Acad SciU S A 2021;118:e2012370118.
+*Carrier DR, Kapoor AK, Kimura T, Nickels MK, Satwanti, Scott EC, et al. The energetic paradox of human running and hominid evolution. Curr Anthropol 1984;25:483-95.
+*Chen M, Wu A, Zhang L, Wang W, Chen X, Yu X, et al. The increasing prevalence of myopia and high myopia among high school students in Fenghua city, eastern China: a 15-year population-based survey. BMC Ophthalmol 2018;18:159.
+*Cherrie M, Clemens T, Colandrea C, Feng Z, Webb DJ, Weller RB, et al. Ultraviolet A radiation and COVID-19 deaths in the USA with replication studies in England and Italy. Br J Dermatol 2021;185:363-70.
+*Clemens TL, Adams JS, Henderson SL, Holick MF. Increased skin pigment reduces the capacity of skin to synthesise vitamin D3. Lancet 1982;1:74-6.
+*Condon JR, Armstrong BK, Barnes A, Cunningham J. Cancer in Indigenous Australians: a review. Cancer Causes Control 2003;14:109-21.
+*Cooper R, Rotimi C, Ataman S, McGee D, Osotimehin B, Kadiri S, et al. The prevalence of hypertension in seven populations of west African origin. Am J Public Health 1997;87:160-8.
+*Cox ME. Hunger games: or how the allied blockade in the first world war deprived German children of nutrition, and allied food aid subsequently saved them. Econ Hist Rev 2015;68:600-31.
+*Cummings SR, Rosen C. VITAL findings - a decisive verdict on vitamin D supplementation. N Engl J Med 2022;387:368-70.
+*De Gruijl FR. Skin cancer and solar UV radiation. Eur J Cancer 1999;35: 2003-9.
+*Dejam A, Kleinbongard P, Rassaf T, Hamada S, Gharini P, Rodriguez J, et al. Thiols enhance __NO__ formation from nitrate photolysis. Free Radic Biol Med 2003;35:1551 -9.
+*Dopico XC, Evangelou M, Ferreira RC, Guo H, Pekalski ML, Smyth DJ, et al. Widespread seasonal gene expression reveals annual differences in human immunity and physiology. Nat Commun 2015;6:7000.
+*Douglas S, Rawles J. Latitude-related changes in the amplitude of annual mortality rhythm. The biological equator in man. Chronobiol Int 1999;16: 199-212.
+*Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet 2016;387:957-67.
+*Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, et al. Vitamin D status and risk of all-cause and cause-specific mortality in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab 2020;105:dgaa432.
+*Farrar MD, Webb AR, Kift R, Durkin MT, Allan D, Herbert A, et al. Efficacy of a dose range of simulated sunlight exposures in raising vitamin D status in South Asian adults: implications for targeted guidance on sun exposure. Am J Clin Nutr 2013;97:1210-6.
+*Feelisch M, Kolb-Bachofen V, Liu D, Lundberg JO, Revelo LP, Suschek CV, et al. Is sunlight good for our heart? Eur Heart J 2010;31:1041 -5.
+*Findlay GM. Ultra-violet light and skin cancer. Lancet 1928;212:1070-3.
+*Gagnon C, Lu ZX, Magliano DJ, Dunstan DW, ShawJE, Zimmet PZ, etal. Low serum 25-hydroxyvitamin D is associated with increased risk of the devel­opment of the metabolic syndrome at five years: results from a national, population-based prospective study (The Australian Diabetes, Obesity and Lifestyle Study: AusDiab). J Clin Endocrinol Metab 2012;97:1953-61.
+*Gajjar S, Ostrin LA. A systematic review of near work and myopia: mea­surement, relationships, mechanisms and clinical corollaries. Acta Oph­thalmol 2022;100:376-87.
+*Gemmell I, McLoone P, Boddy FA, Dickinson GJ, Watt GC. Seasonal variation in mortality in Scotland. Int J Epidemiol 2000;29:274-9.
+*Gifford KL, Richdale K, Kang P, Aller TA, Lam CS, Liu YM, et al. IMI-clinical management guidelines report. Invest Ophthalmol Vis Sci 2019;60: M184-203.
+*Gikas A, Sotiropoulos A, Pastromas V, Papazafiropoulou A, Apostolou O, Pappas S. Seasonal variation in fasting glucose and HbA1c in patients with type 2 diabetes. Prim Care Diabetes 2009;3:111 -4.
+*Gomberg B. British food control. Antioch Rev 1944;4:218-29.
+*Green A, Williams G, Neale R, Hart V, Leslie D, Parsons P, et al. Daily sun­screen application and Betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet 1999;354:723-9.
+*Hanel A, Carlberg C. Skin colour and vitamin D: an update. Exp Dermatol 2020;29:864-75.
+*Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, et al. Evidence for variable selective pressures at MC1R. Am J Hum Genet 2000;66: 1351-61.
+*Hart PH, Jones AP, Trend S, Cha L, Fabis-Pedrini MJ, Cooper MN, et al. A randomised, controlled clinical trial of narrowband UVB phototherapy for clinically isolated syndrome: the PhoCIS study. Mult Scler J Exp Transl Clin 2018;4:2055217318773112.
+*Hart PH, Norval M. The multiple roles of urocanic acid in health and disease. J Invest Dermatol 2021;141:496-502.
+*Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, King A, Dibben C, et al. Antenatal exposure to solar radiation and learning disabilities: population cohort study of 422,512 children. Sci Rep 2019;9:9356.
+*Hazell G, Khazova M, O&#39;Mahoney P. Low-dose daylight exposure induces __nitric oxide__ release and maintains cell viability in vitro. Sci Rep 2023;13: 16306.
+*He M, Xiang F, Zeng Y, Mai J, Chen Q, Zhang J, et al. Effect of time spent outdoors at school on the development of myopia among children in China: a randomized clinical trial. JAMA 2015;314:1142-8.
+*Higgins T, Saw S, Sikaris K, Wiley CL, Cembrowski GC, Lyon AW, et al. Seasonal variation in hemoglobin A1c: is it the same in both hemispheres?. SAGE Publications; 2009.
+*Holick MF. The one-hundred-year anniversary of the discovery of the sun­shine vitamin D3: historical, personal experience and evidence-based perspectives. Nutrients 2023;15:593.
+*Hublin JJ. The modern human colonization of western Eurasia: when and where? Quat Sci Rev 2015;118:194-210.
+*Huldschinsky K. Heilung von Rachitis durch kunstliche Hohensonne. Dtsch Med Wochenschr 1919;45:712-3.
+*Mordor Intelligence. Vitamin D supplement market size &amp; share analysis - growth trends &amp; forecasts (2024 - 2029). https://www.mordorintelligence. com/industry-reports/vitamin-d-supplements-market; 2023. (accessed November 10, 2023).
+*Ip JM, Saw SM, Rose KA, Morgan IG, Kifley A, Wang JJ, et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 2008;49:2903-10.
+*Jablonski NG. The evolution of human skin pigmentation involved the in­teractions of genetic, environmental, and cultural variables. Pigment Cell Melanoma Res 2021;34:707-29.
+*Jablonski NG, Chaplin G. Colloquium paper: Human skin pigmentation as an adaptation to UV radiation. Proc Natl Acad SciUSA 2010;107:8962-8.
+*Jacobs DS, Afshari NA, Bishop RJ, Keenan JD, Lee J, Shen TT, et al. Refractive errors preferred practice Pattern. Ophthalmology2023;130:P1 -60.
+*Jagannath VA, Filippini G, Di Pietrantonj C, Asokan GV, Robak EW, Whamond L, et al. Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev 2018;9:CD008422.
+*Jensen TZT, Niemann J, Iversen KH, Fotakis AK, Gopalakrishnan S, Vagene AJ, et al. A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nat Commun 2019;10:5520.
+*Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P, et al. Effect of a test-and-treat approach to vitamin D supplementation on risk of all cause acute respiratory tract infection and Covid-19: phase 3 randomised controlled trial (CORONAVIT). BMJ 2022;378:e071230.
+*Kollias A, Kyriakoulis KG, Stambolliu E, Ntineri A, Anagnostopoulos I, Stergiou GS. Seasonal blood pressure variation assessed by different mea­surement methods: systematic review and meta-analysis. J Hypertens 2019;37:e79.
+*Larsen CS. The past 12,000 years of behavior, adaptation, population, and evolution shaped who we are today. Proc Natl Acad Sci U S A 2023;120: e2209613120.
+*Lau FH, Powell CE, Adonecchi G, Danos DM, DiNardo AR, Chugden RJ, et al. Pilot phase results of a prospective, randomized controlled trial of narrowband ultraviolet B phototherapy in hospitalized COVID-19 patients. Exp Dermatol 2022;31:1109-15.
+*LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al. Supple­mental vitamin D and incident fractures in midlife and older adults. N Engl J Med 2022;387:299-309.
+*Leiter U, Keim U, Garbe C. Epidemiology of skin cancer: update 2019. Adv Exp Med Biol 2020;1268:123-39.
+*Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a sys­tematic analysis for the Global Burden of Disease Study 2010. Lancet 2012;380:2224-60.
+*Lindqvist PG, Epstein E, Landin-Olsson M, Akerlund M, Olsson H. Women with fair phenotypes seem to confer a survival advantage in a low UV milieu. A nested matched case control study. PLoS One 2020;15: e0228582.
+*Lindqvist PG, Epstein E, Landin-Olsson M, IngvarC, Nielsen K, Stenbeck M, et al. Avoidance of sun exposure is a risk factor for all-cause mortality: results from the Melanoma in Southern Sweden cohort. J Intern Med 2014;276:77-86.
+*Lindqvist PG, Epstein E, Nielsen K, Landin-Olsson M, Ingvar C, Olsson H. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. J Intern Med 2016;280:375-87.
+*Lips P, Eekhoff M, van Schoor N, Oosterwerff M, deJongh R, Krul-Poel Y, etal. Vitamin D and type 2 diabetes. J Steroid Biochem Mol Biol 2017;173: 280-5.
+*Liu D, Fernandez BO, Hamilton A, Lang NN, Gallagher JMC, Newby DE, et al. UVA irradiation of human skin vasodilates arterial vasculature and lowers blood pressure independently of __nitric oxide__ synthase. J Invest Dermatol 2014;134:1839-46.
+*Lopes FCPS, Sleiman MG, Sebastian K, Bogucka R, Jacobs EA, Adamson AS. UV exposure and the risk of cutaneous melanoma in skin of color: a sys­tematic review. JAMA Dermatol 2021;157:213-9.
+*Lu H, Zhang J, Liu KB, Wu N, Li Y, Zhou K, et al. Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. Proc Natl Acad Sci U S A 2009;106:7367-72.
+*Lucas A, Wolf M. Vitamin D and health outcomes: then came the randomized clinical trials. JAMA 2019;322:1866-8.
+*Lucock MD. The evolution of human skin pigmentation: a changing medley of vitamins, genetic variability, and UV radiation during human expansion. Am J Biol Anthropol 2023;180:252-71.
+*Ma Y, Yoo J. History of sunscreen: an updated view. J Cosmet Dermatol 2021;20:1044-9.
+*Mackay DF, Clemens TL, Hastie CE, Cherrie MPC, Dibben C, Pell JP. UVA and seasonal patterning of 56 370 myocardial infarctions across Scotland, 2000-2011. J Am Heart Assoc 2019;8:e012551.
+*Manson JE, Bassuk SS, Cook NR, Lee IM, Mora S, Albert CM, et al. Vitamin D, marine n-3 fatty acids, and primary prevention of cardiovascular disease current evidence. Circ Res 2020;126:112-28.
+*Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.
+*Mariani J, Antonietti L, Tajer C, Ferder L, Inserra F, Sanchez Cunto M, et al. High-dose vitamin D versus placebo to prevent complications in COVID- 19 patients: multicentre randomized controlled clinical trial. PLoS One 2022;17:e0267918.
+*Marti-Soler H, Gonseth S, Gubelmann C, Stringhini S, Bovet P, Chen PC, etal. Seasonal variation of overall and cardiovascular mortality: a study in 19 countries from different geographic locations. PLoS One 2014;9:e113500.
+*Morgan IG, Wu PC, Ostrin LA, Tideman JWL, Yam JC, Lan W, et al. IMI risk factors for myopia. Invest Ophthalmol Vis Sci 2021;62:3.
+*Mowbray M, McLintock S, Weerakoon R, Lomatschinsky N, Jones S, Rossi AG, et al. Enzyme-independent NO stores in human skin: quantifi­cation and influence of UV radiation. J Invest Dermatol 2009;129:834—42.
+*Murai IH, Fernandes AL, Sales LP, Pinto AJ, Goessler KF, Duran CSC, et al. Effect of a single high dose of vitamin D3 on hospital length of stay in patients with moderate to severe COVID-19: a randomized clinical trial. JAMA 2021;325:1053—60.
+*Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, et al. GBD 2010: design, definitions, and metrics. Lancet 2012;380:2063—6.
+*National Health Service. Sunscreen and sun safety. https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/; 2022. (accessed November 24, 2023).
+*Neale RE, Beedle V, Ebeling PR, Elliott T, Francis D, Girgis CM, et al. Balancing the risks and benefits of sun exposure: A revised position statement for Australian adults. Aust New Zealand J Public Health 2024;48: 100117.
+*Neale RE, Lucas RM, Byrne SN, Hollestein L, Rhodes LE, Yazar S, et al. The effects of exposure to solar radiation on human health. Photochem Pho- tobiol Sci 2023;22:1011 —47.
+*Nemeth J, Tapaszto B, Aclimandos WA, Kestelyn P, Jonas JB, De Faber JHN, et al. Update and guidance on management of myopia. European Society of ophthalmology in cooperation with International Myopia Institute. Eur J Ophthalmol 2021;31:853—83.
+*Okereke OI, Reynolds CF 3rd, Mischoulon D, Chang G, Vyas CM, Cook NR, et al. Effect of long-term vitamin D3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: a randomized clinical trial. JAMA 2020;324:471 —80.
+*Oplander C, Volkmar CM, Paunel-Gorgulu A, van Faassen EE, Heiss C, Kelm M, etal. Whole body UVA irradiation lowers systemic blood pressure by release of __nitric oxide__ from intracutaneous photolabile __nitric oxide__ derivates. Circ Res 2009;105:1031 —40.
+*Orkaby AR, Dushkes R, Ward R, Djousse L, BuringJE, Lee IM, etal. Effect of vitamin D3 and omega-3 fatty acid supplementation on risk of frailty: an ancillary study of a randomized clinical trial. JAMA Netw Open 2022;5: e2231206.
+*Ostkamp P, Salmen A, Pignolet B, Gorlich D, Andlauer TFM, Schulte- Mecklenbeck A, et al. Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity. Proc Natl Acad Sci U S A 2021;118: e2018457118.
+*PengJH, Sun D, Nevo E. Domestication evolution, genetics and genomics in wheat. Mol Breeding 2011;28:281 —301.
+*Pereira M, Dantas Damascena A, Galvao Azevedo LM, de Almeida Oliveira T, da Mota Santana J. Vitamin D deficiency aggravates COVID-19: systematic review and meta-analysis. Crit Rev Food Sci Nutr 2022;62: 1308—16.
+*Pfeifer GP. Mechanisms of UV-induced mutations and skin cancer. Genome Instab Dis 2020;1:99—113.
+*Pitt D, Sevane N, Nicolazzi EL, MacHugh DE, Park SDE, Colli L, et al. Domestication of cattle: two or three events? Evol Appl 2019;12:123—36.
+*Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520—30.
+*Qiu S, Divine G, Rao SD. Effect of vitamin D metabolites on bone histo- morphometry in healthy black and white women: an attempt to unravel the so-called vitamin D paradox in blacks. Bone Rep 2023;18:101650.
+*Rist PM, Buring JE, Cook NR, Manson JE, Rexrode KM. Effect of vitamin D and/or omega-3 fatty acid supplementation on stroke outcomes: a ran­domized trial. Eur J Neurol 2021;28:809—15.
+*Rocha J. The evolutionary history of human skin pigmentation. J Mol Evol 2020;88:77—87.
+*Rogers A, Iltis D, Wooding S. Genetic variation at the MC1R locus and the time since loss of human body hair. Curr Anthropol 2004;45:105—8.
+*Rostand SG, McClure LA, Kent ST, Judd SE, Gutierrez OM. Associations of blood pressure, sunlight, and vitamin D in community-dwelling adults. J Hypertens 2016;34:1704—10.
+*Sample I, Grover N. Chris Whitty: keeping Covid restrictions will only delay wave. https ://www.theguardian.co m/wor ld/2021/ju l/05/chri s-whi tty-keeping- covid-restrictions-will-only-delay-wave; 2021. (accessed April 20, 2024).
+*Saw SM, Nieto FJ, Katz J, Schein OD, Levy B, Chew SJ. Factors related to the progression of myopia in Singaporean children. Optom Vis Sci 2000;77: 549—54.
+*Scragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol 1981;10:337—41.
+*Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al. Effect of monthly high-dose Vitamin D supplementation on cardiovascular dis­ease in the Vitamin D assessment study: a randomized clinical trial. JAMA Cardiol 2017;2:608—16.
+*Scragg RKR. Overview of results from the Vitamin D Assessment (ViDA) study. J Endocrinol Invest 2019;42:1391 —9.
+*Shi H, Zhong H, Peng Y, Dong YL, Qi XB, Zhang F, et al. Y chromosome evidence of earliest modern human settlement in East Asia and multiple origins of Tibetan and Japanese populations. BMC Biol 2008;6:45.
+*Simpson S Jr, Taylor B, Blizzard L, Ponsonby AL, Pittas F, Tremlett H, et al. Higher 25-hydroxyvitamin D is associated with lower relapse risk in mul­tiple sclerosis. Ann Neurol 2010;68:193—203.
+*Simpson S Jr, Wang W, Otahal P, Blizzard L, van der Mei IAF, Taylor BV. Latitude continues to be significantly associated with the prevalence of multiple sclerosis: an updated meta-analysis. J Neurol Neurosurg Psychi­atry 2019;90:1193—200.
+*Spelman T, Gray O, Trojano M, Petersen T, Izquierdo G, Lugaresi A, et al. Seasonal variation of relapse rate in multiple sclerosis is latitude depen­dent. Ann Neurol 2014;76:880—90.
+*Stewart S, Keates AK, Redfern A, McMurray JJV. Seasonal variations in car­diovascular disease. Nat Rev Cardiol 2017;14:654—64.
+*Sutherland JP, Zhou A, Hypponen E. Vitamin D deficiency increases mortality risk in the UK Biobank : a nonlinear Mendelian randomization study. Ann Intern Med 2022;175:1552—9.
+*Teshome A, Adane A, Girma B, Mekonnen ZA. The impact of vitamin D level on COVID-19 infection: systematic review and meta-analysis. Front Public Health 2021;9:624559.
+*Trend S, Leffler J, Cooper MN, Byrne SN, Kermode AG, French MA, et al. Narrowband UVB phototherapy reduces TNF production by B-cell subsets stimulated via TLR7 from individuals with early multiple sclerosis. Clin Transl Immunology 2020;9:e1197.
+*Trummer O, Pilz S, Hoffmann MM, Winkelmann BR, Boehm BO, Marz W, et al. Vitamin D and mortality: a Mendelian randomization study. Clin Chem 2013;59:793—7.
+*Tseng CL, Brimacombe M, Xie M, Rajan M, Wang H, Kolassa J, et al. Seasonal patterns in monthly hemoglobin A1c values. Am J Epidemiol 2005;161: 565—74.
+*Unna P. Carcinom der seemanshaut. Lehrbuch Speciellen Pathol 1894;6: 719.
+*Wang K, Prufer K, Krause-Kyora B, Childebayeva A, Schuenemann VJ, Coia V, et al. High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genom 2023;3:100377.
+*Wang TJ, Pencina MJ, Booth SL, Jacques PF, Ingelsson E, Lanier K, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation 2008;117:503-1 1.
+*Weller RB. Sunlight has cardiovascular benefits independently of vitamin D. Blood Purif 2016;41:130-4.
+*Weller RB, Mahrhofer M, Davis W, Gorman S. Risks and benefits of UV ra­diation. Curr Probl Dermatol 2021;55:329-38.
+*Weller RB, Wang Y, He J, Maddux FW, Usvyat L, Zhang H, et al. Does incident solar ultraviolet radiation lower blood pressure? J Am Heart Assoc 2020;9:e013837.
+*Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb C, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APHA/ASH/ ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the american college of cardiology/american heart association task force on clinical practice guidelines. Hypertension 2018;71:e13-115.
+*Wilde S, Timpson A, Kirsanow K, Kaiser E, KayserM, Unterlander M, etal. Direct evidenceforpositiveselectionofskin,hair,andeyepigmentationinEuropeans during the last 5,000 y. Proc Natl Acad Sci U S A 2014;111:4832-7.
+*Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension: the Task Force for the management of arterial hypertension of the European Society of Cardiology and the European Society of Hypertension [published correction appears in J Hypertens 2019;37:226]. J Hypertens 2018;36: 1953-2041.
+*World Health Organization. The top 10 causes of death. https://www.who.int/ news-room/fact-sheets/detail/the-top-10-causes-of-death#: ~ :text=The% 20top%20global%20causes%20of,birth%20asphyxia%20and%20birth% 20trauma%2C; 2020. (accessed April 20, 2024).
+*Xiang H, Gao J, Cai D, Luo Y, Yu B, Liu L, et al. Origin and dispersal of early domestic pigs in northern China. Sci Rep 2017;7:5602.
+*Xiong S, Sankaridurg P, Naduvilath T, ZangJ, Zou H, Zhu J, etal. Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review. Acta Ophthalmol 2017;95:551 -66.
+*Yang X, Wan Z, Perry L, Lu H, Wang Q, Zhao C, et al. Early millet use in northern China. Proc Natl Acad Sci U S A 2012;109:3726-30.
+*Zhang D, Cheng C, Wang Y, Sun H, Yu S, Xue Y, et al. Effect of vitamin D on blood pressure and hypertension in the general population: an update meta-analysis of cohort studies and randomized controlled trials. Prev Chronic Dis 2020;17:E03.
+*Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, et al. Association between vitamin D supplementation and mortality: systematic review and meta-analysis. BMJ 2019;366:l4673.
+*Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.
+*Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.
+---
+!!!!VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))
+
+</code>
+</pre>

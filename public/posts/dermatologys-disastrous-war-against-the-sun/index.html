@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Dermatology&#39;s Disastrous War Against The Sun</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Dermatology&#39;s Disastrous War Against The Sun</h1>
+        <time>April 21, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="article-by-a-midwesterndoctorcomhttpswwwmidwesterndoctorcompdermatologys-disastrous-war-againstutm_campaignemail-postrofo3rutm_sourcesubstackutm_mediumemail">Article by <a href="https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email">A MidWesternDoctor.com</a></h4>
+<p>APR 21, 2024</p>
+<p><strong>Story at a Glance:</strong></p>
+<p><strong>Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.</strong></p>
+<p><strong>This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.</strong></p>
+<p><strong>A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.</strong></p>
+<ul>
+<li>Note: US dermatologists who deal with skin cancer have <a href="https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w">average salary of $260,000/year</a>, vs  US GP $230,000/year</li>
+</ul>
+<p><strong>In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.</strong></p>
+<p>Note: in <a href="https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude">February’s open thread</a>, I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.</p>
+<p>Ever since I was a little child something seemed off about the fact everyone would get hysterical about how I needed to avoid sunlight and always wear sunscreen whenever we had an outdoor activity—so to the best of my ability I just didn’t comply. As I got older, I started to notice that beyond the sun feeling really good, anytime I was in the sun, the veins under my skin that were exposed to the sun would dilate, which I took as a sign the body craved sunlight and wanted it to draw into the circulation. Later still, I learned a pioneering researcher found significant alternations would occur in the health of people who wore glasses that blocked specific light spectrums (e.g., most glass blocks UV light) from entering the most transparent part of the body that could be treated by giving them specialized glasses which did not block that spectrum from entering.</p>
+<p>Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.</p>
+<p>Later, when I became a medical student (at which point I was familiar with the myriad of benefits of sunlight), I was struck by how neurotic dermatologists were about avoiding sunlight—for instance, in addition to hearing every patient I saw there be lectured about the importance of avoiding sunlight, through my classmates, I learned of dermatologists in the northern latitudes (which had low enough sunlight people suffered from seasonal affective disorder) effectively require their students to wear sunscreen and clothing which covered most of their body while indoors. At this point my perspective on the issue changed to “this crusade against the sun is definitely coming from the dermatologists” and “what on earth is wrong with these people?” A few years ago I learned the final piece of the puzzle through <a href="https://robertyoho.substack.com/">Robert Yoho MD</a> and his book <a href="https://www.amazon.com/Butchered-Healthcare-Robert-Yoho-MD/dp/1735485756">Butchered by Healthcare</a>.</p>
+<hr>
+<h4 id="vitamindwiki--noontime-sun-and-dcategoriesnoontime-sun-and-d-category-contains">VitaminDWiki – <a href="/categories/noontime-sun-and-d">Noontime sun and D</a> category contains</h4>
+<hr>
+<h4 id="vitamindwiki--cancer---skincategoriescancer---skin-category-contains">VitaminDWiki – <a href="/categories/cancer---skin">Cancer - Skin</a> category contains:</h4>
+<hr>
+<h4 id="span-stylecolororange18span--vitamindwiki-noontime-sun-pages-have-cancer-in-the-title"><span style="color:orange;">18+</span>  VitaminDWiki Noontime Sun pages have CANCER in the title</h4>
+<p>This list is automatically updated</p>
+<p>{LIST()}</p>
+<p>{list max=&ldquo;50&rdquo;}</p>
+<!-- {filter categories="9"} -->
+<!-- {filter field="title" content="cancer"} -->
+<!-- {filter type="wiki page"} -->
+<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
+<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
+<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
+<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+</code></pre>
+<p>{OUTPUT}</p>
+<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
+<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
+<p>{LIST}</p>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Article by [A MidWesternDoctor.com](https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)
+
+APR 21, 2024
+
+ **Story at a Glance:** 
+
+ **Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.** 
+
+ **This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.** 
+
+ **A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.** 
+
+* Note: US dermatologists who deal with skin cancer have [average salary of $260,000/year](https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w), vs  US GP $230,000/year
+
+ **In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.** 
+
+Note: in [February’s open thread](https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude), I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.
+
+Ever since I was a little child something seemed off about the fact everyone would get hysterical about how I needed to avoid sunlight and always wear sunscreen whenever we had an outdoor activity—so to the best of my ability I just didn’t comply. As I got older, I started to notice that beyond the sun feeling really good, anytime I was in the sun, the veins under my skin that were exposed to the sun would dilate, which I took as a sign the body craved sunlight and wanted it to draw into the circulation. Later still, I learned a pioneering researcher found significant alternations would occur in the health of people who wore glasses that blocked specific light spectrums (e.g., most glass blocks UV light) from entering the most transparent part of the body that could be treated by giving them specialized glasses which did not block that spectrum from entering.
+
+Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.
+
+Later, when I became a medical student (at which point I was familiar with the myriad of benefits of sunlight), I was struck by how neurotic dermatologists were about avoiding sunlight—for instance, in addition to hearing every patient I saw there be lectured about the importance of avoiding sunlight, through my classmates, I learned of dermatologists in the northern latitudes (which had low enough sunlight people suffered from seasonal affective disorder) effectively require their students to wear sunscreen and clothing which covered most of their body while indoors. At this point my perspective on the issue changed to “this crusade against the sun is definitely coming from the dermatologists” and “what on earth is wrong with these people?” A few years ago I learned the final piece of the puzzle through [Robert Yoho MD](https://robertyoho.substack.com/) and his book [Butchered by Healthcare](https://www.amazon.com/Butchered-Healthcare-Robert-Yoho-MD/dp/1735485756).
+
+---
+
+#### VitaminDWiki – [Noontime sun and D](/categories/noontime-sun-and-d) category contains
+
+---
+
+#### VitaminDWiki – [Cancer - Skin](/categories/cancer---skin) category contains:
+
+---
+
+####  &lt;span style=&quot;color:orange;&quot;&gt;18+&lt;/span&gt;  VitaminDWiki Noontime Sun pages have CANCER in the title
+
+This list is automatically updated
+
+{LIST()}
+
+{list max=&quot;50&quot;}
+
+&lt;!-- {filter categories=&quot;9&quot;} --&gt;
+
+&lt;!-- {filter field=&quot;title&quot; content=&quot;cancer&quot;} --&gt;
+
+&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
+
+{sort mode=&quot;modification_date_major_desc&quot;}
+
+{OUTPUT(template=&quot;table&quot;)}
+
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+
+{OUTPUT}
+
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+
+{LIST}
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Article by [https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email|A MidWesternDoctor.com]`
+│   inner_content: `Article by [https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email|A MidWesternDoctor.com]`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Article by `
+│   │   inner_content: `Article by `
+│   ├── LinkNode
+│   │   full_match: `[https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email|A MidWesternDoctor.com]`
+│   │   inner_content: `A MidWesternDoctor.com`
+│   │   url: `https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `A MidWesternDoctor.com`
+│   │   │   inner_content: `A MidWesternDoctor.com`├── TextNode
+│   full_match: `\nAPR 21, 2024\n\n`
+│   inner_content: `\nAPR 21, 2024\n\n`├── BoldNode
+│   full_match: `__Story at a Glance:__`
+│   inner_content: `Story at a Glance:`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Story at a Glance:`
+│   │   inner_content: `Story at a Glance:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.__`
+│   inner_content: `Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.`
+│   │   inner_content: `Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.__`
+│   inner_content: `This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.`
+│   │   inner_content: `This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.__`
+│   inner_content: `A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.`
+│   │   inner_content: `A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&#39;&#39;Note: US dermatologists who deal with skin cancer have [https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year], vs  US GP $230,000/year&#39;&#39;`
+│   inner_content: `&#39;&#39;Note: US dermatologists who deal with skin cancer have [https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year], vs  US GP $230,000/year&#39;&#39;`
+│   depth: `1`
+│   children:
+│   ├── EmphasisNode
+│   │   full_match: `&#39;&#39;Note: US dermatologists who deal with skin cancer have [https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year], vs  US GP $230,000/year&#39;&#39;`
+│   │   inner_content: `Note: US dermatologists who deal with skin cancer have [https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year], vs  US GP $230,000/year`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Note: US dermatologists who deal with skin cancer have `
+│   │   │   inner_content: `Note: US dermatologists who deal with skin cancer have `
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year]`
+│   │   │   inner_content: `average salary of $260,000/year`
+│   │   │   url: `https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `average salary of $260,000/year`
+│   │   │   │   inner_content: `average salary of $260,000/year`
+│   │   ├── TextNode
+│   │   │   full_match: `, vs  US GP $230,000/year`
+│   │   │   inner_content: `, vs  US GP $230,000/year`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.__`
+│   inner_content: `In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.`
+│   │   inner_content: `In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── EmphasisNode
+│   full_match: `&#39;&#39;Note: in [https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude|February’s open thread], I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.&#39;&#39;`
+│   inner_content: `Note: in [https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude|February’s open thread], I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: in `
+│   │   inner_content: `Note: in `
+│   ├── LinkNode
+│   │   full_match: `[https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude|February’s open thread]`
+│   │   inner_content: `February’s open thread`
+│   │   url: `https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `February’s open thread`
+│   │   │   inner_content: `February’s open thread`
+│   ├── TextNode
+│   │   full_match: `, I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.`
+│   │   inner_content: `, I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.`├── TextNode
+│   full_match: `\n\nEver since I was a little child something seemed off about the fact everyone would get hysterical about how I needed to avoid sunlight and always wear sunscreen whenever we had an outdoor activity—so to the best of my ability I just didn’t comply. As I got older, I started to notice that beyond the sun feeling really good, anytime I was in the sun, the veins under my skin that were exposed to the sun would dilate, which I took as a sign the body craved sunlight and wanted it to draw into the circulation. Later still, I learned a pioneering researcher found significant alternations would occur in the health of people who wore glasses that blocked specific light spectrums (e.g., most glass blocks UV light) from entering the most transparent part of the body that could be treated by giving them specialized glasses which did not block that spectrum from entering.\n`
+│   inner_content: `\n\nEver since I was a little child something seemed off about the fact everyone would get hysterical about how I needed to avoid sunlight and always wear sunscreen whenever we had an outdoor activity—so to the best of my ability I just didn’t comply. As I got older, I started to notice that beyond the sun feeling really good, anytime I was in the sun, the veins under my skin that were exposed to the sun would dilate, which I took as a sign the body craved sunlight and wanted it to draw into the circulation. Later still, I learned a pioneering researcher found significant alternations would occur in the health of people who wore glasses that blocked specific light spectrums (e.g., most glass blocks UV light) from entering the most transparent part of the body that could be treated by giving them specialized glasses which did not block that spectrum from entering.\n`├── EmphasisNode
+│   full_match: `&#39;&#39;Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.&#39;&#39;`
+│   inner_content: `Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.`
+│   │   inner_content: `Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.`├── TextNode
+│   full_match: `\n\nLater, when I became a medical student (at which point I was familiar with the myriad of benefits of sunlight), I was struck by how neurotic dermatologists were about avoiding sunlight—for instance, in addition to hearing every patient I saw there be lectured about the importance of avoiding sunlight, through my classmates, I learned of dermatologists in the northern latitudes (which had low enough sunlight people suffered from seasonal affective disorder) effectively require their students to wear sunscreen and clothing which covered most of their body while indoors. At this point my perspective on the issue changed to “this crusade against the sun is definitely coming from the dermatologists” and “what on earth is wrong with these people?” A few years ago I learned the final piece of the puzzle through `
+│   inner_content: `\n\nLater, when I became a medical student (at which point I was familiar with the myriad of benefits of sunlight), I was struck by how neurotic dermatologists were about avoiding sunlight—for instance, in addition to hearing every patient I saw there be lectured about the importance of avoiding sunlight, through my classmates, I learned of dermatologists in the northern latitudes (which had low enough sunlight people suffered from seasonal affective disorder) effectively require their students to wear sunscreen and clothing which covered most of their body while indoors. At this point my perspective on the issue changed to “this crusade against the sun is definitely coming from the dermatologists” and “what on earth is wrong with these people?” A few years ago I learned the final piece of the puzzle through `├── LinkNode
+│   full_match: `[https://robertyoho.substack.com/|Robert Yoho MD]`
+│   inner_content: `Robert Yoho MD`
+│   url: `https://robertyoho.substack.com/`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Robert Yoho MD`
+│   │   inner_content: `Robert Yoho MD`├── TextNode
+│   full_match: ` and his book `
+│   inner_content: ` and his book `├── LinkNode
+│   full_match: `[https://www.amazon.com/Butchered-Healthcare-Robert-Yoho-MD/dp/1735485756|Butchered by Healthcare]`
+│   inner_content: `Butchered by Healthcare`
+│   url: `https://www.amazon.com/Butchered-Healthcare-Robert-Yoho-MD/dp/1735485756`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Butchered by Healthcare`
+│   │   inner_content: `Butchered by Healthcare`├── TextNode
+│   full_match: `.`
+│   inner_content: `.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Noontime sun and D)) category contains`
+│   inner_content: `VitaminDWiki – ((Noontime sun and D)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Noontime sun and D))`
+│   │   inner_content: `Noontime sun and D`
+│   │   page: `Noontime sun and D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Noontime sun and D`
+│   │   │   inner_content: `Noontime sun and D`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Noontime sun and D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Noontime sun and D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Noontime sun and D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cancer - Skin)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cancer - Skin)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cancer - Skin))`
+│   │   inner_content: `Cancer - Skin`
+│   │   page: `Cancer - Skin`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cancer - Skin`
+│   │   │   inner_content: `Cancer - Skin`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cancer - Skin&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cancer - Skin&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cancer - Skin
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F06:18+~~  VitaminDWiki Noontime Sun pages have CANCER in the title`
+│   inner_content: `~~#F06:18+~~  VitaminDWiki Noontime Sun pages have CANCER in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:18+~~`
+│   │   inner_content: `18+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `18+`
+│   │   │   inner_content: `18+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki Noontime Sun pages have CANCER in the title`
+│   │   inner_content: `  VitaminDWiki Noontime Sun pages have CANCER in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n{LIST()}\n{list max=&quot;50&quot;}\n`
+│   inner_content: `\n{LIST()}\n{list max=&quot;50&quot;}\n`├── FilterNode
+│   full_match: `{filter categories=&quot;9&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: categories=&quot;9&quot;
+│   │   categories: 9├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FilterNode
+│   full_match: `{filter field=&quot;title&quot; content=&quot;cancer&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: field=&quot;title&quot; content=&quot;cancer&quot;
+│   │   field: title
+│   │   content: cancer├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FilterNode
+│   full_match: `{filter type=&quot;wiki page&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: type=&quot;wiki page&quot;
+│   │   type: wiki page├── TextNode
+│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`
+│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Article by [https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email|A MidWesternDoctor.com]
+APR 21, 2024
+
+__Story at a Glance:__
+__Skin cancers are by far the most commonly diagnosed cancer in the United States, so to prevent them, the public is constantly told to avoid the sun. However, while the relatively benign skin cancers are caused by sun exposure, the ones responsible for most skin cancer deaths are due to a lack of sunlight.__
+
+__This is unfortunate because sunlight is arguably the most important nutrient for the human body, as avoiding it doubles one’s rate of dying and significantly increases their risk of cancer.__
+
+__A strong case can be made that this dynamic was a result of the dermatology profession (with the help of a top PR firm) rebranding themselves to skin cancer fighters, something which allowed them to become one of the highest paying medical specialities in existence. Unfortunately, despite the billions that is put into fighting it each year, there has been no substantial change in the number of skin cancer deaths.__
+*&#39;&#39;Note: US dermatologists who deal with skin cancer have [https://www.perplexity.ai/search/Do-ermatologists-dealing-6V75noJMRFe3HA.PHHLS8w|average salary of $260,000/year], vs  US GP $230,000/year&#39;&#39;
+
+__In this article, we will also discuss the dangers of the conventional skin cancer treatments, the most effective ways for treating and preventing skin cancer, and some of the best strategies for having a healthy and nourishing relationship with the sun.__
+
+&#39;&#39;Note: in [https://www.midwesterndoctor.com/p/the-year-in-review-and-my-gratitude|February’s open thread], I presented some potential articles, and since this topic was one of the most requested, I have spent the last month working on it.&#39;&#39;
+
+Ever since I was a little child something seemed off about the fact everyone would get hysterical about how I needed to avoid sunlight and always wear sunscreen whenever we had an outdoor activity—so to the best of my ability I just didn’t comply. As I got older, I started to notice that beyond the sun feeling really good, anytime I was in the sun, the veins under my skin that were exposed to the sun would dilate, which I took as a sign the body craved sunlight and wanted it to draw into the circulation. Later still, I learned a pioneering researcher found significant alternations would occur in the health of people who wore glasses that blocked specific light spectrums (e.g., most glass blocks UV light) from entering the most transparent part of the body that could be treated by giving them specialized glasses which did not block that spectrum from entering.
+&#39;&#39;Note: all the above touches upon one of my favorite therapeutic modalities—ultraviolet blood irradiation, which will be the focus of an upcoming article.&#39;&#39;
+
+Later, when I became a medical student (at which point I was familiar with the myriad of benefits of sunlight), I was struck by how neurotic dermatologists were about avoiding sunlight—for instance, in addition to hearing every patient I saw there be lectured about the importance of avoiding sunlight, through my classmates, I learned of dermatologists in the northern latitudes (which had low enough sunlight people suffered from seasonal affective disorder) effectively require their students to wear sunscreen and clothing which covered most of their body while indoors. At this point my perspective on the issue changed to “this crusade against the sun is definitely coming from the dermatologists” and “what on earth is wrong with these people?” A few years ago I learned the final piece of the puzzle through [https://robertyoho.substack.com/|Robert Yoho MD] and his book [https://www.amazon.com/Butchered-Healthcare-Robert-Yoho-MD/dp/1735485756|Butchered by Healthcare].
+---
+!!!!VitaminDWiki – ((Noontime sun and D)) category contains
+{include page=&quot;Noontime sun and D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Cancer - Skin)) category contains:
+{include page=&quot;Cancer - Skin&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!~~#F06:18+~~  VitaminDWiki Noontime Sun pages have CANCER in the title
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;9&quot;}
+{filter field=&quot;title&quot; content=&quot;cancer&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Olive oil problem with Vitamin D (again)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Olive oil problem with Vitamin D (again)</h1>
+        <time>October 6, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="serum-25-hydroxyvitamin-d-response-to-vitamin-d-supplementation-using-different-lipid-delivery-systems-in-middle-aged-and-older-adults-a-randomised-controlled-trial">Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial</h4>
+<p>Br J Nutr . 2023 Nov 14;130(9):1548-1557. <a href="https://doi.org/10.1017/S0007114523000636">doi: 10.1017/S0007114523000636</a></p>
+<p>Aislinn F McCourt 1, Steven L Mulrooney 1, Graham J O&rsquo;Neill 2, E Dolores O&rsquo;Riordan 1, Aifric M O&rsquo;Sullivan 1</p>
+<h5 id="olive-not-as-good-as-coconut-if-already-have-sufficient-vitamin-d">Olive not as good as coconut if already have sufficient Vitamin D</h5>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Food fortification improves vitamin D intakes but is not yet mandated in many countries. Combining vitamin D with different dietary lipids altered vitamin D absorption in in vitro and postprandial studies. This randomised, placebo-controlled trial examined the effect of the lipid composition of a vitamin D-fortified dairy drink on change in 25-hydroxyvitamin D (25(OH)D) concentrations. Sixty-three healthy adults aged 50+ years were randomised to one of the following for 4 weeks: vitamin D-fortified olive oil dairy drink, vitamin D-fortified coconut oil dairy drink, vitamin D supplement or placebo control dairy drink. All vitamin D groups received 20 µg of vitamin D3 daily. Serum was collected at baseline and post-intervention to measure 25(OH)D concentrations and biomarkers of metabolic health. Repeated-measures general linear model ANCOVA (RM GLM ANCOVA) compared changes over time. There was a significant time × treatment interaction effect on 25(OH)D concentrations for those classified as vitamin D-insufficient (P &lt; 0·001) and -sufficient at baseline (P = 0·004). 25(OH)D concentrations increased significantly for all insufficient participants receiving vitamin D3 in any form. However, for vitamin D-sufficient participants at baseline, 25(OH)D concentrations only increased significantly with the coconut oil dairy drink and supplement. There was no effect of vitamin D on biomarkers of metabolic health. Vitamin D fortification of lipid-containing foods may be used in lieu of supplementation when supplement adherence is low or for individuals with dysphagia. These results are important given the recent recommendation to increase vitamin D intakes to 15-20 µg for older adults in Ireland.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="a-hrefpostssome-olive-oils-decrease-vitamin-d-absorption-by-25-percent-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-some-olive-oils-decrease-vitamin-d-absorption-by-25-percent--march-2016some-olive-oils-decrease-vitamin-d-absorption-by-25-percent--march-2016a"><a href="/posts/some-olive-oils-decrease-vitamin-d-absorption-by-25-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some olive oils decrease vitamin D absorption by 25 percent – March 2016">Some olive oils decrease vitamin D absorption by 25 percent – March 2016</a></h4>
+<p>Perhaps due to the pinoresinol in the oil</p>
+<hr>
+<h4 id="pinoresinol-of-olive-oil-decreases-vitamin-d-intestinal-absorption---sept-2016">Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016</h4>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="a-hrefpostsoil-based-vitamin-d3-has-the-worst-bioavailability-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-oil-based-vitamin-d3-has-the-worst-bioavailability--april-2014oil-based-vitamin-d3-has-the-worst-bioavailability--april-2014a"><a href="/posts/oil-based-vitamin-d3-has-the-worst-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oil-based Vitamin D3 has the worst bioavailability – April 2014">Oil-based Vitamin D3 has the worst bioavailability – April 2014</a></h4>
+<hr>
+<h4 id="a-hrefpostsnanoemulsion-vitamin-d-is-faster-and-better-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-nanoemulsion-vitamin-d-is-faster-and-better---many-studiesnanoemulsion-vitamin-d-is-faster-and-better---many-studiesa"><a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a></h4>
+<hr>
+<h4 id="recall-that-some-infants-spit-out-vitamin-d-in-olive-oil">Recall that some infants spit out Vitamin D in olive oil</h4>
+<!-- ~tc~ (alias(Olive oil problem with vitamin D (again) - Oct 2023)) ~/tc~ -->
+<!-- ~tc~ (alias(Olive oil problem with vitamin D (again) - Nov 2023)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial
+
+Br J Nutr . 2023 Nov 14;130(9):1548-1557. [doi: 10.1017/S0007114523000636](https://doi.org/10.1017/S0007114523000636)
+
+Aislinn F McCourt 1, Steven L Mulrooney 1, Graham J O&#39;Neill 2, E Dolores O&#39;Riordan 1, Aifric M O&#39;Sullivan 1
+
+##### Olive not as good as coconut if already have sufficient Vitamin D
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+Food fortification improves vitamin D intakes but is not yet mandated in many countries. Combining vitamin D with different dietary lipids altered vitamin D absorption in in vitro and postprandial studies. This randomised, placebo-controlled trial examined the effect of the lipid composition of a vitamin D-fortified dairy drink on change in 25-hydroxyvitamin D (25(OH)D) concentrations. Sixty-three healthy adults aged 50+ years were randomised to one of the following for 4 weeks: vitamin D-fortified olive oil dairy drink, vitamin D-fortified coconut oil dairy drink, vitamin D supplement or placebo control dairy drink. All vitamin D groups received 20 µg of vitamin D3 daily. Serum was collected at baseline and post-intervention to measure 25(OH)D concentrations and biomarkers of metabolic health. Repeated-measures general linear model ANCOVA (RM GLM ANCOVA) compared changes over time. There was a significant time × treatment interaction effect on 25(OH)D concentrations for those classified as vitamin D-insufficient (P &lt; 0·001) and -sufficient at baseline (P = 0·004). 25(OH)D concentrations increased significantly for all insufficient participants receiving vitamin D3 in any form. However, for vitamin D-sufficient participants at baseline, 25(OH)D concentrations only increased significantly with the coconut oil dairy drink and supplement. There was no effect of vitamin D on biomarkers of metabolic health. Vitamin D fortification of lipid-containing foods may be used in lieu of supplementation when supplement adherence is low or for individuals with dysphagia. These results are important given the recent recommendation to increase vitamin D intakes to 15-20 µg for older adults in Ireland.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### &lt;a href=&quot;/posts/some-olive-oils-decrease-vitamin-d-absorption-by-25-percent&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Some olive oils decrease vitamin D absorption by 25 percent – March 2016&quot;&gt;Some olive oils decrease vitamin D absorption by 25 percent – March 2016&lt;/a&gt;
+
+Perhaps due to the pinoresinol in the oil
+
+---
+
+#### Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### &lt;a href=&quot;/posts/oil-based-vitamin-d3-has-the-worst-bioavailability&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Oil-based Vitamin D3 has the worst bioavailability – April 2014&quot;&gt;Oil-based Vitamin D3 has the worst bioavailability – April 2014&lt;/a&gt;
+
+---
+
+#### &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies&quot;&gt;Nanoemulsion Vitamin D is faster and better - many studies&lt;/a&gt;
+
+---
+
+#### Recall that some infants spit out Vitamin D in olive oil
+
+&lt;!-- ~tc~ (alias(Olive oil problem with vitamin D (again) - Oct 2023)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(Olive oil problem with vitamin D (again) - Nov 2023)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial`
+│   inner_content: `Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial`
+│   │   inner_content: `Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial`├── TextNode
+│   full_match: `\nBr J Nutr . 2023 Nov 14;130(9):1548-1557. `
+│   inner_content: `\nBr J Nutr . 2023 Nov 14;130(9):1548-1557. `├── DoiLinkNode
+│   full_match: `doi: 10.1017/S0007114523000636`
+│   inner_content: `10.1017/S0007114523000636`├── TextNode
+│   full_match: `\nAislinn F McCourt 1, Steven L Mulrooney 1, Graham J O&#39;Neill 2, E Dolores O&#39;Riordan 1, Aifric M O&#39;Sullivan 1\n`
+│   inner_content: `\nAislinn F McCourt 1, Steven L Mulrooney 1, Graham J O&#39;Neill 2, E Dolores O&#39;Riordan 1, Aifric M O&#39;Sullivan 1\n`├── HeadingNode
+│   full_match: `\n!!!!!Olive not as good as coconut if already have sufficient Vitamin D`
+│   inner_content: `Olive not as good as coconut if already have sufficient Vitamin D`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Olive not as good as coconut if already have sufficient Vitamin D`
+│   │   inner_content: `Olive not as good as coconut if already have sufficient Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20192&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20192&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20192
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20193&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20193&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20193
+│   │   width: 600├── TextNode
+│   full_match: `\nFood fortification improves vitamin D intakes but is not yet mandated in many countries. Combining vitamin D with different dietary lipids altered vitamin D absorption in in vitro and postprandial studies. This randomised, placebo-controlled trial examined the effect of the lipid composition of a vitamin D-fortified dairy drink on change in 25-hydroxyvitamin D (25(OH)D) concentrations. Sixty-three healthy adults aged 50+ years were randomised to one of the following for 4 weeks: vitamin D-fortified olive oil dairy drink, vitamin D-fortified coconut oil dairy drink, vitamin D supplement or placebo control dairy drink. All vitamin D groups received 20 µg of vitamin D3 daily. Serum was collected at baseline and post-intervention to measure 25(OH)D concentrations and biomarkers of metabolic health. Repeated-measures general linear model ANCOVA (RM GLM ANCOVA) compared changes over time. There was a significant time × treatment interaction effect on 25(OH)D concentrations for those classified as vitamin D-insufficient (P &lt; 0·001) and -sufficient at baseline (P = 0·004). 25(OH)D concentrations increased significantly for all insufficient participants receiving vitamin D3 in any form. However, for vitamin D-sufficient participants at baseline, 25(OH)D concentrations only increased significantly with the coconut oil dairy drink and supplement. There was no effect of vitamin D on biomarkers of metabolic health. Vitamin D fortification of lipid-containing foods may be used in lieu of supplementation when supplement adherence is low or for individuals with dysphagia. These results are important given the recent recommendation to increase vitamin D intakes to 15-20 µg for older adults in Ireland.\n`
+│   inner_content: `\nFood fortification improves vitamin D intakes but is not yet mandated in many countries. Combining vitamin D with different dietary lipids altered vitamin D absorption in in vitro and postprandial studies. This randomised, placebo-controlled trial examined the effect of the lipid composition of a vitamin D-fortified dairy drink on change in 25-hydroxyvitamin D (25(OH)D) concentrations. Sixty-three healthy adults aged 50+ years were randomised to one of the following for 4 weeks: vitamin D-fortified olive oil dairy drink, vitamin D-fortified coconut oil dairy drink, vitamin D supplement or placebo control dairy drink. All vitamin D groups received 20 µg of vitamin D3 daily. Serum was collected at baseline and post-intervention to measure 25(OH)D concentrations and biomarkers of metabolic health. Repeated-measures general linear model ANCOVA (RM GLM ANCOVA) compared changes over time. There was a significant time × treatment interaction effect on 25(OH)D concentrations for those classified as vitamin D-insufficient (P &lt; 0·001) and -sufficient at baseline (P = 0·004). 25(OH)D concentrations increased significantly for all insufficient participants receiving vitamin D3 in any form. However, for vitamin D-sufficient participants at baseline, 25(OH)D concentrations only increased significantly with the coconut oil dairy drink and supplement. There was no effect of vitamin D on biomarkers of metabolic health. Vitamin D fortification of lipid-containing foods may be used in lieu of supplementation when supplement adherence is low or for individuals with dysphagia. These results are important given the recent recommendation to increase vitamin D intakes to 15-20 µg for older adults in Ireland.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20191
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((Some olive oils decrease vitamin D absorption by 25 percent – March 2016))`
+│   inner_content: `((Some olive oils decrease vitamin D absorption by 25 percent – March 2016))`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Some olive oils decrease vitamin D absorption by 25 percent – March 2016))`
+│   │   inner_content: `Some olive oils decrease vitamin D absorption by 25 percent – March 2016`
+│   │   page: `Some olive oils decrease vitamin D absorption by 25 percent – March 2016`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Some olive oils decrease vitamin D absorption by 25 percent – March 2016`
+│   │   │   inner_content: `Some olive oils decrease vitamin D absorption by 25 percent – March 2016`├── TextNode
+│   full_match: `\nPerhaps due to the pinoresinol in the oil`
+│   inner_content: `\nPerhaps due to the pinoresinol in the oil`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016`
+│   inner_content: `Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016`
+│   │   inner_content: `Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20194
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((Oil-based Vitamin D3 has the worst bioavailability – April 2014))`
+│   inner_content: `((Oil-based Vitamin D3 has the worst bioavailability – April 2014))`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Oil-based Vitamin D3 has the worst bioavailability – April 2014))`
+│   │   inner_content: `Oil-based Vitamin D3 has the worst bioavailability – April 2014`
+│   │   page: `Oil-based Vitamin D3 has the worst bioavailability – April 2014`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Oil-based Vitamin D3 has the worst bioavailability – April 2014`
+│   │   │   inner_content: `Oil-based Vitamin D3 has the worst bioavailability – April 2014`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((Nanoemulsion Vitamin D is faster and better - many studies))`
+│   inner_content: `((Nanoemulsion Vitamin D is faster and better - many studies))`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Nanoemulsion Vitamin D is faster and better - many studies))`
+│   │   inner_content: `Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   page: `Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Nanoemulsion Vitamin D is faster and better - many studies`
+│   │   │   inner_content: `Nanoemulsion Vitamin D is faster and better - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Recall that some infants spit out Vitamin D in olive oil`
+│   inner_content: `Recall that some infants spit out Vitamin D in olive oil`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Recall that some infants spit out Vitamin D in olive oil`
+│   │   inner_content: `Recall that some infants spit out Vitamin D in olive oil`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Olive oil problem with vitamin D (again) - Oct 2023)) ~/tc~`
+│   inner_content: ` (alias(Olive oil problem with vitamin D (again) - Oct 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Olive oil problem with vitamin D (again) - Oct 2023)) `
+│   │   inner_content: ` (alias(Olive oil problem with vitamin D (again) - Oct 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Olive oil problem with vitamin D (again) - Nov 2023)) ~/tc~`
+│   inner_content: ` (alias(Olive oil problem with vitamin D (again) - Nov 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Olive oil problem with vitamin D (again) - Nov 2023)) `
+│   │   inner_content: ` (alias(Olive oil problem with vitamin D (again) - Nov 2023)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!! Serum 25-hydroxyvitamin D response to vitamin D supplementation using different lipid delivery systems in middle-aged and older adults: a randomised controlled trial
+Br J Nutr . 2023 Nov 14;130(9):1548-1557. doi: 10.1017/S0007114523000636
+Aislinn F McCourt 1, Steven L Mulrooney 1, Graham J O&#39;Neill 2, E Dolores O&#39;Riordan 1, Aifric M O&#39;Sullivan 1
+
+!!!!!Olive not as good as coconut if already have sufficient Vitamin D
+{img type=&quot;attId&quot; attId=&quot;20192&quot; width=&quot;600&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20193&quot; width=&quot;600&quot;}
+Food fortification improves vitamin D intakes but is not yet mandated in many countries. Combining vitamin D with different dietary lipids altered vitamin D absorption in in vitro and postprandial studies. This randomised, placebo-controlled trial examined the effect of the lipid composition of a vitamin D-fortified dairy drink on change in 25-hydroxyvitamin D (25(OH)D) concentrations. Sixty-three healthy adults aged 50+ years were randomised to one of the following for 4 weeks: vitamin D-fortified olive oil dairy drink, vitamin D-fortified coconut oil dairy drink, vitamin D supplement or placebo control dairy drink. All vitamin D groups received 20 µg of vitamin D3 daily. Serum was collected at baseline and post-intervention to measure 25(OH)D concentrations and biomarkers of metabolic health. Repeated-measures general linear model ANCOVA (RM GLM ANCOVA) compared changes over time. There was a significant time × treatment interaction effect on 25(OH)D concentrations for those classified as vitamin D-insufficient (P &lt; 0·001) and -sufficient at baseline (P = 0·004). 25(OH)D concentrations increased significantly for all insufficient participants receiving vitamin D3 in any form. However, for vitamin D-sufficient participants at baseline, 25(OH)D concentrations only increased significantly with the coconut oil dairy drink and supplement. There was no effect of vitamin D on biomarkers of metabolic health. Vitamin D fortification of lipid-containing foods may be used in lieu of supplementation when supplement adherence is low or for individuals with dysphagia. These results are important given the recent recommendation to increase vitamin D intakes to 15-20 µg for older adults in Ireland.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!((Some olive oils decrease vitamin D absorption by 25 percent – March 2016))
+Perhaps due to the pinoresinol in the oil
+---
+!!!!Pinoresinol of olive oil decreases vitamin D intestinal absorption - Sept 2016
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20194&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!((Oil-based Vitamin D3 has the worst bioavailability – April 2014))
+---
+!!!!((Nanoemulsion Vitamin D is faster and better - many studies))
+---
+!!!!Recall that some infants spit out Vitamin D in olive oil
+~tc~ (alias(Olive oil problem with vitamin D (again) - Oct 2023)) ~/tc~
+~tc~ (alias(Olive oil problem with vitamin D (again) - Nov 2023)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

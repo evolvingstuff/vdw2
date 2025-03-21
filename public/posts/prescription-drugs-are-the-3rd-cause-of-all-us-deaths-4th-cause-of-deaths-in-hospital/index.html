@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Prescription drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Prescription drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital</h1>
+        <time>April 18, 2024</time>
+        <h4 id="prescription-drugs-are-the-leading-cause-of-death">Prescription Drugs Are the Leading Cause of Death</h4>
+<p><strong><a href="https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email">Brownstone</a></strong></p>
+<ul>
+<li>
+<p>&ldquo;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;</p>
+</li>
+</ul>
+<hr>
+<h4 id="5-related-items-in-vitamindwiki">5 related items in VitaminDWiki</h4>
+<ul>
+<li>
+<p><a href="/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us">5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024</a></p>
+</li>
+<li>
+<p><a href="/posts/off-topic-100000-deaths-due-to-prescriptions-0-due-to-supplements-conclusion-let-ate-supplements" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let's regulate supplements">Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&rsquo;s regulate supplements</a></p>
+</li>
+<li>
+<p><a href="/posts/half-of-prescription-drugs-not-needed-if-have-good-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half of prescription drugs not needed if have good levels of vitamin D - March 2012">Half of prescription drugs not needed if have good levels of vitamin D - March 2012</a></p>
+</li>
+<li>
+<p><a href="/posts/off-topic-3rd-leading-cause-of-death-is-the-medical-system-us" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017">Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017</a></p>
+</li>
+<li>
+<p><a href="/posts/leading-cause-of-death-age-0-5-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Leading cause of death age 0-5 – vitamin D deficiency">Leading cause of death age 0-5 – vitamin D deficiency</a></p>
+</li>
+</ul>
+<!-- ~tc~ (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+#### Prescription Drugs Are the Leading Cause of Death
+
+ **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email)** 
+
+* &quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;
+
+* &quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;
+
+* &quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;
+
+---
+
+#### 5 related items in VitaminDWiki
+
+* [5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024](/posts/5-percent-of-the-world-consumes-55-percent-of-the-prescription-medications-while-s-decreasing-us)
+
+* &lt;a href=&quot;/posts/off-topic-100000-deaths-due-to-prescriptions-0-due-to-supplements-conclusion-let-ate-supplements&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements&quot;&gt;Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/half-of-prescription-drugs-not-needed-if-have-good-levels-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Half of prescription drugs not needed if have good levels of vitamin D - March 2012&quot;&gt;Half of prescription drugs not needed if have good levels of vitamin D - March 2012&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/off-topic-3rd-leading-cause-of-death-is-the-medical-system-us&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017&quot;&gt;Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/leading-cause-of-death-age-0-5-vitamin-d-deficiency&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Leading cause of death age 0-5 – vitamin D deficiency&quot;&gt;Leading cause of death age 0-5 – vitamin D deficiency&lt;/a&gt;
+
+&lt;!-- ~tc~ (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!!Prescription Drugs Are the Leading Cause of Death`
+│   inner_content: `Prescription Drugs Are the Leading Cause of Death`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Prescription Drugs Are the Leading Cause of Death`
+│   │   inner_content: `Prescription Drugs Are the Leading Cause of Death`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email|Brownstone]__`
+│   inner_content: `[https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email|Brownstone]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email|Brownstone]`
+│   │   inner_content: `Brownstone`
+│   │   url: `https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Brownstone`
+│   │   │   inner_content: `Brownstone`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*&quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;`
+│   inner_content: `&quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;`
+│   │   inner_content: `&quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*&quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;`
+│   inner_content: `&quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;`
+│   │   inner_content: `&quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*&quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;`
+│   inner_content: `&quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `&quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;`
+│   │   inner_content: `&quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! 5 related items in VitaminDWiki`
+│   inner_content: `5 related items in VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `5 related items in VitaminDWiki`
+│   │   inner_content: `5 related items in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024))`
+│   inner_content: `((5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024))`
+│   │   inner_content: `5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024`
+│   │   page: `5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024`
+│   │   │   inner_content: `5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*((Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements))`
+│   inner_content: `((Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements))`
+│   │   inner_content: `Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements`
+│   │   page: `Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements`
+│   │   │   inner_content: `Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*((Half of prescription drugs not needed if have good levels of vitamin D - March 2012))`
+│   inner_content: `((Half of prescription drugs not needed if have good levels of vitamin D - March 2012))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Half of prescription drugs not needed if have good levels of vitamin D - March 2012))`
+│   │   inner_content: `Half of prescription drugs not needed if have good levels of vitamin D - March 2012`
+│   │   page: `Half of prescription drugs not needed if have good levels of vitamin D - March 2012`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Half of prescription drugs not needed if have good levels of vitamin D - March 2012`
+│   │   │   inner_content: `Half of prescription drugs not needed if have good levels of vitamin D - March 2012`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*((Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017))`
+│   inner_content: `((Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017))`
+│   │   inner_content: `Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017`
+│   │   page: `Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017`
+│   │   │   inner_content: `Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*((Leading cause of death age 0-5 – vitamin D deficiency))`
+│   inner_content: `((Leading cause of death age 0-5 – vitamin D deficiency))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Leading cause of death age 0-5 – vitamin D deficiency))`
+│   │   inner_content: `Leading cause of death age 0-5 – vitamin D deficiency`
+│   │   page: `Leading cause of death age 0-5 – vitamin D deficiency`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Leading cause of death age 0-5 – vitamin D deficiency`
+│   │   │   inner_content: `Leading cause of death age 0-5 – vitamin D deficiency`├── TextNode
+│   full_match: `\n\n\n\n`
+│   inner_content: `\n\n\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) ~/tc~`
+│   inner_content: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
+│   │   inner_content: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
+
+Original Tiki:
+-------------
+!!!!Prescription Drugs Are the Leading Cause of Death
+__[https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email|Brownstone]__
+*&quot;37,309 drug deaths were reported to the FDA in 2006 and%%% 123,927 ten years later, which is 3.3 times as many&quot;
+
+*&quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;
+
+*&quot;Another example of unrecognised drug deaths is provided by non-steroidal anti-inflammatory drugs (NSAIDs). They have killed hundreds of thousands of people,1 mainly through heart attacks and bleeding stomach ulcers, but these deaths are unlikely to be coded as adverse drug reactions, as such deaths also occur in patients who do not take the drugs. &quot;
+---
+!!!! 5 related items in VitaminDWiki
+*((5% of the world consumes 55% of the prescription medications while lifespan is decreasing (US) – March 2024))
+
+*((Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let&#39;s regulate supplements))
+
+*((Half of prescription drugs not needed if have good levels of vitamin D - March 2012))
+
+*((Off topic – 3rd leading cause of death is the Medical System (US) – Sept 2017))
+
+*((Leading cause of death age 0-5 – vitamin D deficiency))
+
+
+
+~tc~ (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

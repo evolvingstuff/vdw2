@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vitamin D levels vs disease and Best Practices</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Vitamin D levels vs disease and Best Practices</h1>
+        <time>January 8, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="exposure-to-a-vitamin-d-best-practices-toolkit-model-and-e-tools-increases-knowledge-confidence-and-the-translation-of-research-to-public-health-and-practice">Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice</h4>
+<p>Nutrients 2023, 15, 2446. <a href="https://doi.org/10.3390/">https://doi.org/10.3390/</a> nu15112446</p>
+<p>Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. McDonnell 2©, Samantha M. Kimball 2 and William B. Grant 3</p>
+<ul>
+<li>
+<p>School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA</p>
+</li>
+<li>
+<p>GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA;</p>
+<ul>
+<li>
+<p><a href="mailto:jen@grassrootshealth.org">jen@grassrootshealth.org</a> (J.L.A.);</p>
+</li>
+<li>
+<p><a href="mailto:samantha@grassrootshealth.org">samantha@grassrootshealth.org</a> (S.M.K.)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; <a href="mailto:wbgrant@infionline.net">wbgrant@infionline.net</a> * *Correspondence: <a href="mailto:beth.sanford@rasmussen.edu">beth.sanford@rasmussen.edu</a></p>
+</li>
+</ul>
+<p>     The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+<img src="/attachments/d3.mock.jpg" alt="image" width="800">
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<p>Preventable vitamin D deficiency (VDD) is a global health concern. The prevention, early detection, and treatment of vitamin D deficiency aligning with serum 25-hydroxyvitamin D concentration recommendations of 40-60 ng/mL (100-150 nmol/L), provided by an international panel of 48 vitamin D researchers, would result in significant health benefits and cost savings to individuals and society. However, research shows that healthcare professionals lack knowledge and confidence in best practices with respect to vitamin D. A vitamin D toolkit was developed that included a model for decision-making support, e-tools, and accompanying resources and was implemented using an online, asynchronous learning management system. This pre-test, post-test, and follow-up survey study design aimed to increase nurses&rsquo; and dietitians&rsquo; levels of knowledge and confidence regarding vitamin D, aid in their translation of evidence into spheres of practice and influence, and help them identify translation barriers. The completion of the toolkit increased the participants&rsquo; (n = 119) knowledge from 31% to 65% (p &lt; 0.001) and their confidence from 2.0 to 3.3 (p &lt; 0.001) on a scale of 1-5. Respondents reported using the model (100%) as a framework to successfully guide the translation of vitamin D knowledge into their sphere of influence or practice (94%) and identifying translation barriers. The toolkit should be included in interdisciplinary continuing education, research/quality improvement initiatives, healthcare policy, and institutions of higher learning to increase the movement of research into practice.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h5 id="40-150-ng-of-vitamin-d-need-to-a-hrefpostsis-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problemsis-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problemsa">40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems">Is 50 ng of vitamin D too high, just right, or not enough|treat health problems</a></h5>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice
+
+ Nutrients 2023, 15, 2446. https://doi.org/10.3390/ nu15112446
+
+Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. McDonnell 2©, Samantha M. Kimball 2 and William B. Grant 3
+
+* School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA
+
+* GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; 
+
+  * jen@grassrootshealth.org (J.L.A.);
+
+  * samantha@grassrootshealth.org (S.M.K.)
+
+* Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+ Preventable vitamin D deficiency (VDD) is a global health concern. The prevention, early detection, and treatment of vitamin D deficiency aligning with serum 25-hydroxyvitamin D concentration recommendations of 40-60 ng/mL (100-150 nmol/L), provided by an international panel of 48 vitamin D researchers, would result in significant health benefits and cost savings to individuals and society. However, research shows that healthcare professionals lack knowledge and confidence in best practices with respect to vitamin D. A vitamin D toolkit was developed that included a model for decision-making support, e-tools, and accompanying resources and was implemented using an online, asynchronous learning management system. This pre-test, post-test, and follow-up survey study design aimed to increase nurses&#39; and dietitians&#39; levels of knowledge and confidence regarding vitamin D, aid in their translation of evidence into spheres of practice and influence, and help them identify translation barriers. The completion of the toolkit increased the participants&#39; (n = 119) knowledge from 31% to 65% (p &lt; 0.001) and their confidence from 2.0 to 3.3 (p &lt; 0.001) on a scale of 1-5. Respondents reported using the model (100%) as a framework to successfully guide the translation of vitamin D knowledge into their sphere of influence or practice (94%) and identifying translation barriers. The toolkit should be included in interdisciplinary continuing education, research/quality improvement initiatives, healthcare policy, and institutions of higher learning to increase the movement of research into practice.
+
+  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+##### 40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&lt;/a&gt;
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice `
+│   inner_content: `Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice`
+│   │   inner_content: `Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice`├── TextNode
+│   full_match: `\n Nutrients 2023, 15, 2446. https://doi.org/10.3390/ nu15112446\nBeth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. McDonnell 2©, Samantha M. Kimball 2 and William B. Grant 3\n`
+│   inner_content: `\n Nutrients 2023, 15, 2446. https://doi.org/10.3390/ nu15112446\nBeth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. McDonnell 2©, Samantha M. Kimball 2 and William B. Grant 3\n`├── ListItemNode
+│   full_match: `*School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA`
+│   inner_content: `School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA`
+│   │   inner_content: `School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; `
+│   inner_content: `GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; `
+│   │   inner_content: `GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**jen@grassrootshealth.org (J.L.A.);`
+│   inner_content: `jen@grassrootshealth.org (J.L.A.);`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `jen@grassrootshealth.org (J.L.A.);`
+│   │   inner_content: `jen@grassrootshealth.org (J.L.A.);`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `**samantha@grassrootshealth.org (S.M.K.)`
+│   inner_content: `samantha@grassrootshealth.org (S.M.K.)`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `samantha@grassrootshealth.org (S.M.K.)`
+│   │   inner_content: `samantha@grassrootshealth.org (S.M.K.)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu`
+│   inner_content: `Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu`
+│   │   inner_content: `Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+ The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.`
+│   inner_content: ` The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: ` The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.`
+│   │   inner_content: ` The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20633&quot; width=&quot;700&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20633&quot; width=&quot;700&quot;
+│   │   type: attId
+│   │   attId: 20633
+│   │   width: 700├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20631&quot; width=&quot;800&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20631&quot; width=&quot;800&quot;
+│   │   type: attId
+│   │   attId: 20631
+│   │   width: 800├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20632&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20632&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 20632
+│   │   width: 500├── TextNode
+│   full_match: `\n Preventable vitamin D deficiency (VDD) is a global health concern. The prevention, early detection, and treatment of vitamin D deficiency aligning with serum 25-hydroxyvitamin D concentration recommendations of 40-60 ng/mL (100-150 nmol/L), provided by an international panel of 48 vitamin D researchers, would result in significant health benefits and cost savings to individuals and society. However, research shows that healthcare professionals lack knowledge and confidence in best practices with respect to vitamin D. A vitamin D toolkit was developed that included a model for decision-making support, e-tools, and accompanying resources and was implemented using an online, asynchronous learning management system. This pre-test, post-test, and follow-up survey study design aimed to increase nurses&#39; and dietitians&#39; levels of knowledge and confidence regarding vitamin D, aid in their translation of evidence into spheres of practice and influence, and help them identify translation barriers. The completion of the toolkit increased the participants&#39; (n = 119) knowledge from 31% to 65% (p &lt; 0.001) and their confidence from 2.0 to 3.3 (p &lt; 0.001) on a scale of 1-5. Respondents reported using the model (100%) as a framework to successfully guide the translation of vitamin D knowledge into their sphere of influence or practice (94%) and identifying translation barriers. The toolkit should be included in interdisciplinary continuing education, research/quality improvement initiatives, healthcare policy, and institutions of higher learning to increase the movement of research into practice.\n `
+│   inner_content: `\n Preventable vitamin D deficiency (VDD) is a global health concern. The prevention, early detection, and treatment of vitamin D deficiency aligning with serum 25-hydroxyvitamin D concentration recommendations of 40-60 ng/mL (100-150 nmol/L), provided by an international panel of 48 vitamin D researchers, would result in significant health benefits and cost savings to individuals and society. However, research shows that healthcare professionals lack knowledge and confidence in best practices with respect to vitamin D. A vitamin D toolkit was developed that included a model for decision-making support, e-tools, and accompanying resources and was implemented using an online, asynchronous learning management system. This pre-test, post-test, and follow-up survey study design aimed to increase nurses&#39; and dietitians&#39; levels of knowledge and confidence regarding vitamin D, aid in their translation of evidence into spheres of practice and influence, and help them identify translation barriers. The completion of the toolkit increased the participants&#39; (n = 119) knowledge from 31% to 65% (p &lt; 0.001) and their confidence from 2.0 to 3.3 (p &lt; 0.001) on a scale of 1-5. Respondents reported using the model (100%) as a framework to successfully guide the translation of vitamin D knowledge into their sphere of influence or practice (94%) and identifying translation barriers. The toolkit should be included in interdisciplinary continuing education, research/quality improvement initiatives, healthcare policy, and institutions of higher learning to increase the movement of research into practice.\n `├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20627
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
+│   inner_content: `40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40-150 ng of Vitamin D need to `
+│   │   inner_content: `40-150 ng of Vitamin D need to `
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Is 50 ng of vitamin D too high, just right, or not enough
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Exposure to a Vitamin D Best Practices Toolkit, Model, and E-Tools Increases Knowledge, Confidence, and the Translation of Research to Public Health and Practice 
+ Nutrients 2023, 15, 2446. https://doi.org/10.3390/ nu15112446
+Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. McDonnell 2©, Samantha M. Kimball 2 and William B. Grant 3
+*School of Nursing, Rasmussen University, 4012 19th Avenue South, Fargo, ND 58103, USA
+*GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; 
+**jen@grassrootshealth.org (J.L.A.);
+**samantha@grassrootshealth.org (S.M.K.)
+*Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu
++ The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
+
+{img type=&quot;attId&quot; attId=&quot;20633&quot; width=&quot;700&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20631&quot; width=&quot;800&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20632&quot; width=&quot;500&quot;}
+ Preventable vitamin D deficiency (VDD) is a global health concern. The prevention, early detection, and treatment of vitamin D deficiency aligning with serum 25-hydroxyvitamin D concentration recommendations of 40-60 ng/mL (100-150 nmol/L), provided by an international panel of 48 vitamin D researchers, would result in significant health benefits and cost savings to individuals and society. However, research shows that healthcare professionals lack knowledge and confidence in best practices with respect to vitamin D. A vitamin D toolkit was developed that included a model for decision-making support, e-tools, and accompanying resources and was implemented using an online, asynchronous learning management system. This pre-test, post-test, and follow-up survey study design aimed to increase nurses&#39; and dietitians&#39; levels of knowledge and confidence regarding vitamin D, aid in their translation of evidence into spheres of practice and influence, and help them identify translation barriers. The completion of the toolkit increased the participants&#39; (n = 119) knowledge from 31% to 65% (p &lt; 0.001) and their confidence from 2.0 to 3.3 (p &lt; 0.001) on a scale of 1-5. Respondents reported using the model (100%) as a framework to successfully guide the translation of vitamin D knowledge into their sphere of influence or practice (94%) and identifying translation barriers. The toolkit should be included in interdisciplinary continuing education, research/quality improvement initiatives, healthcare policy, and institutions of higher learning to increase the movement of research into practice.
+ {FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!!40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))
+{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

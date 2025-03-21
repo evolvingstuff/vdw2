@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Severe obesity is related to low vitamin D around the world</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Severe obesity is related to low vitamin D around the world</h1>
+        <time>August 29, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="a-systematic-review-and-meta-analysis-of-vitamin-d-status-of-patients-with-severe-obesity-in-various-regions-worldwide">A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide</h4>
+<p>Obes Facts , DOI: 10.1159/000533828 August 28, 2023</p>
+<p>Neda Haghighat1, Zahra Sohrabi2, Reza Bagheri3, Marzieh Akbarzadeh2, Zahra Esmaeilnezhad2, Damoon Ashtary- Larky1, Reza Barati-Boldaji2, Morteza Zare2, Masoud Amini1, Seyed Vahid Hosseini4, Alexei Wong5, Hamidreza Foroutan1 <a href="mailto:forotanh@sums.ac.ir">forotanh@sums.ac.ir</a></p>
+<p>1 Laparoscopy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran</p>
+<p>2 Department of Community Nutrition, Shiraz University of Medical Sciences, Shiraz, Iran</p>
+<p>3  Department of Exercise Physiology, University of Isfahan, Isfahan, Iran.</p>
+<p>4  Colorectal Research Center, Shiraz University of Medical Sciences, Shiraz, Iran</p>
+<p>5 Department of Health and Human Performance, Marymount University, Arlington, VA, United States.</p>
+<p><strong>Many charts in the PDF do not have good lables</strong></p>
+<p>Introduction: Managing nutritional deficiencies is an essential component in the treatment of severe obesity. Vitamin D deficiency is often reported in investigations in severe obese cohorts. However, no prior study has summarized findings on this topic. Consequently, the aim of this systematic review and meta-analysis was to investigate the 25- hydroxyvitamin D <span>[25(OH)D]</span> status in individuals with severe obesity in different regions worldwide. We also evaluated levels of calcium, PTH, and magnesium as secondary outcome measures.</p>
+<p>Methods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE for relevant observational studies published in English from 2009 to October 2021. The heterogeneity index among the studies was determined using the Cochran (Q) and I2 tests. Based on the heterogeneity results, the random-effect model was applied to estimate the prevalence of vitamin D deficiency.</p>
+<p>Results:  <strong>We identified 109 eligible observational studies.</strong>  Overall,</p>
+<ul>
+<li>
+<p>59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/ml](25(OH)D &lt;20 ng/ml), whereas</p>
+</li>
+<li>
+<p>26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/ml](25(OH)D 20-30 ng/ml).</p>
+</li>
+</ul>
+<p>Moreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean estimate of the serum calcium, PTH and magnesium was</p>
+<ul>
+<li>
+<p>Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)</p>
+</li>
+<li>
+<p>PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and</p>
+</li>
+<li>
+<p>magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively.</p>
+</li>
+</ul>
+<p>The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)](21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)).</p>
+<p>Conclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsoverview-obesity-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-obesity-and-vitamin-doverview-obesity-and-vitamin-da-contains">VitaminDWiki – <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a> contains</h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsobesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well--aug-2019obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well--aug-2019a-contains">VitaminDWiki – <a href="/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019">Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019</a> contains:</h4>
+<hr>
+<h4 id="vitamindwiki--">VitaminDWiki -</h4>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
+<pre><code>   studies in both categories Obesity and Magnesium
+</code></pre>
+<p>This list is automatically updated</p>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide
+
+Obes Facts , DOI: 10.1159/000533828 August 28, 2023
+
+Neda Haghighat1, Zahra Sohrabi2, Reza Bagheri3, Marzieh Akbarzadeh2, Zahra Esmaeilnezhad2, Damoon Ashtary- Larky1, Reza Barati-Boldaji2, Morteza Zare2, Masoud Amini1, Seyed Vahid Hosseini4, Alexei Wong5, Hamidreza Foroutan1 forotanh@sums.ac.ir
+
+1 Laparoscopy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran 
+
+2 Department of Community Nutrition, Shiraz University of Medical Sciences, Shiraz, Iran 
+
+3  Department of Exercise Physiology, University of Isfahan, Isfahan, Iran.
+
+4  Colorectal Research Center, Shiraz University of Medical Sciences, Shiraz, Iran 
+
+5 Department of Health and Human Performance, Marymount University, Arlington, VA, United States.
+
+ **Many charts in the PDF do not have good lables** 
+
+Introduction: Managing nutritional deficiencies is an essential component in the treatment of severe obesity. Vitamin D deficiency is often reported in investigations in severe obese cohorts. However, no prior study has summarized findings on this topic. Consequently, the aim of this systematic review and meta-analysis was to investigate the 25- hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; status in individuals with severe obesity in different regions worldwide. We also evaluated levels of calcium, PTH, and magnesium as secondary outcome measures.
+
+Methods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE for relevant observational studies published in English from 2009 to October 2021. The heterogeneity index among the studies was determined using the Cochran (Q) and I2 tests. Based on the heterogeneity results, the random-effect model was applied to estimate the prevalence of vitamin D deficiency.
+
+Results:  **We identified 109 eligible observational studies.**  Overall,
+
+* 59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/ml](25(OH)D &lt;20 ng/ml), whereas 
+
+* 26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/ml](25(OH)D 20-30 ng/ml). 
+
+Moreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean estimate of the serum calcium, PTH and magnesium was 
+
+* Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)
+
+* PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and 
+
+* magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. 
+
+The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)](21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)).
+
+Conclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;Overview Obesity and Vitamin D&lt;/a&gt; contains
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&quot;&gt;Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&lt;/a&gt; contains:
+
+---
+
+#### VitaminDWiki -  
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
+       studies in both categories Obesity and Magnesium
+
+This list is automatically updated
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide`
+│   inner_content: `A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide`
+│   │   inner_content: `A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide`├── TextNode
+│   full_match: `\nObes Facts , DOI: 10.1159/000533828 August 28, 2023\nNeda Haghighat1, Zahra Sohrabi2, Reza Bagheri3, Marzieh Akbarzadeh2, Zahra Esmaeilnezhad2, Damoon Ashtary- Larky1, Reza Barati-Boldaji2, Morteza Zare2, Masoud Amini1, Seyed Vahid Hosseini4, Alexei Wong5, Hamidreza Foroutan1 forotanh@sums.ac.ir\n1 Laparoscopy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran \n2 Department of Community Nutrition, Shiraz University of Medical Sciences, Shiraz, Iran \n3  Department of Exercise Physiology, University of Isfahan, Isfahan, Iran.\n4  Colorectal Research Center, Shiraz University of Medical Sciences, Shiraz, Iran \n5 Department of Health and Human Performance, Marymount University, Arlington, VA, United States.\n\n`
+│   inner_content: `\nObes Facts , DOI: 10.1159/000533828 August 28, 2023\nNeda Haghighat1, Zahra Sohrabi2, Reza Bagheri3, Marzieh Akbarzadeh2, Zahra Esmaeilnezhad2, Damoon Ashtary- Larky1, Reza Barati-Boldaji2, Morteza Zare2, Masoud Amini1, Seyed Vahid Hosseini4, Alexei Wong5, Hamidreza Foroutan1 forotanh@sums.ac.ir\n1 Laparoscopy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran \n2 Department of Community Nutrition, Shiraz University of Medical Sciences, Shiraz, Iran \n3  Department of Exercise Physiology, University of Isfahan, Isfahan, Iran.\n4  Colorectal Research Center, Shiraz University of Medical Sciences, Shiraz, Iran \n5 Department of Health and Human Performance, Marymount University, Arlington, VA, United States.\n\n`├── BoldNode
+│   full_match: `__Many charts in the PDF do not have good lables__`
+│   inner_content: `Many charts in the PDF do not have good lables`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Many charts in the PDF do not have good lables`
+│   │   inner_content: `Many charts in the PDF do not have good lables`├── TextNode
+│   full_match: `\nIntroduction: Managing nutritional deficiencies is an essential component in the treatment of severe obesity. Vitamin D deficiency is often reported in investigations in severe obese cohorts. However, no prior study has summarized findings on this topic. Consequently, the aim of this systematic review and meta-analysis was to investigate the 25- hydroxyvitamin D `
+│   inner_content: `\nIntroduction: Managing nutritional deficiencies is an essential component in the treatment of severe obesity. Vitamin D deficiency is often reported in investigations in severe obese cohorts. However, no prior study has summarized findings on this topic. Consequently, the aim of this systematic review and meta-analysis was to investigate the 25- hydroxyvitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` status in individuals with severe obesity in different regions worldwide. We also evaluated levels of calcium, PTH, and magnesium as secondary outcome measures.\n\nMethods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE for relevant observational studies published in English from 2009 to October 2021. The heterogeneity index among the studies was determined using the Cochran (Q) and I2 tests. Based on the heterogeneity results, the random-effect model was applied to estimate the prevalence of vitamin D deficiency.\n\nResults: `
+│   inner_content: ` status in individuals with severe obesity in different regions worldwide. We also evaluated levels of calcium, PTH, and magnesium as secondary outcome measures.\n\nMethods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE for relevant observational studies published in English from 2009 to October 2021. The heterogeneity index among the studies was determined using the Cochran (Q) and I2 tests. Based on the heterogeneity results, the random-effect model was applied to estimate the prevalence of vitamin D deficiency.\n\nResults: `├── BoldNode
+│   full_match: `__We identified 109 eligible observational studies.__`
+│   inner_content: `We identified 109 eligible observational studies.`
+│   children:
+│   ├── TextNode
+│   │   full_match: `We identified 109 eligible observational studies.`
+│   │   inner_content: `We identified 109 eligible observational studies.`├── TextNode
+│   full_match: ` Overall,\n`
+│   inner_content: ` Overall,\n`├── ListItemNode
+│   full_match: `*59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/ml], whereas `
+│   inner_content: `59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/ml], whereas `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `59.44% of patients had vitamin D deficiency `
+│   │   inner_content: `59.44% of patients had vitamin D deficiency `
+│   ├── LinkNode
+│   │   full_match: `[25(OH)D &lt;20 ng/ml]`
+│   │   inner_content: `25(OH)D &lt;20 ng/ml`
+│   │   url: `25(OH)D &lt;20 ng/ml`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `25(OH)D &lt;20 ng/ml`
+│   │   │   inner_content: `25(OH)D &lt;20 ng/ml`
+│   ├── TextNode
+│   │   full_match: `, whereas `
+│   │   inner_content: `, whereas `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/ml]. `
+│   inner_content: `26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/ml]. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `26.95% had vitamin D insufficiency `
+│   │   inner_content: `26.95% had vitamin D insufficiency `
+│   ├── LinkNode
+│   │   full_match: `[25(OH)D 20-30 ng/ml]`
+│   │   inner_content: `25(OH)D 20-30 ng/ml`
+│   │   url: `25(OH)D 20-30 ng/ml`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `25(OH)D 20-30 ng/ml`
+│   │   │   inner_content: `25(OH)D 20-30 ng/ml`
+│   ├── TextNode
+│   │   full_match: `. `
+│   │   inner_content: `. `├── TextNode
+│   full_match: `\nMoreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean estimate of the serum calcium, PTH and magnesium was \n`
+│   inner_content: `\nMoreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean estimate of the serum calcium, PTH and magnesium was \n`├── ListItemNode
+│   full_match: `*Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)`
+│   inner_content: `Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)`
+│   │   inner_content: `Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and `
+│   inner_content: `PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and `
+│   │   inner_content: `PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. `
+│   inner_content: `magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. `
+│   │   inner_content: `magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. `├── TextNode
+│   full_match: `\nThe results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America `
+│   inner_content: `\nThe results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America `├── LinkNode
+│   full_match: `[21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)]`
+│   inner_content: `21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)`
+│   url: `21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)`
+│   │   inner_content: `21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)`├── TextNode
+│   full_match: ` and lowest in Southeast Asia `
+│   inner_content: ` and lowest in Southeast Asia `├── LinkNode
+│   full_match: `[14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)]`
+│   inner_content: `14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)`
+│   url: `14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)`
+│   │   inner_content: `14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)`├── TextNode
+│   full_match: `.\n\nConclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.\n`
+│   inner_content: `.\n\nConclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20027
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Obesity and Vitamin D)) contains `
+│   inner_content: `VitaminDWiki – ((Overview Obesity and Vitamin D)) contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Obesity and Vitamin D))`
+│   │   inner_content: `Overview Obesity and Vitamin D`
+│   │   page: `Overview Obesity and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Obesity and Vitamin D`
+│   │   │   inner_content: `Overview Obesity and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Obesity and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Obesity and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Obesity and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── IncludeNode
+│   full_match: `{include page=&quot;Obese need 2X to 3X more vitamin D - Nov 2014&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Obese need 2X to 3X more vitamin D - Nov 2014&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Obese need 2X to 3X more vitamin D - Nov 2014
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019)) contains:`
+│   inner_content: `VitaminDWiki – ((Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019)) contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019))`
+│   │   inner_content: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019`
+│   │   page: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019`
+│   │   │   inner_content: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Obesity and Magnesium`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Obesity and Magnesium`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Obesity and Magnesium`
+│   │   inner_content: `       studies in both categories Obesity and Magnesium`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;19+54&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;19+54&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 19+54
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!A systematic review and meta-analysis of vitamin D status of patients with severe obesity in various regions worldwide
+Obes Facts , DOI: 10.1159/000533828 August 28, 2023
+Neda Haghighat1, Zahra Sohrabi2, Reza Bagheri3, Marzieh Akbarzadeh2, Zahra Esmaeilnezhad2, Damoon Ashtary- Larky1, Reza Barati-Boldaji2, Morteza Zare2, Masoud Amini1, Seyed Vahid Hosseini4, Alexei Wong5, Hamidreza Foroutan1 forotanh@sums.ac.ir
+1 Laparoscopy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran 
+2 Department of Community Nutrition, Shiraz University of Medical Sciences, Shiraz, Iran 
+3  Department of Exercise Physiology, University of Isfahan, Isfahan, Iran.
+4  Colorectal Research Center, Shiraz University of Medical Sciences, Shiraz, Iran 
+5 Department of Health and Human Performance, Marymount University, Arlington, VA, United States.
+
+__Many charts in the PDF do not have good lables__
+Introduction: Managing nutritional deficiencies is an essential component in the treatment of severe obesity. Vitamin D deficiency is often reported in investigations in severe obese cohorts. However, no prior study has summarized findings on this topic. Consequently, the aim of this systematic review and meta-analysis was to investigate the 25- hydroxyvitamin D [25(OH)D] status in individuals with severe obesity in different regions worldwide. We also evaluated levels of calcium, PTH, and magnesium as secondary outcome measures.
+
+Methods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE for relevant observational studies published in English from 2009 to October 2021. The heterogeneity index among the studies was determined using the Cochran (Q) and I2 tests. Based on the heterogeneity results, the random-effect model was applied to estimate the prevalence of vitamin D deficiency.
+
+Results: __We identified 109 eligible observational studies.__ Overall,
+*59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/ml], whereas 
+*26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/ml]. 
+Moreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean estimate of the serum calcium, PTH and magnesium was 
+*Calcium: 9.26 mg/dl (95% CI: 9.19-9.32, I2=99.7%, p&lt;0.001)
+*PTH: 59.24 pg/ml (95% CI: 54.98, 63.51), I2= 99.7%, p &lt; 0.001), and 
+*magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. 
+The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)] and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)].
+
+Conclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20027&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki – ((Overview Obesity and Vitamin D)) contains 
+{include page=&quot;Overview Obesity and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+{include page=&quot;Obese need 2X to 3X more vitamin D - Nov 2014&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019)) contains:
+{include page=&quot;Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 19  OR categId = 54 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Obesity and Magnesium
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;19+54&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CDC recommends 100 vaccinations by age 18</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>CDC recommends 100 vaccinations by age 18</h1>
+        <time>February 15, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="childrens-health-defensehttpsupportchildrenshealthdefenseorgsitemessageviewerjsessionid00000000app30028bdlv_id15582em_id156810nonce_token3ef3bd1f7bb2645cc738280eee073ce7__"><a href="http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7">Children’s Health Defense</a>__</h4>
+<p><strong>“Only”  76 doses of 18 different vaccines are recommended after birth</strong></p>
+<hr>
+<h4 id="major-health-problems-after-vaccinations-covid-and-others">Major health problems after Vaccinations (COVID and others)</h4>
+<ul>
+<li>
+<p><strong><a href="/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies">Multiple COVID vaccinations might increase Cancer Incidence - many studies</a></strong></p>
+</li>
+<li>
+<p><strong><a href="/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies">Sudden Infant Deaths (SIDS) soon after vaccination - several studies</a></strong></p>
+</li>
+<li>
+<p><strong><a href="/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die">Infants getting lots of vaccinations are 2X more likely to die - July 2023</a></strong></p>
+</li>
+<li>
+<p><strong><a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a></strong></p>
+</li>
+<li>
+<p><strong><a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a></strong></p>
+</li>
+</ul>
+<hr>
+<h4 id="asked-ai-about-us-vaccinations">Asked AI about US vaccinations</h4>
+<p>Hepatitis B (HepB)</p>
+<p>Rotavirus (RV)</p>
+<p>Diphtheria, tetanus, and acellular pertussis (DTaP)</p>
+<p>Haemophilus influenzae type b (Hib)</p>
+<p>Pneumococcal conjugate (PCV13)</p>
+<p>Inactivated poliovirus (IPV)</p>
+<p>Influenza (Flu)</p>
+<p>Measles, mumps, rubella (MMR)</p>
+<p>Varicella (Chickenpox)</p>
+<p>Hepatitis A (HepA)</p>
+<p>Meningococcal (MenACWY and MenB)</p>
+<p>Human papillomavirus (HPV)</p>
+<p>Tetanus, diphtheria, &amp; acellular pertussis (Tdap)</p>
+<p>The schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances</p>
+<p><strong>Detailed Feb 2024 answer  by <a href="https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c">Perplexity</a></strong></p>
+<p><strong>Note:  The list does NOT include COVID vaccinations nor boosters</strong></p>
+<hr>
+<h4 id="suspect-multiple-vaccinations-is-like-calling-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf-wolf--etc">Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.</h4>
+<p><strong>At some point the immune system will not have enough resources or interest to respond to an actual invasion</strong></p>
+<p>One of the depleted resources might be Vitamin D</p>
+<p>Suspect that some vaccinations consume Vitamin D</p>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### [Children’s Health Defense](http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7)__
+
+ **“Only”  76 doses of 18 different vaccines are recommended after birth** 
+
+---
+
+#### Major health problems after Vaccinations (COVID and others)
+
+*  **[Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)** 
+
+*  **&lt;a href=&quot;/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies&quot;&gt;Sudden Infant Deaths (SIDS) soon after vaccination - several studies&lt;/a&gt;** 
+
+*  **[Infants getting lots of vaccinations are 2X more likely to die - July 2023](/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die)** 
+
+*  **&lt;a href=&quot;/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022&quot;&gt;6X increase in excess deaths of children since vaccinations were started - Oct 2022&lt;/a&gt;** 
+
+*  **&lt;a href=&quot;/posts/problems-after-childhood-vaccinations-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Problems after childhood vaccinations - many studies&quot;&gt;Problems after childhood vaccinations - many studies&lt;/a&gt;** 
+
+---
+
+#### Asked AI about US vaccinations
+
+Hepatitis B (HepB)
+
+Rotavirus (RV)
+
+Diphtheria, tetanus, and acellular pertussis (DTaP)
+
+Haemophilus influenzae type b (Hib)
+
+Pneumococcal conjugate (PCV13)
+
+Inactivated poliovirus (IPV)
+
+Influenza (Flu)
+
+Measles, mumps, rubella (MMR)
+
+Varicella (Chickenpox)
+
+Hepatitis A (HepA)
+
+Meningococcal (MenACWY and MenB)
+
+Human papillomavirus (HPV)
+
+Tetanus, diphtheria, &amp; acellular pertussis (Tdap)
+
+The schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances
+
+ **Detailed Feb 2024 answer  by [Perplexity](https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c)** 
+
+ **Note:  The list does NOT include COVID vaccinations nor boosters** 
+
+---
+
+#### Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.
+
+ **At some point the immune system will not have enough resources or interest to respond to an actual invasion** 
+
+One of the depleted resources might be Vitamin D
+
+Suspect that some vaccinations consume Vitamin D
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!![http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7|Children’s Health Defense]__`
+│   inner_content: `[http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7|Children’s Health Defense]__`
+│   level: `4`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7|Children’s Health Defense]`
+│   │   inner_content: `Children’s Health Defense`
+│   │   url: `http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Children’s Health Defense`
+│   │   │   inner_content: `Children’s Health Defense`
+│   ├── TextNode
+│   │   full_match: `__`
+│   │   inner_content: `__`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__“Only”  76 doses of 18 different vaccines are recommended after birth__`
+│   inner_content: `“Only”  76 doses of 18 different vaccines are recommended after birth`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“Only”  76 doses of 18 different vaccines are recommended after birth`
+│   │   inner_content: `“Only”  76 doses of 18 different vaccines are recommended after birth`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Major health problems after Vaccinations (COVID and others)`
+│   inner_content: `Major health problems after Vaccinations (COVID and others)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Major health problems after Vaccinations (COVID and others)`
+│   │   inner_content: `Major health problems after Vaccinations (COVID and others)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__((Multiple COVID vaccinations might increase Cancer Incidence - many studies))__`
+│   inner_content: `__((Multiple COVID vaccinations might increase Cancer Incidence - many studies))__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__((Multiple COVID vaccinations might increase Cancer Incidence - many studies))__`
+│   │   inner_content: `((Multiple COVID vaccinations might increase Cancer Incidence - many studies))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Multiple COVID vaccinations might increase Cancer Incidence - many studies))`
+│   │   │   inner_content: `Multiple COVID vaccinations might increase Cancer Incidence - many studies`
+│   │   │   page: `Multiple COVID vaccinations might increase Cancer Incidence - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Multiple COVID vaccinations might increase Cancer Incidence - many studies`
+│   │   │   │   inner_content: `Multiple COVID vaccinations might increase Cancer Incidence - many studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))__`
+│   inner_content: `__((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))__`
+│   │   inner_content: `((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))`
+│   │   │   inner_content: `Sudden Infant Deaths (SIDS) soon after vaccination - several studies`
+│   │   │   page: `Sudden Infant Deaths (SIDS) soon after vaccination - several studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Sudden Infant Deaths (SIDS) soon after vaccination - several studies`
+│   │   │   │   inner_content: `Sudden Infant Deaths (SIDS) soon after vaccination - several studies`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__((Infants getting lots of vaccinations are 2X more likely to die - July 2023))__`
+│   inner_content: `__((Infants getting lots of vaccinations are 2X more likely to die - July 2023))__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__((Infants getting lots of vaccinations are 2X more likely to die - July 2023))__`
+│   │   inner_content: `((Infants getting lots of vaccinations are 2X more likely to die - July 2023))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Infants getting lots of vaccinations are 2X more likely to die - July 2023))`
+│   │   │   inner_content: `Infants getting lots of vaccinations are 2X more likely to die - July 2023`
+│   │   │   page: `Infants getting lots of vaccinations are 2X more likely to die - July 2023`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Infants getting lots of vaccinations are 2X more likely to die - July 2023`
+│   │   │   │   inner_content: `Infants getting lots of vaccinations are 2X more likely to die - July 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__((6X increase in excess deaths of children since vaccinations were started - Oct 2022))__`
+│   inner_content: `__((6X increase in excess deaths of children since vaccinations were started - Oct 2022))__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__((6X increase in excess deaths of children since vaccinations were started - Oct 2022))__`
+│   │   inner_content: `((6X increase in excess deaths of children since vaccinations were started - Oct 2022))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((6X increase in excess deaths of children since vaccinations were started - Oct 2022))`
+│   │   │   inner_content: `6X increase in excess deaths of children since vaccinations were started - Oct 2022`
+│   │   │   page: `6X increase in excess deaths of children since vaccinations were started - Oct 2022`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `6X increase in excess deaths of children since vaccinations were started - Oct 2022`
+│   │   │   │   inner_content: `6X increase in excess deaths of children since vaccinations were started - Oct 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__((Problems after childhood vaccinations - many studies))__`
+│   inner_content: `__((Problems after childhood vaccinations - many studies))__`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__((Problems after childhood vaccinations - many studies))__`
+│   │   inner_content: `((Problems after childhood vaccinations - many studies))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Problems after childhood vaccinations - many studies))`
+│   │   │   inner_content: `Problems after childhood vaccinations - many studies`
+│   │   │   page: `Problems after childhood vaccinations - many studies`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Problems after childhood vaccinations - many studies`
+│   │   │   │   inner_content: `Problems after childhood vaccinations - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Asked AI about US vaccinations`
+│   inner_content: `Asked AI about US vaccinations`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Asked AI about US vaccinations`
+│   │   inner_content: `Asked AI about US vaccinations`├── TextNode
+│   full_match: `\nHepatitis B (HepB)\nRotavirus (RV)\nDiphtheria, tetanus, and acellular pertussis (DTaP)\nHaemophilus influenzae type b (Hib)\nPneumococcal conjugate (PCV13)\nInactivated poliovirus (IPV)\nInfluenza (Flu)\nMeasles, mumps, rubella (MMR)\nVaricella (Chickenpox)\nHepatitis A (HepA)\nMeningococcal (MenACWY and MenB)\nHuman papillomavirus (HPV)\nTetanus, diphtheria, &amp; acellular pertussis (Tdap)\nThe schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances\n`
+│   inner_content: `\nHepatitis B (HepB)\nRotavirus (RV)\nDiphtheria, tetanus, and acellular pertussis (DTaP)\nHaemophilus influenzae type b (Hib)\nPneumococcal conjugate (PCV13)\nInactivated poliovirus (IPV)\nInfluenza (Flu)\nMeasles, mumps, rubella (MMR)\nVaricella (Chickenpox)\nHepatitis A (HepA)\nMeningococcal (MenACWY and MenB)\nHuman papillomavirus (HPV)\nTetanus, diphtheria, &amp; acellular pertussis (Tdap)\nThe schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances\n`├── BoldNode
+│   full_match: `__Detailed Feb 2024 answer  by [https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c|Perplexity]__`
+│   inner_content: `Detailed Feb 2024 answer  by [https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c|Perplexity]`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Detailed Feb 2024 answer  by `
+│   │   inner_content: `Detailed Feb 2024 answer  by `
+│   ├── LinkNode
+│   │   full_match: `[https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c|Perplexity]`
+│   │   inner_content: `Perplexity`
+│   │   url: `https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Perplexity`
+│   │   │   inner_content: `Perplexity`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__Note:  The list does NOT include COVID vaccinations nor boosters__`
+│   inner_content: `Note:  The list does NOT include COVID vaccinations nor boosters`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note:  The list does NOT include COVID vaccinations nor boosters`
+│   │   inner_content: `Note:  The list does NOT include COVID vaccinations nor boosters`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.`
+│   inner_content: `Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.`
+│   │   inner_content: `Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__At some point the immune system will not have enough resources or interest to respond to an actual invasion__`
+│   inner_content: `At some point the immune system will not have enough resources or interest to respond to an actual invasion`
+│   children:
+│   ├── TextNode
+│   │   full_match: `At some point the immune system will not have enough resources or interest to respond to an actual invasion`
+│   │   inner_content: `At some point the immune system will not have enough resources or interest to respond to an actual invasion`├── TextNode
+│   full_match: `\nOne of the depleted resources might be Vitamin D\nSuspect that some vaccinations consume Vitamin D`
+│   inner_content: `\nOne of the depleted resources might be Vitamin D\nSuspect that some vaccinations consume Vitamin D`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!![http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7|Children’s Health Defense]__
+__“Only”  76 doses of 18 different vaccines are recommended after birth__
+---
+!!!!Major health problems after Vaccinations (COVID and others)
+*__((Multiple COVID vaccinations might increase Cancer Incidence - many studies))__
+*__((Sudden Infant Deaths (SIDS) soon after vaccination - several studies))__
+*__((Infants getting lots of vaccinations are 2X more likely to die - July 2023))__
+*__((6X increase in excess deaths of children since vaccinations were started - Oct 2022))__
+*__((Problems after childhood vaccinations - many studies))__
+---
+!!!!Asked AI about US vaccinations
+Hepatitis B (HepB)
+Rotavirus (RV)
+Diphtheria, tetanus, and acellular pertussis (DTaP)
+Haemophilus influenzae type b (Hib)
+Pneumococcal conjugate (PCV13)
+Inactivated poliovirus (IPV)
+Influenza (Flu)
+Measles, mumps, rubella (MMR)
+Varicella (Chickenpox)
+Hepatitis A (HepA)
+Meningococcal (MenACWY and MenB)
+Human papillomavirus (HPV)
+Tetanus, diphtheria, &amp; acellular pertussis (Tdap)
+The schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances
+__Detailed Feb 2024 answer  by [https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c|Perplexity]__
+
+__Note:  The list does NOT include COVID vaccinations nor boosters__
+---
+!!!!Suspect multiple vaccinations is like calling: wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf. wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf, wolf  etc.
+__At some point the immune system will not have enough resources or interest to respond to an actual invasion__
+One of the depleted resources might be Vitamin D
+Suspect that some vaccinations consume Vitamin D
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

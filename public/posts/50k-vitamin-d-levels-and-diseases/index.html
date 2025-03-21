@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>50K vitamin D levels and diseases</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>50K vitamin D levels and diseases</h1>
+        <time>June 28, 2023</time>
+        <p>||Response to Vitamin D |Additional Diseases Treated</p>
+<p><img src="/attachments/d3.mock.jpg" alt="image" width="300">|A%%%B %%%C</p>
+<p>| ||</p>
+<p><a href="/posts/vitamindwiki-interview-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022">VitaminDWiki interview and transcript - Jan 2022</a></p>
+<p><strong>40-150 ng of Vitamin D need to treat health problems</strong></p>
+<p><strong><a href="/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency">Hypothesis of cause and effect of vitamin D deficiency</a></strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image">
+<p><strong><a href="https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D">48 Health problems fought by weekly 50K Vitamin D</a></strong></p>
+<div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+<p><strong>ADHD     Anxiety     Asthma     Autism     BPH (prostate)     Cancer - Breast     Cancer - Colon     Cancer - Prostate     Cardiovascular     Chronic Obstructive Pulmonary Disease     Cognitive Decline     Colds      Depression     Diabetes     Endometriosis     Falls     Fibromyalgia     Hashimoto&rsquo;s Thyroiditis     Hay Fever     Heart Failure     Hives      Hypertension – Pulmonary     Immune System     Infant     Inflammatory Bowel Syndrome     Influenza     Kidney Disease     Lupus     Migraine     Multiple Sclerosis     Obesity     Osteoarthritis – Knee Pain     Pain - Chronic     Pain - Growing     PMS     Preeclampsia     Premature Birth     Respiratory Tract Infection     Schizophrenia     Sleep - Poor     Sleep Apnea     Smoking     Sports Performance     Stroke     Surgery     Tuberculosis     Ulcerative Colitis     Ulcers – Venous     Urinary Tract Infection</strong></p>
+</div>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+||Response to Vitamin D |Additional Diseases Treated
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;|A%%%B %%%C
+
+| ||
+
+&lt;a href=&quot;/posts/vitamindwiki-interview-and-transcript&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VitaminDWiki interview and transcript - Jan 2022&quot;&gt;VitaminDWiki interview and transcript - Jan 2022&lt;/a&gt;
+
+ **40-150 ng of Vitamin D need to treat health problems** 
+
+ **&lt;a href=&quot;/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency&quot;&gt;Hypothesis of cause and effect of vitamin D deficiency&lt;/a&gt;** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+ **[48 Health problems fought by weekly 50K Vitamin D](https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)** 
+
+&lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
+
+  **ADHD&amp;nbsp;&amp;nbsp;&amp;nbsp;  Anxiety&amp;nbsp;&amp;nbsp;&amp;nbsp;  Asthma&amp;nbsp;&amp;nbsp;&amp;nbsp;  Autism&amp;nbsp;&amp;nbsp;&amp;nbsp;  BPH (prostate)&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Breast&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Colon&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Prostate&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cardiovascular&amp;nbsp;&amp;nbsp;&amp;nbsp;  Chronic Obstructive Pulmonary Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cognitive Decline&amp;nbsp;&amp;nbsp;&amp;nbsp;  Colds &amp;nbsp;&amp;nbsp;&amp;nbsp;  Depression&amp;nbsp;&amp;nbsp;&amp;nbsp;  Diabetes&amp;nbsp;&amp;nbsp;&amp;nbsp;  Endometriosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Falls&amp;nbsp;&amp;nbsp;&amp;nbsp;  Fibromyalgia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hashimoto&#39;s Thyroiditis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hay Fever&amp;nbsp;&amp;nbsp;&amp;nbsp;  Heart Failure&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hives &amp;nbsp;&amp;nbsp;&amp;nbsp;  Hypertension – Pulmonary&amp;nbsp;&amp;nbsp;&amp;nbsp;  Immune System&amp;nbsp;&amp;nbsp;&amp;nbsp;  Infant&amp;nbsp;&amp;nbsp;&amp;nbsp;  Inflammatory Bowel Syndrome&amp;nbsp;&amp;nbsp;&amp;nbsp;  Influenza&amp;nbsp;&amp;nbsp;&amp;nbsp;  Kidney Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Lupus&amp;nbsp;&amp;nbsp;&amp;nbsp;  Migraine&amp;nbsp;&amp;nbsp;&amp;nbsp;  Multiple Sclerosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Obesity&amp;nbsp;&amp;nbsp;&amp;nbsp;  Osteoarthritis – Knee Pain&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Chronic&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Growing&amp;nbsp;&amp;nbsp;&amp;nbsp;  PMS&amp;nbsp;&amp;nbsp;&amp;nbsp;  Preeclampsia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Premature Birth&amp;nbsp;&amp;nbsp;&amp;nbsp;  Respiratory Tract Infection&amp;nbsp;&amp;nbsp;&amp;nbsp;  Schizophrenia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep - Poor&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep Apnea&amp;nbsp;&amp;nbsp;&amp;nbsp;  Smoking&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sports Performance&amp;nbsp;&amp;nbsp;&amp;nbsp;  Stroke&amp;nbsp;&amp;nbsp;&amp;nbsp;  Surgery&amp;nbsp;&amp;nbsp;&amp;nbsp;  Tuberculosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcerative Colitis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcers – Venous&amp;nbsp;&amp;nbsp;&amp;nbsp;  Urinary Tract Infection**    
+
+&lt;/div&gt;
+
+
+
+AST Structure:
+-------------
+├── TextNode
+│   full_match: `||Response to Vitamin D |Additional Diseases Treated\n`
+│   inner_content: `||Response to Vitamin D |Additional Diseases Treated\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;
+│   │   type: attId
+│   │   attId: 19707
+│   │   width: 300├── TextNode
+│   full_match: `|A%%%B %%%C\n| ||\n\n`
+│   inner_content: `|A%%%B %%%C\n| ||\n\n`├── LocalLinkNode
+│   full_match: `((VitaminDWiki interview and transcript - Jan 2022))`
+│   inner_content: `VitaminDWiki interview and transcript - Jan 2022`
+│   page: `VitaminDWiki interview and transcript - Jan 2022`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki interview and transcript - Jan 2022`
+│   │   inner_content: `VitaminDWiki interview and transcript - Jan 2022`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__40-150 ng of Vitamin D need to treat health problems__`
+│   inner_content: `40-150 ng of Vitamin D need to treat health problems`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40-150 ng of Vitamin D need to treat health problems`
+│   │   inner_content: `40-150 ng of Vitamin D need to treat health problems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Is 50 ng of vitamin D too high, just right, or not enough
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__((Hypothesis of cause and effect of vitamin D deficiency))__`
+│   inner_content: `((Hypothesis of cause and effect of vitamin D deficiency))`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Hypothesis of cause and effect of vitamin D deficiency))`
+│   │   inner_content: `Hypothesis of cause and effect of vitamin D deficiency`
+│   │   page: `Hypothesis of cause and effect of vitamin D deficiency`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Hypothesis of cause and effect of vitamin D deficiency`
+│   │   │   inner_content: `Hypothesis of cause and effect of vitamin D deficiency`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img fileId=&quot;922&quot;max=&quot;750&quot; }`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=&quot;922&quot;max=&quot;750&quot; 
+│   │   fileId: 922
+│   │   max: 750├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]__`
+│   inner_content: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
+│   │   inner_content: `48 Health problems fought by weekly 50K Vitamin D`
+│   │   url: `https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `48 Health problems fought by weekly 50K Vitamin D`
+│   │   │   inner_content: `48 Health problems fought by weekly 50K Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(style=&quot;line-height:40px;&quot;)}\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n{DIV}`
+│   inner_content: `\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n`
+│   attrs_dict:
+│   │   raw_content: (style=&quot;line-height:40px;&quot;)
+│   │   style: line-height:40px;
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── BoxNode
+│   │   full_match: `{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}`
+│   │   inner_content: `\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n`
+│   │   attrs_dict:
+│   │   │   raw_content:  bg=&gt;#FFFAE2,width= &quot;800px&quot;
+│   │   │   bg: &gt;#FFFAE2
+│   │   │   width: 800px
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `\n `
+│   │   │   inner_content: `\n `
+│   │   ├── FontNode
+│   │   │   full_match: `{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}`
+│   │   │   inner_content: `__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: size=&quot;18&quot;
+│   │   │   │   size: 18
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__`
+│   │   │   │   inner_content: `ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `ADHD`
+│   │   │   │   │   inner_content: `ADHD`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Anxiety`
+│   │   │   │   │   inner_content: `  Anxiety`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Asthma`
+│   │   │   │   │   inner_content: `  Asthma`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Autism`
+│   │   │   │   │   inner_content: `  Autism`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  BPH (prostate)`
+│   │   │   │   │   inner_content: `  BPH (prostate)`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Cancer - Breast`
+│   │   │   │   │   inner_content: `  Cancer - Breast`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Cancer - Colon`
+│   │   │   │   │   inner_content: `  Cancer - Colon`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Cancer - Prostate`
+│   │   │   │   │   inner_content: `  Cancer - Prostate`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Cardiovascular`
+│   │   │   │   │   inner_content: `  Cardiovascular`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Chronic Obstructive Pulmonary Disease`
+│   │   │   │   │   inner_content: `  Chronic Obstructive Pulmonary Disease`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Cognitive Decline`
+│   │   │   │   │   inner_content: `  Cognitive Decline`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Colds `
+│   │   │   │   │   inner_content: `  Colds `
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Depression`
+│   │   │   │   │   inner_content: `  Depression`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Diabetes`
+│   │   │   │   │   inner_content: `  Diabetes`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Endometriosis`
+│   │   │   │   │   inner_content: `  Endometriosis`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Falls`
+│   │   │   │   │   inner_content: `  Falls`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Fibromyalgia`
+│   │   │   │   │   inner_content: `  Fibromyalgia`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Hashimoto&#39;s Thyroiditis`
+│   │   │   │   │   inner_content: `  Hashimoto&#39;s Thyroiditis`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Hay Fever`
+│   │   │   │   │   inner_content: `  Hay Fever`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Heart Failure`
+│   │   │   │   │   inner_content: `  Heart Failure`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Hives `
+│   │   │   │   │   inner_content: `  Hives `
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Hypertension – Pulmonary`
+│   │   │   │   │   inner_content: `  Hypertension – Pulmonary`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Immune System`
+│   │   │   │   │   inner_content: `  Immune System`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Infant`
+│   │   │   │   │   inner_content: `  Infant`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Inflammatory Bowel Syndrome`
+│   │   │   │   │   inner_content: `  Inflammatory Bowel Syndrome`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Influenza`
+│   │   │   │   │   inner_content: `  Influenza`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Kidney Disease`
+│   │   │   │   │   inner_content: `  Kidney Disease`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Lupus`
+│   │   │   │   │   inner_content: `  Lupus`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Migraine`
+│   │   │   │   │   inner_content: `  Migraine`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Multiple Sclerosis`
+│   │   │   │   │   inner_content: `  Multiple Sclerosis`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Obesity`
+│   │   │   │   │   inner_content: `  Obesity`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Osteoarthritis – Knee Pain`
+│   │   │   │   │   inner_content: `  Osteoarthritis – Knee Pain`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Pain - Chronic`
+│   │   │   │   │   inner_content: `  Pain - Chronic`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Pain - Growing`
+│   │   │   │   │   inner_content: `  Pain - Growing`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  PMS`
+│   │   │   │   │   inner_content: `  PMS`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Preeclampsia`
+│   │   │   │   │   inner_content: `  Preeclampsia`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Premature Birth`
+│   │   │   │   │   inner_content: `  Premature Birth`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Respiratory Tract Infection`
+│   │   │   │   │   inner_content: `  Respiratory Tract Infection`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Schizophrenia`
+│   │   │   │   │   inner_content: `  Schizophrenia`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Sleep - Poor`
+│   │   │   │   │   inner_content: `  Sleep - Poor`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Sleep Apnea`
+│   │   │   │   │   inner_content: `  Sleep Apnea`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Smoking`
+│   │   │   │   │   inner_content: `  Smoking`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Sports Performance`
+│   │   │   │   │   inner_content: `  Sports Performance`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Stroke`
+│   │   │   │   │   inner_content: `  Stroke`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Surgery`
+│   │   │   │   │   inner_content: `  Surgery`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Tuberculosis`
+│   │   │   │   │   inner_content: `  Tuberculosis`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Ulcerative Colitis`
+│   │   │   │   │   inner_content: `  Ulcerative Colitis`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Ulcers – Venous`
+│   │   │   │   │   inner_content: `  Ulcers – Venous`
+│   │   │   │   ├── HorizontalSpaceNode
+│   │   │   │   │   full_match: `~hs~~hs~~hs~`
+│   │   │   │   │   inner_content: ``
+│   │   │   │   │   repetitions: `3`
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `  Urinary Tract Infection`
+│   │   │   │   │   inner_content: `  Urinary Tract Infection`
+│   │   ├── TextNode
+│   │   │   full_match: `   \n`
+│   │   │   inner_content: `   \n`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+
+Original Tiki:
+-------------
+||Response to Vitamin D |Additional Diseases Treated
+{img type=&quot;attId&quot; attId=&quot;19707&quot; width=&quot;300&quot;}|A%%%B %%%C
+| ||
+
+((VitaminDWiki interview and transcript - Jan 2022))
+
+__40-150 ng of Vitamin D need to treat health problems__
+{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+__((Hypothesis of cause and effect of vitamin D deficiency))__
+{img fileId=&quot;922&quot;max=&quot;750&quot; }
+
+__[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]__
+{DIV(style=&quot;line-height:40px;&quot;)}
+{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}
+ {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   
+{BOX}
+{DIV}
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

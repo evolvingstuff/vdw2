@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hemodialysis and Vitamin D - many studies</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Hemodialysis and Vitamin D - many studies</h1>
+        <time>January 20, 2023</time>
+        <!-- {maketoc} -->
+<hr>
+<h4 id="hemodialysis-patients-reduced-dementia-chance-by-60-if-take-40000-iu-of-vitamin-d-weekly--aug-2023">Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023</h4>
+<p><strong>The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients</strong></p>
+<p>Life 2023, 13(8), 1741; <a href="https://doi.org/10.3390/life13081741">https://doi.org/10.3390/life13081741</a></p>
+<p>by Chih-Lang Lin 1,2,3,†,Wan-Ming Chen 4,5,†,An-Tzu Jao 6,Ben-Chang Shia 4,5ORCID andSzu-Yuan Wu 4,5,6,7,8,9,10,11,*ORCID</p>
+<p>Simple Summary</p>
+<p>This study investigated the effect of vitamin D supplementation on the risk of dementia in patients with end-stage renal disease on hemodialysis, which is a novel contribution to the literature. To our knowledge, this is the first study to examine the relationship between vitamin D supplementation and the risk of dementia in this patient population. The use of a 1:1 propensity score-matched cohort design adds robustness and reliability to the study findings. The results demonstrated that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in a dose-dependent manner, regardless of age. These findings add new and important information to the existing literature on the relationship between vitamin D and cognitive health in ESRD patients on hemodialysis, and suggest that vitamin D supplementation may be an effective preventive strategy for cognitive impairment in this vulnerable patient population.</p>
+<p>Abstract</p>
+<p>Background: Patients with end-stage renal disease (ESRD) undergoing hemodialysis are at an elevated risk of developing dementia, potentially linked to the high prevalence of vitamin D deficiency in this population, which may contribute to cognitive impairment. Nevertheless, the impact of vitamin D supplementation on the risk of dementia in hemodialysis patients remains uncertain, necessitating further investigation to elucidate the potential benefits of vitamin D intervention in this vulnerable group.</p>
+<p>Methods: In this propensity-score-matched comparative cohort study, we sought to assess the impact of vitamin D supplementation on the occurrence of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. A total of 1424 patients were included and matched 1:1 using propensity scores. The study population was divided into two groups: those receiving vitamin D supplementation at a dose of ≥70 μg/week and those without any supplementation. The primary outcome of interest was the incidence of dementia. We calculated adjusted hazard ratios (aHRs) to examine the association between vitamin D supplementation and the risk of dementia while controlling for relevant covariates.</p>
+<p>Results: The adjusted hazard ratio (aHR) comparing vitamin D supplementation to no supplementation was 0.44 (95% CI 0.29–0.69; p &lt; 0.0001), demonstrating a significant decrease in the risk of dementia associated with vitamin D supplementation. The aHRs for vitamin D supplementation at different dose ranges (70–105, 106–350, 351–1000, and &gt;1000 μg/week) were 0.51, 0.49, 0.43, and 0.41, respectively (p for trend &lt; 0.0001). These findings suggest a potential dose-dependent relationship between vitamin D supplementation and the reduction of dementia risk.</p>
+<p>Conclusions: In our study, we found that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. Furthermore, our results indicated a dose-dependent effect, with higher doses of supplementation correlating with a greater reduction in dementia risk. These findings underscore the potential of vitamin D supplementation as a preventive approach for cognitive impairment in this high-risk population.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<h5 id="a-hrefpostsdementia-is-associated-with-low-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-dementia-is-associated-with-low-vitamin-d---many-studiesdementia-is-associated-with-low-vitamin-d---many-studiesa"><a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a></h5>
+<hr>
+<h4 id="hemodialysis-patients-probably-helped-by-monthly-100000-iu-of-vitamin-d---march-2023">Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023</h4>
+<p><strong>The effects and safety of high dose vitamin D3 in hemodialysis patients</strong></p>
+<p>Pharm Pract (Granada)  2023 Jan-Mar;21(1):2773. <a href="https://doi.org/10.18549/PharmPract.2023.1.2773">doi: 10.18549/PharmPract.2023.1.2773</a></p>
+<p>Adnane Guella 1, Abduelmula R Abduelkarem 2, Mohammed M Hassanein 3</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<p>Background: Different studies have shown that hemodialysis patients require higher doses of Vitamin D3 (VD3) than the general population to achieve satisfactory replenishment. This study aims to assess the safety of such practice and its benefits on some of the parameters of Chronic Kidney Disease- Mineral and Bone Disorder (CKD-MBD).</p>
+<p>Methods: A single-center clinical trial assessing the benefits of high dose VD3 in hemodialysis patients. The dose of VD3 (300,000 IU) was administered orally and monthly from April to December 2020 (9 months) at the dialysis unit. The data analyzed were blood levels of calcium, phosphorus, alkaline phosphatase, 25(OH)D, 1,25(OH)2D and intact parathyroid hormone (iPTH) done every three months.</p>
+<p>Results: We could recruit a cohort of 23 patients. Blood levels of 25(OH)D increased significantly in 82.6% of the patients to above 30 ng/ml. A similar effect was observed with 1, 25(OH)2D levels. iPTH levels decreased significantly when levels of 25(OH)D exceeded 30ng/ml at the end of the nine months. Vitamin D serum levels were typically measured immediately before the next monthly dose was administered. Blood levels of calcium, phosphorus, and alkaline phosphatase were stable during the study period. No events of hypercalcemia were reported, and no patient discontinued the monthly VD3 supplementation.</p>
+<p>Conclusion: Monthly administration of a high dose of VD3 over a long period of nine months in hemodialysis patients was found to be safe and beneficial in VD3 replenishment. It also allowed a significant decrease in iPTH levels. Further studies are warranted to identify the therapeutic target level of 25(OH)D in hemodialysis patients, allowing beneficial effects on iPTH.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="long-term-cholecalciferol-supplementation-in-hemodialysis-patients-effects-on-mineral-metabolism-inflammation-and-cardiac-parameters---jan-2023">Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023</h4>
+<p>Semin Dial . 2023 Jan;36(1):29-36. <a href="https://doi.org/10.1111/sdi.13066">doi: 10.1111/sdi.13066</a> publisher rents PDF for $12</p>
+<p>Patrícia João Matias 1 2 3 4, Ivo Laranjinha 1 2 3, Gonçalo Ávila 1 2 3, Ana Azevedo 1 2 3, Cristina Jorge 1 2 3, Carina Ferreira 1 2 3 4, Inês Aires 1 2 3 4, Tiago Amaral 1 2 3, Célia Gil 1 2 3, Aníbal Ferreira 1 2 3 4</p>
+<p>Background: Low levels of 25-hydroxyvitamin D <span>[25(OH)D]</span> are frequent in chronic kidney disease and are associated with adverse outcomes. The aim of this 5-year prospective study was to evaluate the effects of cholecalciferol supplementation on mineral metabolism, inflammation and cardiac parameters in hemodialysis (HD) patients.</p>
+<p>Methods: The study included 97 patients. Cholecalciferol was given after HD according to 25(OH)D baseline levels measured twice (end of winter and of summer). The 25(OH)D levels, circulating bone metabolism, inflammation parameters, brain natriuretic peptide (BNP), pulse pressure (PP), and left ventricular mass index (LVMI) were evaluated before and after supplementation.</p>
+<p>Results: There was a significant increase in 25(OH)D levels after supplementation (p &lt; 0.001); however, serum calcium (p = 0.02), phosphorus (p = 0.018), and iPTH (p = 0.03) were decreased. Magnesium levels increased during the study (p = 0.03). A reduction in the number of patients under active vitamin D (p &lt; 0.001) and in the dose and number of patients treated with darbepoetin (p = 0.02) was observed. Serum albumin increased (p &lt; 0.001), and C-reactive protein decreased (p = 0.01). BNP (p &lt; 0.001), PP (p = 0.007), and LVMI (p = 0.02) were significantly reduced after supplementation.</p>
+<p>Conclusions: Long-term cholecalciferol supplementation allowed correction of 25(OH)D deficiency, improved mineral metabolism with less use of active vitamin D, attenuated inflammation, reduced the dose of the erythropoiesis-stimulating agent, and improved cardiac dysfunction.</p>
+<hr>
+<h4 id="more-hemodialysis-pain-if-low-vitamin-d---jan-2023">More Hemodialysis pain if low vitamin D - Jan 2023</h4>
+<p><strong>Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study</strong></p>
+<p>Sci Rep .2023 Jan 21;13(1):1182. <a href="https://doi.org/10.1038/s41598-022-25793-z.">doi: 10.1038/s41598-022-25793-z.</a></p>
+<p>Shaima Ishtawi 1, Dana Jomaa 1, Aisha Nizar 1, Mazen Abdalla 2, Zakaria Hamdan 3, Zaher Nazzal 4</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<p>This cross-sectional study aims to find the prevalence of chronic pain and its correlation with the quality of life and vitamin D levels among hemodialysis patients in Palestine. We used the brief pain inventory, the medical outcomes study 36-item short-form health survey, and Serum 25-hydroxyvitamin D to assess chronic pain, quality of life, and vitamin D levels, respectively. The study included 200 patients, 38.1% (95% confidence interval 31.3-45.4%) of whom had chronic pain, and 77.7% (95% confidence interval 71.0-83.4%) had deficient Vitamin D levels. Quality of life scores were generally low, with the lowest in role emotional and physical functioning. Sex, comorbidities, and vitamin D level significantly correlate with pain severity. Employment, number of comorbidities, pain severity, and albumin level are significantly associated with the Physical component of quality of life. On the other hand, employment and pain severity are significantly related to the mental component of quality of life. In conclusion, low vitamin D levels, chronic pain, and low quality of life scores are common among hemodialysis patients. In addition, vitamin D is negatively correlated with pain severity. Therefore, healthcare workers should assess and manage hemodialysis patients&rsquo; chronic pain to improve their quality of life and reduce suffering.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<!-- ~tc~ starts ~/tc~ -->
+<hr>
+<h4 id="span-stylecolororange39-spanvitamindwiki-pages-with-hemodialysis-etc-in-title"><span style="color:orange;">39+ </span>VitaminDWiki pages with HEMODIALYSIS etc in title</h4>
+<p>This list is automatically updated</p>
+<p>{LIST()}</p>
+<p>{list max=&ldquo;100&rdquo;}</p>
+<!-- {filter field="title" content="hemodialysis OR haemodialysis OR dialysis"} -->
+<!-- {filter type="wiki page"} -->
+<p>{sort mode=&ldquo;modification_date_major_desc&rdquo;}</p>
+<p>{OUTPUT(template=&ldquo;table&rdquo;)}</p>
+<p>{tableparams allowtableexpansion=&ldquo;n&rdquo; shownbitems=&ldquo;y&rdquo; title=&quot;&quot;}</p>
+<pre><code>{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+</code></pre>
+<p>{OUTPUT}</p>
+<p>{FORMAT(name=&ldquo;title&rdquo;)}{display name=title format=&ldquo;objectlink&rdquo;}{FORMAT}</p>
+<p>{FORMAT(name=&ldquo;modification_date_major&rdquo;)}{display name=modification_date_major format=&ldquo;date&rdquo;}{FORMAT}</p>
+<p>{LIST}</p>
+<!-- ~tc~ ends ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc} --&gt;
+ 
+
+---
+
+#### Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023
+
+ **The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients** 
+
+Life 2023, 13(8), 1741; https://doi.org/10.3390/life13081741
+
+by Chih-Lang Lin 1,2,3,†,Wan-Ming Chen 4,5,†,An-Tzu Jao 6,Ben-Chang Shia 4,5ORCID andSzu-Yuan Wu 4,5,6,7,8,9,10,11,*ORCID
+
+Simple Summary
+
+This study investigated the effect of vitamin D supplementation on the risk of dementia in patients with end-stage renal disease on hemodialysis, which is a novel contribution to the literature. To our knowledge, this is the first study to examine the relationship between vitamin D supplementation and the risk of dementia in this patient population. The use of a 1:1 propensity score-matched cohort design adds robustness and reliability to the study findings. The results demonstrated that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in a dose-dependent manner, regardless of age. These findings add new and important information to the existing literature on the relationship between vitamin D and cognitive health in ESRD patients on hemodialysis, and suggest that vitamin D supplementation may be an effective preventive strategy for cognitive impairment in this vulnerable patient population.
+
+Abstract
+
+Background: Patients with end-stage renal disease (ESRD) undergoing hemodialysis are at an elevated risk of developing dementia, potentially linked to the high prevalence of vitamin D deficiency in this population, which may contribute to cognitive impairment. Nevertheless, the impact of vitamin D supplementation on the risk of dementia in hemodialysis patients remains uncertain, necessitating further investigation to elucidate the potential benefits of vitamin D intervention in this vulnerable group. 
+
+Methods: In this propensity-score-matched comparative cohort study, we sought to assess the impact of vitamin D supplementation on the occurrence of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. A total of 1424 patients were included and matched 1:1 using propensity scores. The study population was divided into two groups: those receiving vitamin D supplementation at a dose of ≥70 μg/week and those without any supplementation. The primary outcome of interest was the incidence of dementia. We calculated adjusted hazard ratios (aHRs) to examine the association between vitamin D supplementation and the risk of dementia while controlling for relevant covariates. 
+
+Results: The adjusted hazard ratio (aHR) comparing vitamin D supplementation to no supplementation was 0.44 (95% CI 0.29–0.69; p &lt; 0.0001), demonstrating a significant decrease in the risk of dementia associated with vitamin D supplementation. The aHRs for vitamin D supplementation at different dose ranges (70–105, 106–350, 351–1000, and &gt;1000 μg/week) were 0.51, 0.49, 0.43, and 0.41, respectively (p for trend &lt; 0.0001). These findings suggest a potential dose-dependent relationship between vitamin D supplementation and the reduction of dementia risk.
+
+ Conclusions: In our study, we found that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. Furthermore, our results indicated a dose-dependent effect, with higher doses of supplementation correlating with a greater reduction in dementia risk. These findings underscore the potential of vitamin D supplementation as a preventive approach for cognitive impairment in this high-risk population.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+##### &lt;a href=&quot;/posts/dementia-is-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dementia is associated with low vitamin D - many studies&quot;&gt;Dementia is associated with low vitamin D - many studies&lt;/a&gt;
+
+---
+
+#### Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023
+
+ **The effects and safety of high dose vitamin D3 in hemodialysis patients** 
+
+Pharm Pract (Granada)  2023 Jan-Mar;21(1):2773. [doi: 10.18549/PharmPract.2023.1.2773](https://doi.org/10.18549/PharmPract.2023.1.2773)
+
+Adnane Guella 1, Abduelmula R Abduelkarem 2, Mohammed M Hassanein 3
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+Background: Different studies have shown that hemodialysis patients require higher doses of Vitamin D3 (VD3) than the general population to achieve satisfactory replenishment. This study aims to assess the safety of such practice and its benefits on some of the parameters of Chronic Kidney Disease- Mineral and Bone Disorder (CKD-MBD).
+
+Methods: A single-center clinical trial assessing the benefits of high dose VD3 in hemodialysis patients. The dose of VD3 (300,000 IU) was administered orally and monthly from April to December 2020 (9 months) at the dialysis unit. The data analyzed were blood levels of calcium, phosphorus, alkaline phosphatase, 25(OH)D, 1,25(OH)2D and intact parathyroid hormone (iPTH) done every three months.
+
+Results: We could recruit a cohort of 23 patients. Blood levels of 25(OH)D increased significantly in 82.6% of the patients to above 30 ng/ml. A similar effect was observed with 1, 25(OH)2D levels. iPTH levels decreased significantly when levels of 25(OH)D exceeded 30ng/ml at the end of the nine months. Vitamin D serum levels were typically measured immediately before the next monthly dose was administered. Blood levels of calcium, phosphorus, and alkaline phosphatase were stable during the study period. No events of hypercalcemia were reported, and no patient discontinued the monthly VD3 supplementation.
+
+Conclusion: Monthly administration of a high dose of VD3 over a long period of nine months in hemodialysis patients was found to be safe and beneficial in VD3 replenishment. It also allowed a significant decrease in iPTH levels. Further studies are warranted to identify the therapeutic target level of 25(OH)D in hemodialysis patients, allowing beneficial effects on iPTH.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023
+
+Semin Dial . 2023 Jan;36(1):29-36. [doi: 10.1111/sdi.13066](https://doi.org/10.1111/sdi.13066) publisher rents PDF for $12
+
+Patrícia João Matias 1 2 3 4, Ivo Laranjinha 1 2 3, Gonçalo Ávila 1 2 3, Ana Azevedo 1 2 3, Cristina Jorge 1 2 3, Carina Ferreira 1 2 3 4, Inês Aires 1 2 3 4, Tiago Amaral 1 2 3, Célia Gil 1 2 3, Aníbal Ferreira 1 2 3 4
+
+Background: Low levels of 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; are frequent in chronic kidney disease and are associated with adverse outcomes. The aim of this 5-year prospective study was to evaluate the effects of cholecalciferol supplementation on mineral metabolism, inflammation and cardiac parameters in hemodialysis (HD) patients.
+
+Methods: The study included 97 patients. Cholecalciferol was given after HD according to 25(OH)D baseline levels measured twice (end of winter and of summer). The 25(OH)D levels, circulating bone metabolism, inflammation parameters, brain natriuretic peptide (BNP), pulse pressure (PP), and left ventricular mass index (LVMI) were evaluated before and after supplementation.
+
+Results: There was a significant increase in 25(OH)D levels after supplementation (p &lt; 0.001); however, serum calcium (p = 0.02), phosphorus (p = 0.018), and iPTH (p = 0.03) were decreased. Magnesium levels increased during the study (p = 0.03). A reduction in the number of patients under active vitamin D (p &lt; 0.001) and in the dose and number of patients treated with darbepoetin (p = 0.02) was observed. Serum albumin increased (p &lt; 0.001), and C-reactive protein decreased (p = 0.01). BNP (p &lt; 0.001), PP (p = 0.007), and LVMI (p = 0.02) were significantly reduced after supplementation.
+
+Conclusions: Long-term cholecalciferol supplementation allowed correction of 25(OH)D deficiency, improved mineral metabolism with less use of active vitamin D, attenuated inflammation, reduced the dose of the erythropoiesis-stimulating agent, and improved cardiac dysfunction.
+
+---
+
+#### More Hemodialysis pain if low vitamin D - Jan 2023
+
+ **Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study** 
+
+Sci Rep .2023 Jan 21;13(1):1182. [doi: 10.1038/s41598-022-25793-z.](https://doi.org/10.1038/s41598-022-25793-z.)
+
+Shaima Ishtawi 1, Dana Jomaa 1, Aisha Nizar 1, Mazen Abdalla 2, Zakaria Hamdan 3, Zaher Nazzal 4
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+This cross-sectional study aims to find the prevalence of chronic pain and its correlation with the quality of life and vitamin D levels among hemodialysis patients in Palestine. We used the brief pain inventory, the medical outcomes study 36-item short-form health survey, and Serum 25-hydroxyvitamin D to assess chronic pain, quality of life, and vitamin D levels, respectively. The study included 200 patients, 38.1% (95% confidence interval 31.3-45.4%) of whom had chronic pain, and 77.7% (95% confidence interval 71.0-83.4%) had deficient Vitamin D levels. Quality of life scores were generally low, with the lowest in role emotional and physical functioning. Sex, comorbidities, and vitamin D level significantly correlate with pain severity. Employment, number of comorbidities, pain severity, and albumin level are significantly associated with the Physical component of quality of life. On the other hand, employment and pain severity are significantly related to the mental component of quality of life. In conclusion, low vitamin D levels, chronic pain, and low quality of life scores are common among hemodialysis patients. In addition, vitamin D is negatively correlated with pain severity. Therefore, healthcare workers should assess and manage hemodialysis patients&#39; chronic pain to improve their quality of life and reduce suffering.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+&lt;!-- ~tc~ starts ~/tc~ --&gt;
+
+---
+
+####  &lt;span style=&quot;color:orange;&quot;&gt;39+ &lt;/span&gt;VitaminDWiki pages with HEMODIALYSIS etc in title
+
+This list is automatically updated
+
+{LIST()}
+
+{list max=&quot;100&quot;}
+
+&lt;!-- {filter field=&quot;title&quot; content=&quot;hemodialysis OR haemodialysis OR dialysis&quot;} --&gt;
+
+&lt;!-- {filter type=&quot;wiki page&quot;} --&gt;
+
+{sort mode=&quot;modification_date_major_desc&quot;}
+
+{OUTPUT(template=&quot;table&quot;)}
+
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+
+{OUTPUT}
+
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+
+{LIST}
+
+&lt;!-- ~tc~ ends ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV}`
+│   inner_content: `{maketoc}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content: ├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023`
+│   inner_content: `Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023`
+│   │   inner_content: `Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients__`
+│   inner_content: `The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients`
+│   │   inner_content: `The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients`├── TextNode
+│   full_match: `\nLife 2023, 13(8), 1741; https://doi.org/10.3390/life13081741\nby Chih-Lang Lin 1,2,3,†,Wan-Ming Chen 4,5,†,An-Tzu Jao 6,Ben-Chang Shia 4,5ORCID andSzu-Yuan Wu 4,5,6,7,8,9,10,11,*ORCID\n\nSimple Summary\nThis study investigated the effect of vitamin D supplementation on the risk of dementia in patients with end-stage renal disease on hemodialysis, which is a novel contribution to the literature. To our knowledge, this is the first study to examine the relationship between vitamin D supplementation and the risk of dementia in this patient population. The use of a 1:1 propensity score-matched cohort design adds robustness and reliability to the study findings. The results demonstrated that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in a dose-dependent manner, regardless of age. These findings add new and important information to the existing literature on the relationship between vitamin D and cognitive health in ESRD patients on hemodialysis, and suggest that vitamin D supplementation may be an effective preventive strategy for cognitive impairment in this vulnerable patient population.\n\nAbstract\nBackground: Patients with end-stage renal disease (ESRD) undergoing hemodialysis are at an elevated risk of developing dementia, potentially linked to the high prevalence of vitamin D deficiency in this population, which may contribute to cognitive impairment. Nevertheless, the impact of vitamin D supplementation on the risk of dementia in hemodialysis patients remains uncertain, necessitating further investigation to elucidate the potential benefits of vitamin D intervention in this vulnerable group. \n\nMethods: In this propensity-score-matched comparative cohort study, we sought to assess the impact of vitamin D supplementation on the occurrence of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. A total of 1424 patients were included and matched 1:1 using propensity scores. The study population was divided into two groups: those receiving vitamin D supplementation at a dose of ≥70 μg/week and those without any supplementation. The primary outcome of interest was the incidence of dementia. We calculated adjusted hazard ratios (aHRs) to examine the association between vitamin D supplementation and the risk of dementia while controlling for relevant covariates. \n\nResults: The adjusted hazard ratio (aHR) comparing vitamin D supplementation to no supplementation was 0.44 (95% CI 0.29–0.69; p &lt; 0.0001), demonstrating a significant decrease in the risk of dementia associated with vitamin D supplementation. The aHRs for vitamin D supplementation at different dose ranges (70–105, 106–350, 351–1000, and &gt;1000 μg/week) were 0.51, 0.49, 0.43, and 0.41, respectively (p for trend &lt; 0.0001). These findings suggest a potential dose-dependent relationship between vitamin D supplementation and the reduction of dementia risk.\n\n Conclusions: In our study, we found that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. Furthermore, our results indicated a dose-dependent effect, with higher doses of supplementation correlating with a greater reduction in dementia risk. These findings underscore the potential of vitamin D supplementation as a preventive approach for cognitive impairment in this high-risk population.\n`
+│   inner_content: `\nLife 2023, 13(8), 1741; https://doi.org/10.3390/life13081741\nby Chih-Lang Lin 1,2,3,†,Wan-Ming Chen 4,5,†,An-Tzu Jao 6,Ben-Chang Shia 4,5ORCID andSzu-Yuan Wu 4,5,6,7,8,9,10,11,*ORCID\n\nSimple Summary\nThis study investigated the effect of vitamin D supplementation on the risk of dementia in patients with end-stage renal disease on hemodialysis, which is a novel contribution to the literature. To our knowledge, this is the first study to examine the relationship between vitamin D supplementation and the risk of dementia in this patient population. The use of a 1:1 propensity score-matched cohort design adds robustness and reliability to the study findings. The results demonstrated that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in a dose-dependent manner, regardless of age. These findings add new and important information to the existing literature on the relationship between vitamin D and cognitive health in ESRD patients on hemodialysis, and suggest that vitamin D supplementation may be an effective preventive strategy for cognitive impairment in this vulnerable patient population.\n\nAbstract\nBackground: Patients with end-stage renal disease (ESRD) undergoing hemodialysis are at an elevated risk of developing dementia, potentially linked to the high prevalence of vitamin D deficiency in this population, which may contribute to cognitive impairment. Nevertheless, the impact of vitamin D supplementation on the risk of dementia in hemodialysis patients remains uncertain, necessitating further investigation to elucidate the potential benefits of vitamin D intervention in this vulnerable group. \n\nMethods: In this propensity-score-matched comparative cohort study, we sought to assess the impact of vitamin D supplementation on the occurrence of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. A total of 1424 patients were included and matched 1:1 using propensity scores. The study population was divided into two groups: those receiving vitamin D supplementation at a dose of ≥70 μg/week and those without any supplementation. The primary outcome of interest was the incidence of dementia. We calculated adjusted hazard ratios (aHRs) to examine the association between vitamin D supplementation and the risk of dementia while controlling for relevant covariates. \n\nResults: The adjusted hazard ratio (aHR) comparing vitamin D supplementation to no supplementation was 0.44 (95% CI 0.29–0.69; p &lt; 0.0001), demonstrating a significant decrease in the risk of dementia associated with vitamin D supplementation. The aHRs for vitamin D supplementation at different dose ranges (70–105, 106–350, 351–1000, and &gt;1000 μg/week) were 0.51, 0.49, 0.43, and 0.41, respectively (p for trend &lt; 0.0001). These findings suggest a potential dose-dependent relationship between vitamin D supplementation and the reduction of dementia risk.\n\n Conclusions: In our study, we found that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. Furthermore, our results indicated a dose-dependent effect, with higher doses of supplementation correlating with a greater reduction in dementia risk. These findings underscore the potential of vitamin D supplementation as a preventive approach for cognitive impairment in this high-risk population.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20036
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!((Dementia is associated with low vitamin D - many studies))`
+│   inner_content: `((Dementia is associated with low vitamin D - many studies))`
+│   level: `5`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Dementia is associated with low vitamin D - many studies))`
+│   │   inner_content: `Dementia is associated with low vitamin D - many studies`
+│   │   page: `Dementia is associated with low vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Dementia is associated with low vitamin D - many studies`
+│   │   │   inner_content: `Dementia is associated with low vitamin D - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023`
+│   inner_content: `Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023`
+│   │   inner_content: `Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__The effects and safety of high dose vitamin D3 in hemodialysis patients__`
+│   inner_content: `The effects and safety of high dose vitamin D3 in hemodialysis patients`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The effects and safety of high dose vitamin D3 in hemodialysis patients`
+│   │   inner_content: `The effects and safety of high dose vitamin D3 in hemodialysis patients`├── TextNode
+│   full_match: `\nPharm Pract (Granada)  2023 Jan-Mar;21(1):2773. `
+│   inner_content: `\nPharm Pract (Granada)  2023 Jan-Mar;21(1):2773. `├── DoiLinkNode
+│   full_match: `doi: 10.18549/PharmPract.2023.1.2773`
+│   inner_content: `10.18549/PharmPract.2023.1.2773`├── TextNode
+│   full_match: `\nAdnane Guella 1, Abduelmula R Abduelkarem 2, Mohammed M Hassanein 3\n\n`
+│   inner_content: `\nAdnane Guella 1, Abduelmula R Abduelkarem 2, Mohammed M Hassanein 3\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;19511&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19511&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 19511
+│   │   width: 500├── TextNode
+│   full_match: `\nBackground: Different studies have shown that hemodialysis patients require higher doses of Vitamin D3 (VD3) than the general population to achieve satisfactory replenishment. This study aims to assess the safety of such practice and its benefits on some of the parameters of Chronic Kidney Disease- Mineral and Bone Disorder (CKD-MBD).\n\nMethods: A single-center clinical trial assessing the benefits of high dose VD3 in hemodialysis patients. The dose of VD3 (300,000 IU) was administered orally and monthly from April to December 2020 (9 months) at the dialysis unit. The data analyzed were blood levels of calcium, phosphorus, alkaline phosphatase, 25(OH)D, 1,25(OH)2D and intact parathyroid hormone (iPTH) done every three months.\n\nResults: We could recruit a cohort of 23 patients. Blood levels of 25(OH)D increased significantly in 82.6% of the patients to above 30 ng/ml. A similar effect was observed with 1, 25(OH)2D levels. iPTH levels decreased significantly when levels of 25(OH)D exceeded 30ng/ml at the end of the nine months. Vitamin D serum levels were typically measured immediately before the next monthly dose was administered. Blood levels of calcium, phosphorus, and alkaline phosphatase were stable during the study period. No events of hypercalcemia were reported, and no patient discontinued the monthly VD3 supplementation.\n\nConclusion: Monthly administration of a high dose of VD3 over a long period of nine months in hemodialysis patients was found to be safe and beneficial in VD3 replenishment. It also allowed a significant decrease in iPTH levels. Further studies are warranted to identify the therapeutic target level of 25(OH)D in hemodialysis patients, allowing beneficial effects on iPTH.\n`
+│   inner_content: `\nBackground: Different studies have shown that hemodialysis patients require higher doses of Vitamin D3 (VD3) than the general population to achieve satisfactory replenishment. This study aims to assess the safety of such practice and its benefits on some of the parameters of Chronic Kidney Disease- Mineral and Bone Disorder (CKD-MBD).\n\nMethods: A single-center clinical trial assessing the benefits of high dose VD3 in hemodialysis patients. The dose of VD3 (300,000 IU) was administered orally and monthly from April to December 2020 (9 months) at the dialysis unit. The data analyzed were blood levels of calcium, phosphorus, alkaline phosphatase, 25(OH)D, 1,25(OH)2D and intact parathyroid hormone (iPTH) done every three months.\n\nResults: We could recruit a cohort of 23 patients. Blood levels of 25(OH)D increased significantly in 82.6% of the patients to above 30 ng/ml. A similar effect was observed with 1, 25(OH)2D levels. iPTH levels decreased significantly when levels of 25(OH)D exceeded 30ng/ml at the end of the nine months. Vitamin D serum levels were typically measured immediately before the next monthly dose was administered. Blood levels of calcium, phosphorus, and alkaline phosphatase were stable during the study period. No events of hypercalcemia were reported, and no patient discontinued the monthly VD3 supplementation.\n\nConclusion: Monthly administration of a high dose of VD3 over a long period of nine months in hemodialysis patients was found to be safe and beneficial in VD3 replenishment. It also allowed a significant decrease in iPTH levels. Further studies are warranted to identify the therapeutic target level of 25(OH)D in hemodialysis patients, allowing beneficial effects on iPTH.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;18&quot;
+│   │   size: 18
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19510
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023`
+│   inner_content: `Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023`
+│   │   inner_content: `Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023`├── TextNode
+│   full_match: `\nSemin Dial . 2023 Jan;36(1):29-36. `
+│   inner_content: `\nSemin Dial . 2023 Jan;36(1):29-36. `├── DoiLinkNode
+│   full_match: `doi: 10.1111/sdi.13066`
+│   inner_content: `10.1111/sdi.13066`├── TextNode
+│   full_match: ` publisher rents PDF for $12\nPatrícia João Matias 1 2 3 4, Ivo Laranjinha 1 2 3, Gonçalo Ávila 1 2 3, Ana Azevedo 1 2 3, Cristina Jorge 1 2 3, Carina Ferreira 1 2 3 4, Inês Aires 1 2 3 4, Tiago Amaral 1 2 3, Célia Gil 1 2 3, Aníbal Ferreira 1 2 3 4\n\nBackground: Low levels of 25-hydroxyvitamin D `
+│   inner_content: ` publisher rents PDF for $12\nPatrícia João Matias 1 2 3 4, Ivo Laranjinha 1 2 3, Gonçalo Ávila 1 2 3, Ana Azevedo 1 2 3, Cristina Jorge 1 2 3, Carina Ferreira 1 2 3 4, Inês Aires 1 2 3 4, Tiago Amaral 1 2 3, Célia Gil 1 2 3, Aníbal Ferreira 1 2 3 4\n\nBackground: Low levels of 25-hydroxyvitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` are frequent in chronic kidney disease and are associated with adverse outcomes. The aim of this 5-year prospective study was to evaluate the effects of cholecalciferol supplementation on mineral metabolism, inflammation and cardiac parameters in hemodialysis (HD) patients.\n\nMethods: The study included 97 patients. Cholecalciferol was given after HD according to 25(OH)D baseline levels measured twice (end of winter and of summer). The 25(OH)D levels, circulating bone metabolism, inflammation parameters, brain natriuretic peptide (BNP), pulse pressure (PP), and left ventricular mass index (LVMI) were evaluated before and after supplementation.\n\nResults: There was a significant increase in 25(OH)D levels after supplementation (p &lt; 0.001); however, serum calcium (p = 0.02), phosphorus (p = 0.018), and iPTH (p = 0.03) were decreased. Magnesium levels increased during the study (p = 0.03). A reduction in the number of patients under active vitamin D (p &lt; 0.001) and in the dose and number of patients treated with darbepoetin (p = 0.02) was observed. Serum albumin increased (p &lt; 0.001), and C-reactive protein decreased (p = 0.01). BNP (p &lt; 0.001), PP (p = 0.007), and LVMI (p = 0.02) were significantly reduced after supplementation.\n\nConclusions: Long-term cholecalciferol supplementation allowed correction of 25(OH)D deficiency, improved mineral metabolism with less use of active vitamin D, attenuated inflammation, reduced the dose of the erythropoiesis-stimulating agent, and improved cardiac dysfunction.`
+│   inner_content: ` are frequent in chronic kidney disease and are associated with adverse outcomes. The aim of this 5-year prospective study was to evaluate the effects of cholecalciferol supplementation on mineral metabolism, inflammation and cardiac parameters in hemodialysis (HD) patients.\n\nMethods: The study included 97 patients. Cholecalciferol was given after HD according to 25(OH)D baseline levels measured twice (end of winter and of summer). The 25(OH)D levels, circulating bone metabolism, inflammation parameters, brain natriuretic peptide (BNP), pulse pressure (PP), and left ventricular mass index (LVMI) were evaluated before and after supplementation.\n\nResults: There was a significant increase in 25(OH)D levels after supplementation (p &lt; 0.001); however, serum calcium (p = 0.02), phosphorus (p = 0.018), and iPTH (p = 0.03) were decreased. Magnesium levels increased during the study (p = 0.03). A reduction in the number of patients under active vitamin D (p &lt; 0.001) and in the dose and number of patients treated with darbepoetin (p = 0.02) was observed. Serum albumin increased (p &lt; 0.001), and C-reactive protein decreased (p = 0.01). BNP (p &lt; 0.001), PP (p = 0.007), and LVMI (p = 0.02) were significantly reduced after supplementation.\n\nConclusions: Long-term cholecalciferol supplementation allowed correction of 25(OH)D deficiency, improved mineral metabolism with less use of active vitamin D, attenuated inflammation, reduced the dose of the erythropoiesis-stimulating agent, and improved cardiac dysfunction.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!More Hemodialysis pain if low vitamin D - Jan 2023`
+│   inner_content: `More Hemodialysis pain if low vitamin D - Jan 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `More Hemodialysis pain if low vitamin D - Jan 2023`
+│   │   inner_content: `More Hemodialysis pain if low vitamin D - Jan 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study__`
+│   inner_content: `Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study`
+│   │   inner_content: `Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study`├── TextNode
+│   full_match: `\nSci Rep .2023 Jan 21;13(1):1182. `
+│   inner_content: `\nSci Rep .2023 Jan 21;13(1):1182. `├── DoiLinkNode
+│   full_match: `doi: 10.1038/s41598-022-25793-z.`
+│   inner_content: `10.1038/s41598-022-25793-z.`├── TextNode
+│   full_match: `\nShaima Ishtawi 1, Dana Jomaa 1, Aisha Nizar 1, Mazen Abdalla 2, Zakaria Hamdan 3, Zaher Nazzal 4\n\n`
+│   inner_content: `\nShaima Ishtawi 1, Dana Jomaa 1, Aisha Nizar 1, Mazen Abdalla 2, Zakaria Hamdan 3, Zaher Nazzal 4\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;19128&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19128&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 19128
+│   │   width: 500├── TextNode
+│   full_match: `\nThis cross-sectional study aims to find the prevalence of chronic pain and its correlation with the quality of life and vitamin D levels among hemodialysis patients in Palestine. We used the brief pain inventory, the medical outcomes study 36-item short-form health survey, and Serum 25-hydroxyvitamin D to assess chronic pain, quality of life, and vitamin D levels, respectively. The study included 200 patients, 38.1% (95% confidence interval 31.3-45.4%) of whom had chronic pain, and 77.7% (95% confidence interval 71.0-83.4%) had deficient Vitamin D levels. Quality of life scores were generally low, with the lowest in role emotional and physical functioning. Sex, comorbidities, and vitamin D level significantly correlate with pain severity. Employment, number of comorbidities, pain severity, and albumin level are significantly associated with the Physical component of quality of life. On the other hand, employment and pain severity are significantly related to the mental component of quality of life. In conclusion, low vitamin D levels, chronic pain, and low quality of life scores are common among hemodialysis patients. In addition, vitamin D is negatively correlated with pain severity. Therefore, healthcare workers should assess and manage hemodialysis patients&#39; chronic pain to improve their quality of life and reduce suffering.\n`
+│   inner_content: `\nThis cross-sectional study aims to find the prevalence of chronic pain and its correlation with the quality of life and vitamin D levels among hemodialysis patients in Palestine. We used the brief pain inventory, the medical outcomes study 36-item short-form health survey, and Serum 25-hydroxyvitamin D to assess chronic pain, quality of life, and vitamin D levels, respectively. The study included 200 patients, 38.1% (95% confidence interval 31.3-45.4%) of whom had chronic pain, and 77.7% (95% confidence interval 71.0-83.4%) had deficient Vitamin D levels. Quality of life scores were generally low, with the lowest in role emotional and physical functioning. Sex, comorbidities, and vitamin D level significantly correlate with pain severity. Employment, number of comorbidities, pain severity, and albumin level are significantly associated with the Physical component of quality of life. On the other hand, employment and pain severity are significantly related to the mental component of quality of life. In conclusion, low vitamin D levels, chronic pain, and low quality of life scores are common among hemodialysis patients. In addition, vitamin D is negatively correlated with pain severity. Therefore, healthcare workers should assess and manage hemodialysis patients&#39; chronic pain to improve their quality of life and reduce suffering.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19127
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ starts ~/tc~`
+│   inner_content: ` starts `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` starts `
+│   │   inner_content: ` starts `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F00:39+ ~~VitaminDWiki pages with HEMODIALYSIS etc in title`
+│   inner_content: `~~#F00:39+ ~~VitaminDWiki pages with HEMODIALYSIS etc in title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F00:39+ ~~`
+│   │   inner_content: `39+ `
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `39+ `
+│   │   │   inner_content: `39+ `
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki pages with HEMODIALYSIS etc in title`
+│   │   inner_content: `VitaminDWiki pages with HEMODIALYSIS etc in title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n{LIST()}\n{list max=&quot;100&quot;}\n`
+│   inner_content: `\n{LIST()}\n{list max=&quot;100&quot;}\n`├── FilterNode
+│   full_match: `{filter field=&quot;title&quot; content=&quot;hemodialysis OR haemodialysis OR dialysis&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: field=&quot;title&quot; content=&quot;hemodialysis OR haemodialysis OR dialysis&quot;
+│   │   field: title
+│   │   content: hemodialysis OR haemodialysis OR dialysis├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FilterNode
+│   full_match: `{filter type=&quot;wiki page&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: type=&quot;wiki page&quot;
+│   │   type: wiki page├── TextNode
+│   full_match: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`
+│   inner_content: `\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}\n`├── TikiCommentNode
+│   full_match: `~tc~ ends ~/tc~`
+│   inner_content: ` ends `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` ends `
+│   │   inner_content: ` ends `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV} 
+---
+!!!!Hemodialysis patients reduced dementia chance by 60% if take 40,000 IU of vitamin D weekly – Aug 2023
+__The Protective Effect of Vitamin D on Dementia Risk in Hemodialysis Patients__
+Life 2023, 13(8), 1741; https://doi.org/10.3390/life13081741
+by Chih-Lang Lin 1,2,3,†,Wan-Ming Chen 4,5,†,An-Tzu Jao 6,Ben-Chang Shia 4,5ORCID andSzu-Yuan Wu 4,5,6,7,8,9,10,11,*ORCID
+
+Simple Summary
+This study investigated the effect of vitamin D supplementation on the risk of dementia in patients with end-stage renal disease on hemodialysis, which is a novel contribution to the literature. To our knowledge, this is the first study to examine the relationship between vitamin D supplementation and the risk of dementia in this patient population. The use of a 1:1 propensity score-matched cohort design adds robustness and reliability to the study findings. The results demonstrated that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in a dose-dependent manner, regardless of age. These findings add new and important information to the existing literature on the relationship between vitamin D and cognitive health in ESRD patients on hemodialysis, and suggest that vitamin D supplementation may be an effective preventive strategy for cognitive impairment in this vulnerable patient population.
+
+Abstract
+Background: Patients with end-stage renal disease (ESRD) undergoing hemodialysis are at an elevated risk of developing dementia, potentially linked to the high prevalence of vitamin D deficiency in this population, which may contribute to cognitive impairment. Nevertheless, the impact of vitamin D supplementation on the risk of dementia in hemodialysis patients remains uncertain, necessitating further investigation to elucidate the potential benefits of vitamin D intervention in this vulnerable group. 
+
+Methods: In this propensity-score-matched comparative cohort study, we sought to assess the impact of vitamin D supplementation on the occurrence of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. A total of 1424 patients were included and matched 1:1 using propensity scores. The study population was divided into two groups: those receiving vitamin D supplementation at a dose of ≥70 μg/week and those without any supplementation. The primary outcome of interest was the incidence of dementia. We calculated adjusted hazard ratios (aHRs) to examine the association between vitamin D supplementation and the risk of dementia while controlling for relevant covariates. 
+
+Results: The adjusted hazard ratio (aHR) comparing vitamin D supplementation to no supplementation was 0.44 (95% CI 0.29–0.69; p &lt; 0.0001), demonstrating a significant decrease in the risk of dementia associated with vitamin D supplementation. The aHRs for vitamin D supplementation at different dose ranges (70–105, 106–350, 351–1000, and &gt;1000 μg/week) were 0.51, 0.49, 0.43, and 0.41, respectively (p for trend &lt; 0.0001). These findings suggest a potential dose-dependent relationship between vitamin D supplementation and the reduction of dementia risk.
+
+ Conclusions: In our study, we found that vitamin D supplementation at doses of ≥70 μg/week significantly reduced the risk of dementia in patients with end-stage renal disease (ESRD) undergoing hemodialysis. Furthermore, our results indicated a dose-dependent effect, with higher doses of supplementation correlating with a greater reduction in dementia risk. These findings underscore the potential of vitamin D supplementation as a preventive approach for cognitive impairment in this high-risk population.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20036&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+!!!!!((Dementia is associated with low vitamin D - many studies))
+---
+!!!!Hemodialysis patients probably helped by monthly 100,000 IU of Vitamin D - March 2023
+__The effects and safety of high dose vitamin D3 in hemodialysis patients__
+Pharm Pract (Granada)  2023 Jan-Mar;21(1):2773. doi: 10.18549/PharmPract.2023.1.2773
+Adnane Guella 1, Abduelmula R Abduelkarem 2, Mohammed M Hassanein 3
+
+{img type=&quot;attId&quot; attId=&quot;19511&quot; width=&quot;500&quot;}
+Background: Different studies have shown that hemodialysis patients require higher doses of Vitamin D3 (VD3) than the general population to achieve satisfactory replenishment. This study aims to assess the safety of such practice and its benefits on some of the parameters of Chronic Kidney Disease- Mineral and Bone Disorder (CKD-MBD).
+
+Methods: A single-center clinical trial assessing the benefits of high dose VD3 in hemodialysis patients. The dose of VD3 (300,000 IU) was administered orally and monthly from April to December 2020 (9 months) at the dialysis unit. The data analyzed were blood levels of calcium, phosphorus, alkaline phosphatase, 25(OH)D, 1,25(OH)2D and intact parathyroid hormone (iPTH) done every three months.
+
+Results: We could recruit a cohort of 23 patients. Blood levels of 25(OH)D increased significantly in 82.6% of the patients to above 30 ng/ml. A similar effect was observed with 1, 25(OH)2D levels. iPTH levels decreased significantly when levels of 25(OH)D exceeded 30ng/ml at the end of the nine months. Vitamin D serum levels were typically measured immediately before the next monthly dose was administered. Blood levels of calcium, phosphorus, and alkaline phosphatase were stable during the study period. No events of hypercalcemia were reported, and no patient discontinued the monthly VD3 supplementation.
+
+Conclusion: Monthly administration of a high dose of VD3 over a long period of nine months in hemodialysis patients was found to be safe and beneficial in VD3 replenishment. It also allowed a significant decrease in iPTH levels. Further studies are warranted to identify the therapeutic target level of 25(OH)D in hemodialysis patients, allowing beneficial effects on iPTH.
+{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19510&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Long-term cholecalciferol supplementation in hemodialysis patients: Effects on mineral metabolism, inflammation, and cardiac parameters - Jan 2023
+Semin Dial . 2023 Jan;36(1):29-36. doi: 10.1111/sdi.13066 publisher rents PDF for $12
+Patrícia João Matias 1 2 3 4, Ivo Laranjinha 1 2 3, Gonçalo Ávila 1 2 3, Ana Azevedo 1 2 3, Cristina Jorge 1 2 3, Carina Ferreira 1 2 3 4, Inês Aires 1 2 3 4, Tiago Amaral 1 2 3, Célia Gil 1 2 3, Aníbal Ferreira 1 2 3 4
+
+Background: Low levels of 25-hydroxyvitamin D [25(OH)D] are frequent in chronic kidney disease and are associated with adverse outcomes. The aim of this 5-year prospective study was to evaluate the effects of cholecalciferol supplementation on mineral metabolism, inflammation and cardiac parameters in hemodialysis (HD) patients.
+
+Methods: The study included 97 patients. Cholecalciferol was given after HD according to 25(OH)D baseline levels measured twice (end of winter and of summer). The 25(OH)D levels, circulating bone metabolism, inflammation parameters, brain natriuretic peptide (BNP), pulse pressure (PP), and left ventricular mass index (LVMI) were evaluated before and after supplementation.
+
+Results: There was a significant increase in 25(OH)D levels after supplementation (p &lt; 0.001); however, serum calcium (p = 0.02), phosphorus (p = 0.018), and iPTH (p = 0.03) were decreased. Magnesium levels increased during the study (p = 0.03). A reduction in the number of patients under active vitamin D (p &lt; 0.001) and in the dose and number of patients treated with darbepoetin (p = 0.02) was observed. Serum albumin increased (p &lt; 0.001), and C-reactive protein decreased (p = 0.01). BNP (p &lt; 0.001), PP (p = 0.007), and LVMI (p = 0.02) were significantly reduced after supplementation.
+
+Conclusions: Long-term cholecalciferol supplementation allowed correction of 25(OH)D deficiency, improved mineral metabolism with less use of active vitamin D, attenuated inflammation, reduced the dose of the erythropoiesis-stimulating agent, and improved cardiac dysfunction.
+---
+!!!!More Hemodialysis pain if low vitamin D - Jan 2023
+__Vitamin D level, pain severity and quality of life among hemodialysis patients: a cross-sectional study__
+Sci Rep .2023 Jan 21;13(1):1182. doi: 10.1038/s41598-022-25793-z.
+Shaima Ishtawi 1, Dana Jomaa 1, Aisha Nizar 1, Mazen Abdalla 2, Zakaria Hamdan 3, Zaher Nazzal 4
+
+{img type=&quot;attId&quot; attId=&quot;19128&quot; width=&quot;500&quot;}
+This cross-sectional study aims to find the prevalence of chronic pain and its correlation with the quality of life and vitamin D levels among hemodialysis patients in Palestine. We used the brief pain inventory, the medical outcomes study 36-item short-form health survey, and Serum 25-hydroxyvitamin D to assess chronic pain, quality of life, and vitamin D levels, respectively. The study included 200 patients, 38.1% (95% confidence interval 31.3-45.4%) of whom had chronic pain, and 77.7% (95% confidence interval 71.0-83.4%) had deficient Vitamin D levels. Quality of life scores were generally low, with the lowest in role emotional and physical functioning. Sex, comorbidities, and vitamin D level significantly correlate with pain severity. Employment, number of comorbidities, pain severity, and albumin level are significantly associated with the Physical component of quality of life. On the other hand, employment and pain severity are significantly related to the mental component of quality of life. In conclusion, low vitamin D levels, chronic pain, and low quality of life scores are common among hemodialysis patients. In addition, vitamin D is negatively correlated with pain severity. Therefore, healthcare workers should assess and manage hemodialysis patients&#39; chronic pain to improve their quality of life and reduce suffering.
+{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+~tc~ starts ~/tc~
+---
+!!!!~~#F00:39+ ~~VitaminDWiki pages with HEMODIALYSIS etc in title
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;100&quot;}
+{filter field=&quot;title&quot; content=&quot;hemodialysis OR haemodialysis OR dialysis&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+~tc~ ends ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

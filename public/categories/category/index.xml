@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on VitaminDWiki</title>
+    <link>http://localhost:1313/categories/category/</link>
+    <description>Recent content in Category on VitaminDWiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High-Dose</title>
+      <link>http://localhost:1313/posts/high-dose/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/high-dose/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;summary-of-high-dose-vitamin-d&#34;&gt;Summary of High Dose Vitamin D&lt;/h4&gt;&#xA;&lt;p&gt;Is the on-going use of &amp;gt;10,000 IU&lt;/p&gt;&#xA;&lt;p&gt;Frequency: 1 per day to 1 per 17 days is best (some studies use monthly)&lt;/p&gt;&#xA;&lt;p&gt;Has been used millions of times&lt;/p&gt;&#xA;&lt;p&gt;Can be both safe and effective&lt;/p&gt;&#xA;&lt;p&gt;For more than 6 months should include the &lt;a href=&#34;http://localhost:1313/posts/vitamin-d-cofactors-in-a-nutshelladjustment-of-co-factors&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|adjustment of co-factors&#34;&gt;Vitamin D Cofactors in a nutshell|adjustment of co-factors&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

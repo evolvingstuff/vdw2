@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>The more severe the Asthma, the lower the vitamin D level</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>The more severe the Asthma, the lower the vitamin D level</h1>
+        <time>October 12, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="assessment-of-the-relation-between-asthma-severity-and-serum-vitamin-d-levels-a-cross-sectional-study">Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study</h4>
+<p>Cureus 15(10): e46826. DOI: 10.7759/cureus.46826</p>
+<p>Navjot Kaur • Vipul Kumar • Jagjot Singh • Hritvik Jain • Paras Paras • Nirmaljeet Kaur • Ashwani K. Sareen</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p><strong>The more severe the Asthma, the lower the vitamin D level</strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Introduction</p>
+<p>Vitamin D3’s importance for bone health in children and its potential role beyond musculocutaneous health is an ongoing area of research. This study assesses vitamin D3 deficiency prevalence in asthmatic children and its correlation with asthma cases and healthy controls.</p>
+<p>Methods</p>
+<p>This cross-sectional study was conducted in a tertiary care hospital in Punjab, India among children between 5 and 15 years of age. Fifty children diagnosed with “bronchial asthma” who were under follow-up in the asthma clinic in outpatient and inpatient patients were enrolled as cases. Age-matched 50 healthy controls who presented for routine check-ups were enrolled in the control group. Demographic details were noted and clinical examination was done in all the cases. 25-(OH) vitamin D levels were estimated and compared in all cases and controls. The study also analyzed the relationship between 25-(OH) vitamin D levels with asthma control and severity.</p>
+<p>Results</p>
+<p>The study showed that serum vitamin D3 level was significantly decreased in asthmatic children (24.62 ± 14.95 ng/ml) as compared with the healthy control group (32.08 ± 12.22 ng/ml). Also, serum vitamin D3 level was significantly decreased in children with uncontrolled asthma (12.06 ± 4.68 ng/ml) as compared to children with well-controlled asthma (44.82 ± 10.48 ng/ml).</p>
+<p>Conclusion</p>
+<p>The findings showed that low serum levels were observed more in asthmatic children as compared to healthy children. A correlation was also found between vitamin D3 levels and asthma severity, its control, and the number of acute exacerbations in the last year.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="similar-previous-studies--in-vitamindwiki">Similar previous studies  in VitaminDWiki</h4>
+<p><a href="/posts/the-worse-the-bronchial-asthma-the-lower-the-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The worse the bronchial asthma, the lower the vitamin D – Jan 2017">The worse the bronchial asthma, the lower the vitamin D – Jan 2017</a></p>
+<p><strong>Vitamin D levels vs bronchial asthma</strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image">
+<p><strong><a href="https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019">The worse the asthma in children, the lower their vitamin D level - Feb 2019</a></strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<hr>
+<h4 id="it-appears-that-severe-asthmatics-have-poor-guts-which-results-in-less-vitamin-d-getting-into-the-body">It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body</h4>
+<p><strong><a href="/posts/wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wheezing and asthmatic children have weaker Vitamin D responses - May 2022">Wheezing and asthmatic children have weaker Vitamin D responses - May 2022</a></strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p><strong>Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022</strong></p>
+<p><a href="https://doi.org/10.1186/s12916-022-02283-7">https://doi.org/10.1186/s12916-022-02283-7</a>  FREE PDF</p>
+<p>&ldquo;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people <sup>[11]</sup>. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;</p>
+<p><strong>Solution: Use a <a href="/posts/gut-friendly-vitamin-dgut-friendly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly">Gut-Friendly Vitamin D|gut-friendly</a> form of Vitamin D</strong></p>
+<hr>
+<h4 id="see-also-vitamindwiki">See also VitaminDWiki</h4>
+<p><a href="/posts/severe-asthmatics-willing-to-pay-5180-dollars-for-relief-vitamin-d-needed-costs-only-45-dollars">Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023</a></p>
+<p><a href="/posts/poor-response-to-asthma-inhaler-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019">Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019</a></p>
+<hr>
+<h4 id="a-hrefpostsoverview-asthma-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-asthma-and-vitamin-doverview-asthma-and-vitamin-da--contains"><a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>  contains</h4>
+<!-- ~tc~ (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) ~/tc~ -->
+<!-- ~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study
+
+Cureus 15(10): e46826. DOI: 10.7759/cureus.46826 
+
+Navjot Kaur • Vipul Kumar • Jagjot Singh • Hritvik Jain • Paras Paras • Nirmaljeet Kaur • Ashwani K. Sareen
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+ **The more severe the Asthma, the lower the vitamin D level** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+Introduction
+
+Vitamin D3’s importance for bone health in children and its potential role beyond musculocutaneous health is an ongoing area of research. This study assesses vitamin D3 deficiency prevalence in asthmatic children and its correlation with asthma cases and healthy controls. 
+
+Methods
+
+This cross-sectional study was conducted in a tertiary care hospital in Punjab, India among children between 5 and 15 years of age. Fifty children diagnosed with “bronchial asthma” who were under follow-up in the asthma clinic in outpatient and inpatient patients were enrolled as cases. Age-matched 50 healthy controls who presented for routine check-ups were enrolled in the control group. Demographic details were noted and clinical examination was done in all the cases. 25-(OH) vitamin D levels were estimated and compared in all cases and controls. The study also analyzed the relationship between 25-(OH) vitamin D levels with asthma control and severity.
+
+Results
+
+The study showed that serum vitamin D3 level was significantly decreased in asthmatic children (24.62 ± 14.95 ng/ml) as compared with the healthy control group (32.08 ± 12.22 ng/ml). Also, serum vitamin D3 level was significantly decreased in children with uncontrolled asthma (12.06 ± 4.68 ng/ml) as compared to children with well-controlled asthma (44.82 ± 10.48 ng/ml). 
+
+Conclusion
+
+The findings showed that low serum levels were observed more in asthmatic children as compared to healthy children. A correlation was also found between vitamin D3 levels and asthma severity, its control, and the number of acute exacerbations in the last year. 
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### Similar previous studies  in VitaminDWiki
+
+&lt;a href=&quot;/posts/the-worse-the-bronchial-asthma-the-lower-the-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The worse the bronchial asthma, the lower the vitamin D – Jan 2017&quot;&gt;The worse the bronchial asthma, the lower the vitamin D – Jan 2017&lt;/a&gt;
+
+ **Vitamin D levels vs bronchial asthma** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+ **[The worse the asthma in children, the lower their vitamin D level - Feb 2019](https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019)** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+---
+
+#### It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body
+
+ **&lt;a href=&quot;/posts/wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Wheezing and asthmatic children have weaker Vitamin D responses - May 2022&quot;&gt;Wheezing and asthmatic children have weaker Vitamin D responses - May 2022&lt;/a&gt;** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+ **Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022** 
+
+https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
+
+&quot;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people &lt;sup&gt;[11]&lt;/sup&gt;. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;
+
+ **Solution: Use a &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-friendly&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly&quot;&gt;Gut-Friendly Vitamin D|gut-friendly&lt;/a&gt; form of Vitamin D** 
+
+---
+
+#### See also VitaminDWiki
+
+[Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023](/posts/severe-asthmatics-willing-to-pay-5180-dollars-for-relief-vitamin-d-needed-costs-only-45-dollars)
+
+&lt;a href=&quot;/posts/poor-response-to-asthma-inhaler-if-poor-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019&quot;&gt;Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019&lt;/a&gt;
+
+---
+
+#### &lt;a href=&quot;/posts/overview-asthma-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Asthma and Vitamin D&quot;&gt;Overview Asthma and Vitamin D&lt;/a&gt;  contains
+
+&lt;!-- ~tc~ (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study`
+│   inner_content: `Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study`
+│   │   inner_content: `Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study`├── TextNode
+│   full_match: `\nCureus 15(10): e46826. DOI: 10.7759/cureus.46826 \nNavjot Kaur • Vipul Kumar • Jagjot Singh • Hritvik Jain • Paras Paras • Nirmaljeet Kaur • Ashwani K. Sareen\n\n`
+│   inner_content: `\nCureus 15(10): e46826. DOI: 10.7759/cureus.46826 \nNavjot Kaur • Vipul Kumar • Jagjot Singh • Hritvik Jain • Paras Paras • Nirmaljeet Kaur • Ashwani K. Sareen\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20217&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20217&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20217
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__The more severe the Asthma, the lower the vitamin D level__`
+│   inner_content: `The more severe the Asthma, the lower the vitamin D level`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The more severe the Asthma, the lower the vitamin D level`
+│   │   inner_content: `The more severe the Asthma, the lower the vitamin D level`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20218&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20218&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20218
+│   │   width: 600├── TextNode
+│   full_match: `\nIntroduction\nVitamin D3’s importance for bone health in children and its potential role beyond musculocutaneous health is an ongoing area of research. This study assesses vitamin D3 deficiency prevalence in asthmatic children and its correlation with asthma cases and healthy controls. \n\nMethods\nThis cross-sectional study was conducted in a tertiary care hospital in Punjab, India among children between 5 and 15 years of age. Fifty children diagnosed with “bronchial asthma” who were under follow-up in the asthma clinic in outpatient and inpatient patients were enrolled as cases. Age-matched 50 healthy controls who presented for routine check-ups were enrolled in the control group. Demographic details were noted and clinical examination was done in all the cases. 25-(OH) vitamin D levels were estimated and compared in all cases and controls. The study also analyzed the relationship between 25-(OH) vitamin D levels with asthma control and severity.\n\nResults\nThe study showed that serum vitamin D3 level was significantly decreased in asthmatic children (24.62 ± 14.95 ng/ml) as compared with the healthy control group (32.08 ± 12.22 ng/ml). Also, serum vitamin D3 level was significantly decreased in children with uncontrolled asthma (12.06 ± 4.68 ng/ml) as compared to children with well-controlled asthma (44.82 ± 10.48 ng/ml). \n\nConclusion\nThe findings showed that low serum levels were observed more in asthmatic children as compared to healthy children. A correlation was also found between vitamin D3 levels and asthma severity, its control, and the number of acute exacerbations in the last year. \n`
+│   inner_content: `\nIntroduction\nVitamin D3’s importance for bone health in children and its potential role beyond musculocutaneous health is an ongoing area of research. This study assesses vitamin D3 deficiency prevalence in asthmatic children and its correlation with asthma cases and healthy controls. \n\nMethods\nThis cross-sectional study was conducted in a tertiary care hospital in Punjab, India among children between 5 and 15 years of age. Fifty children diagnosed with “bronchial asthma” who were under follow-up in the asthma clinic in outpatient and inpatient patients were enrolled as cases. Age-matched 50 healthy controls who presented for routine check-ups were enrolled in the control group. Demographic details were noted and clinical examination was done in all the cases. 25-(OH) vitamin D levels were estimated and compared in all cases and controls. The study also analyzed the relationship between 25-(OH) vitamin D levels with asthma control and severity.\n\nResults\nThe study showed that serum vitamin D3 level was significantly decreased in asthmatic children (24.62 ± 14.95 ng/ml) as compared with the healthy control group (32.08 ± 12.22 ng/ml). Also, serum vitamin D3 level was significantly decreased in children with uncontrolled asthma (12.06 ± 4.68 ng/ml) as compared to children with well-controlled asthma (44.82 ± 10.48 ng/ml). \n\nConclusion\nThe findings showed that low serum levels were observed more in asthmatic children as compared to healthy children. A correlation was also found between vitamin D3 levels and asthma severity, its control, and the number of acute exacerbations in the last year. \n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20216
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Similar previous studies  in VitaminDWiki `
+│   inner_content: `Similar previous studies  in VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Similar previous studies  in VitaminDWiki`
+│   │   inner_content: `Similar previous studies  in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LocalLinkNode
+│   full_match: `((The worse the bronchial asthma, the lower the vitamin D – Jan 2017))`
+│   inner_content: `The worse the bronchial asthma, the lower the vitamin D – Jan 2017`
+│   page: `The worse the bronchial asthma, the lower the vitamin D – Jan 2017`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The worse the bronchial asthma, the lower the vitamin D – Jan 2017`
+│   │   inner_content: `The worse the bronchial asthma, the lower the vitamin D – Jan 2017`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D levels vs bronchial asthma__`
+│   inner_content: `Vitamin D levels vs bronchial asthma`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D levels vs bronchial asthma`
+│   │   inner_content: `Vitamin D levels vs bronchial asthma`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img fileId=3168}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=3168
+│   │   fileId: 3168├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__[https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019|The worse the asthma in children, the lower their vitamin D level - Feb 2019]__`
+│   inner_content: `[https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019|The worse the asthma in children, the lower their vitamin D level - Feb 2019]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019|The worse the asthma in children, the lower their vitamin D level - Feb 2019]`
+│   │   inner_content: `The worse the asthma in children, the lower their vitamin D level - Feb 2019`
+│   │   url: `https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The worse the asthma in children, the lower their vitamin D level - Feb 2019`
+│   │   │   inner_content: `The worse the asthma in children, the lower their vitamin D level - Feb 2019`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;11142&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;11142&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 11142
+│   │   width: 500├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body`
+│   inner_content: `It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body`
+│   │   inner_content: `It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__((Wheezing and asthmatic children have weaker Vitamin D responses - May 2022))__`
+│   inner_content: `((Wheezing and asthmatic children have weaker Vitamin D responses - May 2022))`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Wheezing and asthmatic children have weaker Vitamin D responses - May 2022))`
+│   │   inner_content: `Wheezing and asthmatic children have weaker Vitamin D responses - May 2022`
+│   │   page: `Wheezing and asthmatic children have weaker Vitamin D responses - May 2022`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Wheezing and asthmatic children have weaker Vitamin D responses - May 2022`
+│   │   │   inner_content: `Wheezing and asthmatic children have weaker Vitamin D responses - May 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;17628&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;17628&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 17628
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022__`
+│   inner_content: `Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022`
+│   │   inner_content: `Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022`├── TextNode
+│   full_match: `\nhttps://doi.org/10.1186/s12916-022-02283-7  FREE PDF\n&quot;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people `
+│   inner_content: `\nhttps://doi.org/10.1186/s12916-022-02283-7  FREE PDF\n&quot;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people `├── LinkNode
+│   full_match: `[11]`
+│   inner_content: `11`
+│   url: `11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `11`
+│   │   inner_content: `11`├── TextNode
+│   full_match: `. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;\n\n`
+│   inner_content: `. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;\n\n`├── BoldNode
+│   full_match: `__Solution: Use a ((Gut-Friendly Vitamin D|gut-friendly)) form of Vitamin D__`
+│   inner_content: `Solution: Use a ((Gut-Friendly Vitamin D|gut-friendly)) form of Vitamin D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Solution: Use a `
+│   │   inner_content: `Solution: Use a `
+│   ├── LocalLinkNode
+│   │   full_match: `((Gut-Friendly Vitamin D|gut-friendly))`
+│   │   inner_content: `Gut-Friendly Vitamin D|gut-friendly`
+│   │   page: `Gut-Friendly Vitamin D|gut-friendly`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Gut-Friendly Vitamin D|gut-friendly`
+│   │   │   inner_content: `Gut-Friendly Vitamin D|gut-friendly`
+│   ├── TextNode
+│   │   full_match: ` form of Vitamin D`
+│   │   inner_content: ` form of Vitamin D`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!See also VitaminDWiki`
+│   inner_content: `See also VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LocalLinkNode
+│   full_match: `((Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023))`
+│   inner_content: `Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023`
+│   page: `Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023`
+│   │   inner_content: `Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LocalLinkNode
+│   full_match: `((Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019))`
+│   inner_content: `Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019`
+│   page: `Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019`
+│   │   inner_content: `Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!((Overview Asthma and Vitamin D))  contains`
+│   inner_content: `((Overview Asthma and Vitamin D))  contains`
+│   level: `4`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Asthma and Vitamin D))`
+│   │   inner_content: `Overview Asthma and Vitamin D`
+│   │   page: `Overview Asthma and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Asthma and Vitamin D`
+│   │   │   inner_content: `Overview Asthma and Vitamin D`
+│   ├── TextNode
+│   │   full_match: `  contains`
+│   │   inner_content: `  contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Asthma and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Asthma and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Asthma and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) ~/tc~`
+│   inner_content: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `
+│   │   inner_content: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~`
+│   inner_content: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
+│   │   inner_content: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Assessment of the Relation Between Asthma Severity and Serum Vitamin D Levels: A Cross-Sectional Study
+Cureus 15(10): e46826. DOI: 10.7759/cureus.46826 
+Navjot Kaur • Vipul Kumar • Jagjot Singh • Hritvik Jain • Paras Paras • Nirmaljeet Kaur • Ashwani K. Sareen
+
+{img type=&quot;attId&quot; attId=&quot;20217&quot; width=&quot;600&quot;}
+
+__The more severe the Asthma, the lower the vitamin D level__
+{img type=&quot;attId&quot; attId=&quot;20218&quot; width=&quot;600&quot;}
+Introduction
+Vitamin D3’s importance for bone health in children and its potential role beyond musculocutaneous health is an ongoing area of research. This study assesses vitamin D3 deficiency prevalence in asthmatic children and its correlation with asthma cases and healthy controls. 
+
+Methods
+This cross-sectional study was conducted in a tertiary care hospital in Punjab, India among children between 5 and 15 years of age. Fifty children diagnosed with “bronchial asthma” who were under follow-up in the asthma clinic in outpatient and inpatient patients were enrolled as cases. Age-matched 50 healthy controls who presented for routine check-ups were enrolled in the control group. Demographic details were noted and clinical examination was done in all the cases. 25-(OH) vitamin D levels were estimated and compared in all cases and controls. The study also analyzed the relationship between 25-(OH) vitamin D levels with asthma control and severity.
+
+Results
+The study showed that serum vitamin D3 level was significantly decreased in asthmatic children (24.62 ± 14.95 ng/ml) as compared with the healthy control group (32.08 ± 12.22 ng/ml). Also, serum vitamin D3 level was significantly decreased in children with uncontrolled asthma (12.06 ± 4.68 ng/ml) as compared to children with well-controlled asthma (44.82 ± 10.48 ng/ml). 
+
+Conclusion
+The findings showed that low serum levels were observed more in asthmatic children as compared to healthy children. A correlation was also found between vitamin D3 levels and asthma severity, its control, and the number of acute exacerbations in the last year. 
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20216&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Similar previous studies  in VitaminDWiki 
+((The worse the bronchial asthma, the lower the vitamin D – Jan 2017))
+__Vitamin D levels vs bronchial asthma__
+{img fileId=3168}
+
+__[https://vitamindwiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019|The worse the asthma in children, the lower their vitamin D level - Feb 2019]__
+{img type=&quot;attId&quot; attId=&quot;11142&quot; width=&quot;500&quot;}
+---
+!!!!It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body
+__((Wheezing and asthmatic children have weaker Vitamin D responses - May 2022))__
+{img type=&quot;attId&quot; attId=&quot;17628&quot; width=&quot;600&quot;}
+
+__Asthma and the risk of gastrointestinal disorders: a Mendelian randomization study - March 2022__
+https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
+&quot;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people [11]. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;
+
+__Solution: Use a ((Gut-Friendly Vitamin D|gut-friendly)) form of Vitamin D__
+---
+!!!!See also VitaminDWiki
+((Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023))
+((Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019))
+---
+!!!!((Overview Asthma and Vitamin D))  contains
+{include page=&quot;Overview Asthma and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+~tc~ (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) ~/tc~
+~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

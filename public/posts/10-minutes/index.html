@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>10 minutes</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>10 minutes</h1>
+        <time>April 9, 2024</time>
+        <!-- ~tc~ start ~/tc~ -->
+<p><strong>5-10 minutes of sun provides ONLY 1,000 IU  <span style="color:orange;">ONLY IF</span></strong></p>
+<ul>
+<li>
+<p>you are near the equator</p>
+</li>
+<li>
+<p><strong><span style="color:orange;">AND</span></strong>  young (seniors 4X longer)</p>
+</li>
+<li>
+<p>  <strong><span style="color:orange;">AND</span></strong>  not obese ( need 3X longer)</p>
+</li>
+<li>
+<p>   <strong><span style="color:orange;">AND</span></strong>  have light skin (Dark Skin need 4X longer)</p>
+</li>
+<li>
+<p>    <strong><span style="color:orange;">AND</span></strong>  it is summer</p>
+</li>
+<li>
+<p>     <strong><span style="color:orange;">AND</span></strong>  it is the middle of the day</p>
+</li>
+<li>
+<p>      <strong><span style="color:orange;">AND</span></strong>  you have lots of skin exposed to the sun</p>
+</li>
+<li>
+<p>       <strong><span style="color:orange;">AND</span></strong>  you are lying down</p>
+</li>
+<li>
+<p>        <strong><span style="color:orange;">AND</span></strong>  you are not wearing sunscreen</p>
+</li>
+<li>
+<p>         <strong><span style="color:orange;">AND</span></strong>  you have a healthy <a href="/categories/liver">Liver</a> and <a href="/posts/overview-kidney-and-vitamin-dkidney" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D|Kidney">Overview Kidney and vitamin D|Kidney</a></p>
+</li>
+<li>
+<p>          <strong><span style="color:orange;">AND</span></strong>  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-dair-pollution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D|air pollution">Air Pollution reduces Vitamin D|air pollution</a></p>
+</li>
+<li>
+<p>           <strong><span style="color:orange;">AND</span></strong>  you have a good response to sunshine (4X variation between individuals)</p>
+</li>
+</ul>
+<p> </p>
+<!-- ~tc~ end ~/tc~ -->
+<!-- ~tc~ (alias(Test 10 minutes)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- ~tc~ start ~/tc~ --&gt;
+
+ **5-10 minutes of sun provides ONLY 1,000 IU  &lt;span style=&quot;color:orange;&quot;&gt;ONLY IF&lt;/span&gt;** 
+
+* you are near the equator
+
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  young (seniors 4X longer)
+
+*   **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  not obese ( need 3X longer)
+
+*    **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  have light skin (Dark Skin need 4X longer)
+
+*     **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is summer
+
+*      **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is the middle of the day
+
+*       **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have lots of skin exposed to the sun
+
+*        **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are lying down
+
+*         **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
+
+*          **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy [Liver](/categories/liver) and &lt;a href=&quot;/posts/overview-kidney-and-vitamin-dkidney&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Kidney and vitamin D|Kidney&quot;&gt;Overview Kidney and vitamin D|Kidney&lt;/a&gt;
+
+*           **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-dair-pollution&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D|air pollution&quot;&gt;Air Pollution reduces Vitamin D|air pollution&lt;/a&gt;
+
+*            **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
+
+ 
+&lt;!-- ~tc~ end ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(Test 10 minutes)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── TikiCommentNode
+│   full_match: `~tc~ start ~/tc~`
+│   inner_content: ` start `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` start `
+│   │   inner_content: ` start `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__5-10 minutes of sun provides ONLY 1,000 IU ~~#00F:ONLY IF~~ __`
+│   inner_content: `5-10 minutes of sun provides ONLY 1,000 IU ~~#00F:ONLY IF~~ `
+│   children:
+│   ├── TextNode
+│   │   full_match: `5-10 minutes of sun provides ONLY 1,000 IU `
+│   │   inner_content: `5-10 minutes of sun provides ONLY 1,000 IU `
+│   ├── ColorNode
+│   │   full_match: `~~#00F:ONLY IF~~`
+│   │   inner_content: `ONLY IF`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `ONLY IF`
+│   │   │   inner_content: `ONLY IF`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*you are near the equator`
+│   inner_content: `you are near the equator`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `you are near the equator`
+│   │   inner_content: `you are near the equator`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*__~~#00F:AND~~__ young (seniors 4X longer)`
+│   inner_content: `__~~#00F:AND~~__ young (seniors 4X longer)`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` young (seniors 4X longer)`
+│   │   inner_content: ` young (seniors 4X longer)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* __~~#00F:AND~~__ not obese ( need 3X longer)`
+│   inner_content: ` __~~#00F:AND~~__ not obese ( need 3X longer)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` not obese ( need 3X longer)`
+│   │   inner_content: ` not obese ( need 3X longer)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*  __~~#00F:AND~~__ have light skin (Dark Skin need 4X longer)`
+│   inner_content: `  __~~#00F:AND~~__ have light skin (Dark Skin need 4X longer)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `  `
+│   │   inner_content: `  `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` have light skin (Dark Skin need 4X longer)`
+│   │   inner_content: ` have light skin (Dark Skin need 4X longer)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*   __~~#00F:AND~~__ it is summer`
+│   inner_content: `   __~~#00F:AND~~__ it is summer`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `   `
+│   │   inner_content: `   `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` it is summer`
+│   │   inner_content: ` it is summer`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*    __~~#00F:AND~~__ it is the middle of the day`
+│   inner_content: `    __~~#00F:AND~~__ it is the middle of the day`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `    `
+│   │   inner_content: `    `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` it is the middle of the day`
+│   │   inner_content: ` it is the middle of the day`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*     __~~#00F:AND~~__ you have lots of skin exposed to the sun`
+│   inner_content: `     __~~#00F:AND~~__ you have lots of skin exposed to the sun`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `     `
+│   │   inner_content: `     `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` you have lots of skin exposed to the sun`
+│   │   inner_content: ` you have lots of skin exposed to the sun`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*      __~~#00F:AND~~__ you are lying down`
+│   inner_content: `      __~~#00F:AND~~__ you are lying down`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `      `
+│   │   inner_content: `      `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` you are lying down`
+│   │   inner_content: ` you are lying down`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*       __~~#00F:AND~~__ you are not wearing sunscreen`
+│   inner_content: `       __~~#00F:AND~~__ you are not wearing sunscreen`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `       `
+│   │   inner_content: `       `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` you are not wearing sunscreen`
+│   │   inner_content: ` you are not wearing sunscreen`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*        __~~#00F:AND~~__ you have a healthy ((Liver)) and ((Overview Kidney and vitamin D|Kidney))`
+│   inner_content: `        __~~#00F:AND~~__ you have a healthy ((Liver)) and ((Overview Kidney and vitamin D|Kidney))`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `        `
+│   │   inner_content: `        `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` you have a healthy `
+│   │   inner_content: ` you have a healthy `
+│   ├── LocalLinkNode
+│   │   full_match: `((Liver))`
+│   │   inner_content: `Liver`
+│   │   page: `Liver`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Liver`
+│   │   │   inner_content: `Liver`
+│   ├── TextNode
+│   │   full_match: ` and `
+│   │   inner_content: ` and `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Kidney and vitamin D|Kidney))`
+│   │   inner_content: `Overview Kidney and vitamin D|Kidney`
+│   │   page: `Overview Kidney and vitamin D|Kidney`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Kidney and vitamin D|Kidney`
+│   │   │   inner_content: `Overview Kidney and vitamin D|Kidney`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*         __~~#00F:AND~~__ there are no clouds nor ((Air Pollution reduces Vitamin D|air pollution))`
+│   inner_content: `         __~~#00F:AND~~__ there are no clouds nor ((Air Pollution reduces Vitamin D|air pollution))`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `         `
+│   │   inner_content: `         `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` there are no clouds nor `
+│   │   inner_content: ` there are no clouds nor `
+│   ├── LocalLinkNode
+│   │   full_match: `((Air Pollution reduces Vitamin D|air pollution))`
+│   │   inner_content: `Air Pollution reduces Vitamin D|air pollution`
+│   │   page: `Air Pollution reduces Vitamin D|air pollution`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Air Pollution reduces Vitamin D|air pollution`
+│   │   │   inner_content: `Air Pollution reduces Vitamin D|air pollution`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*          __~~#00F:AND~~__ you have a good response to sunshine (4X variation between individuals)`
+│   inner_content: `          __~~#00F:AND~~__ you have a good response to sunshine (4X variation between individuals)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `          `
+│   │   inner_content: `          `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:AND~~__`
+│   │   inner_content: `~~#00F:AND~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:AND~~`
+│   │   │   inner_content: `AND`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `AND`
+│   │   │   │   inner_content: `AND`
+│   ├── TextNode
+│   │   full_match: ` you have a good response to sunshine (4X variation between individuals)`
+│   │   inner_content: ` you have a good response to sunshine (4X variation between individuals)`├── TextNode
+│   full_match: `\n `
+│   inner_content: `\n `├── TikiCommentNode
+│   full_match: `~tc~ end ~/tc~`
+│   inner_content: ` end `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` end `
+│   │   inner_content: ` end `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Test 10 minutes)) ~/tc~`
+│   inner_content: ` (alias(Test 10 minutes)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Test 10 minutes)) `
+│   │   inner_content: ` (alias(Test 10 minutes)) `
+
+Original Tiki:
+-------------
+~tc~ start ~/tc~
+__5-10 minutes of sun provides ONLY 1,000 IU ~~#00F:ONLY IF~~ __
+*you are near the equator
+*__~~#00F:AND~~__ young (seniors 4X longer)
+* __~~#00F:AND~~__ not obese ( need 3X longer)
+*  __~~#00F:AND~~__ have light skin (Dark Skin need 4X longer)
+*   __~~#00F:AND~~__ it is summer
+*    __~~#00F:AND~~__ it is the middle of the day
+*     __~~#00F:AND~~__ you have lots of skin exposed to the sun
+*      __~~#00F:AND~~__ you are lying down
+*       __~~#00F:AND~~__ you are not wearing sunscreen
+*        __~~#00F:AND~~__ you have a healthy ((Liver)) and ((Overview Kidney and vitamin D|Kidney))
+*         __~~#00F:AND~~__ there are no clouds nor ((Air Pollution reduces Vitamin D|air pollution))
+*          __~~#00F:AND~~__ you have a good response to sunshine (4X variation between individuals)
+ ~tc~ end ~/tc~
+~tc~ (alias(Test 10 minutes)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

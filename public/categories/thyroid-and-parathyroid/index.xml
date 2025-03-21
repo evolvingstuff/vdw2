@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thyroid and Parathyroid on VitaminDWiki</title>
+    <link>http://localhost:1313/categories/thyroid-and-parathyroid/</link>
+    <description>Recent content in Thyroid and Parathyroid on VitaminDWiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/thyroid-and-parathyroid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thyroidectomy and Vitamin D - many studies</title>
+      <link>http://localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thyroidectomy-and-vitamin-d-many-studies/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery %%%See &lt;a href=&#34;http://localhost:1313/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&#34; style=&#34;color: red; text-decoration: underline;&#34; title=&#34;This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs&#34;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!-- {maketoc} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;4-vitamindwiki-pages-with-thyroidectomy-in-the-title&#34;&gt;4+ VitaminDWiki pages with THYROIDECTOMY in the title&lt;/h4&gt;&#xA;&lt;p&gt;This list is automatically updated&lt;/p&gt;&#xA;&lt;p&gt;{LIST()}&lt;/p&gt;&#xA;&lt;p&gt;{list max=&amp;ldquo;50&amp;rdquo;}&lt;/p&gt;&#xA;&lt;!-- {filter field=&#34;title&#34; content=&#34;THYROIDECTOMY&#34;} --&gt;&#xA;&lt;!-- {filter type=&#34;wiki page&#34;} --&gt;&#xA;&lt;p&gt;{sort mode=&amp;ldquo;modification_date_major_desc&amp;rdquo;}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

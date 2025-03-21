@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bipolar on VitaminDWiki</title>
+    <link>http://localhost:1313/categories/bipolar/</link>
+    <description>Recent content in Bipolar on VitaminDWiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/bipolar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global burden of brain disorders surpasses cardiovascular disease and cancer</title>
+      <link>http://localhost:1313/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;from-mdedgehttpswwwmdedgecomneurologyarticle264086neurologyglobal-burden-brain-disorders-surpasses-cardiovascular-diseaseecdwnl_eve_230715_mdedge&#34;&gt;From &lt;a href=&#34;https://www.mdedge.com/neurology/article/264086/neurology/global-burden-brain-disorders-surpasses-cardiovascular-disease?ecd=WNL_EVE_230715_mdedge&#34;&gt;MDEdge&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Brain disorders, including mental illness, neurologic conditions, and stroke, account for more than 15% of all health loss worldwide – more than either cardiovascular disease or cancer – at huge cost to health care systems and society, an analysis of data from the most recent Global Burden of Disease (GBD) study shows.&lt;/p&gt;&#xA;&lt;p&gt;“The burden of brain conditions will increase as populations continue to grow and age,” said study presenter Shayla Smith, MPH, an epidemiologist at the Institute for Health Metrics and Evaluation, the University of Washington, Seattle, in a press release.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

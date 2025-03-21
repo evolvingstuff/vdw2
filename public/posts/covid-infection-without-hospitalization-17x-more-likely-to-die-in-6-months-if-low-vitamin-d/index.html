@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>COVID infection (without hospitalization) – 1.7X more likely to die in 6 months if low Vitamin D</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>COVID infection (without hospitalization) – 1.7X more likely to die in 6 months if low Vitamin D</h1>
+        <time>February 29, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="association-between-vitamin-d-deficiency-and-post-acute-outcomes-of-sars-cov-2-infection">Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection</h4>
+<p>Eur J Nutr. 2024 Mar;63(2):613-622. <a href="https://doi.org/10.1007/s00394-023-03298-3">doi: 10.1007/s00394-023-03298-3</a> PDF can be rented at DeepDyve</p>
+<p>Jheng-Yan Wu # 1 2 3, Mei-Yuan Liu # 1 4 5 6, Wan-Hsuan Hsu 7, Ya-Wen Tsai 8, Ting-Hui Liu 9, Po-Yu Huang 10, Min-Hsiang Chuang 10, Szu-En Chin 11, Chih-Cheng Lai 12 13</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Objectives: This study aimed to investigate the association between vitamin D deficiency (VDD) and post-acute outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.</p>
+<p>Methods: This retrospective study used the TriNetX research network to identify COVID-19 patients between January 1 and November 30, 2022. Patients were matched using propensity score matching (PSM) and divided into  <strong>VDD (&lt; 20 ng/mL)</strong>  and control (≥ 20 ng/mL) groups. The primary outcome was a composite of post-COVID-19 condition (identified by ICD-10 code), all-cause emergency department (ED) visits, hospitalization, and death during the follow-up period (90-180 days) after the diagnosis of COVID-19.</p>
+<p>Results: From an initial recruitment of 42,674 non-hospitalized patients with COVID-19 and known 25(OH)D status, a VDD group of 8300 was identified and propensity matched with 8300 controls. During the follow-up period, the VDD group had a higher risk of the primary outcome than did the control group <span>[hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210]</span>.</p>
+<p>The VDD group also had a</p>
+<ul>
+<li>
+<p>higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),</p>
+</li>
+<li>
+<p>all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and</p>
+</li>
+<li>
+<p>all-cause death (HR = 1.748; 95% CI = 1.047-2.290)</p>
+</li>
+</ul>
+<p>but not post-COVID-19 condition (HR = 0.980; 95% CI = 0.630-1.523), individually.</p>
+<p>Conclusion: Among the COVID-19 patients, VDD might be associated with a higher risk of all-cause ED visits, hospitalization, and death during the post-acute phase.</p>
+<hr>
+<h4 id="vitamindwiki--">VitaminDWiki -</h4>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
+<pre><code>   studies in both categories Virus and Mortality
+</code></pre>
+<p>This list is automatically updated</p>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostsexcess-deaths-5-possible-reasons-many-studiesexcess-deaths-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-excess-deaths---5-possible-reasons---many-studiesexcess-deaths---many-studiesexcess-deaths---5-possible-reasons---many-studiesexcess-deaths---many-studiesa">VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies">Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies</a></h4>
+<hr>
+<h4 id="note-covid-also-reduces-vitamin-d-receptor-activation-which-results-in-less-d-getting-to-cells">Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells</h4>
+<p><strong><a href="/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants">COVID variants protect themselves by deactivating different VDR variants– March 2023</a></strong></p>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection
+
+Eur J Nutr. 2024 Mar;63(2):613-622. [doi: 10.1007/s00394-023-03298-3](https://doi.org/10.1007/s00394-023-03298-3) PDF can be rented at DeepDyve
+
+Jheng-Yan Wu # 1 2 3, Mei-Yuan Liu # 1 4 5 6, Wan-Hsuan Hsu 7, Ya-Wen Tsai 8, Ting-Hui Liu 9, Po-Yu Huang 10, Min-Hsiang Chuang 10, Szu-En Chin 11, Chih-Cheng Lai 12 13
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+Objectives: This study aimed to investigate the association between vitamin D deficiency (VDD) and post-acute outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.
+
+Methods: This retrospective study used the TriNetX research network to identify COVID-19 patients between January 1 and November 30, 2022. Patients were matched using propensity score matching (PSM) and divided into  **VDD (&lt; 20 ng/mL)**  and control (≥ 20 ng/mL) groups. The primary outcome was a composite of post-COVID-19 condition (identified by ICD-10 code), all-cause emergency department (ED) visits, hospitalization, and death during the follow-up period (90-180 days) after the diagnosis of COVID-19.
+
+Results: From an initial recruitment of 42,674 non-hospitalized patients with COVID-19 and known 25(OH)D status, a VDD group of 8300 was identified and propensity matched with 8300 controls. During the follow-up period, the VDD group had a higher risk of the primary outcome than did the control group &lt;span&gt;[hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210]&lt;/span&gt;. 
+
+The VDD group also had a 
+
+* higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),
+
+* all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and 
+
+* all-cause death (HR = 1.748; 95% CI = 1.047-2.290) 
+
+but not post-COVID-19 condition (HR = 0.980; 95% CI = 0.630-1.523), individually.
+
+Conclusion: Among the COVID-19 patients, VDD might be associated with a higher risk of all-cause ED visits, hospitalization, and death during the post-acute phase.
+
+---
+
+#### VitaminDWiki -  
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
+       studies in both categories Virus and Mortality
+
+This list is automatically updated
+
+---
+
+#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies&lt;/a&gt;
+
+---
+
+#### Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells
+
+ **[COVID variants protect themselves by deactivating different VDR variants– March 2023](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)** 
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection`
+│   inner_content: `Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection`
+│   │   inner_content: `Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection`├── TextNode
+│   full_match: `\nEur J Nutr. 2024 Mar;63(2):613-622. `
+│   inner_content: `\nEur J Nutr. 2024 Mar;63(2):613-622. `├── DoiLinkNode
+│   full_match: `doi: 10.1007/s00394-023-03298-3`
+│   inner_content: `10.1007/s00394-023-03298-3`├── TextNode
+│   full_match: ` PDF can be rented at DeepDyve\nJheng-Yan Wu # 1 2 3, Mei-Yuan Liu # 1 4 5 6, Wan-Hsuan Hsu 7, Ya-Wen Tsai 8, Ting-Hui Liu 9, Po-Yu Huang 10, Min-Hsiang Chuang 10, Szu-En Chin 11, Chih-Cheng Lai 12 13\n\n`
+│   inner_content: ` PDF can be rented at DeepDyve\nJheng-Yan Wu # 1 2 3, Mei-Yuan Liu # 1 4 5 6, Wan-Hsuan Hsu 7, Ya-Wen Tsai 8, Ting-Hui Liu 9, Po-Yu Huang 10, Min-Hsiang Chuang 10, Szu-En Chin 11, Chih-Cheng Lai 12 13\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20881&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20881&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20881
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20882&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20882&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20882
+│   │   width: 600├── TextNode
+│   full_match: `\nObjectives: This study aimed to investigate the association between vitamin D deficiency (VDD) and post-acute outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.\n\nMethods: This retrospective study used the TriNetX research network to identify COVID-19 patients between January 1 and November 30, 2022. Patients were matched using propensity score matching (PSM) and divided into `
+│   inner_content: `\nObjectives: This study aimed to investigate the association between vitamin D deficiency (VDD) and post-acute outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.\n\nMethods: This retrospective study used the TriNetX research network to identify COVID-19 patients between January 1 and November 30, 2022. Patients were matched using propensity score matching (PSM) and divided into `├── BoldNode
+│   full_match: `__VDD (&lt; 20 ng/mL)__`
+│   inner_content: `VDD (&lt; 20 ng/mL)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VDD (&lt; 20 ng/mL)`
+│   │   inner_content: `VDD (&lt; 20 ng/mL)`├── TextNode
+│   full_match: ` and control (≥ 20 ng/mL) groups. The primary outcome was a composite of post-COVID-19 condition (identified by ICD-10 code), all-cause emergency department (ED) visits, hospitalization, and death during the follow-up period (90-180 days) after the diagnosis of COVID-19.\n\nResults: From an initial recruitment of 42,674 non-hospitalized patients with COVID-19 and known 25(OH)D status, a VDD group of 8300 was identified and propensity matched with 8300 controls. During the follow-up period, the VDD group had a higher risk of the primary outcome than did the control group `
+│   inner_content: ` and control (≥ 20 ng/mL) groups. The primary outcome was a composite of post-COVID-19 condition (identified by ICD-10 code), all-cause emergency department (ED) visits, hospitalization, and death during the follow-up period (90-180 days) after the diagnosis of COVID-19.\n\nResults: From an initial recruitment of 42,674 non-hospitalized patients with COVID-19 and known 25(OH)D status, a VDD group of 8300 was identified and propensity matched with 8300 controls. During the follow-up period, the VDD group had a higher risk of the primary outcome than did the control group `├── LinkNode
+│   full_match: `[hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210]`
+│   inner_content: `hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210`
+│   url: `hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210`
+│   children:
+│   ├── TextNode
+│   │   full_match: `hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210`
+│   │   inner_content: `hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210`├── TextNode
+│   full_match: `. \nThe VDD group also had a \n`
+│   inner_content: `. \nThe VDD group also had a \n`├── ListItemNode
+│   full_match: `*higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),`
+│   inner_content: `higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),`
+│   │   inner_content: `higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and `
+│   inner_content: `all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and `
+│   │   inner_content: `all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*all-cause death (HR = 1.748; 95% CI = 1.047-2.290) `
+│   inner_content: `all-cause death (HR = 1.748; 95% CI = 1.047-2.290) `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `all-cause death (HR = 1.748; 95% CI = 1.047-2.290) `
+│   │   inner_content: `all-cause death (HR = 1.748; 95% CI = 1.047-2.290) `├── TextNode
+│   full_match: `\nbut not post-COVID-19 condition (HR = 0.980; 95% CI = 0.630-1.523), individually.\n\nConclusion: Among the COVID-19 patients, VDD might be associated with a higher risk of all-cause ED visits, hospitalization, and death during the post-acute phase.`
+│   inner_content: `\nbut not post-COVID-19 condition (HR = 0.980; 95% CI = 0.630-1.523), individually.\n\nConclusion: Among the COVID-19 patients, VDD might be associated with a higher risk of all-cause ED visits, hospitalization, and death during the post-acute phase.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Mortality`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Mortality`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Virus and Mortality`
+│   │   inner_content: `       studies in both categories Virus and Mortality`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;30+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;30+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 30+155
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies))`
+│   inner_content: `VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies))`
+│   │   inner_content: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`
+│   │   page: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`
+│   │   │   inner_content: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells`
+│   inner_content: `Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells`
+│   │   inner_content: `Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__((COVID variants protect themselves by deactivating different VDR variants– March 2023))__`
+│   inner_content: `((COVID variants protect themselves by deactivating different VDR variants– March 2023))`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((COVID variants protect themselves by deactivating different VDR variants– March 2023))`
+│   │   inner_content: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   page: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
+│   │   │   inner_content: `COVID variants protect themselves by deactivating different VDR variants– March 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Association between vitamin D deficiency and post-acute outcomes of SARS-CoV-2 infection
+Eur J Nutr. 2024 Mar;63(2):613-622. doi: 10.1007/s00394-023-03298-3 PDF can be rented at DeepDyve
+Jheng-Yan Wu # 1 2 3, Mei-Yuan Liu # 1 4 5 6, Wan-Hsuan Hsu 7, Ya-Wen Tsai 8, Ting-Hui Liu 9, Po-Yu Huang 10, Min-Hsiang Chuang 10, Szu-En Chin 11, Chih-Cheng Lai 12 13
+
+{img type=&quot;attId&quot; attId=&quot;20881&quot; width=&quot;600&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20882&quot; width=&quot;600&quot;}
+Objectives: This study aimed to investigate the association between vitamin D deficiency (VDD) and post-acute outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.
+
+Methods: This retrospective study used the TriNetX research network to identify COVID-19 patients between January 1 and November 30, 2022. Patients were matched using propensity score matching (PSM) and divided into __VDD (&lt; 20 ng/mL)__ and control (≥ 20 ng/mL) groups. The primary outcome was a composite of post-COVID-19 condition (identified by ICD-10 code), all-cause emergency department (ED) visits, hospitalization, and death during the follow-up period (90-180 days) after the diagnosis of COVID-19.
+
+Results: From an initial recruitment of 42,674 non-hospitalized patients with COVID-19 and known 25(OH)D status, a VDD group of 8300 was identified and propensity matched with 8300 controls. During the follow-up period, the VDD group had a higher risk of the primary outcome than did the control group [hazard ratio (HR) = 1.122; 95% confidence interval (CI) = 1.041-1.210]. 
+The VDD group also had a 
+*higher risk of all-cause ED visits (HR = 1.114; 95% CI = 1.012-1.226),
+*all-cause hospitalization (HR = 1.230; 95% CI = 1.105-1.369), and 
+*all-cause death (HR = 1.748; 95% CI = 1.047-2.290) 
+but not post-COVID-19 condition (HR = 0.980; 95% CI = 0.630-1.523), individually.
+
+Conclusion: Among the COVID-19 patients, VDD might be associated with a higher risk of all-cause ED visits, hospitalization, and death during the post-acute phase.
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 30  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Mortality
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;30+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies))
+---
+!!!!Note: COVID also reduces Vitamin D Receptor activation, which results in less D getting to cells
+__((COVID variants protect themselves by deactivating different VDR variants– March 2023))__
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Increase vitamin D levels if they are low</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Increase vitamin D levels if they are low</h1>
+        <time>April 21, 2023</time>
+        <h4 id="a-scoping-review-of-vitamin-d-for-nonskeletal-health-a-framework-for-evidence-based-clinical-practice">A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice</h4>
+<p>Clin Ther. 2023 Apr 18;S0149-2918(23)00127-3. <a href="https://doi.org/10.1016/j.clinthera.2023.03.016">doi: 10.1016/j.clinthera.2023.03.016</a>   PDF is behind a paywall</p>
+<p>Heitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4</p>
+<p>Background: Low serum 25-hydroxy-vitamin D <span>[25(OH)D]</span> levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.</p>
+<p>Purpose: The purpose of this review was to critically examine the vitamin D supplementation literature pertaining to nonskeletal health to help guide clinicians.</p>
+<p>Methods: A scoping review that included observational studies and randomized clinical trials (RCTs) was performed. Evidence from meta-analyses and individual RCTs are discussed, and controversies and future directions are considered.</p>
+<p>Findings: 25(OH)D deficiency is a ubiquitous condition associated with multiple nonskeletal diseases, including</p>
+<ul>
+<li>
+<p>cardiometabolic (heart disease, diabetes, and kidney disease),</p>
+</li>
+<li>
+<p>immune (HIV/AIDS and cancer),</p>
+</li>
+<li>
+<p>lung (from traditional chronic disorders to coronavirus disease 2019), and</p>
+</li>
+<li>
+<p>gut diseases.</p>
+</li>
+</ul>
+<p>Vitamin D deficiency also affects health across the life span (children, pregnant, and elderly), mental illness, and reproduction in both men and women.</p>
+<p>In contrast, vitamin D supplementation does not necessarily improve major medical outcomes, even when low 25(OH)D levels are treated. Screening for 25(OH)D status remains an important practice, primarily for high-risk patients (eg, elderly, women with osteoporosis, people with low exposure to sunlight). It is reasonable to supplement with vitamin D to treat 25(OH)D deficiency, such that if beneficial nonskeletal health occurs, this may be considered as a coadjutant instead of the central tenet of the disease. Furthermore, optimizing dosing regimens is an important clinical consideration.</p>
+<p>Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, there is no uniform evidence that vitamin D supplementation improves major medical outcomes, even when low 25(OH)D levels are corrected. Findings from RCTs warrant caution due to possible selection bias. Overall, vitamin D supplementation must be guided by circulating levels as a reasonable medical practice to correct 25(OH)D deficiency.</p>
+<hr>
+<h4 id="some-studies-on-restoring-vitamin-d">Some studies on restoring Vitamin D</h4>
+<ul>
+<li>
+<p><a href="/posts/restore-your-vitamin-d-levels-before-surgery-gastric-cancer-in-this-case">Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023</a></p>
+</li>
+<li>
+<p><a href="/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024">Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024</a></p>
+</li>
+<li>
+<p><a href="/posts/overview-loading-of-vitamin-drestore-in-just-days-not-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|Restore in just days, not months">Overview Loading of vitamin D|Restore in just days, not months</a></p>
+</li>
+</ul>
+<hr>
+<h4 id="6-times-to-55-times-more-likely-to-get-the-following-health-problems-if-vitamin-d-deficient">6 times to 55 times more likely to get the following health problems if Vitamin D deficient</h4>
+<p><a href="/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d-click-here---3x-to-55x-list" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__">3 to 55 X more likely to have these health problems if low Vitamin D | <strong>CLICK HERE for entire  3X to 55X list</strong> </a> for more information</p>
+<hr>
+<h4 id="restoring-vitamin-d-will-prevent-many-subsequent-diseases">Restoring vitamin D will prevent many subsequent diseases</h4>
+<img src="/attachments/d3.mock.jpg" alt="image" width="700"> 
+<p><a href="/posts/diseases-that-may-be-related-via-low-vitamin-dclick-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D|click here for details">Diseases that may be related via low vitamin D|click here for details</a></p>
+<hr>
+<h4 id="vitamindwik--optimumcategoriesoptimum-category-contains">VitaminDWik – <a href="/categories/optimum">Optimum</a> category contains</h4>
+<!-- ~tc~ (alias(Many non-skeletal health problems have low vitamin D - April 2023)) ~/tc~ -->
+<!-- ~tc~ (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+#### A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice
+
+Clin Ther. 2023 Apr 18;S0149-2918(23)00127-3. [doi: 10.1016/j.clinthera.2023.03.016](https://doi.org/10.1016/j.clinthera.2023.03.016) &amp;nbsp; PDF is behind a paywall
+
+Heitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4
+
+Background: Low serum 25-hydroxy-vitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.
+
+Purpose: The purpose of this review was to critically examine the vitamin D supplementation literature pertaining to nonskeletal health to help guide clinicians.
+
+Methods: A scoping review that included observational studies and randomized clinical trials (RCTs) was performed. Evidence from meta-analyses and individual RCTs are discussed, and controversies and future directions are considered.
+
+Findings: 25(OH)D deficiency is a ubiquitous condition associated with multiple nonskeletal diseases, including
+
+* cardiometabolic (heart disease, diabetes, and kidney disease), 
+
+* immune (HIV/AIDS and cancer), 
+
+* lung (from traditional chronic disorders to coronavirus disease 2019), and 
+
+* gut diseases. 
+
+Vitamin D deficiency also affects health across the life span (children, pregnant, and elderly), mental illness, and reproduction in both men and women. 
+
+In contrast, vitamin D supplementation does not necessarily improve major medical outcomes, even when low 25(OH)D levels are treated. Screening for 25(OH)D status remains an important practice, primarily for high-risk patients (eg, elderly, women with osteoporosis, people with low exposure to sunlight). It is reasonable to supplement with vitamin D to treat 25(OH)D deficiency, such that if beneficial nonskeletal health occurs, this may be considered as a coadjutant instead of the central tenet of the disease. Furthermore, optimizing dosing regimens is an important clinical consideration.
+
+Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, there is no uniform evidence that vitamin D supplementation improves major medical outcomes, even when low 25(OH)D levels are corrected. Findings from RCTs warrant caution due to possible selection bias. Overall, vitamin D supplementation must be guided by circulating levels as a reasonable medical practice to correct 25(OH)D deficiency.
+
+---
+
+#### Some studies on restoring Vitamin D
+
+* [Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023](/posts/restore-your-vitamin-d-levels-before-surgery-gastric-cancer-in-this-case)
+
+* &lt;a href=&quot;/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024&quot;&gt;Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/overview-loading-of-vitamin-drestore-in-just-days-not-months&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|Restore in just days, not months&quot;&gt;Overview Loading of vitamin D|Restore in just days, not months&lt;/a&gt;
+
+---
+
+#### 6 times to 55 times more likely to get the following health problems if Vitamin D deficient
+
+&lt;a href=&quot;/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d-click-here---3x-to-55x-list&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__&quot;&gt;3 to 55 X more likely to have these health problems if low Vitamin D | **CLICK HERE for entire  3X to 55X list** &lt;/a&gt; for more information
+
+---
+
+#### Restoring vitamin D will prevent many subsequent diseases
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt; 
+
+&lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-dclick-here-for-details&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D|click here for details&quot;&gt;Diseases that may be related via low vitamin D|click here for details&lt;/a&gt;
+
+---
+
+#### VitaminDWik – [Optimum](/categories/optimum) category contains
+
+&lt;!-- ~tc~ (alias(Many non-skeletal health problems have low vitamin D - April 2023)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!!A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice`
+│   inner_content: `A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice`
+│   │   inner_content: `A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice`├── TextNode
+│   full_match: `\nClin Ther. 2023 Apr 18;S0149-2918(23)00127-3. `
+│   inner_content: `\nClin Ther. 2023 Apr 18;S0149-2918(23)00127-3. `├── DoiLinkNode
+│   full_match: `doi: 10.1016/j.clinthera.2023.03.016`
+│   inner_content: `10.1016/j.clinthera.2023.03.016`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` PDF is behind a paywall\nHeitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4\n\nBackground: Low serum 25-hydroxy-vitamin D `
+│   inner_content: ` PDF is behind a paywall\nHeitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4\n\nBackground: Low serum 25-hydroxy-vitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.\n\nPurpose: The purpose of this review was to critically examine the vitamin D supplementation literature pertaining to nonskeletal health to help guide clinicians.\n\nMethods: A scoping review that included observational studies and randomized clinical trials (RCTs) was performed. Evidence from meta-analyses and individual RCTs are discussed, and controversies and future directions are considered.\n\nFindings: 25(OH)D deficiency is a ubiquitous condition associated with multiple nonskeletal diseases, including\n`
+│   inner_content: ` levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.\n\nPurpose: The purpose of this review was to critically examine the vitamin D supplementation literature pertaining to nonskeletal health to help guide clinicians.\n\nMethods: A scoping review that included observational studies and randomized clinical trials (RCTs) was performed. Evidence from meta-analyses and individual RCTs are discussed, and controversies and future directions are considered.\n\nFindings: 25(OH)D deficiency is a ubiquitous condition associated with multiple nonskeletal diseases, including\n`├── ListItemNode
+│   full_match: `*cardiometabolic (heart disease, diabetes, and kidney disease), `
+│   inner_content: `cardiometabolic (heart disease, diabetes, and kidney disease), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `cardiometabolic (heart disease, diabetes, and kidney disease), `
+│   │   inner_content: `cardiometabolic (heart disease, diabetes, and kidney disease), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*immune (HIV/AIDS and cancer), `
+│   inner_content: `immune (HIV/AIDS and cancer), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `immune (HIV/AIDS and cancer), `
+│   │   inner_content: `immune (HIV/AIDS and cancer), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*lung (from traditional chronic disorders to coronavirus disease 2019), and `
+│   inner_content: `lung (from traditional chronic disorders to coronavirus disease 2019), and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `lung (from traditional chronic disorders to coronavirus disease 2019), and `
+│   │   inner_content: `lung (from traditional chronic disorders to coronavirus disease 2019), and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*gut diseases. `
+│   inner_content: `gut diseases. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `gut diseases. `
+│   │   inner_content: `gut diseases. `├── TextNode
+│   full_match: `\nVitamin D deficiency also affects health across the life span (children, pregnant, and elderly), mental illness, and reproduction in both men and women. \nIn contrast, vitamin D supplementation does not necessarily improve major medical outcomes, even when low 25(OH)D levels are treated. Screening for 25(OH)D status remains an important practice, primarily for high-risk patients (eg, elderly, women with osteoporosis, people with low exposure to sunlight). It is reasonable to supplement with vitamin D to treat 25(OH)D deficiency, such that if beneficial nonskeletal health occurs, this may be considered as a coadjutant instead of the central tenet of the disease. Furthermore, optimizing dosing regimens is an important clinical consideration.\n\nImplications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, there is no uniform evidence that vitamin D supplementation improves major medical outcomes, even when low 25(OH)D levels are corrected. Findings from RCTs warrant caution due to possible selection bias. Overall, vitamin D supplementation must be guided by circulating levels as a reasonable medical practice to correct 25(OH)D deficiency.`
+│   inner_content: `\nVitamin D deficiency also affects health across the life span (children, pregnant, and elderly), mental illness, and reproduction in both men and women. \nIn contrast, vitamin D supplementation does not necessarily improve major medical outcomes, even when low 25(OH)D levels are treated. Screening for 25(OH)D status remains an important practice, primarily for high-risk patients (eg, elderly, women with osteoporosis, people with low exposure to sunlight). It is reasonable to supplement with vitamin D to treat 25(OH)D deficiency, such that if beneficial nonskeletal health occurs, this may be considered as a coadjutant instead of the central tenet of the disease. Furthermore, optimizing dosing regimens is an important clinical consideration.\n\nImplications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, there is no uniform evidence that vitamin D supplementation improves major medical outcomes, even when low 25(OH)D levels are corrected. Findings from RCTs warrant caution due to possible selection bias. Overall, vitamin D supplementation must be guided by circulating levels as a reasonable medical practice to correct 25(OH)D deficiency.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Some studies on restoring Vitamin D`
+│   inner_content: `Some studies on restoring Vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Some studies on restoring Vitamin D`
+│   │   inner_content: `Some studies on restoring Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023))`
+│   inner_content: `((Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023))`
+│   │   inner_content: `Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023`
+│   │   page: `Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023`
+│   │   │   inner_content: `Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024))`
+│   inner_content: `((Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024))`
+│   │   inner_content: `Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024`
+│   │   page: `Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024`
+│   │   │   inner_content: `Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Overview Loading of vitamin D|Restore in just days, not months))`
+│   inner_content: `((Overview Loading of vitamin D|Restore in just days, not months))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Loading of vitamin D|Restore in just days, not months))`
+│   │   inner_content: `Overview Loading of vitamin D|Restore in just days, not months`
+│   │   page: `Overview Loading of vitamin D|Restore in just days, not months`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Loading of vitamin D|Restore in just days, not months`
+│   │   │   inner_content: `Overview Loading of vitamin D|Restore in just days, not months`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!6 times to 55 times more likely to get the following health problems if Vitamin D deficient`
+│   inner_content: `6 times to 55 times more likely to get the following health problems if Vitamin D deficient`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `6 times to 55 times more likely to get the following health problems if Vitamin D deficient`
+│   │   inner_content: `6 times to 55 times more likely to get the following health problems if Vitamin D deficient`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;3 to 55 X more likely to have these health problems if low Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end6X ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;3 to 55 X more likely to have these health problems if low Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end6X ~/tc~&quot;
+│   │   page: 3 to 55 X more likely to have these health problems if low Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end6X ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LocalLinkNode
+│   full_match: `((3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__))`
+│   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__`
+│   page: `3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3 to 55 X more likely to have these health problems if low Vitamin D |`
+│   │   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D |`
+│   ├── BoldNode
+│   │   full_match: `__CLICK HERE for entire  3X to 55X list__`
+│   │   inner_content: `CLICK HERE for entire  3X to 55X list`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `CLICK HERE for entire  3X to 55X list`
+│   │   │   inner_content: `CLICK HERE for entire  3X to 55X list`├── TextNode
+│   full_match: ` for more information`
+│   inner_content: ` for more information`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Restoring vitamin D will prevent many subsequent diseases`
+│   inner_content: `Restoring vitamin D will prevent many subsequent diseases`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Restoring vitamin D will prevent many subsequent diseases`
+│   │   inner_content: `Restoring vitamin D will prevent many subsequent diseases`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img fileId=&quot;2038&quot; width=&quot;700&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=&quot;2038&quot; width=&quot;700&quot;
+│   │   fileId: 2038
+│   │   width: 700├── TextNode
+│   full_match: ` \n`
+│   inner_content: ` \n`├── LocalLinkNode
+│   full_match: `((Diseases that may be related via low vitamin D|click here for details))`
+│   inner_content: `Diseases that may be related via low vitamin D|click here for details`
+│   page: `Diseases that may be related via low vitamin D|click here for details`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diseases that may be related via low vitamin D|click here for details`
+│   │   inner_content: `Diseases that may be related via low vitamin D|click here for details`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWik – ((Optimum)) category contains`
+│   inner_content: `VitaminDWik – ((Optimum)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWik – `
+│   │   inner_content: `VitaminDWik – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Optimum))`
+│   │   inner_content: `Optimum`
+│   │   page: `Optimum`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Optimum`
+│   │   │   inner_content: `Optimum`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Optimum&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Optimum&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Optimum
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Many non-skeletal health problems have low vitamin D - April 2023)) ~/tc~`
+│   inner_content: ` (alias(Many non-skeletal health problems have low vitamin D - April 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Many non-skeletal health problems have low vitamin D - April 2023)) `
+│   │   inner_content: ` (alias(Many non-skeletal health problems have low vitamin D - April 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) ~/tc~`
+│   inner_content: ` (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) `
+│   │   inner_content: ` (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) `
+
+Original Tiki:
+-------------
+!!!!A Scoping Review of Vitamin D for Nonskeletal Health: A Framework for Evidence-Based Clinical Practice
+Clin Ther. 2023 Apr 18;S0149-2918(23)00127-3. doi: 10.1016/j.clinthera.2023.03.016 ~hs~ PDF is behind a paywall
+Heitor O Santos 1, Carlos Eduardo E Martins 2, Scott C Forbes 3, Felipe M Delpino 4
+
+Background: Low serum 25-hydroxy-vitamin D [25(OH)D] levels are prevalent worldwide. Although the benefits of vitamin D supplementation have focused on skeletal disorders (eg, rickets, osteomalacia, osteoporosis), emerging evidence for nonskeletal health merits further discussion.
+
+Purpose: The purpose of this review was to critically examine the vitamin D supplementation literature pertaining to nonskeletal health to help guide clinicians.
+
+Methods: A scoping review that included observational studies and randomized clinical trials (RCTs) was performed. Evidence from meta-analyses and individual RCTs are discussed, and controversies and future directions are considered.
+
+Findings: 25(OH)D deficiency is a ubiquitous condition associated with multiple nonskeletal diseases, including
+*cardiometabolic (heart disease, diabetes, and kidney disease), 
+*immune (HIV/AIDS and cancer), 
+*lung (from traditional chronic disorders to coronavirus disease 2019), and 
+*gut diseases. 
+Vitamin D deficiency also affects health across the life span (children, pregnant, and elderly), mental illness, and reproduction in both men and women. 
+In contrast, vitamin D supplementation does not necessarily improve major medical outcomes, even when low 25(OH)D levels are treated. Screening for 25(OH)D status remains an important practice, primarily for high-risk patients (eg, elderly, women with osteoporosis, people with low exposure to sunlight). It is reasonable to supplement with vitamin D to treat 25(OH)D deficiency, such that if beneficial nonskeletal health occurs, this may be considered as a coadjutant instead of the central tenet of the disease. Furthermore, optimizing dosing regimens is an important clinical consideration.
+
+Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, there is no uniform evidence that vitamin D supplementation improves major medical outcomes, even when low 25(OH)D levels are corrected. Findings from RCTs warrant caution due to possible selection bias. Overall, vitamin D supplementation must be guided by circulating levels as a reasonable medical practice to correct 25(OH)D deficiency.
+---
+!!!!Some studies on restoring Vitamin D
+*((Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023))
+*((Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024))
+*((Overview Loading of vitamin D|Restore in just days, not months))
+---
+!!!!6 times to 55 times more likely to get the following health problems if Vitamin D deficient
+{include page=&quot;3 to 55 X more likely to have these health problems if low Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end6X ~/tc~&quot;}
+((3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__)) for more information
+---
+!!!!Restoring vitamin D will prevent many subsequent diseases
+{img fileId=&quot;2038&quot; width=&quot;700&quot;} 
+((Diseases that may be related via low vitamin D|click here for details))
+---
+!!!!VitaminDWik – ((Optimum)) category contains
+{include page=&quot;Optimum&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+~tc~ (alias(Many non-skeletal health problems have low vitamin D - April 2023)) ~/tc~
+~tc~ (alias(Increase vitamin D levels if they are low (nonskeletal health problems in this case) - April 2023)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better Than Daily on VitaminDWiki</title>
+    <link>http://localhost:1313/categories/better-than-daily/</link>
+    <description>Recent content in Better Than Daily on VitaminDWiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/better-than-daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly, Monthly Vitamin D are typically better than daily - many studies</title>
+      <link>http://localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/weekly-monthly-vitamin-d-are-typically-better-than-daily-many-studies/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki--better-than-dailycategoriesbetter-than-daily-contains&#34;&gt;VitaminDWiki – &lt;a href=&#34;http://localhost:1313/categories/better-than-daily&#34;&gt;Better than Daily&lt;/a&gt; contains:&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;span-stylecolororange122span-vitamindwiki-pages-have-monthly-in-the-title&#34;&gt;&lt;span style=&#34;color:orange;&#34;&gt;122+&lt;/span&gt; VitaminDWiki pages have MONTHLY in the title&lt;/h4&gt;&#xA;&lt;p&gt;This list is automatically updated&lt;/p&gt;&#xA;&lt;p&gt;{LIST()}&lt;/p&gt;&#xA;&lt;p&gt;{list max=&amp;ldquo;150&amp;rdquo;}&lt;/p&gt;&#xA;&lt;!-- {filter field=&#34;title&#34; content=&#34;MONTHLY&#34;} --&gt;&#xA;&lt;!-- {filter field=&#34;title&#34; content=&#34;NOT \&#34; not\&#34;&#34;} --&gt;&#xA;&lt;!-- {filter type=&#34;wiki page&#34;} --&gt;&#xA;&lt;p&gt;{sort mode=&amp;ldquo;modification_date_major_desc&amp;rdquo;}&lt;/p&gt;&#xA;&lt;p&gt;{OUTPUT(template=&amp;ldquo;table&amp;rdquo;)}&lt;/p&gt;&#xA;&lt;p&gt;{tableparams allowtableexpansion=&amp;ldquo;n&amp;rdquo; shownbitems=&amp;ldquo;y&amp;rdquo; title=&amp;quot;&amp;quot;}&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;{column sort=&amp;quot;title&amp;quot; label=&amp;quot;Title&amp;quot; field=&amp;quot;title&amp;quot; mode=&amp;quot;raw&amp;quot;}{column}&#xA;&#xA;{column label=&amp;quot;Modified&amp;quot; sort=&amp;quot;modification_date_major&amp;quot; field=&amp;quot;modification_date_major&amp;quot;}&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;{OUTPUT}&lt;/p&gt;&#xA;&lt;p&gt;{FORMAT(name=&amp;ldquo;title&amp;rdquo;)}{display name=title format=&amp;ldquo;objectlink&amp;rdquo;}{FORMAT}&lt;/p&gt;&#xA;&lt;p&gt;{FORMAT(name=&amp;ldquo;modification_date_major&amp;rdquo;)}{display name=modification_date_major format=&amp;ldquo;date&amp;rdquo;}{FORMAT}&lt;/p&gt;&#xA;&lt;p&gt;{LIST}&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;span-stylecolororange221span-vitamindwiki-pages-have-weekly-in-the-title&#34;&gt;&lt;span style=&#34;color:orange;&#34;&gt;221+&lt;/span&gt; VitaminDWiki pages have WEEKLY in the title&lt;/h4&gt;&#xA;&lt;p&gt;This list is automatically updated&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly vitamin D dosing better for children than daily (again)</title>
+      <link>http://localhost:1313/posts/monthly-vitamin-d-dosing-better-for-children-than-daily-again/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/monthly-vitamin-d-dosing-better-for-children-than-daily-again/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;monthly-versus-daily-administration-of-vitamin-d3-in-children-a-retrospective-propensity-score-matched-study&#34;&gt;Monthly versus daily administration of vitamin D3 in children: a retrospective propensity score-matched study&lt;/h4&gt;&#xA;&lt;p&gt;Front Endocrinol (Lausanne) 2023 Oct 24:14:1265943. &lt;a href=&#34;https://doi.org/10.3389/fendo.2023.1265943&#34;&gt;doi: 10.3389/fendo.2023.1265943&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jinjoo Choi # 1, Yunsoo Choe # 2, Seung Yang 1 3&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/attachments/d3.mock.jpg&#34; alt=&#34;image&#34; width=&#34;300&#34;&gt;&#xA;&lt;p&gt;Objectives: We aimed to evaluate the efficacy and safety of monthly vitamin D3 administration compared to a daily dosing regimen in healthy children with vitamin D deficiency.&lt;/p&gt;&#xA;&lt;p&gt;Methods: This retrospective study included vitamin D deficient (serum 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; &amp;lt; 20 ng/mL) children with precocious puberty who received gonadotropin-releasing hormone agonist every 4 weeks between December 2019 and November 2022. We used propensity scores to 1:1 match daily (1,000 IU daily) and monthly (25,000 IU per 4 weeks) administration of vitamin D3 based on age, sex, body mass index Z-scores, season of blood collection, and baseline serum 25(OH)D concentrations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cancers reduced after 2 years of 2000 IU Vitamin D daily (2nd RCT) – RCT Aug</title>
+      <link>http://localhost:1313/posts/cancers-reduced-after-2-years-of-2000-iu-vitamin-d-daily-2nd-rct-rct-aug/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cancers-reduced-after-2-years-of-2000-iu-vitamin-d-daily-2nd-rct-rct-aug/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;vitamindwiki-summary&#34;&gt;VitaminDWiki summary&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Some health problems, such as Cancers. take a long time to develop&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The blood level of 2,000 IU of vitamin D taken daily takes over a year to plateau&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The same blood level can be achieved in weeks if a loading dose is first taken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Note: P-53 is present in about 50% of those with digestive tract cancers&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thus about 50% fewer digestive tract cancer with 2,000 IU of vitamin D if ignore P-53&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;While over a million people have successfully used loading doses,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vitamin D given daily, weekly, or monthly has similar response (116 RCTs) – meta-analysis</title>
+      <link>http://localhost:1313/posts/vitamin-d-given-daily-weekly-or-monthly-has-similar-response-116-rcts-meta-analysis/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vitamin-d-given-daily-weekly-or-monthly-has-similar-response-116-rcts-meta-analysis/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;efficacy-of-intermittent-versus-daily-vitamin-d-supplementation-on-improving-circulating-25ohd-concentration-a-bayesian-network-meta-analysis-of-randomized-controlled-trials&#34;&gt;Efficacy of intermittent versus daily vitamin D supplementation on improving circulating 25(OH)D concentration: a Bayesian network meta-analysis of randomized controlled trials&lt;/h4&gt;&#xA;&lt;p&gt;Front. Nutr., 24 August 2023 Vol 10 - 2023 | &lt;a href=&#34;https://doi.org/10.3389/fnut.2023.1168115&#34;&gt;https://doi.org/10.3389/fnut.2023.1168115&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Yan Zhuang1,2† Zhe Zhu3† Peihan Chi1,2 Haibo Zhou1,2 Zhicheng Peng1,2 Haoyue Cheng1,2 Xing Xin1,2 Wenliang Luo1,2 Shuting Si1,2 Minjia Mo1,2 Danqing Chen4 Hui Liu5* Yunxian Yu1,2*&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 Dept of Public Health, Second Affiliated Hospital of Zhejiang U, School of Medicine, Hangzhou, China&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vitamin D response independent of dosing interval – meta-analysis</title>
+      <link>http://localhost:1313/posts/vitamin-d-response-independent-of-dosing-interval-meta-analysis/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vitamin-d-response-independent-of-dosing-interval-meta-analysis/</guid>
+      <description>&lt;!-- {maketoc Title=&#34;&#34;} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;efficacy-of-intermittent-versus-daily-vitamin-d-supplementation-on-improving-circulating-25ohd-concentration-a-bayesian-network-meta-analysis-of-randomized-controlled-trials&#34;&gt;Efficacy of intermittent versus daily vitamin D supplementation on improving circulating 25(OH)D concentration: A Bayesian network meta-analysis of randomized controlled trials&lt;/h4&gt;&#xA;&lt;p&gt;Front. Nutr.Sec. Nutritional Epidemiology Volume 10 - 2023 | &lt;a href=&#34;https://doi.org/10.3389/fnut.2023.1168115&#34;&gt;doi: 10.3389/fnut.2023.1168115&lt;/a&gt;   PDF not available initially&lt;/p&gt;&#xA;&lt;p&gt;Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*&lt;/p&gt;&#xA;&lt;p&gt;1 Zhejiang University, China&lt;/p&gt;&#xA;&lt;p&gt;2 Sir Run run shaw hospital, China&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Depression is especially reduced by large intermittent doses of vitamin D – meta-analysis</title>
+      <link>http://localhost:1313/posts/depression-is-especially-reduced-by-large-intermittent-doses-of-vitamin-d-meta-analysis/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/depression-is-especially-reduced-by-large-intermittent-doses-of-vitamin-d-meta-analysis/</guid>
+      <description>&lt;!-- {maketoc} --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;efficacy-and-acceptability-of-vitamin-d-supplements-for-depressed-patients-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials&#34;&gt;Efficacy and acceptability of vitamin D supplements for depressed patients: A systematic review and meta-analysis of randomized controlled trials&lt;/h4&gt;&#xA;&lt;p&gt;Nutrition 2023 Jan 7;108:111968. &lt;a href=&#34;https://doi.org/10.1016/j.nut.2022.111968&#34;&gt;doi: 10.1016/j.nut.2022.111968&lt;/a&gt; PDFis behind a paywall&lt;/p&gt;&#xA;&lt;p&gt;Maytinee Srifuengfung 1, Somporn Srifuengfung 2, Chalermsri Pummangura 2, Keerati Pattanaseri 1, Awirut Oon-Arom 3, Manit Srisurapanont 4&lt;/p&gt;&#xA;&lt;p&gt;Objectives: This systematic review and meta-analysis synthesized the evidence from randomized controlled trials comparing vitamin D and placebo in reducing depressive symptoms and contributing to all-cause dropout rates.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

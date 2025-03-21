@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My Life as a Vitamin D Researcher – Dr. Grant</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>My Life as a Vitamin D Researcher – Dr. Grant</h1>
+        <time>February 18, 2023</time>
+        <!-- {maketoc} -->
+<hr>
+<h4 id="my-life-as-a-vitamin-d-researcher">MY LIFE AS A VITAMIN D RESEARCHER</h4>
+<p>Cent Asian J Med Hypotheses Ethics 2022:3(4):275- 278. <a href="https://doi.org/10.47316/cajmhe.2022.3.4.08">https://doi.org/10.47316/cajmhe.2022.3.4.08</a></p>
+<p>William B Grant <a href="https://orcid.org/0000-0002-1439-3285">https://orcid.org/0000-0002-1439-3285</a> Sunlight, Nutrition, and Health Research Center, San Francisco, USA <a href="mailto:wbgrant@infionline.net">wbgrant@infionline.net</a></p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<h5 id="introduction">INTRODUCTION</h5>
+<p>I obtained a Ph.D. in physics from the University of California, Berkeley in 1971. I had a post doctoral research position at the Freie Universität Berlin from 1971-73. I then had a career in developing and applying laser systems for the remote measurement of atmospheric trace species. The final 15 years of that career were with the NASA Langley Research Center in Hampton, Virginia. I worked with an airborne LIDAR system to make vertical profiles of aerosols and oceans on many campaigns stretching from New Zealand to the North Pole. During my time in Virginia, I spent three years on my own time researching the effect of acid rain and ozone on hardwood forest decline. A forestry professor, Orie Loucks, taught me how to use the ecological approach in this project. On a NASA trip to New Zealand in 1996, I read that Japanese-American men in Hawaii had 2.5 times the prevalence of Alzheimer’s disease (AD) as native Japanese. Recalling that aluminum was associated with AD and forest decline, I quickly thought that the reason had to be the American diet and that I could demonstrate that using the ecological study approach. I obtained data on AD prevalence in ten countries as well as the macro dietary factors and showed that total caloric supply and total fat were strongly correlated with AD, that fish slightly reduced risk, and a rice-based diet greatly reduced risk.</p>
+<p>My press conference in 1997 resulted in nation-wide TV coverage and I realized I had found my calling in health research. I turned to the study of vitamin D after finding the Atlas of Cancer Mortality in the United States 195094 (Devesa et al., 1999) - available from Google Books.</p>
+<p>I used the hypothesis by the brothers Cedric and Frank Garland in 1980 that that the effect of sunlight on colon cancer was due to UVB production of vitamin D. My resulting paper, published in Cancer in 2002, identified 13 types of cancer with mortality rates inversely correlated with solar UVB doses. It formed the basis for much additional research. I retired from NASA in 2004, moved to San Francisco, California, and founded my non-profit company, Sunlight, Nutrition and Health Research Center (<a href="https://www.sunarc.org">www.sunarc.org</a>).</p>
+<p>I have benefitted from working with many of the authors and coauthors of my publications listed at:</p>
+<p>PubMed (<a href="https://tinyurl.com/5devc9uf)">https://tinyurl.com/5devc9uf)</a>: Nutrients (<a href="https://tinyurl.com/2kcwmt8f)">https://tinyurl.com/2kcwmt8f)</a>.</p>
+<p>I am also very much interested in the role of diet in maintain optimal health and reducing risk of disease incidence and severity.</p>
+<p>I generally favor a whole-plant centered diet.</p>
+<p>There are a number of approaches I have taken in my research. One is to do ecological studies on diseases using data from states or countries along with data on risk-modifying factors such as UVB doses and dietary factors as well as other appropriate risk-modifying  factors. Another is that I search the journal literature daily on PubMed and Google Scholar to keep abreast of the latest research and find ideas for new manuscripts. I also review about 150 journal manuscripts a year.</p>
+<p>I have collaborated with vitamin D-promotion organizations such as the Vitamin D Council headed by John Cannell, MD (~2004 to 2018), and Grassroots Health (<a href="https://www.grassrootshealth.net/)">https://www.grassrootshealth.net/)</a>, headed by Carole Baggerly. I also interact with Henry Lahore, who works daily to update his website, <a href="https://VitaminDWiki.com">https://VitaminDWiki.com</a>, with the latest information on vitamin D.</p>
+<p>I attend many vitamin D conferences in the U.S., Europe and the UAE (Figure 1). Doing so leads to collaborating in drafting manuscripts and making alliances with other researchers.</p>
+<p>I use Twitter to promote vitamin D and interact with people interested in vitamin D. One man contacted me to let him be my representative in Bangladesh. He has been very effective in promoting vitamin D there and on Twitter.</p>
+<h5 id="my-views-on-current-research-trends-in-vitamin-d-and-level-of-evidence-in-this-field">MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD</h5>
+<p>In my opinion, vitamin D research is progressing, but the medical system ignores the evidence. The medical system in many countries is organized as a profit-making enterprise. Since vitamin D is a very inexpensive way to help maintain health and reduce risk of many types of disease, Big Pharma dislikes it. It uses the Disinformation Playbook to discourage knowledge and use of vitamin D (<a href="https://tinyurl.com/bdcfdemr)">https://tinyurl.com/bdcfdemr)</a>. An example is that the three most widely-read medical journals will publish articles about vitamin D only if they show that vitamin D does not provide health benefits. Another is that there is a mass media blockade on reporting that vitamin D supplementation could reduce the risk and severity of COVID-19.</p>
+<h5 id="are-there-evidence-based-practice-guidelines">ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?</h5>
+<p>There are 289 evidence-based practice guidelines for vitamin D listed at pubmed.gov (as of February 5, 2023). Scientific evidence comes from several types of studies including ecological studies, observational studies, mechanism studies, Mendelian randomization (MR) studies, and randomized controlled trials (RCTs). While the medical system considers RCTs to be the strongest evidence, it is generally not useful for vitamin D. The reason is that they are based on vitamin D dose rather than serum 25-hydroxyvitamin D <span>[25(OH)D]</span> concentration. In most vitamin D RCTs, baseline 25(OH)D concentrations are relatively high, vitamin D doses are relatively low (one can make 10,000 to 20,000 IU/day in the sun), and results are analyzed by intention to treat. MR studies use genetically-predicted 25(OH)D concentrations to randomize participants in very large databases. They have demonstrated that vitamin D reduces risk of cardiovascular disease and many other diseases in a causal manner. As a result, they support findings from observational studies. However, observational studies have to be carefully evaluated since the longer the follow-up time after blood draw, the lower will be the apparent effect of higher 25(OH)D concentration. I have helped draft several publications recommending vitamin D doses and serum 25(OH)D concentrations based on a careful evaluation of all types of evidence.</p>
+<h5 id="how-does-vitamin-d-research-progress-globally">HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?</h5>
+<p>Interest in the non-skeletal benefits of vitamin D is expanding globally. Researchers from many countries are conducting observational studies. Vitamin D RCTs are very expensive and not very useful. As a result, few are being done now. However, MR studies are taking their place.</p>
+<h5 id="how-does-vitamin-d-supplementation-help-patients-with-chronic-inflammatory-diseases">HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?</h5>
+<p>Vitamin D reduces inflammation in part through downregulating production of pro-inflammatory cytokines and up-regulating anti-inflammatory cytokines.</p>
+<h5 id="my-message-to-health-professionals-in-central-asia">MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA</h5>
+<p>Please consider taking vitamin D supplements and recommending vitamin D supplementation to your patients. I suggest taking at least 2000 IU/day vitamin D3 with better results for 4000 to 5000 IU/day, especially for those who are pregnant, obese, have chronic diseases, and those who are not making vitamin D in the sun, such as in the darker half of the year. Note that vitamin D can only be produced when one’s shadow is shorter than one’s height. Then keep records of how the health of the patients changes with vitamin D3 supplementation. Measurement of serum 25(OH)D concentrations is not necessary if high doses are used, but is useful in some cases.</p>
+<p>As to the scientific journal literature, you can generally obtain PDFs through pubmed.gov, scholar.google.com or directly from the authors. If you are not comfortable reading it in the original language, you can use Google Translate to translate it into your own language.</p>
+<hr>
+<h4 id="47-items-by-a-hrefpostsby-dr-grant-in-vitamindwiki-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-by-dr-grant-in-vitamindwikiby-dr-grant-in-vitamindwikia">47+ items by <a href="/posts/by-dr-grant-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: By Dr. Grant in VitaminDWiki">By Dr. Grant in VitaminDWiki</a></h4>
+<!-- ~tc~ (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) ~/tc~ -->
+<!-- ~tc~ (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) ~/tc~ -->
+<!-- ~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc} --&gt;
+ 
+
+---
+
+#### MY LIFE AS A VITAMIN D RESEARCHER
+
+Cent Asian J Med Hypotheses Ethics 2022:3(4):275- 278. https://doi.org/10.47316/cajmhe.2022.3.4.08
+
+William B Grant https://orcid.org/0000-0002-1439-3285 Sunlight, Nutrition, and Health Research Center, San Francisco, USA wbgrant@infionline.net
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+##### INTRODUCTION
+
+I obtained a Ph.D. in physics from the University of California, Berkeley in 1971. I had a post doctoral research position at the Freie Universität Berlin from 1971-73. I then had a career in developing and applying laser systems for the remote measurement of atmospheric trace species. The final 15 years of that career were with the NASA Langley Research Center in Hampton, Virginia. I worked with an airborne LIDAR system to make vertical profiles of aerosols and oceans on many campaigns stretching from New Zealand to the North Pole. During my time in Virginia, I spent three years on my own time researching the effect of acid rain and ozone on hardwood forest decline. A forestry professor, Orie Loucks, taught me how to use the ecological approach in this project. On a NASA trip to New Zealand in 1996, I read that Japanese-American men in Hawaii had 2.5 times the prevalence of Alzheimer’s disease (AD) as native Japanese. Recalling that aluminum was associated with AD and forest decline, I quickly thought that the reason had to be the American diet and that I could demonstrate that using the ecological study approach. I obtained data on AD prevalence in ten countries as well as the macro dietary factors and showed that total caloric supply and total fat were strongly correlated with AD, that fish slightly reduced risk, and a rice-based diet greatly reduced risk.
+
+My press conference in 1997 resulted in nation-wide TV coverage and I realized I had found my calling in health research. I turned to the study of vitamin D after finding the Atlas of Cancer Mortality in the United States 195094 (Devesa et al., 1999) - available from Google Books.
+
+I used the hypothesis by the brothers Cedric and Frank Garland in 1980 that that the effect of sunlight on colon cancer was due to UVB production of vitamin D. My resulting paper, published in Cancer in 2002, identified 13 types of cancer with mortality rates inversely correlated with solar UVB doses. It formed the basis for much additional research. I retired from NASA in 2004, moved to San Francisco, California, and founded my non-profit company, Sunlight, Nutrition and Health Research Center (www.sunarc.org).
+
+I have benefitted from working with many of the authors and coauthors of my publications listed at:
+
+PubMed (https://tinyurl.com/5devc9uf): Nutrients (https://tinyurl.com/2kcwmt8f).
+
+I am also very much interested in the role of diet in maintain optimal health and reducing risk of disease incidence and severity.
+
+I generally favor a whole-plant centered diet.
+
+There are a number of approaches I have taken in my research. One is to do ecological studies on diseases using data from states or countries along with data on risk-modifying factors such as UVB doses and dietary factors as well as other appropriate risk-modifying  factors. Another is that I search the journal literature daily on PubMed and Google Scholar to keep abreast of the latest research and find ideas for new manuscripts. I also review about 150 journal manuscripts a year.
+
+I have collaborated with vitamin D-promotion organizations such as the Vitamin D Council headed by John Cannell, MD (~2004 to 2018), and Grassroots Health (https://www.grassrootshealth.net/), headed by Carole Baggerly. I also interact with Henry Lahore, who works daily to update his website, https://VitaminDWiki.com, with the latest information on vitamin D.
+
+I attend many vitamin D conferences in the U.S., Europe and the UAE (Figure 1). Doing so leads to collaborating in drafting manuscripts and making alliances with other researchers.
+
+I use Twitter to promote vitamin D and interact with people interested in vitamin D. One man contacted me to let him be my representative in Bangladesh. He has been very effective in promoting vitamin D there and on Twitter.
+
+##### MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD
+
+In my opinion, vitamin D research is progressing, but the medical system ignores the evidence. The medical system in many countries is organized as a profit-making enterprise. Since vitamin D is a very inexpensive way to help maintain health and reduce risk of many types of disease, Big Pharma dislikes it. It uses the Disinformation Playbook to discourage knowledge and use of vitamin D (https://tinyurl.com/bdcfdemr). An example is that the three most widely-read medical journals will publish articles about vitamin D only if they show that vitamin D does not provide health benefits. Another is that there is a mass media blockade on reporting that vitamin D supplementation could reduce the risk and severity of COVID-19.
+
+##### ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?
+
+There are 289 evidence-based practice guidelines for vitamin D listed at pubmed.gov (as of February 5, 2023). Scientific evidence comes from several types of studies including ecological studies, observational studies, mechanism studies, Mendelian randomization (MR) studies, and randomized controlled trials (RCTs). While the medical system considers RCTs to be the strongest evidence, it is generally not useful for vitamin D. The reason is that they are based on vitamin D dose rather than serum 25-hydroxyvitamin D &lt;span&gt;[25(OH)D]&lt;/span&gt; concentration. In most vitamin D RCTs, baseline 25(OH)D concentrations are relatively high, vitamin D doses are relatively low (one can make 10,000 to 20,000 IU/day in the sun), and results are analyzed by intention to treat. MR studies use genetically-predicted 25(OH)D concentrations to randomize participants in very large databases. They have demonstrated that vitamin D reduces risk of cardiovascular disease and many other diseases in a causal manner. As a result, they support findings from observational studies. However, observational studies have to be carefully evaluated since the longer the follow-up time after blood draw, the lower will be the apparent effect of higher 25(OH)D concentration. I have helped draft several publications recommending vitamin D doses and serum 25(OH)D concentrations based on a careful evaluation of all types of evidence.
+
+##### HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?
+
+Interest in the non-skeletal benefits of vitamin D is expanding globally. Researchers from many countries are conducting observational studies. Vitamin D RCTs are very expensive and not very useful. As a result, few are being done now. However, MR studies are taking their place.
+
+##### HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?
+
+Vitamin D reduces inflammation in part through downregulating production of pro-inflammatory cytokines and up-regulating anti-inflammatory cytokines.
+
+##### MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA
+
+Please consider taking vitamin D supplements and recommending vitamin D supplementation to your patients. I suggest taking at least 2000 IU/day vitamin D3 with better results for 4000 to 5000 IU/day, especially for those who are pregnant, obese, have chronic diseases, and those who are not making vitamin D in the sun, such as in the darker half of the year. Note that vitamin D can only be produced when one’s shadow is shorter than one’s height. Then keep records of how the health of the patients changes with vitamin D3 supplementation. Measurement of serum 25(OH)D concentrations is not necessary if high doses are used, but is useful in some cases.
+
+As to the scientific journal literature, you can generally obtain PDFs through pubmed.gov, scholar.google.com or directly from the authors. If you are not comfortable reading it in the original language, you can use Google Translate to translate it into your own language.
+
+---
+
+#### 47+ items by &lt;a href=&quot;/posts/by-dr-grant-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: By Dr. Grant in VitaminDWiki&quot;&gt;By Dr. Grant in VitaminDWiki&lt;/a&gt;
+
+&lt;!-- ~tc~ (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) ~/tc~ --&gt;
+
+&lt;!-- ~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV}`
+│   inner_content: `{maketoc}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content: ├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!MY LIFE AS A VITAMIN D RESEARCHER`
+│   inner_content: `MY LIFE AS A VITAMIN D RESEARCHER`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MY LIFE AS A VITAMIN D RESEARCHER`
+│   │   inner_content: `MY LIFE AS A VITAMIN D RESEARCHER`├── TextNode
+│   full_match: `\nCent Asian J Med Hypotheses Ethics 2022:3(4):275- 278. https://doi.org/10.47316/cajmhe.2022.3.4.08\nWilliam B Grant https://orcid.org/0000-0002-1439-3285 Sunlight, Nutrition, and Health Research Center, San Francisco, USA wbgrant@infionline.net\n`
+│   inner_content: `\nCent Asian J Med Hypotheses Ethics 2022:3(4):275- 278. https://doi.org/10.47316/cajmhe.2022.3.4.08\nWilliam B Grant https://orcid.org/0000-0002-1439-3285 Sunlight, Nutrition, and Health Research Center, San Francisco, USA wbgrant@infionline.net\n`├── FontNode
+│   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19244
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!!INTRODUCTION`
+│   inner_content: `INTRODUCTION`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `INTRODUCTION`
+│   │   inner_content: `INTRODUCTION`├── TextNode
+│   full_match: `\nI obtained a Ph.D. in physics from the University of California, Berkeley in 1971. I had a post doctoral research position at the Freie Universität Berlin from 1971-73. I then had a career in developing and applying laser systems for the remote measurement of atmospheric trace species. The final 15 years of that career were with the NASA Langley Research Center in Hampton, Virginia. I worked with an airborne LIDAR system to make vertical profiles of aerosols and oceans on many campaigns stretching from New Zealand to the North Pole. During my time in Virginia, I spent three years on my own time researching the effect of acid rain and ozone on hardwood forest decline. A forestry professor, Orie Loucks, taught me how to use the ecological approach in this project. On a NASA trip to New Zealand in 1996, I read that Japanese-American men in Hawaii had 2.5 times the prevalence of Alzheimer’s disease (AD) as native Japanese. Recalling that aluminum was associated with AD and forest decline, I quickly thought that the reason had to be the American diet and that I could demonstrate that using the ecological study approach. I obtained data on AD prevalence in ten countries as well as the macro dietary factors and showed that total caloric supply and total fat were strongly correlated with AD, that fish slightly reduced risk, and a rice-based diet greatly reduced risk.\n\nMy press conference in 1997 resulted in nation-wide TV coverage and I realized I had found my calling in health research. I turned to the study of vitamin D after finding the Atlas of Cancer Mortality in the United States 195094 (Devesa et al., 1999) - available from Google Books.\n\nI used the hypothesis by the brothers Cedric and Frank Garland in 1980 that that the effect of sunlight on colon cancer was due to UVB production of vitamin D. My resulting paper, published in Cancer in 2002, identified 13 types of cancer with mortality rates inversely correlated with solar UVB doses. It formed the basis for much additional research. I retired from NASA in 2004, moved to San Francisco, California, and founded my non-profit company, Sunlight, Nutrition and Health Research Center (www.sunarc.org).\n\nI have benefitted from working with many of the authors and coauthors of my publications listed at:\nPubMed (https://tinyurl.com/5devc9uf): Nutrients (https://tinyurl.com/2kcwmt8f).\n\nI am also very much interested in the role of diet in maintain optimal health and reducing risk of disease incidence and severity.\nI generally favor a whole-plant centered diet.\n\nThere are a number of approaches I have taken in my research. One is to do ecological studies on diseases using data from states or countries along with data on risk-modifying factors such as UVB doses and dietary factors as well as other appropriate risk-modifying  factors. Another is that I search the journal literature daily on PubMed and Google Scholar to keep abreast of the latest research and find ideas for new manuscripts. I also review about 150 journal manuscripts a year.\n\nI have collaborated with vitamin D-promotion organizations such as the Vitamin D Council headed by John Cannell, MD (~2004 to 2018), and Grassroots Health (https://www.grassrootshealth.net/), headed by Carole Baggerly. I also interact with Henry Lahore, who works daily to update his website, https://VitaminDWiki.com, with the latest information on vitamin D.\n\nI attend many vitamin D conferences in the U.S., Europe and the UAE (Figure 1). Doing so leads to collaborating in drafting manuscripts and making alliances with other researchers.\n\nI use Twitter to promote vitamin D and interact with people interested in vitamin D. One man contacted me to let him be my representative in Bangladesh. He has been very effective in promoting vitamin D there and on Twitter.\n`
+│   inner_content: `\nI obtained a Ph.D. in physics from the University of California, Berkeley in 1971. I had a post doctoral research position at the Freie Universität Berlin from 1971-73. I then had a career in developing and applying laser systems for the remote measurement of atmospheric trace species. The final 15 years of that career were with the NASA Langley Research Center in Hampton, Virginia. I worked with an airborne LIDAR system to make vertical profiles of aerosols and oceans on many campaigns stretching from New Zealand to the North Pole. During my time in Virginia, I spent three years on my own time researching the effect of acid rain and ozone on hardwood forest decline. A forestry professor, Orie Loucks, taught me how to use the ecological approach in this project. On a NASA trip to New Zealand in 1996, I read that Japanese-American men in Hawaii had 2.5 times the prevalence of Alzheimer’s disease (AD) as native Japanese. Recalling that aluminum was associated with AD and forest decline, I quickly thought that the reason had to be the American diet and that I could demonstrate that using the ecological study approach. I obtained data on AD prevalence in ten countries as well as the macro dietary factors and showed that total caloric supply and total fat were strongly correlated with AD, that fish slightly reduced risk, and a rice-based diet greatly reduced risk.\n\nMy press conference in 1997 resulted in nation-wide TV coverage and I realized I had found my calling in health research. I turned to the study of vitamin D after finding the Atlas of Cancer Mortality in the United States 195094 (Devesa et al., 1999) - available from Google Books.\n\nI used the hypothesis by the brothers Cedric and Frank Garland in 1980 that that the effect of sunlight on colon cancer was due to UVB production of vitamin D. My resulting paper, published in Cancer in 2002, identified 13 types of cancer with mortality rates inversely correlated with solar UVB doses. It formed the basis for much additional research. I retired from NASA in 2004, moved to San Francisco, California, and founded my non-profit company, Sunlight, Nutrition and Health Research Center (www.sunarc.org).\n\nI have benefitted from working with many of the authors and coauthors of my publications listed at:\nPubMed (https://tinyurl.com/5devc9uf): Nutrients (https://tinyurl.com/2kcwmt8f).\n\nI am also very much interested in the role of diet in maintain optimal health and reducing risk of disease incidence and severity.\nI generally favor a whole-plant centered diet.\n\nThere are a number of approaches I have taken in my research. One is to do ecological studies on diseases using data from states or countries along with data on risk-modifying factors such as UVB doses and dietary factors as well as other appropriate risk-modifying  factors. Another is that I search the journal literature daily on PubMed and Google Scholar to keep abreast of the latest research and find ideas for new manuscripts. I also review about 150 journal manuscripts a year.\n\nI have collaborated with vitamin D-promotion organizations such as the Vitamin D Council headed by John Cannell, MD (~2004 to 2018), and Grassroots Health (https://www.grassrootshealth.net/), headed by Carole Baggerly. I also interact with Henry Lahore, who works daily to update his website, https://VitaminDWiki.com, with the latest information on vitamin D.\n\nI attend many vitamin D conferences in the U.S., Europe and the UAE (Figure 1). Doing so leads to collaborating in drafting manuscripts and making alliances with other researchers.\n\nI use Twitter to promote vitamin D and interact with people interested in vitamin D. One man contacted me to let him be my representative in Bangladesh. He has been very effective in promoting vitamin D there and on Twitter.\n`├── HeadingNode
+│   full_match: `!!!!!MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD`
+│   inner_content: `MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD`
+│   │   inner_content: `MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD`├── TextNode
+│   full_match: `\nIn my opinion, vitamin D research is progressing, but the medical system ignores the evidence. The medical system in many countries is organized as a profit-making enterprise. Since vitamin D is a very inexpensive way to help maintain health and reduce risk of many types of disease, Big Pharma dislikes it. It uses the Disinformation Playbook to discourage knowledge and use of vitamin D (https://tinyurl.com/bdcfdemr). An example is that the three most widely-read medical journals will publish articles about vitamin D only if they show that vitamin D does not provide health benefits. Another is that there is a mass media blockade on reporting that vitamin D supplementation could reduce the risk and severity of COVID-19.\n`
+│   inner_content: `\nIn my opinion, vitamin D research is progressing, but the medical system ignores the evidence. The medical system in many countries is organized as a profit-making enterprise. Since vitamin D is a very inexpensive way to help maintain health and reduce risk of many types of disease, Big Pharma dislikes it. It uses the Disinformation Playbook to discourage knowledge and use of vitamin D (https://tinyurl.com/bdcfdemr). An example is that the three most widely-read medical journals will publish articles about vitamin D only if they show that vitamin D does not provide health benefits. Another is that there is a mass media blockade on reporting that vitamin D supplementation could reduce the risk and severity of COVID-19.\n`├── HeadingNode
+│   full_match: `!!!!!ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?`
+│   inner_content: `ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?`
+│   │   inner_content: `ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?`├── TextNode
+│   full_match: `\nThere are 289 evidence-based practice guidelines for vitamin D listed at pubmed.gov (as of February 5, 2023). Scientific evidence comes from several types of studies including ecological studies, observational studies, mechanism studies, Mendelian randomization (MR) studies, and randomized controlled trials (RCTs). While the medical system considers RCTs to be the strongest evidence, it is generally not useful for vitamin D. The reason is that they are based on vitamin D dose rather than serum 25-hydroxyvitamin D `
+│   inner_content: `\nThere are 289 evidence-based practice guidelines for vitamin D listed at pubmed.gov (as of February 5, 2023). Scientific evidence comes from several types of studies including ecological studies, observational studies, mechanism studies, Mendelian randomization (MR) studies, and randomized controlled trials (RCTs). While the medical system considers RCTs to be the strongest evidence, it is generally not useful for vitamin D. The reason is that they are based on vitamin D dose rather than serum 25-hydroxyvitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` concentration. In most vitamin D RCTs, baseline 25(OH)D concentrations are relatively high, vitamin D doses are relatively low (one can make 10,000 to 20,000 IU/day in the sun), and results are analyzed by intention to treat. MR studies use genetically-predicted 25(OH)D concentrations to randomize participants in very large databases. They have demonstrated that vitamin D reduces risk of cardiovascular disease and many other diseases in a causal manner. As a result, they support findings from observational studies. However, observational studies have to be carefully evaluated since the longer the follow-up time after blood draw, the lower will be the apparent effect of higher 25(OH)D concentration. I have helped draft several publications recommending vitamin D doses and serum 25(OH)D concentrations based on a careful evaluation of all types of evidence.\n`
+│   inner_content: ` concentration. In most vitamin D RCTs, baseline 25(OH)D concentrations are relatively high, vitamin D doses are relatively low (one can make 10,000 to 20,000 IU/day in the sun), and results are analyzed by intention to treat. MR studies use genetically-predicted 25(OH)D concentrations to randomize participants in very large databases. They have demonstrated that vitamin D reduces risk of cardiovascular disease and many other diseases in a causal manner. As a result, they support findings from observational studies. However, observational studies have to be carefully evaluated since the longer the follow-up time after blood draw, the lower will be the apparent effect of higher 25(OH)D concentration. I have helped draft several publications recommending vitamin D doses and serum 25(OH)D concentrations based on a careful evaluation of all types of evidence.\n`├── HeadingNode
+│   full_match: `!!!!!HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?`
+│   inner_content: `HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?`
+│   │   inner_content: `HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?`├── TextNode
+│   full_match: `\nInterest in the non-skeletal benefits of vitamin D is expanding globally. Researchers from many countries are conducting observational studies. Vitamin D RCTs are very expensive and not very useful. As a result, few are being done now. However, MR studies are taking their place.\n`
+│   inner_content: `\nInterest in the non-skeletal benefits of vitamin D is expanding globally. Researchers from many countries are conducting observational studies. Vitamin D RCTs are very expensive and not very useful. As a result, few are being done now. However, MR studies are taking their place.\n`├── HeadingNode
+│   full_match: `!!!!!HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?`
+│   inner_content: `HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?`
+│   │   inner_content: `HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?`├── TextNode
+│   full_match: `\nVitamin D reduces inflammation in part through downregulating production of pro-inflammatory cytokines and up-regulating anti-inflammatory cytokines.\n`
+│   inner_content: `\nVitamin D reduces inflammation in part through downregulating production of pro-inflammatory cytokines and up-regulating anti-inflammatory cytokines.\n`├── HeadingNode
+│   full_match: `!!!!!MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA`
+│   inner_content: `MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA`
+│   │   inner_content: `MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA`├── TextNode
+│   full_match: `\nPlease consider taking vitamin D supplements and recommending vitamin D supplementation to your patients. I suggest taking at least 2000 IU/day vitamin D3 with better results for 4000 to 5000 IU/day, especially for those who are pregnant, obese, have chronic diseases, and those who are not making vitamin D in the sun, such as in the darker half of the year. Note that vitamin D can only be produced when one’s shadow is shorter than one’s height. Then keep records of how the health of the patients changes with vitamin D3 supplementation. Measurement of serum 25(OH)D concentrations is not necessary if high doses are used, but is useful in some cases.\n\nAs to the scientific journal literature, you can generally obtain PDFs through pubmed.gov, scholar.google.com or directly from the authors. If you are not comfortable reading it in the original language, you can use Google Translate to translate it into your own language.`
+│   inner_content: `\nPlease consider taking vitamin D supplements and recommending vitamin D supplementation to your patients. I suggest taking at least 2000 IU/day vitamin D3 with better results for 4000 to 5000 IU/day, especially for those who are pregnant, obese, have chronic diseases, and those who are not making vitamin D in the sun, such as in the darker half of the year. Note that vitamin D can only be produced when one’s shadow is shorter than one’s height. Then keep records of how the health of the patients changes with vitamin D3 supplementation. Measurement of serum 25(OH)D concentrations is not necessary if high doses are used, but is useful in some cases.\n\nAs to the scientific journal literature, you can generally obtain PDFs through pubmed.gov, scholar.google.com or directly from the authors. If you are not comfortable reading it in the original language, you can use Google Translate to translate it into your own language.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!47+ items by ((By Dr. Grant in VitaminDWiki))`
+│   inner_content: `47+ items by ((By Dr. Grant in VitaminDWiki))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `47+ items by `
+│   │   inner_content: `47+ items by `
+│   ├── LocalLinkNode
+│   │   full_match: `((By Dr. Grant in VitaminDWiki))`
+│   │   inner_content: `By Dr. Grant in VitaminDWiki`
+│   │   page: `By Dr. Grant in VitaminDWiki`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `By Dr. Grant in VitaminDWiki`
+│   │   │   inner_content: `By Dr. Grant in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) ~/tc~`
+│   inner_content: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `
+│   │   inner_content: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) ~/tc~`
+│   inner_content: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `
+│   │   inner_content: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~`
+│   inner_content: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
+│   │   inner_content: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV} 
+---
+!!!!MY LIFE AS A VITAMIN D RESEARCHER
+Cent Asian J Med Hypotheses Ethics 2022:3(4):275- 278. https://doi.org/10.47316/cajmhe.2022.3.4.08
+William B Grant https://orcid.org/0000-0002-1439-3285 Sunlight, Nutrition, and Health Research Center, San Francisco, USA wbgrant@infionline.net
+{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19244&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+
+!!!!!INTRODUCTION
+I obtained a Ph.D. in physics from the University of California, Berkeley in 1971. I had a post doctoral research position at the Freie Universität Berlin from 1971-73. I then had a career in developing and applying laser systems for the remote measurement of atmospheric trace species. The final 15 years of that career were with the NASA Langley Research Center in Hampton, Virginia. I worked with an airborne LIDAR system to make vertical profiles of aerosols and oceans on many campaigns stretching from New Zealand to the North Pole. During my time in Virginia, I spent three years on my own time researching the effect of acid rain and ozone on hardwood forest decline. A forestry professor, Orie Loucks, taught me how to use the ecological approach in this project. On a NASA trip to New Zealand in 1996, I read that Japanese-American men in Hawaii had 2.5 times the prevalence of Alzheimer’s disease (AD) as native Japanese. Recalling that aluminum was associated with AD and forest decline, I quickly thought that the reason had to be the American diet and that I could demonstrate that using the ecological study approach. I obtained data on AD prevalence in ten countries as well as the macro dietary factors and showed that total caloric supply and total fat were strongly correlated with AD, that fish slightly reduced risk, and a rice-based diet greatly reduced risk.
+
+My press conference in 1997 resulted in nation-wide TV coverage and I realized I had found my calling in health research. I turned to the study of vitamin D after finding the Atlas of Cancer Mortality in the United States 195094 (Devesa et al., 1999) - available from Google Books.
+
+I used the hypothesis by the brothers Cedric and Frank Garland in 1980 that that the effect of sunlight on colon cancer was due to UVB production of vitamin D. My resulting paper, published in Cancer in 2002, identified 13 types of cancer with mortality rates inversely correlated with solar UVB doses. It formed the basis for much additional research. I retired from NASA in 2004, moved to San Francisco, California, and founded my non-profit company, Sunlight, Nutrition and Health Research Center (www.sunarc.org).
+
+I have benefitted from working with many of the authors and coauthors of my publications listed at:
+PubMed (https://tinyurl.com/5devc9uf): Nutrients (https://tinyurl.com/2kcwmt8f).
+
+I am also very much interested in the role of diet in maintain optimal health and reducing risk of disease incidence and severity.
+I generally favor a whole-plant centered diet.
+
+There are a number of approaches I have taken in my research. One is to do ecological studies on diseases using data from states or countries along with data on risk-modifying factors such as UVB doses and dietary factors as well as other appropriate risk-modifying  factors. Another is that I search the journal literature daily on PubMed and Google Scholar to keep abreast of the latest research and find ideas for new manuscripts. I also review about 150 journal manuscripts a year.
+
+I have collaborated with vitamin D-promotion organizations such as the Vitamin D Council headed by John Cannell, MD (~2004 to 2018), and Grassroots Health (https://www.grassrootshealth.net/), headed by Carole Baggerly. I also interact with Henry Lahore, who works daily to update his website, https://VitaminDWiki.com, with the latest information on vitamin D.
+
+I attend many vitamin D conferences in the U.S., Europe and the UAE (Figure 1). Doing so leads to collaborating in drafting manuscripts and making alliances with other researchers.
+
+I use Twitter to promote vitamin D and interact with people interested in vitamin D. One man contacted me to let him be my representative in Bangladesh. He has been very effective in promoting vitamin D there and on Twitter.
+!!!!!MY VIEWS ON CURRENT RESEARCH TRENDS IN VITAMIN D AND LEVEL OF EVIDENCE IN THIS FIELD
+In my opinion, vitamin D research is progressing, but the medical system ignores the evidence. The medical system in many countries is organized as a profit-making enterprise. Since vitamin D is a very inexpensive way to help maintain health and reduce risk of many types of disease, Big Pharma dislikes it. It uses the Disinformation Playbook to discourage knowledge and use of vitamin D (https://tinyurl.com/bdcfdemr). An example is that the three most widely-read medical journals will publish articles about vitamin D only if they show that vitamin D does not provide health benefits. Another is that there is a mass media blockade on reporting that vitamin D supplementation could reduce the risk and severity of COVID-19.
+!!!!!ARE THERE EVIDENCE-BASED PRACTICE GUIDELINES?
+There are 289 evidence-based practice guidelines for vitamin D listed at pubmed.gov (as of February 5, 2023). Scientific evidence comes from several types of studies including ecological studies, observational studies, mechanism studies, Mendelian randomization (MR) studies, and randomized controlled trials (RCTs). While the medical system considers RCTs to be the strongest evidence, it is generally not useful for vitamin D. The reason is that they are based on vitamin D dose rather than serum 25-hydroxyvitamin D [25(OH)D] concentration. In most vitamin D RCTs, baseline 25(OH)D concentrations are relatively high, vitamin D doses are relatively low (one can make 10,000 to 20,000 IU/day in the sun), and results are analyzed by intention to treat. MR studies use genetically-predicted 25(OH)D concentrations to randomize participants in very large databases. They have demonstrated that vitamin D reduces risk of cardiovascular disease and many other diseases in a causal manner. As a result, they support findings from observational studies. However, observational studies have to be carefully evaluated since the longer the follow-up time after blood draw, the lower will be the apparent effect of higher 25(OH)D concentration. I have helped draft several publications recommending vitamin D doses and serum 25(OH)D concentrations based on a careful evaluation of all types of evidence.
+!!!!!HOW DOES VITAMIN D RESEARCH PROGRESS GLOBALLY?
+Interest in the non-skeletal benefits of vitamin D is expanding globally. Researchers from many countries are conducting observational studies. Vitamin D RCTs are very expensive and not very useful. As a result, few are being done now. However, MR studies are taking their place.
+!!!!!HOW DOES VITAMIN D SUPPLEMENTATION HELP PATIENTS WITH CHRONIC INFLAMMATORY DISEASES?
+Vitamin D reduces inflammation in part through downregulating production of pro-inflammatory cytokines and up-regulating anti-inflammatory cytokines.
+!!!!!MY MESSAGE TO HEALTH PROFESSIONALS IN CENTRAL ASIA
+Please consider taking vitamin D supplements and recommending vitamin D supplementation to your patients. I suggest taking at least 2000 IU/day vitamin D3 with better results for 4000 to 5000 IU/day, especially for those who are pregnant, obese, have chronic diseases, and those who are not making vitamin D in the sun, such as in the darker half of the year. Note that vitamin D can only be produced when one’s shadow is shorter than one’s height. Then keep records of how the health of the patients changes with vitamin D3 supplementation. Measurement of serum 25(OH)D concentrations is not necessary if high doses are used, but is useful in some cases.
+
+As to the scientific journal literature, you can generally obtain PDFs through pubmed.gov, scholar.google.com or directly from the authors. If you are not comfortable reading it in the original language, you can use Google Translate to translate it into your own language.
+---
+!!!!47+ items by ((By Dr. Grant in VitaminDWiki))
+~tc~ (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) ~/tc~
+~tc~ (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) ~/tc~
+~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

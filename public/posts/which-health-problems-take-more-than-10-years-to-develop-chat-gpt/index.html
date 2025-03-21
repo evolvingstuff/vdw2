@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Which health problems take more than 10 years to develop - Chat-GPT</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Which health problems take more than 10 years to develop - Chat-GPT</h1>
+        <time>December 21, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="chat-gpt-answer">Chat-GPT answer</h4>
+<p>Several health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&rsquo;s a list of some notable conditions that typically have a long development period:</p>
+<ol>
+<li>
+<p><strong>Cardiovascular Diseases</strong> : Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.</p>
+</li>
+<li>
+<p><strong>Type 2 Diabetes</strong> : This condition develops gradually as the body&rsquo;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.</p>
+</li>
+<li>
+<p><strong>Some Cancers</strong> : Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.</p>
+</li>
+<li>
+<p><strong>Neurodegenerative Diseases</strong> : Alzheimer&rsquo;s disease, Parkinson&rsquo;s disease, and other neurodegenerative conditions often develop slowly over many years.</p>
+</li>
+<li>
+<p><strong>Osteoporosis</strong> : This bone-weakening disease progresses gradually as bone mass and density decrease over time.</p>
+</li>
+<li>
+<p><strong>Chronic Kidney Disease</strong> : The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.</p>
+</li>
+<li>
+<p><strong>Chronic Obstructive Pulmonary Disease (COPD)</strong> : Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.</p>
+</li>
+<li>
+<p><strong>Liver Diseases</strong> : Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.</p>
+</li>
+<li>
+<p><strong>Multiple Sclerosis (MS)</strong> : This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.</p>
+</li>
+<li>
+<p><strong>HIV/AIDS</strong> : Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.</p>
+</li>
+</ol>
+<p>These examples illustrate how many serious health conditions develop over extended periods, highlighting the importance of preventive measures, regular health screenings, and early intervention strategies. Lifestyle modifications, appropriate medical screenings, and treatments can play a crucial role in managing these long-term health issues.</p>
+<hr>
+<h5 id="i-wanted-to-see-what-not-to-expect-soon-after-giving-lots-of-vitamin-d-to-people">I wanted to see what not to expect soon after giving lots of vitamin D to people</h5>
+<hr>
+<h4 id="note-all-of-the-slow-developing-health-problems-are-related-to-low-vitamin-d">Note: All of the slow developing health problems are related to low vitamin D</h4>
+<h5 id="vitamindwiki--cardiovascularcategoriescardiovascular-category">VitaminDWiki – <a href="/categories/cardiovascular">Cardiovascular</a> category:</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostsoverview-diabetes-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-diabetes-and-vitamin-doverview-diabetes-and-vitamin-da-contains">VitaminDWiki – <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> contains</h5>
+<hr>
+<h5 id="vitamindwiki--cancercategoriescancer-category-contains">VitaminDWiki – <a href="/categories/cancer">Cancer</a> category contains:</h5>
+<hr>
+<h5 id="vitamindwiki---a-hrefpostsoverview-schizophrenia-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-schizophrenia-and-vitamin-doverview-schizophrenia-and-vitamin-da-contains">VitaminDWiki - <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Overview Schizophrenia and Vitamin D</a> contains</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostsoverview-alzheimers-cognition-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-alzheimers-cognition-and-vitamin-doverview-alzheimers-cognition-and-vitamin-da-contains">VitaminDWiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer&rsquo;s-Cognition and Vitamin D</a> contains:</h5>
+<hr>
+<h5 id="vitamindwiki---a-hrefpostsoverview-parkinsons-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-parkinsons-and-vitamin-doverview-parkinsons-and-vitamin-da-contains-">VitaminDWiki - <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson&rsquo;s and Vitamin D</a> contains :</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostsoverview-osteoporosis-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-osteoporosis-and-vitamin-doverview-osteoporosis-and-vitamin-da-contains">VitaminDWiki – <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a> contains</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostschronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studieschronic-kidney-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-chronic-kidney-disease-needs-vitamin-d-how-much-what-kind---many-studieschronic-kidneychronic-kidney-disease-needs-vitamin-d-how-much-what-kind---many-studieschronic-kidneya-contains">VitaminDWiki – <a href="/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studieschronic-kidney" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney">Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney</a> contains</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostscopd-overview-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-copd-overviewcopd-overviewa-contains">VitaminDWiki – <a href="/posts/copd-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD Overview">COPD Overview</a> contains:</h5>
+<img src="/attachments/d3.mock.jpg" alt="image">
+<hr>
+<h5 id="vitamindwiki--a-hrefpostsoverview-liver-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-liver-and-vitamin-doverview-liver-and-vitamin-da-category-contains">VitaminDWiki – <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a> category contains:</h5>
+<hr>
+<h5 id="vitamindwiki--a-hrefpostsmultiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d--dec-2019multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d--dec-2019a">VitaminDWiki – <a href="/posts/multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019">Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019</a></h5>
+<hr>
+<h5 id="vitamindwiki--hivcategorieshiv-category-contains">VitaminDWiki – <a href="/categories/hiv">HIV</a> category contains:</h5>
+<hr>
+<h4 id="vitamindwiki---maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later---may-2023postsmaternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later">VitaminDWiki - <a href="/posts/maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later">Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023</a></h4>
+<!-- ~tc~ (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) ~/tc~ -->
+<hr>
+<h4 id="this-is-one-of-the-articles-in-the-aicategoriesai-category-most-of-which-are-summaries-or-defintions">This is one of the articles in the <a href="/categories/ai">AI</a> category (most of which are summaries or defintions)</h4>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Chat-GPT answer
+
+Several health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&#39;s a list of some notable conditions that typically have a long development period:
+
+1.  **Cardiovascular Diseases** : Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.
+
+1.  **Type 2 Diabetes** : This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.
+
+1.  **Some Cancers** : Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.
+
+1.  **Neurodegenerative Diseases** : Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.
+
+1.  **Osteoporosis** : This bone-weakening disease progresses gradually as bone mass and density decrease over time.
+
+1.  **Chronic Kidney Disease** : The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.
+
+1.  **Chronic Obstructive Pulmonary Disease (COPD)** : Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.
+
+1.  **Liver Diseases** : Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.
+
+1.  **Multiple Sclerosis (MS)** : This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.
+
+1.  **HIV/AIDS** : Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.
+
+These examples illustrate how many serious health conditions develop over extended periods, highlighting the importance of preventive measures, regular health screenings, and early intervention strategies. Lifestyle modifications, appropriate medical screenings, and treatments can play a crucial role in managing these long-term health issues.
+
+---
+
+##### I wanted to see what not to expect soon after giving lots of vitamin D to people
+
+---
+
+#### Note: All of the slow developing health problems are related to low vitamin D
+
+##### VitaminDWiki – [Cardiovascular](/categories/cardiovascular) category:
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-diabetes-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Diabetes and vitamin D&quot;&gt;Overview Diabetes and vitamin D&lt;/a&gt; contains
+
+---
+
+##### VitaminDWiki – [Cancer](/categories/cancer) category contains:
+
+---
+
+##### VitaminDWiki - &lt;a href=&quot;/posts/overview-schizophrenia-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Schizophrenia and Vitamin D&quot;&gt;Overview Schizophrenia and Vitamin D&lt;/a&gt; contains
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; contains:
+
+---
+
+##### VitaminDWiki - &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinson&#39;s and Vitamin D&quot;&gt;Overview Parkinson&#39;s and Vitamin D&lt;/a&gt; contains :
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-osteoporosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Osteoporosis and vitamin D&quot;&gt;Overview Osteoporosis and vitamin D&lt;/a&gt; contains
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studieschronic-kidney&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney&quot;&gt;Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney&lt;/a&gt; contains
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/copd-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COPD Overview&quot;&gt;COPD Overview&lt;/a&gt; contains:
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-liver-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Liver and vitamin D&quot;&gt;Overview Liver and vitamin D&lt;/a&gt; category contains:
+
+---
+
+##### VitaminDWiki – &lt;a href=&quot;/posts/multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019&quot;&gt;Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019&lt;/a&gt;
+
+---
+
+##### VitaminDWiki – [HIV](/categories/hiv) category contains:
+
+---
+
+#### VitaminDWiki - [Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023](/posts/maternal-vitamin-d-deficiency-can-result-in-problems-1-or-2-decades-later)
+
+&lt;!-- ~tc~ (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) ~/tc~ --&gt;
+
+---
+
+#### This is one of the articles in the [AI](/categories/ai) category (most of which are summaries or defintions)
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Chat-GPT answer`
+│   inner_content: `Chat-GPT answer`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chat-GPT answer`
+│   │   inner_content: `Chat-GPT answer`├── TextNode
+│   full_match: `\nSeveral health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&#39;s a list of some notable conditions that typically have a long development period:\n`
+│   inner_content: `\nSeveral health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&#39;s a list of some notable conditions that typically have a long development period:\n`├── NumListItemNode
+│   full_match: `#__Cardiovascular Diseases__: Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.`
+│   inner_content: `__Cardiovascular Diseases__: Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Cardiovascular Diseases__`
+│   │   inner_content: `Cardiovascular Diseases`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cardiovascular Diseases`
+│   │   │   inner_content: `Cardiovascular Diseases`
+│   ├── TextNode
+│   │   full_match: `: Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.`
+│   │   inner_content: `: Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Type 2 Diabetes__: This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.`
+│   inner_content: `__Type 2 Diabetes__: This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Type 2 Diabetes__`
+│   │   inner_content: `Type 2 Diabetes`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Type 2 Diabetes`
+│   │   │   inner_content: `Type 2 Diabetes`
+│   ├── TextNode
+│   │   full_match: `: This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.`
+│   │   inner_content: `: This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Some Cancers__: Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.`
+│   inner_content: `__Some Cancers__: Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Some Cancers__`
+│   │   inner_content: `Some Cancers`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Some Cancers`
+│   │   │   inner_content: `Some Cancers`
+│   ├── TextNode
+│   │   full_match: `: Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.`
+│   │   inner_content: `: Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Neurodegenerative Diseases__: Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.`
+│   inner_content: `__Neurodegenerative Diseases__: Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Neurodegenerative Diseases__`
+│   │   inner_content: `Neurodegenerative Diseases`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Neurodegenerative Diseases`
+│   │   │   inner_content: `Neurodegenerative Diseases`
+│   ├── TextNode
+│   │   full_match: `: Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.`
+│   │   inner_content: `: Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Osteoporosis__: This bone-weakening disease progresses gradually as bone mass and density decrease over time.`
+│   inner_content: `__Osteoporosis__: This bone-weakening disease progresses gradually as bone mass and density decrease over time.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Osteoporosis__`
+│   │   inner_content: `Osteoporosis`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Osteoporosis`
+│   │   │   inner_content: `Osteoporosis`
+│   ├── TextNode
+│   │   full_match: `: This bone-weakening disease progresses gradually as bone mass and density decrease over time.`
+│   │   inner_content: `: This bone-weakening disease progresses gradually as bone mass and density decrease over time.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Chronic Kidney Disease__: The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.`
+│   inner_content: `__Chronic Kidney Disease__: The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Chronic Kidney Disease__`
+│   │   inner_content: `Chronic Kidney Disease`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Chronic Kidney Disease`
+│   │   │   inner_content: `Chronic Kidney Disease`
+│   ├── TextNode
+│   │   full_match: `: The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.`
+│   │   inner_content: `: The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Chronic Obstructive Pulmonary Disease (COPD)__: Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.`
+│   inner_content: `__Chronic Obstructive Pulmonary Disease (COPD)__: Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Chronic Obstructive Pulmonary Disease (COPD)__`
+│   │   inner_content: `Chronic Obstructive Pulmonary Disease (COPD)`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Chronic Obstructive Pulmonary Disease (COPD)`
+│   │   │   inner_content: `Chronic Obstructive Pulmonary Disease (COPD)`
+│   ├── TextNode
+│   │   full_match: `: Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.`
+│   │   inner_content: `: Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Liver Diseases__: Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.`
+│   inner_content: `__Liver Diseases__: Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Liver Diseases__`
+│   │   inner_content: `Liver Diseases`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Liver Diseases`
+│   │   │   inner_content: `Liver Diseases`
+│   ├── TextNode
+│   │   full_match: `: Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.`
+│   │   inner_content: `: Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__Multiple Sclerosis (MS)__: This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.`
+│   inner_content: `__Multiple Sclerosis (MS)__: This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Multiple Sclerosis (MS)__`
+│   │   inner_content: `Multiple Sclerosis (MS)`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Multiple Sclerosis (MS)`
+│   │   │   inner_content: `Multiple Sclerosis (MS)`
+│   ├── TextNode
+│   │   full_match: `: This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.`
+│   │   inner_content: `: This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── NumListItemNode
+│   full_match: `#__HIV/AIDS__: Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.`
+│   inner_content: `__HIV/AIDS__: Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.`
+│   depth: `1`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__HIV/AIDS__`
+│   │   inner_content: `HIV/AIDS`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `HIV/AIDS`
+│   │   │   inner_content: `HIV/AIDS`
+│   ├── TextNode
+│   │   full_match: `: Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.`
+│   │   inner_content: `: Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.`├── TextNode
+│   full_match: `\nThese examples illustrate how many serious health conditions develop over extended periods, highlighting the importance of preventive measures, regular health screenings, and early intervention strategies. Lifestyle modifications, appropriate medical screenings, and treatments can play a crucial role in managing these long-term health issues.`
+│   inner_content: `\nThese examples illustrate how many serious health conditions develop over extended periods, highlighting the importance of preventive measures, regular health screenings, and early intervention strategies. Lifestyle modifications, appropriate medical screenings, and treatments can play a crucial role in managing these long-term health issues.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!I wanted to see what not to expect soon after giving lots of vitamin D to people`
+│   inner_content: `I wanted to see what not to expect soon after giving lots of vitamin D to people`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `I wanted to see what not to expect soon after giving lots of vitamin D to people`
+│   │   inner_content: `I wanted to see what not to expect soon after giving lots of vitamin D to people`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Note: All of the slow developing health problems are related to low vitamin D`
+│   inner_content: `Note: All of the slow developing health problems are related to low vitamin D`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: All of the slow developing health problems are related to low vitamin D`
+│   │   inner_content: `Note: All of the slow developing health problems are related to low vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Cardiovascular)) category:`
+│   inner_content: `VitaminDWiki – ((Cardiovascular)) category:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cardiovascular))`
+│   │   inner_content: `Cardiovascular`
+│   │   page: `Cardiovascular`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   ├── TextNode
+│   │   full_match: ` category:`
+│   │   inner_content: ` category:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cardiovascular
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Overview Diabetes and vitamin D)) contains `
+│   inner_content: `VitaminDWiki – ((Overview Diabetes and vitamin D)) contains`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Diabetes and vitamin D))`
+│   │   inner_content: `Overview Diabetes and vitamin D`
+│   │   page: `Overview Diabetes and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Diabetes and vitamin D`
+│   │   │   inner_content: `Overview Diabetes and vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Diabetes and vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Cancer)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cancer)) category contains:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cancer))`
+│   │   inner_content: `Cancer`
+│   │   page: `Cancer`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cancer`
+│   │   │   inner_content: `Cancer`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cancer
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Overview Schizophrenia and Vitamin D)) contains `
+│   inner_content: `VitaminDWiki - ((Overview Schizophrenia and Vitamin D)) contains`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Schizophrenia and Vitamin D))`
+│   │   inner_content: `Overview Schizophrenia and Vitamin D`
+│   │   page: `Overview Schizophrenia and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Schizophrenia and Vitamin D`
+│   │   │   inner_content: `Overview Schizophrenia and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Schizophrenia and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Schizophrenia and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Schizophrenia and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:`
+│   inner_content: `VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D))`
+│   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Alzheimer&#39;s-Cognition and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains :  `
+│   inner_content: `VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains :`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Parkinson&#39;s and Vitamin D))`
+│   │   inner_content: `Overview Parkinson&#39;s and Vitamin D`
+│   │   page: `Overview Parkinson&#39;s and Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Parkinson&#39;s and Vitamin D`
+│   │   │   inner_content: `Overview Parkinson&#39;s and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains :`
+│   │   inner_content: ` contains :`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Parkinson&#39;s and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Parkinson&#39;s and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Parkinson&#39;s and Vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Overview Osteoporosis and vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Overview Osteoporosis and vitamin D)) contains`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Osteoporosis and vitamin D))`
+│   │   inner_content: `Overview Osteoporosis and vitamin D`
+│   │   page: `Overview Osteoporosis and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Osteoporosis and vitamin D`
+│   │   │   inner_content: `Overview Osteoporosis and vitamin D`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Osteoporosis and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Osteoporosis and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Osteoporosis and vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney)) contains`
+│   inner_content: `VitaminDWiki – ((Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney)) contains`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney))`
+│   │   inner_content: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
+│   │   page: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
+│   │   │   inner_content: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
+│   ├── TextNode
+│   │   full_match: ` contains`
+│   │   inner_content: ` contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((COPD Overview)) contains:`
+│   inner_content: `VitaminDWiki – ((COPD Overview)) contains:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((COPD Overview))`
+│   │   inner_content: `COPD Overview`
+│   │   page: `COPD Overview`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COPD Overview`
+│   │   │   inner_content: `COPD Overview`
+│   ├── TextNode
+│   │   full_match: ` contains:`
+│   │   inner_content: ` contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;COPD Overview&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;COPD Overview&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: COPD Overview
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;COPD Overview&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;COPD Overview&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;
+│   │   page: COPD Overview
+│   │   start: ~tc~ start2 ~/tc~
+│   │   stop: ~tc~ end2 ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img attId=&quot;4971&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  attId=&quot;4971&quot;
+│   │   attId: 4971├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Overview Liver and vitamin D)) category contains:`
+│   inner_content: `VitaminDWiki – ((Overview Liver and vitamin D)) category contains:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Liver and vitamin D))`
+│   │   inner_content: `Overview Liver and vitamin D`
+│   │   page: `Overview Liver and vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Liver and vitamin D`
+│   │   │   inner_content: `Overview Liver and vitamin D`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Liver and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Liver and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Liver and vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019))`
+│   inner_content: `VitaminDWiki – ((Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019))`
+│   │   inner_content: `Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019`
+│   │   page: `Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019`
+│   │   │   inner_content: `Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki – ((HIV)) category contains: `
+│   inner_content: `VitaminDWiki – ((HIV)) category contains:`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((HIV))`
+│   │   inner_content: `HIV`
+│   │   page: `HIV`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `HIV`
+│   │   │   inner_content: `HIV`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;HIV&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;HIV&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: HIV
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023))`
+│   inner_content: `VitaminDWiki - ((Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023))`
+│   │   inner_content: `Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023`
+│   │   page: `Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023`
+│   │   │   inner_content: `Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) ~/tc~`
+│   inner_content: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `
+│   │   inner_content: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!This is one of the articles in the ((AI)) category (most of which are summaries or defintions)`
+│   inner_content: `This is one of the articles in the ((AI)) category (most of which are summaries or defintions)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This is one of the articles in the `
+│   │   inner_content: `This is one of the articles in the `
+│   ├── LocalLinkNode
+│   │   full_match: `((AI))`
+│   │   inner_content: `AI`
+│   │   page: `AI`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `AI`
+│   │   │   inner_content: `AI`
+│   ├── TextNode
+│   │   full_match: ` category (most of which are summaries or defintions)`
+│   │   inner_content: ` category (most of which are summaries or defintions)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;191&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showtype=&quot;y&quot; one=&quot;y&quot; showlinks=&quot;y&quot; categoryshowlink=&quot;n&quot; maxRecords=&quot;500&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;191&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showtype=&quot;y&quot; one=&quot;y&quot; showlinks=&quot;y&quot; categoryshowlink=&quot;n&quot; maxRecords=&quot;500&quot; showTitle=&quot;n&quot;
+│   │   id: 191
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   sub: n
+│   │   showdescription: n
+│   │   showtype: y
+│   │   one: y
+│   │   showlinks: y
+│   │   categoryshowlink: n
+│   │   maxRecords: 500
+│   │   showTitle: n
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Chat-GPT answer
+Several health conditions can take more than 10 years to develop, often due to a combination of genetic, lifestyle, and environmental factors. Here&#39;s a list of some notable conditions that typically have a long development period:
+#__Cardiovascular Diseases__: Heart disease, including atherosclerosis (hardening and narrowing of the arteries), can develop over many years. Lifestyle factors like diet, exercise, and smoking play a significant role in their progression.
+#__Type 2 Diabetes__: This condition develops gradually as the body&#39;s ability to regulate insulin declines. It is often preceded by a long period of insulin resistance or prediabetes.
+#__Some Cancers__: Many types of cancer, such as breast, prostate, and colorectal cancer, can take years or even decades to develop to a detectable size.
+#__Neurodegenerative Diseases__: Alzheimer&#39;s disease, Parkinson&#39;s disease, and other neurodegenerative conditions often develop slowly over many years.
+#__Osteoporosis__: This bone-weakening disease progresses gradually as bone mass and density decrease over time.
+#__Chronic Kidney Disease__: The decline in kidney function can occur over many years, often as a result of long-standing conditions like hypertension or diabetes.
+#__Chronic Obstructive Pulmonary Disease (COPD)__: Caused by long-term exposure to harmful substances like cigarette smoke, COPD develops slowly, typically becoming noticeable after significant lung damage has occurred.
+#__Liver Diseases__: Conditions like cirrhosis, often due to chronic alcohol abuse or hepatitis infection, can take years to develop to a point where symptoms become evident.
+#__Multiple Sclerosis (MS)__: This autoimmune disease of the central nervous system can take years to manifest noticeable symptoms.
+#__HIV/AIDS__: Without treatment, HIV infection can take many years to progress to AIDS, the most advanced stage of the infection.
+These examples illustrate how many serious health conditions develop over extended periods, highlighting the importance of preventive measures, regular health screenings, and early intervention strategies. Lifestyle modifications, appropriate medical screenings, and treatments can play a crucial role in managing these long-term health issues.
+---
+!!!!!I wanted to see what not to expect soon after giving lots of vitamin D to people
+---
+!!!!Note: All of the slow developing health problems are related to low vitamin D
+!!!!!VitaminDWiki – ((Cardiovascular)) category:
+{include page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Overview Diabetes and vitamin D)) contains 
+{include page=&quot;Overview Diabetes and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Cancer)) category contains:
+{include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki - ((Overview Schizophrenia and Vitamin D)) contains 
+{include page=&quot;Overview Schizophrenia and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains:
+{include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains :  
+{include page=&quot;Overview Parkinson&#39;s and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Overview Osteoporosis and vitamin D)) contains
+{include page=&quot;Overview Osteoporosis and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney)) contains
+{include page=&quot;Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((COPD Overview)) contains:
+{include page=&quot;COPD Overview&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+{include page=&quot;COPD Overview&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}
+{img attId=&quot;4971&quot;}
+---
+!!!!!VitaminDWiki – ((Overview Liver and vitamin D)) category contains:
+{include page=&quot;Overview Liver and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019))
+{include page=&quot;Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!!VitaminDWiki – ((HIV)) category contains: 
+{include page=&quot;HIV&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki - ((Maternal vitamin D deficiency can result in problems 1 or 2 decades later - May 2023))
+~tc~ (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) ~/tc~
+---
+!!!!This is one of the articles in the ((AI)) category (most of which are summaries or defintions)
+{category id=&quot;191&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showtype=&quot;y&quot; one=&quot;y&quot; showlinks=&quot;y&quot; categoryshowlink=&quot;n&quot; maxRecords=&quot;500&quot; showTitle=&quot;n&quot;}
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

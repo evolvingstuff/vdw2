@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Low Vitamin D associated with CHD, stroke, death, etc, (Mendelian analhysis)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Low Vitamin D associated with CHD, stroke, death, etc, (Mendelian analhysis)</h1>
+        <time>January 7, 2024</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="estimating-dose-response-relationships-for-vitamin-d-with-coronary-heart-disease-stroke-and-all-cause-mortality-observational-and-mendelian-randomisation-analyses">Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses</h4>
+<p><strong>Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration</strong></p>
+<p>Lancet Diabetes Endocrinol 2021; 9: 837-46  <a href="http://doi.org/10.1016/">http://doi.org/10.1016/</a> S2213-8587(21)00263-1</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="900">
+<p>Background Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25<span>[OH]</span>D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.</p>
+<p>Methods Observational analyses were undertaken using data from  <strong>33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline</strong> . Mendelian randomisation analyses were performed in four population-based cohort studies (UK Biobank, EPIC-CVD, and two Copenhagen population-based studies) comprising 386 406 middle-aged individuals of European ancestries, including 33 546 people who developed coronary heart disease, 18 166 people who had a stroke, and 27 885 people who died. Primary outcomes were coronary heart disease, defined as fatal ischaemic heart disease (International Classification of Diseases 10th revision code I20-I25) or non-fatal myocardial infarction (I21-I23); stroke, defined as any cerebrovascular disease (I60-I69); and all-cause mortality.</p>
+<p>Findings Observational analyses suggested inverse associations between incident coronary heart disease, stroke, and all-cause mortality outcomes with 25(OH)D concentration at low 25(OH)D concentrations. In population-wide genetic analyses, there were no associations of genetically-predicted 25(OH)D with coronary heart disease, stroke, or all-cause mortality. However, for the participants with vitamin D deficiency (25<span>[OH]</span>D concentration &lt;25 nmol/L), genetic analyses provided strong evidence for an inverse association with all-cause mortality (odds ratio <span>[OR]</span> per 10 nmol/L increase in genetically-predicted 25<span>[OH]</span>D concentration 0-69 <span>[95% CI 0-59-0-80]</span>; p&lt;0-0001) and non­significant inverse associations for stroke (0-85 <span>[0-70-1-02]</span>, p=0-09) and coronary heart disease (0-89 <span>[0-76-1-04]</span>; p=0-14). A finer stratification of participants found inverse associations between genetically-predicted 25(OH)D concentrations and all-cause mortality up to around 40 nmol/L.</p>
+<p>Interpretation Stratified Mendelian randomisation analyses suggest a causal relationship between 25(OH)D concentrations and mortality for individuals with low vitamin D status. Our findings have implications for the design of vitamin D supplementation trials, and potential disease prevention strategies.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h3 id="many-other-studies-have-found-that-more-is-better">Many other studies have found that more is better</h3>
+<p><strong>40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems">Is 50 ng of vitamin D too high, just right, or not enough|treat health problems</a></strong></p>
+<hr>
+<h4 id="vitamindwiki--cardiovascularcategoriescardiovascular-category-contains">VitaminDWiki – <a href="/categories/cardiovascular">Cardiovascular</a> category contains:</h4>
+<hr>
+<h5 id="othere-cvd-data-in-vitamindwiki">Othere CVD data in VitaminDWiki</h5>
+<p><a href="/posts/those-raising-vitamin-d-above-30-ng-were-14-x-less-likely-to-die-of-heart-attack-va-19-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021">Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021</a></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<ul>
+<li><a href="/posts/giving-free-vitamin-d-to-every-iranian-would-pay-for-itself-by-just-reducing-cvd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021">Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021</a></li>
+</ul>
+<p><strong>During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%%    Suspect that <span style="color:orange;"> &gt;50 ng</span> would be much better</strong></p>
+<ul>
+<li>
+<p><a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a></p>
+</li>
+<li>
+<p><a href="https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc"> All items in category Optimum Vitamin D</a>  **<span style="color:orange;"></p>
+</li>
+</ul>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} -->
+<p>items</span>**</p>
+<ul>
+<li>
+<p><a href="/posts/heart-failure-and-vitamin-d-meta-analyses-2016-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Heart Failure and Vitamin D meta-analyses - 2016, 2019">Heart Failure and Vitamin D meta-analyses - 2016, 2019</a></p>
+</li>
+<li>
+<p><a href="/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular Disease is treated by Vitamin D - many studies">Cardiovascular Disease is treated by Vitamin D - many studies</a></p>
+</li>
+</ul>
+<hr>
+<h4 id="vitamindwiki--strokecategoriesstroke-category-contains">VitaminDWiki – <a href="/categories/stroke">Stroke</a> category contains</h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsmortality-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-mortalitymortalitya-category-contains">VitaminDWiki – <a href="/posts/mortality" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mortality">Mortality</a> category contains:</h4>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses
+
+ **Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration** 
+
+Lancet Diabetes Endocrinol 2021; 9: 837-46  http://doi.org/10.1016/ S2213-8587(21)00263-1
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
+
+Background Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25&lt;span&gt;[OH]&lt;/span&gt;D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.
+
+Methods Observational analyses were undertaken using data from  **33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline** . Mendelian randomisation analyses were performed in four population-based cohort studies (UK Biobank, EPIC-CVD, and two Copenhagen population-based studies) comprising 386 406 middle-aged individuals of European ancestries, including 33 546 people who developed coronary heart disease, 18 166 people who had a stroke, and 27 885 people who died. Primary outcomes were coronary heart disease, defined as fatal ischaemic heart disease (International Classification of Diseases 10th revision code I20-I25) or non-fatal myocardial infarction (I21-I23); stroke, defined as any cerebrovascular disease (I60-I69); and all-cause mortality.
+
+Findings Observational analyses suggested inverse associations between incident coronary heart disease, stroke, and all-cause mortality outcomes with 25(OH)D concentration at low 25(OH)D concentrations. In population-wide genetic analyses, there were no associations of genetically-predicted 25(OH)D with coronary heart disease, stroke, or all-cause mortality. However, for the participants with vitamin D deficiency (25&lt;span&gt;[OH]&lt;/span&gt;D concentration &lt;25 nmol/L), genetic analyses provided strong evidence for an inverse association with all-cause mortality (odds ratio &lt;span&gt;[OR]&lt;/span&gt; per 10 nmol/L increase in genetically-predicted 25&lt;span&gt;[OH]&lt;/span&gt;D concentration 0-69 &lt;span&gt;[95% CI 0-59-0-80]&lt;/span&gt;; p&lt;0-0001) and non­significant inverse associations for stroke (0-85 &lt;span&gt;[0-70-1-02]&lt;/span&gt;, p=0-09) and coronary heart disease (0-89 &lt;span&gt;[0-76-1-04]&lt;/span&gt;; p=0-14). A finer stratification of participants found inverse associations between genetically-predicted 25(OH)D concentrations and all-cause mortality up to around 40 nmol/L.
+
+Interpretation Stratified Mendelian randomisation analyses suggest a causal relationship between 25(OH)D concentrations and mortality for individuals with low vitamin D status. Our findings have implications for the design of vitamin D supplementation trials, and potential disease prevention strategies.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+### Many other studies have found that more is better
+
+ **40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&lt;/a&gt;** 
+
+---
+
+#### VitaminDWiki – [Cardiovascular](/categories/cardiovascular) category contains:
+
+---
+
+##### Othere CVD data in VitaminDWiki
+
+&lt;a href=&quot;/posts/those-raising-vitamin-d-above-30-ng-were-14-x-less-likely-to-die-of-heart-attack-va-19-years&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021&quot;&gt;Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021&lt;/a&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+* &lt;a href=&quot;/posts/giving-free-vitamin-d-to-every-iranian-would-pay-for-itself-by-just-reducing-cvd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021&quot;&gt;Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021&lt;/a&gt;
+
+ **During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% &amp;nbsp;&amp;nbsp; Suspect that &lt;span style=&quot;color:orange;&quot;&gt; &gt;50 ng&lt;/span&gt; would be much better** 
+
+* &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
+
+* [ All items in category Optimum Vitamin D](https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc)  **&lt;span style=&quot;color:orange;&quot;&gt;
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} --&gt;
+ items&lt;/span&gt;** 
+
+* &lt;a href=&quot;/posts/heart-failure-and-vitamin-d-meta-analyses-2016-2019&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Heart Failure and Vitamin D meta-analyses - 2016, 2019&quot;&gt;Heart Failure and Vitamin D meta-analyses - 2016, 2019&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cardiovascular Disease is treated by Vitamin D - many studies&quot;&gt;Cardiovascular Disease is treated by Vitamin D - many studies&lt;/a&gt;
+
+---
+
+#### VitaminDWiki – [Stroke](/categories/stroke) category contains
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/mortality&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mortality&quot;&gt;Mortality&lt;/a&gt; category contains:
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses`
+│   inner_content: `Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses`
+│   │   inner_content: `Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration__`
+│   inner_content: `Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration`
+│   │   inner_content: `Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration`├── TextNode
+│   full_match: `\nLancet Diabetes Endocrinol 2021; 9: 837-46  http://doi.org/10.1016/ S2213-8587(21)00263-1\n\n`
+│   inner_content: `\nLancet Diabetes Endocrinol 2021; 9: 837-46  http://doi.org/10.1016/ S2213-8587(21)00263-1\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20622&quot; width=&quot;900&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20622&quot; width=&quot;900&quot;
+│   │   type: attId
+│   │   attId: 20622
+│   │   width: 900├── TextNode
+│   full_match: `\n\nBackground Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25`
+│   inner_content: `\n\nBackground Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25`├── LinkNode
+│   full_match: `[OH]`
+│   inner_content: `OH`
+│   url: `OH`
+│   children:
+│   ├── TextNode
+│   │   full_match: `OH`
+│   │   inner_content: `OH`├── TextNode
+│   full_match: `D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.\n\nMethods Observational analyses were undertaken using data from `
+│   inner_content: `D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.\n\nMethods Observational analyses were undertaken using data from `├── BoldNode
+│   full_match: `__33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline__`
+│   inner_content: `33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline`
+│   children:
+│   ├── TextNode
+│   │   full_match: `33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline`
+│   │   inner_content: `33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline`├── TextNode
+│   full_match: `. Mendelian randomisation analyses were performed in four population-based cohort studies (UK Biobank, EPIC-CVD, and two Copenhagen population-based studies) comprising 386 406 middle-aged individuals of European ancestries, including 33 546 people who developed coronary heart disease, 18 166 people who had a stroke, and 27 885 people who died. Primary outcomes were coronary heart disease, defined as fatal ischaemic heart disease (International Classification of Diseases 10th revision code I20-I25) or non-fatal myocardial infarction (I21-I23); stroke, defined as any cerebrovascular disease (I60-I69); and all-cause mortality.\n\nFindings Observational analyses suggested inverse associations between incident coronary heart disease, stroke, and all-cause mortality outcomes with 25(OH)D concentration at low 25(OH)D concentrations. In population-wide genetic analyses, there were no associations of genetically-predicted 25(OH)D with coronary heart disease, stroke, or all-cause mortality. However, for the participants with vitamin D deficiency (25`
+│   inner_content: `. Mendelian randomisation analyses were performed in four population-based cohort studies (UK Biobank, EPIC-CVD, and two Copenhagen population-based studies) comprising 386 406 middle-aged individuals of European ancestries, including 33 546 people who developed coronary heart disease, 18 166 people who had a stroke, and 27 885 people who died. Primary outcomes were coronary heart disease, defined as fatal ischaemic heart disease (International Classification of Diseases 10th revision code I20-I25) or non-fatal myocardial infarction (I21-I23); stroke, defined as any cerebrovascular disease (I60-I69); and all-cause mortality.\n\nFindings Observational analyses suggested inverse associations between incident coronary heart disease, stroke, and all-cause mortality outcomes with 25(OH)D concentration at low 25(OH)D concentrations. In population-wide genetic analyses, there were no associations of genetically-predicted 25(OH)D with coronary heart disease, stroke, or all-cause mortality. However, for the participants with vitamin D deficiency (25`├── LinkNode
+│   full_match: `[OH]`
+│   inner_content: `OH`
+│   url: `OH`
+│   children:
+│   ├── TextNode
+│   │   full_match: `OH`
+│   │   inner_content: `OH`├── TextNode
+│   full_match: `D concentration &lt;25 nmol/L), genetic analyses provided strong evidence for an inverse association with all-cause mortality (odds ratio `
+│   inner_content: `D concentration &lt;25 nmol/L), genetic analyses provided strong evidence for an inverse association with all-cause mortality (odds ratio `├── LinkNode
+│   full_match: `[OR]`
+│   inner_content: `OR`
+│   url: `OR`
+│   children:
+│   ├── TextNode
+│   │   full_match: `OR`
+│   │   inner_content: `OR`├── TextNode
+│   full_match: ` per 10 nmol/L increase in genetically-predicted 25`
+│   inner_content: ` per 10 nmol/L increase in genetically-predicted 25`├── LinkNode
+│   full_match: `[OH]`
+│   inner_content: `OH`
+│   url: `OH`
+│   children:
+│   ├── TextNode
+│   │   full_match: `OH`
+│   │   inner_content: `OH`├── TextNode
+│   full_match: `D concentration 0-69 `
+│   inner_content: `D concentration 0-69 `├── LinkNode
+│   full_match: `[95% CI 0-59-0-80]`
+│   inner_content: `95% CI 0-59-0-80`
+│   url: `95% CI 0-59-0-80`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI 0-59-0-80`
+│   │   inner_content: `95% CI 0-59-0-80`├── TextNode
+│   full_match: `; p&lt;0-0001) and non­significant inverse associations for stroke (0-85 `
+│   inner_content: `; p&lt;0-0001) and non­significant inverse associations for stroke (0-85 `├── LinkNode
+│   full_match: `[0-70-1-02]`
+│   inner_content: `0-70-1-02`
+│   url: `0-70-1-02`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0-70-1-02`
+│   │   inner_content: `0-70-1-02`├── TextNode
+│   full_match: `, p=0-09) and coronary heart disease (0-89 `
+│   inner_content: `, p=0-09) and coronary heart disease (0-89 `├── LinkNode
+│   full_match: `[0-76-1-04]`
+│   inner_content: `0-76-1-04`
+│   url: `0-76-1-04`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0-76-1-04`
+│   │   inner_content: `0-76-1-04`├── TextNode
+│   full_match: `; p=0-14). A finer stratification of participants found inverse associations between genetically-predicted 25(OH)D concentrations and all-cause mortality up to around 40 nmol/L.\n\nInterpretation Stratified Mendelian randomisation analyses suggest a causal relationship between 25(OH)D concentrations and mortality for individuals with low vitamin D status. Our findings have implications for the design of vitamin D supplementation trials, and potential disease prevention strategies.\n`
+│   inner_content: `; p=0-14). A finer stratification of participants found inverse associations between genetically-predicted 25(OH)D concentrations and all-cause mortality up to around 40 nmol/L.\n\nInterpretation Stratified Mendelian randomisation analyses suggest a causal relationship between 25(OH)D concentrations and mortality for individuals with low vitamin D status. Our findings have implications for the design of vitamin D supplementation trials, and potential disease prevention strategies.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20621
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!Many other studies have found that more is better`
+│   inner_content: `Many other studies have found that more is better`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Many other studies have found that more is better`
+│   │   inner_content: `Many other studies have found that more is better`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))__`
+│   inner_content: `40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
+│   children:
+│   ├── TextNode
+│   │   full_match: `40-150 ng of Vitamin D need to `
+│   │   inner_content: `40-150 ng of Vitamin D need to `
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Is 50 ng of vitamin D too high, just right, or not enough
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Cardiovascular)) category contains:`
+│   inner_content: `VitaminDWiki – ((Cardiovascular)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Cardiovascular))`
+│   │   inner_content: `Cardiovascular`
+│   │   page: `Cardiovascular`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cardiovascular`
+│   │   │   inner_content: `Cardiovascular`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Cardiovascular
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!! Othere CVD data in VitaminDWiki`
+│   inner_content: `Othere CVD data in VitaminDWiki`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Othere CVD data in VitaminDWiki`
+│   │   inner_content: `Othere CVD data in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LocalLinkNode
+│   full_match: `((Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021))`
+│   inner_content: `Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021`
+│   page: `Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021`
+│   │   inner_content: `Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;16506&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;16506&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 16506
+│   │   width: 600├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021))`
+│   inner_content: `((Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021))`
+│   │   inner_content: `Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021`
+│   │   page: `Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021`
+│   │   │   inner_content: `Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% ~hs~~hs~ Suspect that~~#F00: &gt;50 ng~~ would be much better__`
+│   inner_content: `During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% ~hs~~hs~ Suspect that~~#F00: &gt;50 ng~~ would be much better`
+│   children:
+│   ├── TextNode
+│   │   full_match: `During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% `
+│   │   inner_content: `During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `2`
+│   ├── TextNode
+│   │   full_match: ` Suspect that`
+│   │   inner_content: ` Suspect that`
+│   ├── ColorNode
+│   │   full_match: `~~#F00: &gt;50 ng~~`
+│   │   inner_content: ` &gt;50 ng`
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: ` &gt;50 ng`
+│   │   │   inner_content: ` &gt;50 ng`
+│   ├── TextNode
+│   │   full_match: ` would be much better`
+│   │   inner_content: ` would be much better`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   inner_content: `((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
+│   inner_content: `[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D]`
+│   │   inner_content: ` All items in category Optimum Vitamin D`
+│   │   url: `https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: ` All items in category Optimum Vitamin D`
+│   │   │   inner_content: ` All items in category Optimum Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*((Heart Failure and Vitamin D meta-analyses - 2016, 2019))`
+│   inner_content: `((Heart Failure and Vitamin D meta-analyses - 2016, 2019))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Heart Failure and Vitamin D meta-analyses - 2016, 2019))`
+│   │   inner_content: `Heart Failure and Vitamin D meta-analyses - 2016, 2019`
+│   │   page: `Heart Failure and Vitamin D meta-analyses - 2016, 2019`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Heart Failure and Vitamin D meta-analyses - 2016, 2019`
+│   │   │   inner_content: `Heart Failure and Vitamin D meta-analyses - 2016, 2019`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Cardiovascular Disease is treated by Vitamin D - many studies))`
+│   inner_content: `((Cardiovascular Disease is treated by Vitamin D - many studies))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Cardiovascular Disease is treated by Vitamin D - many studies))`
+│   │   inner_content: `Cardiovascular Disease is treated by Vitamin D - many studies`
+│   │   page: `Cardiovascular Disease is treated by Vitamin D - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cardiovascular Disease is treated by Vitamin D - many studies`
+│   │   │   inner_content: `Cardiovascular Disease is treated by Vitamin D - many studies`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Stroke)) category contains    `
+│   inner_content: `VitaminDWiki – ((Stroke)) category contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Stroke))`
+│   │   inner_content: `Stroke`
+│   │   page: `Stroke`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Stroke`
+│   │   │   inner_content: `Stroke`
+│   ├── TextNode
+│   │   full_match: ` category contains`
+│   │   inner_content: ` category contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Stroke&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Stroke&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Stroke
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Mortality)) category contains:`
+│   inner_content: `VitaminDWiki – ((Mortality)) category contains:`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Mortality))`
+│   │   inner_content: `Mortality`
+│   │   page: `Mortality`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Mortality`
+│   │   │   inner_content: `Mortality`
+│   ├── TextNode
+│   │   full_match: ` category contains:`
+│   │   inner_content: ` category contains:`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Mortality
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Estimating dose-response relationships for vitamin D with coronary heart disease, stroke, and all-cause mortality: observational and Mendelian randomisation analyses
+__Emerging Risk Factors Collaboration/EPIC-CVD/Vitamin D Studies Collaboration__
+Lancet Diabetes Endocrinol 2021; 9: 837-46  http://doi.org/10.1016/ S2213-8587(21)00263-1
+
+{img type=&quot;attId&quot; attId=&quot;20622&quot; width=&quot;900&quot;}
+
+Background Randomised trials of vitamin D supplementation for cardiovascular disease and all-cause mortality have generally reported null findings. However, generalisability of results to individuals with low vitamin D status is unclear. We aimed to characterise dose-response relationships between 25-hydroxyvitamin D (25[OH]D) concentrations and risk of coronary heart disease, stroke, and all-cause mortality in observational and Mendelian randomisation frameworks.
+
+Methods Observational analyses were undertaken using data from __33 prospective studies comprising 500 962 individuals with no known history of coronary heart disease or stroke at baseline__. Mendelian randomisation analyses were performed in four population-based cohort studies (UK Biobank, EPIC-CVD, and two Copenhagen population-based studies) comprising 386 406 middle-aged individuals of European ancestries, including 33 546 people who developed coronary heart disease, 18 166 people who had a stroke, and 27 885 people who died. Primary outcomes were coronary heart disease, defined as fatal ischaemic heart disease (International Classification of Diseases 10th revision code I20-I25) or non-fatal myocardial infarction (I21-I23); stroke, defined as any cerebrovascular disease (I60-I69); and all-cause mortality.
+
+Findings Observational analyses suggested inverse associations between incident coronary heart disease, stroke, and all-cause mortality outcomes with 25(OH)D concentration at low 25(OH)D concentrations. In population-wide genetic analyses, there were no associations of genetically-predicted 25(OH)D with coronary heart disease, stroke, or all-cause mortality. However, for the participants with vitamin D deficiency (25[OH]D concentration &lt;25 nmol/L), genetic analyses provided strong evidence for an inverse association with all-cause mortality (odds ratio [OR] per 10 nmol/L increase in genetically-predicted 25[OH]D concentration 0-69 [95% CI 0-59-0-80]; p&lt;0-0001) and non­significant inverse associations for stroke (0-85 [0-70-1-02], p=0-09) and coronary heart disease (0-89 [0-76-1-04]; p=0-14). A finer stratification of participants found inverse associations between genetically-predicted 25(OH)D concentrations and all-cause mortality up to around 40 nmol/L.
+
+Interpretation Stratified Mendelian randomisation analyses suggest a causal relationship between 25(OH)D concentrations and mortality for individuals with low vitamin D status. Our findings have implications for the design of vitamin D supplementation trials, and potential disease prevention strategies.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20621&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!Many other studies have found that more is better
+__40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))__
+{include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Cardiovascular)) category contains:
+{include page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!! Othere CVD data in VitaminDWiki
+((Those raising Vitamin D above 30 ng were 1.4 X less likely to die of Heart Attack (VA 19 years) – Oct 2021))
+{img type=&quot;attId&quot; attId=&quot;16506&quot; width=&quot;600&quot;}
+*((Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021))
+__During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% ~hs~~hs~ Suspect that~~#F00: &gt;50 ng~~ would be much better__
+*((Is 50 ng of vitamin D too high, just right, or not enough))
+*[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__
+
+*((Heart Failure and Vitamin D meta-analyses - 2016, 2019))
+*((Cardiovascular Disease is treated by Vitamin D - many studies))
+---
+!!!!VitaminDWiki – ((Stroke)) category contains    
+{include page=&quot;Stroke&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Mortality)) category contains:
+{include page=&quot;Mortality&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

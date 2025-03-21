@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>COVID could have been stopped in Wuhan – book</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>COVID could have been stopped in Wuhan – book</h1>
+        <time>March 6, 2024</time>
+        <h4 id="wuhan-how-the-covid-19-outbreak-in-china-spiraled-out-of-control">Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control</h4>
+<p>by Dali L. Yang</p>
+<p><strong>Description of the book which is on</strong>  <a href="https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1">Amazon $18 Kindle</a></p>
+<p>The definitive account of the Chinese government&rsquo;s response to the initial Covid-19 outbreak in Wuhan.</p>
+<p>The Covid-19 pandemic, which began as an outbreak in Wuhan in late 2019, has claimed millions of lives and caused unprecedented disruptions. Despite its generation-defining significance, there has been a surprising lack of independent research examining the decisions and measures implemented in the weeks leading up to the Wuhan lockdown, as well as the missteps and shortcomings that allowed the novel coronavirus to spread with minimal hindrance.</p>
+<p>In Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control, Dali L. Yang scrutinizes China&rsquo;s emergency response to the Covid-19 outbreak in Wuhan, delving into the government&rsquo;s handling of epidemic information and the decisions that influenced the scale and scope of the outbreak. Yang&rsquo;s research reveals that China&rsquo;s health decision-makers and experts had an excellent head start when they implemented a health emergency action program to respond to the outbreak at the end of December 2019. With granular detail and compelling immediacy, Yang investigates the political and bureaucratic processes that hindered information flows and sharing, as well as the cognitive framework that limited understanding of the virus&rsquo;s contagiousness and hampered effective decisions.</p>
+<p>Yang&rsquo;s research uncovers that urgent warnings from sources outside Wuhan helped shift the Chinese health leadership&rsquo;s focus towards epidemic control. Once this shift occurred, China&rsquo;s party-state mobilized resources and enforced a lockdown in Wuhan. This lockdown was divided into two phases: providing additional medical resources and enforcing community-level lockdowns and home confinement. The 76-day lockdown contained the virus within China&rsquo;s borders, but the leadership and public later faced the challenge of reopening China in a world still grappling with SARS-CoV-2.</p>
+<p>Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques the Chinese authorities for prioritizing dominance and control in their response to the Wuhan outbreak. This preoccupation led to the suppression, distortion, and neglect of crucial disease information, fostering an atmosphere of organized silence. The punishment of whistleblowers and the banning of the immediate release of research findings on the novel coronavirus further contributed to this silencing. Yang emphasizes the importance of retaining public trust during a pandemic and underscores the need for transparency, openness to new information, and direct communication of risk with the public.</p>
+<hr>
+<h5 id="book-was-reviewed-in-the-telegraphhttpswwwtelegraphcoukglobal-healthscience-and-diseasecovid-origins-wuhan-theory-book-dali-yangwtmc_ide_dm289320wttsrcemailetypeedi_ghs_new_wedutmsourceemailutm_mediumedi_ghs_new_wed20240306utm_campaigndm289320">Book was reviewed in the <a href="https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320">Telegraph</a></h5>
+<ul>
+<li>
+<p>“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”</p>
+</li>
+<li>
+<p>“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”</p>
+</li>
+<li>
+<p>“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “</p>
+</li>
+<li>
+<p>“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.</p>
+</li>
+<li>
+<p>“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”</p>
+</li>
+<li>
+<p>“The entire country was put on alert and advised to wear face masks.”</p>
+</li>
+<li>
+<p>“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “</p>
+</li>
+<li>
+<p>“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”</p>
+</li>
+</ul>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+#### Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control
+
+by Dali L. Yang
+
+ **Description of the book which is on**  [Amazon $18 Kindle](https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1)
+
+The definitive account of the Chinese government&#39;s response to the initial Covid-19 outbreak in Wuhan.
+
+The Covid-19 pandemic, which began as an outbreak in Wuhan in late 2019, has claimed millions of lives and caused unprecedented disruptions. Despite its generation-defining significance, there has been a surprising lack of independent research examining the decisions and measures implemented in the weeks leading up to the Wuhan lockdown, as well as the missteps and shortcomings that allowed the novel coronavirus to spread with minimal hindrance.
+
+In Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control, Dali L. Yang scrutinizes China&#39;s emergency response to the Covid-19 outbreak in Wuhan, delving into the government&#39;s handling of epidemic information and the decisions that influenced the scale and scope of the outbreak. Yang&#39;s research reveals that China&#39;s health decision-makers and experts had an excellent head start when they implemented a health emergency action program to respond to the outbreak at the end of December 2019. With granular detail and compelling immediacy, Yang investigates the political and bureaucratic processes that hindered information flows and sharing, as well as the cognitive framework that limited understanding of the virus&#39;s contagiousness and hampered effective decisions.
+
+Yang&#39;s research uncovers that urgent warnings from sources outside Wuhan helped shift the Chinese health leadership&#39;s focus towards epidemic control. Once this shift occurred, China&#39;s party-state mobilized resources and enforced a lockdown in Wuhan. This lockdown was divided into two phases: providing additional medical resources and enforcing community-level lockdowns and home confinement. The 76-day lockdown contained the virus within China&#39;s borders, but the leadership and public later faced the challenge of reopening China in a world still grappling with SARS-CoV-2.
+
+Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques the Chinese authorities for prioritizing dominance and control in their response to the Wuhan outbreak. This preoccupation led to the suppression, distortion, and neglect of crucial disease information, fostering an atmosphere of organized silence. The punishment of whistleblowers and the banning of the immediate release of research findings on the novel coronavirus further contributed to this silencing. Yang emphasizes the importance of retaining public trust during a pandemic and underscores the need for transparency, openness to new information, and direct communication of risk with the public.
+
+---
+
+##### Book was reviewed in the [Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320)
+
+* “Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”
+
+* “ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”
+
+* “The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “
+
+* “Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.
+
+* “One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”
+
+* “The entire country was put on alert and advised to wear face masks.”
+
+* “Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “
+
+* “Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”
+
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!!Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control`
+│   inner_content: `Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control`
+│   │   inner_content: `Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control`├── TextNode
+│   full_match: `\nby Dali L. Yang\n\n`
+│   inner_content: `\nby Dali L. Yang\n\n`├── BoldNode
+│   full_match: `__Description of the book which is on__`
+│   inner_content: `Description of the book which is on`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Description of the book which is on`
+│   │   inner_content: `Description of the book which is on`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1|Amazon $18 Kindle]`
+│   inner_content: `Amazon $18 Kindle`
+│   url: `https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Amazon $18 Kindle`
+│   │   inner_content: `Amazon $18 Kindle`├── TextNode
+│   full_match: `\n\nThe definitive account of the Chinese government&#39;s response to the initial Covid-19 outbreak in Wuhan.\n\nThe Covid-19 pandemic, which began as an outbreak in Wuhan in late 2019, has claimed millions of lives and caused unprecedented disruptions. Despite its generation-defining significance, there has been a surprising lack of independent research examining the decisions and measures implemented in the weeks leading up to the Wuhan lockdown, as well as the missteps and shortcomings that allowed the novel coronavirus to spread with minimal hindrance.\n\nIn Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control, Dali L. Yang scrutinizes China&#39;s emergency response to the Covid-19 outbreak in Wuhan, delving into the government&#39;s handling of epidemic information and the decisions that influenced the scale and scope of the outbreak. Yang&#39;s research reveals that China&#39;s health decision-makers and experts had an excellent head start when they implemented a health emergency action program to respond to the outbreak at the end of December 2019. With granular detail and compelling immediacy, Yang investigates the political and bureaucratic processes that hindered information flows and sharing, as well as the cognitive framework that limited understanding of the virus&#39;s contagiousness and hampered effective decisions.\n\nYang&#39;s research uncovers that urgent warnings from sources outside Wuhan helped shift the Chinese health leadership&#39;s focus towards epidemic control. Once this shift occurred, China&#39;s party-state mobilized resources and enforced a lockdown in Wuhan. This lockdown was divided into two phases: providing additional medical resources and enforcing community-level lockdowns and home confinement. The 76-day lockdown contained the virus within China&#39;s borders, but the leadership and public later faced the challenge of reopening China in a world still grappling with SARS-CoV-2.\n\nWuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques the Chinese authorities for prioritizing dominance and control in their response to the Wuhan outbreak. This preoccupation led to the suppression, distortion, and neglect of crucial disease information, fostering an atmosphere of organized silence. The punishment of whistleblowers and the banning of the immediate release of research findings on the novel coronavirus further contributed to this silencing. Yang emphasizes the importance of retaining public trust during a pandemic and underscores the need for transparency, openness to new information, and direct communication of risk with the public.`
+│   inner_content: `\n\nThe definitive account of the Chinese government&#39;s response to the initial Covid-19 outbreak in Wuhan.\n\nThe Covid-19 pandemic, which began as an outbreak in Wuhan in late 2019, has claimed millions of lives and caused unprecedented disruptions. Despite its generation-defining significance, there has been a surprising lack of independent research examining the decisions and measures implemented in the weeks leading up to the Wuhan lockdown, as well as the missteps and shortcomings that allowed the novel coronavirus to spread with minimal hindrance.\n\nIn Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control, Dali L. Yang scrutinizes China&#39;s emergency response to the Covid-19 outbreak in Wuhan, delving into the government&#39;s handling of epidemic information and the decisions that influenced the scale and scope of the outbreak. Yang&#39;s research reveals that China&#39;s health decision-makers and experts had an excellent head start when they implemented a health emergency action program to respond to the outbreak at the end of December 2019. With granular detail and compelling immediacy, Yang investigates the political and bureaucratic processes that hindered information flows and sharing, as well as the cognitive framework that limited understanding of the virus&#39;s contagiousness and hampered effective decisions.\n\nYang&#39;s research uncovers that urgent warnings from sources outside Wuhan helped shift the Chinese health leadership&#39;s focus towards epidemic control. Once this shift occurred, China&#39;s party-state mobilized resources and enforced a lockdown in Wuhan. This lockdown was divided into two phases: providing additional medical resources and enforcing community-level lockdowns and home confinement. The 76-day lockdown contained the virus within China&#39;s borders, but the leadership and public later faced the challenge of reopening China in a world still grappling with SARS-CoV-2.\n\nWuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques the Chinese authorities for prioritizing dominance and control in their response to the Wuhan outbreak. This preoccupation led to the suppression, distortion, and neglect of crucial disease information, fostering an atmosphere of organized silence. The punishment of whistleblowers and the banning of the immediate release of research findings on the novel coronavirus further contributed to this silencing. Yang emphasizes the importance of retaining public trust during a pandemic and underscores the need for transparency, openness to new information, and direct communication of risk with the public.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!Book was reviewed in the [https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320|Telegraph]`
+│   inner_content: `Book was reviewed in the [https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320|Telegraph]`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Book was reviewed in the `
+│   │   inner_content: `Book was reviewed in the `
+│   ├── LinkNode
+│   │   full_match: `[https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320|Telegraph]`
+│   │   inner_content: `Telegraph`
+│   │   url: `https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Telegraph`
+│   │   │   inner_content: `Telegraph`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”`
+│   inner_content: `“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”`
+│   │   inner_content: `“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”`
+│   inner_content: `“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”`
+│   │   inner_content: `“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “`
+│   inner_content: `“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “`
+│   │   inner_content: `“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.`
+│   inner_content: `“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.`
+│   │   inner_content: `“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”`
+│   inner_content: `“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”`
+│   │   inner_content: `“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“The entire country was put on alert and advised to wear face masks.”`
+│   inner_content: `“The entire country was put on alert and advised to wear face masks.”`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“The entire country was put on alert and advised to wear face masks.”`
+│   │   inner_content: `“The entire country was put on alert and advised to wear face masks.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “`
+│   inner_content: `“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “`
+│   │   inner_content: `“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”`
+│   inner_content: `“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”`
+│   │   inner_content: `“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+!!!!Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control
+by Dali L. Yang
+
+__Description of the book which is on__ [https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1|Amazon $18 Kindle]
+
+The definitive account of the Chinese government&#39;s response to the initial Covid-19 outbreak in Wuhan.
+
+The Covid-19 pandemic, which began as an outbreak in Wuhan in late 2019, has claimed millions of lives and caused unprecedented disruptions. Despite its generation-defining significance, there has been a surprising lack of independent research examining the decisions and measures implemented in the weeks leading up to the Wuhan lockdown, as well as the missteps and shortcomings that allowed the novel coronavirus to spread with minimal hindrance.
+
+In Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control, Dali L. Yang scrutinizes China&#39;s emergency response to the Covid-19 outbreak in Wuhan, delving into the government&#39;s handling of epidemic information and the decisions that influenced the scale and scope of the outbreak. Yang&#39;s research reveals that China&#39;s health decision-makers and experts had an excellent head start when they implemented a health emergency action program to respond to the outbreak at the end of December 2019. With granular detail and compelling immediacy, Yang investigates the political and bureaucratic processes that hindered information flows and sharing, as well as the cognitive framework that limited understanding of the virus&#39;s contagiousness and hampered effective decisions.
+
+Yang&#39;s research uncovers that urgent warnings from sources outside Wuhan helped shift the Chinese health leadership&#39;s focus towards epidemic control. Once this shift occurred, China&#39;s party-state mobilized resources and enforced a lockdown in Wuhan. This lockdown was divided into two phases: providing additional medical resources and enforcing community-level lockdowns and home confinement. The 76-day lockdown contained the virus within China&#39;s borders, but the leadership and public later faced the challenge of reopening China in a world still grappling with SARS-CoV-2.
+
+Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques the Chinese authorities for prioritizing dominance and control in their response to the Wuhan outbreak. This preoccupation led to the suppression, distortion, and neglect of crucial disease information, fostering an atmosphere of organized silence. The punishment of whistleblowers and the banning of the immediate release of research findings on the novel coronavirus further contributed to this silencing. Yang emphasizes the importance of retaining public trust during a pandemic and underscores the need for transparency, openness to new information, and direct communication of risk with the public.
+---
+!!!!!Book was reviewed in the [https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320|Telegraph]
+*“Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”
+*“ This includes a mass banquet, held on January 18, just days before Wuhan was sealed off, that brought together more than 100,000 people – despite knowledge among health officials at the time that the virus was spreading between humans.”
+*“The book offers a dispassionate and chronological analysis of who knew what and when about the emerging SARS-related virus, but avoids accusations of a grand, top-down conspiracy by Beijing and barely touches on the heated debate over the origins of Covid-19.  “
+*“Even as Wuhan hurtled towards a crippling lockdown, the city authorities showcased high-profile events to demonstrate that everything was under control ahead of the late January Chinese New Year celebrations.
+*“One community banquet on January 18, in an area six miles from the Huanan market, attracted more than 40,000 families and over 100,000 participants.”
+*“The entire country was put on alert and advised to wear face masks.”
+*“Yet the Wuhan and Hubei province leadership still proceeded with New Year celebrations, inviting city residents to apply for 200,000 free passes to visit landmark sites, while the local media praised performers for continuing despite being sick.  “
+*“Observing the crowded scenes and “inaction” by local authorities, Professor Guan Yi, a visiting expert on respiratory syndrome coronaviruses from the University of Hong Kong, admitted feeling “truly helpless” and “scared.”
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

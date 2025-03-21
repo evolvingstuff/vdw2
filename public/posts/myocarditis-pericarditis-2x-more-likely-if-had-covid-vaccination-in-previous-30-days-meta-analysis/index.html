@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Myocarditis, Pericarditis 2X more likely if had COVID vaccination in previous 30 days - meta-analysis</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566339">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566339">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566339"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Myocarditis, Pericarditis 2X more likely if had COVID vaccination in previous 30 days - meta-analysis</h1>
+        <time>August 25, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="risk-of-myocarditis-and-pericarditis-in-mrna-covid-19-vaccinated-and-unvaccinated-populations-a-systematic-review-and-meta-analysis">Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis</h4>
+<p>BMJ Open 2023;13:e065687. <a href="https://doi.org/10.1136/bmjopen-2022-065687">doi: 10.1136/bmjopen-2022-065687</a></p>
+<p>Abdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; <a href="mailto:abdallahalami@cmail.carleton.ca">abdallahalami@cmail.carleton.ca</a></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Objective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.</p>
+<p>Design Systematic review and meta-analysis.</p>
+<p>Data sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.</p>
+<p>Study selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.</p>
+<p>Data extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.</p>
+<p>Results Seven studies met the inclusion criteria, of which  <strong>six were included in the quantitative synthesis</strong> . Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).</p>
+<p>Conclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="vitamindwiki--">VitaminDWiki -</h4>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
+<pre><code>   studies in both categories Virus and Cardiovascular
+</code></pre>
+<p>This list is automatically updated</p>
+<hr>
+<h4 id="see-also-in-vitamindwiki">See also in VitaminDWiki</h4>
+<ul>
+<li>
+<p><a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a></p>
+</li>
+<li>
+<p><a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a></p>
+</li>
+</ul>
+<!-- ~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~ -->
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis
+
+BMJ Open 2023;13:e065687. [doi: 10.1136/bmjopen-2022-065687](https://doi.org/10.1136/bmjopen-2022-065687)
+
+Abdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; abdallahalami@cmail.carleton.ca
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+Objective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.
+
+Design Systematic review and meta-analysis.
+
+Data sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.
+
+Study selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.
+
+Data extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.
+
+Results Seven studies met the inclusion criteria, of which  **six were included in the quantitative synthesis** . Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).
+
+Conclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### VitaminDWiki -  
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
+       studies in both categories Virus and Cardiovascular
+
+This list is automatically updated
+
+---
+
+#### See also in VitaminDWiki
+
+* &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;Vaccination pages in VitaminDWiki&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt; 
+
+&lt;!-- ~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~ --&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis `
+│   inner_content: `Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis`
+│   │   inner_content: `Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis`├── TextNode
+│   full_match: `\nBMJ Open 2023;13:e065687. `
+│   inner_content: `\nBMJ Open 2023;13:e065687. `├── DoiLinkNode
+│   full_match: `doi: 10.1136/bmjopen-2022-065687`
+│   inner_content: `10.1136/bmjopen-2022-065687`├── TextNode
+│   full_match: `\nAbdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; abdallahalami@cmail.carleton.ca\n\n`
+│   inner_content: `\nAbdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; abdallahalami@cmail.carleton.ca\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20011&quot; width=&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20011&quot; width=&quot;500&quot;
+│   │   type: attId
+│   │   attId: 20011
+│   │   width: 500├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20010&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20010&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20010
+│   │   width: 600├── TextNode
+│   full_match: `\nObjective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.\n\nDesign Systematic review and meta-analysis.\n\nData sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.\n\nStudy selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.\n\nData extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.\n\nResults Seven studies met the inclusion criteria, of which `
+│   inner_content: `\nObjective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.\n\nDesign Systematic review and meta-analysis.\n\nData sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.\n\nStudy selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.\n\nData extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.\n\nResults Seven studies met the inclusion criteria, of which `├── BoldNode
+│   full_match: `__six were included in the quantitative synthesis__`
+│   inner_content: `six were included in the quantitative synthesis`
+│   children:
+│   ├── TextNode
+│   │   full_match: `six were included in the quantitative synthesis`
+│   │   inner_content: `six were included in the quantitative synthesis`├── TextNode
+│   full_match: `. Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).\n\nConclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.\n`
+│   inner_content: `. Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).\n\nConclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20008
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Cardiovascular`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Cardiovascular`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: `       studies in both categories Virus and Cardiovascular`
+│   │   inner_content: `       studies in both categories Virus and Cardiovascular`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;13+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;13+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 13+155
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!See also in VitaminDWiki`
+│   inner_content: `See also in VitaminDWiki`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also in VitaminDWiki`
+│   │   inner_content: `See also in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Vaccination pages in VitaminDWiki))`
+│   inner_content: `((Vaccination pages in VitaminDWiki))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Vaccination pages in VitaminDWiki))`
+│   │   inner_content: `Vaccination pages in VitaminDWiki`
+│   │   page: `Vaccination pages in VitaminDWiki`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vaccination pages in VitaminDWiki`
+│   │   │   inner_content: `Vaccination pages in VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Excess deaths - 5 possible reasons - many studies)) `
+│   inner_content: `((Excess deaths - 5 possible reasons - many studies)) `
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Excess deaths - 5 possible reasons - many studies))`
+│   │   inner_content: `Excess deaths - 5 possible reasons - many studies`
+│   │   page: `Excess deaths - 5 possible reasons - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Excess deaths - 5 possible reasons - many studies`
+│   │   │   inner_content: `Excess deaths - 5 possible reasons - many studies`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n\n\n\n\n\n\n`
+│   inner_content: `\n\n\n\n\n\n\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~`
+│   inner_content: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
+│   │   inner_content: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis 
+BMJ Open 2023;13:e065687. doi: 10.1136/bmjopen-2022-065687
+Abdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; abdallahalami@cmail.carleton.ca
+
+{img type=&quot;attId&quot; attId=&quot;20011&quot; width=&quot;500&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20010&quot; width=&quot;600&quot;}
+Objective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.
+
+Design Systematic review and meta-analysis.
+
+Data sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.
+
+Study selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.
+
+Data extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.
+
+Results Seven studies met the inclusion criteria, of which __six were included in the quantitative synthesis__. Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).
+
+Conclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20008&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Virus and Cardiovascular
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;13+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!See also in VitaminDWiki
+*((Vaccination pages in VitaminDWiki))
+*((Excess deaths - 5 possible reasons - many studies)) 
+
+
+
+
+
+
+~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566339"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566339',
+            indexUrl: '\/js\/search_index.json?v=1742566339'
+        });
+    </script>
+</body>
+</html>

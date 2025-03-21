@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>1 in 5 Canadians have inadequate Vitamin D (less than 16 ng), far more if dark skinned – Canada</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>1 in 5 Canadians have inadequate Vitamin D (less than 16 ng), far more if dark skinned – Canada</h1>
+        <time>April 19, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="vitamin-d-status-of-people-3-to-79-years-of-age-from-the-canadian-health-measures-survey-2012-2019">Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019</h4>
+<p>J Nutr. 2023 Apr;153(4):1150-1161. <a href="https://doi.org/10.1016/j.tjnut.2023.02.026">doi: 10.1016/j.tjnut.2023.02.026</a></p>
+<p>Hope A Weiler 1, Kurtis Sarafin 2, Chantal Martineau 3, Janice L Daoust 3, Krista Esslinger 4, Linda S Greene-Finestone 5, Lidia Loukine 6, Veronique Dorais 6</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Background: Vitamin D is recognized in bone health and the prevention of rickets and osteomalacia.</p>
+<p>Objective: This study aimed to assess vitamin D status of people in Canada and to identify factors associated with vitamin D inadequacy and deficiency.</p>
+<p>Methods: Serum 25-hydroxyvitamin D (25(OH)D) from the Canadian Health Measures Survey (cycles 3-6, n = 21,770, 3-79 y) were evaluated for geometric means and proportions &lt;40 (inadequate) and &lt;30 (risk of deficiency) nmol/L. Factors associated with inadequacy or deficiency were tested using logistic regression.</p>
+<p>Results: Mean serum 25(OH)D was 57.9 (95% CI: 55.4, 60.5) nmol/L; the</p>
+<ul>
+<li>
+<p>prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and</p>
+</li>
+<li>
+<p>risk of deficiency was 8.4% (95% CI: 6.5, 10.3).</p>
+</li>
+</ul>
+<p>Prominent dietary factors associated with inadequacy in adults included:</p>
+<ul>
+<li>
+<p>not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11),</p>
+</li>
+<li>
+<p>none compared with ≥1/d for cow&rsquo;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or</p>
+</li>
+<li>
+<p>margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or</p>
+</li>
+<li>
+<p>nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01).</p>
+</li>
+</ul>
+<p>Notable demographic factors included:</p>
+<ul>
+<li>
+<p>younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29);</p>
+</li>
+<li>
+<p>BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95);</p>
+</li>
+<li>
+<p>lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and</p>
+</li>
+</ul>
+<p>self-reported</p>
+<ul>
+<li>
+<p>Black (ORadj: 8.06; 95% CI: 4.71, 13.81),</p>
+</li>
+<li>
+<p>East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85),</p>
+</li>
+<li>
+<p>Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and</p>
+</li>
+<li>
+<p>South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White.</p>
+</li>
+</ul>
+<p>Similar factors were observed in children and for deficiency.</p>
+<p>Conclusions: Most people in Canada have adequate vitamin D status; nonetheless, racialized groups have an elevated prevalence of inadequacy. Further research is required to evaluate if current strategies to improve vitamin D status, including increasing vitamin D in fortified foods and supplements, and dietary guidance to include a source of vitamin D every day help to reduce health inequality in Canada.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="20-most-recently-changed-items-in-vitamin-d-in-canadacategoriesvitamin-d-in-canada-category-of">20 most-recently changed items in <a href="/categories/vitamin-d-in-canada">Vitamin D in Canada</a> Category of</h4>
+<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL} -->
+<p>items</p>
+<p>This list is automatically updated</p>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsoverview-deficiency-of-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-deficiency-of-vitamin-doverview-deficiency-of-vitamin-da--contains">VitaminDWiki – <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>  contains</h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsis-50-ng-of-vitamin-d-too-high-just-right-or-not-enough-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughis-50-ng-of-vitamin-d-too-high-just-right-or-not-enougha">VitaminDWiki – <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a></h4>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+ 
+
+---
+
+#### Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019
+
+J Nutr. 2023 Apr;153(4):1150-1161. [doi: 10.1016/j.tjnut.2023.02.026](https://doi.org/10.1016/j.tjnut.2023.02.026)
+
+Hope A Weiler 1, Kurtis Sarafin 2, Chantal Martineau 3, Janice L Daoust 3, Krista Esslinger 4, Linda S Greene-Finestone 5, Lidia Loukine 6, Veronique Dorais 6
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+Background: Vitamin D is recognized in bone health and the prevention of rickets and osteomalacia.
+
+Objective: This study aimed to assess vitamin D status of people in Canada and to identify factors associated with vitamin D inadequacy and deficiency.
+
+Methods: Serum 25-hydroxyvitamin D (25(OH)D) from the Canadian Health Measures Survey (cycles 3-6, n = 21,770, 3-79 y) were evaluated for geometric means and proportions &lt;40 (inadequate) and &lt;30 (risk of deficiency) nmol/L. Factors associated with inadequacy or deficiency were tested using logistic regression.
+
+Results: Mean serum 25(OH)D was 57.9 (95% CI: 55.4, 60.5) nmol/L; the 
+
+* prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and 
+
+* risk of deficiency was 8.4% (95% CI: 6.5, 10.3). 
+
+Prominent dietary factors associated with inadequacy in adults included: 
+
+* not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), 
+
+* none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or 
+
+* margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or 
+
+* nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). 
+
+Notable demographic factors included: 
+
+* younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); 
+
+* BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); 
+
+* lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and 
+
+self-reported 
+
+* Black (ORadj: 8.06; 95% CI: 4.71, 13.81), 
+
+* East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), 
+
+* Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and 
+
+* South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. 
+
+Similar factors were observed in children and for deficiency.
+
+Conclusions: Most people in Canada have adequate vitamin D status; nonetheless, racialized groups have an elevated prevalence of inadequacy. Further research is required to evaluate if current strategies to improve vitamin D status, including increasing vitamin D in fortified foods and supplements, and dietary guidance to include a source of vitamin D every day help to reduce health inequality in Canada.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### 20 most-recently changed items in [Vitamin D in Canada](/categories/vitamin-d-in-canada) Category of 
+&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL} --&gt;
+ items
+
+This list is automatically updated
+
+ 
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-deficiency-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Deficiency of vitamin D&quot;&gt;Overview Deficiency of vitamin D&lt;/a&gt;  contains
+
+---
+
+#### VitaminDWiki – &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019`
+│   inner_content: `Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019`
+│   │   inner_content: `Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019`├── TextNode
+│   full_match: `\nJ Nutr. 2023 Apr;153(4):1150-1161. `
+│   inner_content: `\nJ Nutr. 2023 Apr;153(4):1150-1161. `├── DoiLinkNode
+│   full_match: `doi: 10.1016/j.tjnut.2023.02.026`
+│   inner_content: `10.1016/j.tjnut.2023.02.026`├── TextNode
+│   full_match: `\nHope A Weiler 1, Kurtis Sarafin 2, Chantal Martineau 3, Janice L Daoust 3, Krista Esslinger 4, Linda S Greene-Finestone 5, Lidia Loukine 6, Veronique Dorais 6\n\n`
+│   inner_content: `\nHope A Weiler 1, Kurtis Sarafin 2, Chantal Martineau 3, Janice L Daoust 3, Krista Esslinger 4, Linda S Greene-Finestone 5, Lidia Loukine 6, Veronique Dorais 6\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;19487&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;19487&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 19487
+│   │   width: 600├── TextNode
+│   full_match: `\nBackground: Vitamin D is recognized in bone health and the prevention of rickets and osteomalacia.\n\nObjective: This study aimed to assess vitamin D status of people in Canada and to identify factors associated with vitamin D inadequacy and deficiency.\n\nMethods: Serum 25-hydroxyvitamin D (25(OH)D) from the Canadian Health Measures Survey (cycles 3-6, n = 21,770, 3-79 y) were evaluated for geometric means and proportions &lt;40 (inadequate) and &lt;30 (risk of deficiency) nmol/L. Factors associated with inadequacy or deficiency were tested using logistic regression.\n\nResults: Mean serum 25(OH)D was 57.9 (95% CI: 55.4, 60.5) nmol/L; the \n`
+│   inner_content: `\nBackground: Vitamin D is recognized in bone health and the prevention of rickets and osteomalacia.\n\nObjective: This study aimed to assess vitamin D status of people in Canada and to identify factors associated with vitamin D inadequacy and deficiency.\n\nMethods: Serum 25-hydroxyvitamin D (25(OH)D) from the Canadian Health Measures Survey (cycles 3-6, n = 21,770, 3-79 y) were evaluated for geometric means and proportions &lt;40 (inadequate) and &lt;30 (risk of deficiency) nmol/L. Factors associated with inadequacy or deficiency were tested using logistic regression.\n\nResults: Mean serum 25(OH)D was 57.9 (95% CI: 55.4, 60.5) nmol/L; the \n`├── ListItemNode
+│   full_match: `*prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and `
+│   inner_content: `prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and `
+│   │   inner_content: `prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*risk of deficiency was 8.4% (95% CI: 6.5, 10.3). `
+│   inner_content: `risk of deficiency was 8.4% (95% CI: 6.5, 10.3). `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `risk of deficiency was 8.4% (95% CI: 6.5, 10.3). `
+│   │   inner_content: `risk of deficiency was 8.4% (95% CI: 6.5, 10.3). `├── TextNode
+│   full_match: `\nProminent dietary factors associated with inadequacy in adults included: \n`
+│   inner_content: `\nProminent dietary factors associated with inadequacy in adults included: \n`├── ListItemNode
+│   full_match: `*not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), `
+│   inner_content: `not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), `
+│   │   inner_content: `not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or `
+│   inner_content: `none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or `
+│   │   inner_content: `none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or `
+│   inner_content: `margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or `
+│   │   inner_content: `margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). `
+│   inner_content: `nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). `
+│   │   inner_content: `nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). `├── TextNode
+│   full_match: `\nNotable demographic factors included: \n`
+│   inner_content: `\nNotable demographic factors included: \n`├── ListItemNode
+│   full_match: `*younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); `
+│   inner_content: `younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); `
+│   │   inner_content: `younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); `
+│   inner_content: `BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); `
+│   │   inner_content: `BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and `
+│   inner_content: `lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and `
+│   │   inner_content: `lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and `├── TextNode
+│   full_match: `\nself-reported \n`
+│   inner_content: `\nself-reported \n`├── ListItemNode
+│   full_match: `*Black (ORadj: 8.06; 95% CI: 4.71, 13.81), `
+│   inner_content: `Black (ORadj: 8.06; 95% CI: 4.71, 13.81), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Black (ORadj: 8.06; 95% CI: 4.71, 13.81), `
+│   │   inner_content: `Black (ORadj: 8.06; 95% CI: 4.71, 13.81), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), `
+│   inner_content: `East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), `
+│   │   inner_content: `East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and `
+│   inner_content: `Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and `
+│   │   inner_content: `Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. `
+│   inner_content: `South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. `
+│   │   inner_content: `South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. `├── TextNode
+│   full_match: `\nSimilar factors were observed in children and for deficiency.\n\nConclusions: Most people in Canada have adequate vitamin D status; nonetheless, racialized groups have an elevated prevalence of inadequacy. Further research is required to evaluate if current strategies to improve vitamin D status, including increasing vitamin D in fortified foods and supplements, and dietary guidance to include a source of vitamin D every day help to reduce health inequality in Canada.\n`
+│   inner_content: `\nSimilar factors were observed in children and for deficiency.\n\nConclusions: Most people in Canada have adequate vitamin D status; nonetheless, racialized groups have an elevated prevalence of inadequacy. Further research is required to evaluate if current strategies to improve vitamin D status, including increasing vitamin D in fortified foods and supplements, and dietary guidance to include a source of vitamin D every day help to reduce health inequality in Canada.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19486
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!20 most-recently changed items in ((Vitamin D in Canada)) Category of {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL} items`
+│   inner_content: `20 most-recently changed items in ((Vitamin D in Canada)) Category of {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL} items`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `20 most-recently changed items in `
+│   │   inner_content: `20 most-recently changed items in `
+│   ├── LocalLinkNode
+│   │   full_match: `((Vitamin D in Canada))`
+│   │   inner_content: `Vitamin D in Canada`
+│   │   page: `Vitamin D in Canada`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D in Canada`
+│   │   │   inner_content: `Vitamin D in Canada`
+│   ├── TextNode
+│   │   full_match: ` Category of `
+│   │   inner_content: ` Category of `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: ` items`
+│   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;hide2columns&quot;)}{LISTPAGES(categId=105, max=20, sort=&quot;lastModif_desc&quot;)} {LISTPAGES}{DIV}`
+│   inner_content: `{LISTPAGES(categId=105, max=20, sort=&quot;lastModif_desc&quot;)} {LISTPAGES}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;hide2columns&quot;)
+│   │   class: hide2columns
+│   children:
+│   ├── ListPagesNode
+│   │   full_match: `{LISTPAGES(categId=105, max=20, sort=&quot;lastModif_desc&quot;)} {LISTPAGES}`
+│   │   inner_content: ` `
+│   │   attrs_dict:
+│   │   │   raw_content: categId=105, max=20, sort=&quot;lastModif_desc&quot;
+│   │   │   categId: 105
+│   │   │   max: 20
+│   │   │   sort: lastModif_desc
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Overview Deficiency of vitamin D))  contains`
+│   inner_content: `VitaminDWiki – ((Overview Deficiency of vitamin D))  contains`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Overview Deficiency of vitamin D))`
+│   │   inner_content: `Overview Deficiency of vitamin D`
+│   │   page: `Overview Deficiency of vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Deficiency of vitamin D`
+│   │   │   inner_content: `Overview Deficiency of vitamin D`
+│   ├── TextNode
+│   │   full_match: `  contains`
+│   │   inner_content: `  contains`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
+│   full_match: `{include page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;
+│   │   page: Overview Deficiency of vitamin D
+│   │   start: ~tc~ start ~/tc~
+│   │   stop: ~tc~ end ~/tc~
+│   children:
+│   ├── TextNode
+│   │   full_match: ``
+│   │   inner_content: ``├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki – ((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   inner_content: `VitaminDWiki – ((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough))`
+│   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough`
+│   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV} 
+---
+!!!!Vitamin D Status of People 3 to 79 Years of Age from the Canadian Health Measures Survey 2012-2019
+J Nutr. 2023 Apr;153(4):1150-1161. doi: 10.1016/j.tjnut.2023.02.026
+Hope A Weiler 1, Kurtis Sarafin 2, Chantal Martineau 3, Janice L Daoust 3, Krista Esslinger 4, Linda S Greene-Finestone 5, Lidia Loukine 6, Veronique Dorais 6
+
+{img type=&quot;attId&quot; attId=&quot;19487&quot; width=&quot;600&quot;}
+Background: Vitamin D is recognized in bone health and the prevention of rickets and osteomalacia.
+
+Objective: This study aimed to assess vitamin D status of people in Canada and to identify factors associated with vitamin D inadequacy and deficiency.
+
+Methods: Serum 25-hydroxyvitamin D (25(OH)D) from the Canadian Health Measures Survey (cycles 3-6, n = 21,770, 3-79 y) were evaluated for geometric means and proportions &lt;40 (inadequate) and &lt;30 (risk of deficiency) nmol/L. Factors associated with inadequacy or deficiency were tested using logistic regression.
+
+Results: Mean serum 25(OH)D was 57.9 (95% CI: 55.4, 60.5) nmol/L; the 
+*prevalence of inadequacy was 19.0% (95% CI: 15.7, 22.3) and 
+*risk of deficiency was 8.4% (95% CI: 6.5, 10.3). 
+Prominent dietary factors associated with inadequacy in adults included: 
+*not consuming fish compared with ≥1/wk (adjusted ORadj: 1.60; 95% CI: 1.21, 2.11), 
+*none compared with ≥1/d for cow&#39;s milk (ORadj: 1.41; 95% CI: 1.02, 1.94) or 
+*margarine (ORadj: 1.42; 95% CI: 1.08, 1.88); or 
+*nonuser compared with user of vitamin D supplements (ORadj: 5.21; 95% CI: 3.88, 7.01). 
+Notable demographic factors included: 
+*younger adults compared with 71 to 79 y (19-30 y ORadj: 2.33; 95% CI: 1.66, 3.29); 
+*BMI ≥30 compared with &lt;25 kg/m2 (ORadj: 2.30; 95% CI: 1.79, 2.95); 
+*lower household income quartile 1 compared with 4 (ORadj: 1.46; 95% CI: 1.00, 2.15); and 
+self-reported 
+*Black (ORadj: 8.06; 95% CI: 4.71, 13.81), 
+*East/Southeast Asian (ORadj: 3.83; 95% CI: 2.14, 6.85), 
+*Middle Eastern (ORadj: 4.57; 95% CI: 3.02, 6.92), and 
+*South Asian (ORadj: 4.63; 95% CI: 2.62, 8.19) race compared with White. 
+Similar factors were observed in children and for deficiency.
+
+Conclusions: Most people in Canada have adequate vitamin D status; nonetheless, racialized groups have an elevated prevalence of inadequacy. Further research is required to evaluate if current strategies to improve vitamin D status, including increasing vitamin D in fortified foods and supplements, and dietary guidance to include a source of vitamin D every day help to reduce health inequality in Canada.
+{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19486&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!20 most-recently changed items in ((Vitamin D in Canada)) Category of {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=105{SQL} items
+&#39;&#39;This list is automatically updated&#39;&#39;
+{DIV(class=&quot;hide2columns&quot;)}{LISTPAGES(categId=105, max=20, sort=&quot;lastModif_desc&quot;)} {LISTPAGES}{DIV}
+---
+!!!!VitaminDWiki – ((Overview Deficiency of vitamin D))  contains
+{include page=&quot;Overview Deficiency of vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
+---
+!!!!VitaminDWiki – ((Is 50 ng of vitamin D too high, just right, or not enough))
+
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

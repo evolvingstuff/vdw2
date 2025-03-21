@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Excess deaths after COVID vaccination - 17 countries</title>
+    <link rel="stylesheet" href="/css/main.css?v=1742566338">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742566338">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search.js?v=1742566338"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul data-spa-nav>
+                
+                <li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li>
+                
+                <li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li>
+                
+                <li><a href="/categories/adhd/">ADHD (5)</a></li>
+                
+                <li><a href="/categories/admin-only/">Admin Only (5)</a></li>
+                
+                <li><a href="/categories/ai/">AI (31)</a></li>
+                
+                <li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li>
+                
+                <li><a href="/categories/associations/">Associations (1)</a></li>
+                
+                <li><a href="/categories/autism/">Autism (10)</a></li>
+                
+                <li><a href="/categories/autoimmune/">Autoimmune (9)</a></li>
+                
+                <li><a href="/categories/back-pain/">Back Pain (3)</a></li>
+                
+                <li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li>
+                
+                <li><a href="/categories/bipolar/">Bipolar (1)</a></li>
+                
+                <li><a href="/categories/bone---health/">Bone - Health (12)</a></li>
+                
+                <li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/breathing/">Breathing (16)</a></li>
+                
+                <li><a href="/categories/calcidiol/">Calcidiol (2)</a></li>
+                
+                <li><a href="/categories/cancer/">Cancer (30)</a></li>
+                
+                <li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li>
+                
+                <li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li>
+                
+                <li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li>
+                
+                <li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li>
+                
+                <li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li>
+                
+                <li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li>
+                
+                <li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li>
+                
+                <li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li>
+                
+                <li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li>
+                
+                <li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li>
+                
+                <li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li>
+                
+                <li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li>
+                
+                <li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li>
+                
+                <li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li>
+                
+                <li><a href="/categories/category/">Category (1)</a></li>
+                
+                <li><a href="/categories/cholesterol/">Cholesterol (1)</a></li>
+                
+                <li><a href="/categories/cognitive/">Cognitive (34)</a></li>
+                
+                <li><a href="/categories/conference/">Conference (1)</a></li>
+                
+                <li><a href="/categories/consensus/">Consensus (3)</a></li>
+                
+                <li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/curcumin/">Curcumin (1)</a></li>
+                
+                <li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li>
+                
+                <li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li>
+                
+                <li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li>
+                
+                <li><a href="/categories/dental/">Dental (18)</a></li>
+                
+                <li><a href="/categories/depression/">Depression (17)</a></li>
+                
+                <li><a href="/categories/diabetes/">Diabetes (23)</a></li>
+                
+                <li><a href="/categories/epilepsy/">Epilepsy (1)</a></li>
+                
+                <li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li>
+                
+                <li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li>
+                
+                <li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li>
+                
+                <li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li>
+                
+                <li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li>
+                
+                <li><a href="/categories/genetics/">Genetics (19)</a></li>
+                
+                <li><a href="/categories/greger/">Greger (4)</a></li>
+                
+                <li><a href="/categories/gut/">Gut (13)</a></li>
+                
+                <li><a href="/categories/headache/">Headache (4)</a></li>
+                
+                <li><a href="/categories/health/">Health (14)</a></li>
+                
+                <li><a href="/categories/high-risk/">High Risk (3)</a></li>
+                
+                <li><a href="/categories/high-dose/">High-Dose (9)</a></li>
+                
+                <li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li>
+                
+                <li><a href="/categories/hypertension/">Hypertension (6)</a></li>
+                
+                <li><a href="/categories/immunity/">Immunity (13)</a></li>
+                
+                <li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li>
+                
+                <li><a href="/categories/infant-child/">Infant-Child (64)</a></li>
+                
+                <li><a href="/categories/inflammation/">Inflammation (12)</a></li>
+                
+                <li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li>
+                
+                <li><a href="/categories/intervention/">Intervention (39)</a></li>
+                
+                <li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li>
+                
+                <li><a href="/categories/iodine/">Iodine (1)</a></li>
+                
+                <li><a href="/categories/kidney/">Kidney (7)</a></li>
+                
+                <li><a href="/categories/liver/">Liver (3)</a></li>
+                
+                <li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li>
+                
+                <li><a href="/categories/lupus/">Lupus (3)</a></li>
+                
+                <li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li>
+                
+                <li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li>
+                
+                <li><a href="/categories/microbiome/">Microbiome (6)</a></li>
+                
+                <li><a href="/categories/middle-east/">Middle East (2)</a></li>
+                
+                <li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li>
+                
+                <li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li>
+                
+                <li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li>
+                
+                <li><a href="/categories/obesity/">Obesity (29)</a></li>
+                
+                <li><a href="/categories/off-topic/">Off Topic (5)</a></li>
+                
+                <li><a href="/categories/optimum/">Optimum (4)</a></li>
+                
+                <li><a href="/categories/orient/">Orient (4)</a></li>
+                
+                <li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li>
+                
+                <li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li>
+                
+                <li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li>
+                
+                <li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li>
+                
+                <li><a href="/categories/parkinson/">Parkinson (14)</a></li>
+                
+                <li><a href="/categories/patent/">Patent (1)</a></li>
+                
+                <li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/pregnancy/">Pregnancy (48)</a></li>
+                
+                <li><a href="/categories/psoriasis/">Psoriasis (5)</a></li>
+                
+                <li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li>
+                
+                <li><a href="/categories/resveratrol/">Resveratrol (2)</a></li>
+                
+                <li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li>
+                
+                <li><a href="/categories/rickets/">Rickets (1)</a></li>
+                
+                <li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li>
+                
+                <li><a href="/categories/seniors/">Seniors (27)</a></li>
+                
+                <li><a href="/categories/shut-in/">Shut-In (2)</a></li>
+                
+                <li><a href="/categories/skin/">Skin (8)</a></li>
+                
+                <li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li>
+                
+                <li><a href="/categories/sleep/">Sleep (7)</a></li>
+                
+                <li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li>
+                
+                <li><a href="/categories/stroke/">Stroke (12)</a></li>
+                
+                <li><a href="/categories/supplement/">Supplement (4)</a></li>
+                
+                <li><a href="/categories/technical-d/">Technical D (1)</a></li>
+                
+                <li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li>
+                
+                <li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li>
+                
+                <li><a href="/categories/top-news/">Top News (7)</a></li>
+                
+                <li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li>
+                
+                <li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li>
+                
+                <li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li>
+                
+                <li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li>
+                
+                <li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li>
+                
+                <li><a href="/categories/virus/">Virus (160)</a></li>
+                
+                <li><a href="/categories/vision/">Vision (14)</a></li>
+                
+                <li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li>
+                
+                <li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li>
+                
+                <li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li>
+                
+                <li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li>
+                
+                <li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li>
+                
+                <li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li>
+                
+                <li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li>
+                
+                <li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li>
+                
+                <li><a href="/categories/women/">Women (13)</a></li>
+                
+                <li><a href="/categories/youth/">Youth (8)</a></li>
+                
+                <li><a href="/categories/zinc/">Zinc (6)</a></li>
+                
+            </ul>
+        </div>
+        <div class="content" role="main">
+            
+    <article>
+        <h1>Excess deaths after COVID vaccination - 17 countries</h1>
+        <time>October 4, 2023</time>
+        <!-- {maketoc Title=""} -->
+<hr>
+<h4 id="covid-19-vaccine-associated-mortality-in-the-southern-hemisphere-preprint">COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)</h4>
+<p>Denis G. Rancourt,1, <a href="mailto:denis.rancourt@gmail.com">denis.rancourt@gmail.com</a> PhD ; Marine Baudin,2 PhD ; Joseph Hickey,1 PhD ;</p>
+<p>Jérémie Mercier,2 PhD</p>
+<p>1 Correlation Research in the Public Interest (correlation-canada.org)</p>
+<p>2 Santé Liberté OÜ (¡eremie-mercier.com)</p>
+<p><strong>Tiny sample of scores of charts</strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>This Correlation report is simultaneously posted on several websites, including: https://correlation- canada.org/research/ <a href="https://denisrancourt.ca/">https://denisrancourt.ca/</a> <a href="https://www.researchgate.net/profile/Jeremie-Mercier-">https://www.researchgate.net/profile/Jeremie-Mercier-</a> 2 <a href="https://ocla.ca/covid/">https://ocla.ca/covid/</a> <a href="https://www.ieremie-mercier.com/">https://www.ieremie-mercier.com/</a> <a href="https://denisrancourt.substack.com/">https://denisrancourt.substack.com/</a></p>
+<p>All Correlation reports are here: <a href="https://correlation-canada.org/research/">https://correlation-canada.org/research/</a></p>
+<p>Citation: Rancourt, D.G., Baudin, M., Hickey, J., Mercier, J. “COVID-19 vaccine-associated mortality in the Southern Hemisphere”. CORRELATION Research in the Public Interest, Report, 17 September 2023. httDs://correlation-canada.ora/covid-19-vaccine-associated-mortalitv-in-the-Southern-Hemisphere/</p>
+<p><strong>Abstract</strong></p>
+<p>Seventeen equatorial and Southern-Hemisphere countries were studied (Argentina, Australia, Bolivia, Brazil, Chile, Colombia, Ecuador, Malaysia, New Zealand, Paraguay, Peru, Philippines, Singapore, South Africa, Suriname, Thailand, Uruguay), which comprise 9.10 % of worldwide population, 10.3 % of worldwide COVID-19 injections (vaccination rate of 1.91 injections per person, all ages), virtually every COVID-19 vaccine type and manufacturer, and span 4 continents.</p>
+<p>In the 17 countries, there is no evidence in all-cause mortality (ACM) by time data of any beneficial effect of COVID-19 vaccines. There is no association in time between COVID-19 vaccination and any proportionate reduction in ACM. The opposite occurs.</p>
+<p>All 17 countries have transitions to regimes of high ACM, which occur when the COVID-19 vaccines are deployed and administered. Nine of the 17 countries have no detectable excess ACM in the period of approximately one year after a pandemic was declared on 11 March 2020 by the World Health Organization (WHO), until the vaccines are rolled out (Australia, Malaysia, New Zealand, Paraguay, Philippines, Singapore, Suriname, Thailand, Uruguay).</p>
+<p>Unprecedented peaks in ACM occur in the summer (January-February) of 2022 in the Southern Hemisphere, and in equatorial-latitude countries, which are synchronous with or immediately preceded by rapid COVID-19-vaccine-booster-dose rollouts (3rd or 4th doses). This phenomenon is present in every case with sufficient mortality data (15 countries). Two of the countries studied have insufficient mortality data in January- February 2022 (Argentina and Suriname).</p>
+<p>Detailed mortality and vaccination data for Chile and Peru allow resolution by age and by dose number. It is unlikely that the observed peaks in all-cause mortality in January- February 2022 (and additionally in: July-August 2021, Chile; July-August 2022, Peru), in each of both countries and in each elderly age group, could be due to any cause other than the temporally associated rapid COVID-19-vaccine-booster-dose rollouts.</p>
+<p>Likewise, it is unlikely that the transitions to regimes of high ACM, coincident with the rollout and sustained administration of COVID-19 vaccines, in all 17 Southern- Hemisphere and equatorial-latitude countries, could be due to any cause other than the vaccines.</p>
+<p>Synchronicity between the many peaks in ACM (in 17 countries, on 4 continents, in all elderly age groups, at different times) and associated rapid booster rollouts allows this firm conclusion regarding causality, and accurate quantification of COVID-19-vaccine toxicity.</p>
+<p>The all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).</p>
+<h5 id="span-stylecolororange170--05-million-covid-19-vaccine-deathsspan"><span style="color:orange;">17.0 ± 0.5 million COVID-19 vaccine deaths</span></h5>
+<p>We quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.</p>
+<h5 id="span-stylecolororangedeath-rate-1000x-higher-than-reported-in-clinical-trials-which-used-a-different-processspan"><span style="color:orange;">Death rate 1000X higher than reported in clinical trials (which used a different process)</span></h5>
+<p>The overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).</p>
+<p>The large age dependence and large values of vDFR quantified in this study of 17 countries on 4 continents, using all the main COVID-19 vaccine types and manufacturers, should induce governments to immediately end the baseless public health policy of prioritizing elderly residents for injection with COVID-19 vaccines, until valid risk-benefit analyses are made.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostsexcess-deaths-5-possible-reasons-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-excess-deaths---5-possible-reasons---many-studiesexcess-deaths---5-possible-reasons---many-studiesa">VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a></h4>
+<pre style="background-color: #e0e0e0;">
+<code class="language-text">
+Markdown:
+--------
+
+&lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+---
+
+#### COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)
+
+Denis G. Rancourt,1, denis.rancourt@gmail.com PhD ; Marine Baudin,2 PhD ; Joseph Hickey,1 PhD ;
+
+Jérémie Mercier,2 PhD
+
+1 Correlation Research in the Public Interest (correlation-canada.org)
+
+2 Santé Liberté OÜ (¡eremie-mercier.com)
+
+ **Tiny sample of scores of charts** 
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+
+This Correlation report is simultaneously posted on several websites, including: https://correlation- canada.org/research/ https://denisrancourt.ca/ https://www.researchgate.net/profile/Jeremie-Mercier- 2 https://ocla.ca/covid/ https://www.ieremie-mercier.com/ https://denisrancourt.substack.com/
+
+All Correlation reports are here: https://correlation-canada.org/research/
+
+Citation: Rancourt, D.G., Baudin, M., Hickey, J., Mercier, J. “COVID-19 vaccine-associated mortality in the Southern Hemisphere”. CORRELATION Research in the Public Interest, Report, 17 September 2023. httDs://correlation-canada.ora/covid-19-vaccine-associated-mortalitv-in-the-Southern-Hemisphere/
+
+ **Abstract** 
+
+Seventeen equatorial and Southern-Hemisphere countries were studied (Argentina, Australia, Bolivia, Brazil, Chile, Colombia, Ecuador, Malaysia, New Zealand, Paraguay, Peru, Philippines, Singapore, South Africa, Suriname, Thailand, Uruguay), which comprise 9.10 % of worldwide population, 10.3 % of worldwide COVID-19 injections (vaccination rate of 1.91 injections per person, all ages), virtually every COVID-19 vaccine type and manufacturer, and span 4 continents.
+
+In the 17 countries, there is no evidence in all-cause mortality (ACM) by time data of any beneficial effect of COVID-19 vaccines. There is no association in time between COVID-19 vaccination and any proportionate reduction in ACM. The opposite occurs.
+
+All 17 countries have transitions to regimes of high ACM, which occur when the COVID-19 vaccines are deployed and administered. Nine of the 17 countries have no detectable excess ACM in the period of approximately one year after a pandemic was declared on 11 March 2020 by the World Health Organization (WHO), until the vaccines are rolled out (Australia, Malaysia, New Zealand, Paraguay, Philippines, Singapore, Suriname, Thailand, Uruguay).
+
+Unprecedented peaks in ACM occur in the summer (January-February) of 2022 in the Southern Hemisphere, and in equatorial-latitude countries, which are synchronous with or immediately preceded by rapid COVID-19-vaccine-booster-dose rollouts (3rd or 4th doses). This phenomenon is present in every case with sufficient mortality data (15 countries). Two of the countries studied have insufficient mortality data in January- February 2022 (Argentina and Suriname).
+
+Detailed mortality and vaccination data for Chile and Peru allow resolution by age and by dose number. It is unlikely that the observed peaks in all-cause mortality in January- February 2022 (and additionally in: July-August 2021, Chile; July-August 2022, Peru), in each of both countries and in each elderly age group, could be due to any cause other than the temporally associated rapid COVID-19-vaccine-booster-dose rollouts.
+
+Likewise, it is unlikely that the transitions to regimes of high ACM, coincident with the rollout and sustained administration of COVID-19 vaccines, in all 17 Southern- Hemisphere and equatorial-latitude countries, could be due to any cause other than the vaccines.
+
+Synchronicity between the many peaks in ACM (in 17 countries, on 4 continents, in all elderly age groups, at different times) and associated rapid booster rollouts allows this firm conclusion regarding causality, and accurate quantification of COVID-19-vaccine toxicity.
+
+The all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).
+
+#####  &lt;span style=&quot;color:orange;&quot;&gt;17.0 ± 0.5 million COVID-19 vaccine deaths&lt;/span&gt;
+
+We quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.
+
+#####  &lt;span style=&quot;color:orange;&quot;&gt;Death rate 1000X higher than reported in clinical trials (which used a different process)&lt;/span&gt;
+
+The overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).
+
+The large age dependence and large values of vDFR quantified in this study of 17 countries on 4 continents, using all the main COVID-19 vaccine types and manufacturers, should induce governments to immediately end the baseless public health policy of prioritizing elderly residents for injection with COVID-19 vaccines, until valid risk-benefit analyses are made.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)`
+│   inner_content: `COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)`
+│   │   inner_content: `COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)`├── TextNode
+│   full_match: `\nDenis G. Rancourt,1, denis.rancourt@gmail.com PhD ; Marine Baudin,2 PhD ; Joseph Hickey,1 PhD ;\nJérémie Mercier,2 PhD\n1 Correlation Research in the Public Interest (correlation-canada.org)\n2 Santé Liberté OÜ (¡eremie-mercier.com)\n\n`
+│   inner_content: `\nDenis G. Rancourt,1, denis.rancourt@gmail.com PhD ; Marine Baudin,2 PhD ; Joseph Hickey,1 PhD ;\nJérémie Mercier,2 PhD\n1 Correlation Research in the Public Interest (correlation-canada.org)\n2 Santé Liberté OÜ (¡eremie-mercier.com)\n\n`├── BoldNode
+│   full_match: `__Tiny sample of scores of charts__`
+│   inner_content: `Tiny sample of scores of charts`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tiny sample of scores of charts`
+│   │   inner_content: `Tiny sample of scores of charts`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20180&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20180&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20180
+│   │   width: 600├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img type=&quot;attId&quot; attId=&quot;20179&quot; width=&quot;600&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  type=&quot;attId&quot; attId=&quot;20179&quot; width=&quot;600&quot;
+│   │   type: attId
+│   │   attId: 20179
+│   │   width: 600├── TextNode
+│   full_match: `\n\nThis Correlation report is simultaneously posted on several websites, including: https://correlation- canada.org/research/ https://denisrancourt.ca/ https://www.researchgate.net/profile/Jeremie-Mercier- 2 https://ocla.ca/covid/ https://www.ieremie-mercier.com/ https://denisrancourt.substack.com/\nAll Correlation reports are here: https://correlation-canada.org/research/\nCitation: Rancourt, D.G., Baudin, M., Hickey, J., Mercier, J. “COVID-19 vaccine-associated mortality in the Southern Hemisphere”. CORRELATION Research in the Public Interest, Report, 17 September 2023. httDs://correlation-canada.ora/covid-19-vaccine-associated-mortalitv-in-the-Southern-Hemisphere/\n\n`
+│   inner_content: `\n\nThis Correlation report is simultaneously posted on several websites, including: https://correlation- canada.org/research/ https://denisrancourt.ca/ https://www.researchgate.net/profile/Jeremie-Mercier- 2 https://ocla.ca/covid/ https://www.ieremie-mercier.com/ https://denisrancourt.substack.com/\nAll Correlation reports are here: https://correlation-canada.org/research/\nCitation: Rancourt, D.G., Baudin, M., Hickey, J., Mercier, J. “COVID-19 vaccine-associated mortality in the Southern Hemisphere”. CORRELATION Research in the Public Interest, Report, 17 September 2023. httDs://correlation-canada.ora/covid-19-vaccine-associated-mortalitv-in-the-Southern-Hemisphere/\n\n`├── BoldNode
+│   full_match: `__Abstract__`
+│   inner_content: `Abstract`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Abstract`
+│   │   inner_content: `Abstract`├── TextNode
+│   full_match: `\nSeventeen equatorial and Southern-Hemisphere countries were studied (Argentina, Australia, Bolivia, Brazil, Chile, Colombia, Ecuador, Malaysia, New Zealand, Paraguay, Peru, Philippines, Singapore, South Africa, Suriname, Thailand, Uruguay), which comprise 9.10 % of worldwide population, 10.3 % of worldwide COVID-19 injections (vaccination rate of 1.91 injections per person, all ages), virtually every COVID-19 vaccine type and manufacturer, and span 4 continents.\n\nIn the 17 countries, there is no evidence in all-cause mortality (ACM) by time data of any beneficial effect of COVID-19 vaccines. There is no association in time between COVID-19 vaccination and any proportionate reduction in ACM. The opposite occurs.\n\nAll 17 countries have transitions to regimes of high ACM, which occur when the COVID-19 vaccines are deployed and administered. Nine of the 17 countries have no detectable excess ACM in the period of approximately one year after a pandemic was declared on 11 March 2020 by the World Health Organization (WHO), until the vaccines are rolled out (Australia, Malaysia, New Zealand, Paraguay, Philippines, Singapore, Suriname, Thailand, Uruguay).\nUnprecedented peaks in ACM occur in the summer (January-February) of 2022 in the Southern Hemisphere, and in equatorial-latitude countries, which are synchronous with or immediately preceded by rapid COVID-19-vaccine-booster-dose rollouts (3rd or 4th doses). This phenomenon is present in every case with sufficient mortality data (15 countries). Two of the countries studied have insufficient mortality data in January- February 2022 (Argentina and Suriname).\n\nDetailed mortality and vaccination data for Chile and Peru allow resolution by age and by dose number. It is unlikely that the observed peaks in all-cause mortality in January- February 2022 (and additionally in: July-August 2021, Chile; July-August 2022, Peru), in each of both countries and in each elderly age group, could be due to any cause other than the temporally associated rapid COVID-19-vaccine-booster-dose rollouts.\n\nLikewise, it is unlikely that the transitions to regimes of high ACM, coincident with the rollout and sustained administration of COVID-19 vaccines, in all 17 Southern- Hemisphere and equatorial-latitude countries, could be due to any cause other than the vaccines.\n\nSynchronicity between the many peaks in ACM (in 17 countries, on 4 continents, in all elderly age groups, at different times) and associated rapid booster rollouts allows this firm conclusion regarding causality, and accurate quantification of COVID-19-vaccine toxicity.\n\nThe all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).\n`
+│   inner_content: `\nSeventeen equatorial and Southern-Hemisphere countries were studied (Argentina, Australia, Bolivia, Brazil, Chile, Colombia, Ecuador, Malaysia, New Zealand, Paraguay, Peru, Philippines, Singapore, South Africa, Suriname, Thailand, Uruguay), which comprise 9.10 % of worldwide population, 10.3 % of worldwide COVID-19 injections (vaccination rate of 1.91 injections per person, all ages), virtually every COVID-19 vaccine type and manufacturer, and span 4 continents.\n\nIn the 17 countries, there is no evidence in all-cause mortality (ACM) by time data of any beneficial effect of COVID-19 vaccines. There is no association in time between COVID-19 vaccination and any proportionate reduction in ACM. The opposite occurs.\n\nAll 17 countries have transitions to regimes of high ACM, which occur when the COVID-19 vaccines are deployed and administered. Nine of the 17 countries have no detectable excess ACM in the period of approximately one year after a pandemic was declared on 11 March 2020 by the World Health Organization (WHO), until the vaccines are rolled out (Australia, Malaysia, New Zealand, Paraguay, Philippines, Singapore, Suriname, Thailand, Uruguay).\nUnprecedented peaks in ACM occur in the summer (January-February) of 2022 in the Southern Hemisphere, and in equatorial-latitude countries, which are synchronous with or immediately preceded by rapid COVID-19-vaccine-booster-dose rollouts (3rd or 4th doses). This phenomenon is present in every case with sufficient mortality data (15 countries). Two of the countries studied have insufficient mortality data in January- February 2022 (Argentina and Suriname).\n\nDetailed mortality and vaccination data for Chile and Peru allow resolution by age and by dose number. It is unlikely that the observed peaks in all-cause mortality in January- February 2022 (and additionally in: July-August 2021, Chile; July-August 2022, Peru), in each of both countries and in each elderly age group, could be due to any cause other than the temporally associated rapid COVID-19-vaccine-booster-dose rollouts.\n\nLikewise, it is unlikely that the transitions to regimes of high ACM, coincident with the rollout and sustained administration of COVID-19 vaccines, in all 17 Southern- Hemisphere and equatorial-latitude countries, could be due to any cause other than the vaccines.\n\nSynchronicity between the many peaks in ACM (in 17 countries, on 4 continents, in all elderly age groups, at different times) and associated rapid booster rollouts allows this firm conclusion regarding causality, and accurate quantification of COVID-19-vaccine toxicity.\n\nThe all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).\n`├── HeadingNode
+│   full_match: `!!!!!~~#00F:17.0 ± 0.5 million COVID-19 vaccine deaths~~`
+│   inner_content: `~~#00F:17.0 ± 0.5 million COVID-19 vaccine deaths~~`
+│   level: `5`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:17.0 ± 0.5 million COVID-19 vaccine deaths~~`
+│   │   inner_content: `17.0 ± 0.5 million COVID-19 vaccine deaths`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `17.0 ± 0.5 million COVID-19 vaccine deaths`
+│   │   │   inner_content: `17.0 ± 0.5 million COVID-19 vaccine deaths`├── TextNode
+│   full_match: `\nWe quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.\n`
+│   inner_content: `\nWe quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.\n`├── HeadingNode
+│   full_match: `!!!!! ~~#00F:Death rate 1000X higher than reported in clinical trials (which used a different process)~~`
+│   inner_content: `~~#00F:Death rate 1000X higher than reported in clinical trials (which used a different process)~~`
+│   level: `5`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:Death rate 1000X higher than reported in clinical trials (which used a different process)~~`
+│   │   inner_content: `Death rate 1000X higher than reported in clinical trials (which used a different process)`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Death rate 1000X higher than reported in clinical trials (which used a different process)`
+│   │   │   inner_content: `Death rate 1000X higher than reported in clinical trials (which used a different process)`├── TextNode
+│   full_match: `\nThe overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).\n\nThe large age dependence and large values of vDFR quantified in this study of 17 countries on 4 continents, using all the main COVID-19 vaccine types and manufacturers, should induce governments to immediately end the baseless public health policy of prioritizing elderly residents for injection with COVID-19 vaccines, until valid risk-benefit analyses are made.\n`
+│   inner_content: `\nThe overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).\n\nThe large age dependence and large values of vDFR quantified in this study of 17 countries on 4 continents, using all the main COVID-19 vaccine types and manufacturers, should induce governments to immediately end the baseless public health policy of prioritizing elderly residents for injection with COVID-19 vaccines, until valid risk-benefit analyses are made.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20178
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))`
+│   inner_content: `VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Excess deaths - 5 possible reasons - many studies))`
+│   │   inner_content: `Excess deaths - 5 possible reasons - many studies`
+│   │   page: `Excess deaths - 5 possible reasons - many studies`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Excess deaths - 5 possible reasons - many studies`
+│   │   │   inner_content: `Excess deaths - 5 possible reasons - many studies`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!COVID-19 vaccine-associated mortality in the Southern Hemisphere (preprint)
+Denis G. Rancourt,1, denis.rancourt@gmail.com PhD ; Marine Baudin,2 PhD ; Joseph Hickey,1 PhD ;
+Jérémie Mercier,2 PhD
+1 Correlation Research in the Public Interest (correlation-canada.org)
+2 Santé Liberté OÜ (¡eremie-mercier.com)
+
+__Tiny sample of scores of charts__
+{img type=&quot;attId&quot; attId=&quot;20180&quot; width=&quot;600&quot;}
+
+{img type=&quot;attId&quot; attId=&quot;20179&quot; width=&quot;600&quot;}
+
+This Correlation report is simultaneously posted on several websites, including: https://correlation- canada.org/research/ https://denisrancourt.ca/ https://www.researchgate.net/profile/Jeremie-Mercier- 2 https://ocla.ca/covid/ https://www.ieremie-mercier.com/ https://denisrancourt.substack.com/
+All Correlation reports are here: https://correlation-canada.org/research/
+Citation: Rancourt, D.G., Baudin, M., Hickey, J., Mercier, J. “COVID-19 vaccine-associated mortality in the Southern Hemisphere”. CORRELATION Research in the Public Interest, Report, 17 September 2023. httDs://correlation-canada.ora/covid-19-vaccine-associated-mortalitv-in-the-Southern-Hemisphere/
+
+__Abstract__
+Seventeen equatorial and Southern-Hemisphere countries were studied (Argentina, Australia, Bolivia, Brazil, Chile, Colombia, Ecuador, Malaysia, New Zealand, Paraguay, Peru, Philippines, Singapore, South Africa, Suriname, Thailand, Uruguay), which comprise 9.10 % of worldwide population, 10.3 % of worldwide COVID-19 injections (vaccination rate of 1.91 injections per person, all ages), virtually every COVID-19 vaccine type and manufacturer, and span 4 continents.
+
+In the 17 countries, there is no evidence in all-cause mortality (ACM) by time data of any beneficial effect of COVID-19 vaccines. There is no association in time between COVID-19 vaccination and any proportionate reduction in ACM. The opposite occurs.
+
+All 17 countries have transitions to regimes of high ACM, which occur when the COVID-19 vaccines are deployed and administered. Nine of the 17 countries have no detectable excess ACM in the period of approximately one year after a pandemic was declared on 11 March 2020 by the World Health Organization (WHO), until the vaccines are rolled out (Australia, Malaysia, New Zealand, Paraguay, Philippines, Singapore, Suriname, Thailand, Uruguay).
+Unprecedented peaks in ACM occur in the summer (January-February) of 2022 in the Southern Hemisphere, and in equatorial-latitude countries, which are synchronous with or immediately preceded by rapid COVID-19-vaccine-booster-dose rollouts (3rd or 4th doses). This phenomenon is present in every case with sufficient mortality data (15 countries). Two of the countries studied have insufficient mortality data in January- February 2022 (Argentina and Suriname).
+
+Detailed mortality and vaccination data for Chile and Peru allow resolution by age and by dose number. It is unlikely that the observed peaks in all-cause mortality in January- February 2022 (and additionally in: July-August 2021, Chile; July-August 2022, Peru), in each of both countries and in each elderly age group, could be due to any cause other than the temporally associated rapid COVID-19-vaccine-booster-dose rollouts.
+
+Likewise, it is unlikely that the transitions to regimes of high ACM, coincident with the rollout and sustained administration of COVID-19 vaccines, in all 17 Southern- Hemisphere and equatorial-latitude countries, could be due to any cause other than the vaccines.
+
+Synchronicity between the many peaks in ACM (in 17 countries, on 4 continents, in all elderly age groups, at different times) and associated rapid booster rollouts allows this firm conclusion regarding causality, and accurate quantification of COVID-19-vaccine toxicity.
+
+The all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).
+!!!!!~~#00F:17.0 ± 0.5 million COVID-19 vaccine deaths~~
+We quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.
+!!!!! ~~#00F:Death rate 1000X higher than reported in clinical trials (which used a different process)~~
+The overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).
+
+The large age dependence and large values of vDFR quantified in this study of 17 countries on 4 continents, using all the main COVID-19 vaccine types and manufacturers, should induce governments to immediately end the baseless public health policy of prioritizing elderly residents for injection with COVID-19 vaccines, until valid risk-benefit analyses are made.
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20178&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))
+</code>
+</pre>
+
+    </article>
+
+        </div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1742566338"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/js\/search_documents.json?v=1742566338',
+            indexUrl: '\/js\/search_index.json?v=1742566338'
+        });
+    </script>
+</body>
+</html>

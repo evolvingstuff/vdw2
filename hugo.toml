@@ -1,0 +1,30 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "VitaminDWiki"
+
+# Suppress warnings
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
+[taxonomies]
+  category = "categories"
+
+# Add pagination settings
+[params]
+  paginate = 10
+  paginatePath = "page"
