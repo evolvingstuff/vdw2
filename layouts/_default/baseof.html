@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/css/pagination.css?v={{ now.Unix }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
     <script src="{{ "/js/search.js" | relURL }}?v={{ now.Unix }}"></script>
 </head>
 <body>
@@ -42,8 +43,8 @@
 
         // Initialize Search with Hugo-generated URLs
         const search = new Search({
-            documentsUrl: '{{ "/js/search_documents.json" | relURL }}?v={{ now.Unix }}',
-            indexUrl: '{{ "/js/search_index.json" | relURL }}?v={{ now.Unix }}'
+            documentsUrl: '{{ "/search/search_documents.json.gz" | relURL }}?v={{ now.Unix }}',
+            indexUrl: '{{ "/search/search_index.json.gz" | relURL }}?v={{ now.Unix }}'
         });
     </script>
 </body>

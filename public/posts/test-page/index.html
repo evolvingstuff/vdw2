@@ -3,11 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Test Page</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742575830">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742575830">
+    <link rel="stylesheet" href="/css/main.css?v=1742665986">
+    <link rel="stylesheet" href="/css/pagination.css?v=1742665986">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/js/search.js?v=1742575830"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1742665986"></script>
 </head>
 <body>
     <div class="container">
@@ -301,7 +302,7 @@
             
     <article>
         <h1>Test Page</h1>
-        <time>March 21, 2025</time>
+        <time>March 22, 2025</time>
         <h4 id="vitamindwiki--our-world-in-data---vitamin-d-deficiency-map---2023postsour-world-in-data-vitamin-d-deficiency-map-2023">VitaminDWiki – <a href="/posts/our-world-in-data-vitamin-d-deficiency-map-2023">Our World in Data - Vitamin D deficiency map - 2023</a></h4>
 <p><a href="/posts/this-page-does-not-exist" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: This page does not exist">This page does not exist</a></p>
 <p><a href="/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies">Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies</a></p>
@@ -556,7 +557,7 @@ doi: 10.1007/s11912-023-01476-4
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742575830"></script>
+    <script src="/js/lightspa.js?v=1742665986"></script>
     <script>
         
         const spa = new LightSPA({
@@ -566,8 +567,8 @@ doi: 10.1007/s11912-023-01476-4
 
         
         const search = new Search({
-            documentsUrl: '\/js\/search_documents.json?v=1742575830',
-            indexUrl: '\/js\/search_index.json?v=1742575830'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1742665986',
+            indexUrl: '\/search\/search_index.json.gz?v=1742665986'
         });
     </script>
 </body>
