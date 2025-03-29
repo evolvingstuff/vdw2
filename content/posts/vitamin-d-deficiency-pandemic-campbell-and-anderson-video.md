@@ -59,29 +59,29 @@ Refers to Dr. Anderson's and Grimes book
 
  **Examples - with charts** 
 
-| | | |
-| --- | --- | --- |
-| [tiki-index.php?page_id=710 | Overweight kids]  | 150 % |
-| [tiki-index.php?page_id=484 | Parkinson's]  | 100 % |
-| [tiki-index.php?page_id=4290 | Breast Cancer]  | 110 % |
-| [tiki-index.php?page_id=1421 | Tuberculosis]  | 100 %  |
-| [tiki-index.php?page_id=691 | Multiple Sclerosis]  | 250 %  |
-| [tiki-index.php?page_id=605 | Autism]  | 250 % |
-| [tiki-index.php?page_id=4715 | Ulcerative Colitis]  | 210 % |
-| [tiki-index.php?page_id=584 | Alzheimer's]  | 48 % |
-| [http://www.cdc.gov/healthyyouth/foodallergies/publications.htm | Hospitalizations - Food Allergy]  | 260 % |
-| [tiki-index.php?page_id=2092 | Knee injury (teen)]  | 400 % |
-| [tiki-index.php?page_id=720 | Metabolic Syndrome]  | 250 % |
-| [tiki-index.php?page_id=5000 | Bipolar Disorder - youth]  | 4,400 % |
-| [http://www.medscape.com/viewarticle/726127 | Celliac]  | 100 % |
-| [http://www.victoryoveradhd.com/ | ADHD (LA schools)] | 230 % |
-| [tiki-index.php?page_id=5059 | Rickets (UK 600 %)] | 500 % |
-| [http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm | Lyme Disease] | 300 % |
-| [tiki-index.php?page_id=4554 | Clostridium difficile (age > 85)] | 400 % |
-| [tiki-index.php?page_id=1357 | Sleep Apnea] | 200 % |
-| [tiki-index.php?page_id=4724 | COPD] | 44 %  |
-| [tiki-index.php?page_id=1171 | Hypertension (women)] | 160 %  |
-| [tiki-index.php?page_id=1835 | Fatty liver (non alcohol)] | 800 %  |
+| | |
+| --- | --- |
+| <span>[tiki-index.php?page_id=710]</span>  | 150 % |
+| <span>[tiki-index.php?page_id=484]</span>  | 100 % |
+| <span>[tiki-index.php?page_id=4290]</span>  | 110 % |
+| <span>[tiki-index.php?page_id=1421]</span>  | 100 %  |
+| <span>[tiki-index.php?page_id=691]</span>  | 250 %  |
+| <span>[tiki-index.php?page_id=605]</span>  | 250 % |
+| <span>[tiki-index.php?page_id=4715]</span>  | 210 % |
+| <span>[tiki-index.php?page_id=584]</span>  | 48 % |
+| [Hospitalizations - Food Allergy](http://www.cdc.gov/healthyyouth/foodallergies/publications.htm)  | 260 % |
+| <span>[tiki-index.php?page_id=2092]</span>  | 400 % |
+| <span>[tiki-index.php?page_id=720]</span>  | 250 % |
+| <span>[tiki-index.php?page_id=5000]</span>  | 4,400 % |
+| [Celliac](http://www.medscape.com/viewarticle/726127)  | 100 % |
+| [ADHD (LA schools)](http://www.victoryoveradhd.com/) | 230 % |
+| <span>[tiki-index.php?page_id=5059]</span> | 500 % |
+| [Lyme Disease](http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm) | 300 % |
+| <span>[tiki-index.php?page_id=4554]</span> | 400 % |
+| <span>[tiki-index.php?page_id=1357]</span> | 200 % |
+| <span>[tiki-index.php?page_id=4724]</span> | 44 %  |
+| <span>[tiki-index.php?page_id=1171]</span> | 160 %  |
+| <span>[tiki-index.php?page_id=1835]</span> | 800 %  |
 
 ---
 
@@ -178,29 +178,29 @@ Refers to Dr. Anderson&#39;s and Grimes book
 
  **Examples - with charts** 
 
-| | | |
-| --- | --- | --- |
-| [tiki-index.php?page_id=710 | Overweight kids]  | 150 % |
-| [tiki-index.php?page_id=484 | Parkinson&#39;s]  | 100 % |
-| [tiki-index.php?page_id=4290 | Breast Cancer]  | 110 % |
-| [tiki-index.php?page_id=1421 | Tuberculosis]  | 100 %  |
-| [tiki-index.php?page_id=691 | Multiple Sclerosis]  | 250 %  |
-| [tiki-index.php?page_id=605 | Autism]  | 250 % |
-| [tiki-index.php?page_id=4715 | Ulcerative Colitis]  | 210 % |
-| [tiki-index.php?page_id=584 | Alzheimer&#39;s]  | 48 % |
-| [http://www.cdc.gov/healthyyouth/foodallergies/publications.htm | Hospitalizations - Food Allergy]  | 260 % |
-| [tiki-index.php?page_id=2092 | Knee injury (teen)]  | 400 % |
-| [tiki-index.php?page_id=720 | Metabolic Syndrome]  | 250 % |
-| [tiki-index.php?page_id=5000 | Bipolar Disorder - youth]  | 4,400 % |
-| [http://www.medscape.com/viewarticle/726127 | Celliac]  | 100 % |
-| [http://www.victoryoveradhd.com/ | ADHD (LA schools)] | 230 % |
-| [tiki-index.php?page_id=5059 | Rickets (UK 600 %)] | 500 % |
-| [http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm | Lyme Disease] | 300 % |
-| [tiki-index.php?page_id=4554 | Clostridium difficile (age &gt; 85)] | 400 % |
-| [tiki-index.php?page_id=1357 | Sleep Apnea] | 200 % |
-| [tiki-index.php?page_id=4724 | COPD] | 44 %  |
-| [tiki-index.php?page_id=1171 | Hypertension (women)] | 160 %  |
-| [tiki-index.php?page_id=1835 | Fatty liver (non alcohol)] | 800 %  |
+| | |
+| --- | --- |
+| &lt;span&gt;[tiki-index.php?page_id=710]&lt;/span&gt;  | 150 % |
+| &lt;span&gt;[tiki-index.php?page_id=484]&lt;/span&gt;  | 100 % |
+| &lt;span&gt;[tiki-index.php?page_id=4290]&lt;/span&gt;  | 110 % |
+| &lt;span&gt;[tiki-index.php?page_id=1421]&lt;/span&gt;  | 100 %  |
+| &lt;span&gt;[tiki-index.php?page_id=691]&lt;/span&gt;  | 250 %  |
+| &lt;span&gt;[tiki-index.php?page_id=605]&lt;/span&gt;  | 250 % |
+| &lt;span&gt;[tiki-index.php?page_id=4715]&lt;/span&gt;  | 210 % |
+| &lt;span&gt;[tiki-index.php?page_id=584]&lt;/span&gt;  | 48 % |
+| [Hospitalizations - Food Allergy](http://www.cdc.gov/healthyyouth/foodallergies/publications.htm)  | 260 % |
+| &lt;span&gt;[tiki-index.php?page_id=2092]&lt;/span&gt;  | 400 % |
+| &lt;span&gt;[tiki-index.php?page_id=720]&lt;/span&gt;  | 250 % |
+| &lt;span&gt;[tiki-index.php?page_id=5000]&lt;/span&gt;  | 4,400 % |
+| [Celliac](http://www.medscape.com/viewarticle/726127)  | 100 % |
+| [ADHD (LA schools)](http://www.victoryoveradhd.com/) | 230 % |
+| &lt;span&gt;[tiki-index.php?page_id=5059]&lt;/span&gt; | 500 % |
+| [Lyme Disease](http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm) | 300 % |
+| &lt;span&gt;[tiki-index.php?page_id=4554]&lt;/span&gt; | 400 % |
+| &lt;span&gt;[tiki-index.php?page_id=1357]&lt;/span&gt; | 200 % |
+| &lt;span&gt;[tiki-index.php?page_id=4724]&lt;/span&gt; | 44 %  |
+| &lt;span&gt;[tiki-index.php?page_id=1171]&lt;/span&gt; | 160 %  |
+| &lt;span&gt;[tiki-index.php?page_id=1835]&lt;/span&gt; | 800 %  |
 
 ---
 
@@ -407,19 +407,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=710|Overweight kids] |150 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=710`
-│   │   │   inner_content: `[tiki-index.php?page_id=710`
+│   │   │   full_match: `[tiki-index.php?page_id=710|Overweight kids] `
+│   │   │   inner_content: `[tiki-index.php?page_id=710|Overweight kids] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=710|Overweight kids]`
+│   │   │   │   inner_content: `Overweight kids`
+│   │   │   │   url: `tiki-index.php?page_id=710`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Overweight kids`
+│   │   │   │   │   inner_content: `Overweight kids`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=710`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=710`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Overweight kids] `
-│   │   │   inner_content: `Overweight kids] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Overweight kids] `
-│   │   │   │   inner_content: `Overweight kids] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `150 %`
 │   │   │   inner_content: `150 %`
@@ -432,19 +433,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=484|Parkinson&#39;s] |100 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=484`
-│   │   │   inner_content: `[tiki-index.php?page_id=484`
+│   │   │   full_match: `[tiki-index.php?page_id=484|Parkinson&#39;s] `
+│   │   │   inner_content: `[tiki-index.php?page_id=484|Parkinson&#39;s] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=484|Parkinson&#39;s]`
+│   │   │   │   inner_content: `Parkinson&#39;s`
+│   │   │   │   url: `tiki-index.php?page_id=484`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Parkinson&#39;s`
+│   │   │   │   │   inner_content: `Parkinson&#39;s`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=484`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=484`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Parkinson&#39;s] `
-│   │   │   inner_content: `Parkinson&#39;s] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Parkinson&#39;s] `
-│   │   │   │   inner_content: `Parkinson&#39;s] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 %`
 │   │   │   inner_content: `100 %`
@@ -457,19 +459,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=4290|Breast Cancer] |110 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=4290`
-│   │   │   inner_content: `[tiki-index.php?page_id=4290`
+│   │   │   full_match: `[tiki-index.php?page_id=4290|Breast Cancer] `
+│   │   │   inner_content: `[tiki-index.php?page_id=4290|Breast Cancer] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=4290|Breast Cancer]`
+│   │   │   │   inner_content: `Breast Cancer`
+│   │   │   │   url: `tiki-index.php?page_id=4290`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Breast Cancer`
+│   │   │   │   │   inner_content: `Breast Cancer`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=4290`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=4290`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Breast Cancer] `
-│   │   │   inner_content: `Breast Cancer] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Breast Cancer] `
-│   │   │   │   inner_content: `Breast Cancer] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `110 %`
 │   │   │   inner_content: `110 %`
@@ -482,19 +485,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=1421|Tuberculosis] |100 % `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=1421`
-│   │   │   inner_content: `[tiki-index.php?page_id=1421`
+│   │   │   full_match: `[tiki-index.php?page_id=1421|Tuberculosis] `
+│   │   │   inner_content: `[tiki-index.php?page_id=1421|Tuberculosis] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=1421|Tuberculosis]`
+│   │   │   │   inner_content: `Tuberculosis`
+│   │   │   │   url: `tiki-index.php?page_id=1421`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Tuberculosis`
+│   │   │   │   │   inner_content: `Tuberculosis`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=1421`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=1421`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Tuberculosis] `
-│   │   │   inner_content: `Tuberculosis] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Tuberculosis] `
-│   │   │   │   inner_content: `Tuberculosis] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 % `
 │   │   │   inner_content: `100 % `
@@ -507,19 +511,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=691|Multiple Sclerosis] |250 % `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=691`
-│   │   │   inner_content: `[tiki-index.php?page_id=691`
+│   │   │   full_match: `[tiki-index.php?page_id=691|Multiple Sclerosis] `
+│   │   │   inner_content: `[tiki-index.php?page_id=691|Multiple Sclerosis] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=691|Multiple Sclerosis]`
+│   │   │   │   inner_content: `Multiple Sclerosis`
+│   │   │   │   url: `tiki-index.php?page_id=691`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Multiple Sclerosis`
+│   │   │   │   │   inner_content: `Multiple Sclerosis`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=691`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=691`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Multiple Sclerosis] `
-│   │   │   inner_content: `Multiple Sclerosis] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Multiple Sclerosis] `
-│   │   │   │   inner_content: `Multiple Sclerosis] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `250 % `
 │   │   │   inner_content: `250 % `
@@ -532,19 +537,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=605|Autism] |250 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=605`
-│   │   │   inner_content: `[tiki-index.php?page_id=605`
+│   │   │   full_match: `[tiki-index.php?page_id=605|Autism] `
+│   │   │   inner_content: `[tiki-index.php?page_id=605|Autism] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=605|Autism]`
+│   │   │   │   inner_content: `Autism`
+│   │   │   │   url: `tiki-index.php?page_id=605`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Autism`
+│   │   │   │   │   inner_content: `Autism`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=605`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=605`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Autism] `
-│   │   │   inner_content: `Autism] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Autism] `
-│   │   │   │   inner_content: `Autism] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `250 %`
 │   │   │   inner_content: `250 %`
@@ -557,19 +563,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=4715|Ulcerative Colitis] |210 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=4715`
-│   │   │   inner_content: `[tiki-index.php?page_id=4715`
+│   │   │   full_match: `[tiki-index.php?page_id=4715|Ulcerative Colitis] `
+│   │   │   inner_content: `[tiki-index.php?page_id=4715|Ulcerative Colitis] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=4715|Ulcerative Colitis]`
+│   │   │   │   inner_content: `Ulcerative Colitis`
+│   │   │   │   url: `tiki-index.php?page_id=4715`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Ulcerative Colitis`
+│   │   │   │   │   inner_content: `Ulcerative Colitis`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=4715`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=4715`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Ulcerative Colitis] `
-│   │   │   inner_content: `Ulcerative Colitis] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Ulcerative Colitis] `
-│   │   │   │   inner_content: `Ulcerative Colitis] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `210 %`
 │   │   │   inner_content: `210 %`
@@ -582,19 +589,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=584|Alzheimer&#39;s] |48 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=584`
-│   │   │   inner_content: `[tiki-index.php?page_id=584`
+│   │   │   full_match: `[tiki-index.php?page_id=584|Alzheimer&#39;s] `
+│   │   │   inner_content: `[tiki-index.php?page_id=584|Alzheimer&#39;s] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=584|Alzheimer&#39;s]`
+│   │   │   │   inner_content: `Alzheimer&#39;s`
+│   │   │   │   url: `tiki-index.php?page_id=584`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Alzheimer&#39;s`
+│   │   │   │   │   inner_content: `Alzheimer&#39;s`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=584`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=584`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Alzheimer&#39;s] `
-│   │   │   inner_content: `Alzheimer&#39;s] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Alzheimer&#39;s] `
-│   │   │   │   inner_content: `Alzheimer&#39;s] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `48 %`
 │   │   │   inner_content: `48 %`
@@ -607,19 +615,20 @@ AST Structure:
 │   │   inner_content: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm|Hospitalizations - Food Allergy] |260 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm`
-│   │   │   inner_content: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm`
+│   │   │   full_match: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm|Hospitalizations - Food Allergy] `
+│   │   │   inner_content: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm|Hospitalizations - Food Allergy] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm|Hospitalizations - Food Allergy]`
+│   │   │   │   inner_content: `Hospitalizations - Food Allergy`
+│   │   │   │   url: `http://www.cdc.gov/healthyyouth/foodallergies/publications.htm`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Hospitalizations - Food Allergy`
+│   │   │   │   │   inner_content: `Hospitalizations - Food Allergy`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm`
-│   │   │   │   inner_content: `[http://www.cdc.gov/healthyyouth/foodallergies/publications.htm`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Hospitalizations - Food Allergy] `
-│   │   │   inner_content: `Hospitalizations - Food Allergy] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Hospitalizations - Food Allergy] `
-│   │   │   │   inner_content: `Hospitalizations - Food Allergy] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `260 %`
 │   │   │   inner_content: `260 %`
@@ -632,19 +641,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=2092|Knee injury (teen)] |400 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=2092`
-│   │   │   inner_content: `[tiki-index.php?page_id=2092`
+│   │   │   full_match: `[tiki-index.php?page_id=2092|Knee injury (teen)] `
+│   │   │   inner_content: `[tiki-index.php?page_id=2092|Knee injury (teen)] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=2092|Knee injury (teen)]`
+│   │   │   │   inner_content: `Knee injury (teen)`
+│   │   │   │   url: `tiki-index.php?page_id=2092`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Knee injury (teen)`
+│   │   │   │   │   inner_content: `Knee injury (teen)`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=2092`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=2092`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Knee injury (teen)] `
-│   │   │   inner_content: `Knee injury (teen)] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Knee injury (teen)] `
-│   │   │   │   inner_content: `Knee injury (teen)] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `400 %`
 │   │   │   inner_content: `400 %`
@@ -657,19 +667,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=720|Metabolic Syndrome] |250 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=720`
-│   │   │   inner_content: `[tiki-index.php?page_id=720`
+│   │   │   full_match: `[tiki-index.php?page_id=720|Metabolic Syndrome] `
+│   │   │   inner_content: `[tiki-index.php?page_id=720|Metabolic Syndrome] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=720|Metabolic Syndrome]`
+│   │   │   │   inner_content: `Metabolic Syndrome`
+│   │   │   │   url: `tiki-index.php?page_id=720`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Metabolic Syndrome`
+│   │   │   │   │   inner_content: `Metabolic Syndrome`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=720`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=720`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Metabolic Syndrome] `
-│   │   │   inner_content: `Metabolic Syndrome] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Metabolic Syndrome] `
-│   │   │   │   inner_content: `Metabolic Syndrome] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `250 %`
 │   │   │   inner_content: `250 %`
@@ -682,19 +693,20 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=5000|Bipolar Disorder - youth] |4,400 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=5000`
-│   │   │   inner_content: `[tiki-index.php?page_id=5000`
+│   │   │   full_match: `[tiki-index.php?page_id=5000|Bipolar Disorder - youth] `
+│   │   │   inner_content: `[tiki-index.php?page_id=5000|Bipolar Disorder - youth] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=5000|Bipolar Disorder - youth]`
+│   │   │   │   inner_content: `Bipolar Disorder - youth`
+│   │   │   │   url: `tiki-index.php?page_id=5000`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Bipolar Disorder - youth`
+│   │   │   │   │   inner_content: `Bipolar Disorder - youth`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=5000`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=5000`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Bipolar Disorder - youth] `
-│   │   │   inner_content: `Bipolar Disorder - youth] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Bipolar Disorder - youth] `
-│   │   │   │   inner_content: `Bipolar Disorder - youth] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `4,400 %`
 │   │   │   inner_content: `4,400 %`
@@ -707,19 +719,20 @@ AST Structure:
 │   │   inner_content: `[http://www.medscape.com/viewarticle/726127|Celliac] |100 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[http://www.medscape.com/viewarticle/726127`
-│   │   │   inner_content: `[http://www.medscape.com/viewarticle/726127`
+│   │   │   full_match: `[http://www.medscape.com/viewarticle/726127|Celliac] `
+│   │   │   inner_content: `[http://www.medscape.com/viewarticle/726127|Celliac] `
 │   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[http://www.medscape.com/viewarticle/726127|Celliac]`
+│   │   │   │   inner_content: `Celliac`
+│   │   │   │   url: `http://www.medscape.com/viewarticle/726127`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Celliac`
+│   │   │   │   │   inner_content: `Celliac`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `[http://www.medscape.com/viewarticle/726127`
-│   │   │   │   inner_content: `[http://www.medscape.com/viewarticle/726127`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Celliac] `
-│   │   │   inner_content: `Celliac] `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Celliac] `
-│   │   │   │   inner_content: `Celliac] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 %`
 │   │   │   inner_content: `100 %`
@@ -732,19 +745,17 @@ AST Structure:
 │   │   inner_content: `[http://www.victoryoveradhd.com/|ADHD (LA schools)]|230 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[http://www.victoryoveradhd.com/`
-│   │   │   inner_content: `[http://www.victoryoveradhd.com/`
+│   │   │   full_match: `[http://www.victoryoveradhd.com/|ADHD (LA schools)]`
+│   │   │   inner_content: `[http://www.victoryoveradhd.com/|ADHD (LA schools)]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[http://www.victoryoveradhd.com/`
-│   │   │   │   inner_content: `[http://www.victoryoveradhd.com/`
-│   │   ├── TableCellNode
-│   │   │   full_match: `ADHD (LA schools)]`
-│   │   │   inner_content: `ADHD (LA schools)]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `ADHD (LA schools)]`
-│   │   │   │   inner_content: `ADHD (LA schools)]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[http://www.victoryoveradhd.com/|ADHD (LA schools)]`
+│   │   │   │   inner_content: `ADHD (LA schools)`
+│   │   │   │   url: `http://www.victoryoveradhd.com/`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `ADHD (LA schools)`
+│   │   │   │   │   inner_content: `ADHD (LA schools)`
 │   │   ├── TableCellNode
 │   │   │   full_match: `230 %`
 │   │   │   inner_content: `230 %`
@@ -757,19 +768,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=5059| Rickets (UK 600 %)]|500 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=5059`
-│   │   │   inner_content: `[tiki-index.php?page_id=5059`
+│   │   │   full_match: `[tiki-index.php?page_id=5059| Rickets (UK 600 %)]`
+│   │   │   inner_content: `[tiki-index.php?page_id=5059| Rickets (UK 600 %)]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=5059`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=5059`
-│   │   ├── TableCellNode
-│   │   │   full_match: ` Rickets (UK 600 %)]`
-│   │   │   inner_content: ` Rickets (UK 600 %)]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Rickets (UK 600 %)]`
-│   │   │   │   inner_content: `Rickets (UK 600 %)]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=5059| Rickets (UK 600 %)]`
+│   │   │   │   inner_content: ` Rickets (UK 600 %)`
+│   │   │   │   url: `tiki-index.php?page_id=5059`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Rickets (UK 600 %)`
+│   │   │   │   │   inner_content: `Rickets (UK 600 %)`
 │   │   ├── TableCellNode
 │   │   │   full_match: `500 %`
 │   │   │   inner_content: `500 %`
@@ -782,19 +791,17 @@ AST Structure:
 │   │   inner_content: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm|Lyme Disease]|300 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm`
-│   │   │   inner_content: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm`
+│   │   │   full_match: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm|Lyme Disease]`
+│   │   │   inner_content: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm|Lyme Disease]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm`
-│   │   │   │   inner_content: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Lyme Disease]`
-│   │   │   inner_content: `Lyme Disease]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Lyme Disease]`
-│   │   │   │   inner_content: `Lyme Disease]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm|Lyme Disease]`
+│   │   │   │   inner_content: `Lyme Disease`
+│   │   │   │   url: `http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Lyme Disease`
+│   │   │   │   │   inner_content: `Lyme Disease`
 │   │   ├── TableCellNode
 │   │   │   full_match: `300 %`
 │   │   │   inner_content: `300 %`
@@ -807,19 +814,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=4554|Clostridium difficile (age &gt; 85)]|400 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=4554`
-│   │   │   inner_content: `[tiki-index.php?page_id=4554`
+│   │   │   full_match: `[tiki-index.php?page_id=4554|Clostridium difficile (age &gt; 85)]`
+│   │   │   inner_content: `[tiki-index.php?page_id=4554|Clostridium difficile (age &gt; 85)]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=4554`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=4554`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Clostridium difficile (age &gt; 85)]`
-│   │   │   inner_content: `Clostridium difficile (age &gt; 85)]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Clostridium difficile (age &gt; 85)]`
-│   │   │   │   inner_content: `Clostridium difficile (age &gt; 85)]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=4554|Clostridium difficile (age &gt; 85)]`
+│   │   │   │   inner_content: `Clostridium difficile (age &gt; 85)`
+│   │   │   │   url: `tiki-index.php?page_id=4554`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Clostridium difficile (age &gt; 85)`
+│   │   │   │   │   inner_content: `Clostridium difficile (age &gt; 85)`
 │   │   ├── TableCellNode
 │   │   │   full_match: `400 %`
 │   │   │   inner_content: `400 %`
@@ -832,19 +837,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=1357|Sleep Apnea]|200 %`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=1357`
-│   │   │   inner_content: `[tiki-index.php?page_id=1357`
+│   │   │   full_match: `[tiki-index.php?page_id=1357|Sleep Apnea]`
+│   │   │   inner_content: `[tiki-index.php?page_id=1357|Sleep Apnea]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=1357`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=1357`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Sleep Apnea]`
-│   │   │   inner_content: `Sleep Apnea]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Sleep Apnea]`
-│   │   │   │   inner_content: `Sleep Apnea]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=1357|Sleep Apnea]`
+│   │   │   │   inner_content: `Sleep Apnea`
+│   │   │   │   url: `tiki-index.php?page_id=1357`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Sleep Apnea`
+│   │   │   │   │   inner_content: `Sleep Apnea`
 │   │   ├── TableCellNode
 │   │   │   full_match: `200 %`
 │   │   │   inner_content: `200 %`
@@ -857,19 +860,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=4724|COPD]|44 % `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=4724`
-│   │   │   inner_content: `[tiki-index.php?page_id=4724`
+│   │   │   full_match: `[tiki-index.php?page_id=4724|COPD]`
+│   │   │   inner_content: `[tiki-index.php?page_id=4724|COPD]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=4724`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=4724`
-│   │   ├── TableCellNode
-│   │   │   full_match: `COPD]`
-│   │   │   inner_content: `COPD]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `COPD]`
-│   │   │   │   inner_content: `COPD]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=4724|COPD]`
+│   │   │   │   inner_content: `COPD`
+│   │   │   │   url: `tiki-index.php?page_id=4724`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `COPD`
+│   │   │   │   │   inner_content: `COPD`
 │   │   ├── TableCellNode
 │   │   │   full_match: `44 % `
 │   │   │   inner_content: `44 % `
@@ -882,19 +883,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=1171|Hypertension (women)]|160 % `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=1171`
-│   │   │   inner_content: `[tiki-index.php?page_id=1171`
+│   │   │   full_match: `[tiki-index.php?page_id=1171|Hypertension (women)]`
+│   │   │   inner_content: `[tiki-index.php?page_id=1171|Hypertension (women)]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=1171`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=1171`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Hypertension (women)]`
-│   │   │   inner_content: `Hypertension (women)]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Hypertension (women)]`
-│   │   │   │   inner_content: `Hypertension (women)]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=1171|Hypertension (women)]`
+│   │   │   │   inner_content: `Hypertension (women)`
+│   │   │   │   url: `tiki-index.php?page_id=1171`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Hypertension (women)`
+│   │   │   │   │   inner_content: `Hypertension (women)`
 │   │   ├── TableCellNode
 │   │   │   full_match: `160 % `
 │   │   │   inner_content: `160 % `
@@ -907,19 +906,17 @@ AST Structure:
 │   │   inner_content: `[tiki-index.php?page_id=1835|Fatty liver (non alcohol)]|800 % `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `[tiki-index.php?page_id=1835`
-│   │   │   inner_content: `[tiki-index.php?page_id=1835`
+│   │   │   full_match: `[tiki-index.php?page_id=1835|Fatty liver (non alcohol)]`
+│   │   │   inner_content: `[tiki-index.php?page_id=1835|Fatty liver (non alcohol)]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[tiki-index.php?page_id=1835`
-│   │   │   │   inner_content: `[tiki-index.php?page_id=1835`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Fatty liver (non alcohol)]`
-│   │   │   inner_content: `Fatty liver (non alcohol)]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Fatty liver (non alcohol)]`
-│   │   │   │   inner_content: `Fatty liver (non alcohol)]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[tiki-index.php?page_id=1835|Fatty liver (non alcohol)]`
+│   │   │   │   inner_content: `Fatty liver (non alcohol)`
+│   │   │   │   url: `tiki-index.php?page_id=1835`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Fatty liver (non alcohol)`
+│   │   │   │   │   inner_content: `Fatty liver (non alcohol)`
 │   │   ├── TableCellNode
 │   │   │   full_match: `800 % `
 │   │   │   inner_content: `800 % `

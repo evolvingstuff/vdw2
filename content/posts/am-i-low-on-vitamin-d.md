@@ -20,7 +20,7 @@ categories:
 | --- | --- | --- | --- |
 | Cost | Time | Result | Description |
 | FREE | 1 minute | <10ng | press on breastbone and both shinbones<br>if 2 of 3 are painful then very low vitamin D |
-| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon<br>take one 50,000 IU daily for a week<br>See if you feel a benefit<br>If yes, take [/tiki-index.php?page_id=5217 | 1 capsule every 2 weeks] <br>(very conservative, every easy, lowest cost) |
+| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon<br>take one 50,000 IU daily for a week<br>See if you feel a benefit<br>If yes, take [1 capsule every 2 weeks](/tiki-index.php?page_id=5217) <br>(very conservative, every easy, lowest cost) |
 | $35 | 10 days | <35 ng | [https://is.gd/dtestqual](https://is.gd/dtestqual) Amazon UK<br> 2 testers which look similar to COVID tester<br>but uses 2 drops of blood instead of nasal mucus<br>yes/no answer in 10 minutes |
 | $55 | 10 days | quantitative<br> 5 to 200 ng | [https://is.gd/vitdtestquant](https://is.gd/vitdtestquant) Amazon<br>Get results in <5 days |
 
@@ -60,7 +60,7 @@ Markdown:
 | --- | --- | --- | --- |
 | Cost | Time | Result | Description |
 | FREE | 1 minute | &lt;10ng | press on breastbone and both shinbones&lt;br&gt;if 2 of 3 are painful then very low vitamin D |
-| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon&lt;br&gt;take one 50,000 IU daily for a week&lt;br&gt;See if you feel a benefit&lt;br&gt;If yes, take [/tiki-index.php?page_id=5217 | 1 capsule every 2 weeks] &lt;br&gt;(very conservative, every easy, lowest cost) |
+| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon&lt;br&gt;take one 50,000 IU daily for a week&lt;br&gt;See if you feel a benefit&lt;br&gt;If yes, take [1 capsule every 2 weeks](/tiki-index.php?page_id=5217) &lt;br&gt;(very conservative, every easy, lowest cost) |
 | $35 | 10 days | &lt;35 ng | [https://is.gd/dtestqual](https://is.gd/dtestqual) Amazon UK&lt;br&gt; 2 testers which look similar to COVID tester&lt;br&gt;but uses 2 drops of blood instead of nasal mucus&lt;br&gt;yes/no answer in 10 minutes |
 | $55 | 10 days | quantitative&lt;br&gt; 5 to 200 ng | [https://is.gd/vitdtestquant](https://is.gd/vitdtestquant) Amazon&lt;br&gt;Get results in &lt;5 days |
 
@@ -214,8 +214,8 @@ AST Structure:
 │   │   │   │   full_match: `N.A.`
 │   │   │   │   inner_content: `N.A.`
 │   │   ├── TableCellNode
-│   │   │   full_match: `[https://is.gd/60each50K] Amazon%%%take one 50,000 IU daily for a week%%%See if you feel a benefit%%%If yes, take [/tiki-index.php?page_id=5217`
-│   │   │   inner_content: `[https://is.gd/60each50K] Amazon%%%take one 50,000 IU daily for a week%%%See if you feel a benefit%%%If yes, take [/tiki-index.php?page_id=5217`
+│   │   │   full_match: `[https://is.gd/60each50K] Amazon%%%take one 50,000 IU daily for a week%%%See if you feel a benefit%%%If yes, take [/tiki-index.php?page_id=5217|1 capsule every 2 weeks] %%%(very conservative, every easy, lowest cost)`
+│   │   │   inner_content: `[https://is.gd/60each50K] Amazon%%%take one 50,000 IU daily for a week%%%See if you feel a benefit%%%If yes, take [/tiki-index.php?page_id=5217|1 capsule every 2 weeks] %%%(very conservative, every easy, lowest cost)`
 │   │   │   children:
 │   │   │   ├── LinkNode
 │   │   │   │   full_match: `[https://is.gd/60each50K]`
@@ -244,15 +244,19 @@ AST Structure:
 │   │   │   │   full_match: `%%%`
 │   │   │   │   inner_content: ``
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `If yes, take [/tiki-index.php?page_id=5217`
-│   │   │   │   inner_content: `If yes, take [/tiki-index.php?page_id=5217`
-│   │   ├── TableCellNode
-│   │   │   full_match: `1 capsule every 2 weeks] %%%(very conservative, every easy, lowest cost)`
-│   │   │   inner_content: `1 capsule every 2 weeks] %%%(very conservative, every easy, lowest cost)`
-│   │   │   children:
+│   │   │   │   full_match: `If yes, take `
+│   │   │   │   inner_content: `If yes, take `
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[/tiki-index.php?page_id=5217|1 capsule every 2 weeks]`
+│   │   │   │   inner_content: `1 capsule every 2 weeks`
+│   │   │   │   url: `/tiki-index.php?page_id=5217`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `1 capsule every 2 weeks`
+│   │   │   │   │   inner_content: `1 capsule every 2 weeks`
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `1 capsule every 2 weeks] `
-│   │   │   │   inner_content: `1 capsule every 2 weeks] `
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
 │   │   │   ├── NewlineNode
 │   │   │   │   full_match: `%%%`
 │   │   │   │   inner_content: ``

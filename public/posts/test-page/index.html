@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Test Page</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743273642">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743273642">
+    <link rel="stylesheet" href="/css/main.css?v=1743275069">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743275069">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743273642"></script>
+    <script src="/js/search.js?v=1743275069"></script>
 </head>
 <body>
     <div class="container">
@@ -327,6 +327,38 @@
 <p><a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a> chart</p>
 <img src="/attachments/d3.mock.jpg" alt="image">
 <hr>
+<hr>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Websites</td>
+          <td>Action</td>
+      </tr>
+      <tr>
+          <td><a href="https://www.grassrootshealth.net">www.grassrootshealth.net</a></td>
+          <td><a href="https://www.grassrootshealth.net/?s=cancer+call+for+action">Vitamin D for cancer – find “Call-To-Action”</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://www.vitamindwiki.com">www.vitamindwiki.com</a></td>
+          <td>Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> <a href="/categories/cancer---after-diagnosis">Cancer - After diagnosis</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://www.canceractive.com">www.canceractive.com</a></td>
+          <td>Subscribe to newsletter &amp; search website</td>
+      </tr>
+      <tr>
+          <td><a href="https://yestolife.org.uk/">https://yestolife.org.uk/</a></td>
+          <td>Start with:  I’m New Here</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
@@ -373,6 +405,18 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 &lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt; chart
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+---
+
+---
+
+| | |
+| --- | --- |
+| Websites | Action |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
+| www.vitamindwiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
+| www.canceractive.com     | Subscribe to newsletter &amp; search website |
+| https://yestolife.org.uk/      | Start with:  I’m New Here |
 
 ---
 
@@ -576,6 +620,133 @@ AST Structure:
 │   │   raw_content:  fileId=3149
 │   │   fileId: 3149├── HorizontalRuleNode
 │   full_match: `\n---\n`
+│   inner_content: `---`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── TableNode
+│   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
+│   inner_content: `Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Websites|Action`
+│   │   inner_content: `Websites|Action`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Websites`
+│   │   │   inner_content: `Websites`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Websites`
+│   │   │   │   inner_content: `Websites`
+│   │   ├── TableCellNode
+│   │   │   full_match: `Action`
+│   │   │   inner_content: `Action`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Action`
+│   │   │   │   inner_content: `Action`
+│   ├── TableRowNode
+│   │   full_match: `www.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   inner_content: `www.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `www.grassrootshealth.net  `
+│   │   │   inner_content: `www.grassrootshealth.net  `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `www.grassrootshealth.net  `
+│   │   │   │   inner_content: `www.grassrootshealth.net  `
+│   │   ├── TableCellNode
+│   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   inner_content: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
+│   │   │   │   url: `https://www.grassrootshealth.net/?s=cancer+call+for+action`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”`
+│   │   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
+│   ├── TableRowNode
+│   │   full_match: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   inner_content: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `www.vitamindwiki.com `
+│   │   │   inner_content: `www.vitamindwiki.com `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `www.vitamindwiki.com `
+│   │   │   │   inner_content: `www.vitamindwiki.com `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   │   inner_content: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Search for cancer`
+│   │   │   │   inner_content: `Search for cancer`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── LocalLinkNode
+│   │   │   │   full_match: `((Cancer and Vitamin D - many studies))`
+│   │   │   │   inner_content: `Cancer and Vitamin D - many studies`
+│   │   │   │   page: `Cancer and Vitamin D - many studies`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Cancer and Vitamin D - many studies`
+│   │   │   │   │   inner_content: `Cancer and Vitamin D - many studies`
+│   │   │   ├── NewlineNode
+│   │   │   │   full_match: `%%%`
+│   │   │   │   inner_content: ``
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` `
+│   │   │   │   inner_content: ` `
+│   │   │   ├── LocalLinkNode
+│   │   │   │   full_match: `((Cancer - After diagnosis))`
+│   │   │   │   inner_content: `Cancer - After diagnosis`
+│   │   │   │   page: `Cancer - After diagnosis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Cancer - After diagnosis`
+│   │   │   │   │   inner_content: `Cancer - After diagnosis`
+│   ├── TableRowNode
+│   │   full_match: `www.canceractive.com    |Subscribe to newsletter &amp; search website`
+│   │   inner_content: `www.canceractive.com    |Subscribe to newsletter &amp; search website`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `www.canceractive.com    `
+│   │   │   inner_content: `www.canceractive.com    `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `www.canceractive.com    `
+│   │   │   │   inner_content: `www.canceractive.com    `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Subscribe to newsletter &amp; search website`
+│   │   │   inner_content: `Subscribe to newsletter &amp; search website`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Subscribe to newsletter &amp; search website`
+│   │   │   │   inner_content: `Subscribe to newsletter &amp; search website`
+│   ├── TableRowNode
+│   │   full_match: `https://yestolife.org.uk/     |Start with:  I’m New Here`
+│   │   inner_content: `https://yestolife.org.uk/     |Start with:  I’m New Here`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `https://yestolife.org.uk/     `
+│   │   │   inner_content: `https://yestolife.org.uk/     `
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `https://yestolife.org.uk/     `
+│   │   │   │   inner_content: `https://yestolife.org.uk/     `
+│   │   ├── TableCellNode
+│   │   │   full_match: `Start with:  I’m New Here`
+│   │   │   inner_content: `Start with:  I’m New Here`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Start with:  I’m New Here`
+│   │   │   │   inner_content: `Start with:  I’m New Here`├── HorizontalRuleNode
+│   full_match: `\n---`
 │   inner_content: `---`
 
 Original Tiki:
@@ -618,6 +789,13 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 	{img fileId=3149}
 ---
 
+---
+||Websites|Action
+www.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]
+www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))
+www.canceractive.com    |Subscribe to newsletter &amp; search website
+https://yestolife.org.uk/     |Start with:  I’m New Here||
+---
 </code>
 </pre>
 
@@ -626,7 +804,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743273642"></script>
+    <script src="/js/lightspa.js?v=1743275069"></script>
     <script>
         
         const spa = new LightSPA({
@@ -636,8 +814,8 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743273642',
-            indexUrl: '\/search\/search_index.json.gz?v=1743273642'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743275069',
+            indexUrl: '\/search\/search_index.json.gz?v=1743275069'
         });
     </script>
 </body>

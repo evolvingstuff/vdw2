@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>US Life expectancy is short and getting shorter</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743273642">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743273642">
+    <link rel="stylesheet" href="/css/main.css?v=1743275069">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743275069">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743273642"></script>
+    <script src="/js/search.js?v=1743275069"></script>
 </head>
 <body>
     <div class="container">
@@ -386,7 +386,7 @@
       <tr>
           <td>Saudi Arabia</td>
           <td>76.6</td>
-          <td>[https://vitamindwiki.com/tiki-index.php?page_id=13764</td>
+          <td><a href="https://vitamindwiki.com/tiki-index.php?page_id=13764">$1bn/year funding to increase it</a></td>
       </tr>
       <tr>
           <td>World</td>
@@ -453,7 +453,7 @@ Markdown:
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764) |
 | World | 73.3 |  |
 
 
@@ -881,19 +881,17 @@ AST Structure:
 │   │   │   │   full_match: `76.6`
 │   │   │   │   inner_content: `76.6`
 │   │   ├── TableCellNode
-│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   ├── TableCellNode
-│   │   │   full_match: `$1bn/year funding to increase it]`
-│   │   │   inner_content: `$1bn/year funding to increase it]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `$1bn/year funding to increase it]`
-│   │   │   │   inner_content: `$1bn/year funding to increase it]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   │   inner_content: `$1bn/year funding to increase it`
+│   │   │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `$1bn/year funding to increase it`
+│   │   │   │   │   inner_content: `$1bn/year funding to increase it`
 │   ├── TableRowNode
 │   │   full_match: `World|73.3| `
 │   │   inner_content: `World|73.3| `
@@ -960,7 +958,7 @@ World|73.3| ||
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743273642"></script>
+    <script src="/js/lightspa.js?v=1743275069"></script>
     <script>
         
         const spa = new LightSPA({
@@ -970,8 +968,8 @@ World|73.3| ||
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743273642',
-            indexUrl: '\/search\/search_index.json.gz?v=1743273642'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743275069',
+            indexUrl: '\/search\/search_index.json.gz?v=1743275069'
         });
     </script>
 </body>

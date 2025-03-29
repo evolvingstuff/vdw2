@@ -62,7 +62,7 @@ date: 2023-03-27
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764) |
 | World | 73.3 |  |
 
 
@@ -125,7 +125,7 @@ Markdown:
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764) |
 | World | 73.3 |  |
 
 
@@ -553,19 +553,17 @@ AST Structure:
 │   │   │   │   full_match: `76.6`
 │   │   │   │   inner_content: `76.6`
 │   │   ├── TableCellNode
-│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764`
-│   │   ├── TableCellNode
-│   │   │   full_match: `$1bn/year funding to increase it]`
-│   │   │   inner_content: `$1bn/year funding to increase it]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `$1bn/year funding to increase it]`
-│   │   │   │   inner_content: `$1bn/year funding to increase it]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   │   inner_content: `$1bn/year funding to increase it`
+│   │   │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `$1bn/year funding to increase it`
+│   │   │   │   │   inner_content: `$1bn/year funding to increase it`
 │   ├── TableRowNode
 │   │   full_match: `World|73.3| `
 │   │   inner_content: `World|73.3| `

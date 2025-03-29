@@ -52,7 +52,7 @@ Sleep
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [https://www.grassrootshealth.net/?s=cancer+call+for+action | Vitamin D for cancer – find “Call-To-Action”] |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
 | www.vitamindwiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -118,7 +118,7 @@ Sleep
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [https://www.grassrootshealth.net/?s=cancer+call+for+action | Vitamin D for cancer – find “Call-To-Action”] |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
 | www.vitamindwiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
 | www.canceractive.com     | Subscribe to newsletter &amp; search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -439,19 +439,17 @@ AST Structure:
 │   │   │   │   full_match: `www.grassrootshealth.net  `
 │   │   │   │   inner_content: `www.grassrootshealth.net  `
 │   │   ├── TableCellNode
-│   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action`
-│   │   │   inner_content: `[https://www.grassrootshealth.net/?s=cancer+call+for+action`
+│   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   inner_content: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action`
-│   │   │   │   inner_content: `[https://www.grassrootshealth.net/?s=cancer+call+for+action`
-│   │   ├── TableCellNode
-│   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”]`
-│   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”]`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”]`
-│   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]`
+│   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
+│   │   │   │   url: `https://www.grassrootshealth.net/?s=cancer+call+for+action`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”`
+│   │   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
 │   ├── TableRowNode
 │   │   full_match: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
 │   │   inner_content: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
