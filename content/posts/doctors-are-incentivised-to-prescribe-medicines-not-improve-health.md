@@ -18,7 +18,7 @@ categories:
 
 #### How PCPs are penalized for positive outcomes from lifestyle change
 
- **[MD Edge](https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1%3Fecd%3DWNL_EVE_231016_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1?ecd=WNL_EVE_231016_mdedge)** 
 
  **One example: Dr. reduced diabetes by lifestyle changes** 
 
@@ -32,7 +32,7 @@ categories:
 
 ---
 
-##### News Release was reported on by [Grassroots Health - Oct 2023](https://myemail.constantcontact.com/How-Some-Doctors-Are-Penalized-for-Helping-You-Get-Well.html%3Fsoid%3D1102722411090%26aid%3D1u2GzGnOxBU)
+##### News Release was reported on by [Grassroots Health - Oct 2023](https://myemail.constantcontact.com/How-Some-Doctors-Are-Penalized-for-Helping-You-Get-Well.html?soid=1102722411090&aid=1u2GzGnOxBU)
 
 ---
 
@@ -74,7 +74,7 @@ Markdown:
 
 #### How PCPs are penalized for positive outcomes from lifestyle change
 
- **[MD Edge](https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1%3Fecd%3DWNL_EVE_231016_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/familymedicine/article/265926/business-medicine/how-pcps-are-penalized-positive-outcomes-lifestyle/page/0/1?ecd=WNL_EVE_231016_mdedge)** 
 
  **One example: Dr. reduced diabetes by lifestyle changes** 
 
@@ -88,7 +88,7 @@ Markdown:
 
 ---
 
-##### News Release was reported on by [Grassroots Health - Oct 2023](https://myemail.constantcontact.com/How-Some-Doctors-Are-Penalized-for-Helping-You-Get-Well.html%3Fsoid%3D1102722411090%26aid%3D1u2GzGnOxBU)
+##### News Release was reported on by [Grassroots Health - Oct 2023](https://myemail.constantcontact.com/How-Some-Doctors-Are-Penalized-for-Helping-You-Get-Well.html?soid=1102722411090&amp;aid=1u2GzGnOxBU)
 
 ---
 

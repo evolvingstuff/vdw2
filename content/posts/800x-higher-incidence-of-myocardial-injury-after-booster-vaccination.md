@@ -19,7 +19,7 @@ categories:
 
 #### 800x Higher Incidence of Myocardial Injury After Booster - Swiss Study
 
- **[Drbeen Medical Lectures in YouTube - 1 hour](https://www.youtube.com/watch%3Fv%3DVrHZxmk6S7Q%26ab_channel%3DDrbeenMedicalLectures)** 
+ **[Drbeen Medical Lectures in YouTube - 1 hour](https://www.youtube.com/watch?v=VrHZxmk6S7Q&ab_channel=DrbeenMedicalLectures)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
@@ -31,7 +31,7 @@ and many others
 
 #### Substack review of the Swiss study
 
- **[Swiss Prospective Cohort Study Demonstrates Frequent Heart Damage after Moderna mRNA-1273 Booster](https://petermcculloughmd.substack.com/p/swiss-prospective-cohort-study-demonstrates%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Peter McCulloogh** 
+ **[Swiss Prospective Cohort Study Demonstrates Frequent Heart Damage after Moderna mRNA-1273 Booster](https://petermcculloughmd.substack.com/p/swiss-prospective-cohort-study-demonstrates?utm_source=substack&utm_medium=email%20) Peter McCulloogh** 
 
 ---
 
@@ -80,7 +80,7 @@ Markdown:
 
 #### 800x Higher Incidence of Myocardial Injury After Booster - Swiss Study
 
- **[Drbeen Medical Lectures in YouTube - 1 hour](https://www.youtube.com/watch%3Fv%3DVrHZxmk6S7Q%26ab_channel%3DDrbeenMedicalLectures)** 
+ **[Drbeen Medical Lectures in YouTube - 1 hour](https://www.youtube.com/watch?v=VrHZxmk6S7Q&amp;ab_channel=DrbeenMedicalLectures)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 
@@ -92,7 +92,7 @@ and many others
 
 #### Substack review of the Swiss study
 
- **[Swiss Prospective Cohort Study Demonstrates Frequent Heart Damage after Moderna mRNA-1273 Booster](https://petermcculloughmd.substack.com/p/swiss-prospective-cohort-study-demonstrates%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Peter McCulloogh** 
+ **[Swiss Prospective Cohort Study Demonstrates Frequent Heart Damage after Moderna mRNA-1273 Booster](https://petermcculloughmd.substack.com/p/swiss-prospective-cohort-study-demonstrates?utm_source=substack&amp;utm_medium=email%20) Peter McCulloogh** 
 
 ---
 

@@ -70,7 +70,7 @@ This list is automatically updated
 
 #### 40,700 studies had EARLY-ONSET in their title as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3D%26as_epq%3Dearly-onset%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?as_q=&as_epq=early-onset&as_oq=&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C48)** 
 
 * Early-Onset Cancer in the Gastrointestinal Tract Is on the Rise—Evidence and Implications  - March 2023 [https://doi.org/10.1158/2159-8290.CD-22-1038](https://doi.org/10.1158/2159-8290.CD-22-1038) FREE PDF
 
@@ -142,7 +142,7 @@ This list is automatically updated
 
 #### 40,700 studies had EARLY-ONSET in their title as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3D%26as_epq%3Dearly-onset%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?as_q=&amp;as_epq=early-onset&amp;as_oq=&amp;as_eq=&amp;as_occt=title&amp;as_sauthors=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;hl=en&amp;as_sdt=0%2C48)** 
 
 * Early-Onset Cancer in the Gastrointestinal Tract Is on the Rise—Evidence and Implications  - March 2023 [https://doi.org/10.1158/2159-8290.CD-22-1038](https://doi.org/10.1158/2159-8290.CD-22-1038) FREE PDF
 

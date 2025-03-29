@@ -26,7 +26,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **[48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health%2Bcan%2Bbe%2Bgreatly%2Bimproved%2Bby%2Bweekly%2B50%2C000%2BIU%2Bof%2BVitamin%2BD%2B-%2Bvideo%2Band%2Btranscript%2B-%2BMarch%2B2023%23Health_problems_fought_by_weekly_50K_Vitamin_D)** 
+ **[48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)** 
 
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
@@ -56,7 +56,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
- **[48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health%2Bcan%2Bbe%2Bgreatly%2Bimproved%2Bby%2Bweekly%2B50%2C000%2BIU%2Bof%2BVitamin%2BD%2B-%2Bvideo%2Band%2Btranscript%2B-%2BMarch%2B2023%23Health_problems_fought_by_weekly_50K_Vitamin_D)** 
+ **[48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)** 
 
 &lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
 

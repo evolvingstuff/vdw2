@@ -69,7 +69,7 @@ This list is automatically updated
 
 #### 108,000 medical papers on  Atherosclerosis and "Vitamin D"
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%2BAtherosclerosis%2B%22vitamin%2Bd%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=+Atherosclerosis+%22vitamin+d%22&btnG=)** 
 
 * Vitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure - Sept 2020 - DOI: 10.3390/ijms21186483 FREE PDF
 
@@ -91,7 +91,7 @@ This list is automatically updated
 
 #### 37,600 medical papers on  Atherosclerosis and "Vitamin K"
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fq%3D%2BAtherosclerosis%2B%22vitamin%2Bk%22%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=+Atherosclerosis+%22vitamin+k%22&hl=en&as_sdt=0,48)** 
 
 * Quantifying dietary vitamin K and its link to cardiovascular health: a narrative review - March 2020 &nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF ](/attachments/d3.mock.pdf)
 
@@ -174,7 +174,7 @@ This list is automatically updated
 
 #### 108,000 medical papers on  Atherosclerosis and &quot;Vitamin D&quot;
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%2BAtherosclerosis%2B%22vitamin%2Bd%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=+Atherosclerosis+%22vitamin+d%22&amp;btnG=)** 
 
 * Vitamin D and Cardiovascular Disease, with Emphasis on Hypertension, Atherosclerosis, and Heart Failure - Sept 2020 - DOI: 10.3390/ijms21186483 FREE PDF
 
@@ -196,7 +196,7 @@ This list is automatically updated
 
 #### 37,600 medical papers on  Atherosclerosis and &quot;Vitamin K&quot;
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fq%3D%2BAtherosclerosis%2B%22vitamin%2Bk%22%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=+Atherosclerosis+%22vitamin+k%22&amp;hl=en&amp;as_sdt=0,48)** 
 
 * Quantifying dietary vitamin K and its link to cardiovascular health: a narrative review - March 2020 &amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF ](/attachments/d3.mock.pdf)
 

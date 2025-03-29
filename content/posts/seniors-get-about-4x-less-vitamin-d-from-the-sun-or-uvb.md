@@ -18,7 +18,7 @@ categories:
 
 ---
 
-#### Response by [Perplexity AI](https://www.perplexity.ai/search/Why-do-seniors-DafRqSksSvqBhWpNdsmybg%3Fs%3Dc) - Feb 2024
+#### Response by [Perplexity AI](https://www.perplexity.ai/search/Why-do-seniors-DafRqSksSvqBhWpNdsmybg?s=c) - Feb 2024
 
  **Includes references, graphics, videos, etc.** 
 
@@ -92,7 +92,7 @@ Markdown:
 
 ---
 
-#### Response by [Perplexity AI](https://www.perplexity.ai/search/Why-do-seniors-DafRqSksSvqBhWpNdsmybg%3Fs%3Dc) - Feb 2024
+#### Response by [Perplexity AI](https://www.perplexity.ai/search/Why-do-seniors-DafRqSksSvqBhWpNdsmybg?s=c) - Feb 2024
 
  **Includes references, graphics, videos, etc.** 
 

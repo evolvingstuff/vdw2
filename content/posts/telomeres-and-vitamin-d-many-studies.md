@@ -39,7 +39,7 @@ This list is automatically updated
 
 #### Plant-based diet associated with longer Telomeres - Dr. Greger July 2023
 
- **[Greens, Green Tea, and Nuts Put to the Test for Telomeres](https://nutritionfacts.org/video/greens-green-tea-and-nuts-put-to-the-test-for-telomeres/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3Daa18a4504e-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-aa18a4504e-25209481%26mc_cid%3Daa18a4504e%26mc_eid%3Db95641625a) video and transcript** 
+ **[Greens, Green Tea, and Nuts Put to the Test for Telomeres](https://nutritionfacts.org/video/greens-green-tea-and-nuts-put-to-the-test-for-telomeres/?subscriber=true&utm_source=NutritionFacts.org&utm_campaign=aa18a4504e-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&utm_medium=email&utm_term=0_40f9e497d1-aa18a4504e-25209481&mc_cid=aa18a4504e&mc_eid=b95641625a) video and transcript** 
 
 
 
@@ -75,7 +75,7 @@ This list is automatically updated
 
 #### Plant-based diet associated with longer Telomeres - Dr. Greger July 2023
 
- **[Greens, Green Tea, and Nuts Put to the Test for Telomeres](https://nutritionfacts.org/video/greens-green-tea-and-nuts-put-to-the-test-for-telomeres/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3Daa18a4504e-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-aa18a4504e-25209481%26mc_cid%3Daa18a4504e%26mc_eid%3Db95641625a) video and transcript** 
+ **[Greens, Green Tea, and Nuts Put to the Test for Telomeres](https://nutritionfacts.org/video/greens-green-tea-and-nuts-put-to-the-test-for-telomeres/?subscriber=true&amp;utm_source=NutritionFacts.org&amp;utm_campaign=aa18a4504e-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&amp;utm_medium=email&amp;utm_term=0_40f9e497d1-aa18a4504e-25209481&amp;mc_cid=aa18a4504e&amp;mc_eid=b95641625a) video and transcript** 
 
 
 

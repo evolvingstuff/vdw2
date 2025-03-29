@@ -60,7 +60,7 @@ Sources of Support
 
 This work was financially supported by the National Natural Science Foundation of China (NSFC) (grant number: 82104692), Natural Science Foundation of Hubei Province (grant number: 2020CFB500), Wuhan Knowledge Innovation Program (grant number: 2022020801020516), Research Projects of the Biomedical Center of Hubei Cancer Hospital and Chinese Society of Clinical Oncology (CSCO) supported by Jiangsu Hengrui Cancer Research Foundation (grant number: Y-HR2019-0325). The content is solely the . . . . 
 
-##### 45 [References online](https://www.sciencedirect.com/science/article/abs/pii/S0271531723000611%3Fvia%3Dihub)
+##### 45 [References online](https://www.sciencedirect.com/science/article/abs/pii/S0271531723000611?via%3Dihub)
 
 ---
 
@@ -141,7 +141,7 @@ Sources of Support
 
 This work was financially supported by the National Natural Science Foundation of China (NSFC) (grant number: 82104692), Natural Science Foundation of Hubei Province (grant number: 2020CFB500), Wuhan Knowledge Innovation Program (grant number: 2022020801020516), Research Projects of the Biomedical Center of Hubei Cancer Hospital and Chinese Society of Clinical Oncology (CSCO) supported by Jiangsu Hengrui Cancer Research Foundation (grant number: Y-HR2019-0325). The content is solely the . . . . 
 
-##### 45 [References online](https://www.sciencedirect.com/science/article/abs/pii/S0271531723000611%3Fvia%3Dihub)
+##### 45 [References online](https://www.sciencedirect.com/science/article/abs/pii/S0271531723000611?via%3Dihub)
 
 ---
 

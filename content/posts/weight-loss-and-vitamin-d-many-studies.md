@@ -41,7 +41,7 @@ This list is automatically updated
 
 #### Half of Americans have some interest in Weight Loss drugs- Aug 2023
 
- **[MD Edge](https://www.mdedge.com/endocrinology/article/264708/obesity/new-weight-loss-drugs-appeal-half-us-adults%3Fecd%3DWNL_EVE_230820_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/endocrinology/article/264708/obesity/new-weight-loss-drugs-appeal-half-us-adults?ecd=WNL_EVE_230820_mdedge)** 
 
 * "A recent survey of more than 1,000 U.S. adults showed that 
 
@@ -101,7 +101,7 @@ This list is automatically updated
 
 #### Half of Americans have some interest in Weight Loss drugs- Aug 2023
 
- **[MD Edge](https://www.mdedge.com/endocrinology/article/264708/obesity/new-weight-loss-drugs-appeal-half-us-adults%3Fecd%3DWNL_EVE_230820_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/endocrinology/article/264708/obesity/new-weight-loss-drugs-appeal-half-us-adults?ecd=WNL_EVE_230820_mdedge)** 
 
 * &quot;A recent survey of more than 1,000 U.S. adults showed that 
 

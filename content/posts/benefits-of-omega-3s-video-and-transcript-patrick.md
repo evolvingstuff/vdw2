@@ -17,7 +17,7 @@ categories:
 
 ### Rhonda Patrick Goes in Depth on the Benefits of Omega-3s
 
- **[YouTube 15 minutes](https://www.youtube.com/watch%3Fv%3DCVI8oKmFSnw%26ab_channel%3DFoundMyFitnessClips)** 
+ **[YouTube 15 minutes](https://www.youtube.com/watch?v=CVI8oKmFSnw&ab_channel=FoundMyFitnessClips)** 
 
 #### Omega-3 is one of the top six preventable causes of death
 
@@ -157,7 +157,7 @@ Markdown:
 
 ### Rhonda Patrick Goes in Depth on the Benefits of Omega-3s
 
- **[YouTube 15 minutes](https://www.youtube.com/watch%3Fv%3DCVI8oKmFSnw%26ab_channel%3DFoundMyFitnessClips)** 
+ **[YouTube 15 minutes](https://www.youtube.com/watch?v=CVI8oKmFSnw&amp;ab_channel=FoundMyFitnessClips)** 
 
 #### Omega-3 is one of the top six preventable causes of death
 

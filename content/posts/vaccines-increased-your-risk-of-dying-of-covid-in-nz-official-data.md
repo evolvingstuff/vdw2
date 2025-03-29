@@ -18,7 +18,7 @@ categories:
 
 #### New Zealand OIA request reveals the COVID vaccines increased your risk of dying - Feb 2024
 
- **[Steve Kirsch substack](https://kirschsubstack.com/p/new-zealand-oia-request-reveals-the%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Steve Kirsch substack](https://kirschsubstack.com/p/new-zealand-oia-request-reveals-the?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
 
 ---
 
@@ -58,7 +58,7 @@ Markdown:
 
 #### New Zealand OIA request reveals the COVID vaccines increased your risk of dying - Feb 2024
 
- **[Steve Kirsch substack](https://kirschsubstack.com/p/new-zealand-oia-request-reveals-the%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Steve Kirsch substack](https://kirschsubstack.com/p/new-zealand-oia-request-reveals-the?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
 
 ---
 

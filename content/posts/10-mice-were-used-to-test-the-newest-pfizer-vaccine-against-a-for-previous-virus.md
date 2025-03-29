@@ -17,7 +17,7 @@ categories:
 
 #### 10 Mice Used to Test the Newest Pfizer COVID Jab
 
- **[Mercola](https://articles.mercola.com/sites/articles/archive/2023/09/26/mice-test-pfizer-covid-vaccine.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1ReadMore%26cid%3D20230926_HL2%26foDate%3Dfalse%26mid%3DDM1469072%26rid%3D1921612013)** 
+ **[Mercola](https://articles.mercola.com/sites/articles/archive/2023/09/26/mice-test-pfizer-covid-vaccine.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1ReadMore&cid=20230926_HL2&foDate=false&mid=DM1469072&rid=1921612013)** 
 
 * "September 11, 2023, the U.S. Food and Drug Administration announced it had approved reformulated monovalent COVID shots by Pfizer and Moderna for the fall for use in individuals 12 years of age and older. The agency has also issued emergency use authorization (EUA) for use of the reformulated jabs in children aged 6 months to 11 years"
 
@@ -95,7 +95,7 @@ Markdown:
 
 #### 10 Mice Used to Test the Newest Pfizer COVID Jab
 
- **[Mercola](https://articles.mercola.com/sites/articles/archive/2023/09/26/mice-test-pfizer-covid-vaccine.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1ReadMore%26cid%3D20230926_HL2%26foDate%3Dfalse%26mid%3DDM1469072%26rid%3D1921612013)** 
+ **[Mercola](https://articles.mercola.com/sites/articles/archive/2023/09/26/mice-test-pfizer-covid-vaccine.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1ReadMore&amp;cid=20230926_HL2&amp;foDate=false&amp;mid=DM1469072&amp;rid=1921612013)** 
 
 * &quot;September 11, 2023, the U.S. Food and Drug Administration announced it had approved reformulated monovalent COVID shots by Pfizer and Moderna for the fall for use in individuals 12 years of age and older. The agency has also issued emergency use authorization (EUA) for use of the reformulated jabs in children aged 6 months to 11 years&quot;
 

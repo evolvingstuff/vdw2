@@ -14,7 +14,7 @@ categories:
 
 #### Why Are the EKGs of Pilots No Longer Normal?
 
- **[Mercola Jan 31, 2023](https://articles.mercola.com/sites/articles/archive/2023/01/31/why-ekgs-pilots-no-longer-normal.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20230131_HL2%26cid%3DDM1337626%26bid%3D1708561325)** 
+ **[Mercola Jan 31, 2023](https://articles.mercola.com/sites/articles/archive/2023/01/31/why-ekgs-pilots-no-longer-normal.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1HL&cid=20230131_HL2&cid=DM1337626&bid=1708561325)** 
 
 * "The Federal Aviation Administration (FAA) requires first-class airline pilots to receive an electrocardiogram (EKG) starting at age 35, and continuing annually after age 40"
 
@@ -43,7 +43,7 @@ Markdown:
 
 #### Why Are the EKGs of Pilots No Longer Normal?
 
- **[Mercola Jan 31, 2023](https://articles.mercola.com/sites/articles/archive/2023/01/31/why-ekgs-pilots-no-longer-normal.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20230131_HL2%26cid%3DDM1337626%26bid%3D1708561325)** 
+ **[Mercola Jan 31, 2023](https://articles.mercola.com/sites/articles/archive/2023/01/31/why-ekgs-pilots-no-longer-normal.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1HL&amp;cid=20230131_HL2&amp;cid=DM1337626&amp;bid=1708561325)** 
 
 * &quot;The Federal Aviation Administration (FAA) requires first-class airline pilots to receive an electrocardiogram (EKG) starting at age 35, and continuing annually after age 40&quot;
 

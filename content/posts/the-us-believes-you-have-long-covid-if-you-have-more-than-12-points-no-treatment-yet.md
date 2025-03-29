@@ -13,7 +13,7 @@ categories:
 
 #### What is long covid? For the first time, a new study defines it - May 2023
 
- **[Washington Post $$](https://www.washingtonpost.com/wellness/2023/05/25/long-covid-symptoms-recover-study/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a1da9b%2F646f95e249fef7411deefcb0%2F596bdb5f9bbc0f403f990f33%2F42%2F72%2F646f95e249fef7411deefcb0)** 
+ **[Washington Post $$](https://www.washingtonpost.com/wellness/2023/05/25/long-covid-symptoms-recover-study/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a1da9b%2F646f95e249fef7411deefcb0%2F596bdb5f9bbc0f403f990f33%2F42%2F72%2F646f95e249fef7411deefcb0)** 
 
  **Development of a Definition of Postacute Sequelae of SARS-CoV-2 Infection - JAMA** 
 
@@ -60,7 +60,7 @@ Markdown:
 
 #### What is long covid? For the first time, a new study defines it - May 2023
 
- **[Washington Post $$](https://www.washingtonpost.com/wellness/2023/05/25/long-covid-symptoms-recover-study/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a1da9b%2F646f95e249fef7411deefcb0%2F596bdb5f9bbc0f403f990f33%2F42%2F72%2F646f95e249fef7411deefcb0)** 
+ **[Washington Post $$](https://www.washingtonpost.com/wellness/2023/05/25/long-covid-symptoms-recover-study/?utm_campaign=wp_post_most&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_most&amp;carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a1da9b%2F646f95e249fef7411deefcb0%2F596bdb5f9bbc0f403f990f33%2F42%2F72%2F646f95e249fef7411deefcb0)** 
 
  **Development of a Definition of Postacute Sequelae of SARS-CoV-2 Infection - JAMA** 
 

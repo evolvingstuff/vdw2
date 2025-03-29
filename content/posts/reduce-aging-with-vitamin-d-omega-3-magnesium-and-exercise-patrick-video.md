@@ -24,43 +24,43 @@ categories:
 
 #### How Micronutrients & Exercise Ameliorate Aging - Dr. Rhonda Patrick
 
- **[YouTube - 45 minutes](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26ab_channel%3DFoundMyFitness)** 
+ **[YouTube - 45 minutes](https://www.youtube.com/watch?v=uGNLrWxsTiw&ab_channel=FoundMyFitness)** 
 
-([01:38](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D98s)) Vitamin D
+([01:38](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=98s)) Vitamin D
 
-([05:58](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D358s)) How vitamin D deficiency affects mortality risk
+([05:58](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=358s)) How vitamin D deficiency affects mortality risk
 
-([09:24](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D564s)) Optimal vitamin D levels & supplementation
+([09:24](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=564s)) Optimal vitamin D levels & supplementation
 
-([11:10](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D670s)) Why magnesium deficiency impairs DNA damage repair
+([11:10](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=670s)) Why magnesium deficiency impairs DNA damage repair
 
-([14:50](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D890s)) Dangers of inadequate omega-3 intake
+([14:50](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=890s)) Dangers of inadequate omega-3 intake
 
-([17:07](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1027s)) The correct omega-3 index level
+([17:07](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1027s)) The correct omega-3 index level
 
-([21:32](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1292s)) How to correct vitamin D, omega-3, & magnesium inadequacies
+([21:32](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1292s)) How to correct vitamin D, omega-3, & magnesium inadequacies
 
-([23:17](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1397s)) Vigorous exercise is the best longevity drug
+([23:17](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1397s)) Vigorous exercise is the best longevity drug
 
-([24:50](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1490s)) How increasing VO2 max affects life expectancy
+([24:50](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1490s)) How increasing VO2 max affects life expectancy
 
-([29:36](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1776s)) Protocols for increasing VO2 max
+([29:36](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1776s)) Protocols for increasing VO2 max
 
-([32:27](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1947s)) How to measure VO2 max
+([32:27](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=1947s)) How to measure VO2 max
 
-([33:34](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2014s)) What it takes to reverse 20 years of heart aging
+([33:34](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2014s)) What it takes to reverse 20 years of heart aging
 
-([36:31](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2191s)) Blood pressure benefits of vigorous exercise
+([36:31](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2191s)) Blood pressure benefits of vigorous exercise
 
-([37:48](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2268s)) The BDNF brain benefits of vigorous exercise
+([37:48](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2268s)) The BDNF brain benefits of vigorous exercise
 
-([40:58](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2458s)) How vigorous exercise improves focus & attention
+([40:58](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2458s)) How vigorous exercise improves focus & attention
 
-([42:11](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2531s)) Exercise protocols for maximizing BDNF
+([42:11](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2531s)) Exercise protocols for maximizing BDNF
 
-([43:13](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2593s)) Anti-cancer effects of vigorous exercise
+([43:13](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2593s)) Anti-cancer effects of vigorous exercise
 
-([45:30](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2730s)) Exercise snacks 
+([45:30](https://www.youtube.com/watch?v=uGNLrWxsTiw&t=2730s)) Exercise snacks 
 
 ---
 
@@ -133,43 +133,43 @@ Markdown:
 
 #### How Micronutrients &amp; Exercise Ameliorate Aging - Dr. Rhonda Patrick
 
- **[YouTube - 45 minutes](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26ab_channel%3DFoundMyFitness)** 
+ **[YouTube - 45 minutes](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;ab_channel=FoundMyFitness)** 
 
-([01:38](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D98s)) Vitamin D
+([01:38](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=98s)) Vitamin D
 
-([05:58](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D358s)) How vitamin D deficiency affects mortality risk
+([05:58](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=358s)) How vitamin D deficiency affects mortality risk
 
-([09:24](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D564s)) Optimal vitamin D levels &amp; supplementation
+([09:24](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=564s)) Optimal vitamin D levels &amp; supplementation
 
-([11:10](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D670s)) Why magnesium deficiency impairs DNA damage repair
+([11:10](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=670s)) Why magnesium deficiency impairs DNA damage repair
 
-([14:50](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D890s)) Dangers of inadequate omega-3 intake
+([14:50](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=890s)) Dangers of inadequate omega-3 intake
 
-([17:07](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1027s)) The correct omega-3 index level
+([17:07](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1027s)) The correct omega-3 index level
 
-([21:32](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1292s)) How to correct vitamin D, omega-3, &amp; magnesium inadequacies
+([21:32](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1292s)) How to correct vitamin D, omega-3, &amp; magnesium inadequacies
 
-([23:17](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1397s)) Vigorous exercise is the best longevity drug
+([23:17](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1397s)) Vigorous exercise is the best longevity drug
 
-([24:50](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1490s)) How increasing VO2 max affects life expectancy
+([24:50](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1490s)) How increasing VO2 max affects life expectancy
 
-([29:36](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1776s)) Protocols for increasing VO2 max
+([29:36](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1776s)) Protocols for increasing VO2 max
 
-([32:27](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D1947s)) How to measure VO2 max
+([32:27](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=1947s)) How to measure VO2 max
 
-([33:34](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2014s)) What it takes to reverse 20 years of heart aging
+([33:34](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2014s)) What it takes to reverse 20 years of heart aging
 
-([36:31](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2191s)) Blood pressure benefits of vigorous exercise
+([36:31](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2191s)) Blood pressure benefits of vigorous exercise
 
-([37:48](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2268s)) The BDNF brain benefits of vigorous exercise
+([37:48](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2268s)) The BDNF brain benefits of vigorous exercise
 
-([40:58](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2458s)) How vigorous exercise improves focus &amp; attention
+([40:58](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2458s)) How vigorous exercise improves focus &amp; attention
 
-([42:11](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2531s)) Exercise protocols for maximizing BDNF
+([42:11](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2531s)) Exercise protocols for maximizing BDNF
 
-([43:13](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2593s)) Anti-cancer effects of vigorous exercise
+([43:13](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2593s)) Anti-cancer effects of vigorous exercise
 
-([45:30](https://www.youtube.com/watch%3Fv%3DuGNLrWxsTiw%26t%3D2730s)) Exercise snacks 
+([45:30](https://www.youtube.com/watch?v=uGNLrWxsTiw&amp;t=2730s)) Exercise snacks 
 
 ---
 

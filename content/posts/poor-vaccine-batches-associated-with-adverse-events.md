@@ -130,7 +130,7 @@ This list is automatically updated
 
 #### 22,000 studies describe the problems of not aspirating while vaccinating
 
- **[Google Scholar - April 2023](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Daspirate%2Bvaccine%2Bcovid)** 
+ **[Google Scholar - April 2023](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=aspirate+vaccine+covid)** 
 
 * To aspirate or not to aspirate? Considerations for the COVID-19 vaccines - Mar 2022 [FREE PDF](https://doi.org/10.1007/s43440-022-00361-4)
 
@@ -273,7 +273,7 @@ This list is automatically updated
 
 #### 22,000 studies describe the problems of not aspirating while vaccinating
 
- **[Google Scholar - April 2023](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Daspirate%2Bvaccine%2Bcovid)** 
+ **[Google Scholar - April 2023](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=aspirate+vaccine+covid)** 
 
 * To aspirate or not to aspirate? Considerations for the COVID-19 vaccines - Mar 2022 [FREE PDF](https://doi.org/10.1007/s43440-022-00361-4)
 

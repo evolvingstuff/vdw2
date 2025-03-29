@@ -18,7 +18,7 @@ categories:
 
 #### Canada Reports 300% Increase in ‘Unspecified Causes’ of Death, Sparking Calls for Investigation
 
- **[Children's Health Defense](https://childrenshealthdefense.org/defender/canada-300-percent-increase-unspecified-cause-death/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231213)** 
+ **[Children's Health Defense](https://childrenshealthdefense.org/defender/canada-300-percent-increase-unspecified-cause-death/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20231213)** 
 
  **Leading Causes of Canadian Death in 2022** 
 
@@ -38,9 +38,9 @@ categories:
 
 * “More people died of COVID-19 in 2022 than in any other year since the pandemic began, report says.”
 
-* “Since the roll-out of the COVID-19 vaccines, we have witnessed unprecedented deaths without antecedent disease. A large autopsy series published by [Hulscher et al](https://papers.ssrn.com/sol3/papers.cfm%3Fabstract_id%3D4496137), found that 73.9% of the deaths after COVID-19 vaccination were due to problems caused by the shots.” -(not Canadian statistics)
+* “Since the roll-out of the COVID-19 vaccines, we have witnessed unprecedented deaths without antecedent disease. A large autopsy series published by [Hulscher et al](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496137), found that 73.9% of the deaths after COVID-19 vaccination were due to problems caused by the shots.” -(not Canadian statistics)
 
-* "The FDA and mainstream media are ignoring the fact that life insurers have been “sounding the alarm over these unexpected or, ‘excess,’ deaths, which claimed [158,000 more Americans](https://stats.oecd.org/index.aspx%3Fqueryid%3D104676) in the first nine months of 2023 than in the same period in 2019,” Kory wrote."
+* "The FDA and mainstream media are ignoring the fact that life insurers have been “sounding the alarm over these unexpected or, ‘excess,’ deaths, which claimed [158,000 more Americans](https://stats.oecd.org/index.aspx?queryid=104676) in the first nine months of 2023 than in the same period in 2019,” Kory wrote."
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 
@@ -81,7 +81,7 @@ Markdown:
 
 #### Canada Reports 300% Increase in ‘Unspecified Causes’ of Death, Sparking Calls for Investigation
 
- **[Children&#39;s Health Defense](https://childrenshealthdefense.org/defender/canada-300-percent-increase-unspecified-cause-death/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231213)** 
+ **[Children&#39;s Health Defense](https://childrenshealthdefense.org/defender/canada-300-percent-increase-unspecified-cause-death/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20231213)** 
 
  **Leading Causes of Canadian Death in 2022** 
 
@@ -101,9 +101,9 @@ Markdown:
 
 * “More people died of COVID-19 in 2022 than in any other year since the pandemic began, report says.”
 
-* “Since the roll-out of the COVID-19 vaccines, we have witnessed unprecedented deaths without antecedent disease. A large autopsy series published by [Hulscher et al](https://papers.ssrn.com/sol3/papers.cfm%3Fabstract_id%3D4496137), found that 73.9% of the deaths after COVID-19 vaccination were due to problems caused by the shots.” -(not Canadian statistics)
+* “Since the roll-out of the COVID-19 vaccines, we have witnessed unprecedented deaths without antecedent disease. A large autopsy series published by [Hulscher et al](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496137), found that 73.9% of the deaths after COVID-19 vaccination were due to problems caused by the shots.” -(not Canadian statistics)
 
-* &quot;The FDA and mainstream media are ignoring the fact that life insurers have been “sounding the alarm over these unexpected or, ‘excess,’ deaths, which claimed [158,000 more Americans](https://stats.oecd.org/index.aspx%3Fqueryid%3D104676) in the first nine months of 2023 than in the same period in 2019,” Kory wrote.&quot;
+* &quot;The FDA and mainstream media are ignoring the fact that life insurers have been “sounding the alarm over these unexpected or, ‘excess,’ deaths, which claimed [158,000 more Americans](https://stats.oecd.org/index.aspx?queryid=104676) in the first nine months of 2023 than in the same period in 2019,” Kory wrote.&quot;
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 

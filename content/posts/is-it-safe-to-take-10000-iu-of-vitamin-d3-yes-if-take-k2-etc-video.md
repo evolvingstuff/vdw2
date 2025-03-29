@@ -17,7 +17,7 @@ categories:
 
 #### Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains
 
- **[YouTube 9 minutes](https://www.youtube.com/watch%3Fv%3DuAfVC4l5uZ0%26ab_channel%3DDr.EricBergDC)** 
+ **[YouTube 9 minutes](https://www.youtube.com/watch?v=uAfVC4l5uZ0&ab_channel=Dr.EricBergDC)** 
 
 The video references a chart made by VitaminDWiki
 
@@ -52,7 +52,7 @@ Markdown:
 
 #### Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains
 
- **[YouTube 9 minutes](https://www.youtube.com/watch%3Fv%3DuAfVC4l5uZ0%26ab_channel%3DDr.EricBergDC)** 
+ **[YouTube 9 minutes](https://www.youtube.com/watch?v=uAfVC4l5uZ0&amp;ab_channel=Dr.EricBergDC)** 
 
 The video references a chart made by VitaminDWiki
 

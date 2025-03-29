@@ -17,7 +17,7 @@ categories:
 
 #### Association Between CYP24A1 Polymorphisms and Bladder Cancer Risk in the Chinese Han Population
 
-Biochemical Genetics https://doi.org/10.1007/s10528-024-10771-z PDF behind paywall and at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/association-between-cyp24a1-polymorphisms-and-bladder-cancer-risk-in-rm0TdZUvXT%3Fkey%3Dspringer)
+Biochemical Genetics https://doi.org/10.1007/s10528-024-10771-z PDF behind paywall and at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/association-between-cyp24a1-polymorphisms-and-bladder-cancer-risk-in-rm0TdZUvXT?key=springer)
 
 Tianyi Zhang, Baoping Hu, Shilin Xu, Yuhe Wang, Hengxun Zhang, Xuemei Li, Xuguang Li, Tianbo Jin & Yongjun He 
 
@@ -56,7 +56,7 @@ Markdown:
 
 #### Association Between CYP24A1 Polymorphisms and Bladder Cancer Risk in the Chinese Han Population
 
-Biochemical Genetics https://doi.org/10.1007/s10528-024-10771-z PDF behind paywall and at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/association-between-cyp24a1-polymorphisms-and-bladder-cancer-risk-in-rm0TdZUvXT%3Fkey%3Dspringer)
+Biochemical Genetics https://doi.org/10.1007/s10528-024-10771-z PDF behind paywall and at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/association-between-cyp24a1-polymorphisms-and-bladder-cancer-risk-in-rm0TdZUvXT?key=springer)
 
 Tianyi Zhang, Baoping Hu, Shilin Xu, Yuhe Wang, Hengxun Zhang, Xuemei Li, Xuguang Li, Tianbo Jin &amp; Yongjun He 
 

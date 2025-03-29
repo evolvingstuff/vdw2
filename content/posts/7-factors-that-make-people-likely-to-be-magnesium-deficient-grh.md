@@ -10,13 +10,13 @@ categories:
 ---
 
 
- **[Grassrootshealth](https://myemail.constantcontact.com/7-Factors-that-Make-People-Likely-to-be-Magnesium-Deficient.html%3Fsoid%3D1102722411090%26aid%3D7cKxiQzWiuI)** 
+ **[Grassrootshealth](https://myemail.constantcontact.com/7-Factors-that-Make-People-Likely-to-be-Magnesium-Deficient.html?soid=1102722411090&aid=7cKxiQzWiuI)** 
 
 <!-- {maketoc Title=""} -->
 
 ---
 
-#### 7 factors from [video](https://youtu.be/n1i_kceDSis%3Fsi%3DAkjvoYna7xk9OPVg)
+#### 7 factors from [video](https://youtu.be/n1i_kceDSis?si=AkjvoYna7xk9OPVg)
 
  **1. Dietary factors** 
 
@@ -85,13 +85,13 @@ Malabsorption due to gastrointestinal disorders, such as Chrohn’s disease, ulc
 <code class="language-text">
 Markdown:
 --------
- **[Grassrootshealth](https://myemail.constantcontact.com/7-Factors-that-Make-People-Likely-to-be-Magnesium-Deficient.html%3Fsoid%3D1102722411090%26aid%3D7cKxiQzWiuI)** 
+ **[Grassrootshealth](https://myemail.constantcontact.com/7-Factors-that-Make-People-Likely-to-be-Magnesium-Deficient.html?soid=1102722411090&amp;aid=7cKxiQzWiuI)** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
 ---
 
-#### 7 factors from [video](https://youtu.be/n1i_kceDSis%3Fsi%3DAkjvoYna7xk9OPVg)
+#### 7 factors from [video](https://youtu.be/n1i_kceDSis?si=AkjvoYna7xk9OPVg)
 
  **1. Dietary factors** 
 

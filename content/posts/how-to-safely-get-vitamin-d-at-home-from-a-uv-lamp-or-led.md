@@ -37,7 +37,7 @@ categories:
 
 ---
 
-#### UVB LED - [Amazon](https://www.amazon.com/gp/product/B09TQXXLMY/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26th%3D1) $18
+#### UVB LED - [Amazon](https://www.amazon.com/gp/product/B09TQXXLMY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) $18
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -75,7 +75,7 @@ Markdown:
 
 ---
 
-#### UVB LED - [Amazon](https://www.amazon.com/gp/product/B09TQXXLMY/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26th%3D1) $18
+#### UVB LED - [Amazon](https://www.amazon.com/gp/product/B09TQXXLMY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1) $18
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 

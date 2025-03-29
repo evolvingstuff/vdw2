@@ -47,7 +47,7 @@ Conclusions: Vitamin D deficiency and VDR Fok I polymorphism may constitute inde
 
 #### VitaminDWiki has  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
-</span> studies which are in <span>[tiki-index.php?page_id=14371]</span>
+</span> studies which are in <a href="/posts/both-vdr-and-virus-categories" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14371">both VDR and Virus categories</a>
 
 ---
 
@@ -99,7 +99,7 @@ Conclusions: Vitamin D deficiency and VDR Fok I polymorphism may constitute inde
 
 #### VitaminDWiki has  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 155  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
-&lt;/span&gt; studies which are in &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt;
+&lt;/span&gt; studies which are in &lt;a href=&quot;/posts/both-vdr-and-virus-categories&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14371&quot;&gt;both VDR and Virus categories&lt;/a&gt;
 
 ---
 

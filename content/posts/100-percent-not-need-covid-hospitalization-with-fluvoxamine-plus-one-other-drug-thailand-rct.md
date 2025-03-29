@@ -112,13 +112,13 @@ This list is automatically updated
 
 ---
 
-##### Very comprehensive description of this study [by Robin on Substack](https://nutritionmatters.substack.com/p/early-treatment-with-uvoxamine-bromhexine%3Futm_source%3Dpost-email-title%26publication_id%3D434572%26post_id%3D142683278%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail)
+##### Very comprehensive description of this study [by Robin on Substack](https://nutritionmatters.substack.com/p/early-treatment-with-uvoxamine-bromhexine?utm_source=post-email-title&publication_id=434572&post_id=142683278&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&triedRedirect=true&utm_medium=email)
 
 ---
 
 ##### Note: FDA refused Emergency Use of  fluvoxamine in early 2021:  "benefits didn’t outweigh the risks"
 
- **[Steve Kirsch Substack](https://kirschsubstack.com/p/new-thailand-randomized-clinical%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) March 2024** 
+ **[Steve Kirsch Substack](https://kirschsubstack.com/p/new-thailand-randomized-clinical?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email) March 2024** 
 
 <!-- ~tc~ (alias(!00% not need COVID hospitalization with fluvoxamine plus one other drug – Thailand RCT April 2024)) ~/tc~ -->
 
@@ -229,13 +229,13 @@ This list is automatically updated
 
 ---
 
-##### Very comprehensive description of this study [by Robin on Substack](https://nutritionmatters.substack.com/p/early-treatment-with-uvoxamine-bromhexine%3Futm_source%3Dpost-email-title%26publication_id%3D434572%26post_id%3D142683278%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail)
+##### Very comprehensive description of this study [by Robin on Substack](https://nutritionmatters.substack.com/p/early-treatment-with-uvoxamine-bromhexine?utm_source=post-email-title&amp;publication_id=434572&amp;post_id=142683278&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email)
 
 ---
 
 ##### Note: FDA refused Emergency Use of  fluvoxamine in early 2021:  &quot;benefits didn’t outweigh the risks&quot;
 
- **[Steve Kirsch Substack](https://kirschsubstack.com/p/new-thailand-randomized-clinical%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) March 2024** 
+ **[Steve Kirsch Substack](https://kirschsubstack.com/p/new-thailand-randomized-clinical?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email) March 2024** 
 
 &lt;!-- ~tc~ (alias(!00% not need COVID hospitalization with fluvoxamine plus one other drug – Thailand RCT April 2024)) ~/tc~ --&gt;
 

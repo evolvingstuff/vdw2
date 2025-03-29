@@ -18,7 +18,7 @@ categories:
 
 #### Peter Attia's Longevity Book Outlive: The BEST or WORST longevity book?
 
- **[YouTube 35 minutes](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26ab_channel%3DPlantChompers)** 
+ **[YouTube 35 minutes](https://www.youtube.com/watch?v=VWeg3l3RBIM&ab_channel=PlantChompers)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -52,31 +52,31 @@ categories:
 
 ##### Video index
 
-[0:00](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D0s) My book problem
+[0:00](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=0s) My book problem
 
-[2:26](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D146s) Muscle loss
+[2:26](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=146s) Muscle loss
 
-[3:19](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D199s) Why this review
+[3:19](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=199s) Why this review
 
-[4:32](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D272s) Exercise
+[4:32](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=272s) Exercise
 
-[7:09](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D429s) Strength
+[7:09](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=429s) Strength
 
-[9:24](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D564s) Centenarian decathlon
+[9:24](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=564s) Centenarian decathlon
 
-[11:08](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D668s) Diet
+[11:08](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=668s) Diet
 
-[17:26](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1046s) Epidemiology
+[17:26](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1046s) Epidemiology
 
-[23:37](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1417s) Ketogenic diet
+[23:37](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1417s) Ketogenic diet
 
-[24:47](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1487s) High protein diet
+[24:47](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1487s) High protein diet
 
-[27:22](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1642s) Salt and blood pressure
+[27:22](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1642s) Salt and blood pressure
 
-[31:02](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1862s) Excess protein
+[31:02](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1862s) Excess protein
 
-[32:46](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1966s) My opinion of Outlive
+[32:46](https://www.youtube.com/watch?v=VWeg3l3RBIM&t=1966s) My opinion of Outlive
 
 ---
 
@@ -146,7 +146,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
- **Includes interview by the creater of the video: [80 minute](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26ab_channel%3DPlantChompers)** 
+ **Includes interview by the creater of the video: [80 minute](https://www.youtube.com/watch?v=Xc6cYyL3CxM&ab_channel=PlantChompers)** 
 
 <!-- ~tc~ (alias(16 Longevity books compared - 35 minute video Dec 2023)) ~/tc~ -->
 
@@ -162,7 +162,7 @@ Markdown:
 
 #### Peter Attia&#39;s Longevity Book Outlive: The BEST or WORST longevity book?
 
- **[YouTube 35 minutes](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26ab_channel%3DPlantChompers)** 
+ **[YouTube 35 minutes](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;ab_channel=PlantChompers)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -196,31 +196,31 @@ Markdown:
 
 ##### Video index
 
-[0:00](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D0s) My book problem
+[0:00](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=0s) My book problem
 
-[2:26](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D146s) Muscle loss
+[2:26](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=146s) Muscle loss
 
-[3:19](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D199s) Why this review
+[3:19](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=199s) Why this review
 
-[4:32](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D272s) Exercise
+[4:32](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=272s) Exercise
 
-[7:09](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D429s) Strength
+[7:09](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=429s) Strength
 
-[9:24](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D564s) Centenarian decathlon
+[9:24](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=564s) Centenarian decathlon
 
-[11:08](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D668s) Diet
+[11:08](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=668s) Diet
 
-[17:26](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1046s) Epidemiology
+[17:26](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1046s) Epidemiology
 
-[23:37](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1417s) Ketogenic diet
+[23:37](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1417s) Ketogenic diet
 
-[24:47](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1487s) High protein diet
+[24:47](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1487s) High protein diet
 
-[27:22](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1642s) Salt and blood pressure
+[27:22](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1642s) Salt and blood pressure
 
-[31:02](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1862s) Excess protein
+[31:02](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1862s) Excess protein
 
-[32:46](https://www.youtube.com/watch%3Fv%3DVWeg3l3RBIM%26t%3D1966s) My opinion of Outlive
+[32:46](https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;t=1966s) My opinion of Outlive
 
 ---
 
@@ -290,7 +290,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
- **Includes interview by the creater of the video: [80 minute](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26ab_channel%3DPlantChompers)** 
+ **Includes interview by the creater of the video: [80 minute](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;ab_channel=PlantChompers)** 
 
 &lt;!-- ~tc~ (alias(16 Longevity books compared - 35 minute video Dec 2023)) ~/tc~ --&gt;
 

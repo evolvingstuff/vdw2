@@ -17,7 +17,7 @@ categories:
 
 #### For Flavonoid Benefits, Don’t Peel Apples - Dr. Greger July 2023
 
- **[For Flavonoid Benefits, Don’t Peel Apples](https://nutritionfacts.org/video/friday-favorites-for-flavonoid-benefits-dont-peel-apples/%3Futm_source%3DNutritionFacts.org%26utm_campaign%3D546bbf04fb-RSS_VIDEO_MONTHLY%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-546bbf04fb-25209481%26mc_cid%3D546bbf04fb%26mc_eid%3Db95641625a) YouTube** 
+ **[For Flavonoid Benefits, Don’t Peel Apples](https://nutritionfacts.org/video/friday-favorites-for-flavonoid-benefits-dont-peel-apples/?utm_source=NutritionFacts.org&utm_campaign=546bbf04fb-RSS_VIDEO_MONTHLY&utm_medium=email&utm_term=0_40f9e497d1-546bbf04fb-25209481&mc_cid=546bbf04fb&mc_eid=b95641625a) YouTube** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -117,7 +117,7 @@ Markdown:
 
 #### For Flavonoid Benefits, Don’t Peel Apples - Dr. Greger July 2023
 
- **[For Flavonoid Benefits, Don’t Peel Apples](https://nutritionfacts.org/video/friday-favorites-for-flavonoid-benefits-dont-peel-apples/%3Futm_source%3DNutritionFacts.org%26utm_campaign%3D546bbf04fb-RSS_VIDEO_MONTHLY%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-546bbf04fb-25209481%26mc_cid%3D546bbf04fb%26mc_eid%3Db95641625a) YouTube** 
+ **[For Flavonoid Benefits, Don’t Peel Apples](https://nutritionfacts.org/video/friday-favorites-for-flavonoid-benefits-dont-peel-apples/?utm_source=NutritionFacts.org&amp;utm_campaign=546bbf04fb-RSS_VIDEO_MONTHLY&amp;utm_medium=email&amp;utm_term=0_40f9e497d1-546bbf04fb-25209481&amp;mc_cid=546bbf04fb&amp;mc_eid=b95641625a) YouTube** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 

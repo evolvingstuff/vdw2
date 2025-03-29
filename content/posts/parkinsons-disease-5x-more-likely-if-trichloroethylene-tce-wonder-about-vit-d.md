@@ -65,7 +65,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 #### Review of study includes other research by Dr. Dorsey, principal author - March 2023
 
- **[What’s driving the "world’s fastest-growing brain disease"? MDEdge](https://www.mdedge.com/internalmedicine/article/261866/neurology/whats-driving-worlds-fastest-growing-brain-disease%3Fecd%3DWNL_MDIQFFF_230324_mdedge)** 
+ **[What’s driving the "world’s fastest-growing brain disease"? MDEdge](https://www.mdedge.com/internalmedicine/article/261866/neurology/whats-driving-worlds-fastest-growing-brain-disease?ecd=WNL_MDIQFFF_230324_mdedge)** 
 
 * "He noted that the rapid increase in PD incidence cannot be explained by genetic factors alone, which affect only about 15% of patients with PD, nor can it be explained by aging alone. “Certain pesticides ... are likely causes but would not explain the high prevalence of PD in urban areas, as is the case in the U.S.” Rather, “other factors” are involved, and “TCE is likely one such factor.”"
 
@@ -148,7 +148,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 #### Review of study includes other research by Dr. Dorsey, principal author - March 2023
 
- **[What’s driving the &quot;world’s fastest-growing brain disease&quot;? MDEdge](https://www.mdedge.com/internalmedicine/article/261866/neurology/whats-driving-worlds-fastest-growing-brain-disease%3Fecd%3DWNL_MDIQFFF_230324_mdedge)** 
+ **[What’s driving the &quot;world’s fastest-growing brain disease&quot;? MDEdge](https://www.mdedge.com/internalmedicine/article/261866/neurology/whats-driving-worlds-fastest-growing-brain-disease?ecd=WNL_MDIQFFF_230324_mdedge)** 
 
 * &quot;He noted that the rapid increase in PD incidence cannot be explained by genetic factors alone, which affect only about 15% of patients with PD, nor can it be explained by aging alone. “Certain pesticides ... are likely causes but would not explain the high prevalence of PD in urban areas, as is the case in the U.S.” Rather, “other factors” are involved, and “TCE is likely one such factor.”&quot;
 

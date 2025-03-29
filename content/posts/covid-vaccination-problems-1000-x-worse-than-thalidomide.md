@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### [Substack Dec 2023](https://phillipaltman.substack.com/p/pm-albanese-delivers-national-apology%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139355409%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+#### [Substack Dec 2023](https://phillipaltman.substack.com/p/pm-albanese-delivers-national-apology?utm_source=post-email-title&publication_id=1301027&post_id=139355409&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&utm_medium=email)
 
 * "It appeared to be a heartfelt apology….well delivered….but presented by a politician so ignorant and ill-informed that he cannot see a pharmaceutical catastrophe a  **thousand times greater**  unfolding before his very eyes right now."
 
@@ -57,7 +57,7 @@ Markdown:
 
 ---
 
-#### [Substack Dec 2023](https://phillipaltman.substack.com/p/pm-albanese-delivers-national-apology%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139355409%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+#### [Substack Dec 2023](https://phillipaltman.substack.com/p/pm-albanese-delivers-national-apology?utm_source=post-email-title&amp;publication_id=1301027&amp;post_id=139355409&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;utm_medium=email)
 
 * &quot;It appeared to be a heartfelt apology….well delivered….but presented by a politician so ignorant and ill-informed that he cannot see a pharmaceutical catastrophe a  **thousand times greater**  unfolding before his very eyes right now.&quot;
 

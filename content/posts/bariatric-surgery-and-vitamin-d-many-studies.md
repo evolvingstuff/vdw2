@@ -127,7 +127,7 @@ Vitamin D status affects the clinical and corporal outcomes of postoperative pat
 
 doi:10.1001/jamasurg.2023.5809  PDF is behind a paywall
 
-Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesity/does-bariatric-surgery-increase-or-decrease-cancer-risk-it%3Fecd%3DWNL_EVE_240303_mdedge)
+Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesity/does-bariatric-surgery-increase-or-decrease-cancer-risk-it?ecd=WNL_EVE_240303_mdedge)
 
  **Decreased Breast Cancer (vs those who remained obese)** 
 
@@ -137,7 +137,7 @@ Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesi
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-Study can be viewed on [from DeepDyve](https://www.deepdyve.com/lp/american-medical-association/bariatric-surgery-and-longitudinal-cancer-risk-DF6Ba5bVVT%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Bariatric%2BSurgery%2Band%2BLongitudinal%2BCancer%2BRisk%2522)  You can try their excellent system for free for a few weeks.
+Study can be viewed on [from DeepDyve](https://www.deepdyve.com/lp/american-medical-association/bariatric-surgery-and-longitudinal-cancer-risk-DF6Ba5bVVT?articleList=%2Fsearch%3Fquery%3D%2522Bariatric%2BSurgery%2Band%2BLongitudinal%2BCancer%2BRisk%2522)  You can try their excellent system for free for a few weeks.
 
 
 
@@ -262,7 +262,7 @@ Vitamin D status affects the clinical and corporal outcomes of postoperative pat
 
 doi:10.1001/jamasurg.2023.5809  PDF is behind a paywall
 
-Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesity/does-bariatric-surgery-increase-or-decrease-cancer-risk-it%3Fecd%3DWNL_EVE_240303_mdedge)
+Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesity/does-bariatric-surgery-increase-or-decrease-cancer-risk-it?ecd=WNL_EVE_240303_mdedge)
 
  **Decreased Breast Cancer (vs those who remained obese)** 
 
@@ -272,7 +272,7 @@ Discussed at [MD Edge](https://www.mdedge.com/endocrinology/article/268000/obesi
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-Study can be viewed on [from DeepDyve](https://www.deepdyve.com/lp/american-medical-association/bariatric-surgery-and-longitudinal-cancer-risk-DF6Ba5bVVT%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Bariatric%2BSurgery%2Band%2BLongitudinal%2BCancer%2BRisk%2522)  You can try their excellent system for free for a few weeks.
+Study can be viewed on [from DeepDyve](https://www.deepdyve.com/lp/american-medical-association/bariatric-surgery-and-longitudinal-cancer-risk-DF6Ba5bVVT?articleList=%2Fsearch%3Fquery%3D%2522Bariatric%2BSurgery%2Band%2BLongitudinal%2BCancer%2BRisk%2522)  You can try their excellent system for free for a few weeks.
 
 
 

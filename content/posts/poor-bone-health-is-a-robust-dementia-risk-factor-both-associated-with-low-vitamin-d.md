@@ -11,7 +11,7 @@ categories:
 
 
 
-#### Poor bone health is a ‘robust’ dementia risk factor [MDEdge](https://www.mdedge.com/neurology/article/262036/alzheimers-cognition/poor-bone-health-robust-dementia-risk-factor%3Fecd%3DWNL_MDIQFFF_230331_mdedge)
+#### Poor bone health is a ‘robust’ dementia risk factor [MDEdge](https://www.mdedge.com/neurology/article/262036/alzheimers-cognition/poor-bone-health-robust-dementia-risk-factor?ecd=WNL_MDIQFFF_230331_mdedge)
 
 * "After adjusting for relevant factors, adults with the lowest versus highest BMD at the femoral neck were 42% more likely to develop dementia over roughly 10 years."
 
@@ -30,7 +30,7 @@ categories:
 Markdown:
 --------
 
-#### Poor bone health is a ‘robust’ dementia risk factor [MDEdge](https://www.mdedge.com/neurology/article/262036/alzheimers-cognition/poor-bone-health-robust-dementia-risk-factor%3Fecd%3DWNL_MDIQFFF_230331_mdedge)
+#### Poor bone health is a ‘robust’ dementia risk factor [MDEdge](https://www.mdedge.com/neurology/article/262036/alzheimers-cognition/poor-bone-health-robust-dementia-risk-factor?ecd=WNL_MDIQFFF_230331_mdedge)
 
 * &quot;After adjusting for relevant factors, adults with the lowest versus highest BMD at the femoral neck were 42% more likely to develop dementia over roughly 10 years.&quot;
 

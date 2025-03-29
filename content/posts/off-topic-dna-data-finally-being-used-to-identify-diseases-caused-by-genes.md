@@ -19,7 +19,7 @@ categories:
 
 #### New AI tool searches genetic haystacks to find disease-causing variants
 
- **[Washington Post $$](https://www.washingtonpost.com/science/2023/06/01/primate-ai-genome-variants/%3Futm_campaign%3Dwp_the_optimist%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_optimist%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a2e1f3%2F647c8b64e49da13a6d45e983%2F596bdb5f9bbc0f403f990f33%2F28%2F44%2F647c8b64e49da13a6d45e983)** 
+ **[Washington Post $$](https://www.washingtonpost.com/science/2023/06/01/primate-ai-genome-variants/?utm_campaign=wp_the_optimist&utm_medium=email&utm_source=newsletter&wpisrc=nl_optimist&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a2e1f3%2F647c8b64e49da13a6d45e983%2F596bdb5f9bbc0f403f990f33%2F28%2F44%2F647c8b64e49da13a6d45e983)** 
 
 * "The scientists built the algorithm, called PrimateAI-3D, using the genetic blueprints of 233 different primate species. This base brings into sharp relief the variants that can be tolerated by primates, including humans, and those that prove deadly. Scientists look for places where the sequence is the same from one primate to another, a clear sign that any change is disastrous."
 
@@ -76,7 +76,7 @@ Markdown:
 
 #### New AI tool searches genetic haystacks to find disease-causing variants
 
- **[Washington Post $$](https://www.washingtonpost.com/science/2023/06/01/primate-ai-genome-variants/%3Futm_campaign%3Dwp_the_optimist%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_optimist%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a2e1f3%2F647c8b64e49da13a6d45e983%2F596bdb5f9bbc0f403f990f33%2F28%2F44%2F647c8b64e49da13a6d45e983)** 
+ **[Washington Post $$](https://www.washingtonpost.com/science/2023/06/01/primate-ai-genome-variants/?utm_campaign=wp_the_optimist&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_optimist&amp;carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3a2e1f3%2F647c8b64e49da13a6d45e983%2F596bdb5f9bbc0f403f990f33%2F28%2F44%2F647c8b64e49da13a6d45e983)** 
 
 * &quot;The scientists built the algorithm, called PrimateAI-3D, using the genetic blueprints of 233 different primate species. This base brings into sharp relief the variants that can be tolerated by primates, including humans, and those that prove deadly. Scientists look for places where the sequence is the same from one primate to another, a clear sign that any change is disastrous.&quot;
 

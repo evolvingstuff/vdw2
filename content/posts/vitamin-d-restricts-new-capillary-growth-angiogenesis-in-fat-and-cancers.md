@@ -84,7 +84,7 @@ To expand, fat cells release the same kind of chemicals that tumors do to swell 
 
 ##### Angiogentic foods - Greger video and transcript July 2023
 
- **[Which Foods Are the Most Anti-Angiogenic?](https://nutritionfacts.org/video/which-foods-are-the-most-anti-angiogenic/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3Df6b2d06c10-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-f6b2d06c10-25209481%26mc_cid%3Df6b2d06c10%26mc_eid%3Db95641625a)** 
+ **[Which Foods Are the Most Anti-Angiogenic?](https://nutritionfacts.org/video/which-foods-are-the-most-anti-angiogenic/?subscriber=true&utm_source=NutritionFacts.org&utm_campaign=f6b2d06c10-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&utm_medium=email&utm_term=0_40f9e497d1-f6b2d06c10-25209481&mc_cid=f6b2d06c10&mc_eid=b95641625a)** 
 
 * "For cancer prevention, researchers suggest “constant consumption” of anti-angiogenic foods."
 
@@ -315,7 +315,7 @@ To expand, fat cells release the same kind of chemicals that tumors do to swell 
 
 ##### Angiogentic foods - Greger video and transcript July 2023
 
- **[Which Foods Are the Most Anti-Angiogenic?](https://nutritionfacts.org/video/which-foods-are-the-most-anti-angiogenic/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3Df6b2d06c10-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-f6b2d06c10-25209481%26mc_cid%3Df6b2d06c10%26mc_eid%3Db95641625a)** 
+ **[Which Foods Are the Most Anti-Angiogenic?](https://nutritionfacts.org/video/which-foods-are-the-most-anti-angiogenic/?subscriber=true&amp;utm_source=NutritionFacts.org&amp;utm_campaign=f6b2d06c10-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&amp;utm_medium=email&amp;utm_term=0_40f9e497d1-f6b2d06c10-25209481&amp;mc_cid=f6b2d06c10&amp;mc_eid=b95641625a)** 
 
 * &quot;For cancer prevention, researchers suggest “constant consumption” of anti-angiogenic foods.&quot;
 

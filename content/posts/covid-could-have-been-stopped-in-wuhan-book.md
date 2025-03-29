@@ -15,7 +15,7 @@ categories:
 
 by Dali L. Yang
 
- **Description of the book which is on**  [Amazon $18 Kindle](https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref%3Dsr_1_1%3Fcrid%3D13DF0G2GLNVBV%26dib%3DeyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs%26dib_tag%3Dse%26keywords%3D%E2%80%98Wuhan%3A%2BHow%2Bthe%2BCovid-19%2BOutbreak%2Bin%2BChina%2BSpiraled%2BOut%2Bof%2BControl%E2%80%99%26qid%3D1709749588%26sprefix%3Dwuhan%2Bhow%2Bthe%2Bcovid-19%2Boutbreak%2Bin%2Bchina%2Bspiraled%2Bout%2Bof%2Bcontrol%2B%2Caps%2C285%26sr%3D8-1)
+ **Description of the book which is on**  [Amazon $18 Kindle](https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&dib_tag=se&keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&qid=1709749588&sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&sr=8-1)
 
 The definitive account of the Chinese government's response to the initial Covid-19 outbreak in Wuhan.
 
@@ -29,7 +29,7 @@ Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques
 
 ---
 
-##### Book was reviewed in the [Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/%3FWT.mc_id%3De_DM289320%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Wed%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Wed20240306%26utm_campaign%3DDM289320)
+##### Book was reviewed in the [Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&WT.tsrc=email&etype=Edi_GHS_New_Wed&utmsource=email&utm_medium=Edi_GHS_New_Wed20240306&utm_campaign=DM289320)
 
 * “Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”
 
@@ -58,7 +58,7 @@ Markdown:
 
 by Dali L. Yang
 
- **Description of the book which is on**  [Amazon $18 Kindle](https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref%3Dsr_1_1%3Fcrid%3D13DF0G2GLNVBV%26dib%3DeyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs%26dib_tag%3Dse%26keywords%3D%E2%80%98Wuhan%3A%2BHow%2Bthe%2BCovid-19%2BOutbreak%2Bin%2BChina%2BSpiraled%2BOut%2Bof%2BControl%E2%80%99%26qid%3D1709749588%26sprefix%3Dwuhan%2Bhow%2Bthe%2Bcovid-19%2Boutbreak%2Bin%2Bchina%2Bspiraled%2Bout%2Bof%2Bcontrol%2B%2Caps%2C285%26sr%3D8-1)
+ **Description of the book which is on**  [Amazon $18 Kindle](https://www.amazon.com/Wuhan-COVID-19-Outbreak-Spiraled-Control/dp/0197756263/ref=sr_1_1?crid=13DF0G2GLNVBV&amp;dib=eyJ2IjoiMSJ9.fNzxIftTN5P3d18oniSfRQ.G9SxrlDAWt7o6r1gWgPVepw2O-p_kp4-eWAL4t__nYs&amp;dib_tag=se&amp;keywords=%E2%80%98Wuhan%3A+How+the+Covid-19+Outbreak+in+China+Spiraled+Out+of+Control%E2%80%99&amp;qid=1709749588&amp;sprefix=wuhan+how+the+covid-19+outbreak+in+china+spiraled+out+of+control+%2Caps%2C285&amp;sr=8-1)
 
 The definitive account of the Chinese government&#39;s response to the initial Covid-19 outbreak in Wuhan.
 
@@ -72,7 +72,7 @@ Wuhan: How the COVID-19 Outbreak in China Spiraled Out of Control also critiques
 
 ---
 
-##### Book was reviewed in the [Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/%3FWT.mc_id%3De_DM289320%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Wed%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Wed20240306%26utm_campaign%3DDM289320)
+##### Book was reviewed in the [Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/covid-origins-wuhan-theory-book-dali-yang/?WT.mc_id=e_DM289320&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240306&amp;utm_campaign=DM289320)
 
 * “Dali Yang, a leading authority on the Chinese political system, charts in forensic detail the key weeks, events and mistakes that preceded the imposition of lockdown in the eastern Chinese city in late January.”
 

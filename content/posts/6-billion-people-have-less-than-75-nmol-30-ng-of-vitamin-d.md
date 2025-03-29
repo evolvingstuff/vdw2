@@ -75,7 +75,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki –[Maps of deficiency in 2014 (<75 nmol = grey)](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4806)
+#### VitaminDWiki –<a href="/posts/maps-of-deficiency-in-2014-75-nmol-grey" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4806">Maps of deficiency in 2014 (<75 nmol = grey)</a>
 
 ##### Children
 
@@ -167,7 +167,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki –[Maps of deficiency in 2014 (&lt;75 nmol = grey)](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4806)
+#### VitaminDWiki –&lt;a href=&quot;/posts/maps-of-deficiency-in-2014-75-nmol-grey&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4806&quot;&gt;Maps of deficiency in 2014 (&lt;75 nmol = grey)&lt;/a&gt;
 
 ##### Children
 

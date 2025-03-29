@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **[YouTube 16 minutes](https://www.youtube.com/watch%3Fv%3DWw1O-MounI4%26ab_channel%3DMarkHyman%2CMD)** 
+ **[YouTube 16 minutes](https://www.youtube.com/watch?v=Ww1O-MounI4&ab_channel=MarkHyman%2CMD)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
@@ -115,7 +115,7 @@ And so it's a really important thing to make sure you get. So how does your body
 <code class="language-text">
 Markdown:
 --------
- **[YouTube 16 minutes](https://www.youtube.com/watch%3Fv%3DWw1O-MounI4%26ab_channel%3DMarkHyman%2CMD)** 
+ **[YouTube 16 minutes](https://www.youtube.com/watch?v=Ww1O-MounI4&amp;ab_channel=MarkHyman%2CMD)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 

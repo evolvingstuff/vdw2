@@ -13,7 +13,7 @@ categories:
 
 #### CDC Releases Hidden COVID-19 Vaccine Injury Reports  from V-safe
 
- **[the Epoch Times](https://www.theepochtimes.com/health/cdc-releases-hidden-covid-19-vaccine-injury-reports-5617872%3Futm_source%3Dcopyreflink%26utm_campaign%3Dt911%26src_src%3Dcopyreflink%26src_cmp%3Dt911%26utm_medium%3Demail)** 
+ **[the Epoch Times](https://www.theepochtimes.com/health/cdc-releases-hidden-covid-19-vaccine-injury-reports-5617872?utm_source=copyreflink&utm_campaign=t911&src_src=copyreflink&src_cmp=t911&utm_medium=email)** 
 
 * "The agency was forced by a federal judge to disclose the reports."
 
@@ -37,7 +37,7 @@ Markdown:
 
 #### CDC Releases Hidden COVID-19 Vaccine Injury Reports  from V-safe
 
- **[the Epoch Times](https://www.theepochtimes.com/health/cdc-releases-hidden-covid-19-vaccine-injury-reports-5617872%3Futm_source%3Dcopyreflink%26utm_campaign%3Dt911%26src_src%3Dcopyreflink%26src_cmp%3Dt911%26utm_medium%3Demail)** 
+ **[the Epoch Times](https://www.theepochtimes.com/health/cdc-releases-hidden-covid-19-vaccine-injury-reports-5617872?utm_source=copyreflink&amp;utm_campaign=t911&amp;src_src=copyreflink&amp;src_cmp=t911&amp;utm_medium=email)** 
 
 * &quot;The agency was forced by a federal judge to disclose the reports.&quot;
 

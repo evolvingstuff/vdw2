@@ -9,7 +9,7 @@ date: 2023-09-06
 
 
 
-#### [GrassrootsHealth](https://myemail.constantcontact.com/Did-you-miss-this-exciting-news--Take-action-now-.html%3Fsoid%3D1102722411090%26aid%3Dkgv_xv9tAdc)
+#### [GrassrootsHealth](https://myemail.constantcontact.com/Did-you-miss-this-exciting-news--Take-action-now-.html?soid=1102722411090&aid=kgv_xv9tAdc)
 
 Organic & Natural Health Association Urges Congress to Add Vitamin D to Farm Bill to Build Stronger Families via SNAP- - WASHINGTON, D.C. (June 8, 2023) - - In a dynamic effort to enhance the nutritional support provided through the farm bill’s Supplemental Nutrition Assistance Program ([SNAP](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program)), [Organic & Natural Health Association](https://organicandnatural.org/) (O&N Health) has launched the “[All for Vitamin D: Building Stronger Families in a SNAP](https://all4vitamind.com/)” campaign. This public awareness initiative calls on concerned voters to reach out to their respective members of Congress, particularly those serving on the influential [House Committee on Agriculture](https://agriculture.house.gov/about/committee_members.htm). The primary objective is to advocate for a crucial amendment: The inclusion of vitamin D3 dietary supplements as part of SNAP recipients’ benefits. With an unwavering commitment to empowerment and transformative impact, this campaign strives to ignite a profound shift in the lives of SNAP recipients, championing their well-being and unlocking a future of vibrant health.
 
@@ -29,7 +29,7 @@ TBD: email addresses of appropriate people in congress
 Markdown:
 --------
 
-#### [GrassrootsHealth](https://myemail.constantcontact.com/Did-you-miss-this-exciting-news--Take-action-now-.html%3Fsoid%3D1102722411090%26aid%3Dkgv_xv9tAdc)
+#### [GrassrootsHealth](https://myemail.constantcontact.com/Did-you-miss-this-exciting-news--Take-action-now-.html?soid=1102722411090&amp;aid=kgv_xv9tAdc)
 
 Organic &amp; Natural Health Association Urges Congress to Add Vitamin D to Farm Bill to Build Stronger Families via SNAP- - WASHINGTON, D.C. (June 8, 2023) - - In a dynamic effort to enhance the nutritional support provided through the farm bill’s Supplemental Nutrition Assistance Program ([SNAP](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program)), [Organic &amp; Natural Health Association](https://organicandnatural.org/) (O&amp;N Health) has launched the “[All for Vitamin D: Building Stronger Families in a SNAP](https://all4vitamind.com/)” campaign. This public awareness initiative calls on concerned voters to reach out to their respective members of Congress, particularly those serving on the influential [House Committee on Agriculture](https://agriculture.house.gov/about/committee_members.htm). The primary objective is to advocate for a crucial amendment: The inclusion of vitamin D3 dietary supplements as part of SNAP recipients’ benefits. With an unwavering commitment to empowerment and transformative impact, this campaign strives to ignite a profound shift in the lives of SNAP recipients, championing their well-being and unlocking a future of vibrant health.
 

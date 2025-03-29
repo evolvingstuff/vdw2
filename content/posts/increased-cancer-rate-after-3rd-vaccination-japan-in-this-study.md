@@ -39,7 +39,7 @@ From Gibo M, Kojima S, Fujisawa A, et al. (April 08, 2024) Increased Age-Adjuste
 
 ##### Video review of study by Dr. Campbell - April 2024
 
- **[13 minutes](https://www.youtube.com/watch%3Fv%3Donww2X-ecfg)** 
+ **[13 minutes](https://www.youtube.com/watch?v=onww2X-ecfg)** 
 
 ---
 
@@ -98,7 +98,7 @@ From Gibo M, Kojima S, Fujisawa A, et al. (April 08, 2024) Increased Age-Adjuste
 
 ##### Video review of study by Dr. Campbell - April 2024
 
- **[13 minutes](https://www.youtube.com/watch%3Fv%3Donww2X-ecfg)** 
+ **[13 minutes](https://www.youtube.com/watch?v=onww2X-ecfg)** 
 
 ---
 

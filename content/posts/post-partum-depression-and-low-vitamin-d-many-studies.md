@@ -79,7 +79,7 @@ Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have
 
 #### FDA announced fast-acting Zurzuvae pill for postpartum depression - Aug 2023
 
- **[Washington Post](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/%3Futm_campaign%3Dwp_the7%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_the7)** 
+ **[Washington Post](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/?utm_campaign=wp_the7&utm_medium=email&utm_source=newsletter&wpisrc=nl_the7)** 
 
 * "The FDA warned that the drug’s side effects can include drowsiness, dizziness, fatigue, diarrhea, urinary tract infection and nasopharyngitis (the common cold)."
 
@@ -182,7 +182,7 @@ Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have
 
 #### FDA announced fast-acting Zurzuvae pill for postpartum depression - Aug 2023
 
- **[Washington Post](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/%3Futm_campaign%3Dwp_the7%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_the7)** 
+ **[Washington Post](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7)** 
 
 * &quot;The FDA warned that the drug’s side effects can include drowsiness, dizziness, fatigue, diarrhea, urinary tract infection and nasopharyngitis (the common cold).&quot;
 

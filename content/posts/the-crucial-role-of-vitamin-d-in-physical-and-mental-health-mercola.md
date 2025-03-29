@@ -13,7 +13,7 @@ date: 2023-10-30
 
 ---
 
-#### The [Crucial Role of Vitamin D in Physical and Mental Health](https://articles.mercola.com/sites/articles/archive/2023/10/30/vitamin-d-physical-and-mental-health.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20231030_HL2%26foDate%3Dfalse%26mid%3DDM1484271%26rid%3D1951633337)
+#### The [Crucial Role of Vitamin D in Physical and Mental Health](https://articles.mercola.com/sites/articles/archive/2023/10/30/vitamin-d-physical-and-mental-health.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1HL&cid=20231030_HL2&foDate=false&mid=DM1484271&rid=1951633337)
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -61,7 +61,7 @@ date: 2023-10-30
 
 * <sup>17</sup> [UC San Diego Health System Press Release March 6, 2014](https://health.ucsd.edu/news/releases/Pages/2014-03-06-vitamin-D-and-breast-cancer-survival.aspx)
 
-* <sup>18</sup> [PLOS ONE, 2016; 11 (4): e0152441](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0152441)
+* <sup>18</sup> [PLOS ONE, 2016; 11 (4): e0152441](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152441)
 
 * <sup>19</sup> [PR Web April 6, 2016](https://www.prweb.com/releases/2016/04/prweb13315020.htm)
 
@@ -92,7 +92,7 @@ Markdown:
 
 ---
 
-#### The [Crucial Role of Vitamin D in Physical and Mental Health](https://articles.mercola.com/sites/articles/archive/2023/10/30/vitamin-d-physical-and-mental-health.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20231030_HL2%26foDate%3Dfalse%26mid%3DDM1484271%26rid%3D1951633337)
+#### The [Crucial Role of Vitamin D in Physical and Mental Health](https://articles.mercola.com/sites/articles/archive/2023/10/30/vitamin-d-physical-and-mental-health.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1HL&amp;cid=20231030_HL2&amp;foDate=false&amp;mid=DM1484271&amp;rid=1951633337)
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -140,7 +140,7 @@ Markdown:
 
 * &lt;sup&gt;17&lt;/sup&gt; [UC San Diego Health System Press Release March 6, 2014](https://health.ucsd.edu/news/releases/Pages/2014-03-06-vitamin-D-and-breast-cancer-survival.aspx)
 
-* &lt;sup&gt;18&lt;/sup&gt; [PLOS ONE, 2016; 11 (4): e0152441](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0152441)
+* &lt;sup&gt;18&lt;/sup&gt; [PLOS ONE, 2016; 11 (4): e0152441](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152441)
 
 * &lt;sup&gt;19&lt;/sup&gt; [PR Web April 6, 2016](https://www.prweb.com/releases/2016/04/prweb13315020.htm)
 

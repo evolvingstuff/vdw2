@@ -20,7 +20,7 @@ categories:
 
 Eur J Epidemiol . 2023 Jan;38(1):11-29. [doi: 10.1007/s10654-022-00921-1](https://doi.org/10.1007/s10654-022-00921-1)
 
-Publisher wants $50 for the PDF [PDF can be viewed on free DeepDyve trial](https://www.deepdyve.com/lp/springer-journals/circulating-vitamin-d-and-breast-cancer-risk-an-international-pooling-zS9GzVBtKU%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Circulating%2Bvitamin%2BD%2Band%2Bbreast%2Bcancer%2Brisk%253A%2Ban%2Binternational%2Bpooling%2522)
+Publisher wants $50 for the PDF [PDF can be viewed on free DeepDyve trial](https://www.deepdyve.com/lp/springer-journals/circulating-vitamin-d-and-breast-cancer-risk-an-international-pooling-zS9GzVBtKU?articleList=%2Fsearch%3Fquery%3D%2522Circulating%2Bvitamin%2BD%2Band%2Bbreast%2Bcancer%2Brisk%253A%2Ban%2Binternational%2Bpooling%2522)
 
  **After callibration there were no Vitamin D levels > 30 ng** 
 
@@ -370,7 +370,7 @@ Markdown:
 
 Eur J Epidemiol . 2023 Jan;38(1):11-29. [doi: 10.1007/s10654-022-00921-1](https://doi.org/10.1007/s10654-022-00921-1)
 
-Publisher wants $50 for the PDF [PDF can be viewed on free DeepDyve trial](https://www.deepdyve.com/lp/springer-journals/circulating-vitamin-d-and-breast-cancer-risk-an-international-pooling-zS9GzVBtKU%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Circulating%2Bvitamin%2BD%2Band%2Bbreast%2Bcancer%2Brisk%253A%2Ban%2Binternational%2Bpooling%2522)
+Publisher wants $50 for the PDF [PDF can be viewed on free DeepDyve trial](https://www.deepdyve.com/lp/springer-journals/circulating-vitamin-d-and-breast-cancer-risk-an-international-pooling-zS9GzVBtKU?articleList=%2Fsearch%3Fquery%3D%2522Circulating%2Bvitamin%2BD%2Band%2Bbreast%2Bcancer%2Brisk%253A%2Ban%2Binternational%2Bpooling%2522)
 
  **After callibration there were no Vitamin D levels &gt; 30 ng** 
 

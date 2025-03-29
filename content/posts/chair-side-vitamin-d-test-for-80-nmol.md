@@ -56,7 +56,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 
 * <a href="/posts/instant-vitamin-d-yes-no-test-now-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Instant vitamin D Yes-No test now available">Instant vitamin D Yes-No test now available</a> - 2014
 
-* [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s%3Fk%3Dvitamin%2Bd%2Btest%2Bkit%2Brapid%2Bself-test%26crid%3D2MG5AW6VZ5ZXY%26sprefix%3Dvitamin%2Bd%2Btests%2Caps%2C267%26ref%3Dnb_sb_ss_ts-doa-p_2_15)
+* [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s?k=vitamin+d+test+kit+rapid+self-test&crid=2MG5AW6VZ5ZXY&sprefix=vitamin+d+tests%2Caps%2C267&ref=nb_sb_ss_ts-doa-p_2_15)
 
   * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
 
@@ -128,7 +128,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 
 * &lt;a href=&quot;/posts/instant-vitamin-d-yes-no-test-now-available&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Instant vitamin D Yes-No test now available&quot;&gt;Instant vitamin D Yes-No test now available&lt;/a&gt; - 2014
 
-* [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s%3Fk%3Dvitamin%2Bd%2Btest%2Bkit%2Brapid%2Bself-test%26crid%3D2MG5AW6VZ5ZXY%26sprefix%3Dvitamin%2Bd%2Btests%2Caps%2C267%26ref%3Dnb_sb_ss_ts-doa-p_2_15)
+* [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s?k=vitamin+d+test+kit+rapid+self-test&amp;crid=2MG5AW6VZ5ZXY&amp;sprefix=vitamin+d+tests%2Caps%2C267&amp;ref=nb_sb_ss_ts-doa-p_2_15)
 
   * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
 

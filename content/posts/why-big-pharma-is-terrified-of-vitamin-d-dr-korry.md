@@ -75,7 +75,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * 92 <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Health Problems were proven to be fought by Vitamin D</a> by Dec 2023---
 
-* 242 pages have ["Multiple Studies" in their title](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13884)
+* 242 pages have <a href="/posts/multiple-studies-in-their-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13884">"Multiple Studies" in their title</a>
 
 * [Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024](/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews)
 
@@ -85,7 +85,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [(left hand column of every page)](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D3381)
+#### Health Problems and D <a href="/posts/left-hand-column-of-every-page" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3381">(left hand column of every page)</a>
 
 ---
 
@@ -164,7 +164,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * 92 &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;Health Problems were proven to be fought by Vitamin D&lt;/a&gt; by Dec 2023---
 
-* 242 pages have [&quot;Multiple Studies&quot; in their title](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13884)
+* 242 pages have &lt;a href=&quot;/posts/multiple-studies-in-their-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13884&quot;&gt;&quot;Multiple Studies&quot; in their title&lt;/a&gt;
 
 * [Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024](/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews)
 
@@ -174,7 +174,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [(left hand column of every page)](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D3381)
+#### Health Problems and D &lt;a href=&quot;/posts/left-hand-column-of-every-page&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 3381&quot;&gt;(left hand column of every page)&lt;/a&gt;
 
 ---
 

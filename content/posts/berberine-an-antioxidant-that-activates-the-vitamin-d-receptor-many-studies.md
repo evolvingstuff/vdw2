@@ -86,7 +86,7 @@ Type 2 Diabetes 5 Studies, Dyslipidemia 4 studies, PCOS 3 Studies, Metabolic Hea
 
 ---
 
-#### Berberine and Goldenseal Supplements Review - [ConsumerLab](https://www.consumerlab.com/reviews/berberine-goldenseal-supplements-review/berberine/%3Fsearch%3DBerberine) Oct 2023
+#### Berberine and Goldenseal Supplements Review - [ConsumerLab](https://www.consumerlab.com/reviews/berberine-goldenseal-supplements-review/berberine/?search=Berberine) Oct 2023
 
 What is berberine?
 
@@ -122,7 +122,7 @@ NOW Foods, tested lesser known brands purchased on Amazon.com and Walmart.com an
 
 * 3 products contained, respectively, 95%, 97%, and 104% of their claimed amounts.
 
-  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref%3Dsr_1_2%3Fcrid%3D3L52TQH72MYT6%26keywords%3Dberberine%2BSunergetic%26qid%3D1703267680%26sprefix%3Dberberine%2Bsunergetic%2Caps%2C165%26sr%3D8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref%3Dsr_1_2_sspa%3Fcrid%3DE0TCKCWND8QR%26keywords%3Dberberine%2Bdoctor%2Brecommended%26qid%3D1703267755%26rdc%3D1%26sprefix%3Dberberine%2BDoctor%2BRecommended%2Caps%2C200%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1), and NOW Foods
+  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&keywords=berberine+Sunergetic&qid=1703267680&sprefix=berberine+sunergetic%2Caps%2C165&sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&keywords=berberine%2Bdoctor%2Brecommended&qid=1703267755&rdc=1&sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1), and NOW Foods
 
 ---
 
@@ -254,7 +254,7 @@ Diabetes mellitus (DM) is a metabolic disorder that causes hyperglycemia conditi
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 16 ways
 
- **<a href="/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>,  <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,  <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>,   <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>,   [non-daily Vit D](/categories/better-than-daily),  <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>,   <span>[tiki-index.php?page_id=14758]</span>,  intense exercise, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate</a>   <a href="/posts/vdr-activators-include-sulforaphane-and-curcumin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020">Sulforaphane</a>   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
+ **<a href="/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>,  <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,  <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>,   <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>,   [non-daily Vit D](/categories/better-than-daily),  <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>,   <a href="/posts/berberine" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14758">Berberine</a>,  intense exercise, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate</a>   <a href="/posts/vdr-activators-include-sulforaphane-and-curcumin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020">Sulforaphane</a>   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
 
 ---
 
@@ -308,7 +308,7 @@ butyrate and berberine are different compounds with distinct functions and sourc
 
 #### What To Know About Berberine: Benefits, Uses and Side Effects
 
- **[Cleveland Clinic](https://health.clevelandclinic.org/berberine-for-insulin-resistance-weight-loss/%23:~:text%3DBerberine%20has%20a%20short%20half%2Cmilligrams%20daily)%20throughout%20the%20day.)**  includes
+ **[Cleveland Clinic](https://health.clevelandclinic.org/berberine-for-insulin-resistance-weight-loss/#:~:text=Berberine%20has%20a%20short%20half,milligrams%20daily)%20throughout%20the%20day.)**  includes
 
 Berberine has a short half-life of several hours — half the dose will be metabolized and eliminated from your system within a few hours. To keep blood levels stable and benefit from berberine, spread the daily dosage (up to 1.5 grams or 1,500 milligrams daily) throughout the day. Dr. Bradley recommends taking it three times a day before meals.
 
@@ -316,7 +316,7 @@ Berberine has a short half-life of several hours — half the dose will be metab
 
 #### Your Top Berberine Questions Answered - June 2023
 
- **[Health Directions](https://www.healthydirections.com/articles/blood-sugar/top-berberine-questions%23:~:text%3DHow%20Fast%20Does%20Berberine%20Work%2Cexpect%20results%20within%20three%20months.)**  includes
+ **[Health Directions](https://www.healthydirections.com/articles/blood-sugar/top-berberine-questions#:~:text=How%20Fast%20Does%20Berberine%20Work,expect%20results%20within%20three%20months.)**  includes
 
 * Berberine is a natural alkaloid found in the roots, bark, and stems of hundreds of plants that have been used for medicinal purposes for thousands of years.
 
@@ -326,7 +326,7 @@ Berberine has a short half-life of several hours — half the dose will be metab
 
 #### Berberine - lists the diseases fought - Feb 2023
 
- **[Berberine - Another supplement with an amazing healing profile](https://rwmalonemd.substack.com/p/well-being-berberine%3Futm_source%3Dsubstack%26utm_medium%3Demail) Dr. Malone substack** 
+ **[Berberine - Another supplement with an amazing healing profile](https://rwmalonemd.substack.com/p/well-being-berberine?utm_source=substack&utm_medium=email) Dr. Malone substack** 
 
 Atherosclerosis
 
@@ -422,7 +422,7 @@ Type 2 Diabetes 5 Studies, Dyslipidemia 4 studies, PCOS 3 Studies, Metabolic Hea
 
 ---
 
-#### Berberine and Goldenseal Supplements Review - [ConsumerLab](https://www.consumerlab.com/reviews/berberine-goldenseal-supplements-review/berberine/%3Fsearch%3DBerberine) Oct 2023
+#### Berberine and Goldenseal Supplements Review - [ConsumerLab](https://www.consumerlab.com/reviews/berberine-goldenseal-supplements-review/berberine/?search=Berberine) Oct 2023
 
 What is berberine?
 
@@ -458,7 +458,7 @@ NOW Foods, tested lesser known brands purchased on Amazon.com and Walmart.com an
 
 * 3 products contained, respectively, 95%, 97%, and 104% of their claimed amounts.
 
-  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref%3Dsr_1_2%3Fcrid%3D3L52TQH72MYT6%26keywords%3Dberberine%2BSunergetic%26qid%3D1703267680%26sprefix%3Dberberine%2Bsunergetic%2Caps%2C165%26sr%3D8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref%3Dsr_1_2_sspa%3Fcrid%3DE0TCKCWND8QR%26keywords%3Dberberine%2Bdoctor%2Brecommended%26qid%3D1703267755%26rdc%3D1%26sprefix%3Dberberine%2BDoctor%2BRecommended%2Caps%2C200%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1), and NOW Foods
+  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&amp;keywords=berberine+Sunergetic&amp;qid=1703267680&amp;sprefix=berberine+sunergetic%2Caps%2C165&amp;sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&amp;keywords=berberine%2Bdoctor%2Brecommended&amp;qid=1703267755&amp;rdc=1&amp;sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1), and NOW Foods
 
 ---
 
@@ -590,7 +590,7 @@ Diabetes mellitus (DM) is a metabolic disorder that causes hyperglycemia conditi
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 16 ways
 
- **&lt;a href=&quot;/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;,  &lt;a href=&quot;/posts/magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D&quot;&gt;Magnesium&lt;/a&gt;,  &lt;a href=&quot;/posts/zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D&quot;&gt;Zinc&lt;/a&gt;,   &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016&quot;&gt;Quercetin&lt;/a&gt;,   [non-daily Vit D](/categories/better-than-daily),  &lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010&quot;&gt;Curcumin&lt;/a&gt;,   &lt;span&gt;[tiki-index.php?page_id=14758]&lt;/span&gt;,  intense exercise, &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)&quot;&gt;Butyrate&lt;/a&gt;   &lt;a href=&quot;/posts/vdr-activators-include-sulforaphane-and-curcumin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020&quot;&gt;Sulforaphane&lt;/a&gt;   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
+ **&lt;a href=&quot;/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;,  &lt;a href=&quot;/posts/magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D&quot;&gt;Magnesium&lt;/a&gt;,  &lt;a href=&quot;/posts/zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D&quot;&gt;Zinc&lt;/a&gt;,   &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016&quot;&gt;Quercetin&lt;/a&gt;,   [non-daily Vit D](/categories/better-than-daily),  &lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010&quot;&gt;Curcumin&lt;/a&gt;,   &lt;a href=&quot;/posts/berberine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14758&quot;&gt;Berberine&lt;/a&gt;,  intense exercise, &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)&quot;&gt;Butyrate&lt;/a&gt;   &lt;a href=&quot;/posts/vdr-activators-include-sulforaphane-and-curcumin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020&quot;&gt;Sulforaphane&lt;/a&gt;   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
 
 ---
 
@@ -644,7 +644,7 @@ butyrate and berberine are different compounds with distinct functions and sourc
 
 #### What To Know About Berberine: Benefits, Uses and Side Effects
 
- **[Cleveland Clinic](https://health.clevelandclinic.org/berberine-for-insulin-resistance-weight-loss/%23:~:text%3DBerberine%20has%20a%20short%20half%2Cmilligrams%20daily)%20throughout%20the%20day.)**  includes
+ **[Cleveland Clinic](https://health.clevelandclinic.org/berberine-for-insulin-resistance-weight-loss/#:~:text=Berberine%20has%20a%20short%20half,milligrams%20daily)%20throughout%20the%20day.)**  includes
 
 Berberine has a short half-life of several hours — half the dose will be metabolized and eliminated from your system within a few hours. To keep blood levels stable and benefit from berberine, spread the daily dosage (up to 1.5 grams or 1,500 milligrams daily) throughout the day. Dr. Bradley recommends taking it three times a day before meals.
 
@@ -652,7 +652,7 @@ Berberine has a short half-life of several hours — half the dose will be metab
 
 #### Your Top Berberine Questions Answered - June 2023
 
- **[Health Directions](https://www.healthydirections.com/articles/blood-sugar/top-berberine-questions%23:~:text%3DHow%20Fast%20Does%20Berberine%20Work%2Cexpect%20results%20within%20three%20months.)**  includes
+ **[Health Directions](https://www.healthydirections.com/articles/blood-sugar/top-berberine-questions#:~:text=How%20Fast%20Does%20Berberine%20Work,expect%20results%20within%20three%20months.)**  includes
 
 * Berberine is a natural alkaloid found in the roots, bark, and stems of hundreds of plants that have been used for medicinal purposes for thousands of years.
 
@@ -662,7 +662,7 @@ Berberine has a short half-life of several hours — half the dose will be metab
 
 #### Berberine - lists the diseases fought - Feb 2023
 
- **[Berberine - Another supplement with an amazing healing profile](https://rwmalonemd.substack.com/p/well-being-berberine%3Futm_source%3Dsubstack%26utm_medium%3Demail) Dr. Malone substack** 
+ **[Berberine - Another supplement with an amazing healing profile](https://rwmalonemd.substack.com/p/well-being-berberine?utm_source=substack&amp;utm_medium=email) Dr. Malone substack** 
 
 Atherosclerosis
 

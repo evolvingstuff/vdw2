@@ -37,7 +37,7 @@ Over the past few decades, vitamin D has been found to play a crucial role in bo
 
 ##### This study was reported on in a Dr. Campbell video March 13, 2024
 
- **[YouTube 12 minutes](https://www.youtube.com/watch%3Fv%3DZLUoX4YEjqk%26ab_channel%3DDr.JohnCampbell)** 
+ **[YouTube 12 minutes](https://www.youtube.com/watch?v=ZLUoX4YEjqk&ab_channel=Dr.JohnCampbell)** 
 
 ---
 
@@ -91,7 +91,7 @@ Over the past few decades, vitamin D has been found to play a crucial role in bo
 
 ##### This study was reported on in a Dr. Campbell video March 13, 2024
 
- **[YouTube 12 minutes](https://www.youtube.com/watch%3Fv%3DZLUoX4YEjqk%26ab_channel%3DDr.JohnCampbell)** 
+ **[YouTube 12 minutes](https://www.youtube.com/watch?v=ZLUoX4YEjqk&amp;ab_channel=Dr.JohnCampbell)** 
 
 ---
 

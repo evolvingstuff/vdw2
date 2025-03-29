@@ -18,7 +18,7 @@ categories:
 
 #### Researchers Had a Simple Test for Determining if an Asymptomatic Person Who Tested Positive for COVID Was Infectious — But CDC, Fauci Ignored It
 
- **[Childrens' Health Defense](https://childrenshealthdefense.org/defender/test-asymptomatic-covid-positive-person-infectious-cdc-fauci/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230512)** 
+ **[Childrens' Health Defense](https://childrenshealthdefense.org/defender/test-asymptomatic-covid-positive-person-infectious-cdc-fauci/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20230512)** 
 
 * "Researchers at Stanford University who developed the test also determined that the vast majority of asymptomatic individuals who tested positive — 96% — did not transmit the virus"
 
@@ -59,7 +59,7 @@ Markdown:
 
 #### Researchers Had a Simple Test for Determining if an Asymptomatic Person Who Tested Positive for COVID Was Infectious — But CDC, Fauci Ignored It
 
- **[Childrens&#39; Health Defense](https://childrenshealthdefense.org/defender/test-asymptomatic-covid-positive-person-infectious-cdc-fauci/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230512)** 
+ **[Childrens&#39; Health Defense](https://childrenshealthdefense.org/defender/test-asymptomatic-covid-positive-person-infectious-cdc-fauci/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20230512)** 
 
 * &quot;Researchers at Stanford University who developed the test also determined that the vast majority of asymptomatic individuals who tested positive — 96% — did not transmit the virus&quot;
 

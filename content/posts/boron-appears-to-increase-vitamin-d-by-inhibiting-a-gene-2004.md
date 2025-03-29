@@ -45,7 +45,7 @@ This list is automatically updated
 
 #### 66 Citations of this study as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26cites%3D2796858776624621335%26scipsc%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=5,48&sciodt=0,48&cites=2796858776624621335&scipsc=)** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -86,7 +86,7 @@ This list is automatically updated
 
 #### 66 Citations of this study as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26cites%3D2796858776624621335%26scipsc%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=5,48&amp;sciodt=0,48&amp;cites=2796858776624621335&amp;scipsc=)** 
 
 AST Structure:
 -------------

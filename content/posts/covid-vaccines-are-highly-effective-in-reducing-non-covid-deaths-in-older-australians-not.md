@@ -18,7 +18,7 @@ categories:
 
 #### THE COVID PROPAGANDA WAR CONTINUES
 
- **[Substack](https://phillipaltman.substack.com/p/the-covid-propaganda-war-continues%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139116962%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[Substack](https://phillipaltman.substack.com/p/the-covid-propaganda-war-continues?utm_source=post-email-title&publication_id=1301027&post_id=139116962&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&utm_medium=email)** 
 
 * "The paper contains the outrageous claim that the Covid “vaccines” are highly effective in reducing Covid-19 AND OTHER NON-COVID CAUSES OF MORTALITY FOR OLDER AUSTRALIANS. How is this possible?"
 
@@ -70,7 +70,7 @@ Markdown:
 
 #### THE COVID PROPAGANDA WAR CONTINUES
 
- **[Substack](https://phillipaltman.substack.com/p/the-covid-propaganda-war-continues%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139116962%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[Substack](https://phillipaltman.substack.com/p/the-covid-propaganda-war-continues?utm_source=post-email-title&amp;publication_id=1301027&amp;post_id=139116962&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;utm_medium=email)** 
 
 * &quot;The paper contains the outrageous claim that the Covid “vaccines” are highly effective in reducing Covid-19 AND OTHER NON-COVID CAUSES OF MORTALITY FOR OLDER AUSTRALIANS. How is this possible?&quot;
 

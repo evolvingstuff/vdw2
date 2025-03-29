@@ -272,7 +272,7 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 #### 10% of Americans have sleep apnea (but only half are aware of it)
 
- **[Digg](https://digg.com/health/link/sleep-apnea-home-treatments-1snqB4X7tZ/%3Futm_medium%3Demail%26utm_source%3DDigg_Email%26utm_campaign%3DEdition%26utm_content%3DEdition%209%2028%2023)** 
+ **[Digg](https://digg.com/health/link/sleep-apnea-home-treatments-1snqB4X7tZ/?utm_medium=email&utm_source=Digg_Email&utm_campaign=Edition&utm_content=Edition%209%2028%2023)** 
 
 <!-- ~tc~ (alias(Sleep apnea and Vitamin D - many studies)) ~/tc~ -->
 
@@ -542,7 +542,7 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 #### 10% of Americans have sleep apnea (but only half are aware of it)
 
- **[Digg](https://digg.com/health/link/sleep-apnea-home-treatments-1snqB4X7tZ/%3Futm_medium%3Demail%26utm_source%3DDigg_Email%26utm_campaign%3DEdition%26utm_content%3DEdition%209%2028%2023)** 
+ **[Digg](https://digg.com/health/link/sleep-apnea-home-treatments-1snqB4X7tZ/?utm_medium=email&amp;utm_source=Digg_Email&amp;utm_campaign=Edition&amp;utm_content=Edition%209%2028%2023)** 
 
 &lt;!-- ~tc~ (alias(Sleep apnea and Vitamin D - many studies)) ~/tc~ --&gt;
 

@@ -17,49 +17,49 @@ categories:
 
 #### The Longevity & Brain Benefits of Vigorous Exercise | Dr. Rhonda Patrick
 
- **[YouTube 60 minutes](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26ab_channel%3DFoundMyFitness)** 
+ **[YouTube 60 minutes](https://www.youtube.com/watch?v=YXl1evV_spo&ab_channel=FoundMyFitness)** 
 
  **CHAPTERS:** 
 
-* ([00:00](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D0s)) Introduction
+* ([00:00](https://www.youtube.com/watch?v=YXl1evV_spo&t=0s)) Introduction
 
-* ([01:51](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D111s)) What differentiates "vigorous" from "zone 2"
+* ([01:51](https://www.youtube.com/watch?v=YXl1evV_spo&t=111s)) What differentiates "vigorous" from "zone 2"
 
-* ([09:12](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D552s)) Why zone 2 training may not improve VO2 max
+* ([09:12](https://www.youtube.com/watch?v=YXl1evV_spo&t=552s)) Why zone 2 training may not improve VO2 max
 
-* ([11:34](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D694s)) Balancing zone 2 & vigorous-intensity workouts
+* ([11:34](https://www.youtube.com/watch?v=YXl1evV_spo&t=694s)) Balancing zone 2 & vigorous-intensity workouts
 
-* ([13:32](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D812s)) Norwegian 4x4 protocol improves VO2 max
+* ([13:32](https://www.youtube.com/watch?v=YXl1evV_spo&t=812s)) Norwegian 4x4 protocol improves VO2 max
 
-* ([16:52](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1012s)) Methods to estimate VO2 max outside a lab
+* ([16:52](https://www.youtube.com/watch?v=YXl1evV_spo&t=1012s)) Methods to estimate VO2 max outside a lab
 
-* ([19:49](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1189s)) What it takes to reverse 20 years of heart aging
+* ([19:49](https://www.youtube.com/watch?v=YXl1evV_spo&t=1189s)) What it takes to reverse 20 years of heart aging
 
-* ([25:40](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1540s)) How HIIT reduces type 2 diabetes risk
+* ([25:40](https://www.youtube.com/watch?v=YXl1evV_spo&t=1540s)) How HIIT reduces type 2 diabetes risk
 
-* ([26:54](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1614s)) HIIT vs. Zone 2 for mitochondria
+* ([26:54](https://www.youtube.com/watch?v=YXl1evV_spo&t=1614s)) HIIT vs. Zone 2 for mitochondria
 
-* ([29:25](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1765s)) Should committed exercisers practice 80/20 rule?
+* ([29:25](https://www.youtube.com/watch?v=YXl1evV_spo&t=1765s)) Should committed exercisers practice 80/20 rule?
 
-* ([32:35](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1955s)) Vigorous exercise enhances mitophagy
+* ([32:35](https://www.youtube.com/watch?v=YXl1evV_spo&t=1955s)) Vigorous exercise enhances mitophagy
 
-* ([35:20](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2120s)) Why lactate from HIIT benefits the brain
+* ([35:20](https://www.youtube.com/watch?v=YXl1evV_spo&t=2120s)) Why lactate from HIIT benefits the brain
 
-* ([37:45](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2265s)) How lactate allows "glucose sparing" in brain
+* ([37:45](https://www.youtube.com/watch?v=YXl1evV_spo&t=2265s)) How lactate allows "glucose sparing" in brain
 
-* ([40:43](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2443s)) The BDNF benefits of HIIT
+* ([40:43](https://www.youtube.com/watch?v=YXl1evV_spo&t=2443s)) The BDNF benefits of HIIT
 
-* [41:59](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2519s)) Lactate signals the growth of new blood vessels
+* [41:59](https://www.youtube.com/watch?v=YXl1evV_spo&t=2519s)) Lactate signals the growth of new blood vessels
 
-* ([44:15](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2655s)) Exercise intensity increases myokine release
+* ([44:15](https://www.youtube.com/watch?v=YXl1evV_spo&t=2655s)) Exercise intensity increases myokine release
 
-* ([47:04](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2824s)) Exercise lowers mortality risk in cancer survivors
+* ([47:04](https://www.youtube.com/watch?v=YXl1evV_spo&t=2824s)) Exercise lowers mortality risk in cancer survivors
 
-* ([48:13](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2893s)) Vigorous exercise kills circulating tumor cells
+* ([48:13](https://www.youtube.com/watch?v=YXl1evV_spo&t=2893s)) Vigorous exercise kills circulating tumor cells
 
-* ([49:53](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2993s)) Why exercise reduces depression and neurotoxicity (kynurenine mechanism)
+* ([49:53](https://www.youtube.com/watch?v=YXl1evV_spo&t=2993s)) Why exercise reduces depression and neurotoxicity (kynurenine mechanism)
 
-* ([51:58](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D3118s)) How "exercise snacks" reduce mortality
+* ([51:58](https://www.youtube.com/watch?v=YXl1evV_spo&t=3118s)) How "exercise snacks" reduce mortality
 
 ---
 
@@ -77,7 +77,7 @@ categories:
 
 * [Association between physical activity and mortality among breast cancer and colorectal cancer survivors: a systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0923753419366840) - Exercise before or after breast and colorectal cancer diagnosis lowers mortality risk in survivors.
 
-* [Effects of exercise on circulating tumor cells among patients with resected stage I-III colon cancer](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0204875) - Both low and high-dose exercise may decrease circulating tumor cells in colon cancer patients.
+* [Effects of exercise on circulating tumor cells among patients with resected stage I-III colon cancer](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204875) - Both low and high-dose exercise may decrease circulating tumor cells in colon cancer patients.
 
 * [‘Exercise snacks’ before meals: a novel strategy to improve glycaemic control in individuals with insulin resistance](https://pubmed.ncbi.nlm.nih.gov/24817675/) - Short, intense exercise before meals effectively improves blood sugar control in those with insulin resistance.
 
@@ -194,49 +194,49 @@ Markdown:
 
 #### The Longevity &amp; Brain Benefits of Vigorous Exercise | Dr. Rhonda Patrick
 
- **[YouTube 60 minutes](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26ab_channel%3DFoundMyFitness)** 
+ **[YouTube 60 minutes](https://www.youtube.com/watch?v=YXl1evV_spo&amp;ab_channel=FoundMyFitness)** 
 
  **CHAPTERS:** 
 
-* ([00:00](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D0s)) Introduction
+* ([00:00](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=0s)) Introduction
 
-* ([01:51](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D111s)) What differentiates &quot;vigorous&quot; from &quot;zone 2&quot;
+* ([01:51](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=111s)) What differentiates &quot;vigorous&quot; from &quot;zone 2&quot;
 
-* ([09:12](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D552s)) Why zone 2 training may not improve VO2 max
+* ([09:12](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=552s)) Why zone 2 training may not improve VO2 max
 
-* ([11:34](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D694s)) Balancing zone 2 &amp; vigorous-intensity workouts
+* ([11:34](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=694s)) Balancing zone 2 &amp; vigorous-intensity workouts
 
-* ([13:32](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D812s)) Norwegian 4x4 protocol improves VO2 max
+* ([13:32](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=812s)) Norwegian 4x4 protocol improves VO2 max
 
-* ([16:52](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1012s)) Methods to estimate VO2 max outside a lab
+* ([16:52](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1012s)) Methods to estimate VO2 max outside a lab
 
-* ([19:49](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1189s)) What it takes to reverse 20 years of heart aging
+* ([19:49](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1189s)) What it takes to reverse 20 years of heart aging
 
-* ([25:40](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1540s)) How HIIT reduces type 2 diabetes risk
+* ([25:40](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1540s)) How HIIT reduces type 2 diabetes risk
 
-* ([26:54](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1614s)) HIIT vs. Zone 2 for mitochondria
+* ([26:54](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1614s)) HIIT vs. Zone 2 for mitochondria
 
-* ([29:25](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1765s)) Should committed exercisers practice 80/20 rule?
+* ([29:25](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1765s)) Should committed exercisers practice 80/20 rule?
 
-* ([32:35](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D1955s)) Vigorous exercise enhances mitophagy
+* ([32:35](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=1955s)) Vigorous exercise enhances mitophagy
 
-* ([35:20](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2120s)) Why lactate from HIIT benefits the brain
+* ([35:20](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2120s)) Why lactate from HIIT benefits the brain
 
-* ([37:45](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2265s)) How lactate allows &quot;glucose sparing&quot; in brain
+* ([37:45](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2265s)) How lactate allows &quot;glucose sparing&quot; in brain
 
-* ([40:43](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2443s)) The BDNF benefits of HIIT
+* ([40:43](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2443s)) The BDNF benefits of HIIT
 
-* [41:59](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2519s)) Lactate signals the growth of new blood vessels
+* [41:59](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2519s)) Lactate signals the growth of new blood vessels
 
-* ([44:15](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2655s)) Exercise intensity increases myokine release
+* ([44:15](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2655s)) Exercise intensity increases myokine release
 
-* ([47:04](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2824s)) Exercise lowers mortality risk in cancer survivors
+* ([47:04](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2824s)) Exercise lowers mortality risk in cancer survivors
 
-* ([48:13](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2893s)) Vigorous exercise kills circulating tumor cells
+* ([48:13](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2893s)) Vigorous exercise kills circulating tumor cells
 
-* ([49:53](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D2993s)) Why exercise reduces depression and neurotoxicity (kynurenine mechanism)
+* ([49:53](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=2993s)) Why exercise reduces depression and neurotoxicity (kynurenine mechanism)
 
-* ([51:58](https://www.youtube.com/watch%3Fv%3DYXl1evV_spo%26t%3D3118s)) How &quot;exercise snacks&quot; reduce mortality
+* ([51:58](https://www.youtube.com/watch?v=YXl1evV_spo&amp;t=3118s)) How &quot;exercise snacks&quot; reduce mortality
 
 ---
 
@@ -254,7 +254,7 @@ Markdown:
 
 * [Association between physical activity and mortality among breast cancer and colorectal cancer survivors: a systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0923753419366840) - Exercise before or after breast and colorectal cancer diagnosis lowers mortality risk in survivors.
 
-* [Effects of exercise on circulating tumor cells among patients with resected stage I-III colon cancer](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0204875) - Both low and high-dose exercise may decrease circulating tumor cells in colon cancer patients.
+* [Effects of exercise on circulating tumor cells among patients with resected stage I-III colon cancer](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204875) - Both low and high-dose exercise may decrease circulating tumor cells in colon cancer patients.
 
 * [‘Exercise snacks’ before meals: a novel strategy to improve glycaemic control in individuals with insulin resistance](https://pubmed.ncbi.nlm.nih.gov/24817675/) - Short, intense exercise before meals effectively improves blood sugar control in those with insulin resistance.
 

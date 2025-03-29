@@ -52,7 +52,7 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Depression](/categories/depression)
 
-[Anxiety](https://VitaminDWiki.com/Depression%23Anxiety_studies)
+[Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies)
 
 <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Schizophrenia</a>
 
@@ -108,7 +108,7 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Depression](/categories/depression)
 
-[Anxiety](https://VitaminDWiki.com/Depression%23Anxiety_studies)
+[Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies)
 
 &lt;a href=&quot;/posts/overview-schizophrenia-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Schizophrenia and Vitamin D&quot;&gt;Schizophrenia&lt;/a&gt;
 

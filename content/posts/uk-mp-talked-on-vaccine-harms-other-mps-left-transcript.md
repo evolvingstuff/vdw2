@@ -20,7 +20,7 @@ categories:
 
 0:00:00.0 Deputy Speaker:  **Mr. Andrew Bridgen** 
 
- **[Youtube](https://www.youtube.com/watch%3Fv%3DWnFEnuAQmjQ%26t%3D10s)** 
+ **[Youtube](https://www.youtube.com/watch?v=WnFEnuAQmjQ&t=10s)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
@@ -104,7 +104,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [Andrew Bridgen: Disgraced MP free to raise anti-vax conspiracy theories in the Commons, Speaker says](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694) iNews UK March 17, 2023
 
-* [Dr.Campbell YouTube](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg) March 17  [Dr. Campbell March 19](https://www.youtube.com/watch%3Fv%3DSpGcEf2yCok)
+* [Dr.Campbell YouTube](https://www.youtube.com/watch?v=JvSHD_n3Lyg) March 17  [Dr. Campbell March 19](https://www.youtube.com/watch?v=SpGcEf2yCok)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Bridgen)
 
@@ -138,7 +138,7 @@ Looking at the government’s data, Bridgen points out that the COVID-19 vaccine
 
 During his presentation, the MP presented a series of numbers he claimed were from the government’s own data revealing not only high numbers of serious adverse events, but also the high costs to prevent just one COVID-19 infection or hospitalization in various age cohorts. 
 
-His [speech can be watched](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg) on the YouTube channel of John Campbell. A retired nurse teacher, Campbell earned his Ph.D. with an emphasis on nurse education both domestically and abroad. Campbell, a YouTuber since 2007, has developed a sizable following questioning COVID-19 narratives, always done passively and indirectly, so as to not trip YouTube censorship algorithms as the retired nurse also can monetize his audience.
+His [speech can be watched](https://www.youtube.com/watch?v=JvSHD_n3Lyg) on the YouTube channel of John Campbell. A retired nurse teacher, Campbell earned his Ph.D. with an emphasis on nurse education both domestically and abroad. Campbell, a YouTuber since 2007, has developed a sizable following questioning COVID-19 narratives, always done passively and indirectly, so as to not trip YouTube censorship algorithms as the retired nurse also can monetize his audience.
 
  **Summary of what many will consider outlandish claims** 
 
@@ -172,7 +172,7 @@ As [reported by The Guardian](https://www.theguardian.com/politics/2022/nov/03
 
 The MPs much thicker political mud associated with being part of the nationalist/populist conservative-leaning movement (a historical trend?) across many developed nations starting about a decade ago, rejecting the neoliberal globalization project, while embracing decoupling programs such as Brexit, which again reflects changing socio-economic and political, and military dynamics around the world.
 
- **Call to Action** : Watch the [British MP’s presentation via the Dr. Joh Campbell YouTube channel](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg). Is the MP’s interpretation of the data accurate? If so, this has profound implications.
+ **Call to Action** : Watch the [British MP’s presentation via the Dr. Joh Campbell YouTube channel](https://www.youtube.com/watch?v=JvSHD_n3Lyg). Is the MP’s interpretation of the data accurate? If so, this has profound implications.
 
 ---
 
@@ -201,7 +201,7 @@ Markdown:
 
 0:00:00.0 Deputy Speaker:  **Mr. Andrew Bridgen** 
 
- **[Youtube](https://www.youtube.com/watch%3Fv%3DWnFEnuAQmjQ%26t%3D10s)** 
+ **[Youtube](https://www.youtube.com/watch?v=WnFEnuAQmjQ&amp;t=10s)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 
@@ -285,7 +285,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [Andrew Bridgen: Disgraced MP free to raise anti-vax conspiracy theories in the Commons, Speaker says](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694) iNews UK March 17, 2023
 
-* [Dr.Campbell YouTube](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg) March 17  [Dr. Campbell March 19](https://www.youtube.com/watch%3Fv%3DSpGcEf2yCok)
+* [Dr.Campbell YouTube](https://www.youtube.com/watch?v=JvSHD_n3Lyg) March 17  [Dr. Campbell March 19](https://www.youtube.com/watch?v=SpGcEf2yCok)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Bridgen)
 
@@ -319,7 +319,7 @@ Looking at the government’s data, Bridgen points out that the COVID-19 vaccine
 
 During his presentation, the MP presented a series of numbers he claimed were from the government’s own data revealing not only high numbers of serious adverse events, but also the high costs to prevent just one COVID-19 infection or hospitalization in various age cohorts. 
 
-His [speech can be watched](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg) on the YouTube channel of John Campbell. A retired nurse teacher, Campbell earned his Ph.D. with an emphasis on nurse education both domestically and abroad. Campbell, a YouTuber since 2007, has developed a sizable following questioning COVID-19 narratives, always done passively and indirectly, so as to not trip YouTube censorship algorithms as the retired nurse also can monetize his audience.
+His [speech can be watched](https://www.youtube.com/watch?v=JvSHD_n3Lyg) on the YouTube channel of John Campbell. A retired nurse teacher, Campbell earned his Ph.D. with an emphasis on nurse education both domestically and abroad. Campbell, a YouTuber since 2007, has developed a sizable following questioning COVID-19 narratives, always done passively and indirectly, so as to not trip YouTube censorship algorithms as the retired nurse also can monetize his audience.
 
  **Summary of what many will consider outlandish claims** 
 
@@ -353,7 +353,7 @@ As [reported by The Guardian](https://www.theguardian.com/politics/2022/nov/03
 
 The MPs much thicker political mud associated with being part of the nationalist/populist conservative-leaning movement (a historical trend?) across many developed nations starting about a decade ago, rejecting the neoliberal globalization project, while embracing decoupling programs such as Brexit, which again reflects changing socio-economic and political, and military dynamics around the world.
 
- **Call to Action** : Watch the [British MP’s presentation via the Dr. Joh Campbell YouTube channel](https://www.youtube.com/watch%3Fv%3DJvSHD_n3Lyg). Is the MP’s interpretation of the data accurate? If so, this has profound implications.
+ **Call to Action** : Watch the [British MP’s presentation via the Dr. Joh Campbell YouTube channel](https://www.youtube.com/watch?v=JvSHD_n3Lyg). Is the MP’s interpretation of the data accurate? If so, this has profound implications.
 
 ---
 

@@ -42,7 +42,7 @@ The world copied the US mistake of 600 IU
 
 #### The IOM Miscalculated Its RDA For Vitamin D - GrassrootsHealth March 2024
 
- **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
 
 ---
 
@@ -126,11 +126,11 @@ also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta
 
 ---
 
-#### VitaminDWiki – <span>[tiki-index.php?page_id=5217]</span>:
+#### VitaminDWiki – <a href="/posts/50000-iu-bi-weekly-3500-iu-daily-fights" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">50,000 IU bi-weekly (3,500 IU daily) fights</a>:
 
 ---
 
-#### VitaminDWiki –<span>[tiki-index.php?page_id=5217]</span>:
+#### VitaminDWiki –<a href="/posts/50000-iu-weekly-7100-iu-daily-fights" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">50,000 IU weekly (7,100 IU daily) fights</a>:
 
 ---
 
@@ -203,7 +203,7 @@ The world copied the US mistake of 600 IU
 
 #### The IOM Miscalculated Its RDA For Vitamin D - GrassrootsHealth March 2024
 
- **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
 
 ---
 
@@ -287,11 +287,11 @@ also &lt;a href=&quot;/posts/137-health-problems-associated-with-low-vitamin-d-m
 
 ---
 
-#### VitaminDWiki – &lt;span&gt;[tiki-index.php?page_id=5217]&lt;/span&gt;:
+#### VitaminDWiki – &lt;a href=&quot;/posts/50000-iu-bi-weekly-3500-iu-daily-fights&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 5217&quot;&gt;50,000 IU bi-weekly (3,500 IU daily) fights&lt;/a&gt;:
 
 ---
 
-#### VitaminDWiki –&lt;span&gt;[tiki-index.php?page_id=5217]&lt;/span&gt;:
+#### VitaminDWiki –&lt;a href=&quot;/posts/50000-iu-weekly-7100-iu-daily-fights&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 5217&quot;&gt;50,000 IU weekly (7,100 IU daily) fights&lt;/a&gt;:
 
 ---
 

@@ -16,7 +16,7 @@ categories:
 
 Other topics I might have it make timelines for include:
 
-[Magnesium Health](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14443), Omega-3 health, "vitamin D" "vitamin K", Diabetes, Pregnancy "vitamin d" 
+<a href="/posts/magnesium-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14443">Magnesium Health</a>, Omega-3 health, "vitamin D" "vitamin K", Diabetes, Pregnancy "vitamin d" 
 
 | | |
 | --- | --- |
@@ -78,7 +78,7 @@ Markdown:
 
 Other topics I might have it make timelines for include:
 
-[Magnesium Health](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14443), Omega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; 
+&lt;a href=&quot;/posts/magnesium-health&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14443&quot;&gt;Magnesium Health&lt;/a&gt;, Omega-3 health, &quot;vitamin D&quot; &quot;vitamin K&quot;, Diabetes, Pregnancy &quot;vitamin d&quot; 
 
 | | |
 | --- | --- |

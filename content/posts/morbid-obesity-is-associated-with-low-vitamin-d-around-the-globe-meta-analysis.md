@@ -27,7 +27,7 @@ Methods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE f
 
 Results: We identified 109 eligible observational studies. 
 
-* Overall, 59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/mL](25(OH)D%20%26lt;20%20ng/mL), 
+* Overall, 59.44% of patients had vitamin D deficiency [25(OH)D &lt;20 ng/mL](25(OH)D%20&lt;20%20ng/mL), 
 
 * whereas 26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/mL](25(OH)D%2020-30%20ng/mL). 
 
@@ -446,7 +446,7 @@ Methods: We searched Medline, PubMed, Scopus, the Cochrane Library, and EMBASE f
 
 Results: We identified 109 eligible observational studies. 
 
-* Overall, 59.44% of patients had vitamin D deficiency [25(OH)D &amp;lt;20 ng/mL](25(OH)D%20%26lt;20%20ng/mL), 
+* Overall, 59.44% of patients had vitamin D deficiency [25(OH)D &amp;lt;20 ng/mL](25(OH)D%20&amp;lt;20%20ng/mL), 
 
 * whereas 26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/mL](25(OH)D%2020-30%20ng/mL). 
 

@@ -50,7 +50,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin%2BD%2Band%2BOmega-3%23Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
 ---
 
@@ -105,7 +105,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin%2BD%2Band%2BOmega-3%23Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
 ---
 

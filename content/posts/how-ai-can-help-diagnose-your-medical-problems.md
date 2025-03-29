@@ -185,13 +185,13 @@ Will probably encourage the Chat to ask for clarifying information if needed (la
 
  **It will only be available on their network** 
 
- **[URL](https://www.reuters.com/business/healthcare-pharmaceuticals/mayo-clinic-pairs-with-cerebras-systems-help-develop-ai-health-care-2024-01-09/%3Futm_source%3Dbensbites%26utm_medium%3Dnewsletter%26utm_campaign%3Ddaily-digest-gen-ai-in-our-daily-life)** 
+ **[URL](https://www.reuters.com/business/healthcare-pharmaceuticals/mayo-clinic-pairs-with-cerebras-systems-help-develop-ai-health-care-2024-01-09/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-gen-ai-in-our-daily-life)** 
 
 ---
 
 #### A glimps of the future: Dr Google?
 
- **[Google Claims Healthcare AI More Empathetic, Accurate Than Real-Life Doctors](https://www.pymnts.com/artificial-intelligence-2/2024/google-claims-healthcare-ai-more-empathetic-accurate-than-real-life-doctors/%23:~:text%3DBut%20the%20AMIE%20chatbot%2C%20based%2Cboth%20respiratory%20and%20cardiovascular%20conditions.%20) Jan 2024** 
+ **[Google Claims Healthcare AI More Empathetic, Accurate Than Real-Life Doctors](https://www.pymnts.com/artificial-intelligence-2/2024/google-claims-healthcare-ai-more-empathetic-accurate-than-real-life-doctors/#:~:text=But%20the%20AMIE%20chatbot%2C%20based,both%20respiratory%20and%20cardiovascular%20conditions.%20) Jan 2024** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -372,13 +372,13 @@ Will probably encourage the Chat to ask for clarifying information if needed (la
 
  **It will only be available on their network** 
 
- **[URL](https://www.reuters.com/business/healthcare-pharmaceuticals/mayo-clinic-pairs-with-cerebras-systems-help-develop-ai-health-care-2024-01-09/%3Futm_source%3Dbensbites%26utm_medium%3Dnewsletter%26utm_campaign%3Ddaily-digest-gen-ai-in-our-daily-life)** 
+ **[URL](https://www.reuters.com/business/healthcare-pharmaceuticals/mayo-clinic-pairs-with-cerebras-systems-help-develop-ai-health-care-2024-01-09/?utm_source=bensbites&amp;utm_medium=newsletter&amp;utm_campaign=daily-digest-gen-ai-in-our-daily-life)** 
 
 ---
 
 #### A glimps of the future: Dr Google?
 
- **[Google Claims Healthcare AI More Empathetic, Accurate Than Real-Life Doctors](https://www.pymnts.com/artificial-intelligence-2/2024/google-claims-healthcare-ai-more-empathetic-accurate-than-real-life-doctors/%23:~:text%3DBut%20the%20AMIE%20chatbot%2C%20based%2Cboth%20respiratory%20and%20cardiovascular%20conditions.%20) Jan 2024** 
+ **[Google Claims Healthcare AI More Empathetic, Accurate Than Real-Life Doctors](https://www.pymnts.com/artificial-intelligence-2/2024/google-claims-healthcare-ai-more-empathetic-accurate-than-real-life-doctors/#:~:text=But%20the%20AMIE%20chatbot%2C%20based,both%20respiratory%20and%20cardiovascular%20conditions.%20) Jan 2024** 
 
 AST Structure:
 -------------

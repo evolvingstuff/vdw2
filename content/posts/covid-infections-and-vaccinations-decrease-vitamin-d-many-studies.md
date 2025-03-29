@@ -42,7 +42,7 @@ categories:
 
 * [More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023](/posts/more-psoriasis-flares-following-second-covid-vaccination-if-lowish-vitamin-d)
 
-* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13765%23Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
+* <a href="/posts/long-covid-22x-more-likely-if-had-2-covid-vaccinations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13765">Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022</a>
 
  **Vaccination and/or Infection** 
 
@@ -117,7 +117,7 @@ Markdown:
 
 * [More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023](/posts/more-psoriasis-flares-following-second-covid-vaccination-if-lowish-vitamin-d)
 
-* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13765%23Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
+* &lt;a href=&quot;/posts/long-covid-22x-more-likely-if-had-2-covid-vaccinations&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13765&quot;&gt;Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022&lt;/a&gt;
 
  **Vaccination and/or Infection** 
 

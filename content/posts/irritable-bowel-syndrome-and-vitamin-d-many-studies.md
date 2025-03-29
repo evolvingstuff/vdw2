@@ -80,7 +80,7 @@ It is necessary to carry out epidemiological studies on the relationship between
 
 #### 15,100 items in search for VITAMIN D and IBS - includes 2 meta-analyses
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22vitamin%2BD%22%2B%22irritable%2Bbowel%2Bsyndrome%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22vitamin+D%22+%22irritable+bowel+syndrome%22&btnG=)** 
 
 * Vitamin D supplementation for irritable bowel syndrome: A systematic review and  **meta-analysis**  - April 2022 https://doi.org/10.1111/jgh.15852 &nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
 
@@ -218,7 +218,7 @@ It is necessary to carry out epidemiological studies on the relationship between
 
 #### 15,100 items in search for VITAMIN D and IBS - includes 2 meta-analyses
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22vitamin%2BD%22%2B%22irritable%2Bbowel%2Bsyndrome%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22vitamin+D%22+%22irritable+bowel+syndrome%22&amp;btnG=)** 
 
 * Vitamin D supplementation for irritable bowel syndrome: A systematic review and  **meta-analysis**  - April 2022 https://doi.org/10.1111/jgh.15852 &amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
 

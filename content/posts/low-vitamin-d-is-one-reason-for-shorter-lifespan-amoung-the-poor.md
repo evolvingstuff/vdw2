@@ -31,7 +31,7 @@ People below the poverty level are 2X more likely to smoke, which reduces Vitami
 
 #### AN EPIDEMIC OF CHRONIC ILLNESS IS KILLING US TOO SOON - Dec 2023
 
- **[Washington Post Oct 2023](https://www.washingtonpost.com/health/interactive/2023/american-life-expectancy-dropping/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most)** 
+ **[Washington Post Oct 2023](https://www.washingtonpost.com/health/interactive/2023/american-life-expectancy-dropping/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
@@ -100,7 +100,7 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 
 ---
 
-##### 2X more years of [smoking if below poverty line](https://www.lung.org/research/sotc/by-the-numbers/top-10-populations-affected%23:~:text%3D%2435%2C000%20a%20Year-%2CAmericans%20making%20less%20than%20%2435%2C000%20a%2Ca%20smoking%20rate%20of%2020.2%25.%26text%3DPeople%20living%20in%20poverty%20smoke%2Cthree%20times%20the%20poverty%20rate.) (compared to >3X higher incomes)
+##### 2X more years of [smoking if below poverty line](https://www.lung.org/research/sotc/by-the-numbers/top-10-populations-affected#:~:text=%2435%2C000%20a%20Year-,Americans%20making%20less%20than%20%2435%2C000%20a,a%20smoking%20rate%20of%2020.2%25.&text=People%20living%20in%20poverty%20smoke,three%20times%20the%20poverty%20rate.) (compared to >3X higher incomes)
 
 ---
 
@@ -141,7 +141,7 @@ People below the poverty level are 2X more likely to smoke, which reduces Vitami
 
 #### AN EPIDEMIC OF CHRONIC ILLNESS IS KILLING US TOO SOON - Dec 2023
 
- **[Washington Post Oct 2023](https://www.washingtonpost.com/health/interactive/2023/american-life-expectancy-dropping/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most)** 
+ **[Washington Post Oct 2023](https://www.washingtonpost.com/health/interactive/2023/american-life-expectancy-dropping/?utm_campaign=wp_post_most&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_most)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
@@ -210,7 +210,7 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 
 ---
 
-##### 2X more years of [smoking if below poverty line](https://www.lung.org/research/sotc/by-the-numbers/top-10-populations-affected%23:~:text%3D%2435%2C000%20a%20Year-%2CAmericans%20making%20less%20than%20%2435%2C000%20a%2Ca%20smoking%20rate%20of%2020.2%25.%26text%3DPeople%20living%20in%20poverty%20smoke%2Cthree%20times%20the%20poverty%20rate.) (compared to &gt;3X higher incomes)
+##### 2X more years of [smoking if below poverty line](https://www.lung.org/research/sotc/by-the-numbers/top-10-populations-affected#:~:text=%2435%2C000%20a%20Year-,Americans%20making%20less%20than%20%2435%2C000%20a,a%20smoking%20rate%20of%2020.2%25.&amp;text=People%20living%20in%20poverty%20smoke,three%20times%20the%20poverty%20rate.) (compared to &gt;3X higher incomes)
 
 ---
 

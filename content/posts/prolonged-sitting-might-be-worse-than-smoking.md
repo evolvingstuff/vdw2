@@ -21,31 +21,31 @@ date: 2024-01-12
 
 * "A study 6 published in 2015 found that, compared to those who exercised often and engaged in few sedentary behaviors, those who rarely exercised and spent many hours sitting had an almost  **eightfold increased risk of dying prematurely** ."
 
-* [1](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-1-140310479) &nbsp; [Diabetologia November 2012;55(11):2895-905](https://pubmed.ncbi.nlm.nih.gov/22890825/)
+* [1](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-1-140310479) &nbsp; [Diabetologia November 2012;55(11):2895-905](https://pubmed.ncbi.nlm.nih.gov/22890825/)
 
-* [2](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-2-140310479)&nbsp;[NPR December 22, 2014](https://www.npr.org/blogs/health/2014/12/22/372441550/when-humans-quit-hunting-and-gathering-their-bones-got-wimpy)
+* [2](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-2-140310479)&nbsp;[NPR December 22, 2014](https://www.npr.org/blogs/health/2014/12/22/372441550/when-humans-quit-hunting-and-gathering-their-bones-got-wimpy)
 
-* [3](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-3-140310479)&nbsp;[Proceedings of the National Academy of Sciences December 22, 112(2): 366-371](https://www.pnas.org/content/early/2014/12/17/1411696112.abstract%3Fsid%3Dda9780dc-3c3a-40a5-87e8-21d1553a5886)
+* [3](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-3-140310479)&nbsp;[Proceedings of the National Academy of Sciences December 22, 112(2): 366-371](https://www.pnas.org/content/early/2014/12/17/1411696112.abstract?sid=da9780dc-3c3a-40a5-87e8-21d1553a5886)
 
-* [4](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-4-140310479) &nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting<strong>the_population_health_science_of.3.aspx)
+* [4](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-4-140310479) &nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting<strong>the_population_health_science_of.3.aspx)
 
-* [5](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-5-140310479)&nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting</strong>the_population_health_science_of.3.aspx)
+* [5](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-5-140310479)&nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting</strong>the_population_health_science_of.3.aspx)
 
-* [6](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-6-140310479) &nbsp;[PLoS One 2015;10(3): e0119591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358950/)
+* [6](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-6-140310479) &nbsp;[PLoS One 2015;10(3): e0119591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358950/)
 
-* [7](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-7-140310479) &nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx%3Farticleid%3D2091327)
+* [7](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-7-140310479) &nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx?articleid=2091327)
 
-* [8](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-8-140310479) &nbsp;[BMJ January 21, 2015](https://blogs.bmj.com/bjsm/2015/01/21/sitting-ducks-sedentary-behaviour-and-its-health-risks-part-one-of-a-two-part-series/)
+* [8](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-8-140310479) &nbsp;[BMJ January 21, 2015](https://blogs.bmj.com/bjsm/2015/01/21/sitting-ducks-sedentary-behaviour-and-its-health-risks-part-one-of-a-two-part-series/)
 
-* [9](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-9-140310479)&nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx%3Farticleid%3D2091327)
+* [9](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-9-140310479)&nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx?articleid=2091327)
 
-* [10](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-10-140310479)&nbsp;[Mayo Clinic Proceedings November 2015: 90(11); 1524-1532](https://www.mayoclinicproceedings.org/article/S0025-6196(15)00628-X/fulltext%23sec1.2.2)
+* [10](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-10-140310479)&nbsp;[Mayo Clinic Proceedings November 2015: 90(11); 1524-1532](https://www.mayoclinicproceedings.org/article/S0025-6196(15)00628-X/fulltext#sec1.2.2)
 
-* [11](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-11-140310479)&nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting__the_population_health_science_of.3.aspx)
+* [11](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-11-140310479)&nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting__the_population_health_science_of.3.aspx)
 
-* [12](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-12-140310479)&nbsp;[Journal of Lifestyle Medicine July 2017; 7(2): 69–75](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618737/)
+* [12](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-12-140310479)&nbsp;[Journal of Lifestyle Medicine July 2017; 7(2): 69–75](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618737/)
 
-* [13](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-13-140310479) &nbsp;[Missouri Medicine March-April 2023; 120(2): 155–162](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121111/)
+* [13](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-13-140310479) &nbsp;[Missouri Medicine March-April 2023; 120(2): 155–162](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121111/)
 
 <!-- ~tc~ (alias(Prolonged sitting might be worsse than smoking - Jan 2024)) ~/tc~ -->
 
@@ -67,31 +67,31 @@ Markdown:
 
 * &quot;A study 6 published in 2015 found that, compared to those who exercised often and engaged in few sedentary behaviors, those who rarely exercised and spent many hours sitting had an almost  **eightfold increased risk of dying prematurely** .&quot;
 
-* [1](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-1-140310479) &amp;nbsp; [Diabetologia November 2012;55(11):2895-905](https://pubmed.ncbi.nlm.nih.gov/22890825/)
+* [1](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-1-140310479) &amp;nbsp; [Diabetologia November 2012;55(11):2895-905](https://pubmed.ncbi.nlm.nih.gov/22890825/)
 
-* [2](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-2-140310479)&amp;nbsp;[NPR December 22, 2014](https://www.npr.org/blogs/health/2014/12/22/372441550/when-humans-quit-hunting-and-gathering-their-bones-got-wimpy)
+* [2](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-2-140310479)&amp;nbsp;[NPR December 22, 2014](https://www.npr.org/blogs/health/2014/12/22/372441550/when-humans-quit-hunting-and-gathering-their-bones-got-wimpy)
 
-* [3](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-3-140310479)&amp;nbsp;[Proceedings of the National Academy of Sciences December 22, 112(2): 366-371](https://www.pnas.org/content/early/2014/12/17/1411696112.abstract%3Fsid%3Dda9780dc-3c3a-40a5-87e8-21d1553a5886)
+* [3](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-3-140310479)&amp;nbsp;[Proceedings of the National Academy of Sciences December 22, 112(2): 366-371](https://www.pnas.org/content/early/2014/12/17/1411696112.abstract?sid=da9780dc-3c3a-40a5-87e8-21d1553a5886)
 
-* [4](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-4-140310479) &amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting&lt;strong&gt;the_population_health_science_of.3.aspx)
+* [4](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-4-140310479) &amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting&lt;strong&gt;the_population_health_science_of.3.aspx)
 
-* [5](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-5-140310479)&amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting&lt;/strong&gt;the_population_health_science_of.3.aspx)
+* [5](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-5-140310479)&amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting&lt;/strong&gt;the_population_health_science_of.3.aspx)
 
-* [6](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-6-140310479) &amp;nbsp;[PLoS One 2015;10(3): e0119591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358950/)
+* [6](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-6-140310479) &amp;nbsp;[PLoS One 2015;10(3): e0119591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358950/)
 
-* [7](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-7-140310479) &amp;nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx%3Farticleid%3D2091327)
+* [7](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-7-140310479) &amp;nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx?articleid=2091327)
 
-* [8](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-8-140310479) &amp;nbsp;[BMJ January 21, 2015](https://blogs.bmj.com/bjsm/2015/01/21/sitting-ducks-sedentary-behaviour-and-its-health-risks-part-one-of-a-two-part-series/)
+* [8](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-8-140310479) &amp;nbsp;[BMJ January 21, 2015](https://blogs.bmj.com/bjsm/2015/01/21/sitting-ducks-sedentary-behaviour-and-its-health-risks-part-one-of-a-two-part-series/)
 
-* [9](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-9-140310479)&amp;nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx%3Farticleid%3D2091327)
+* [9](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-9-140310479)&amp;nbsp;[Annals of Internal Medicine 2015;162(2):123-132](https://annals.org/article.aspx?articleid=2091327)
 
-* [10](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-10-140310479)&amp;nbsp;[Mayo Clinic Proceedings November 2015: 90(11); 1524-1532](https://www.mayoclinicproceedings.org/article/S0025-6196(15)00628-X/fulltext%23sec1.2.2)
+* [10](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-10-140310479)&amp;nbsp;[Mayo Clinic Proceedings November 2015: 90(11); 1524-1532](https://www.mayoclinicproceedings.org/article/S0025-6196(15)00628-X/fulltext#sec1.2.2)
 
-* [11](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-11-140310479)&amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting__the_population_health_science_of.3.aspx)
+* [11](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-11-140310479)&amp;nbsp;[Exercise and Sport Sciences Reviews July 2010; 38(3): 105-113, Metabolic Health Consequences of Too Much Sitting section](https://journals.lww.com/acsm-essr/fulltext/2010/07000/too_much_sitting__the_population_health_science_of.3.aspx)
 
-* [12](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-12-140310479)&amp;nbsp;[Journal of Lifestyle Medicine July 2017; 7(2): 69–75](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618737/)
+* [12](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-12-140310479)&amp;nbsp;[Journal of Lifestyle Medicine July 2017; 7(2): 69–75](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618737/)
 
-* [13](https://takecontrol.substack.com/p/prolonged-sitting-risks%23footnote-anchor-13-140310479) &amp;nbsp;[Missouri Medicine March-April 2023; 120(2): 155–162](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121111/)
+* [13](https://takecontrol.substack.com/p/prolonged-sitting-risks#footnote-anchor-13-140310479) &amp;nbsp;[Missouri Medicine March-April 2023; 120(2): 155–162](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121111/)
 
 &lt;!-- ~tc~ (alias(Prolonged sitting might be worsse than smoking - Jan 2024)) ~/tc~ --&gt;
 

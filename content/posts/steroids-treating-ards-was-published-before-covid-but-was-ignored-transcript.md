@@ -17,7 +17,7 @@ categories:
 
 #### Video - steroids
 
- **[Early steroid treatments for COVID ignored by WHO (Umberto Meduri & Paul Marik & Bret Weinstein)](https://www.youtube.com/watch%3Fv%3Dk6yhEL3wLfQ%26ab_channel%3DDarkHorsePodcastClips)** 
+ **[Early steroid treatments for COVID ignored by WHO (Umberto Meduri & Paul Marik & Bret Weinstein)](https://www.youtube.com/watch?v=k6yhEL3wLfQ&ab_channel=DarkHorsePodcastClips)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -101,7 +101,7 @@ Markdown:
 
 #### Video - steroids
 
- **[Early steroid treatments for COVID ignored by WHO (Umberto Meduri &amp; Paul Marik &amp; Bret Weinstein)](https://www.youtube.com/watch%3Fv%3Dk6yhEL3wLfQ%26ab_channel%3DDarkHorsePodcastClips)** 
+ **[Early steroid treatments for COVID ignored by WHO (Umberto Meduri &amp; Paul Marik &amp; Bret Weinstein)](https://www.youtube.com/watch?v=k6yhEL3wLfQ&amp;ab_channel=DarkHorsePodcastClips)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 

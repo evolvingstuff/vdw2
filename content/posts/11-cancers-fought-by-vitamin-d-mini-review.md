@@ -50,13 +50,13 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 * [Bladder](https://VitaminDWiki.com/Cancer%20-%20Bladder) (25+)
 
-* [Bone](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (8+)
+* <a href="/posts/bone" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7048">Bone</a> (8+)
 
 * [Breast](https://VitaminDWiki.com/Cancer%20-%20Breast) (241+) [Overview](https://VitaminDWiki.com/Overview%20Breast%20Cancer%20and%20Vitamin%20D)
 
 * [Colon](https://VitaminDWiki.com/Cancer%20-%20Colon) (134+) [Overview](https://VitaminDWiki.com/Overview%20Cancer-Colon%20and%20vitamin%20D)
 
-* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer%2C%20Vitamin%20D%2C%20VDR%2C%20UV%20-%20many%20studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer,%20Vitamin%20D,%20VDR,%20UV%20-%20many%20studies) (9+)
 
 * [Leukemia](https://VitaminDWiki.com/Cancer%20-%20Leukemia) (18+)
 
@@ -66,25 +66,25 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 * [Lymphoma](https://VitaminDWiki.com/Cancer%20-%20Lymphoma) (23+)
 
-* [Melanoma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13263) (43+)
+* <a href="/posts/melanoma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13263">Melanoma</a> (43+)
 
-* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (10+)
+* <a href="/posts/multiple-myeloma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7048">Multiple Myeloma</a> (10+)
 
-* [Metastatic](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D395) (17+)
+* <a href="/posts/metastatic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 395">Metastatic</a> (17+)
 
 * [Other](https://VitaminDWiki.com/Cancer%20-%20Other) (59+) - many minor cancers also fought
 
 * [Ovarian](https://VitaminDWiki.com/Cancer%20-%20Ovarian) (23+)
 
-* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D12680) (10+)
+* <a href="/posts/pallitive-care" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12680">Pallitive Care</a> (10+)
 
 * [Pancreatic](https://VitaminDWiki.com/Cancer%20-%20Pancreatic) (54+)
 
 * [Prostate](https://VitaminDWiki.com/Cancer%20-%20Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview%20Prostate%20Cancer%20and%20Vitamin%20D)
 
-* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan%2C%20melanoma%20and%20vitamin%20D)
+* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan,%20melanoma%20and%20vitamin%20D)
 
-* [Thyroid](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D9344) (7+)
+* <a href="/posts/thyroid" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 9344">Thyroid</a> (7+)
 
 ---
 
@@ -160,13 +160,13 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 * [Bladder](https://VitaminDWiki.com/Cancer%20-%20Bladder) (25+)
 
-* [Bone](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (8+)
+* &lt;a href=&quot;/posts/bone&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 7048&quot;&gt;Bone&lt;/a&gt; (8+)
 
 * [Breast](https://VitaminDWiki.com/Cancer%20-%20Breast) (241+) [Overview](https://VitaminDWiki.com/Overview%20Breast%20Cancer%20and%20Vitamin%20D)
 
 * [Colon](https://VitaminDWiki.com/Cancer%20-%20Colon) (134+) [Overview](https://VitaminDWiki.com/Overview%20Cancer-Colon%20and%20vitamin%20D)
 
-* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer%2C%20Vitamin%20D%2C%20VDR%2C%20UV%20-%20many%20studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer,%20Vitamin%20D,%20VDR,%20UV%20-%20many%20studies) (9+)
 
 * [Leukemia](https://VitaminDWiki.com/Cancer%20-%20Leukemia) (18+)
 
@@ -176,25 +176,25 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 * [Lymphoma](https://VitaminDWiki.com/Cancer%20-%20Lymphoma) (23+)
 
-* [Melanoma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13263) (43+)
+* &lt;a href=&quot;/posts/melanoma&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13263&quot;&gt;Melanoma&lt;/a&gt; (43+)
 
-* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (10+)
+* &lt;a href=&quot;/posts/multiple-myeloma&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 7048&quot;&gt;Multiple Myeloma&lt;/a&gt; (10+)
 
-* [Metastatic](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D395) (17+)
+* &lt;a href=&quot;/posts/metastatic&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 395&quot;&gt;Metastatic&lt;/a&gt; (17+)
 
 * [Other](https://VitaminDWiki.com/Cancer%20-%20Other) (59+) - many minor cancers also fought
 
 * [Ovarian](https://VitaminDWiki.com/Cancer%20-%20Ovarian) (23+)
 
-* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D12680) (10+)
+* &lt;a href=&quot;/posts/pallitive-care&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12680&quot;&gt;Pallitive Care&lt;/a&gt; (10+)
 
 * [Pancreatic](https://VitaminDWiki.com/Cancer%20-%20Pancreatic) (54+)
 
 * [Prostate](https://VitaminDWiki.com/Cancer%20-%20Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview%20Prostate%20Cancer%20and%20Vitamin%20D)
 
-* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan%2C%20melanoma%20and%20vitamin%20D)
+* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan,%20melanoma%20and%20vitamin%20D)
 
-* [Thyroid](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D9344) (7+)
+* &lt;a href=&quot;/posts/thyroid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 9344&quot;&gt;Thyroid&lt;/a&gt; (7+)
 
 ---
 

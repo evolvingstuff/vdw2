@@ -20,7 +20,7 @@ Smoking ==> reduces Vitamin D ==> increases hair loss
 
 #### Smoking Associated With Increased Risk for Hair Loss Among Men
 
- **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men%3Fecd%3DWNL_EVE_240119_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men?ecd=WNL_EVE_240119_mdedge)** 
 
 Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
 
@@ -51,7 +51,7 @@ Smoking ==&gt; reduces Vitamin D ==&gt; increases hair loss
 
 #### Smoking Associated With Increased Risk for Hair Loss Among Men
 
- **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men%3Fecd%3DWNL_EVE_240119_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men?ecd=WNL_EVE_240119_mdedge)** 
 
 Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
 

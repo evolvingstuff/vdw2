@@ -13,7 +13,7 @@ categories:
 
 #### The numbers are in, and we can say it with certainty: Lockdowns were worse than useless
 
- **[Washington Examiner](https://www.washingtonexaminer.com/opinion/columnists/the-numbers-are-in-and-we-can-say-it-with-certainty-lockdowns-were-worse-than-useless%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Washington Examiner](https://www.washingtonexaminer.com/opinion/columnists/the-numbers-are-in-and-we-can-say-it-with-certainty-lockdowns-were-worse-than-useless?utm_source=substack&utm_medium=email)** 
 
 * About half as many COVID deaths in those Scandanavian countries that did not lockdown
 
@@ -28,7 +28,7 @@ Markdown:
 
 #### The numbers are in, and we can say it with certainty: Lockdowns were worse than useless
 
- **[Washington Examiner](https://www.washingtonexaminer.com/opinion/columnists/the-numbers-are-in-and-we-can-say-it-with-certainty-lockdowns-were-worse-than-useless%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Washington Examiner](https://www.washingtonexaminer.com/opinion/columnists/the-numbers-are-in-and-we-can-say-it-with-certainty-lockdowns-were-worse-than-useless?utm_source=substack&amp;utm_medium=email)** 
 
 * About half as many COVID deaths in those Scandanavian countries that did not lockdown
 

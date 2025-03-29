@@ -13,7 +13,7 @@ categories:
 
 #### Well Being: Eggs - Dr. Malone
 
- **[Substack](https://rwmalonemd.substack.com/p/well-being-eggs%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Substack](https://rwmalonemd.substack.com/p/well-being-eggs?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
 
 * "The USDA’s (and industry standards’) definition for “Free Range” is that birds must have “outdoor access” or “access to the outdoors.”  In some cases, this can mean access only through a “pop hole,” with  **no full-body access to the outdoors**  and no minimum space requirement. Basically a hole in the wall - from which they can stick their heads out of. Sort of."
 
@@ -36,7 +36,7 @@ Markdown:
 
 #### Well Being: Eggs - Dr. Malone
 
- **[Substack](https://rwmalonemd.substack.com/p/well-being-eggs%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Substack](https://rwmalonemd.substack.com/p/well-being-eggs?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
 
 * &quot;The USDA’s (and industry standards’) definition for “Free Range” is that birds must have “outdoor access” or “access to the outdoors.”  In some cases, this can mean access only through a “pop hole,” with  **no full-body access to the outdoors**  and no minimum space requirement. Basically a hole in the wall - from which they can stick their heads out of. Sort of.&quot;
 

@@ -72,7 +72,7 @@ Conclusion: There was an inverse association between serum magnesium and fat mas
 
 ---
 
-##### Review of [this study](https://www.grassrootshealth.net/blog/magnesium-status-may-predictor-type-2-diabetes/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters%20) is at Grassrootshealth
+##### Review of [this study](https://www.grassrootshealth.net/blog/magnesium-status-may-predictor-type-2-diabetes/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters%20) is at Grassrootshealth
 
 ---
 
@@ -180,7 +180,7 @@ Conclusion: There was an inverse association between serum magnesium and fat mas
 
 ---
 
-##### Review of [this study](https://www.grassrootshealth.net/blog/magnesium-status-may-predictor-type-2-diabetes/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters%20) is at Grassrootshealth
+##### Review of [this study](https://www.grassrootshealth.net/blog/magnesium-status-may-predictor-type-2-diabetes/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters%20) is at Grassrootshealth
 
 ---
 

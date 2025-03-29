@@ -43,7 +43,7 @@ Australian official mortality data show no clear evidence of significant excess 
 
 #### Australian 'excess deaths' are the highest since World War II - April 2023
 
- **[Daily Mail](https://www.dailymail.co.uk/news/article-11940039/amp/Australian-excess-deaths-record-highs-Covid-diabetes-dementia.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Daily Mail](https://www.dailymail.co.uk/news/article-11940039/amp/Australian-excess-deaths-record-highs-Covid-diabetes-dementia.html?utm_source=substack&utm_medium=email)** 
 
 There were over 25,000 excess deaths last year  
 
@@ -91,7 +91,7 @@ Australian official mortality data show no clear evidence of significant excess 
 
 #### Australian &#39;excess deaths&#39; are the highest since World War II - April 2023
 
- **[Daily Mail](https://www.dailymail.co.uk/news/article-11940039/amp/Australian-excess-deaths-record-highs-Covid-diabetes-dementia.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Daily Mail](https://www.dailymail.co.uk/news/article-11940039/amp/Australian-excess-deaths-record-highs-Covid-diabetes-dementia.html?utm_source=substack&amp;utm_medium=email)** 
 
 There were over 25,000 excess deaths last year  
 

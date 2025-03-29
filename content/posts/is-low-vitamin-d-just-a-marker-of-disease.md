@@ -80,7 +80,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 93 health problems
 
-* [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301%23Health_problems_fought_by_weekly_50K_Vitamin_D%20) most were RCTs
+* <a href="/posts/48-health-problems-fought-by-weekly-50k-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14301">48 Health problems fought by weekly 50K Vitamin D</a> most were RCTs
 
  **Loading Dose** 
 
@@ -265,7 +265,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;Proof that Vitamin D Works&lt;/a&gt; 93 health problems
 
-* [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301%23Health_problems_fought_by_weekly_50K_Vitamin_D%20) most were RCTs
+* &lt;a href=&quot;/posts/48-health-problems-fought-by-weekly-50k-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14301&quot;&gt;48 Health problems fought by weekly 50K Vitamin D&lt;/a&gt; most were RCTs
 
  **Loading Dose** 
 

@@ -55,7 +55,7 @@ The findings showed that low serum levels were observed more in asthmatic childr
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **[The worse the asthma in children, the lower their vitamin D level - Feb 2019](https://VitaminDWiki.com/Overview%2BAsthma%2Band%2BVitamin%2BD%23The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019)** 
+ **[The worse the asthma in children, the lower their vitamin D level - Feb 2019](https://VitaminDWiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -141,7 +141,7 @@ The findings showed that low serum levels were observed more in asthmatic childr
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
- **[The worse the asthma in children, the lower their vitamin D level - Feb 2019](https://VitaminDWiki.com/Overview%2BAsthma%2Band%2BVitamin%2BD%23The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019)** 
+ **[The worse the asthma in children, the lower their vitamin D level - Feb 2019](https://VitaminDWiki.com/Overview+Asthma+and+Vitamin+D#The_worse_the_asthma_in_children_the_lower_their_vitamin_D_level_-_Feb_2019)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 

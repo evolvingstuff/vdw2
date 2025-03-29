@@ -17,57 +17,57 @@ categories:
 
 ---
 
-#### [YouTube 1 hour](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26ab_channel%3DFoundMyFitness)
+#### [YouTube 1 hour](https://www.youtube.com/watch?v=bhkxidN2M9Q&ab_channel=FoundMyFitness)
 
 This episode features Rhonda Patrick, Ph.D., and was originally recorded for the **Institute for Functional Medicine's podcast, 'Pathways to Wellbeing.'**  This episode outlines a series of fundamental tactics you can start applying immediately to enhance cellular health, protect the nervous system, elevate mood, reduce inflammation, promote muscle and bone function, and help prevent chronic disease.
 
 ##### Sections
 
-* [00:00](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D0s)  Introduction 
+* [00:00](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=0s)  Introduction 
 
-* [01:10](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D70s) - Vitamin D deficiency — risks, why it's so common, & correcting with supplementation 
+* [01:10](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=70s) - Vitamin D deficiency — risks, why it's so common, & correcting with supplementation 
 
-* [08:26](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D506s) - Magnesium's critical role in DNA repair & synthesis 
+* [08:26](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=506s) - Magnesium's critical role in DNA repair & synthesis 
 
-* [11:55](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D715s) - The best dietary sources of magnesium 
+* [11:55](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=715s) - The best dietary sources of magnesium 
 
-* [13:11](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D791s) - Magnesium supplements: Glycinate, malate, dioxide, & citrate 
+* [13:11](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=791s) - Magnesium supplements: Glycinate, malate, dioxide, & citrate 
 
-* [14:20](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D860s) - Exercise staves off age-related disease 
+* [14:20](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=860s) - Exercise staves off age-related disease 
 
-* [14:58](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D898s) - How genetic SNPs can affect vitamin D deficiency risk 
+* [14:58](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=898s) - How genetic SNPs can affect vitamin D deficiency risk 
 
-* [20:15](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1215s) - Low omega-3 intake from seafood is a top-6 preventable cause of death 
+* [20:15](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1215s) - Low omega-3 intake from seafood is a top-6 preventable cause of death 
 
-* [22:28](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1348s) - Why ALA's conversion into EPA & DHA is inefficient 
+* [22:28](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1348s) - Why ALA's conversion into EPA & DHA is inefficient 
 
-* [25:21](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1521s) - Omega-3 index: Optimal levels & ties to increased life expectancy 
+* [25:21](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1521s) - Omega-3 index: Optimal levels & ties to increased life expectancy 
 
-* [28:33](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1713s) - How omega-3s reduce inflammation, a key driver of aging 
+* [28:33](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1713s) - How omega-3s reduce inflammation, a key driver of aging 
 
-* [30:45](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1845s) - Omega-3s protect against muscle disuse atrophy 
+* [30:45](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1845s) - Omega-3s protect against muscle disuse atrophy 
 
-* [31:44](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1904s) - Why avoiding fish during pregnancy is a huge mistake 
+* [31:44](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=1904s) - Why avoiding fish during pregnancy is a huge mistake 
 
-* [34:08](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2048s) - Omega-3s are a low-hanging fruit for improving cardiovascular & brain health 
+* [34:08](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2048s) - Omega-3s are a low-hanging fruit for improving cardiovascular & brain health 
 
-* [35:52](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2152s) - What to look for when choosing an omega-3 supplement 
+* [35:52](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2152s) - What to look for when choosing an omega-3 supplement 
 
-* [40:03](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2403s) - Hormesis: Why intermittent stressors are beneficial 
+* [40:03](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2403s) - Hormesis: Why intermittent stressors are beneficial 
 
-* [46:20](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2780s) - How to choose an exercise regimen 
+* [46:20](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2780s) - How to choose an exercise regimen 
 
-* [47:15](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2835s) - “Exercise snacks” reduce all-cause & cancer-related mortality 
+* [47:15](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2835s) - “Exercise snacks” reduce all-cause & cancer-related mortality 
 
-* [49:30](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2970s) - Brain benefits of lactate from vigorous exercise 
+* [49:30](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=2970s) - Brain benefits of lactate from vigorous exercise 
 
-* [52:29](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3149s) - How blood flow generated from aerobic exercise kills circulating tumor cells 
+* [52:29](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=3149s) - How blood flow generated from aerobic exercise kills circulating tumor cells 
 
-* [54:36](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3276s) - Rhonda's workout regimen 
+* [54:36](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=3276s) - Rhonda's workout regimen 
 
-* [55:44](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3344s) - HIIT ameliorates adverse effects of sleep deprivation 
+* [55:44](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=3344s) - HIIT ameliorates adverse effects of sleep deprivation 
 
-* [58:38](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3518s) - Exercise is the best longevity "drug"
+* [58:38](https://www.youtube.com/watch?v=bhkxidN2M9Q&t=3518s) - Exercise is the best longevity "drug"
 
 ---
 
@@ -118,9 +118,9 @@ This list is automatically updated
 
 #### 2 more YouTube videos by Dr. Rhonda Patrick on Vitamin D
 
-* [Live 5 years longer with ONE supplement (Dr. Huberman, Rhonda Patrick)](https://www.youtube.com/watch%3Fv%3DCim6pC32IBU%26t%3D1s%26ab_channel%3DHouseofLongevity) 8 minutes
+* [Live 5 years longer with ONE supplement (Dr. Huberman, Rhonda Patrick)](https://www.youtube.com/watch?v=Cim6pC32IBU&t=1s&ab_channel=HouseofLongevity) 8 minutes
 
-* [Dr. Rhonda Patrick Goes In Depth (with Rogan) on the Benefits of Vitamin D](https://www.youtube.com/watch%3Fv%3DtBSfIckPV44%26t%3D5s%26ab_channel%3DJREClips) 28 minutes, 2020
+* [Dr. Rhonda Patrick Goes In Depth (with Rogan) on the Benefits of Vitamin D](https://www.youtube.com/watch?v=tBSfIckPV44&t=5s&ab_channel=JREClips) 28 minutes, 2020
 
 ---
 
@@ -162,57 +162,57 @@ Markdown:
 
 ---
 
-#### [YouTube 1 hour](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26ab_channel%3DFoundMyFitness)
+#### [YouTube 1 hour](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;ab_channel=FoundMyFitness)
 
 This episode features Rhonda Patrick, Ph.D., and was originally recorded for the **Institute for Functional Medicine&#39;s podcast, &#39;Pathways to Wellbeing.&#39;**  This episode outlines a series of fundamental tactics you can start applying immediately to enhance cellular health, protect the nervous system, elevate mood, reduce inflammation, promote muscle and bone function, and help prevent chronic disease.
 
 ##### Sections
 
-* [00:00](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D0s)  Introduction 
+* [00:00](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=0s)  Introduction 
 
-* [01:10](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D70s) - Vitamin D deficiency — risks, why it&#39;s so common, &amp; correcting with supplementation 
+* [01:10](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=70s) - Vitamin D deficiency — risks, why it&#39;s so common, &amp; correcting with supplementation 
 
-* [08:26](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D506s) - Magnesium&#39;s critical role in DNA repair &amp; synthesis 
+* [08:26](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=506s) - Magnesium&#39;s critical role in DNA repair &amp; synthesis 
 
-* [11:55](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D715s) - The best dietary sources of magnesium 
+* [11:55](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=715s) - The best dietary sources of magnesium 
 
-* [13:11](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D791s) - Magnesium supplements: Glycinate, malate, dioxide, &amp; citrate 
+* [13:11](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=791s) - Magnesium supplements: Glycinate, malate, dioxide, &amp; citrate 
 
-* [14:20](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D860s) - Exercise staves off age-related disease 
+* [14:20](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=860s) - Exercise staves off age-related disease 
 
-* [14:58](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D898s) - How genetic SNPs can affect vitamin D deficiency risk 
+* [14:58](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=898s) - How genetic SNPs can affect vitamin D deficiency risk 
 
-* [20:15](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1215s) - Low omega-3 intake from seafood is a top-6 preventable cause of death 
+* [20:15](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1215s) - Low omega-3 intake from seafood is a top-6 preventable cause of death 
 
-* [22:28](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1348s) - Why ALA&#39;s conversion into EPA &amp; DHA is inefficient 
+* [22:28](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1348s) - Why ALA&#39;s conversion into EPA &amp; DHA is inefficient 
 
-* [25:21](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1521s) - Omega-3 index: Optimal levels &amp; ties to increased life expectancy 
+* [25:21](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1521s) - Omega-3 index: Optimal levels &amp; ties to increased life expectancy 
 
-* [28:33](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1713s) - How omega-3s reduce inflammation, a key driver of aging 
+* [28:33](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1713s) - How omega-3s reduce inflammation, a key driver of aging 
 
-* [30:45](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1845s) - Omega-3s protect against muscle disuse atrophy 
+* [30:45](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1845s) - Omega-3s protect against muscle disuse atrophy 
 
-* [31:44](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D1904s) - Why avoiding fish during pregnancy is a huge mistake 
+* [31:44](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=1904s) - Why avoiding fish during pregnancy is a huge mistake 
 
-* [34:08](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2048s) - Omega-3s are a low-hanging fruit for improving cardiovascular &amp; brain health 
+* [34:08](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2048s) - Omega-3s are a low-hanging fruit for improving cardiovascular &amp; brain health 
 
-* [35:52](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2152s) - What to look for when choosing an omega-3 supplement 
+* [35:52](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2152s) - What to look for when choosing an omega-3 supplement 
 
-* [40:03](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2403s) - Hormesis: Why intermittent stressors are beneficial 
+* [40:03](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2403s) - Hormesis: Why intermittent stressors are beneficial 
 
-* [46:20](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2780s) - How to choose an exercise regimen 
+* [46:20](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2780s) - How to choose an exercise regimen 
 
-* [47:15](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2835s) - “Exercise snacks” reduce all-cause &amp; cancer-related mortality 
+* [47:15](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2835s) - “Exercise snacks” reduce all-cause &amp; cancer-related mortality 
 
-* [49:30](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D2970s) - Brain benefits of lactate from vigorous exercise 
+* [49:30](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=2970s) - Brain benefits of lactate from vigorous exercise 
 
-* [52:29](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3149s) - How blood flow generated from aerobic exercise kills circulating tumor cells 
+* [52:29](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=3149s) - How blood flow generated from aerobic exercise kills circulating tumor cells 
 
-* [54:36](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3276s) - Rhonda&#39;s workout regimen 
+* [54:36](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=3276s) - Rhonda&#39;s workout regimen 
 
-* [55:44](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3344s) - HIIT ameliorates adverse effects of sleep deprivation 
+* [55:44](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=3344s) - HIIT ameliorates adverse effects of sleep deprivation 
 
-* [58:38](https://www.youtube.com/watch%3Fv%3DbhkxidN2M9Q%26t%3D3518s) - Exercise is the best longevity &quot;drug&quot;
+* [58:38](https://www.youtube.com/watch?v=bhkxidN2M9Q&amp;t=3518s) - Exercise is the best longevity &quot;drug&quot;
 
 ---
 
@@ -263,9 +263,9 @@ This list is automatically updated
 
 #### 2 more YouTube videos by Dr. Rhonda Patrick on Vitamin D
 
-* [Live 5 years longer with ONE supplement (Dr. Huberman, Rhonda Patrick)](https://www.youtube.com/watch%3Fv%3DCim6pC32IBU%26t%3D1s%26ab_channel%3DHouseofLongevity) 8 minutes
+* [Live 5 years longer with ONE supplement (Dr. Huberman, Rhonda Patrick)](https://www.youtube.com/watch?v=Cim6pC32IBU&amp;t=1s&amp;ab_channel=HouseofLongevity) 8 minutes
 
-* [Dr. Rhonda Patrick Goes In Depth (with Rogan) on the Benefits of Vitamin D](https://www.youtube.com/watch%3Fv%3DtBSfIckPV44%26t%3D5s%26ab_channel%3DJREClips) 28 minutes, 2020
+* [Dr. Rhonda Patrick Goes In Depth (with Rogan) on the Benefits of Vitamin D](https://www.youtube.com/watch?v=tBSfIckPV44&amp;t=5s&amp;ab_channel=JREClips) 28 minutes, 2020
 
 ---
 

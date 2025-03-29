@@ -14,7 +14,7 @@ categories:
 
  **Galllup chart used a difficult-to-see line, which VDW had changed to <span style="color:orange;">red </span>for visability** 
 
- **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx?utm_source=substack&utm_medium=email)** 
 
  **Does not indicate the # of people surveyed, how they were surveyed, nor the exact questions.** 
 
@@ -46,7 +46,7 @@ Markdown:
 
  **Galllup chart used a difficult-to-see line, which VDW had changed to &lt;span style=&quot;color:orange;&quot;&gt;red &lt;/span&gt;for visability** 
 
- **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx?utm_source=substack&amp;utm_medium=email)** 
 
  **Does not indicate the # of people surveyed, how they were surveyed, nor the exact questions.** 
 

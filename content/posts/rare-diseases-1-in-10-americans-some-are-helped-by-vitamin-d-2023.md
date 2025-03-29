@@ -22,7 +22,7 @@ Of those, 70% start in childhood.  (56% of rare diseases start in childhood)
 
  **The founder of VitaminDWiki has seen many "rare" diseases fought by Vitamin D, but had not posted them since so few people would be interested in each disease** 
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22rare%2Bdisease%22%2B%22vitamin%2Bd%22%26btnG%3D) Sept 2023 &nbsp; 11,000 hits for "rare disease" "vitamin d"** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22rare+disease%22+%22vitamin+d%22&btnG=) Sept 2023 &nbsp; 11,000 hits for "rare disease" "vitamin d"** 
 
 <!-- ~tc~ (alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) ~/tc~ -->
 
@@ -45,7 +45,7 @@ Of those, 70% start in childhood.  (56% of rare diseases start in childhood)
 
  **The founder of VitaminDWiki has seen many &quot;rare&quot; diseases fought by Vitamin D, but had not posted them since so few people would be interested in each disease** 
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22rare%2Bdisease%22%2B%22vitamin%2Bd%22%26btnG%3D) Sept 2023 &amp;nbsp; 11,000 hits for &quot;rare disease&quot; &quot;vitamin d&quot;** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22rare+disease%22+%22vitamin+d%22&amp;btnG=) Sept 2023 &amp;nbsp; 11,000 hits for &quot;rare disease&quot; &quot;vitamin d&quot;** 
 
 &lt;!-- ~tc~ (alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) ~/tc~ --&gt;
 

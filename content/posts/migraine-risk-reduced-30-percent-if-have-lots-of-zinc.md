@@ -16,7 +16,7 @@ date: 2023-01-17
 
 #### Dietary zinc seen reducing migraine risk
 
- **[MDEdge](https://www.mdedge.com/neurology/article/260634/headache-migraine/dietary-zinc-seen-reducing-migraine-risk%3Fecd%3DWNL_EVE_230117_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/260634/headache-migraine/dietary-zinc-seen-reducing-migraine-risk?ecd=WNL_EVE_230117_mdedge)** 
 
 ---
 
@@ -48,7 +48,7 @@ Markdown:
 
 #### Dietary zinc seen reducing migraine risk
 
- **[MDEdge](https://www.mdedge.com/neurology/article/260634/headache-migraine/dietary-zinc-seen-reducing-migraine-risk%3Fecd%3DWNL_EVE_230117_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/260634/headache-migraine/dietary-zinc-seen-reducing-migraine-risk?ecd=WNL_EVE_230117_mdedge)** 
 
 ---
 

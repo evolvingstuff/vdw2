@@ -18,7 +18,7 @@ categories:
 
 #### For some Alzheimer’s patients, vision problems may be an early warning
 
- **[A large study brings fresh attention to a lesser-known variant of the disease called posterior cortical atrophy](https://www.washingtonpost.com/science/2024/01/23/alzheimers-disease-vision-problems-pca/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%20) Washington Post** 
+ **[A large study brings fresh attention to a lesser-known variant of the disease called posterior cortical atrophy](https://www.washingtonpost.com/science/2024/01/23/alzheimers-disease-vision-problems-pca/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most%20) Washington Post** 
 
 * "That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s."
 
@@ -88,7 +88,7 @@ Markdown:
 
 #### For some Alzheimer’s patients, vision problems may be an early warning
 
- **[A large study brings fresh attention to a lesser-known variant of the disease called posterior cortical atrophy](https://www.washingtonpost.com/science/2024/01/23/alzheimers-disease-vision-problems-pca/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%20) Washington Post** 
+ **[A large study brings fresh attention to a lesser-known variant of the disease called posterior cortical atrophy](https://www.washingtonpost.com/science/2024/01/23/alzheimers-disease-vision-problems-pca/?utm_campaign=wp_post_most&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_most%20) Washington Post** 
 
 * &quot;That may change with the first large-scale international study of the condition, published Monday in the journal Lancet Neurology. An international team led by researchers at the University of California at San Francisco studied records of 1,092 PCA patients from 16 countries and found that, on average, the syndrome begins affecting patients at age 59 ― about five to six years earlier than most patients with the more common form of Alzheimer’s.&quot;
 

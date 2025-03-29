@@ -303,7 +303,7 @@ This list is automatically updated
 
 ---
 
-#### 167+ studies (mainly vitamin D) by [Carsten Carlberg in PubMed](https://pubmed.ncbi.nlm.nih.gov/%3Fterm%3DCarsten%2BCarlberg%5BAuthor%5D%26sort%3Ddate)
+#### 167+ studies (mainly vitamin D) by [Carsten Carlberg in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carsten+Carlberg%5BAuthor%5D&sort=date)
 
  **A few of his recent studies** 
 
@@ -649,7 +649,7 @@ This list is automatically updated
 
 ---
 
-#### 167+ studies (mainly vitamin D) by [Carsten Carlberg in PubMed](https://pubmed.ncbi.nlm.nih.gov/%3Fterm%3DCarsten%2BCarlberg%5BAuthor%5D%26sort%3Ddate)
+#### 167+ studies (mainly vitamin D) by [Carsten Carlberg in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carsten+Carlberg%5BAuthor%5D&amp;sort=date)
 
  **A few of his recent studies** 
 

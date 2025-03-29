@@ -20,7 +20,7 @@ categories:
 
 DR ALEX KENNERLY VASQUEZ. DEC 22, 2021
 
- **[Substack](https://healthythinking.substack.com/p/downloadshare-the-20-minute-compressed%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Substack](https://healthythinking.substack.com/p/downloadshare-the-20-minute-compressed?utm_source=substack&utm_medium=email)** 
 
 ---
 
@@ -414,7 +414,7 @@ Markdown:
 
 DR ALEX KENNERLY VASQUEZ. DEC 22, 2021
 
- **[Substack](https://healthythinking.substack.com/p/downloadshare-the-20-minute-compressed%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Substack](https://healthythinking.substack.com/p/downloadshare-the-20-minute-compressed?utm_source=substack&amp;utm_medium=email)** 
 
 ---
 

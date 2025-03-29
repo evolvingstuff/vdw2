@@ -215,7 +215,7 @@ Effect of parenteral nutrition in oxygen escalation/de-escalation in SARS-CoV-2 
 
 #### 130,000+  High-Dose Vitamin D items in GoogleScholar
 
- **[google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22high%2Bdose%22%2B%22vitamin%2Bd%22%2B%26btnG%3D)** 
+ **[google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22high+dose%22+%22vitamin+d%22+&btnG=)** 
 
 * Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF
 
@@ -431,7 +431,7 @@ Effect of parenteral nutrition in oxygen escalation/de-escalation in SARS-CoV-2 
 
 #### 130,000+  High-Dose Vitamin D items in GoogleScholar
 
- **[google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22high%2Bdose%22%2B%22vitamin%2Bd%22%2B%26btnG%3D)** 
+ **[google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22high+dose%22+%22vitamin+d%22+&amp;btnG=)** 
 
 * Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF
 

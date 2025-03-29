@@ -61,7 +61,7 @@ Previous publications of this study
 
 * <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies">Preeclampsia & Vitamin D: >55 studies</a>
 
-* [Preterm birth >116 studies](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14440)
+* <a href="/posts/preterm-birth-116-studies" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14440">Preterm birth >116 studies</a>
 
 <!-- ~tc~ (alias(3 Problems in Pregnancy if Vitamin D deficient – RCT May 2023)) ~/tc~ -->
 
@@ -123,7 +123,7 @@ Previous publications of this study
 
 * &lt;a href=&quot;/posts/preeclampsia-reduced-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies&quot;&gt;Preeclampsia &amp; Vitamin D: &gt;55 studies&lt;/a&gt;
 
-* [Preterm birth &gt;116 studies](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14440)
+* &lt;a href=&quot;/posts/preterm-birth-116-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14440&quot;&gt;Preterm birth &gt;116 studies&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(3 Problems in Pregnancy if Vitamin D deficient – RCT May 2023)) ~/tc~ --&gt;
 

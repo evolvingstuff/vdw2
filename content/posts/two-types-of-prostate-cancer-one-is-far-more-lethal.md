@@ -38,7 +38,7 @@ We therefore propose the evotype model for prostate cancer evolution wherein Alt
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Reported on by Oxford News](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease%3Futm_source%3Dwww.superpowerdaily.com%26utm_medium%3Dnewsletter%26utm_campaign%3Dchatgpt-gets-a-body)** 
+ **[Reported on by Oxford News](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease?utm_source=www.superpowerdaily.com&utm_medium=newsletter&utm_campaign=chatgpt-gets-a-body)** 
 
 ---
 
@@ -82,7 +82,7 @@ We therefore propose the evotype model for prostate cancer evolution wherein Alt
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Reported on by Oxford News](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease%3Futm_source%3Dwww.superpowerdaily.com%26utm_medium%3Dnewsletter%26utm_campaign%3Dchatgpt-gets-a-body)** 
+ **[Reported on by Oxford News](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease?utm_source=www.superpowerdaily.com&amp;utm_medium=newsletter&amp;utm_campaign=chatgpt-gets-a-body)** 
 
 ---
 

@@ -13,7 +13,7 @@ date: 2024-02-23
 
 ---
 
-#### YouTube [51 minute](https://www.youtube.com/watch%3Fv%3DlCiABhI9qjU%26ab_channel%3DDr.JohnCampbell)
+#### YouTube [51 minute](https://www.youtube.com/watch?v=lCiABhI9qjU&ab_channel=Dr.JohnCampbell)
 
 00:00:00 - Intro
 
@@ -61,27 +61,27 @@ Refers to Dr. Anderson's and Grimes book
 
 | | |
 | --- | --- |
-| <span>[tiki-index.php?page_id=710]</span>  | 150 % |
-| <span>[tiki-index.php?page_id=484]</span>  | 100 % |
-| <span>[tiki-index.php?page_id=4290]</span>  | 110 % |
-| <span>[tiki-index.php?page_id=1421]</span>  | 100 %  |
-| <span>[tiki-index.php?page_id=691]</span>  | 250 %  |
-| <span>[tiki-index.php?page_id=605]</span>  | 250 % |
-| <span>[tiki-index.php?page_id=4715]</span>  | 210 % |
-| <span>[tiki-index.php?page_id=584]</span>  | 48 % |
+| <a href="/posts/overweight-kids" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overweight kids</a>  | 150 % |
+| <a href="/posts/parkinsons" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Parkinson's</a>  | 100 % |
+| <a href="/posts/breast-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4290">Breast Cancer</a>  | 110 % |
+| [Tuberculosis](/categories/tuberculosis)  | 100 %  |
+| [Multiple Sclerosis](/categories/multiple-sclerosis)  | 250 %  |
+| [Autism](/categories/autism)  | 250 % |
+| <a href="/posts/ulcerative-colitis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4715">Ulcerative Colitis</a>  | 210 % |
+| <a href="/posts/alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Alzheimer's</a>  | 48 % |
 | [Hospitalizations - Food Allergy](http://www.cdc.gov/healthyyouth/foodallergies/publications.htm)  | 260 % |
-| <span>[tiki-index.php?page_id=2092]</span>  | 400 % |
-| <span>[tiki-index.php?page_id=720]</span>  | 250 % |
-| <span>[tiki-index.php?page_id=5000]</span>  | 4,400 % |
+| <a href="/posts/knee-injury-teen" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2092">Knee injury (teen)</a>  | 400 % |
+| [Metabolic Syndrome](/categories/metabolic-syndrome)  | 250 % |
+| <a href="/posts/bipolar-disorder-youth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5000">Bipolar Disorder - youth</a>  | 4,400 % |
 | [Celliac](http://www.medscape.com/viewarticle/726127)  | 100 % |
 | [ADHD (LA schools)](http://www.victoryoveradhd.com/) | 230 % |
-| <span>[tiki-index.php?page_id=5059]</span> | 500 % |
+| <a href="/posts/rickets-uk-600-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5059">Rickets (UK 600 %)</a> | 500 % |
 | [Lyme Disease](http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm) | 300 % |
-| <span>[tiki-index.php?page_id=4554]</span> | 400 % |
-| <span>[tiki-index.php?page_id=1357]</span> | 200 % |
-| <span>[tiki-index.php?page_id=4724]</span> | 44 %  |
-| <span>[tiki-index.php?page_id=1171]</span> | 160 %  |
-| <span>[tiki-index.php?page_id=1835]</span> | 800 %  |
+| <a href="/posts/clostridium-difficile-age-85" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4554">Clostridium difficile (age > 85)</a> | 400 % |
+| <a href="/posts/sleep-apnea" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1357">Sleep Apnea</a> | 200 % |
+| <a href="/posts/copd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4724">COPD</a> | 44 %  |
+| <a href="/posts/hypertension-women" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension (women)</a> | 160 %  |
+| <a href="/posts/fatty-liver-non-alcohol" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1835">Fatty liver (non alcohol)</a> | 800 %  |
 
 ---
 
@@ -132,7 +132,7 @@ Markdown:
 
 ---
 
-#### YouTube [51 minute](https://www.youtube.com/watch%3Fv%3DlCiABhI9qjU%26ab_channel%3DDr.JohnCampbell)
+#### YouTube [51 minute](https://www.youtube.com/watch?v=lCiABhI9qjU&amp;ab_channel=Dr.JohnCampbell)
 
 00:00:00 - Intro
 
@@ -180,27 +180,27 @@ Refers to Dr. Anderson&#39;s and Grimes book
 
 | | |
 | --- | --- |
-| &lt;span&gt;[tiki-index.php?page_id=710]&lt;/span&gt;  | 150 % |
-| &lt;span&gt;[tiki-index.php?page_id=484]&lt;/span&gt;  | 100 % |
-| &lt;span&gt;[tiki-index.php?page_id=4290]&lt;/span&gt;  | 110 % |
-| &lt;span&gt;[tiki-index.php?page_id=1421]&lt;/span&gt;  | 100 %  |
-| &lt;span&gt;[tiki-index.php?page_id=691]&lt;/span&gt;  | 250 %  |
-| &lt;span&gt;[tiki-index.php?page_id=605]&lt;/span&gt;  | 250 % |
-| &lt;span&gt;[tiki-index.php?page_id=4715]&lt;/span&gt;  | 210 % |
-| &lt;span&gt;[tiki-index.php?page_id=584]&lt;/span&gt;  | 48 % |
+| &lt;a href=&quot;/posts/overweight-kids&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 710&quot;&gt;Overweight kids&lt;/a&gt;  | 150 % |
+| &lt;a href=&quot;/posts/parkinsons&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 484&quot;&gt;Parkinson&#39;s&lt;/a&gt;  | 100 % |
+| &lt;a href=&quot;/posts/breast-cancer&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4290&quot;&gt;Breast Cancer&lt;/a&gt;  | 110 % |
+| [Tuberculosis](/categories/tuberculosis)  | 100 %  |
+| [Multiple Sclerosis](/categories/multiple-sclerosis)  | 250 %  |
+| [Autism](/categories/autism)  | 250 % |
+| &lt;a href=&quot;/posts/ulcerative-colitis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4715&quot;&gt;Ulcerative Colitis&lt;/a&gt;  | 210 % |
+| &lt;a href=&quot;/posts/alzheimers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 584&quot;&gt;Alzheimer&#39;s&lt;/a&gt;  | 48 % |
 | [Hospitalizations - Food Allergy](http://www.cdc.gov/healthyyouth/foodallergies/publications.htm)  | 260 % |
-| &lt;span&gt;[tiki-index.php?page_id=2092]&lt;/span&gt;  | 400 % |
-| &lt;span&gt;[tiki-index.php?page_id=720]&lt;/span&gt;  | 250 % |
-| &lt;span&gt;[tiki-index.php?page_id=5000]&lt;/span&gt;  | 4,400 % |
+| &lt;a href=&quot;/posts/knee-injury-teen&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 2092&quot;&gt;Knee injury (teen)&lt;/a&gt;  | 400 % |
+| [Metabolic Syndrome](/categories/metabolic-syndrome)  | 250 % |
+| &lt;a href=&quot;/posts/bipolar-disorder-youth&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 5000&quot;&gt;Bipolar Disorder - youth&lt;/a&gt;  | 4,400 % |
 | [Celliac](http://www.medscape.com/viewarticle/726127)  | 100 % |
 | [ADHD (LA schools)](http://www.victoryoveradhd.com/) | 230 % |
-| &lt;span&gt;[tiki-index.php?page_id=5059]&lt;/span&gt; | 500 % |
+| &lt;a href=&quot;/posts/rickets-uk-600-percent&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 5059&quot;&gt;Rickets (UK 600 %)&lt;/a&gt; | 500 % |
 | [Lyme Disease](http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm) | 300 % |
-| &lt;span&gt;[tiki-index.php?page_id=4554]&lt;/span&gt; | 400 % |
-| &lt;span&gt;[tiki-index.php?page_id=1357]&lt;/span&gt; | 200 % |
-| &lt;span&gt;[tiki-index.php?page_id=4724]&lt;/span&gt; | 44 %  |
-| &lt;span&gt;[tiki-index.php?page_id=1171]&lt;/span&gt; | 160 %  |
-| &lt;span&gt;[tiki-index.php?page_id=1835]&lt;/span&gt; | 800 %  |
+| &lt;a href=&quot;/posts/clostridium-difficile-age-85&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4554&quot;&gt;Clostridium difficile (age &gt; 85)&lt;/a&gt; | 400 % |
+| &lt;a href=&quot;/posts/sleep-apnea&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1357&quot;&gt;Sleep Apnea&lt;/a&gt; | 200 % |
+| &lt;a href=&quot;/posts/copd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4724&quot;&gt;COPD&lt;/a&gt; | 44 %  |
+| &lt;a href=&quot;/posts/hypertension-women&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1171&quot;&gt;Hypertension (women)&lt;/a&gt; | 160 %  |
+| &lt;a href=&quot;/posts/fatty-liver-non-alcohol&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1835&quot;&gt;Fatty liver (non alcohol)&lt;/a&gt; | 800 %  |
 
 ---
 

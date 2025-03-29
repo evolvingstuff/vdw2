@@ -46,7 +46,7 @@ Study fails to recommend alternatives for those who are obese, have poor vitamin
 
 Study fails to recommend on-going maintenance dosing 
 
-Study assumes that 30 ng level is all that is needed for eye problems <span>[tiki-index.php?page_id=9939]</span>
+Study assumes that 30 ng level is all that is needed for eye problems <a href="/posts/another-study-recommds-70-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 9939">Another study recommds 70 ng</a>
 
 Study fails to mention Vitamin D prevention of various eye problems
 
@@ -100,7 +100,7 @@ Study fails to recommend alternatives for those who are obese, have poor vitamin
 
 Study fails to recommend on-going maintenance dosing 
 
-Study assumes that 30 ng level is all that is needed for eye problems &lt;span&gt;[tiki-index.php?page_id=9939]&lt;/span&gt;
+Study assumes that 30 ng level is all that is needed for eye problems &lt;a href=&quot;/posts/another-study-recommds-70-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 9939&quot;&gt;Another study recommds 70 ng&lt;/a&gt;
 
 Study fails to mention Vitamin D prevention of various eye problems
 

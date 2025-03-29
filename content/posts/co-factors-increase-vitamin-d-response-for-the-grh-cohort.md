@@ -22,7 +22,7 @@ categories:
 
 #### Important Nutrients to Make Sure You Are Getting Along with Vitamin D
 
- **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html%3Fsoid%3D1102722411090%26aid%3D1o3gmmf_klw)** 
+ **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html?soid=1102722411090&aid=1o3gmmf_klw)** 
 
  **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least  <span style="color:orange;">40 ng/ml </span>(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
 
@@ -86,7 +86,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * <a href="/posts/on-line-vitamin-d-response-simulation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: On-line Vitamin D response simulation – July 2021">On-line Vitamin D response simulation – July 2021</a>
 
-* [VitaminDWiki page titles containing "RESPONSE"](https://VitaminDWiki.com/On-line%2BVitamin%2BD%2Bresponse%2Bsimulation%2B%E2%80%93%2BMay%2B2021%23VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
+* [VitaminDWiki page titles containing "RESPONSE"](https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
 
 * <a href="/posts/obese-need-2x-to-3x-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014">Obese need 2X to 3X more vitamin D - Nov 2014</a> has the following chart
 
@@ -137,7 +137,7 @@ Markdown:
 
 #### Important Nutrients to Make Sure You Are Getting Along with Vitamin D
 
- **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html%3Fsoid%3D1102722411090%26aid%3D1o3gmmf_klw)** 
+ **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html?soid=1102722411090&amp;aid=1o3gmmf_klw)** 
 
  **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least  &lt;span style=&quot;color:orange;&quot;&gt;40 ng/ml &lt;/span&gt;(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
 
@@ -201,7 +201,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * &lt;a href=&quot;/posts/on-line-vitamin-d-response-simulation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: On-line Vitamin D response simulation – July 2021&quot;&gt;On-line Vitamin D response simulation – July 2021&lt;/a&gt;
 
-* [VitaminDWiki page titles containing &quot;RESPONSE&quot;](https://VitaminDWiki.com/On-line%2BVitamin%2BD%2Bresponse%2Bsimulation%2B%E2%80%93%2BMay%2B2021%23VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
+* [VitaminDWiki page titles containing &quot;RESPONSE&quot;](https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
 
 * &lt;a href=&quot;/posts/obese-need-2x-to-3x-more-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014&quot;&gt;Obese need 2X to 3X more vitamin D - Nov 2014&lt;/a&gt; has the following chart
 

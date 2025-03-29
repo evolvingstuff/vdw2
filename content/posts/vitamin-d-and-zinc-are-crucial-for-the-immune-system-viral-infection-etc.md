@@ -20,7 +20,7 @@ categories:
 
 Biological Trace Element Research March 2024 https://doi.org/10.1007/s12011-024-04139-y
 
-PDF is behind a paywall, but can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/immunomodulatory-effects-of-vitamin-d-and-zinc-on-viral-infection-qHGjjRn7ok%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Immunomodulatory%2BEffects%2Bof%2BVitamin%2BD%2Band%2BZinc%2Bon%2BViral%2BInfection%2522)
+PDF is behind a paywall, but can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/immunomodulatory-effects-of-vitamin-d-and-zinc-on-viral-infection-qHGjjRn7ok?articleList=%2Fsearch%3Fquery%3D%2522Immunomodulatory%2BEffects%2Bof%2BVitamin%2BD%2Band%2BZinc%2Bon%2BViral%2BInfection%2522)
 
 Muhammad Rizwan, Ke Cheng, Yang Gang, Yuntao Hou & Chunfang Wang 
 
@@ -467,7 +467,7 @@ Markdown:
 
 Biological Trace Element Research March 2024 https://doi.org/10.1007/s12011-024-04139-y
 
-PDF is behind a paywall, but can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/immunomodulatory-effects-of-vitamin-d-and-zinc-on-viral-infection-qHGjjRn7ok%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Immunomodulatory%2BEffects%2Bof%2BVitamin%2BD%2Band%2BZinc%2Bon%2BViral%2BInfection%2522)
+PDF is behind a paywall, but can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/immunomodulatory-effects-of-vitamin-d-and-zinc-on-viral-infection-qHGjjRn7ok?articleList=%2Fsearch%3Fquery%3D%2522Immunomodulatory%2BEffects%2Bof%2BVitamin%2BD%2Band%2BZinc%2Bon%2BViral%2BInfection%2522)
 
 Muhammad Rizwan, Ke Cheng, Yang Gang, Yuntao Hou &amp; Chunfang Wang 
 

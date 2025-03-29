@@ -15,7 +15,7 @@ categories:
 
  **Covid Litigation Conference II, Las Vegas, March 7-8, 2024** 
 
-[Substack](https://kirschsubstack.com/p/why-covid-litigation-is-our-best%3Futm_source%3Dpost-email-title%26publication_id%3D548354%26post_id%3D137657916%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+[Substack](https://kirschsubstack.com/p/why-covid-litigation-is-our-best?utm_source=post-email-title&publication_id=548354&post_id=137657916&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&utm_medium=email)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -33,7 +33,7 @@ Markdown:
 
  **Covid Litigation Conference II, Las Vegas, March 7-8, 2024** 
 
-[Substack](https://kirschsubstack.com/p/why-covid-litigation-is-our-best%3Futm_source%3Dpost-email-title%26publication_id%3D548354%26post_id%3D137657916%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+[Substack](https://kirschsubstack.com/p/why-covid-litigation-is-our-best?utm_source=post-email-title&amp;publication_id=548354&amp;post_id=137657916&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;utm_medium=email)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 

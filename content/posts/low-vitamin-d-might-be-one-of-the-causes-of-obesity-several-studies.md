@@ -51,7 +51,7 @@ Obesity is defined as an excess amount of body fat and represents a significant 
 
 ##### 169 studies citied this study as of Nov 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D2731548650168552904%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
+ **[Google Scholar](https://scholar.google.com/scholar?cites=2731548650168552904&as_sdt=5,48&sciodt=0,48&hl=en)** 
 
 ---
 
@@ -112,7 +112,7 @@ Obesity is defined as an excess amount of body fat and represents a significant 
 
 ##### 169 studies citied this study as of Nov 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D2731548650168552904%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
+ **[Google Scholar](https://scholar.google.com/scholar?cites=2731548650168552904&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)** 
 
 ---
 

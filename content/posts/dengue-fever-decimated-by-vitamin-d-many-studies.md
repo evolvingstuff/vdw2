@@ -40,7 +40,7 @@ This list is automatically updated
 
 #### 46 studies had both Dengue and Vitamin D in their title as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3Ddengue%26as_epq%3D%22vitamin%2Bd%22%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?as_q=dengue&as_epq=%22vitamin+d%22&as_oq=&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C48)** 
 
 * Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
 
@@ -52,7 +52,7 @@ This list is automatically updated
 
 #### Peru declares a Dengue Emergency - Feb 2024
 
- **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/peru-declares-health-emergency-dengue-cases-soar/%3FWT.mc_id%3De_DM285774%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Wed%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Wed20240228%26utm_campaign%3DDM285774)** 
+ **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/peru-declares-health-emergency-dengue-cases-soar/?WT.mc_id=e_DM285774&WT.tsrc=email&etype=Edi_GHS_New_Wed&utmsource=email&utm_medium=Edi_GHS_New_Wed20240228&utm_campaign=DM285774)** 
 
 * "20 out of 25 regions in Peru have declared a health emergency."
 
@@ -62,7 +62,7 @@ This list is automatically updated
 
 #### 120,000 cases of Dengue in a Brazilian city of 2.8 million - March 2024
 
- **[Brazil’s staggering dengue fever crisis is a warning to the world](https://www.washingtonpost.com/world/2024/03/10/dengue-fever-brazil-outbreak-epidemic/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d06bf8%2F65edd446c239dc3fb3b426fe%2F596bdb5f9bbc0f403f990f33%2F18%2F43%2F65edd446c239dc3fb3b426fe) Washington Post** 
+ **[Brazil’s staggering dengue fever crisis is a warning to the world](https://www.washingtonpost.com/world/2024/03/10/dengue-fever-brazil-outbreak-epidemic/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d06bf8%2F65edd446c239dc3fb3b426fe%2F596bdb5f9bbc0f403f990f33%2F18%2F43%2F65edd446c239dc3fb3b426fe) Washington Post** 
 
 * "But the disease has surged with particular virulence in Brazil, where epidemiologists expect the number of dengue cases to reach into the millions — more than doubling the previous record — and potentially kill thousands of people."
 
@@ -88,7 +88,7 @@ This list is automatically updated
 
 #### Dengue incidence up 30-fold in 50 years (now 96 million/year) - Oct 2023
 
- **[Almost half the world’s population could be at risk from dengue due to global warming - The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/global-dengue-fever-risk-warning-mosquitoes-climate-change/%3F)** 
+ **[Almost half the world’s population could be at risk from dengue due to global warming - The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/global-dengue-fever-risk-warning-mosquitoes-climate-change/?)** 
 
 * Annual global Dengue infections now estimated to be 96 million.
 
@@ -116,7 +116,7 @@ Conclusion: Vitamin D decreases the risk of DHF and may have a role in managemen
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Perplexity compares Dengue with  DHF](https://www.perplexity.ai/search/please-compare-Dengue-gEnVLLdOTMm845vgikB2Ww%3Fs%3Dc)** 
+ **[Perplexity compares Dengue with  DHF](https://www.perplexity.ai/search/please-compare-Dengue-gEnVLLdOTMm845vgikB2Ww?s=c)** 
 
 Dengue Fever: The World Health Organization (WHO) estimates that there are 390 million dengue virus infections per year globally, of which approximately  **96 million manifest clinically** . The CDC notes that each year, up to 400 million people get infected with dengue, with about 100 million people getting sick from the infection
 
@@ -180,7 +180,7 @@ Those not receiving vitamin D were more likely to develop dengue hemorrhagic fev
 
 #### Dengue mosquito is now in 30 European countries (global warming) - May 2023
 
- **[The Telegraph](http://m5.emails.telegraph.co.uk/nl/jsp/m.jsp%3Fc%3D%40g4rMIns6lHIVbVdgFGGn4TrQGmoZhemn%2F5nmxmkZKTGP3bvxBE9NJu1isM5a0oAXPCwFnwjpHFe4n3xc6nnkag%3D%3D%26WT.mc_id%3De_DM155450%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Tue%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Tue20230530%26utm_campaign%3DDM155450)** 
+ **[The Telegraph](http://m5.emails.telegraph.co.uk/nl/jsp/m.jsp?c=%40g4rMIns6lHIVbVdgFGGn4TrQGmoZhemn%2F5nmxmkZKTGP3bvxBE9NJu1isM5a0oAXPCwFnwjpHFe4n3xc6nnkag%3D%3D&WT.mc_id=e_DM155450&WT.tsrc=email&etype=Edi_GHS_New_Tue&utmsource=email&utm_medium=Edi_GHS_New_Tue20230530&utm_campaign=DM155450)** 
 
 ---
 
@@ -218,7 +218,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### Why Singapore is on alert for a record-breaking year of disease (Dengue) Jan 2023
 
- **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/why-singapore-alert-record-breaking-year-disease/%3FWT.mc_id%3De_DM100541%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Tue%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Tue20230131%26utm_campaign%3DDM100541)** 
+ **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/why-singapore-alert-record-breaking-year-disease/?WT.mc_id=e_DM100541&WT.tsrc=email&etype=Edi_GHS_New_Tue&utmsource=email&utm_medium=Edi_GHS_New_Tue20230131&utm_campaign=DM100541)** 
 
 * " 2022 "total cases last year were almost six times higher than in 2021 – with 32,000 recorded. But officials warned the trend appears to have seeped into the new year, with  **almost twice as many**  infections reported in the week ending January 9 compared to the same period in 2022. "
 
@@ -238,7 +238,7 @@ Background: Vitamin D receptor (VDR) is coded by VDR gene located on chromosome 
 
 Methods and materials: The study was conducted in the Virology Laboratory, Department of Microbiology, Maulana Azad Medical College, New Delhi. We studied 100 cases (suspected dengue patients) and 100 healthy controls over a period of 1 year (January 2014 to December 2014). Revised WHO guidelines (2009) were followed to define and characterize a case of dengue. Peripheral venous samples were collected for diagnosis of dengue (NS1 antigen, IgM and IgG antibody). Genomic DNA was extracted from patients and healthy controls and Restriction Fragment Length Polymorphism was done for detection of VDRL gene polymorphism (start codon rs2228570 and 3′ UTR, rs7975232). Data was analysed using SPSS software (version 17.0). A p value < 0.05 was considered statistically significant.
 
-Results: VDR gene polymorphism (rs 2228570 and rs 7975232) was screened in the samples. Genotype C/C, C/T and T/T (rs 2228570) was found in 11 (25.58%), 18 (41.9%) and 14 (32.6%) dengue positive cases and 59%, 25% and 16% healthy controls respectively (p = 0.001, significant). Significant association of the T allele of rs 2228570 polymorphism in a dominant mode of inheritance (C/T + T/T genotype) was seen with severe dengue cases [OR of 3.86 (1.59–9.35), p = 0.002 for C/T and 4.69 (1.79–12.3), p = 0.001 for T/T genotypes](OR%20of%203.86%20(1.59–9.35)%2C%20p %3D 0.002%20for%20C/T%20and%204.69%20(1.79–12.3)%2C%20p %3D 0.001%20for%20T/T%20genotypes). 
+Results: VDR gene polymorphism (rs 2228570 and rs 7975232) was screened in the samples. Genotype C/C, C/T and T/T (rs 2228570) was found in 11 (25.58%), 18 (41.9%) and 14 (32.6%) dengue positive cases and 59%, 25% and 16% healthy controls respectively (p = 0.001, significant). Significant association of the T allele of rs 2228570 polymorphism in a dominant mode of inheritance (C/T + T/T genotype) was seen with severe dengue cases [OR of 3.86 (1.59–9.35), p = 0.002 for C/T and 4.69 (1.79–12.3), p = 0.001 for T/T genotypes](OR%20of%203.86%20(1.59–9.35),%20p = 0.002%20for%20C/T%20and%204.69%20(1.79–12.3),%20p = 0.001%20for%20T/T%20genotypes). 
 
 Genotypes A/A, A/C and C/C (rs 7975232) were found in 
 
@@ -310,7 +310,7 @@ This list is automatically updated
 
 #### 46 studies had both Dengue and Vitamin D in their title as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3Ddengue%26as_epq%3D%22vitamin%2Bd%22%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?as_q=dengue&amp;as_epq=%22vitamin+d%22&amp;as_oq=&amp;as_eq=&amp;as_occt=title&amp;as_sauthors=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;hl=en&amp;as_sdt=0%2C48)** 
 
 * Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
 
@@ -322,7 +322,7 @@ This list is automatically updated
 
 #### Peru declares a Dengue Emergency - Feb 2024
 
- **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/peru-declares-health-emergency-dengue-cases-soar/%3FWT.mc_id%3De_DM285774%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Wed%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Wed20240228%26utm_campaign%3DDM285774)** 
+ **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/peru-declares-health-emergency-dengue-cases-soar/?WT.mc_id=e_DM285774&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Wed&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Wed20240228&amp;utm_campaign=DM285774)** 
 
 * &quot;20 out of 25 regions in Peru have declared a health emergency.&quot;
 
@@ -332,7 +332,7 @@ This list is automatically updated
 
 #### 120,000 cases of Dengue in a Brazilian city of 2.8 million - March 2024
 
- **[Brazil’s staggering dengue fever crisis is a warning to the world](https://www.washingtonpost.com/world/2024/03/10/dengue-fever-brazil-outbreak-epidemic/%3Futm_campaign%3Dwp_post_most%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_most%26carta-url%3Dhttps%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d06bf8%2F65edd446c239dc3fb3b426fe%2F596bdb5f9bbc0f403f990f33%2F18%2F43%2F65edd446c239dc3fb3b426fe) Washington Post** 
+ **[Brazil’s staggering dengue fever crisis is a warning to the world](https://www.washingtonpost.com/world/2024/03/10/dengue-fever-brazil-outbreak-epidemic/?utm_campaign=wp_post_most&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_most&amp;carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d06bf8%2F65edd446c239dc3fb3b426fe%2F596bdb5f9bbc0f403f990f33%2F18%2F43%2F65edd446c239dc3fb3b426fe) Washington Post** 
 
 * &quot;But the disease has surged with particular virulence in Brazil, where epidemiologists expect the number of dengue cases to reach into the millions — more than doubling the previous record — and potentially kill thousands of people.&quot;
 
@@ -358,7 +358,7 @@ This list is automatically updated
 
 #### Dengue incidence up 30-fold in 50 years (now 96 million/year) - Oct 2023
 
- **[Almost half the world’s population could be at risk from dengue due to global warming - The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/global-dengue-fever-risk-warning-mosquitoes-climate-change/%3F)** 
+ **[Almost half the world’s population could be at risk from dengue due to global warming - The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/global-dengue-fever-risk-warning-mosquitoes-climate-change/?)** 
 
 * Annual global Dengue infections now estimated to be 96 million.
 
@@ -386,7 +386,7 @@ Conclusion: Vitamin D decreases the risk of DHF and may have a role in managemen
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Perplexity compares Dengue with  DHF](https://www.perplexity.ai/search/please-compare-Dengue-gEnVLLdOTMm845vgikB2Ww%3Fs%3Dc)** 
+ **[Perplexity compares Dengue with  DHF](https://www.perplexity.ai/search/please-compare-Dengue-gEnVLLdOTMm845vgikB2Ww?s=c)** 
 
 Dengue Fever: The World Health Organization (WHO) estimates that there are 390 million dengue virus infections per year globally, of which approximately  **96 million manifest clinically** . The CDC notes that each year, up to 400 million people get infected with dengue, with about 100 million people getting sick from the infection
 
@@ -450,7 +450,7 @@ Those not receiving vitamin D were more likely to develop dengue hemorrhagic fev
 
 #### Dengue mosquito is now in 30 European countries (global warming) - May 2023
 
- **[The Telegraph](http://m5.emails.telegraph.co.uk/nl/jsp/m.jsp%3Fc%3D%40g4rMIns6lHIVbVdgFGGn4TrQGmoZhemn%2F5nmxmkZKTGP3bvxBE9NJu1isM5a0oAXPCwFnwjpHFe4n3xc6nnkag%3D%3D%26WT.mc_id%3De_DM155450%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Tue%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Tue20230530%26utm_campaign%3DDM155450)** 
+ **[The Telegraph](http://m5.emails.telegraph.co.uk/nl/jsp/m.jsp?c=%40g4rMIns6lHIVbVdgFGGn4TrQGmoZhemn%2F5nmxmkZKTGP3bvxBE9NJu1isM5a0oAXPCwFnwjpHFe4n3xc6nnkag%3D%3D&amp;WT.mc_id=e_DM155450&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Tue&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Tue20230530&amp;utm_campaign=DM155450)** 
 
 ---
 
@@ -488,7 +488,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### Why Singapore is on alert for a record-breaking year of disease (Dengue) Jan 2023
 
- **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/why-singapore-alert-record-breaking-year-disease/%3FWT.mc_id%3De_DM100541%26WT.tsrc%3Demail%26etype%3DEdi_GHS_New_Tue%26utmsource%3Demail%26utm_medium%3DEdi_GHS_New_Tue20230131%26utm_campaign%3DDM100541)** 
+ **[The Telegraph](https://www.telegraph.co.uk/global-health/science-and-disease/why-singapore-alert-record-breaking-year-disease/?WT.mc_id=e_DM100541&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Tue&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Tue20230131&amp;utm_campaign=DM100541)** 
 
 * &quot; 2022 &quot;total cases last year were almost six times higher than in 2021 – with 32,000 recorded. But officials warned the trend appears to have seeped into the new year, with  **almost twice as many**  infections reported in the week ending January 9 compared to the same period in 2022. &quot;
 
@@ -508,7 +508,7 @@ Background: Vitamin D receptor (VDR) is coded by VDR gene located on chromosome 
 
 Methods and materials: The study was conducted in the Virology Laboratory, Department of Microbiology, Maulana Azad Medical College, New Delhi. We studied 100 cases (suspected dengue patients) and 100 healthy controls over a period of 1 year (January 2014 to December 2014). Revised WHO guidelines (2009) were followed to define and characterize a case of dengue. Peripheral venous samples were collected for diagnosis of dengue (NS1 antigen, IgM and IgG antibody). Genomic DNA was extracted from patients and healthy controls and Restriction Fragment Length Polymorphism was done for detection of VDRL gene polymorphism (start codon rs2228570 and 3′ UTR, rs7975232). Data was analysed using SPSS software (version 17.0). A p value &lt; 0.05 was considered statistically significant.
 
-Results: VDR gene polymorphism (rs 2228570 and rs 7975232) was screened in the samples. Genotype C/C, C/T and T/T (rs 2228570) was found in 11 (25.58%), 18 (41.9%) and 14 (32.6%) dengue positive cases and 59%, 25% and 16% healthy controls respectively (p = 0.001, significant). Significant association of the T allele of rs 2228570 polymorphism in a dominant mode of inheritance (C/T + T/T genotype) was seen with severe dengue cases [OR of 3.86 (1.59–9.35), p = 0.002 for C/T and 4.69 (1.79–12.3), p = 0.001 for T/T genotypes](OR%20of%203.86%20(1.59–9.35)%2C%20p %3D 0.002%20for%20C/T%20and%204.69%20(1.79–12.3)%2C%20p %3D 0.001%20for%20T/T%20genotypes). 
+Results: VDR gene polymorphism (rs 2228570 and rs 7975232) was screened in the samples. Genotype C/C, C/T and T/T (rs 2228570) was found in 11 (25.58%), 18 (41.9%) and 14 (32.6%) dengue positive cases and 59%, 25% and 16% healthy controls respectively (p = 0.001, significant). Significant association of the T allele of rs 2228570 polymorphism in a dominant mode of inheritance (C/T + T/T genotype) was seen with severe dengue cases [OR of 3.86 (1.59–9.35), p = 0.002 for C/T and 4.69 (1.79–12.3), p = 0.001 for T/T genotypes](OR%20of%203.86%20(1.59–9.35),%20p = 0.002%20for%20C/T%20and%204.69%20(1.79–12.3),%20p = 0.001%20for%20T/T%20genotypes). 
 
 Genotypes A/A, A/C and C/C (rs 7975232) were found in 
 

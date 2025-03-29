@@ -20,7 +20,7 @@ categories:
 
  **Preterm birth rates are higher if** 
 
-* [Low vitamin D](https://VitaminDWiki.com/Preterm%2Bbirth%2Band%2Blow%2BVitamin%2BD%2B-%2Bmany%2Bstudies%23Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
+* [Low vitamin D](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
 
 * Low Omega-3
 
@@ -158,7 +158,7 @@ The burden of preterm birth is substantial and is increasing in those regions wi
 
 #### 115,000 hits for preterm etc. and "Vitamin D" as of Dec 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(preterm%20birth"%20OR%20"premature%20birth")%20"vitamin%20D"%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=(preterm%20birth"%20OR%20"premature%20birth")%20"vitamin%20D"&btnG=)** 
 
 ---
 
@@ -206,7 +206,7 @@ Markdown:
 
  **Preterm birth rates are higher if** 
 
-* [Low vitamin D](https://VitaminDWiki.com/Preterm%2Bbirth%2Band%2Blow%2BVitamin%2BD%2B-%2Bmany%2Bstudies%23Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
+* [Low vitamin D](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
 
 * Low Omega-3
 
@@ -344,7 +344,7 @@ The burden of preterm birth is substantial and is increasing in those regions wi
 
 #### 115,000 hits for preterm etc. and &quot;Vitamin D&quot; as of Dec 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(preterm%20birth&quot;%20OR%20&quot;premature%20birth&quot;)%20&quot;vitamin%20D&quot;%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=(preterm%20birth&quot;%20OR%20&quot;premature%20birth&quot;)%20&quot;vitamin%20D&quot;&amp;btnG=)** 
 
 ---
 

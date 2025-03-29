@@ -210,7 +210,7 @@ This list is automatically updated
 
 #### 600,000 Hits for (cancer metabolism) "vitamin d" in Google Scholar Oct 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%28cancer%2Bmetabolism%29%2B%22vitamin%2Bd%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%28cancer+metabolism%29+%22vitamin+d%22&btnG=)** 
 
 * An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
 
@@ -426,7 +426,7 @@ This list is automatically updated
 
 #### 600,000 Hits for (cancer metabolism) &quot;vitamin d&quot; in Google Scholar Oct 2023
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%28cancer%2Bmetabolism%29%2B%22vitamin%2Bd%22%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28cancer+metabolism%29+%22vitamin+d%22&amp;btnG=)** 
 
 * An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
 

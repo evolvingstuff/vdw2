@@ -42,7 +42,7 @@ Vitamin D affects a wide range of physiological functions including the control 
 
 1. Fenech, M. et al. Nutrigenetics and  **Nutrigenomics:** viewpoints on the current status and applications in nutrition research and practice. Journal of nutrigenetics and  **nutrigenomics**  4, 69-89, doi:10.1159/000327772 (2011).
 
-  * Journal has [347 papers as of April 2023](https://www.mdpi.com/search%3Fjournal%3Dnutrients%26section%3D885)
+  * Journal has [347 papers as of April 2023](https://www.mdpi.com/search?journal=nutrients&section=885)
 
 1. Müller, M. & Kersten, S.  **Nutrigenomics:** goals and strategies. Nat Rev Genet 4, 315322, doi:10.1038/nrg1047 (2003).
 
@@ -430,7 +430,7 @@ Vitamin D affects a wide range of physiological functions including the control 
 
 1. Fenech, M. et al. Nutrigenetics and  **Nutrigenomics:** viewpoints on the current status and applications in nutrition research and practice. Journal of nutrigenetics and  **nutrigenomics**  4, 69-89, doi:10.1159/000327772 (2011).
 
-  * Journal has [347 papers as of April 2023](https://www.mdpi.com/search%3Fjournal%3Dnutrients%26section%3D885)
+  * Journal has [347 papers as of April 2023](https://www.mdpi.com/search?journal=nutrients&amp;section=885)
 
 1. Müller, M. &amp; Kersten, S.  **Nutrigenomics:** goals and strategies. Nat Rev Genet 4, 315322, doi:10.1038/nrg1047 (2003).
 

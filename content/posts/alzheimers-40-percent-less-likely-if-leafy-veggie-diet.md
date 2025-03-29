@@ -19,7 +19,7 @@ categories:
 
 #### Two diets tied to lower Alzheimer’s pathology at autopsy
 
- **[MDEdge](https://www.mdedge.com/neurology/article/261795/alzheimers-cognition/two-diets-tied-lower-alzheimers-pathology-autopsy%3Fecd%3DWNL_MDIQFFF_230317_mdedge)**  actual study is behind a $39 paywall
+ **[MDEdge](https://www.mdedge.com/neurology/article/261795/alzheimers-cognition/two-diets-tied-lower-alzheimers-pathology-autopsy?ecd=WNL_MDIQFFF_230317_mdedge)**  actual study is behind a $39 paywall
 
 * A novel study provides strong evidence supporting the adoption of a healthy diet to protect the aging brain. In a cohort of deceased older adults, those who had adhered to the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets for nearly a decade before death had less global Alzheimer’s disease–related pathology, primarily less beta-amyloid, at autopsy.
 
@@ -41,11 +41,11 @@ categories:
 
  **Mediterranean Diet: 69% reduced risk of Alzheimer's - 2006** 
 
-[Mediterranean Diet, Omega-3 Show Anti-AD Effect](https://www.mdedge.com/psychiatry/article/23067/geriatrics/mediterranean-diet-omega-3-show-anti-ad-effect%3Fecd%3DWNL_eve_230107_mdedge) MDEdge 2006
+[Mediterranean Diet, Omega-3 Show Anti-AD Effect](https://www.mdedge.com/psychiatry/article/23067/geriatrics/mediterranean-diet-omega-3-show-anti-ad-effect?ecd=WNL_eve_230107_mdedge) MDEdge 2006
 
 * Mediterranean Diet, Alzheimer Disease, and Vascular Mediation doi:10.1001/archneur.63.12.noc60109
 
-  * [495 citations as of Jan 2023](https://scholar.google.com/scholar%3Fcites%3D4080202086258424632%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)
+  * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&as_sdt=5,48&sciodt=0,48&hl=en)
 
 ---
 
@@ -55,7 +55,7 @@ categories:
 
 #### GrassrootsHealth has studies on decreased Alz/dementia due to Vitamin D, Omega-3, and Magnesium
 
- **[GRH](https://www.grassrootshealth.net/blog/reducing-risk-improving-outcomes-alzheimers-disease-dementia-nutrients/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[GRH](https://www.grassrootshealth.net/blog/reducing-risk-improving-outcomes-alzheimers-disease-dementia-nutrients/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
 
 <!-- ~tc~ (alias(Alzheimer's 40 percent less likely in those eating diets with free leafy veggies - March 2023)) ~/tc~ -->
 
@@ -75,7 +75,7 @@ Markdown:
 
 #### Two diets tied to lower Alzheimer’s pathology at autopsy
 
- **[MDEdge](https://www.mdedge.com/neurology/article/261795/alzheimers-cognition/two-diets-tied-lower-alzheimers-pathology-autopsy%3Fecd%3DWNL_MDIQFFF_230317_mdedge)**  actual study is behind a $39 paywall
+ **[MDEdge](https://www.mdedge.com/neurology/article/261795/alzheimers-cognition/two-diets-tied-lower-alzheimers-pathology-autopsy?ecd=WNL_MDIQFFF_230317_mdedge)**  actual study is behind a $39 paywall
 
 * A novel study provides strong evidence supporting the adoption of a healthy diet to protect the aging brain. In a cohort of deceased older adults, those who had adhered to the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) and Mediterranean diets for nearly a decade before death had less global Alzheimer’s disease–related pathology, primarily less beta-amyloid, at autopsy.
 
@@ -97,11 +97,11 @@ Markdown:
 
  **Mediterranean Diet: 69% reduced risk of Alzheimer&#39;s - 2006** 
 
-[Mediterranean Diet, Omega-3 Show Anti-AD Effect](https://www.mdedge.com/psychiatry/article/23067/geriatrics/mediterranean-diet-omega-3-show-anti-ad-effect%3Fecd%3DWNL_eve_230107_mdedge) MDEdge 2006
+[Mediterranean Diet, Omega-3 Show Anti-AD Effect](https://www.mdedge.com/psychiatry/article/23067/geriatrics/mediterranean-diet-omega-3-show-anti-ad-effect?ecd=WNL_eve_230107_mdedge) MDEdge 2006
 
 * Mediterranean Diet, Alzheimer Disease, and Vascular Mediation doi:10.1001/archneur.63.12.noc60109
 
-  * [495 citations as of Jan 2023](https://scholar.google.com/scholar%3Fcites%3D4080202086258424632%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)
+  * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)
 
 ---
 
@@ -111,7 +111,7 @@ Markdown:
 
 #### GrassrootsHealth has studies on decreased Alz/dementia due to Vitamin D, Omega-3, and Magnesium
 
- **[GRH](https://www.grassrootshealth.net/blog/reducing-risk-improving-outcomes-alzheimers-disease-dementia-nutrients/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[GRH](https://www.grassrootshealth.net/blog/reducing-risk-improving-outcomes-alzheimers-disease-dementia-nutrients/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
 
 &lt;!-- ~tc~ (alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) ~/tc~ --&gt;
 

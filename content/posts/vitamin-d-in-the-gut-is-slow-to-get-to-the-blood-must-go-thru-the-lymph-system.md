@@ -15,7 +15,7 @@ categories:
 
 ---
 
-#### Perplexity AI [With references, image, videos, etc.](https://www.perplexity.ai/search/Does-vitamin-D-aSlz1QeQTSqpyYri39ztIQ%3Fs%3Dc)
+#### Perplexity AI [With references, image, videos, etc.](https://www.perplexity.ai/search/Does-vitamin-D-aSlz1QeQTSqpyYri39ztIQ?s=c)
 
 Yes, vitamin D does go through the lymphatic system before entering the bloodstream. When vitamin D is ingested, it is absorbed in the small intestines and binds to chylomicrons, which are lipoprotein particles that transport lipids from the gut. These chylomicrons, carrying vitamin D, enter the lymphatic system and then the bloodstream before being transferred to the liver for further metabolism 4. 
 
@@ -50,7 +50,7 @@ Markdown:
 
 ---
 
-#### Perplexity AI [With references, image, videos, etc.](https://www.perplexity.ai/search/Does-vitamin-D-aSlz1QeQTSqpyYri39ztIQ%3Fs%3Dc)
+#### Perplexity AI [With references, image, videos, etc.](https://www.perplexity.ai/search/Does-vitamin-D-aSlz1QeQTSqpyYri39ztIQ?s=c)
 
 Yes, vitamin D does go through the lymphatic system before entering the bloodstream. When vitamin D is ingested, it is absorbed in the small intestines and binds to chylomicrons, which are lipoprotein particles that transport lipids from the gut. These chylomicrons, carrying vitamin D, enter the lymphatic system and then the bloodstream before being transferred to the liver for further metabolism 4. 
 

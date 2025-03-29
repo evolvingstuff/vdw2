@@ -13,265 +13,265 @@ date: 2023-10-02
 
 #### Table of Contents (Oct 2023)
 
-* [1 Vitamin-D Info (Cholecalciferol)](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-D_Info_(Cholecalciferol))
+* [1 Vitamin-D Info (Cholecalciferol)](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-D_Info_(Cholecalciferol))
 
-  * [1.1 History](https://cholecalciferol.miraheze.org/wiki/Main_Page%23History)
+  * [1.1 History](https://cholecalciferol.miraheze.org/wiki/Main_Page#History)
 
-    * [1.1.1 Early](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Early)
+    * [1.1.1 Early](https://cholecalciferol.miraheze.org/wiki/Main_Page#Early)
 
-    * [1.1.2 Discovery](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Discovery)
+    * [1.1.2 Discovery](https://cholecalciferol.miraheze.org/wiki/Main_Page#Discovery)
 
-    * [1.1.3 Recent](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Recent)
+    * [1.1.3 Recent](https://cholecalciferol.miraheze.org/wiki/Main_Page#Recent)
 
-  * [1.2 Forms](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Forms)
+  * [1.2 Forms](https://cholecalciferol.miraheze.org/wiki/Main_Page#Forms)
 
-    * [1.2.1 Biosynthesis of Vitamin-D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Biosynthesis_of_Vitamin-D3)
+    * [1.2.1 Biosynthesis of Vitamin-D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#Biosynthesis_of_Vitamin-D3)
 
-      * [1.2.1.1 7-Dehydrocholesterol](https://cholecalciferol.miraheze.org/wiki/Main_Page%237-Dehydrocholesterol)
+      * [1.2.1.1 7-Dehydrocholesterol](https://cholecalciferol.miraheze.org/wiki/Main_Page#7-Dehydrocholesterol)
 
-      * [1.2.1.2 Cholecalciferol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cholecalciferol)
+      * [1.2.1.2 Cholecalciferol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cholecalciferol)
 
-      * [1.2.1.3 Calcidiol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Calcidiol)
+      * [1.2.1.3 Calcidiol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Calcidiol)
 
-      * [1.2.1.4 Calcitriol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Calcitriol)
+      * [1.2.1.4 Calcitriol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Calcitriol)
 
-      * [1.2.1.5 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other)
+      * [1.2.1.5 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other)
 
-      * [1.2.1.6 Prescription](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Prescription)
+      * [1.2.1.6 Prescription](https://cholecalciferol.miraheze.org/wiki/Main_Page#Prescription)
 
-    * [1.2.2 D2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23D2)
+    * [1.2.2 D2](https://cholecalciferol.miraheze.org/wiki/Main_Page#D2)
 
-  * [1.3 Deficiency](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Deficiency)
+  * [1.3 Deficiency](https://cholecalciferol.miraheze.org/wiki/Main_Page#Deficiency)
 
-    * [1.3.1 Genetic](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Genetic)
+    * [1.3.1 Genetic](https://cholecalciferol.miraheze.org/wiki/Main_Page#Genetic)
 
-      * [1.3.1.1 Protective](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Protective)
+      * [1.3.1.1 Protective](https://cholecalciferol.miraheze.org/wiki/Main_Page#Protective)
 
-      * [1.3.1.2 Aggravating](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Aggravating)
+      * [1.3.1.2 Aggravating](https://cholecalciferol.miraheze.org/wiki/Main_Page#Aggravating)
 
-    * [1.3.2 Disease](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Disease)
+    * [1.3.2 Disease](https://cholecalciferol.miraheze.org/wiki/Main_Page#Disease)
 
-    * [1.3.3 Global](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Global)
+    * [1.3.3 Global](https://cholecalciferol.miraheze.org/wiki/Main_Page#Global)
 
-    * [1.3.4 Seasonal](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seasonal)
+    * [1.3.4 Seasonal](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seasonal)
 
-      * [1.3.4.1 Winter](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Winter)
+      * [1.3.4.1 Winter](https://cholecalciferol.miraheze.org/wiki/Main_Page#Winter)
 
-      * [1.3.4.2 Summer](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Summer)
+      * [1.3.4.2 Summer](https://cholecalciferol.miraheze.org/wiki/Main_Page#Summer)
 
-    * [1.3.5 Work place](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Work_place)
+    * [1.3.5 Work place](https://cholecalciferol.miraheze.org/wiki/Main_Page#Work_place)
 
-  * [1.4 Dosing](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Dosing)
+  * [1.4 Dosing](https://cholecalciferol.miraheze.org/wiki/Main_Page#Dosing)
 
-    * [1.4.1 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Daily)
+    * [1.4.1 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page#Daily)
 
-    * [1.4.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bolus)
+    * [1.4.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bolus)
 
-    * [1.4.3 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Metabolites)
+    * [1.4.3 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page#Metabolites)
 
-  * [1.5 Sources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sources)
+  * [1.5 Sources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sources)
 
-    * [1.5.1 Skin](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Skin)
+    * [1.5.1 Skin](https://cholecalciferol.miraheze.org/wiki/Main_Page#Skin)
 
-      * [1.5.1.1 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sun)
+      * [1.5.1.1 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sun)
 
-      * [1.5.1.2 UVB therapy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23UVB_therapy)
+      * [1.5.1.2 UVB therapy](https://cholecalciferol.miraheze.org/wiki/Main_Page#UVB_therapy)
 
-      * [1.5.1.3 Heliotherapy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Heliotherapy)
+      * [1.5.1.3 Heliotherapy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Heliotherapy)
 
-    * [1.5.2 Diet](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Diet)
+    * [1.5.2 Diet](https://cholecalciferol.miraheze.org/wiki/Main_Page#Diet)
 
-    * [1.5.3 Industrial](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Industrial)
+    * [1.5.3 Industrial](https://cholecalciferol.miraheze.org/wiki/Main_Page#Industrial)
 
-      * [1.5.3.1 Lanolin](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lanolin)
+      * [1.5.3.1 Lanolin](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lanolin)
 
-      * [1.5.3.2 Lichen](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lichen)
+      * [1.5.3.2 Lichen](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lichen)
 
-      * [1.5.3.3 Seaweed](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seaweed)
+      * [1.5.3.3 Seaweed](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seaweed)
 
-      * [1.5.3.4 Mushrooms](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Mushrooms)
+      * [1.5.3.4 Mushrooms](https://cholecalciferol.miraheze.org/wiki/Main_Page#Mushrooms)
 
-      * [1.5.3.5 Yeast](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Yeast)
+      * [1.5.3.5 Yeast](https://cholecalciferol.miraheze.org/wiki/Main_Page#Yeast)
 
-      * [1.5.3.6 Bacteria](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bacteria)
+      * [1.5.3.6 Bacteria](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bacteria)
 
-      * [1.5.3.7 Patents](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Patents)
+      * [1.5.3.7 Patents](https://cholecalciferol.miraheze.org/wiki/Main_Page#Patents)
 
-  * [1.6 Testing](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Testing)
+  * [1.6 Testing](https://cholecalciferol.miraheze.org/wiki/Main_Page#Testing)
 
-    * [1.6.1 Serum](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Serum)
+    * [1.6.1 Serum](https://cholecalciferol.miraheze.org/wiki/Main_Page#Serum)
 
-      * [1.6.1.1 VitaminD](https://cholecalciferol.miraheze.org/wiki/Main_Page%23VitaminD)
+      * [1.6.1.1 VitaminD](https://cholecalciferol.miraheze.org/wiki/Main_Page#VitaminD)
 
-      * [1.6.1.2 25(OH)D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%2325(OH)D3)
+      * [1.6.1.2 25(OH)D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#25(OH)D3)
 
-      * [1.6.1.3 1,25(OH){SUB()}2{SUB}D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%231%2C25(OH)2D3)
+      * [1.6.1.3 1,25(OH){SUB()}2{SUB}D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#1,25(OH)2D3)
 
-      * [1.6.1.4 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_2)
+      * [1.6.1.4 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_2)
 
-    * [1.6.2 Saliva](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Saliva)
+    * [1.6.2 Saliva](https://cholecalciferol.miraheze.org/wiki/Main_Page#Saliva)
 
-    * [1.6.3 Supplements](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Supplements)
+    * [1.6.3 Supplements](https://cholecalciferol.miraheze.org/wiki/Main_Page#Supplements)
 
-  * [1.7 Benefits](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Benefits)
+  * [1.7 Benefits](https://cholecalciferol.miraheze.org/wiki/Main_Page#Benefits)
 
-    * [1.7.1 Bone](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bone)
+    * [1.7.1 Bone](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bone)
 
-    * [1.7.2 Muscles](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Muscles)
+    * [1.7.2 Muscles](https://cholecalciferol.miraheze.org/wiki/Main_Page#Muscles)
 
-    * [1.7.3 Autoimmune](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Autoimmune)
+    * [1.7.3 Autoimmune](https://cholecalciferol.miraheze.org/wiki/Main_Page#Autoimmune)
 
-      * [1.7.3.1 Psoriasis](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Psoriasis)
+      * [1.7.3.1 Psoriasis](https://cholecalciferol.miraheze.org/wiki/Main_Page#Psoriasis)
 
-      * [1.7.3.2 MS](https://cholecalciferol.miraheze.org/wiki/Main_Page%23MS)
+      * [1.7.3.2 MS](https://cholecalciferol.miraheze.org/wiki/Main_Page#MS)
 
-    * [1.7.4 Immune system](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Immune_system)
+    * [1.7.4 Immune system](https://cholecalciferol.miraheze.org/wiki/Main_Page#Immune_system)
 
-      * [1.7.4.1 Seasonal Influenza](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seasonal_Influenza)
+      * [1.7.4.1 Seasonal Influenza](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seasonal_Influenza)
 
-      * [1.7.4.2 Congregate Living](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Congregate_Living)
+      * [1.7.4.2 Congregate Living](https://cholecalciferol.miraheze.org/wiki/Main_Page#Congregate_Living)
 
-    * [1.7.5 Cancer](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cancer)
+    * [1.7.5 Cancer](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cancer)
 
-    * [1.7.6 Endothelium](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Endothelium)
+    * [1.7.6 Endothelium](https://cholecalciferol.miraheze.org/wiki/Main_Page#Endothelium)
 
-    * [1.7.7 Pregnancy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Pregnancy)
+    * [1.7.7 Pregnancy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Pregnancy)
 
-    * [1.7.8 Lactation](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lactation)
+    * [1.7.8 Lactation](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lactation)
 
-      * [1.7.8.1 Provide for infant](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Provide_for_infant)
+      * [1.7.8.1 Provide for infant](https://cholecalciferol.miraheze.org/wiki/Main_Page#Provide_for_infant)
 
-    * [1.7.9 Dental](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Dental)
+    * [1.7.9 Dental](https://cholecalciferol.miraheze.org/wiki/Main_Page#Dental)
 
-    * [1.7.10 Vaccine injury](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vaccine_injury)
+    * [1.7.10 Vaccine injury](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vaccine_injury)
 
-  * [1.8 Safety](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Safety)
+  * [1.8 Safety](https://cholecalciferol.miraheze.org/wiki/Main_Page#Safety)
 
-    * [1.8.1 Acute toxicity](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Acute_toxicity)
+    * [1.8.1 Acute toxicity](https://cholecalciferol.miraheze.org/wiki/Main_Page#Acute_toxicity)
 
-    * [1.8.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bolus_2)
+    * [1.8.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bolus_2)
 
-    * [1.8.3 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Daily_2)
+    * [1.8.3 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page#Daily_2)
 
-    * [1.8.4 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Metabolites_2)
+    * [1.8.4 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page#Metabolites_2)
 
-    * [1.8.5 Food](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Food)
+    * [1.8.5 Food](https://cholecalciferol.miraheze.org/wiki/Main_Page#Food)
 
-    * [1.8.6 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sun_2)
+    * [1.8.6 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sun_2)
 
-    * [1.8.7 Treatment](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Treatment)
+    * [1.8.7 Treatment](https://cholecalciferol.miraheze.org/wiki/Main_Page#Treatment)
 
-    * [1.8.8 Myths](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Myths)
+    * [1.8.8 Myths](https://cholecalciferol.miraheze.org/wiki/Main_Page#Myths)
 
-  * [1.9 Resources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Resources)
+  * [1.9 Resources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Resources)
 
-    * [1.9.1 Wikipedia](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Wikipedia)
+    * [1.9.1 Wikipedia](https://cholecalciferol.miraheze.org/wiki/Main_Page#Wikipedia)
 
-    * [1.9.2 PubMed](https://cholecalciferol.miraheze.org/wiki/Main_Page%23PubMed)
+    * [1.9.2 PubMed](https://cholecalciferol.miraheze.org/wiki/Main_Page#PubMed)
 
-    * [1.9.3 Journals](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Journals)
+    * [1.9.3 Journals](https://cholecalciferol.miraheze.org/wiki/Main_Page#Journals)
 
-    * [1.9.4 Blogs](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Blogs)
+    * [1.9.4 Blogs](https://cholecalciferol.miraheze.org/wiki/Main_Page#Blogs)
 
-    * [1.9.5 Facebook](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Facebook)
+    * [1.9.5 Facebook](https://cholecalciferol.miraheze.org/wiki/Main_Page#Facebook)
 
-    * [1.9.6 YouTube](https://cholecalciferol.miraheze.org/wiki/Main_Page%23YouTube)
+    * [1.9.6 YouTube](https://cholecalciferol.miraheze.org/wiki/Main_Page#YouTube)
 
-    * [1.9.7 Twitter](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Twitter)
+    * [1.9.7 Twitter](https://cholecalciferol.miraheze.org/wiki/Main_Page#Twitter)
 
-    * [1.9.8 Web](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Web)
+    * [1.9.8 Web](https://cholecalciferol.miraheze.org/wiki/Main_Page#Web)
 
-    * [1.9.9 Repository](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Repository)
+    * [1.9.9 Repository](https://cholecalciferol.miraheze.org/wiki/Main_Page#Repository)
 
-    * [1.9.10 Other sources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_sources)
+    * [1.9.10 Other sources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_sources)
 
-  * [1.10 Advocates](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Advocates)
+  * [1.10 Advocates](https://cholecalciferol.miraheze.org/wiki/Main_Page#Advocates)
 
-    * [1.10.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Europe)
+    * [1.10.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page#Europe)
 
-    * [1.10.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Americas)
+    * [1.10.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page#Americas)
 
-    * [1.10.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_3)
+    * [1.10.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_3)
 
-  * [1.11 Controversy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Controversy)
+  * [1.11 Controversy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Controversy)
 
-    * [1.11.1 Historical errors](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Historical_errors)
+    * [1.11.1 Historical errors](https://cholecalciferol.miraheze.org/wiki/Main_Page#Historical_errors)
 
-    * [1.11.2 Research negligence](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Research_negligence)
+    * [1.11.2 Research negligence](https://cholecalciferol.miraheze.org/wiki/Main_Page#Research_negligence)
 
-    * [1.11.3 Measurement variability](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Measurement_variability)
+    * [1.11.3 Measurement variability](https://cholecalciferol.miraheze.org/wiki/Main_Page#Measurement_variability)
 
-    * [1.11.4 Ergocalciferol / Vitamin-D2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Ergocalciferol_/_Vitamin-D2)
+    * [1.11.4 Ergocalciferol / Vitamin-D2](https://cholecalciferol.miraheze.org/wiki/Main_Page#Ergocalciferol_/_Vitamin-D2)
 
-  * [1.12 Tangential](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Tangential)
+  * [1.12 Tangential](https://cholecalciferol.miraheze.org/wiki/Main_Page#Tangential)
 
-    * [1.12.1](https://cholecalciferol.miraheze.org/wiki/Main_Page%23)
+    * [1.12.1](https://cholecalciferol.miraheze.org/wiki/Main_Page#)
 
-    * [1.12.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_2)
+    * [1.12.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_2)
 
-  * [1.13 CoViD-19](https://cholecalciferol.miraheze.org/wiki/Main_Page%23CoViD-19)
+  * [1.13 CoViD-19](https://cholecalciferol.miraheze.org/wiki/Main_Page#CoViD-19)
 
-    * [1.13.1 Clinical trials](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Clinical_trials)
+    * [1.13.1 Clinical trials](https://cholecalciferol.miraheze.org/wiki/Main_Page#Clinical_trials)
 
-    * [1.13.2 Other trials](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_trials)
+    * [1.13.2 Other trials](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_trials)
 
-    * [1.13.3 Interventions](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Interventions)
+    * [1.13.3 Interventions](https://cholecalciferol.miraheze.org/wiki/Main_Page#Interventions)
 
-      * [1.13.3.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Europe_2)
+      * [1.13.3.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page#Europe_2)
 
-      * [1.13.3.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Americas_2)
+      * [1.13.3.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page#Americas_2)
 
-      * [1.13.3.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_4)
+      * [1.13.3.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_4)
 
-    * [1.13.4 Community](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Community)
+    * [1.13.4 Community](https://cholecalciferol.miraheze.org/wiki/Main_Page#Community)
 
-      * [1.13.4.1 GrassRootsHealth](https://cholecalciferol.miraheze.org/wiki/Main_Page%23GrassRootsHealth)
+      * [1.13.4.1 GrassRootsHealth](https://cholecalciferol.miraheze.org/wiki/Main_Page#GrassRootsHealth)
 
-      * [1.13.4.2 signatures](https://cholecalciferol.miraheze.org/wiki/Main_Page%23signatures)
+      * [1.13.4.2 signatures](https://cholecalciferol.miraheze.org/wiki/Main_Page#signatures)
 
-      * [1.13.4.3 UK Petition](https://cholecalciferol.miraheze.org/wiki/Main_Page%23UK_Petition)
+      * [1.13.4.3 UK Petition](https://cholecalciferol.miraheze.org/wiki/Main_Page#UK_Petition)
 
-      * [1.13.4.4 Vitamin-D for All](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-D_for_All)
+      * [1.13.4.4 Vitamin-D for All](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-D_for_All)
 
-      * [1.13.4.5 France doctors and learned bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page%23France_doctors_and_learned_bodies)
+      * [1.13.4.5 France doctors and learned bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page#France_doctors_and_learned_bodies)
 
-  * [1.14 Supplementation](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Supplementation)
+  * [1.14 Supplementation](https://cholecalciferol.miraheze.org/wiki/Main_Page#Supplementation)
 
-    * [1.14.1 Treatment regimes](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Treatment_regimes)
+    * [1.14.1 Treatment regimes](https://cholecalciferol.miraheze.org/wiki/Main_Page#Treatment_regimes)
 
-    * [1.14.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_3)
+    * [1.14.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_3)
 
-  * [1.15 Cofactors](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cofactors)
+  * [1.15 Cofactors](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cofactors)
 
-    * [1.15.1 Magnesium](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Magnesium)
+    * [1.15.1 Magnesium](https://cholecalciferol.miraheze.org/wiki/Main_Page#Magnesium)
 
-    * [1.15.2 Vitamin-K2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-K2)
+    * [1.15.2 Vitamin-K2](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-K2)
 
-    * [1.15.3 Zinc](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Zinc)
+    * [1.15.3 Zinc](https://cholecalciferol.miraheze.org/wiki/Main_Page#Zinc)
 
-  * [1.16 Biology](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Biology)
+  * [1.16 Biology](https://cholecalciferol.miraheze.org/wiki/Main_Page#Biology)
 
-    * [1.16.1](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_4)
+    * [1.16.1](https://cholecalciferol.miraheze.org/wiki/Main_Page#_4)
 
-    * [1.16.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_5)
+    * [1.16.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_5)
 
-* [2 Info](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Info)
+* [2 Info](https://cholecalciferol.miraheze.org/wiki/Main_Page#Info)
 
-  * [2.1 Unit conversions](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Unit_conversions)
+  * [2.1 Unit conversions](https://cholecalciferol.miraheze.org/wiki/Main_Page#Unit_conversions)
 
-  * [2.2 Glossary](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Glossary)
+  * [2.2 Glossary](https://cholecalciferol.miraheze.org/wiki/Main_Page#Glossary)
 
-  * [2.3 International spelling](https://cholecalciferol.miraheze.org/wiki/Main_Page%23International_spelling)
+  * [2.3 International spelling](https://cholecalciferol.miraheze.org/wiki/Main_Page#International_spelling)
 
-  * [2.4 Public Health bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Public_Health_bodies)
+  * [2.4 Public Health bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page#Public_Health_bodies)
 
-    * [2.4.1 Endocrine Society](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Endocrine_Society)
+    * [2.4.1 Endocrine Society](https://cholecalciferol.miraheze.org/wiki/Main_Page#Endocrine_Society)
 
-    * [2.4.2 IoM](https://cholecalciferol.miraheze.org/wiki/Main_Page%23IoM)
+    * [2.4.2 IoM](https://cholecalciferol.miraheze.org/wiki/Main_Page#IoM)
 
-    * [2.4.3 THL](https://cholecalciferol.miraheze.org/wiki/Main_Page%23THL)
+    * [2.4.3 THL](https://cholecalciferol.miraheze.org/wiki/Main_Page#THL)
 
-* [3 References](https://cholecalciferol.miraheze.org/wiki/Main_Page%23References)
+* [3 References](https://cholecalciferol.miraheze.org/wiki/Main_Page#References)
 
 <!-- ~tc~ (alias(There is another Vitamin D Wiki: Vitamin-D Info)) ~/tc~ -->
 
@@ -287,265 +287,265 @@ Markdown:
 
 #### Table of Contents (Oct 2023)
 
-* [1 Vitamin-D Info (Cholecalciferol)](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-D_Info_(Cholecalciferol))
+* [1 Vitamin-D Info (Cholecalciferol)](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-D_Info_(Cholecalciferol))
 
-  * [1.1 History](https://cholecalciferol.miraheze.org/wiki/Main_Page%23History)
+  * [1.1 History](https://cholecalciferol.miraheze.org/wiki/Main_Page#History)
 
-    * [1.1.1 Early](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Early)
+    * [1.1.1 Early](https://cholecalciferol.miraheze.org/wiki/Main_Page#Early)
 
-    * [1.1.2 Discovery](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Discovery)
+    * [1.1.2 Discovery](https://cholecalciferol.miraheze.org/wiki/Main_Page#Discovery)
 
-    * [1.1.3 Recent](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Recent)
+    * [1.1.3 Recent](https://cholecalciferol.miraheze.org/wiki/Main_Page#Recent)
 
-  * [1.2 Forms](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Forms)
+  * [1.2 Forms](https://cholecalciferol.miraheze.org/wiki/Main_Page#Forms)
 
-    * [1.2.1 Biosynthesis of Vitamin-D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Biosynthesis_of_Vitamin-D3)
+    * [1.2.1 Biosynthesis of Vitamin-D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#Biosynthesis_of_Vitamin-D3)
 
-      * [1.2.1.1 7-Dehydrocholesterol](https://cholecalciferol.miraheze.org/wiki/Main_Page%237-Dehydrocholesterol)
+      * [1.2.1.1 7-Dehydrocholesterol](https://cholecalciferol.miraheze.org/wiki/Main_Page#7-Dehydrocholesterol)
 
-      * [1.2.1.2 Cholecalciferol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cholecalciferol)
+      * [1.2.1.2 Cholecalciferol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cholecalciferol)
 
-      * [1.2.1.3 Calcidiol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Calcidiol)
+      * [1.2.1.3 Calcidiol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Calcidiol)
 
-      * [1.2.1.4 Calcitriol](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Calcitriol)
+      * [1.2.1.4 Calcitriol](https://cholecalciferol.miraheze.org/wiki/Main_Page#Calcitriol)
 
-      * [1.2.1.5 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other)
+      * [1.2.1.5 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other)
 
-      * [1.2.1.6 Prescription](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Prescription)
+      * [1.2.1.6 Prescription](https://cholecalciferol.miraheze.org/wiki/Main_Page#Prescription)
 
-    * [1.2.2 D2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23D2)
+    * [1.2.2 D2](https://cholecalciferol.miraheze.org/wiki/Main_Page#D2)
 
-  * [1.3 Deficiency](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Deficiency)
+  * [1.3 Deficiency](https://cholecalciferol.miraheze.org/wiki/Main_Page#Deficiency)
 
-    * [1.3.1 Genetic](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Genetic)
+    * [1.3.1 Genetic](https://cholecalciferol.miraheze.org/wiki/Main_Page#Genetic)
 
-      * [1.3.1.1 Protective](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Protective)
+      * [1.3.1.1 Protective](https://cholecalciferol.miraheze.org/wiki/Main_Page#Protective)
 
-      * [1.3.1.2 Aggravating](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Aggravating)
+      * [1.3.1.2 Aggravating](https://cholecalciferol.miraheze.org/wiki/Main_Page#Aggravating)
 
-    * [1.3.2 Disease](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Disease)
+    * [1.3.2 Disease](https://cholecalciferol.miraheze.org/wiki/Main_Page#Disease)
 
-    * [1.3.3 Global](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Global)
+    * [1.3.3 Global](https://cholecalciferol.miraheze.org/wiki/Main_Page#Global)
 
-    * [1.3.4 Seasonal](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seasonal)
+    * [1.3.4 Seasonal](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seasonal)
 
-      * [1.3.4.1 Winter](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Winter)
+      * [1.3.4.1 Winter](https://cholecalciferol.miraheze.org/wiki/Main_Page#Winter)
 
-      * [1.3.4.2 Summer](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Summer)
+      * [1.3.4.2 Summer](https://cholecalciferol.miraheze.org/wiki/Main_Page#Summer)
 
-    * [1.3.5 Work place](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Work_place)
+    * [1.3.5 Work place](https://cholecalciferol.miraheze.org/wiki/Main_Page#Work_place)
 
-  * [1.4 Dosing](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Dosing)
+  * [1.4 Dosing](https://cholecalciferol.miraheze.org/wiki/Main_Page#Dosing)
 
-    * [1.4.1 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Daily)
+    * [1.4.1 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page#Daily)
 
-    * [1.4.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bolus)
+    * [1.4.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bolus)
 
-    * [1.4.3 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Metabolites)
+    * [1.4.3 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page#Metabolites)
 
-  * [1.5 Sources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sources)
+  * [1.5 Sources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sources)
 
-    * [1.5.1 Skin](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Skin)
+    * [1.5.1 Skin](https://cholecalciferol.miraheze.org/wiki/Main_Page#Skin)
 
-      * [1.5.1.1 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sun)
+      * [1.5.1.1 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sun)
 
-      * [1.5.1.2 UVB therapy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23UVB_therapy)
+      * [1.5.1.2 UVB therapy](https://cholecalciferol.miraheze.org/wiki/Main_Page#UVB_therapy)
 
-      * [1.5.1.3 Heliotherapy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Heliotherapy)
+      * [1.5.1.3 Heliotherapy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Heliotherapy)
 
-    * [1.5.2 Diet](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Diet)
+    * [1.5.2 Diet](https://cholecalciferol.miraheze.org/wiki/Main_Page#Diet)
 
-    * [1.5.3 Industrial](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Industrial)
+    * [1.5.3 Industrial](https://cholecalciferol.miraheze.org/wiki/Main_Page#Industrial)
 
-      * [1.5.3.1 Lanolin](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lanolin)
+      * [1.5.3.1 Lanolin](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lanolin)
 
-      * [1.5.3.2 Lichen](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lichen)
+      * [1.5.3.2 Lichen](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lichen)
 
-      * [1.5.3.3 Seaweed](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seaweed)
+      * [1.5.3.3 Seaweed](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seaweed)
 
-      * [1.5.3.4 Mushrooms](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Mushrooms)
+      * [1.5.3.4 Mushrooms](https://cholecalciferol.miraheze.org/wiki/Main_Page#Mushrooms)
 
-      * [1.5.3.5 Yeast](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Yeast)
+      * [1.5.3.5 Yeast](https://cholecalciferol.miraheze.org/wiki/Main_Page#Yeast)
 
-      * [1.5.3.6 Bacteria](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bacteria)
+      * [1.5.3.6 Bacteria](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bacteria)
 
-      * [1.5.3.7 Patents](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Patents)
+      * [1.5.3.7 Patents](https://cholecalciferol.miraheze.org/wiki/Main_Page#Patents)
 
-  * [1.6 Testing](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Testing)
+  * [1.6 Testing](https://cholecalciferol.miraheze.org/wiki/Main_Page#Testing)
 
-    * [1.6.1 Serum](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Serum)
+    * [1.6.1 Serum](https://cholecalciferol.miraheze.org/wiki/Main_Page#Serum)
 
-      * [1.6.1.1 VitaminD](https://cholecalciferol.miraheze.org/wiki/Main_Page%23VitaminD)
+      * [1.6.1.1 VitaminD](https://cholecalciferol.miraheze.org/wiki/Main_Page#VitaminD)
 
-      * [1.6.1.2 25(OH)D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%2325(OH)D3)
+      * [1.6.1.2 25(OH)D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#25(OH)D3)
 
-      * [1.6.1.3 1,25(OH){SUB()}2{SUB}D3](https://cholecalciferol.miraheze.org/wiki/Main_Page%231%2C25(OH)2D3)
+      * [1.6.1.3 1,25(OH){SUB()}2{SUB}D3](https://cholecalciferol.miraheze.org/wiki/Main_Page#1,25(OH)2D3)
 
-      * [1.6.1.4 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_2)
+      * [1.6.1.4 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_2)
 
-    * [1.6.2 Saliva](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Saliva)
+    * [1.6.2 Saliva](https://cholecalciferol.miraheze.org/wiki/Main_Page#Saliva)
 
-    * [1.6.3 Supplements](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Supplements)
+    * [1.6.3 Supplements](https://cholecalciferol.miraheze.org/wiki/Main_Page#Supplements)
 
-  * [1.7 Benefits](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Benefits)
+  * [1.7 Benefits](https://cholecalciferol.miraheze.org/wiki/Main_Page#Benefits)
 
-    * [1.7.1 Bone](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bone)
+    * [1.7.1 Bone](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bone)
 
-    * [1.7.2 Muscles](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Muscles)
+    * [1.7.2 Muscles](https://cholecalciferol.miraheze.org/wiki/Main_Page#Muscles)
 
-    * [1.7.3 Autoimmune](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Autoimmune)
+    * [1.7.3 Autoimmune](https://cholecalciferol.miraheze.org/wiki/Main_Page#Autoimmune)
 
-      * [1.7.3.1 Psoriasis](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Psoriasis)
+      * [1.7.3.1 Psoriasis](https://cholecalciferol.miraheze.org/wiki/Main_Page#Psoriasis)
 
-      * [1.7.3.2 MS](https://cholecalciferol.miraheze.org/wiki/Main_Page%23MS)
+      * [1.7.3.2 MS](https://cholecalciferol.miraheze.org/wiki/Main_Page#MS)
 
-    * [1.7.4 Immune system](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Immune_system)
+    * [1.7.4 Immune system](https://cholecalciferol.miraheze.org/wiki/Main_Page#Immune_system)
 
-      * [1.7.4.1 Seasonal Influenza](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Seasonal_Influenza)
+      * [1.7.4.1 Seasonal Influenza](https://cholecalciferol.miraheze.org/wiki/Main_Page#Seasonal_Influenza)
 
-      * [1.7.4.2 Congregate Living](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Congregate_Living)
+      * [1.7.4.2 Congregate Living](https://cholecalciferol.miraheze.org/wiki/Main_Page#Congregate_Living)
 
-    * [1.7.5 Cancer](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cancer)
+    * [1.7.5 Cancer](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cancer)
 
-    * [1.7.6 Endothelium](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Endothelium)
+    * [1.7.6 Endothelium](https://cholecalciferol.miraheze.org/wiki/Main_Page#Endothelium)
 
-    * [1.7.7 Pregnancy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Pregnancy)
+    * [1.7.7 Pregnancy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Pregnancy)
 
-    * [1.7.8 Lactation](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Lactation)
+    * [1.7.8 Lactation](https://cholecalciferol.miraheze.org/wiki/Main_Page#Lactation)
 
-      * [1.7.8.1 Provide for infant](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Provide_for_infant)
+      * [1.7.8.1 Provide for infant](https://cholecalciferol.miraheze.org/wiki/Main_Page#Provide_for_infant)
 
-    * [1.7.9 Dental](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Dental)
+    * [1.7.9 Dental](https://cholecalciferol.miraheze.org/wiki/Main_Page#Dental)
 
-    * [1.7.10 Vaccine injury](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vaccine_injury)
+    * [1.7.10 Vaccine injury](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vaccine_injury)
 
-  * [1.8 Safety](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Safety)
+  * [1.8 Safety](https://cholecalciferol.miraheze.org/wiki/Main_Page#Safety)
 
-    * [1.8.1 Acute toxicity](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Acute_toxicity)
+    * [1.8.1 Acute toxicity](https://cholecalciferol.miraheze.org/wiki/Main_Page#Acute_toxicity)
 
-    * [1.8.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Bolus_2)
+    * [1.8.2 Bolus](https://cholecalciferol.miraheze.org/wiki/Main_Page#Bolus_2)
 
-    * [1.8.3 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Daily_2)
+    * [1.8.3 Daily](https://cholecalciferol.miraheze.org/wiki/Main_Page#Daily_2)
 
-    * [1.8.4 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Metabolites_2)
+    * [1.8.4 Metabolites](https://cholecalciferol.miraheze.org/wiki/Main_Page#Metabolites_2)
 
-    * [1.8.5 Food](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Food)
+    * [1.8.5 Food](https://cholecalciferol.miraheze.org/wiki/Main_Page#Food)
 
-    * [1.8.6 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Sun_2)
+    * [1.8.6 Sun](https://cholecalciferol.miraheze.org/wiki/Main_Page#Sun_2)
 
-    * [1.8.7 Treatment](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Treatment)
+    * [1.8.7 Treatment](https://cholecalciferol.miraheze.org/wiki/Main_Page#Treatment)
 
-    * [1.8.8 Myths](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Myths)
+    * [1.8.8 Myths](https://cholecalciferol.miraheze.org/wiki/Main_Page#Myths)
 
-  * [1.9 Resources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Resources)
+  * [1.9 Resources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Resources)
 
-    * [1.9.1 Wikipedia](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Wikipedia)
+    * [1.9.1 Wikipedia](https://cholecalciferol.miraheze.org/wiki/Main_Page#Wikipedia)
 
-    * [1.9.2 PubMed](https://cholecalciferol.miraheze.org/wiki/Main_Page%23PubMed)
+    * [1.9.2 PubMed](https://cholecalciferol.miraheze.org/wiki/Main_Page#PubMed)
 
-    * [1.9.3 Journals](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Journals)
+    * [1.9.3 Journals](https://cholecalciferol.miraheze.org/wiki/Main_Page#Journals)
 
-    * [1.9.4 Blogs](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Blogs)
+    * [1.9.4 Blogs](https://cholecalciferol.miraheze.org/wiki/Main_Page#Blogs)
 
-    * [1.9.5 Facebook](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Facebook)
+    * [1.9.5 Facebook](https://cholecalciferol.miraheze.org/wiki/Main_Page#Facebook)
 
-    * [1.9.6 YouTube](https://cholecalciferol.miraheze.org/wiki/Main_Page%23YouTube)
+    * [1.9.6 YouTube](https://cholecalciferol.miraheze.org/wiki/Main_Page#YouTube)
 
-    * [1.9.7 Twitter](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Twitter)
+    * [1.9.7 Twitter](https://cholecalciferol.miraheze.org/wiki/Main_Page#Twitter)
 
-    * [1.9.8 Web](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Web)
+    * [1.9.8 Web](https://cholecalciferol.miraheze.org/wiki/Main_Page#Web)
 
-    * [1.9.9 Repository](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Repository)
+    * [1.9.9 Repository](https://cholecalciferol.miraheze.org/wiki/Main_Page#Repository)
 
-    * [1.9.10 Other sources](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_sources)
+    * [1.9.10 Other sources](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_sources)
 
-  * [1.10 Advocates](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Advocates)
+  * [1.10 Advocates](https://cholecalciferol.miraheze.org/wiki/Main_Page#Advocates)
 
-    * [1.10.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Europe)
+    * [1.10.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page#Europe)
 
-    * [1.10.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Americas)
+    * [1.10.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page#Americas)
 
-    * [1.10.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_3)
+    * [1.10.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_3)
 
-  * [1.11 Controversy](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Controversy)
+  * [1.11 Controversy](https://cholecalciferol.miraheze.org/wiki/Main_Page#Controversy)
 
-    * [1.11.1 Historical errors](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Historical_errors)
+    * [1.11.1 Historical errors](https://cholecalciferol.miraheze.org/wiki/Main_Page#Historical_errors)
 
-    * [1.11.2 Research negligence](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Research_negligence)
+    * [1.11.2 Research negligence](https://cholecalciferol.miraheze.org/wiki/Main_Page#Research_negligence)
 
-    * [1.11.3 Measurement variability](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Measurement_variability)
+    * [1.11.3 Measurement variability](https://cholecalciferol.miraheze.org/wiki/Main_Page#Measurement_variability)
 
-    * [1.11.4 Ergocalciferol / Vitamin-D2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Ergocalciferol_/_Vitamin-D2)
+    * [1.11.4 Ergocalciferol / Vitamin-D2](https://cholecalciferol.miraheze.org/wiki/Main_Page#Ergocalciferol_/_Vitamin-D2)
 
-  * [1.12 Tangential](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Tangential)
+  * [1.12 Tangential](https://cholecalciferol.miraheze.org/wiki/Main_Page#Tangential)
 
-    * [1.12.1](https://cholecalciferol.miraheze.org/wiki/Main_Page%23)
+    * [1.12.1](https://cholecalciferol.miraheze.org/wiki/Main_Page#)
 
-    * [1.12.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_2)
+    * [1.12.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_2)
 
-  * [1.13 CoViD-19](https://cholecalciferol.miraheze.org/wiki/Main_Page%23CoViD-19)
+  * [1.13 CoViD-19](https://cholecalciferol.miraheze.org/wiki/Main_Page#CoViD-19)
 
-    * [1.13.1 Clinical trials](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Clinical_trials)
+    * [1.13.1 Clinical trials](https://cholecalciferol.miraheze.org/wiki/Main_Page#Clinical_trials)
 
-    * [1.13.2 Other trials](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_trials)
+    * [1.13.2 Other trials](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_trials)
 
-    * [1.13.3 Interventions](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Interventions)
+    * [1.13.3 Interventions](https://cholecalciferol.miraheze.org/wiki/Main_Page#Interventions)
 
-      * [1.13.3.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Europe_2)
+      * [1.13.3.1 Europe](https://cholecalciferol.miraheze.org/wiki/Main_Page#Europe_2)
 
-      * [1.13.3.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Americas_2)
+      * [1.13.3.2 Americas](https://cholecalciferol.miraheze.org/wiki/Main_Page#Americas_2)
 
-      * [1.13.3.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Other_4)
+      * [1.13.3.3 Other](https://cholecalciferol.miraheze.org/wiki/Main_Page#Other_4)
 
-    * [1.13.4 Community](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Community)
+    * [1.13.4 Community](https://cholecalciferol.miraheze.org/wiki/Main_Page#Community)
 
-      * [1.13.4.1 GrassRootsHealth](https://cholecalciferol.miraheze.org/wiki/Main_Page%23GrassRootsHealth)
+      * [1.13.4.1 GrassRootsHealth](https://cholecalciferol.miraheze.org/wiki/Main_Page#GrassRootsHealth)
 
-      * [1.13.4.2 signatures](https://cholecalciferol.miraheze.org/wiki/Main_Page%23signatures)
+      * [1.13.4.2 signatures](https://cholecalciferol.miraheze.org/wiki/Main_Page#signatures)
 
-      * [1.13.4.3 UK Petition](https://cholecalciferol.miraheze.org/wiki/Main_Page%23UK_Petition)
+      * [1.13.4.3 UK Petition](https://cholecalciferol.miraheze.org/wiki/Main_Page#UK_Petition)
 
-      * [1.13.4.4 Vitamin-D for All](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-D_for_All)
+      * [1.13.4.4 Vitamin-D for All](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-D_for_All)
 
-      * [1.13.4.5 France doctors and learned bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page%23France_doctors_and_learned_bodies)
+      * [1.13.4.5 France doctors and learned bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page#France_doctors_and_learned_bodies)
 
-  * [1.14 Supplementation](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Supplementation)
+  * [1.14 Supplementation](https://cholecalciferol.miraheze.org/wiki/Main_Page#Supplementation)
 
-    * [1.14.1 Treatment regimes](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Treatment_regimes)
+    * [1.14.1 Treatment regimes](https://cholecalciferol.miraheze.org/wiki/Main_Page#Treatment_regimes)
 
-    * [1.14.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_3)
+    * [1.14.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_3)
 
-  * [1.15 Cofactors](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Cofactors)
+  * [1.15 Cofactors](https://cholecalciferol.miraheze.org/wiki/Main_Page#Cofactors)
 
-    * [1.15.1 Magnesium](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Magnesium)
+    * [1.15.1 Magnesium](https://cholecalciferol.miraheze.org/wiki/Main_Page#Magnesium)
 
-    * [1.15.2 Vitamin-K2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Vitamin-K2)
+    * [1.15.2 Vitamin-K2](https://cholecalciferol.miraheze.org/wiki/Main_Page#Vitamin-K2)
 
-    * [1.15.3 Zinc](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Zinc)
+    * [1.15.3 Zinc](https://cholecalciferol.miraheze.org/wiki/Main_Page#Zinc)
 
-  * [1.16 Biology](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Biology)
+  * [1.16 Biology](https://cholecalciferol.miraheze.org/wiki/Main_Page#Biology)
 
-    * [1.16.1](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_4)
+    * [1.16.1](https://cholecalciferol.miraheze.org/wiki/Main_Page#_4)
 
-    * [1.16.2](https://cholecalciferol.miraheze.org/wiki/Main_Page%23_5)
+    * [1.16.2](https://cholecalciferol.miraheze.org/wiki/Main_Page#_5)
 
-* [2 Info](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Info)
+* [2 Info](https://cholecalciferol.miraheze.org/wiki/Main_Page#Info)
 
-  * [2.1 Unit conversions](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Unit_conversions)
+  * [2.1 Unit conversions](https://cholecalciferol.miraheze.org/wiki/Main_Page#Unit_conversions)
 
-  * [2.2 Glossary](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Glossary)
+  * [2.2 Glossary](https://cholecalciferol.miraheze.org/wiki/Main_Page#Glossary)
 
-  * [2.3 International spelling](https://cholecalciferol.miraheze.org/wiki/Main_Page%23International_spelling)
+  * [2.3 International spelling](https://cholecalciferol.miraheze.org/wiki/Main_Page#International_spelling)
 
-  * [2.4 Public Health bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Public_Health_bodies)
+  * [2.4 Public Health bodies](https://cholecalciferol.miraheze.org/wiki/Main_Page#Public_Health_bodies)
 
-    * [2.4.1 Endocrine Society](https://cholecalciferol.miraheze.org/wiki/Main_Page%23Endocrine_Society)
+    * [2.4.1 Endocrine Society](https://cholecalciferol.miraheze.org/wiki/Main_Page#Endocrine_Society)
 
-    * [2.4.2 IoM](https://cholecalciferol.miraheze.org/wiki/Main_Page%23IoM)
+    * [2.4.2 IoM](https://cholecalciferol.miraheze.org/wiki/Main_Page#IoM)
 
-    * [2.4.3 THL](https://cholecalciferol.miraheze.org/wiki/Main_Page%23THL)
+    * [2.4.3 THL](https://cholecalciferol.miraheze.org/wiki/Main_Page#THL)
 
-* [3 References](https://cholecalciferol.miraheze.org/wiki/Main_Page%23References)
+* [3 References](https://cholecalciferol.miraheze.org/wiki/Main_Page#References)
 
 &lt;!-- ~tc~ (alias(There is another Vitamin D Wiki: Vitamin-D Info)) ~/tc~ --&gt;
 

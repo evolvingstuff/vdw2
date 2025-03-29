@@ -17,7 +17,7 @@ categories:
 
 #### Video
 
- **[TedTalk 10:30](https://www.ted.com/talks/matthias_mullenbeck_what_if_we_paid_doctors_to_keep_people_healthy/transcript%3Fuser_email_address%3De37d32694f4c44a5bda4fa26573c9726%26lctg%3D62d1bd0354733608146b37e8)** 
+ **[TedTalk 10:30](https://www.ted.com/talks/matthias_mullenbeck_what_if_we_paid_doctors_to_keep_people_healthy/transcript?user_email_address=e37d32694f4c44a5bda4fa26573c9726&lctg=62d1bd0354733608146b37e8)** 
 
  **Matthias Müllenbeck** 
 
@@ -106,7 +106,7 @@ Markdown:
 
 #### Video
 
- **[TedTalk 10:30](https://www.ted.com/talks/matthias_mullenbeck_what_if_we_paid_doctors_to_keep_people_healthy/transcript%3Fuser_email_address%3De37d32694f4c44a5bda4fa26573c9726%26lctg%3D62d1bd0354733608146b37e8)** 
+ **[TedTalk 10:30](https://www.ted.com/talks/matthias_mullenbeck_what_if_we_paid_doctors_to_keep_people_healthy/transcript?user_email_address=e37d32694f4c44a5bda4fa26573c9726&amp;lctg=62d1bd0354733608146b37e8)** 
 
  **Matthias Müllenbeck** 
 

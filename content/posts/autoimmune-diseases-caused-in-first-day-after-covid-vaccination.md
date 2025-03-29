@@ -21,7 +21,7 @@ categories:
 
 #### COVID-19 vaccines immediate onset Autoimmune Disease adverse events in VAERS
 
- **[Substack](https://darrellricke.substack.com/p/covid-19-vaccines-immediate-onset%3Futm_source%3Dcross-post%26publication_id%3D735472%26post_id%3D138024521%26utm_campaign%3D583200%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)  Oct 16** 
+ **[Substack](https://darrellricke.substack.com/p/covid-19-vaccines-immediate-onset?utm_source=cross-post&publication_id=735472&post_id=138024521&utm_campaign=583200&isFreemail=false&r=ofo3r&utm_medium=email)  Oct 16** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -70,7 +70,7 @@ Markdown:
 
 #### COVID-19 vaccines immediate onset Autoimmune Disease adverse events in VAERS
 
- **[Substack](https://darrellricke.substack.com/p/covid-19-vaccines-immediate-onset%3Futm_source%3Dcross-post%26publication_id%3D735472%26post_id%3D138024521%26utm_campaign%3D583200%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)  Oct 16** 
+ **[Substack](https://darrellricke.substack.com/p/covid-19-vaccines-immediate-onset?utm_source=cross-post&amp;publication_id=735472&amp;post_id=138024521&amp;utm_campaign=583200&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)  Oct 16** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 

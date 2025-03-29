@@ -23,7 +23,7 @@ categories:
 
  **Xylitol and the Gateway Microbiome** 
 
- **[McCullogh Substack](https://petermcculloughmd.substack.com/p/xylitol-and-the-gateway-microbiome%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D140219879%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[McCullogh Substack](https://petermcculloughmd.substack.com/p/xylitol-and-the-gateway-microbiome?utm_source=post-email-title&publication_id=1119676&post_id=140219879&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
 
 * "The oropharynx harbors thousands of bacteria and fungi that live in symbiosis with the human body. This is called the “gateway microbiome” since the nose and the mouth are the entry point for air, water, and food to the human body. "
 
@@ -183,21 +183,21 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 #### Some of 100's of Xylitol videos
 
-* [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26ab_channel%3DDr.ElliePhillips) Dec 2023
+* [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8&ab_channel=Dr.ElliePhillips) Dec 2023
 
-  * [00:00](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D0s) Introduction
+  * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=0s) Introduction
 
-  * [00:32](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D32s) What forms a cavity?
+  * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=32s) What forms a cavity?
 
-  * [01:28](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D88s) beginning of a cavity
+  * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=88s) beginning of a cavity
 
-  * [04:21](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D261s) Progression of a cavity
+  * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=261s) Progression of a cavity
 
-  * [06:59](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D419s) How to stop a cavity when it starts
+  * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=419s) How to stop a cavity when it starts
 
-  * [2:08](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D728s) Reverse a cavity if it has progressed farther
+  * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=728s) Reverse a cavity if it has progressed farther
 
-* [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch%3Fv%3Dl0GoCGR0Uas%26ab_channel%3DJREClips)  6 minutes - 2020
+* [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch?v=l0GoCGR0Uas&ab_channel=JREClips)  6 minutes - 2020
 
   * Comment by a viewer:" Xylitol-gum was invented in Finland in the 70's, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating."
 
@@ -205,7 +205,7 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 ##### Founder of VitaminDWiki has purchased XyloBurst Gum 16 times as of July 2023
 
- **[Amazon](https://www.amazon.com/gp/product/B0015NE0OI/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26psc%3D1) costs about $0.18 per day** 
+ **[Amazon](https://www.amazon.com/gp/product/B0015NE0OI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) costs about $0.18 per day** 
 
 <!-- ~tc~ (alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) ~/tc~ -->
 
@@ -223,7 +223,7 @@ Markdown:
 
  **Xylitol and the Gateway Microbiome** 
 
- **[McCullogh Substack](https://petermcculloughmd.substack.com/p/xylitol-and-the-gateway-microbiome%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D140219879%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[McCullogh Substack](https://petermcculloughmd.substack.com/p/xylitol-and-the-gateway-microbiome?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=140219879&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
 
 * &quot;The oropharynx harbors thousands of bacteria and fungi that live in symbiosis with the human body. This is called the “gateway microbiome” since the nose and the mouth are the entry point for air, water, and food to the human body. &quot;
 
@@ -383,21 +383,21 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 #### Some of 100&#39;s of Xylitol videos
 
-* [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26ab_channel%3DDr.ElliePhillips) Dec 2023
+* [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;ab_channel=Dr.ElliePhillips) Dec 2023
 
-  * [00:00](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D0s) Introduction
+  * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=0s) Introduction
 
-  * [00:32](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D32s) What forms a cavity?
+  * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=32s) What forms a cavity?
 
-  * [01:28](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D88s) beginning of a cavity
+  * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=88s) beginning of a cavity
 
-  * [04:21](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D261s) Progression of a cavity
+  * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=261s) Progression of a cavity
 
-  * [06:59](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D419s) How to stop a cavity when it starts
+  * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=419s) How to stop a cavity when it starts
 
-  * [2:08](https://www.youtube.com/watch%3Fv%3D4wlRM-YgRQ8%26t%3D728s) Reverse a cavity if it has progressed farther
+  * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=728s) Reverse a cavity if it has progressed farther
 
-* [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch%3Fv%3Dl0GoCGR0Uas%26ab_channel%3DJREClips)  6 minutes - 2020
+* [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch?v=l0GoCGR0Uas&amp;ab_channel=JREClips)  6 minutes - 2020
 
   * Comment by a viewer:&quot; Xylitol-gum was invented in Finland in the 70&#39;s, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating.&quot;
 
@@ -405,7 +405,7 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 ##### Founder of VitaminDWiki has purchased XyloBurst Gum 16 times as of July 2023
 
- **[Amazon](https://www.amazon.com/gp/product/B0015NE0OI/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26psc%3D1) costs about $0.18 per day** 
+ **[Amazon](https://www.amazon.com/gp/product/B0015NE0OI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1) costs about $0.18 per day** 
 
 &lt;!-- ~tc~ (alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) ~/tc~ --&gt;
 

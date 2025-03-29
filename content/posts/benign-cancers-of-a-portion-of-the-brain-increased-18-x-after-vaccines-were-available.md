@@ -22,7 +22,7 @@ categories:
 
 ---
 
-#### See also VitaminDWiki &nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13401)
+#### See also VitaminDWiki &nbsp; Note: <a href="/posts/covid-decreases-vitamin-d-getting-to-cells-for-a-long-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13401">COVID decreases Vitamin D getting to cells for a long time</a>
 
 * [Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)
 
@@ -52,7 +52,7 @@ Markdown:
 
 ---
 
-#### See also VitaminDWiki &amp;nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13401)
+#### See also VitaminDWiki &amp;nbsp; Note: &lt;a href=&quot;/posts/covid-decreases-vitamin-d-getting-to-cells-for-a-long-time&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13401&quot;&gt;COVID decreases Vitamin D getting to cells for a long time&lt;/a&gt;
 
 * [Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)
 

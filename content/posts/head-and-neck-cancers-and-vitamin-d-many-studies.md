@@ -106,7 +106,7 @@ The proposed review discusses in detail the mechanisms regulating the relationsh
 
 ##### 19,400 hits for query: (head OR neck) Cancer "vitamin d receptor" in Google Scholar
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fq%3D(head%2BOR%2Bneck)%2BCancer%2B%22vitamin%2Bd%2Breceptor%22%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=(head+OR+neck)+Cancer+%22vitamin+d+receptor%22&hl=en&as_sdt=0,48)** 
 
 * Exploiting Vitamin D Receptor and Its Ligands to Target Squamous Cell Carcinomas of the Head and Neck - Feb 2023 10.3390/ijms24054675 FREE PDF
 
@@ -214,7 +214,7 @@ The proposed review discusses in detail the mechanisms regulating the relationsh
 
 ##### 19,400 hits for query: (head OR neck) Cancer &quot;vitamin d receptor&quot; in Google Scholar
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fq%3D(head%2BOR%2Bneck)%2BCancer%2B%22vitamin%2Bd%2Breceptor%22%26hl%3Den%26as_sdt%3D0%2C48)** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=(head+OR+neck)+Cancer+%22vitamin+d+receptor%22&amp;hl=en&amp;as_sdt=0,48)** 
 
 * Exploiting Vitamin D Receptor and Its Ligands to Target Squamous Cell Carcinomas of the Head and Neck - Feb 2023 10.3390/ijms24054675 FREE PDF
 

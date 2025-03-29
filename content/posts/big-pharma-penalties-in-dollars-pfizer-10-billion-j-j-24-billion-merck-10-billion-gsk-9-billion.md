@@ -14,7 +14,7 @@ date: 2024-04-02
 
 ---
 
-#### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals%3Futm_source%3Dsubstack%26utm_medium%3Demail)
+#### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals?utm_source=substack&utm_medium=email)
 
 * Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
 
@@ -40,7 +40,7 @@ Markdown:
 
 ---
 
-#### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals%3Futm_source%3Dsubstack%26utm_medium%3Demail)
+#### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals?utm_source=substack&amp;utm_medium=email)
 
 * Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
 

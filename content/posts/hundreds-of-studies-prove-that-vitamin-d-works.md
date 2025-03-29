@@ -13,13 +13,13 @@ categories:
 
 
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
+<a href="/posts/90-health-problems-treated-by-vitamin-d-most-of-which-have-randomized-controlled-trials" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials</a>
 
-[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D6329)
+<a href="/posts/700-randomized-controlled-trials-have-successfully-used-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 6329">700+ Randomized Controlled Trials have successfully used vitamin D</a>
 
-[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4267)
+<a href="/posts/600-meta-analyses-of-vitamin-d-trials" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4267">600+ meta-analyses of Vitamin D trials</a>
 
-[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD) 
+[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health+Problems+and+D) 
 
 <!-- ~tc~ (alias(Vitamin D has been proven to work by 100's of studies)) ~/tc~ -->
 
@@ -30,13 +30,13 @@ Markdown:
 --------
 
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
+&lt;a href=&quot;/posts/90-health-problems-treated-by-vitamin-d-most-of-which-have-randomized-controlled-trials&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1336&quot;&gt;90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials&lt;/a&gt;
 
-[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D6329)
+&lt;a href=&quot;/posts/700-randomized-controlled-trials-have-successfully-used-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 6329&quot;&gt;700+ Randomized Controlled Trials have successfully used vitamin D&lt;/a&gt;
 
-[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4267)
+&lt;a href=&quot;/posts/600-meta-analyses-of-vitamin-d-trials&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4267&quot;&gt;600+ meta-analyses of Vitamin D trials&lt;/a&gt;
 
-[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD) 
+[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health+Problems+and+D) 
 
 &lt;!-- ~tc~ (alias(Vitamin D has been proven to work by 100&#39;s of studies)) ~/tc~ --&gt;
 

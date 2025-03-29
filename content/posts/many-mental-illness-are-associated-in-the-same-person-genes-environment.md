@@ -17,7 +17,7 @@ categories:
 
 #### Why Do So Many Mental Illnesses Overlap?
 
- **[Scientific American](https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-SPONSORED%26THEPENNYHOARDER-2024_03_05%3D%26sponsored%3D0%26position%3D3%26category%3Dfascinating_stories%26scheduled_corpus_item_id%3D047119ee-9e82-4970-bd07-9fbb9d04a7c0%26url%3Dhttps://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%20)** 
+ **[Scientific American](https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/?utm_medium=email&utm_source=pocket_hits&utm_campaign=POCKET_HITS-EN-DAILY-SPONSORED&THEPENNYHOARDER-2024_03_05=&sponsored=0&position=3&category=fascinating_stories&scheduled_corpus_item_id=047119ee-9e82-4970-bd07-9fbb9d04a7c0&url=https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%20)** 
 
 “If one person, say, has a diagnosis of schizophrenia in their family, not only are other people in the extended family more likely to have diagnosis of schizophrenia but they are also more likely to have a diagnosis of bipolar disorder, autism or major depression,”
 
@@ -104,7 +104,7 @@ Markdown:
 
 #### Why Do So Many Mental Illnesses Overlap?
 
- **[Scientific American](https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-SPONSORED%26THEPENNYHOARDER-2024_03_05%3D%26sponsored%3D0%26position%3D3%26category%3Dfascinating_stories%26scheduled_corpus_item_id%3D047119ee-9e82-4970-bd07-9fbb9d04a7c0%26url%3Dhttps://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%20)** 
+ **[Scientific American](https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/?utm_medium=email&amp;utm_source=pocket_hits&amp;utm_campaign=POCKET_HITS-EN-DAILY-SPONSORED&amp;THEPENNYHOARDER-2024_03_05=&amp;sponsored=0&amp;position=3&amp;category=fascinating_stories&amp;scheduled_corpus_item_id=047119ee-9e82-4970-bd07-9fbb9d04a7c0&amp;url=https://www.scientificamerican.com/article/why-do-so-many-mental-illnesses-overlap/%20)** 
 
 “If one person, say, has a diagnosis of schizophrenia in their family, not only are other people in the extended family more likely to have diagnosis of schizophrenia but they are also more likely to have a diagnosis of bipolar disorder, autism or major depression,”
 

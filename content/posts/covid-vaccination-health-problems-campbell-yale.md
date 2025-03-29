@@ -57,7 +57,7 @@ In the week before survey completion, participants reported
 
 ---
 
-#### Reported on by [Dr. Campbell in video Nov 2023](https://www.youtube.com/watch%3Fv%3D-UJqhG1I7tY%26t%3D208s%26ab_channel%3DDr.JohnCampbell)
+#### Reported on by [Dr. Campbell in video Nov 2023](https://www.youtube.com/watch?v=-UJqhG1I7tY&t=208s&ab_channel=Dr.JohnCampbell)
 
 ---
 
@@ -147,7 +147,7 @@ In the week before survey completion, participants reported
 
 ---
 
-#### Reported on by [Dr. Campbell in video Nov 2023](https://www.youtube.com/watch%3Fv%3D-UJqhG1I7tY%26t%3D208s%26ab_channel%3DDr.JohnCampbell)
+#### Reported on by [Dr. Campbell in video Nov 2023](https://www.youtube.com/watch?v=-UJqhG1I7tY&amp;t=208s&amp;ab_channel=Dr.JohnCampbell)
 
 ---
 

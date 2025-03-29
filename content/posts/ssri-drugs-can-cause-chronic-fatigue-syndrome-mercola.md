@@ -18,7 +18,7 @@ categories:
 
 #### SSRI Drugs Can Cause Chronic Fatigue Syndrome
 
- **[Mercola April 2024](https://articles.mercola.com/sites/articles/archive/2024/04/19/selective-serotonin-reuptake-inhibitors.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1ReadMore%26cid%3D20240419_HL2%26foDate%3Dfalse%26mid%3DDM1559692%26rid%3D2099719523)** 
+ **[Mercola April 2024](https://articles.mercola.com/sites/articles/archive/2024/04/19/selective-serotonin-reuptake-inhibitors.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1ReadMore&cid=20240419_HL2&foDate=false&mid=DM1559692&rid=2099719523)** 
 
  **STORY AT-A-GLANCE** 
 
@@ -44,7 +44,7 @@ categories:
 
  **[Perplexity AI April 2024](https://www.perplexity.ai/search/SSRIs-might-inhibit-1wgJQm.KTWmPZNjecB_t4g)** 
 
-The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalopram, **fluoxetine** , and sertraline[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf%3Fwith-ds%3Dyes). This inhibition can lead to drug-drug interactions, particularly in patients who are on multiple medications, as CYP27A1 plays a role in the metabolism of various substances[14](https://www.researchgate.net/publication/321399514_Drugs_and_Scaffold_that_Inhibit_Cytochrome_P450_27A1_CYP27A1_in_Vitro_and_in_Vivo)[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf%3Fwith-ds%3Dyes).
+The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalopram, **fluoxetine** , and sertraline[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf?with-ds=yes). This inhibition can lead to drug-drug interactions, particularly in patients who are on multiple medications, as CYP27A1 plays a role in the metabolism of various substances[14](https://www.researchgate.net/publication/321399514_Drugs_and_Scaffold_that_Inhibit_Cytochrome_P450_27A1_CYP27A1_in_Vitro_and_in_Vivo)[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf?with-ds=yes).
 
  **VitaminDWiki - [Genetics](/categories/genetics) chart shows the vitamin D genes** 
 
@@ -75,7 +75,7 @@ Markdown:
 
 #### SSRI Drugs Can Cause Chronic Fatigue Syndrome
 
- **[Mercola April 2024](https://articles.mercola.com/sites/articles/archive/2024/04/19/selective-serotonin-reuptake-inhibitors.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1ReadMore%26cid%3D20240419_HL2%26foDate%3Dfalse%26mid%3DDM1559692%26rid%3D2099719523)** 
+ **[Mercola April 2024](https://articles.mercola.com/sites/articles/archive/2024/04/19/selective-serotonin-reuptake-inhibitors.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1ReadMore&amp;cid=20240419_HL2&amp;foDate=false&amp;mid=DM1559692&amp;rid=2099719523)** 
 
  **STORY AT-A-GLANCE** 
 
@@ -101,7 +101,7 @@ Markdown:
 
  **[Perplexity AI April 2024](https://www.perplexity.ai/search/SSRIs-might-inhibit-1wgJQm.KTWmPZNjecB_t4g)** 
 
-The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalopram, **fluoxetine** , and sertraline[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf%3Fwith-ds%3Dyes). This inhibition can lead to drug-drug interactions, particularly in patients who are on multiple medications, as CYP27A1 plays a role in the metabolism of various substances[14](https://www.researchgate.net/publication/321399514_Drugs_and_Scaffold_that_Inhibit_Cytochrome_P450_27A1_CYP27A1_in_Vitro_and_in_Vivo)[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf%3Fwith-ds%3Dyes).
+The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalopram, **fluoxetine** , and sertraline[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf?with-ds=yes). This inhibition can lead to drug-drug interactions, particularly in patients who are on multiple medications, as CYP27A1 plays a role in the metabolism of various substances[14](https://www.researchgate.net/publication/321399514_Drugs_and_Scaffold_that_Inhibit_Cytochrome_P450_27A1_CYP27A1_in_Vitro_and_in_Vivo)[17](https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf?with-ds=yes).
 
  **VitaminDWiki - [Genetics](/categories/genetics) chart shows the vitamin D genes** 
 

@@ -17,7 +17,7 @@ categories:
 
 This caused such an uproar that they had to deal with the problem.
 
-[Starting Dec 31, 2022 they no longer report on the vaccination status of people in the hospital.](https://phillipaltman.substack.com/p/turning-a-blind-eye%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D137786797%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+[Starting Dec 31, 2022 they no longer report on the vaccination status of people in the hospital.](https://phillipaltman.substack.com/p/turning-a-blind-eye?utm_source=post-email-title&publication_id=1301027&post_id=137786797&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&utm_medium=email)
 
 ---
 
@@ -51,7 +51,7 @@ Markdown:
 
 This caused such an uproar that they had to deal with the problem.
 
-[Starting Dec 31, 2022 they no longer report on the vaccination status of people in the hospital.](https://phillipaltman.substack.com/p/turning-a-blind-eye%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D137786797%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)
+[Starting Dec 31, 2022 they no longer report on the vaccination status of people in the hospital.](https://phillipaltman.substack.com/p/turning-a-blind-eye?utm_source=post-email-title&amp;publication_id=1301027&amp;post_id=137786797&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;utm_medium=email)
 
 ---
 

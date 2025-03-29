@@ -81,7 +81,7 @@ Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 202
 
 #### Grassrootshealth report and chart on the study March 2024
 
- **[GRH](https://www.grassrootshealth.net/blog/another-study-associates-vitamin-d-level-dementia-risk/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[GRH](https://www.grassrootshealth.net/blog/another-study-associates-vitamin-d-level-dementia-risk/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -160,7 +160,7 @@ Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 202
 
 #### Grassrootshealth report and chart on the study March 2024
 
- **[GRH](https://www.grassrootshealth.net/blog/another-study-associates-vitamin-d-level-dementia-risk/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[GRH](https://www.grassrootshealth.net/blog/another-study-associates-vitamin-d-level-dementia-risk/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 

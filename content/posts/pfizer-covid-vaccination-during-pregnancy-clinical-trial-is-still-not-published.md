@@ -33,7 +33,7 @@ Trial with **<span style="color:orange;">pregnant rats</span>:**
 
 #### 50% increase in Perinatal Moratility in Singapore in 2022
 
- **[The Naked Emperor’s Substack  Feb 25, 2023](https://nakedemperor.substack.com/p/todays-must-reads-25-february-2023%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[The Naked Emperor’s Substack  Feb 25, 2023](https://nakedemperor.substack.com/p/todays-must-reads-25-february-2023?utm_source=substack&utm_medium=email)** 
 
 "What is going on with [perinatal mortality](https://t.co/aP6rGkLCQR) in Singapore? Jikkyleaks’ chart shows a massive jump in 2022. It has also recorded its highest death rate since records began with a jump of 10.4% over the 2021 rate. 2021 also rose by 10.1% over the previous year."
 
@@ -80,7 +80,7 @@ Trial with **&lt;span style=&quot;color:orange;&quot;&gt;pregnant rats&lt;/span&
 
 #### 50% increase in Perinatal Moratility in Singapore in 2022
 
- **[The Naked Emperor’s Substack  Feb 25, 2023](https://nakedemperor.substack.com/p/todays-must-reads-25-february-2023%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[The Naked Emperor’s Substack  Feb 25, 2023](https://nakedemperor.substack.com/p/todays-must-reads-25-february-2023?utm_source=substack&amp;utm_medium=email)** 
 
 &quot;What is going on with [perinatal mortality](https://t.co/aP6rGkLCQR) in Singapore? Jikkyleaks’ chart shows a massive jump in 2022. It has also recorded its highest death rate since records began with a jump of 10.4% over the 2021 rate. 2021 also rose by 10.1% over the previous year.&quot;
 

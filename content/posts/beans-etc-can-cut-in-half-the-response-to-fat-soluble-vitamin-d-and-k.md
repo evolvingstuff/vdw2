@@ -47,7 +47,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 ##### 15 studies have cited this study as of Jan 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26cites%3D3029610504210292524%26scipsc%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=5,48&sciodt=0,48&cites=3029610504210292524&scipsc=)** 
 
 * Evaluation of vitamin D bioaccessibility and mineral solubility from test meals containing meat and/or cereals and/or pulses using in vitro digestion - June 2021 https://doi.org/10.1016/j.foodchem.2020.128621 &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
@@ -71,7 +71,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 #### Note: Response to water-soluble form of Vitamin D is not known to be reduced by pulses
 
- **[100+ companies on Amazon sell water-soluable pills, liquids. gummies. bulk, etc](https://www.amazon.com/s%3Fk%3Dvitamin%2Bd%2Bwater%2Bsoluble%26crid%3D2134S26YCC0NU%26sprefix%3Dvitamin%2BD%2Bwater%2Caps%2C190%26ref%3Dnb_sb_ss_ts-doa-p_2_15)** 
+ **[100+ companies on Amazon sell water-soluable pills, liquids. gummies. bulk, etc](https://www.amazon.com/s?k=vitamin+d+water+soluble&crid=2134S26YCC0NU&sprefix=vitamin+D+water%2Caps%2C190&ref=nb_sb_ss_ts-doa-p_2_15)** 
 
 ---
 
@@ -127,7 +127,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 ##### 15 studies have cited this study as of Jan 2024
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26cites%3D3029610504210292524%26scipsc%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=5,48&amp;sciodt=0,48&amp;cites=3029610504210292524&amp;scipsc=)** 
 
 * Evaluation of vitamin D bioaccessibility and mineral solubility from test meals containing meat and/or cereals and/or pulses using in vitro digestion - June 2021 https://doi.org/10.1016/j.foodchem.2020.128621 &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
@@ -151,7 +151,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 #### Note: Response to water-soluble form of Vitamin D is not known to be reduced by pulses
 
- **[100+ companies on Amazon sell water-soluable pills, liquids. gummies. bulk, etc](https://www.amazon.com/s%3Fk%3Dvitamin%2Bd%2Bwater%2Bsoluble%26crid%3D2134S26YCC0NU%26sprefix%3Dvitamin%2BD%2Bwater%2Caps%2C190%26ref%3Dnb_sb_ss_ts-doa-p_2_15)** 
+ **[100+ companies on Amazon sell water-soluable pills, liquids. gummies. bulk, etc](https://www.amazon.com/s?k=vitamin+d+water+soluble&amp;crid=2134S26YCC0NU&amp;sprefix=vitamin+D+water%2Caps%2C190&amp;ref=nb_sb_ss_ts-doa-p_2_15)** 
 
 ---
 

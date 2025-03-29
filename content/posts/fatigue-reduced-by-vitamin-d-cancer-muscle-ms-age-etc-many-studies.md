@@ -47,7 +47,7 @@ date: 2023-11-11
 
  **Did not even mention Vitamin D - Nov 2023** 
 
- **[How can we improve our approach to cancer-related fatigue? MD Edge](https://www.mdedge.com/hematology-oncology/article/266386/patient-survivor-care/how-can-we-improve-our-approach-cancer%3Fecd%3DWNL_EVE_231111_mdedge)** 
+ **[How can we improve our approach to cancer-related fatigue? MD Edge](https://www.mdedge.com/hematology-oncology/article/266386/patient-survivor-care/how-can-we-improve-our-approach-cancer?ecd=WNL_EVE_231111_mdedge)** 
 
 * "Cancer-related fatigue is said to affect 
 
@@ -370,7 +370,7 @@ Markdown:
 
  **Did not even mention Vitamin D - Nov 2023** 
 
- **[How can we improve our approach to cancer-related fatigue? MD Edge](https://www.mdedge.com/hematology-oncology/article/266386/patient-survivor-care/how-can-we-improve-our-approach-cancer%3Fecd%3DWNL_EVE_231111_mdedge)** 
+ **[How can we improve our approach to cancer-related fatigue? MD Edge](https://www.mdedge.com/hematology-oncology/article/266386/patient-survivor-care/how-can-we-improve-our-approach-cancer?ecd=WNL_EVE_231111_mdedge)** 
 
 * &quot;Cancer-related fatigue is said to affect 
 

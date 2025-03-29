@@ -13,7 +13,7 @@ categories:
 
 #### How Does SARS-CoV-2 and COVID-19 Vaccination Cause Hemagglutination?
 
- **[McCullough Substack](https://petermcculloughmd.substack.com/p/how-does-sars-cov-2-and-covid-19%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[McCullough Substack](https://petermcculloughmd.substack.com/p/how-does-sars-cov-2-and-covid-19?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
 
 Extensively Referenced Manuscript Explains the Major Complications of Infection Related to Mechanism of Blood Clumping
 
@@ -69,7 +69,7 @@ Markdown:
 
 #### How Does SARS-CoV-2 and COVID-19 Vaccination Cause Hemagglutination?
 
- **[McCullough Substack](https://petermcculloughmd.substack.com/p/how-does-sars-cov-2-and-covid-19%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[McCullough Substack](https://petermcculloughmd.substack.com/p/how-does-sars-cov-2-and-covid-19?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
 
 Extensively Referenced Manuscript Explains the Major Complications of Infection Related to Mechanism of Blood Clumping
 

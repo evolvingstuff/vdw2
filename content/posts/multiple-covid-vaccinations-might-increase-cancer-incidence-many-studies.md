@@ -40,7 +40,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
  **Pathophysiologic Support for the Observation of "Turbo Cancer" after Vaccination** 
 
- **[Dr. McCullough - Substack](https://petermcculloughmd.substack.com/p/multi-hit-hypothesis-for-the-oncogenic%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Dr. McCullough - Substack](https://petermcculloughmd.substack.com/p/multi-hit-hypothesis-for-the-oncogenic?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
 
 * "In 1984, Sutherland and Bailer proposed the “Multi-Hit Hypothesis of Carcinogenesis:”"
 
@@ -93,7 +93,7 @@ This list is automatically updated
 
 #### Cancer after vaccines - Dalgleish & Campbell video Oct 2023
 
- **[YouTube 76 minutes](https://www.youtube.com/watch%3Fv%3DPnJ5T1Enwq4%26t%3D1522s%26ab_channel%3DDr.JohnCampbell)** 
+ **[YouTube 76 minutes](https://www.youtube.com/watch?v=PnJ5T1Enwq4&t=1522s&ab_channel=Dr.JohnCampbell)** 
 
 ---
 
@@ -141,7 +141,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
  **Pathophysiologic Support for the Observation of &quot;Turbo Cancer&quot; after Vaccination** 
 
- **[Dr. McCullough - Substack](https://petermcculloughmd.substack.com/p/multi-hit-hypothesis-for-the-oncogenic%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Dr. McCullough - Substack](https://petermcculloughmd.substack.com/p/multi-hit-hypothesis-for-the-oncogenic?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
 
 * &quot;In 1984, Sutherland and Bailer proposed the “Multi-Hit Hypothesis of Carcinogenesis:”&quot;
 
@@ -194,7 +194,7 @@ This list is automatically updated
 
 #### Cancer after vaccines - Dalgleish &amp; Campbell video Oct 2023
 
- **[YouTube 76 minutes](https://www.youtube.com/watch%3Fv%3DPnJ5T1Enwq4%26t%3D1522s%26ab_channel%3DDr.JohnCampbell)** 
+ **[YouTube 76 minutes](https://www.youtube.com/watch?v=PnJ5T1Enwq4&amp;t=1522s&amp;ab_channel=Dr.JohnCampbell)** 
 
 ---
 

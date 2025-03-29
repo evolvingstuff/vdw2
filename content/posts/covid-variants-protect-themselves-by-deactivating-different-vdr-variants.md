@@ -46,11 +46,11 @@ Conclusion: Our findings showed that the effects of Tru9I rs757343 and FokI rs22
 
 #### Are People Getting Sick More Since the Covid Pandemic?- Bloomberg March 2024
 
- **[by Kristen Brown](https://www.bloomberg.com/news/newsletters/2024-03-03/are-people-getting-sick-more-after-the-covid-pandemic%3Fcmpid%3DBBD030324_prognosis%26utm_medium%3Demail%26utm_source%3Dnewsletter%26utm_term%3D240303%26utm_campaign%3Dprognosis)** 
+ **[by Kristen Brown](https://www.bloomberg.com/news/newsletters/2024-03-03/are-people-getting-sick-more-after-the-covid-pandemic?cmpid=BBD030324_prognosis&utm_medium=email&utm_source=newsletter&utm_term=240303&utm_campaign=prognosis)** 
 
 Sent her the following email
 
-[Many studies have found](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
+<a href="/posts/many-studies-have-found" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14371">Many studies have found</a> that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
 
 When COVID leaves the body, it fails to turn the receptor back on.
 
@@ -97,11 +97,11 @@ Conclusion: Our findings showed that the effects of Tru9I rs757343 and FokI rs22
 
 #### Are People Getting Sick More Since the Covid Pandemic?- Bloomberg March 2024
 
- **[by Kristen Brown](https://www.bloomberg.com/news/newsletters/2024-03-03/are-people-getting-sick-more-after-the-covid-pandemic%3Fcmpid%3DBBD030324_prognosis%26utm_medium%3Demail%26utm_source%3Dnewsletter%26utm_term%3D240303%26utm_campaign%3Dprognosis)** 
+ **[by Kristen Brown](https://www.bloomberg.com/news/newsletters/2024-03-03/are-people-getting-sick-more-after-the-covid-pandemic?cmpid=BBD030324_prognosis&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=240303&amp;utm_campaign=prognosis)** 
 
 Sent her the following email
 
-[Many studies have found](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
+&lt;a href=&quot;/posts/many-studies-have-found&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14371&quot;&gt;Many studies have found&lt;/a&gt; that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
 
 When COVID leaves the body, it fails to turn the receptor back on.
 

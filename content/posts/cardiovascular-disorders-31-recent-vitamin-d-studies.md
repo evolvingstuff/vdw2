@@ -57,13 +57,13 @@ has been documented in the literature. Although most studies have been reported 
 
 <a href="/posts/cardiovascular-476-divtypespanclassoverviewbigoverview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular)) (476+) {DIV(type="span",class="overviewbig")}((Overview Cardiovascular and vitamin D">Overview</a>
 
-{DIV(class="categorylink")} &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12919]</span> (20+)
+{DIV(class="categorylink")} &nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/atrial-fibrillation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12919">Atrial Fibrillation</a> (20+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=3399]</span> (42+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3399">Heart Failure</a> (42+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=5867]</span> (10+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/hrv" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5867">HRV</a> (10+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=444]</span> (80+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/statins" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Statins</a> (80+)
 
 ---
 
@@ -125,13 +125,13 @@ has been documented in the literature. Although most studies have been reported 
 
 &lt;a href=&quot;/posts/cardiovascular-476-divtypespanclassoverviewbigoverview-cardiovascular-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D&quot;&gt;Overview&lt;/a&gt;
 
-{DIV(class=&quot;categorylink&quot;)} &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12919]&lt;/span&gt; (20+)
+{DIV(class=&quot;categorylink&quot;)} &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/atrial-fibrillation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12919&quot;&gt;Atrial Fibrillation&lt;/a&gt; (20+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=3399]&lt;/span&gt; (42+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/heart-failure&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 3399&quot;&gt;Heart Failure&lt;/a&gt; (42+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=5867]&lt;/span&gt; (10+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/hrv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 5867&quot;&gt;HRV&lt;/a&gt; (10+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/statins&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 444&quot;&gt;Statins&lt;/a&gt; (80+)
 
 ---
 

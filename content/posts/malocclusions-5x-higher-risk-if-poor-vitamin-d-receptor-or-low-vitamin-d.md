@@ -76,7 +76,7 @@ This list is automatically updated
 
 #### Dr. Price found a connection between dental problems and low Vitamin D and/or vitamin K in the 1930's
 
- **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/%23gsc.tab%3D0) - Feb 2008** 
+ **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
 
 See also: <a href="/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitamin-k-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010">Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010</a>
 
@@ -154,7 +154,7 @@ This list is automatically updated
 
 #### Dr. Price found a connection between dental problems and low Vitamin D and/or vitamin K in the 1930&#39;s
 
- **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/%23gsc.tab%3D0) - Feb 2008** 
+ **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
 
 See also: &lt;a href=&quot;/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitamin-k-2010&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010&quot;&gt;Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010&lt;/a&gt;
 

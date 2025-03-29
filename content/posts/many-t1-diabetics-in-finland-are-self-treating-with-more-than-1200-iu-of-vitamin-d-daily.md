@@ -35,7 +35,7 @@ Conclusions: Supplement use was frequent in this sample of adult individuals wit
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Reported on by Grassrootshealth Feb 2024](https://www.grassrootshealth.net/blog/lower-hba1c-levels-found-among-t1d-adults-taking-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[Reported on by Grassrootshealth Feb 2024](https://www.grassrootshealth.net/blog/lower-hba1c-levels-found-among-t1d-adults-taking-vitamin-d/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
 
 ---
 
@@ -108,7 +108,7 @@ Conclusions: Supplement use was frequent in this sample of adult individuals wit
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[Reported on by Grassrootshealth Feb 2024](https://www.grassrootshealth.net/blog/lower-hba1c-levels-found-among-t1d-adults-taking-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
+ **[Reported on by Grassrootshealth Feb 2024](https://www.grassrootshealth.net/blog/lower-hba1c-levels-found-among-t1d-adults-taking-vitamin-d/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
 
 ---
 

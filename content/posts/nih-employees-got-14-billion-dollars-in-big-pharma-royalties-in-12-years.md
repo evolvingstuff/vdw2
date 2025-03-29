@@ -16,7 +16,7 @@ date: 2023-01-22
 
 #### Thanks to Pfizer Vaccine, 3rd-Party Royalties to NIH Doubled to $127 Million in 2021
 
- **[The Defender](https://childrenshealthdefense.org/defender/adam-andrzejewski-pfizer-vaccine-royalties-nih/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3Dc2384d76-1d1b-43f5-94b1-9888754ae9f6)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/adam-andrzejewski-pfizer-vaccine-royalties-nih/?utm_source=salsa&eType=EmailBlastContent&eId=c2384d76-1d1b-43f5-94b1-9888754ae9f6)** 
 
 * "Open The Books found that over the past 12 years, $1.4 billion worth of those grants  **went back to NIH leadership and 2,400 NIH scientists in secret “third-party royalties”**  — royalties paid by pharmaceutical companies back to the NIH or its scientists who are credited as co-inventors of pharmaceutical products."
 
@@ -81,7 +81,7 @@ Markdown:
 
 #### Thanks to Pfizer Vaccine, 3rd-Party Royalties to NIH Doubled to $127 Million in 2021
 
- **[The Defender](https://childrenshealthdefense.org/defender/adam-andrzejewski-pfizer-vaccine-royalties-nih/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3Dc2384d76-1d1b-43f5-94b1-9888754ae9f6)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/adam-andrzejewski-pfizer-vaccine-royalties-nih/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=c2384d76-1d1b-43f5-94b1-9888754ae9f6)** 
 
 * &quot;Open The Books found that over the past 12 years, $1.4 billion worth of those grants  **went back to NIH leadership and 2,400 NIH scientists in secret “third-party royalties”**  — royalties paid by pharmaceutical companies back to the NIH or its scientists who are credited as co-inventors of pharmaceutical products.&quot;
 

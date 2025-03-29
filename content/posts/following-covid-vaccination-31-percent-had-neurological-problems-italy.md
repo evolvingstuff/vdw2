@@ -17,7 +17,7 @@ categories:
 
 #### NEURO-COVAX: Italian Network Finds Neurological Side Effects Very Common after COVID-19 Vaccination
 
- **[McCullough substack](https://petermcculloughmd.substack.com/p/neuro-covax-italian-network-finds%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D138365443%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[McCullough substack](https://petermcculloughmd.substack.com/p/neuro-covax-italian-network-finds?utm_source=post-email-title&publication_id=1119676&post_id=138365443&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
 
  **31.2% Experienced Tremors, Insomnia, Muscle Spasms, Headaches, Paresthesias, Vertigo, and Diplopia** 
 
@@ -62,7 +62,7 @@ Markdown:
 
 #### NEURO-COVAX: Italian Network Finds Neurological Side Effects Very Common after COVID-19 Vaccination
 
- **[McCullough substack](https://petermcculloughmd.substack.com/p/neuro-covax-italian-network-finds%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D138365443%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
+ **[McCullough substack](https://petermcculloughmd.substack.com/p/neuro-covax-italian-network-finds?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=138365443&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
 
  **31.2% Experienced Tremors, Insomnia, Muscle Spasms, Headaches, Paresthesias, Vertigo, and Diplopia** 
 

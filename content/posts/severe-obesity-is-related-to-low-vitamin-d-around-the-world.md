@@ -49,7 +49,7 @@ Moreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean
 
 * magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p < 0.001), respectively. 
 
-The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p<0.001)](21.71%20ng/ml%20(19.69%2C%2023.74)%2C%20(I2%3D97.2%%2C%20p<0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93%20ng/ml%20(14.54%2C%2015.33)%2C%20(I2%3D0.0%%2C%20p%20%3D%200.778)).
+The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p<0.001)](21.71%20ng/ml%20(19.69,%2023.74),%20(I2=97.2%,%20p<0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93%20ng/ml%20(14.54,%2015.33),%20(I2=0.0%,%20p%20=%200.778)).
 
 Conclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.
 
@@ -118,7 +118,7 @@ Moreover, the mean 25(OH)D levels was 18.65 ng/ml in 96 studies. The pooled mean
 
 * magnesium: 0.91 mg/dl (0.84, 0.98, I2= 100.0%, p &lt; 0.001), respectively. 
 
-The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)](21.71%20ng/ml%20(19.69%2C%2023.74)%2C%20(I2%3D97.2%%2C%20p&lt;0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93%20ng/ml%20(14.54%2C%2015.33)%2C%20(I2%3D0.0%%2C%20p%20%3D%200.778)).
+The results of the sub-group analysis indicated that the mean estimates of 25(OH)D was highest in North America [21.71 ng/ml (19.69, 23.74), (I2=97.2%, p&lt;0.001)](21.71%20ng/ml%20(19.69,%2023.74),%20(I2=97.2%,%20p&lt;0.001)) and lowest in Southeast Asia [14.93 ng/ml (14.54, 15.33), (I2=0.0%, p = 0.778)](14.93%20ng/ml%20(14.54,%2015.33),%20(I2=0.0%,%20p%20=%200.778)).
 
 Conclusion: The results obtained showed a significant prevalence of vitamin D deficiency among severely obese individuals in various geographical regions, whereas the highest and lowest mean estimates were reported for North America and Southeast Asia, respectively.
 

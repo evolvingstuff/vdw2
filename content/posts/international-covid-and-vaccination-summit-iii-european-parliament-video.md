@@ -27,7 +27,7 @@ This was an historic event, and I am proud to have been a part of it. Most of th
 
 To go to a specific speaker in the video, look for the  **Timestamp**  in the speaker list below and scroll to that portion of the video.
 
-#### nternational Covid Summit III - [part 1 (morning session)](https://www.youtube.com/watch%3Fv%3DbFLPWWCAHfQ%26t%3D10444s%26ab_channel%3DCristianTerhes) - European Parliament, Brussels
+#### nternational Covid Summit III - [part 1 (morning session)](https://www.youtube.com/watch?v=bFLPWWCAHfQ&t=10444s&ab_channel=CristianTerhes) - European Parliament, Brussels
 
 WELCOMING REMARKS FROM MEMBERS OF THE EUROPEAN PARLIAMENT
 
@@ -65,7 +65,7 @@ DR. BYRAM BRIDLE - CANADA, the Covid-19 Vaccine Trials ( **Timestamp**  2.59.24)
 
 DR. HARVEY RISCH - USA, the efficacy of the Covid-19 vaccines ( **Timestamp**  3.17.33)
 
-### International Covid Summit III - [part 2](https://www.youtube.com/watch%3Fv%3DvJ93mW_sMPo%26ab_channel%3DCristianTerhes) - European Parliament, Brussels
+### International Covid Summit III - [part 2](https://www.youtube.com/watch?v=vJ93mW_sMPo&ab_channel=CristianTerhes) - European Parliament, Brussels
 
 DISCUSSION SESSION WITH MEMBERS OF THE EUROPEAN PARLIAMENT
 
@@ -129,7 +129,7 @@ DR. ROBERT MALONE - USA ( **Timestamp**  14.08.00)
 
 MEPs, Dr. Robert Malone & Dr. Byram Bridle - press conference after the International Covid Summit III
 
-#### Press [Conference](https://www.youtube.com/watch%3Fv%3DanJWQ5eDfio%26t%3D1165s%26ab_channel%3DCristianTerhes) After the International COVID Summit III
+#### Press [Conference](https://www.youtube.com/watch?v=anJWQ5eDfio&t=1165s&ab_channel=CristianTerhes) After the International COVID Summit III
 
 DR. ROBERT MALONE - USA
 
@@ -145,7 +145,7 @@ MR. CRISTIAN TERHES, European Conservatives and Reformists- ROMANIA
 
 ---
 
-### Dr. Campbell's 13 minute [YouTube video](https://www.youtube.com/watch%3Fv%3DTuZ7-J7d0jk%26ab_channel%3DDr.JohnCampbell) of the summit
+### Dr. Campbell's 13 minute [YouTube video](https://www.youtube.com/watch?v=TuZ7-J7d0jk&ab_channel=Dr.JohnCampbell) of the summit
 
 ---
 
@@ -179,7 +179,7 @@ This was an historic event, and I am proud to have been a part of it. Most of th
 
 To go to a specific speaker in the video, look for the  **Timestamp**  in the speaker list below and scroll to that portion of the video.
 
-#### nternational Covid Summit III - [part 1 (morning session)](https://www.youtube.com/watch%3Fv%3DbFLPWWCAHfQ%26t%3D10444s%26ab_channel%3DCristianTerhes) - European Parliament, Brussels
+#### nternational Covid Summit III - [part 1 (morning session)](https://www.youtube.com/watch?v=bFLPWWCAHfQ&amp;t=10444s&amp;ab_channel=CristianTerhes) - European Parliament, Brussels
 
 WELCOMING REMARKS FROM MEMBERS OF THE EUROPEAN PARLIAMENT
 
@@ -217,7 +217,7 @@ DR. BYRAM BRIDLE - CANADA, the Covid-19 Vaccine Trials ( **Timestamp**  2.59.24)
 
 DR. HARVEY RISCH - USA, the efficacy of the Covid-19 vaccines ( **Timestamp**  3.17.33)
 
-### International Covid Summit III - [part 2](https://www.youtube.com/watch%3Fv%3DvJ93mW_sMPo%26ab_channel%3DCristianTerhes) - European Parliament, Brussels
+### International Covid Summit III - [part 2](https://www.youtube.com/watch?v=vJ93mW_sMPo&amp;ab_channel=CristianTerhes) - European Parliament, Brussels
 
 DISCUSSION SESSION WITH MEMBERS OF THE EUROPEAN PARLIAMENT
 
@@ -281,7 +281,7 @@ DR. ROBERT MALONE - USA ( **Timestamp**  14.08.00)
 
 MEPs, Dr. Robert Malone &amp; Dr. Byram Bridle - press conference after the International Covid Summit III
 
-#### Press [Conference](https://www.youtube.com/watch%3Fv%3DanJWQ5eDfio%26t%3D1165s%26ab_channel%3DCristianTerhes) After the International COVID Summit III
+#### Press [Conference](https://www.youtube.com/watch?v=anJWQ5eDfio&amp;t=1165s&amp;ab_channel=CristianTerhes) After the International COVID Summit III
 
 DR. ROBERT MALONE - USA
 
@@ -297,7 +297,7 @@ MR. CRISTIAN TERHES, European Conservatives and Reformists- ROMANIA
 
 ---
 
-### Dr. Campbell&#39;s 13 minute [YouTube video](https://www.youtube.com/watch%3Fv%3DTuZ7-J7d0jk%26ab_channel%3DDr.JohnCampbell) of the summit
+### Dr. Campbell&#39;s 13 minute [YouTube video](https://www.youtube.com/watch?v=TuZ7-J7d0jk&amp;ab_channel=Dr.JohnCampbell) of the summit
 
 ---
 

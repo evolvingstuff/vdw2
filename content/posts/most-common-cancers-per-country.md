@@ -15,7 +15,7 @@ categories:
 
  **? incidence, prevelance, death, date ?** 
 
- **[Daily Mail](https://www.dailymail.co.uk/health/article-13197079/cancer-epidemic-young-people-america-uk-india-south-africa.html%3Futm_source%3Dsubstack%26utm_medium%3Demail) March 2024** 
+ **[Daily Mail](https://www.dailymail.co.uk/health/article-13197079/cancer-epidemic-young-people-america-uk-india-south-africa.html?utm_source=substack&utm_medium=email) March 2024** 
 
 ---
 
@@ -98,7 +98,7 @@ Markdown:
 
  **? incidence, prevelance, death, date ?** 
 
- **[Daily Mail](https://www.dailymail.co.uk/health/article-13197079/cancer-epidemic-young-people-america-uk-india-south-africa.html%3Futm_source%3Dsubstack%26utm_medium%3Demail) March 2024** 
+ **[Daily Mail](https://www.dailymail.co.uk/health/article-13197079/cancer-epidemic-young-people-america-uk-india-south-africa.html?utm_source=substack&amp;utm_medium=email) March 2024** 
 
 ---
 

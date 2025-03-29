@@ -18,29 +18,29 @@ categories:
 
 #### The ONE Supplement All Longevity Experts Are Taking and Brands!!
 
- **[YouTube 22 minutes](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26ab_channel%3DWellnessMessiahwithRimon)** 
+ **[YouTube 22 minutes](https://www.youtube.com/watch?v=ZJcRL7XAOGA&ab_channel=WellnessMessiahwithRimon)** 
 
-[https://www.science.org/doi/10.1126/s...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa3N6Z0k5ajlvbUZQTk1mUXdDZUNIU0hFVHRxUXxBQ3Jtc0tsM0RJZUc4ZUNSWnhoUy01VllQOFhSTDVZaDI0S2wybEIzb0otUVM1Nm1qcXNldnhheTZXN3NMYTBsN2Q3N0tnZjRXTkdCQTB2WlFBUjRVM3Z4NG9LLUVHYkpyZGVuTTdvOUZRR0w3akItbDdhM2pRcw%26q%3Dhttps://www.science.org/doi/10.1126/science.abn9257%26v%3DZJcRL7XAOGA)
+[https://www.science.org/doi/10.1126/s...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3N6Z0k5ajlvbUZQTk1mUXdDZUNIU0hFVHRxUXxBQ3Jtc0tsM0RJZUc4ZUNSWnhoUy01VllQOFhSTDVZaDI0S2wybEIzb0otUVM1Nm1qcXNldnhheTZXN3NMYTBsN2Q3N0tnZjRXTkdCQTB2WlFBUjRVM3Z4NG9LLUVHYkpyZGVuTTdvOUZRR0w3akItbDdhM2pRcw&q=https://www.science.org/doi/10.1126/science.abn9257&v=ZJcRL7XAOGA)
 
-[https://ieeexplore.ieee.org/document/...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbHlqX0F4aUxOazZreG1feW5KemcyY1JyYlk3d3xBQ3Jtc0ttdzkxQjlVaUlWV1UzV3pEbDI4Ymh5RFJEOC0xRFFrckdUN245OEJmUnR6YTZHSG1Yb1RRMUhESS1TMU1UT2RPV2F6NlJlX1A3WE1fenJUWjhMdUlHWjVKY3p3WjdfbEJjSzN3UXR4TTE0a0ZVOHJUdw%26q%3Dhttps://ieeexplore.ieee.org/document/6245092%26v%3DZJcRL7XAOGA)
+[https://ieeexplore.ieee.org/document/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlqX0F4aUxOazZreG1feW5KemcyY1JyYlk3d3xBQ3Jtc0ttdzkxQjlVaUlWV1UzV3pEbDI4Ymh5RFJEOC0xRFFrckdUN245OEJmUnR6YTZHSG1Yb1RRMUhESS1TMU1UT2RPV2F6NlJlX1A3WE1fenJUWjhMdUlHWjVKY3p3WjdfbEJjSzN3UXR4TTE0a0ZVOHJUdw&q=https://ieeexplore.ieee.org/document/6245092&v=ZJcRL7XAOGA)
 
-[https://link.springer.com/chapter/10....](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa2sxanFnaHV6bE9VUTNVTWlDV09oNVF1SFY0d3xBQ3Jtc0trRW1lbWNNTHowWlFHOTlUS3JLRHhXMHVQREFUbjdIMlR1dURyY2haRkhSWFlEWS1PVGg4aGdYNVZBUjNmSXk3aG9Yb08xY2UybWlEaVh6dHUwSWRDZ3lEa0o3SzQ0UUZRcXZUeDBXX0NnVWg5X01sNA%26q%3Dhttps://link.springer.com/chapter/10.1007/978-3-319-15126-7_38%26v%3DZJcRL7XAOGA) 
+[https://link.springer.com/chapter/10....](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2sxanFnaHV6bE9VUTNVTWlDV09oNVF1SFY0d3xBQ3Jtc0trRW1lbWNNTHowWlFHOTlUS3JLRHhXMHVQREFUbjdIMlR1dURyY2haRkhSWFlEWS1PVGg4aGdYNVZBUjNmSXk3aG9Yb08xY2UybWlEaVh6dHUwSWRDZ3lEa0o3SzQ0UUZRcXZUeDBXX0NnVWg5X01sNA&q=https://link.springer.com/chapter/10.1007/978-3-319-15126-7_38&v=ZJcRL7XAOGA) 
 
-[https://pubmed.ncbi.nlm.nih.gov/25229...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbnVsNGNTZjZfNThHLVlNOGlqS0R3YTBSWjVwZ3xBQ3Jtc0trOEh2RC1ITmtMTWdNRWJBTGZXWFdvYUxUcHM1X3pYc1M5QWNzUHNiMFpac2ZuQy1KTjNkdG1ialVsRmdKaTJPTkY4eEJ6ejFDYTBnY2Yxbm5BSkpIMkpSMEVZblpFZnlNX2duT1JLc0VMLWtIQWhzYw%26q%3Dhttps://pubmed.ncbi.nlm.nih.gov/25229346/%26v%3DZJcRL7XAOGA)
+[https://pubmed.ncbi.nlm.nih.gov/25229...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnVsNGNTZjZfNThHLVlNOGlqS0R3YTBSWjVwZ3xBQ3Jtc0trOEh2RC1ITmtMTWdNRWJBTGZXWFdvYUxUcHM1X3pYc1M5QWNzUHNiMFpac2ZuQy1KTjNkdG1ialVsRmdKaTJPTkY4eEJ6ejFDYTBnY2Yxbm5BSkpIMkpSMEVZblpFZnlNX2duT1JLc0VMLWtIQWhzYw&q=https://pubmed.ncbi.nlm.nih.gov/25229346/&v=ZJcRL7XAOGA)
 
 ---
 
 #### Video sections
 
-[00:00](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D0s) Introduction 
+[00:00](https://www.youtube.com/watch?v=ZJcRL7XAOGA&t=0s) Introduction 
 
-[03:48](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D228s) Magnesium Forms
+[03:48](https://www.youtube.com/watch?v=ZJcRL7XAOGA&t=228s) Magnesium Forms
 
-[11:54](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D714s) Taurine and Longevity
+[11:54](https://www.youtube.com/watch?v=ZJcRL7XAOGA&t=714s) Taurine and Longevity
 
-[15:53](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D953s) Recovering Deficiency
+[15:53](https://www.youtube.com/watch?v=ZJcRL7XAOGA&t=953s) Recovering Deficiency
 
-[17:48](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D1068s) Best Magnesium Form
+[17:48](https://www.youtube.com/watch?v=ZJcRL7XAOGA&t=1068s) Best Magnesium Form
 
 ---
 
@@ -222,29 +222,29 @@ Markdown:
 
 #### The ONE Supplement All Longevity Experts Are Taking and Brands!!
 
- **[YouTube 22 minutes](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26ab_channel%3DWellnessMessiahwithRimon)** 
+ **[YouTube 22 minutes](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;ab_channel=WellnessMessiahwithRimon)** 
 
-[https://www.science.org/doi/10.1126/s...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa3N6Z0k5ajlvbUZQTk1mUXdDZUNIU0hFVHRxUXxBQ3Jtc0tsM0RJZUc4ZUNSWnhoUy01VllQOFhSTDVZaDI0S2wybEIzb0otUVM1Nm1qcXNldnhheTZXN3NMYTBsN2Q3N0tnZjRXTkdCQTB2WlFBUjRVM3Z4NG9LLUVHYkpyZGVuTTdvOUZRR0w3akItbDdhM2pRcw%26q%3Dhttps://www.science.org/doi/10.1126/science.abn9257%26v%3DZJcRL7XAOGA)
+[https://www.science.org/doi/10.1126/s...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa3N6Z0k5ajlvbUZQTk1mUXdDZUNIU0hFVHRxUXxBQ3Jtc0tsM0RJZUc4ZUNSWnhoUy01VllQOFhSTDVZaDI0S2wybEIzb0otUVM1Nm1qcXNldnhheTZXN3NMYTBsN2Q3N0tnZjRXTkdCQTB2WlFBUjRVM3Z4NG9LLUVHYkpyZGVuTTdvOUZRR0w3akItbDdhM2pRcw&amp;q=https://www.science.org/doi/10.1126/science.abn9257&amp;v=ZJcRL7XAOGA)
 
-[https://ieeexplore.ieee.org/document/...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbHlqX0F4aUxOazZreG1feW5KemcyY1JyYlk3d3xBQ3Jtc0ttdzkxQjlVaUlWV1UzV3pEbDI4Ymh5RFJEOC0xRFFrckdUN245OEJmUnR6YTZHSG1Yb1RRMUhESS1TMU1UT2RPV2F6NlJlX1A3WE1fenJUWjhMdUlHWjVKY3p3WjdfbEJjSzN3UXR4TTE0a0ZVOHJUdw%26q%3Dhttps://ieeexplore.ieee.org/document/6245092%26v%3DZJcRL7XAOGA)
+[https://ieeexplore.ieee.org/document/...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbHlqX0F4aUxOazZreG1feW5KemcyY1JyYlk3d3xBQ3Jtc0ttdzkxQjlVaUlWV1UzV3pEbDI4Ymh5RFJEOC0xRFFrckdUN245OEJmUnR6YTZHSG1Yb1RRMUhESS1TMU1UT2RPV2F6NlJlX1A3WE1fenJUWjhMdUlHWjVKY3p3WjdfbEJjSzN3UXR4TTE0a0ZVOHJUdw&amp;q=https://ieeexplore.ieee.org/document/6245092&amp;v=ZJcRL7XAOGA)
 
-[https://link.springer.com/chapter/10....](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa2sxanFnaHV6bE9VUTNVTWlDV09oNVF1SFY0d3xBQ3Jtc0trRW1lbWNNTHowWlFHOTlUS3JLRHhXMHVQREFUbjdIMlR1dURyY2haRkhSWFlEWS1PVGg4aGdYNVZBUjNmSXk3aG9Yb08xY2UybWlEaVh6dHUwSWRDZ3lEa0o3SzQ0UUZRcXZUeDBXX0NnVWg5X01sNA%26q%3Dhttps://link.springer.com/chapter/10.1007/978-3-319-15126-7_38%26v%3DZJcRL7XAOGA) 
+[https://link.springer.com/chapter/10....](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2sxanFnaHV6bE9VUTNVTWlDV09oNVF1SFY0d3xBQ3Jtc0trRW1lbWNNTHowWlFHOTlUS3JLRHhXMHVQREFUbjdIMlR1dURyY2haRkhSWFlEWS1PVGg4aGdYNVZBUjNmSXk3aG9Yb08xY2UybWlEaVh6dHUwSWRDZ3lEa0o3SzQ0UUZRcXZUeDBXX0NnVWg5X01sNA&amp;q=https://link.springer.com/chapter/10.1007/978-3-319-15126-7_38&amp;v=ZJcRL7XAOGA) 
 
-[https://pubmed.ncbi.nlm.nih.gov/25229...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbnVsNGNTZjZfNThHLVlNOGlqS0R3YTBSWjVwZ3xBQ3Jtc0trOEh2RC1ITmtMTWdNRWJBTGZXWFdvYUxUcHM1X3pYc1M5QWNzUHNiMFpac2ZuQy1KTjNkdG1ialVsRmdKaTJPTkY4eEJ6ejFDYTBnY2Yxbm5BSkpIMkpSMEVZblpFZnlNX2duT1JLc0VMLWtIQWhzYw%26q%3Dhttps://pubmed.ncbi.nlm.nih.gov/25229346/%26v%3DZJcRL7XAOGA)
+[https://pubmed.ncbi.nlm.nih.gov/25229...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnVsNGNTZjZfNThHLVlNOGlqS0R3YTBSWjVwZ3xBQ3Jtc0trOEh2RC1ITmtMTWdNRWJBTGZXWFdvYUxUcHM1X3pYc1M5QWNzUHNiMFpac2ZuQy1KTjNkdG1ialVsRmdKaTJPTkY4eEJ6ejFDYTBnY2Yxbm5BSkpIMkpSMEVZblpFZnlNX2duT1JLc0VMLWtIQWhzYw&amp;q=https://pubmed.ncbi.nlm.nih.gov/25229346/&amp;v=ZJcRL7XAOGA)
 
 ---
 
 #### Video sections
 
-[00:00](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D0s) Introduction 
+[00:00](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;t=0s) Introduction 
 
-[03:48](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D228s) Magnesium Forms
+[03:48](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;t=228s) Magnesium Forms
 
-[11:54](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D714s) Taurine and Longevity
+[11:54](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;t=714s) Taurine and Longevity
 
-[15:53](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D953s) Recovering Deficiency
+[15:53](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;t=953s) Recovering Deficiency
 
-[17:48](https://www.youtube.com/watch%3Fv%3DZJcRL7XAOGA%26t%3D1068s) Best Magnesium Form
+[17:48](https://www.youtube.com/watch?v=ZJcRL7XAOGA&amp;t=1068s) Best Magnesium Form
 
 ---
 

@@ -24,7 +24,7 @@ categories:
 
 ---
 
-#### From [MDEdge](https://www.mdedge.com/neurology/article/264086/neurology/global-burden-brain-disorders-surpasses-cardiovascular-disease%3Fecd%3DWNL_EVE_230715_mdedge)
+#### From [MDEdge](https://www.mdedge.com/neurology/article/264086/neurology/global-burden-brain-disorders-surpasses-cardiovascular-disease?ecd=WNL_EVE_230715_mdedge)
 
 Brain disorders, including mental illness, neurologic conditions, and stroke, account for more than 15% of all health loss worldwide – more than either cardiovascular disease or cancer – at huge cost to health care systems and society, an analysis of data from the most recent Global Burden of Disease (GBD) study shows.
 
@@ -190,7 +190,7 @@ Markdown:
 
 ---
 
-#### From [MDEdge](https://www.mdedge.com/neurology/article/264086/neurology/global-burden-brain-disorders-surpasses-cardiovascular-disease%3Fecd%3DWNL_EVE_230715_mdedge)
+#### From [MDEdge](https://www.mdedge.com/neurology/article/264086/neurology/global-burden-brain-disorders-surpasses-cardiovascular-disease?ecd=WNL_EVE_230715_mdedge)
 
 Brain disorders, including mental illness, neurologic conditions, and stroke, account for more than 15% of all health loss worldwide – more than either cardiovascular disease or cancer – at huge cost to health care systems and society, an analysis of data from the most recent Global Burden of Disease (GBD) study shows.
 

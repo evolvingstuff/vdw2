@@ -19,7 +19,7 @@ categories:
 
 #### FDA Approves 2 New Diabetes Drugs for Kids — Critic Says Clinical Trial Sample Was ‘Shockingly Low’
 
- **[The Defender](https://childrenshealthdefense.org/defender/fda-new-drugs-type-2-diabetes-kids/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230623)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/fda-new-drugs-type-2-diabetes-kids/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20230623)** 
 
 * "The drugs — Jardiance (empagliflozin) and Synjardy (empagliflozin and metformin hydrochloride) — previously were approved for adults with Type 2 diabetes to improve blood sugar control."
 
@@ -60,7 +60,7 @@ Markdown:
 
 #### FDA Approves 2 New Diabetes Drugs for Kids — Critic Says Clinical Trial Sample Was ‘Shockingly Low’
 
- **[The Defender](https://childrenshealthdefense.org/defender/fda-new-drugs-type-2-diabetes-kids/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230623)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/fda-new-drugs-type-2-diabetes-kids/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20230623)** 
 
 * &quot;The drugs — Jardiance (empagliflozin) and Synjardy (empagliflozin and metformin hydrochloride) — previously were approved for adults with Type 2 diabetes to improve blood sugar control.&quot;
 

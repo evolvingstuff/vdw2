@@ -21,7 +21,7 @@ date: 2025-03-29
 
 0:13:24.6  **Holford** : We tend to get red. <span>[laughter]</span>
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
+<a href="/posts/90-health-problems-treated-by-vitamin-d-most-of-which-have-randomized-controlled-trials" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indent 3
 
@@ -58,7 +58,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/%3Fs%3Dcancer%2Bcall%2Bfor%2Baction) |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
 | www.VitaminDWiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -69,7 +69,51 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 #### HOW BORON CAN HELP
 
-Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup%3Fjournal%3DJ%20Trace%20Elem%20Exp%20Med%26title%3DEffect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet%26author%3DFH%20Nielsen%26author%3DLM%20Mullen%26author%3DSK%20Gallegher%26volume%3D3%26publication_year%3D1990%26pages%3D45-54%26). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
+Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup?journal=J%20Trace%20Elem%20Exp%20Med&title=Effect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet&author=FH%20Nielsen&author=LM%20Mullen&author=SK%20Gallegher&volume=3&publication_year=1990&pages=45-54&). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
+
+#### Virus Sections in VitaminDWiki (Sept 2023)
+
+[Virus](/categories/virus)  **(1240+)** 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/air-pollution" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Air pollution</a> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/bird-flu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13008">Bird Flu</a> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/child-years-after-vax" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13586">Child - years after VAX</a> (11+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/dengue" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14221">Dengue</a> (13+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/epstein-barr-virus" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13346">Epstein-Barr Virus</a> (20+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/excess-deaths" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13434">Excess Deaths</a> (23+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/hepatitis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7698">Hepatitis</a> (29+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/herpes-or-shingles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14086">Herpes or Shingles</a> (13+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/ivermectin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12259">Ivermectin</a> (35+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/long-covid" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13765">Long-COVID</a> (72+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14052">Magnesium</a> (60+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/mononucleosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12472">Mononucleosis</a> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/omega-3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12896">Omega-3</a> (14+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/rsv" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11825">RSV</a> (12+) 
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/ultraviolet-light" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14292">Ultraviolet light</a> (16+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vaccination" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13851">Vaccination</a> (198+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13335">Vitamin D</a> (650+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Vitamin D Receptor](/categories/vitamin-d-receptor) (31+)
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vitamin-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Vitamin K</a> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Zinc](/categories/zinc) (32+)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -88,7 +132,7 @@ Markdown:
 
 0:13:24.6  **Holford** : We tend to get red. &lt;span&gt;[laughter]&lt;/span&gt;
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
+&lt;a href=&quot;/posts/90-health-problems-treated-by-vitamin-d-most-of-which-have-randomized-controlled-trials&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1336&quot;&gt;90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials&lt;/a&gt;
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indent 3
 
@@ -125,7 +169,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/%3Fs%3Dcancer%2Bcall%2Bfor%2Baction) |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
 | www.VitaminDWiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter &amp; search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -136,7 +180,51 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 #### HOW BORON CAN HELP
 
-Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup%3Fjournal%3DJ%20Trace%20Elem%20Exp%20Med%26title%3DEffect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet%26author%3DFH%20Nielsen%26author%3DLM%20Mullen%26author%3DSK%20Gallegher%26volume%3D3%26publication_year%3D1990%26pages%3D45-54%26). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
+Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup?journal=J%20Trace%20Elem%20Exp%20Med&amp;title=Effect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet&amp;author=FH%20Nielsen&amp;author=LM%20Mullen&amp;author=SK%20Gallegher&amp;volume=3&amp;publication_year=1990&amp;pages=45-54&amp;). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
+
+#### Virus Sections in VitaminDWiki (Sept 2023)
+
+[Virus](/categories/virus)  **(1240+)** 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/air-pollution&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Air pollution&lt;/a&gt; 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/bird-flu&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13008&quot;&gt;Bird Flu&lt;/a&gt; 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/child-years-after-vax&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13586&quot;&gt;Child - years after VAX&lt;/a&gt; (11+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/dengue&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14221&quot;&gt;Dengue&lt;/a&gt; (13+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/epstein-barr-virus&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13346&quot;&gt;Epstein-Barr Virus&lt;/a&gt; (20+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/excess-deaths&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13434&quot;&gt;Excess Deaths&lt;/a&gt; (23+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/hepatitis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 7698&quot;&gt;Hepatitis&lt;/a&gt; (29+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/herpes-or-shingles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14086&quot;&gt;Herpes or Shingles&lt;/a&gt; (13+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/ivermectin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12259&quot;&gt;Ivermectin&lt;/a&gt; (35+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/long-covid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13765&quot;&gt;Long-COVID&lt;/a&gt; (72+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/magnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14052&quot;&gt;Magnesium&lt;/a&gt; (60+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/mononucleosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12472&quot;&gt;Mononucleosis&lt;/a&gt; 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/omega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12896&quot;&gt;Omega-3&lt;/a&gt; (14+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/rsv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11825&quot;&gt;RSV&lt;/a&gt; (12+) 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/ultraviolet-light&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14292&quot;&gt;Ultraviolet light&lt;/a&gt; (16+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vaccination&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13851&quot;&gt;Vaccination&lt;/a&gt; (198+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13335&quot;&gt;Vitamin D&lt;/a&gt; (650+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Vitamin D Receptor](/categories/vitamin-d-receptor) (31+)
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Vitamin K&lt;/a&gt; 
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Zinc](/categories/zinc) (32+)
 
 AST Structure:
 -------------
@@ -500,8 +588,561 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `beneficial role of boron in increasing the serum levels of Vitamin D`
 │   │   inner_content: `beneficial role of boron in increasing the serum levels of Vitamin D`├── TextNode
-│   full_match: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.`
-│   inner_content: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.`
+│   full_match: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.\n`
+│   inner_content: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.\n`├── HeadingNode
+│   full_match: `\n!!!!Virus Sections in VitaminDWiki (Sept 2023)`
+│   inner_content: `Virus Sections in VitaminDWiki (Sept 2023)`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Virus Sections in VitaminDWiki (Sept 2023)`
+│   │   inner_content: `Virus Sections in VitaminDWiki (Sept 2023)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)}((Virus)) __(1240+)__{DIV}`
+│   inner_content: `((Virus)) __(1240+)__`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Virus))`
+│   │   inner_content: `Virus`
+│   │   page: `Virus`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Virus`
+│   │   │   inner_content: `Virus`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__(1240+)__`
+│   │   inner_content: `(1240+)`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `(1240+)`
+│   │   │   inner_content: `(1240+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Air pollution] {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Air pollution] `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=11703|Air pollution]`
+│   │   inner_content: `Air pollution`
+│   │   url: `tiki-index.php?page_id=11703`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Air pollution`
+│   │   │   inner_content: `Air pollution`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13008|Bird Flu] {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13008|Bird Flu] `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13008|Bird Flu]`
+│   │   inner_content: `Bird Flu`
+│   │   url: `tiki-index.php?page_id=13008`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Bird Flu`
+│   │   │   inner_content: `Bird Flu`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13586|Child - years after VAX] (11+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13586|Child - years after VAX] (11+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13586|Child - years after VAX]`
+│   │   inner_content: `Child - years after VAX`
+│   │   url: `tiki-index.php?page_id=13586`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Child - years after VAX`
+│   │   │   inner_content: `Child - years after VAX`
+│   ├── TextNode
+│   │   full_match: ` (11+) `
+│   │   inner_content: ` (11+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14221|Dengue] (13+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14221|Dengue] (13+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14221|Dengue]`
+│   │   inner_content: `Dengue`
+│   │   url: `tiki-index.php?page_id=14221`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Dengue`
+│   │   │   inner_content: `Dengue`
+│   ├── TextNode
+│   │   full_match: ` (13+) `
+│   │   inner_content: ` (13+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13346|Epstein-Barr Virus] (20+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13346|Epstein-Barr Virus] (20+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13346|Epstein-Barr Virus]`
+│   │   inner_content: `Epstein-Barr Virus`
+│   │   url: `tiki-index.php?page_id=13346`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Epstein-Barr Virus`
+│   │   │   inner_content: `Epstein-Barr Virus`
+│   ├── TextNode
+│   │   full_match: ` (20+)`
+│   │   inner_content: ` (20+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13434|Excess Deaths] (23+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13434|Excess Deaths] (23+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13434|Excess Deaths]`
+│   │   inner_content: `Excess Deaths`
+│   │   url: `tiki-index.php?page_id=13434`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Excess Deaths`
+│   │   │   inner_content: `Excess Deaths`
+│   ├── TextNode
+│   │   full_match: ` (23+) `
+│   │   inner_content: ` (23+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=7698|Hepatitis] (29+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=7698|Hepatitis] (29+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=7698|Hepatitis]`
+│   │   inner_content: `Hepatitis`
+│   │   url: `tiki-index.php?page_id=7698`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Hepatitis`
+│   │   │   inner_content: `Hepatitis`
+│   ├── TextNode
+│   │   full_match: ` (29+) `
+│   │   inner_content: ` (29+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14086|Herpes or Shingles] (13+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14086|Herpes or Shingles] (13+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14086|Herpes or Shingles]`
+│   │   inner_content: `Herpes or Shingles`
+│   │   url: `tiki-index.php?page_id=14086`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Herpes or Shingles`
+│   │   │   inner_content: `Herpes or Shingles`
+│   ├── TextNode
+│   │   full_match: ` (13+) `
+│   │   inner_content: ` (13+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12259|Ivermectin] (35+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12259|Ivermectin] (35+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=12259|Ivermectin]`
+│   │   inner_content: `Ivermectin`
+│   │   url: `tiki-index.php?page_id=12259`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Ivermectin`
+│   │   │   inner_content: `Ivermectin`
+│   ├── TextNode
+│   │   full_match: ` (35+) `
+│   │   inner_content: ` (35+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13765|Long-COVID] (72+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13765|Long-COVID] (72+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13765|Long-COVID]`
+│   │   inner_content: `Long-COVID`
+│   │   url: `tiki-index.php?page_id=13765`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Long-COVID`
+│   │   │   inner_content: `Long-COVID`
+│   ├── TextNode
+│   │   full_match: ` (72+)`
+│   │   inner_content: ` (72+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14052|Magnesium] (60+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14052|Magnesium] (60+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14052|Magnesium]`
+│   │   inner_content: `Magnesium`
+│   │   url: `tiki-index.php?page_id=14052`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Magnesium`
+│   │   │   inner_content: `Magnesium`
+│   ├── TextNode
+│   │   full_match: ` (60+)`
+│   │   inner_content: ` (60+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12472|Mononucleosis] {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12472|Mononucleosis] `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=12472|Mononucleosis]`
+│   │   inner_content: `Mononucleosis`
+│   │   url: `tiki-index.php?page_id=12472`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Mononucleosis`
+│   │   │   inner_content: `Mononucleosis`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12896|Omega-3] (14+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12896|Omega-3] (14+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=12896|Omega-3]`
+│   │   inner_content: `Omega-3`
+│   │   url: `tiki-index.php?page_id=12896`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Omega-3`
+│   │   │   inner_content: `Omega-3`
+│   ├── TextNode
+│   │   full_match: ` (14+) `
+│   │   inner_content: ` (14+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11825|RSV] (12+) {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11825|RSV] (12+) `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=11825|RSV]`
+│   │   inner_content: `RSV`
+│   │   url: `tiki-index.php?page_id=11825`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `RSV`
+│   │   │   inner_content: `RSV`
+│   ├── TextNode
+│   │   full_match: ` (12+) `
+│   │   inner_content: ` (12+) `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14292|Ultraviolet light] (16+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14292|Ultraviolet light] (16+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14292|Ultraviolet light]`
+│   │   inner_content: `Ultraviolet light`
+│   │   url: `tiki-index.php?page_id=14292`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Ultraviolet light`
+│   │   │   inner_content: `Ultraviolet light`
+│   ├── TextNode
+│   │   full_match: ` (16+)`
+│   │   inner_content: ` (16+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13851|Vaccination] (198+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13851|Vaccination] (198+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13851|Vaccination]`
+│   │   inner_content: `Vaccination`
+│   │   url: `tiki-index.php?page_id=13851`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vaccination`
+│   │   │   inner_content: `Vaccination`
+│   ├── TextNode
+│   │   full_match: ` (198+)`
+│   │   inner_content: ` (198+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13335|Vitamin D] (650+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13335|Vitamin D] (650+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=13335|Vitamin D]`
+│   │   inner_content: `Vitamin D`
+│   │   url: `tiki-index.php?page_id=13335`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D`
+│   │   │   inner_content: `Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` (650+)`
+│   │   inner_content: ` (650+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14371|Vitamin D Receptor]`
+│   │   inner_content: `Vitamin D Receptor`
+│   │   url: `tiki-index.php?page_id=14371`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor`
+│   ├── TextNode
+│   │   full_match: ` (31+)`
+│   │   inner_content: ` (31+)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] `
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=11703|Vitamin K]`
+│   │   inner_content: `Vitamin K`
+│   │   url: `tiki-index.php?page_id=11703`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin K`
+│   │   │   inner_content: `Vitamin K`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── DivNode
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+){DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+)`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;categorylink&quot;)
+│   │   class: categorylink
+│   children:
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── LinkNode
+│   │   full_match: `[tiki-index.php?page_id=14074|Zinc]`
+│   │   inner_content: `Zinc`
+│   │   url: `tiki-index.php?page_id=14074`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Zinc`
+│   │   │   inner_content: `Zinc`
+│   ├── TextNode
+│   │   full_match: ` (32+)`
+│   │   inner_content: ` (32+)`
 
 Original Tiki:
 -------------
@@ -555,5 +1196,28 @@ https://yestolife.org.uk/     |Start with:  I’m New Here||
 
 !!!!HOW BORON CAN HELP
 Research, consisting of both animal and human studies, has revealed the [https://scholar.google.com/scholar_lookup?journal=J Trace Elem Exp Med&amp;title=Effect of boron depletion and repletion on blood indicators of calcium status in humans fed a magnesium-low diet&amp;author=FH Nielsen&amp;author=LM Mullen&amp;author=SK Gallegher&amp;volume=3&amp;publication_year=1990&amp;pages=45-54&amp;|beneficial role of boron in increasing the serum levels of Vitamin D]. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
+
+!!!!Virus Sections in VitaminDWiki (Sept 2023)
+{DIV(class=&quot;categorylink&quot;)}((Virus)) __(1240+)__{DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Air pollution] {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13008|Bird Flu] {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13586|Child - years after VAX] (11+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14221|Dengue] (13+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13346|Epstein-Barr Virus] (20+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13434|Excess Deaths] (23+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=7698|Hepatitis] (29+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14086|Herpes or Shingles] (13+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12259|Ivermectin] (35+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13765|Long-COVID] (72+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14052|Magnesium] (60+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12472|Mononucleosis] {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12896|Omega-3] (14+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11825|RSV] (12+) {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14292|Ultraviolet light] (16+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13851|Vaccination] (198+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13335|Vitamin D] (650+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+){DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+){DIV}
 </code>
 </pre>

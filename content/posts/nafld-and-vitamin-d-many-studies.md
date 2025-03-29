@@ -32,7 +32,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **[1 hour YouTube video](https://www.youtube.com/watch%3Fv%3DvLzPDfT2RIQ%26t%3D3s%26ab_channel%3DJayFeldmanWellness)** 
+ **[1 hour YouTube video](https://www.youtube.com/watch?v=vLzPDfT2RIQ&t=3s&ab_channel=JayFeldmanWellness)** 
 
 * NAFLD also affects up to 9.6% of American children aged 2 to 19, making it as common as asthma. In 15- to 19-year-olds, prevalence is as high as 17.3%. Prevalence among children 0 to 17 has risen 168.3% since 2017, with a particularly precipitous rise starting in 2020"
 
@@ -205,7 +205,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **[1 hour YouTube video](https://www.youtube.com/watch%3Fv%3DvLzPDfT2RIQ%26t%3D3s%26ab_channel%3DJayFeldmanWellness)** 
+ **[1 hour YouTube video](https://www.youtube.com/watch?v=vLzPDfT2RIQ&amp;t=3s&amp;ab_channel=JayFeldmanWellness)** 
 
 * NAFLD also affects up to 9.6% of American children aged 2 to 19, making it as common as asthma. In 15- to 19-year-olds, prevalence is as high as 17.3%. Prevalence among children 0 to 17 has risen 168.3% since 2017, with a particularly precipitous rise starting in 2020&quot;
 

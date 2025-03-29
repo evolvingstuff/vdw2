@@ -122,7 +122,7 @@ This list is automatically updated
 
 ---
 
-#### 40,500 hits for (morphine OR opioids OR opiates OR addiction) "vitamin D" in [Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(morphine%2BOR%2Bopioids%2BOR%2Bopiates%2BOR%2Baddiction)%2B%22%2Bvitamin%2BD%22) Dec 2023
+#### 40,500 hits for (morphine OR opioids OR opiates OR addiction) "vitamin D" in [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=(morphine+OR+opioids+OR+opiates+OR+addiction)+%22+vitamin+D%22) Dec 2023
 
 * The effect of vitamin D on morphine preference in rats: Possible biochemical and DRD2–GDNF signaling - Jan 2023 https://doi.org/10.1002/brb3.2877 FREE PDF
 
@@ -260,7 +260,7 @@ This list is automatically updated
 
 ---
 
-#### 40,500 hits for (morphine OR opioids OR opiates OR addiction) &quot;vitamin D&quot; in [Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(morphine%2BOR%2Bopioids%2BOR%2Bopiates%2BOR%2Baddiction)%2B%22%2Bvitamin%2BD%22) Dec 2023
+#### 40,500 hits for (morphine OR opioids OR opiates OR addiction) &quot;vitamin D&quot; in [Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=(morphine+OR+opioids+OR+opiates+OR+addiction)+%22+vitamin+D%22) Dec 2023
 
 * The effect of vitamin D on morphine preference in rats: Possible biochemical and DRD2–GDNF signaling - Jan 2023 https://doi.org/10.1002/brb3.2877 FREE PDF
 

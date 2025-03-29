@@ -25,7 +25,7 @@ This is a really low cost way to see if your Alzheimer's can be stopped, or reve
 
 ### Updates on the Prevention and Treatment of Alzheimer’s Disease - June 2023
 
- **[A Special Interview With Dr. Dale Bredesen By Dr. Joseph Mercola](https://articles.mercola.com/sites/articles/archive/2023/07/02/dale-bredesen-alzheimers.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20230702%26mid%3DDM1426385%26rid%3D1844353268)** 
+ **[A Special Interview With Dr. Dale Bredesen By Dr. Joseph Mercola](https://articles.mercola.com/sites/articles/archive/2023/07/02/dale-bredesen-alzheimers.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1HL&cid=20230702&mid=DM1426385&rid=1844353268)** 
 
 Dr. Joseph Mercola:  Welcome, everyone. Dr. Mercola helping you take control of your health and today we are joined by someone we haven't spoken with for a while, but he's clearly top in his field with respect to him being a neurologist who has put his focus and concentration on helping people with Alzheimer's disease, not only helping them but helping prevent it, which is, in my book and I think in most of our books is really the key because it's so much easier to prevent something than it is to treat it.
 
@@ -571,25 +571,25 @@ Dr. Joseph Mercola:  All right, you too.
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen - video Sept 2023
 
-[0:00](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D0s) Making Alzheimer's Optional: New Avenues in Prevention and Treatment
+[0:00](https://www.youtube.com/watch?v=lh0eyYZCECc&t=0s) Making Alzheimer's Optional: New Avenues in Prevention and Treatment
 
-[13:32](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D812s) Dale Bredesen, M.D. on Alzheimer's Disease: Beyond Amyloid and Insights into Effective Treatments
+[13:32](https://www.youtube.com/watch?v=lh0eyYZCECc&t=812s) Dale Bredesen, M.D. on Alzheimer's Disease: Beyond Amyloid and Insights into Effective Treatments
 
-[20:50](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D1250s) Understanding Alzheimer's: Beyond Amyloid and One-Size-Fits-All Treatments
+[20:50](https://www.youtube.com/watch?v=lh0eyYZCECc&t=1250s) Understanding Alzheimer's: Beyond Amyloid and One-Size-Fits-All Treatments
 
-[30:09](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D1809s) Dale Bredesen, M.D. on Healing Alzheimer's through Reducing Inflammation and Increasing Energetic Support
+[30:09](https://www.youtube.com/watch?v=lh0eyYZCECc&t=1809s) Dale Bredesen, M.D. on Healing Alzheimer's through Reducing Inflammation and Increasing Energetic Support
 
-[42:16](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D2536s) Revolutionizing Alzheimer's Treatment: Addressing Root Causes
+[42:16](https://www.youtube.com/watch?v=lh0eyYZCECc&t=2536s) Revolutionizing Alzheimer's Treatment: Addressing Root Causes
 
-[53:37](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D3217s) Early Intervention and Prevention: The Key to Combating Alzheimer's
+[53:37](https://www.youtube.com/watch?v=lh0eyYZCECc&t=3217s) Early Intervention and Prevention: The Key to Combating Alzheimer's
 
-[1:07:17](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D4037s) Making Neurodegenerative Diseases a Thing of the Past: New Findings and Hopes
+[1:07:17](https://www.youtube.com/watch?v=lh0eyYZCECc&t=4037s) Making Neurodegenerative Diseases a Thing of the Past: New Findings and Hopes
 
-[1:19:39](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D4779s) Metabolic Flexibility and Preventive Measures in Alzheimer's Disease by Dale Bredesen, M.D.
+[1:19:39](https://www.youtube.com/watch?v=lh0eyYZCECc&t=4779s) Metabolic Flexibility and Preventive Measures in Alzheimer's Disease by Dale Bredesen, M.D.
 
-[1:28:17](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D5297s) Alzheimer's Disease: Preventable Early, Like Diabetes
+[1:28:17](https://www.youtube.com/watch?v=lh0eyYZCECc&t=5297s) Alzheimer's Disease: Preventable Early, Like Diabetes
 
-[1:42:05](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D6125s) Curcumin, Prevention, and the Roadmap to Cognitive Wellness
+[1:42:05](https://www.youtube.com/watch?v=lh0eyYZCECc&t=6125s) Curcumin, Prevention, and the Roadmap to Cognitive Wellness
 
 ---
 
@@ -709,19 +709,19 @@ Supplement information = XLS spreadsheet at the bottom of this page ID = 19728
 
 #### The End of Alzheimer's Program: The First Protocol to Enhance Cognition and Reverse Decline at Any Age - Aug 2020 $10
 
- **[Amazon Kindle](https://www.amazon.com/End-Alzheimers-Program-Protocol-Cognition/dp/0525538496%3FredirectFromSmile%3D1)** 
+ **[Amazon Kindle](https://www.amazon.com/End-Alzheimers-Program-Protocol-Cognition/dp/0525538496?redirectFromSmile=1)** 
 
 ---
 
 #### THE END OF ALZHEIMER'S: A Comprehensive Guide To Effective Prevention Strategies. FREE
 
- **[Kindle Unlimited FREE TO READ, 35 pages March 2023](https://www.amazon.com/END-ALZHEIMERS-Comprehensive-Prevention-Strategies-ebook/dp/B0BYP261FP/ref%3Dsr_1_7%3Fcrid%3D3UFSSLDP0Y76T%26keywords%3D"end%20of%20alzheimer's%26qid%3D1700149840%26sprefix%3Dend%20of%20alzheimer's%2Caps%2C159%26sr%3D8-7)** 
+ **[Kindle Unlimited FREE TO READ, 35 pages March 2023](https://www.amazon.com/END-ALZHEIMERS-Comprehensive-Prevention-Strategies-ebook/dp/B0BYP261FP/ref=sr_1_7?crid=3UFSSLDP0Y76T&keywords="end%20of%20alzheimer's&qid=1700149840&sprefix=end%20of%20alzheimer's,aps,159&sr=8-7)** 
 
 ---
 
 #### Workbook For The End Of Alzheimer's Program By Dale Bredesen - Sept 2023, $13
 
- **[Kindle $13](https://www.amazon.com/Workbook-Alzheimers-Program-Dale-Bredesen/dp/B0CH2GWX6G/ref%3Dsr_1_18%3Fcrid%3D3UFSSLDP0Y76T%26keywords%3D"end%20of%20alzheimer's%26qid%3D1700149840%26sprefix%3Dend%20of%20alzheimer's%2Caps%2C159%26sr%3D8-18)** 
+ **[Kindle $13](https://www.amazon.com/Workbook-Alzheimers-Program-Dale-Bredesen/dp/B0CH2GWX6G/ref=sr_1_18?crid=3UFSSLDP0Y76T&keywords="end%20of%20alzheimer's&qid=1700149840&sprefix=end%20of%20alzheimer's,aps,159&sr=8-18)** 
 
 ---
 
@@ -757,7 +757,7 @@ This is a really low cost way to see if your Alzheimer&#39;s can be stopped, or 
 
 ### Updates on the Prevention and Treatment of Alzheimer’s Disease - June 2023
 
- **[A Special Interview With Dr. Dale Bredesen By Dr. Joseph Mercola](https://articles.mercola.com/sites/articles/archive/2023/07/02/dale-bredesen-alzheimers.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20230702%26mid%3DDM1426385%26rid%3D1844353268)** 
+ **[A Special Interview With Dr. Dale Bredesen By Dr. Joseph Mercola](https://articles.mercola.com/sites/articles/archive/2023/07/02/dale-bredesen-alzheimers.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1HL&amp;cid=20230702&amp;mid=DM1426385&amp;rid=1844353268)** 
 
 Dr. Joseph Mercola:  Welcome, everyone. Dr. Mercola helping you take control of your health and today we are joined by someone we haven&#39;t spoken with for a while, but he&#39;s clearly top in his field with respect to him being a neurologist who has put his focus and concentration on helping people with Alzheimer&#39;s disease, not only helping them but helping prevent it, which is, in my book and I think in most of our books is really the key because it&#39;s so much easier to prevent something than it is to treat it.
 
@@ -1303,25 +1303,25 @@ Dr. Joseph Mercola:  All right, you too.
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen - video Sept 2023
 
-[0:00](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D0s) Making Alzheimer&#39;s Optional: New Avenues in Prevention and Treatment
+[0:00](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=0s) Making Alzheimer&#39;s Optional: New Avenues in Prevention and Treatment
 
-[13:32](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D812s) Dale Bredesen, M.D. on Alzheimer&#39;s Disease: Beyond Amyloid and Insights into Effective Treatments
+[13:32](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=812s) Dale Bredesen, M.D. on Alzheimer&#39;s Disease: Beyond Amyloid and Insights into Effective Treatments
 
-[20:50](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D1250s) Understanding Alzheimer&#39;s: Beyond Amyloid and One-Size-Fits-All Treatments
+[20:50](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=1250s) Understanding Alzheimer&#39;s: Beyond Amyloid and One-Size-Fits-All Treatments
 
-[30:09](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D1809s) Dale Bredesen, M.D. on Healing Alzheimer&#39;s through Reducing Inflammation and Increasing Energetic Support
+[30:09](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=1809s) Dale Bredesen, M.D. on Healing Alzheimer&#39;s through Reducing Inflammation and Increasing Energetic Support
 
-[42:16](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D2536s) Revolutionizing Alzheimer&#39;s Treatment: Addressing Root Causes
+[42:16](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=2536s) Revolutionizing Alzheimer&#39;s Treatment: Addressing Root Causes
 
-[53:37](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D3217s) Early Intervention and Prevention: The Key to Combating Alzheimer&#39;s
+[53:37](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=3217s) Early Intervention and Prevention: The Key to Combating Alzheimer&#39;s
 
-[1:07:17](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D4037s) Making Neurodegenerative Diseases a Thing of the Past: New Findings and Hopes
+[1:07:17](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=4037s) Making Neurodegenerative Diseases a Thing of the Past: New Findings and Hopes
 
-[1:19:39](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D4779s) Metabolic Flexibility and Preventive Measures in Alzheimer&#39;s Disease by Dale Bredesen, M.D.
+[1:19:39](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=4779s) Metabolic Flexibility and Preventive Measures in Alzheimer&#39;s Disease by Dale Bredesen, M.D.
 
-[1:28:17](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D5297s) Alzheimer&#39;s Disease: Preventable Early, Like Diabetes
+[1:28:17](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=5297s) Alzheimer&#39;s Disease: Preventable Early, Like Diabetes
 
-[1:42:05](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D6125s) Curcumin, Prevention, and the Roadmap to Cognitive Wellness
+[1:42:05](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=6125s) Curcumin, Prevention, and the Roadmap to Cognitive Wellness
 
 ---
 
@@ -1441,19 +1441,19 @@ Supplement information = XLS spreadsheet at the bottom of this page ID = 19728
 
 #### The End of Alzheimer&#39;s Program: The First Protocol to Enhance Cognition and Reverse Decline at Any Age - Aug 2020 $10
 
- **[Amazon Kindle](https://www.amazon.com/End-Alzheimers-Program-Protocol-Cognition/dp/0525538496%3FredirectFromSmile%3D1)** 
+ **[Amazon Kindle](https://www.amazon.com/End-Alzheimers-Program-Protocol-Cognition/dp/0525538496?redirectFromSmile=1)** 
 
 ---
 
 #### THE END OF ALZHEIMER&#39;S: A Comprehensive Guide To Effective Prevention Strategies. FREE
 
- **[Kindle Unlimited FREE TO READ, 35 pages March 2023](https://www.amazon.com/END-ALZHEIMERS-Comprehensive-Prevention-Strategies-ebook/dp/B0BYP261FP/ref%3Dsr_1_7%3Fcrid%3D3UFSSLDP0Y76T%26keywords%3D&quot;end%20of%20alzheimer&#39;s%26qid%3D1700149840%26sprefix%3Dend%20of%20alzheimer&#39;s%2Caps%2C159%26sr%3D8-7)** 
+ **[Kindle Unlimited FREE TO READ, 35 pages March 2023](https://www.amazon.com/END-ALZHEIMERS-Comprehensive-Prevention-Strategies-ebook/dp/B0BYP261FP/ref=sr_1_7?crid=3UFSSLDP0Y76T&amp;keywords=&quot;end%20of%20alzheimer&#39;s&amp;qid=1700149840&amp;sprefix=end%20of%20alzheimer&#39;s,aps,159&amp;sr=8-7)** 
 
 ---
 
 #### Workbook For The End Of Alzheimer&#39;s Program By Dale Bredesen - Sept 2023, $13
 
- **[Kindle $13](https://www.amazon.com/Workbook-Alzheimers-Program-Dale-Bredesen/dp/B0CH2GWX6G/ref%3Dsr_1_18%3Fcrid%3D3UFSSLDP0Y76T%26keywords%3D&quot;end%20of%20alzheimer&#39;s%26qid%3D1700149840%26sprefix%3Dend%20of%20alzheimer&#39;s%2Caps%2C159%26sr%3D8-18)** 
+ **[Kindle $13](https://www.amazon.com/Workbook-Alzheimers-Program-Dale-Bredesen/dp/B0CH2GWX6G/ref=sr_1_18?crid=3UFSSLDP0Y76T&amp;keywords=&quot;end%20of%20alzheimer&#39;s&amp;qid=1700149840&amp;sprefix=end%20of%20alzheimer&#39;s,aps,159&amp;sr=8-18)** 
 
 ---
 

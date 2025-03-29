@@ -19,7 +19,7 @@ categories:
 
 #### Top 3 Supplements All Longevity Experts Are Taking Every Day
 
- **[YouTube Dr. Ronda Patrick](https://www.youtube.com/watch%3Fv%3DXz9yJq5SPvA%26t%3D695s%26ab_channel%3DWellnessMessiahwithRimon)** 
+ **[YouTube Dr. Ronda Patrick](https://www.youtube.com/watch?v=Xz9yJq5SPvA&t=695s&ab_channel=WellnessMessiahwithRimon)** 
 
 ---
 
@@ -123,7 +123,7 @@ Markdown:
 
 #### Top 3 Supplements All Longevity Experts Are Taking Every Day
 
- **[YouTube Dr. Ronda Patrick](https://www.youtube.com/watch%3Fv%3DXz9yJq5SPvA%26t%3D695s%26ab_channel%3DWellnessMessiahwithRimon)** 
+ **[YouTube Dr. Ronda Patrick](https://www.youtube.com/watch?v=Xz9yJq5SPvA&amp;t=695s&amp;ab_channel=WellnessMessiahwithRimon)** 
 
 ---
 

@@ -44,7 +44,7 @@ This list is automatically updated
 
 #### Trying to block the SARS-CoV-2 virus with a mask is like trying to keep mosquitos out of your yard with a chain-link fence.
 
- **[Brownstone Sept 2023](https://brownstone.org/articles/the-dirty-secret-about-how-masks-really-work/%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Brownstone Sept 2023](https://brownstone.org/articles/the-dirty-secret-about-how-masks-really-work/?utm_source=substack&utm_medium=email)** 
 
  **[Has a link to 180 Mask studies](https://brownstone.org/articles/studies-and-articles-on-mask-ineffectiveness-and-harms/)**  appears to be the same list as in GreenMedInfo, above
 
@@ -97,7 +97,7 @@ This list is automatically updated
 
 #### Trying to block the SARS-CoV-2 virus with a mask is like trying to keep mosquitos out of your yard with a chain-link fence.
 
- **[Brownstone Sept 2023](https://brownstone.org/articles/the-dirty-secret-about-how-masks-really-work/%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Brownstone Sept 2023](https://brownstone.org/articles/the-dirty-secret-about-how-masks-really-work/?utm_source=substack&amp;utm_medium=email)** 
 
  **[Has a link to 180 Mask studies](https://brownstone.org/articles/studies-and-articles-on-mask-ineffectiveness-and-harms/)**  appears to be the same list as in GreenMedInfo, above
 

@@ -36,7 +36,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[Nov 2023 - 73 minute](https://www.youtube.com/watch%3Fv%3DrLl-SilwQ4g%26ab_channel%3DDr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&ab_channel=Dr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 
@@ -118,45 +118,45 @@ The Kindle address of your device is under the settings
 
 [Virus](/categories/virus)  **(1240+)** 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/air-pollution" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Air pollution</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13008]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/bird-flu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13008">Bird Flu</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13586]</span> (11+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/child-years-after-vax" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13586">Child - years after VAX</a> (11+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14221]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/dengue" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14221">Dengue</a> (13+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13346]</span> (20+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/epstein-barr-virus" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13346">Epstein-Barr Virus</a> (20+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13434]</span> (23+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/excess-deaths" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13434">Excess Deaths</a> (23+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=7698]</span> (29+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/hepatitis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7698">Hepatitis</a> (29+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14086]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/herpes-or-shingles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14086">Herpes or Shingles</a> (13+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12259]</span> (35+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/ivermectin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12259">Ivermectin</a> (35+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13765]</span> (72+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/long-covid" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13765">Long-COVID</a> (72+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14052]</span> (60+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/magnesium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14052">Magnesium</a> (60+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12472]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/mononucleosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12472">Mononucleosis</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12896]</span> (14+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/omega-3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12896">Omega-3</a> (14+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11825]</span> (12+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/rsv" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11825">RSV</a> (12+) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14292]</span> (16+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/ultraviolet-light" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14292">Ultraviolet light</a> (16+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13851]</span> (198+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vaccination" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13851">Vaccination</a> (198+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13335]</span> (650+)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13335">Vitamin D</a> (650+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14371]</span> (31+)
+&nbsp;&nbsp;&nbsp;&nbsp; [Vitamin D Receptor](/categories/vitamin-d-receptor) (31+)
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id==11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vitamin-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Vitamin K</a> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14074]</span> (32+)
+&nbsp;&nbsp;&nbsp;&nbsp; [Zinc](/categories/zinc) (32+)
 
 ---
 
@@ -216,7 +216,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[Nov 2023 - 73 minute](https://www.youtube.com/watch%3Fv%3DrLl-SilwQ4g%26ab_channel%3DDr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&amp;ab_channel=Dr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 
@@ -298,45 +298,45 @@ The Kindle address of your device is under the settings
 
 [Virus](/categories/virus)  **(1240+)** 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/air-pollution&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Air pollution&lt;/a&gt; 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/bird-flu&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13008&quot;&gt;Bird Flu&lt;/a&gt; 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/child-years-after-vax&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13586&quot;&gt;Child - years after VAX&lt;/a&gt; (11+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/dengue&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14221&quot;&gt;Dengue&lt;/a&gt; (13+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/epstein-barr-virus&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13346&quot;&gt;Epstein-Barr Virus&lt;/a&gt; (20+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/excess-deaths&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13434&quot;&gt;Excess Deaths&lt;/a&gt; (23+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/hepatitis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 7698&quot;&gt;Hepatitis&lt;/a&gt; (29+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/herpes-or-shingles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14086&quot;&gt;Herpes or Shingles&lt;/a&gt; (13+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/ivermectin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12259&quot;&gt;Ivermectin&lt;/a&gt; (35+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/long-covid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13765&quot;&gt;Long-COVID&lt;/a&gt; (72+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/magnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14052&quot;&gt;Magnesium&lt;/a&gt; (60+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/mononucleosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12472&quot;&gt;Mononucleosis&lt;/a&gt; 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/omega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12896&quot;&gt;Omega-3&lt;/a&gt; (14+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/rsv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11825&quot;&gt;RSV&lt;/a&gt; (12+) 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/ultraviolet-light&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14292&quot;&gt;Ultraviolet light&lt;/a&gt; (16+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vaccination&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13851&quot;&gt;Vaccination&lt;/a&gt; (198+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 13335&quot;&gt;Vitamin D&lt;/a&gt; (650+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Vitamin D Receptor](/categories/vitamin-d-receptor) (31+)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Vitamin K&lt;/a&gt; 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Zinc](/categories/zinc) (32+)
 
 ---
 
@@ -1272,8 +1272,8 @@ AST Structure:
 │   │   inner_content: ` (31+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id==11703|Vitamin K] {DIV}`
-│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id==11703|Vitamin K] `
+│   full_match: `{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}`
+│   inner_content: ` ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] `
 │   attrs_dict:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
@@ -1286,9 +1286,9 @@ AST Structure:
 │   │   full_match: ` `
 │   │   inner_content: ` `
 │   ├── LinkNode
-│   │   full_match: `[tiki-index.php?page_id==11703|Vitamin K]`
+│   │   full_match: `[tiki-index.php?page_id=11703|Vitamin K]`
 │   │   inner_content: `Vitamin K`
-│   │   url: `tiki-index.php?page_id==11703`
+│   │   url: `tiki-index.php?page_id=11703`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin K`
@@ -1515,7 +1515,7 @@ __((Hypothesis: Multiple COVID vaccinations reduce Vitamin D, resulting in Exces
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13851|Vaccination] (198+){DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=13335|Vitamin D] (650+){DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+){DIV}
-{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id==11703|Vitamin K] {DIV}
+{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+){DIV}
 ---
 !!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 28  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}   Books/Videos on Virus

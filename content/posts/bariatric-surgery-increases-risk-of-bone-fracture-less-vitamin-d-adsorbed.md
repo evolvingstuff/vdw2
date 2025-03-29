@@ -14,7 +14,7 @@ categories:
 
 #### Does weight loss surgery up the risk for bone fractures?
 
- **[MDEdge](https://www.mdedge.com/endocrinology/article/263421/obesity/does-weight-loss-surgery-risk-bone-fractures%3Fecd%3DWNL_MDIQFFF_230609_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/endocrinology/article/263421/obesity/does-weight-loss-surgery-risk-bone-fractures?ecd=WNL_MDIQFFF_230609_mdedge)** 
 
 * "The relative risk for fracture after RYGB and BPD-DS is reported to be  **1.2-2.3**  (that is, 20%-130% more than normal), whereas fracture risk after sleeve gastrectomy is still under study with some conflicting results. Fracture risk starts to increase 2-3 years after surgery and peaks at 5-plus years after surgery."
 
@@ -38,7 +38,7 @@ Markdown:
 
 #### Does weight loss surgery up the risk for bone fractures?
 
- **[MDEdge](https://www.mdedge.com/endocrinology/article/263421/obesity/does-weight-loss-surgery-risk-bone-fractures%3Fecd%3DWNL_MDIQFFF_230609_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/endocrinology/article/263421/obesity/does-weight-loss-surgery-risk-bone-fractures?ecd=WNL_MDIQFFF_230609_mdedge)** 
 
 * &quot;The relative risk for fracture after RYGB and BPD-DS is reported to be  **1.2-2.3**  (that is, 20%-130% more than normal), whereas fracture risk after sleeve gastrectomy is still under study with some conflicting results. Fracture risk starts to increase 2-3 years after surgery and peaks at 5-plus years after surgery.&quot;
 

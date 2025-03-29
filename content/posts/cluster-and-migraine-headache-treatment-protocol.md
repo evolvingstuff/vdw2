@@ -132,7 +132,7 @@ Exercise is also important.  12 to 15 minutes a day fast walking, climbing stai
 
 ##### Take the Survey (after 30 days)
 
-When you have your lab results in hand after the first 30 days treatment, please find the time to take the survey of CHers following this regimen and treatment protocol.  To cick [here](http://www.esurveyspro.com/Survey.aspx%3Fid%3Dfb8a2415-629f-4ebc-907c-c5ce971022f6) to start this survey or [https://is.gd/clustersurvey](https://is.gd/clustersurvey)
+When you have your lab results in hand after the first 30 days treatment, please find the time to take the survey of CHers following this regimen and treatment protocol.  To cick [here](http://www.esurveyspro.com/Survey.aspx?id=fb8a2415-629f-4ebc-907c-c5ce971022f6) to start this survey or [https://is.gd/clustersurvey](https://is.gd/clustersurvey)
 
 ##### Important Notes
 
@@ -177,7 +177,7 @@ While the title of this study may be confusing, the results are very clear.  Hi
 
 The authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses <5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 > 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.
 
-If you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at [VitaminDWiki.com](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4597) or a PM on clusterheadaches.com at [http://www.clusterheadaches.com/C](http://www.clusterheadaches.com/C) or clusterbusters at [http://www.clusterheadaches.com/wwwboard2/index.html](http://www.clusterheadaches.com/).  My screen name is “Batch.”  
+If you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at <a href="/posts/vitamindwikicom" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4597">VitaminDWiki.com</a> or a PM on clusterheadaches.com at [http://www.clusterheadaches.com/C](http://www.clusterheadaches.com/C) or clusterbusters at [http://www.clusterheadaches.com/wwwboard2/index.html](http://www.clusterheadaches.com/).  My screen name is “Batch.”  
 
 ---
 
@@ -354,7 +354,7 @@ Exercise is also important.  12 to 15 minutes a day fast walking, climbing stai
 
 ##### Take the Survey (after 30 days)
 
-When you have your lab results in hand after the first 30 days treatment, please find the time to take the survey of CHers following this regimen and treatment protocol.  To cick [here](http://www.esurveyspro.com/Survey.aspx%3Fid%3Dfb8a2415-629f-4ebc-907c-c5ce971022f6) to start this survey or [https://is.gd/clustersurvey](https://is.gd/clustersurvey)
+When you have your lab results in hand after the first 30 days treatment, please find the time to take the survey of CHers following this regimen and treatment protocol.  To cick [here](http://www.esurveyspro.com/Survey.aspx?id=fb8a2415-629f-4ebc-907c-c5ce971022f6) to start this survey or [https://is.gd/clustersurvey](https://is.gd/clustersurvey)
 
 ##### Important Notes
 
@@ -399,7 +399,7 @@ While the title of this study may be confusing, the results are very clear.  Hi
 
 The authors of this study commented they should have used even higher vitamin D3 doses of 20,000 IU/day and 30,000 IU/day to activate even more genes.  The results of this study provide another piece of the puzzle in answering how vitamin D3 controls and prevents cluster and migraine headaches. In this case it is clear that higher doses of vitamin D3 at 10,000 IU/day are effective preventing CH for 82% of CHers while vitamin D3 doses &lt;5000 IU/day are ineffective.   Moreover, there are several case studies of CHers following this protocol who didn’t respond to a vitamin D3 maintenance dose of 10,000 IU/day, but started responding with a cessation of CH following additional vitamin D3 loading schedules, elevating serum 25(OH)D3 &gt; 150 ng/mL and higher maintenance doses ≥ 20,000 IU/day with normal serum calcium concentrations.  The bottom line is this study provides a logical and rational basis for multiple vitamin D3 loading schedules, higher maintenance doses and resulting higher 25(OH)D3 serum concentration when needed as indicated in this Quick Start Guide.
 
-If you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at [VitaminDWiki.com](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4597) or a PM on clusterheadaches.com at [http://www.clusterheadaches.com/C](http://www.clusterheadaches.com/C) or clusterbusters at [http://www.clusterheadaches.com/wwwboard2/index.html](http://www.clusterheadaches.com/).  My screen name is “Batch.”  
+If you have any comments or questions about this Quick Start Guide, please shoot me a note on my webpage at &lt;a href=&quot;/posts/vitamindwikicom&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 4597&quot;&gt;VitaminDWiki.com&lt;/a&gt; or a PM on clusterheadaches.com at [http://www.clusterheadaches.com/C](http://www.clusterheadaches.com/C) or clusterbusters at [http://www.clusterheadaches.com/wwwboard2/index.html](http://www.clusterheadaches.com/).  My screen name is “Batch.”  
 
 ---
 

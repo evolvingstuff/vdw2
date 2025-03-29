@@ -41,7 +41,7 @@ Conclusions: The findings of our study suggest that serum micronutrient levels e
 
 ####  <span style="color:orange;">23+</span> VitaminDWiki pages contain PERIODONTITIS in title
 
- **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe%2Bperiodontitis%2Bis%2Bhalf%2Bas%2Blikely%2Bat%2B60%2Bng%2Bof%2Bvitamin%2BD%2B%E2%80%93%2BSept%2B2021%23VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
+ **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
 
 ---
 
@@ -83,7 +83,7 @@ Conclusions: The findings of our study suggest that serum micronutrient levels e
 
 ####  &lt;span style=&quot;color:orange;&quot;&gt;23+&lt;/span&gt; VitaminDWiki pages contain PERIODONTITIS in title
 
- **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe%2Bperiodontitis%2Bis%2Bhalf%2Bas%2Blikely%2Bat%2B60%2Bng%2Bof%2Bvitamin%2BD%2B%E2%80%93%2BSept%2B2021%23VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
+ **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
 
 ---
 

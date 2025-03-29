@@ -124,7 +124,7 @@ Methods
 
 Results
 
-Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B – 108.25 ± 32.40 nmol/L; p – 0.012) and 12 weeks (group D – 193.69 ± 32.47 nmol/L, group B – 153.85 ± 33.60 nmol/L; p<0.001). Eight infants [group D – 6/41 (14.6 %); group B – 2/37 (5.4 %), p=0.268](group%20D%20–%206/41%20(14.6 %);%20group%20B%20–%202/37%20(5.4 %)%2C%20p%3D0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
+Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B – 108.25 ± 32.40 nmol/L; p – 0.012) and 12 weeks (group D – 193.69 ± 32.47 nmol/L, group B – 153.85 ± 33.60 nmol/L; p<0.001). Eight infants [group D – 6/41 (14.6 %); group B – 2/37 (5.4 %), p=0.268](group%20D%20–%206/41%20(14.6 %);%20group%20B%20–%202/37%20(5.4 %),%20p=0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
 
 Conclusions
 
@@ -280,7 +280,7 @@ Methods
 
 Results
 
-Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B – 108.25 ± 32.40 nmol/L; p – 0.012) and 12 weeks (group D – 193.69 ± 32.47 nmol/L, group B – 153.85 ± 33.60 nmol/L; p&lt;0.001). Eight infants [group D – 6/41 (14.6 %); group B – 2/37 (5.4 %), p=0.268](group%20D%20–%206/41%20(14.6 %);%20group%20B%20–%202/37%20(5.4 %)%2C%20p%3D0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
+Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B – 108.25 ± 32.40 nmol/L; p – 0.012) and 12 weeks (group D – 193.69 ± 32.47 nmol/L, group B – 153.85 ± 33.60 nmol/L; p&lt;0.001). Eight infants [group D – 6/41 (14.6 %); group B – 2/37 (5.4 %), p=0.268](group%20D%20–%206/41%20(14.6 %);%20group%20B%20–%202/37%20(5.4 %),%20p=0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
 
 Conclusions
 

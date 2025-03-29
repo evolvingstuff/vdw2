@@ -15,7 +15,7 @@ categories:
 
 ---
 
-### Narrative by Satya L. Nahu, MD ( [from GrassrootsHealth](https://www.grassrootshealth.net/blog/vitamin-d-changed-life-doctor-ms-journey-interview/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters))
+### Narrative by Satya L. Nahu, MD ( [from GrassrootsHealth](https://www.grassrootshealth.net/blog/vitamin-d-changed-life-doctor-ms-journey-interview/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters))
 
 <img src="https://www.grassrootshealth.net/wp-content/uploads/2023/08/dr-nahu-1-e1691533792747-200x300.jpg" alt="image">
 
@@ -193,7 +193,7 @@ Markdown:
 
 ---
 
-### Narrative by Satya L. Nahu, MD ( [from GrassrootsHealth](https://www.grassrootshealth.net/blog/vitamin-d-changed-life-doctor-ms-journey-interview/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters))
+### Narrative by Satya L. Nahu, MD ( [from GrassrootsHealth](https://www.grassrootshealth.net/blog/vitamin-d-changed-life-doctor-ms-journey-interview/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters))
 
 &lt;img src=&quot;https://www.grassrootshealth.net/wp-content/uploads/2023/08/dr-nahu-1-e1691533792747-200x300.jpg&quot; alt=&quot;image&quot;&gt;
 

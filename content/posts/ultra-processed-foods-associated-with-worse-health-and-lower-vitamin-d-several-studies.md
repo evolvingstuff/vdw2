@@ -102,7 +102,7 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 #### The Perils of Ultra-processed foods (article and book) - July 2023
 
- **[The Perils of Highly Processed Food](https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-RECS-2023_08_01%26sponsored%3D0%26position%3D1%26category%3Dfascinating_stories%26scheduled_corpus_item_id%3D4d9eeec8-be80-4528-af49-df60fd51f788%26url%3Dhttps://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review)** 
+ **[The Perils of Highly Processed Food](https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review?utm_medium=email&utm_source=pocket_hits&utm_campaign=POCKET_HITS-EN-DAILY-RECS-2023_08_01&sponsored=0&position=1&category=fascinating_stories&scheduled_corpus_item_id=4d9eeec8-be80-4528-af49-df60fd51f788&url=https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review)** 
 
 * "In the new book “Ultra-Processed People” (Norton), the British doctor and medical journalist Chris van Tulleken bravely turns himself into a" guinea pig to explore the ins and outs of ultra-processed food (U.P.F.)—basically, food made up of substances that you would never find at home. 
 
@@ -116,9 +116,9 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 ##### Amazon Books include:
 
-*  **[Ultra-Processed People: The Science Behind Food That Isn't Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref%3Dsr_1_1%3Fots%3D1%26tag%3Dthneyo0f-20%26linkCode%3Dw50%26crid%3D2XGI3CJ6IC3QC%26keywords%3Dultra-processed%20people%26qid%3D1690209933%26s%3Dbooks%26sprefix%3Dultra-processed%20pe%2Cstripbooks%2C902%26sr%3D1-1) $15 Kindle  June 2023** 
+*  **[Ultra-Processed People: The Science Behind Food That Isn't Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref=sr_1_1?ots=1&tag=thneyo0f-20&linkCode=w50&crid=2XGI3CJ6IC3QC&keywords=ultra-processed%20people&qid=1690209933&s=books&sprefix=ultra-processed%20pe,stripbooks,902&sr=1-1) $15 Kindle  June 2023** 
 
-*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn't Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref%3Dsr_1_25%3Fcrid%3D1F8O1SURWSADY%26dib%3DeyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c%26dib_tag%3Dse%26keywords%3Dultra-processed%26qid%3D1709296795%26s%3Dbooks%26sprefix%3Dultra-processed%2Cstripbooks%2C145%26sr%3D1-25) $3 Kindle June 2023** 
+*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn't Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&dib_tag=se&keywords=ultra-processed&qid=1709296795&s=books&sprefix=ultra-processed%2Cstripbooks%2C145&sr=1-25) $3 Kindle June 2023** 
 
 ---
 
@@ -182,7 +182,7 @@ Our findings suggest that higher consumption of UPFs increases the risk of cance
 
 #### Ultra-processed foods can be as addictive as cocaine or smoking - Feb 2024
 
- **[https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds of Studies Confirm: Ultra-Processed Foods Linked to Higher Risk of Disease, Early Death](https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds%20of%20Studies%20Confirm:%20Ultra-Processed%20Foods%20Linked%20to%20Higher%20Risk%20of%20Disease%2C%20Early%20Death) Childrens Health Defense** 
+ **[https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds of Studies Confirm: Ultra-Processed Foods Linked to Higher Risk of Disease, Early Death](https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds%20of%20Studies%20Confirm:%20Ultra-Processed%20Foods%20Linked%20to%20Higher%20Risk%20of%20Disease,%20Early%20Death) Childrens Health Defense** 
 
 * " Today, more than half of our calories come from ultra-processed foods."
 
@@ -343,7 +343,7 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 #### The Perils of Ultra-processed foods (article and book) - July 2023
 
- **[The Perils of Highly Processed Food](https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-RECS-2023_08_01%26sponsored%3D0%26position%3D1%26category%3Dfascinating_stories%26scheduled_corpus_item_id%3D4d9eeec8-be80-4528-af49-df60fd51f788%26url%3Dhttps://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review)** 
+ **[The Perils of Highly Processed Food](https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review?utm_medium=email&amp;utm_source=pocket_hits&amp;utm_campaign=POCKET_HITS-EN-DAILY-RECS-2023_08_01&amp;sponsored=0&amp;position=1&amp;category=fascinating_stories&amp;scheduled_corpus_item_id=4d9eeec8-be80-4528-af49-df60fd51f788&amp;url=https://www.newyorker.com/magazine/2023/07/31/ultra-processed-people-chris-van-tulleken-book-review)** 
 
 * &quot;In the new book “Ultra-Processed People” (Norton), the British doctor and medical journalist Chris van Tulleken bravely turns himself into a&quot; guinea pig to explore the ins and outs of ultra-processed food (U.P.F.)—basically, food made up of substances that you would never find at home. 
 
@@ -357,9 +357,9 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 ##### Amazon Books include:
 
-*  **[Ultra-Processed People: The Science Behind Food That Isn&#39;t Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref%3Dsr_1_1%3Fots%3D1%26tag%3Dthneyo0f-20%26linkCode%3Dw50%26crid%3D2XGI3CJ6IC3QC%26keywords%3Dultra-processed%20people%26qid%3D1690209933%26s%3Dbooks%26sprefix%3Dultra-processed%20pe%2Cstripbooks%2C902%26sr%3D1-1) $15 Kindle  June 2023** 
+*  **[Ultra-Processed People: The Science Behind Food That Isn&#39;t Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref=sr_1_1?ots=1&amp;tag=thneyo0f-20&amp;linkCode=w50&amp;crid=2XGI3CJ6IC3QC&amp;keywords=ultra-processed%20people&amp;qid=1690209933&amp;s=books&amp;sprefix=ultra-processed%20pe,stripbooks,902&amp;sr=1-1) $15 Kindle  June 2023** 
 
-*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref%3Dsr_1_25%3Fcrid%3D1F8O1SURWSADY%26dib%3DeyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c%26dib_tag%3Dse%26keywords%3Dultra-processed%26qid%3D1709296795%26s%3Dbooks%26sprefix%3Dultra-processed%2Cstripbooks%2C145%26sr%3D1-25) $3 Kindle June 2023** 
+*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&amp;dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&amp;dib_tag=se&amp;keywords=ultra-processed&amp;qid=1709296795&amp;s=books&amp;sprefix=ultra-processed%2Cstripbooks%2C145&amp;sr=1-25) $3 Kindle June 2023** 
 
 ---
 
@@ -423,7 +423,7 @@ Our findings suggest that higher consumption of UPFs increases the risk of cance
 
 #### Ultra-processed foods can be as addictive as cocaine or smoking - Feb 2024
 
- **[https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds of Studies Confirm: Ultra-Processed Foods Linked to Higher Risk of Disease, Early Death](https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds%20of%20Studies%20Confirm:%20Ultra-Processed%20Foods%20Linked%20to%20Higher%20Risk%20of%20Disease%2C%20Early%20Death) Childrens Health Defense** 
+ **[https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds of Studies Confirm: Ultra-Processed Foods Linked to Higher Risk of Disease, Early Death](https://childrenshealthdefense.org/defender/ultra-processed-foods-disease-early-death-rtk/Hundreds%20of%20Studies%20Confirm:%20Ultra-Processed%20Foods%20Linked%20to%20Higher%20Risk%20of%20Disease,%20Early%20Death) Childrens Health Defense** 
 
 * &quot; Today, more than half of our calories come from ultra-processed foods.&quot;
 

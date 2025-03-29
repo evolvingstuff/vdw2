@@ -18,7 +18,7 @@ categories:
 
 #### Obesity linked to multiple ills in MS study
 
- **[MD Edge](https://www.mdedge.com/neurology/article/265902/multiple-sclerosis/obesity-linked-multiple-ills-ms-study%3Fecd%3DWNL_EVE_231014_mdedge%26icd%3Dlogin_success_email_match_norm)** 
+ **[MD Edge](https://www.mdedge.com/neurology/article/265902/multiple-sclerosis/obesity-linked-multiple-ills-ms-study?ecd=WNL_EVE_231014_mdedge&icd=login_success_email_match_norm)** 
 
 They seem unaware that 
 
@@ -52,7 +52,7 @@ Markdown:
 
 #### Obesity linked to multiple ills in MS study
 
- **[MD Edge](https://www.mdedge.com/neurology/article/265902/multiple-sclerosis/obesity-linked-multiple-ills-ms-study%3Fecd%3DWNL_EVE_231014_mdedge%26icd%3Dlogin_success_email_match_norm)** 
+ **[MD Edge](https://www.mdedge.com/neurology/article/265902/multiple-sclerosis/obesity-linked-multiple-ills-ms-study?ecd=WNL_EVE_231014_mdedge&amp;icd=login_success_email_match_norm)** 
 
 They seem unaware that 
 

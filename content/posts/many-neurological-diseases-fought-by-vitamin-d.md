@@ -77,7 +77,7 @@ The role of vitamin D on gene transcription and the immune response is also revi
 
 #### 315 clinical trials of neurological diseases and Vitamin D - Oct 2023
 
- **[Clinical Trials.gov](https://classic.clinicaltrials.gov/ct2/results%3Fterm%3Dneurological%2Bdiseases%2B%22vitamin%2Bd%22%26Search%3DSearch)** 
+ **[Clinical Trials.gov](https://classic.clinicaltrials.gov/ct2/results?term=neurological+diseases+%22vitamin+d%22&Search=Search)** 
 
 ---
 
@@ -180,7 +180,7 @@ The role of vitamin D on gene transcription and the immune response is also revi
 
 #### 315 clinical trials of neurological diseases and Vitamin D - Oct 2023
 
- **[Clinical Trials.gov](https://classic.clinicaltrials.gov/ct2/results%3Fterm%3Dneurological%2Bdiseases%2B%22vitamin%2Bd%22%26Search%3DSearch)** 
+ **[Clinical Trials.gov](https://classic.clinicaltrials.gov/ct2/results?term=neurological+diseases+%22vitamin+d%22&amp;Search=Search)** 
 
 ---
 

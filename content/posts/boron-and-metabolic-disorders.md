@@ -18,7 +18,7 @@ categories:
 
 #### Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022
 
-[https://doi.org/10.1007/s12011-022-03346-9](https://doi.org/10.1007/s12011-022-03346-9)  Can be viewed  in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS%3Fkey%3Dspringer)
+[https://doi.org/10.1007/s12011-022-03346-9](https://doi.org/10.1007/s12011-022-03346-9)  Can be viewed  in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer)
 
 * <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -55,7 +55,7 @@ Markdown:
 
 #### Boron-Containing Compounds for Prevention, Diagnosis, and Treatment of Human Metabolic Disorders - June 2022
 
-[https://doi.org/10.1007/s12011-022-03346-9](https://doi.org/10.1007/s12011-022-03346-9)  Can be viewed  in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS%3Fkey%3Dspringer)
+[https://doi.org/10.1007/s12011-022-03346-9](https://doi.org/10.1007/s12011-022-03346-9)  Can be viewed  in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/boron-containing-compounds-for-prevention-diagnosis-and-treatment-of-DDXOmGUuSS?key=springer)
 
 * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 

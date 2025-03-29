@@ -18,7 +18,7 @@ categories:
 
 #### The #1 Deficiency behind All Autoimmune Diseases - 3 minute video
 
- **[YouTube](https://www.youtube.com/watch%3Fv%3Dj1Dv8Z0dYw0%26ab_channel%3DEliteAyurveda)** 
+ **[YouTube](https://www.youtube.com/watch?v=j1Dv8Z0dYw0&ab_channel=EliteAyurveda)** 
 
 Explore the critical link between vitamin D and autoimmune diseases in this comprehensive video. Delve into the intricate development of these conditions, uncovering the pivotal role of vitamin D deficiency and its impact on triggering autoimmune disorders. Learn about holistic Ayurvedic treatments and lifestyle adjustments that help manage these conditions. Discover how vitamin D regulates the immune system, suppresses inflammation, and activates defenses against pathogens. Gain insights into immune components and practical strategies for managing and preventing autoimmune diseases.
 
@@ -43,7 +43,7 @@ Markdown:
 
 #### The #1 Deficiency behind All Autoimmune Diseases - 3 minute video
 
- **[YouTube](https://www.youtube.com/watch%3Fv%3Dj1Dv8Z0dYw0%26ab_channel%3DEliteAyurveda)** 
+ **[YouTube](https://www.youtube.com/watch?v=j1Dv8Z0dYw0&amp;ab_channel=EliteAyurveda)** 
 
 Explore the critical link between vitamin D and autoimmune diseases in this comprehensive video. Delve into the intricate development of these conditions, uncovering the pivotal role of vitamin D deficiency and its impact on triggering autoimmune disorders. Learn about holistic Ayurvedic treatments and lifestyle adjustments that help manage these conditions. Discover how vitamin D regulates the immune system, suppresses inflammation, and activates defenses against pathogens. Gain insights into immune components and practical strategies for managing and preventing autoimmune diseases.
 

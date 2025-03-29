@@ -47,13 +47,13 @@ categories:
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
-1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview%2BDiabetes%2Band%2Bvitamin%2BD), etc.)
+1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D), etc.)
 
 1. Have a disease that is associated with a poor Vitamin D response (Asthma, etc.)
 
 1. Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) 
 
-1. Was born [preterm](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14440) or mother had low vitamin D while pregnant
+1. Was born <a href="/posts/preterm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14440">preterm</a> or mother had low vitamin D while pregnant
 
 &nbsp;&nbsp;&nbsp;&nbsp;increases the risk of many Vitamin D diseases up to 50 years later
 
@@ -61,11 +61,11 @@ categories:
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview%2BDark%2BSkin%2Band%2BVitamin%2BD), avoiding the very hot sun, shift worker, nursing home, wheelchair
+&nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies">stressful situation</a>
 
-1. Have poor [liver](https://VitaminDWiki.com/Overview%2BLiver%2Band%2Bvitamin%2BD) or [kidney](https://VitaminDWiki.com/Overview%2BKidney%2Band%2Bvitamin%2BD) (needed to metabolize vitamin D in the bloodstream)
+1. Have poor [liver](https://VitaminDWiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a <span>[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]</span> (required to get Vitamin D in the intestine into the blood)
 
@@ -662,13 +662,13 @@ Markdown:
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
-1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview%2BDiabetes%2Band%2Bvitamin%2BD), etc.)
+1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D), etc.)
 
 1. Have a disease that is associated with a poor Vitamin D response (Asthma, etc.)
 
 1. Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) 
 
-1. Was born [preterm](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14440) or mother had low vitamin D while pregnant
+1. Was born &lt;a href=&quot;/posts/preterm&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14440&quot;&gt;preterm&lt;/a&gt; or mother had low vitamin D while pregnant
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;increases the risk of many Vitamin D diseases up to 50 years later
 
@@ -676,11 +676,11 @@ Markdown:
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview%2BDark%2BSkin%2Band%2BVitamin%2BD), avoiding the very hot sun, shift worker, nursing home, wheelchair
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very &lt;a href=&quot;/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies&quot;&gt;stressful situation&lt;/a&gt;
 
-1. Have poor [liver](https://VitaminDWiki.com/Overview%2BLiver%2Band%2Bvitamin%2BD) or [kidney](https://VitaminDWiki.com/Overview%2BKidney%2Band%2Bvitamin%2BD) (needed to metabolize vitamin D in the bloodstream)
+1. Have poor [liver](https://VitaminDWiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a &lt;span&gt;[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]&lt;/span&gt; (required to get Vitamin D in the intestine into the blood)
 

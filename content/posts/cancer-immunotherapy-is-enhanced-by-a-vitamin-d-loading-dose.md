@@ -67,7 +67,7 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 
 #### STUDY: Immunotherapy harnesses the power of the body's immune system to treat cancer - June 2016
 
- **[Immunotherapy vs. Chemotherapy: What’s the Difference?](https://www.cancerresearch.org/blog/june-2016/difference-cancer-immunotherapy-and-chemotherapy%3Fgad_source%3D1%26gclid%3DCjwKCAiA-bmsBhAGEiwAoaQNmh0ksflI8CPKwJL14hZUVgnCByjM7y4yC2buRUQwEaHq_zIgo8T-0xoCiD4QAvD_BwE) June 2016** 
+ **[Immunotherapy vs. Chemotherapy: What’s the Difference?](https://www.cancerresearch.org/blog/june-2016/difference-cancer-immunotherapy-and-chemotherapy?gad_source=1&gclid=CjwKCAiA-bmsBhAGEiwAoaQNmh0ksflI8CPKwJL14hZUVgnCByjM7y4yC2buRUQwEaHq_zIgo8T-0xoCiD4QAvD_BwE) June 2016** 
 
 ---
 
@@ -123,7 +123,7 @@ Breast Cancer, for example, needs >80 ng
 
 #### 28,600 hits in Google Scholar for search of immunotherapy & cancer & "Vitamin D"
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dimmunotherapy%2Bcancer%2B%22vitamin%2Bd%22) Jan 2024** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=immunotherapy+cancer+%22vitamin+d%22) Jan 2024** 
 
 * The impact of vitamin D on cancer: A mini review - June 2023 [https://doi.org/10.1016/j.jsbmb.2023.106308](https://doi.org/10.1016/j.jsbmb.2023.106308) FREE PDF
 
@@ -214,7 +214,7 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 
 #### STUDY: Immunotherapy harnesses the power of the body&#39;s immune system to treat cancer - June 2016
 
- **[Immunotherapy vs. Chemotherapy: What’s the Difference?](https://www.cancerresearch.org/blog/june-2016/difference-cancer-immunotherapy-and-chemotherapy%3Fgad_source%3D1%26gclid%3DCjwKCAiA-bmsBhAGEiwAoaQNmh0ksflI8CPKwJL14hZUVgnCByjM7y4yC2buRUQwEaHq_zIgo8T-0xoCiD4QAvD_BwE) June 2016** 
+ **[Immunotherapy vs. Chemotherapy: What’s the Difference?](https://www.cancerresearch.org/blog/june-2016/difference-cancer-immunotherapy-and-chemotherapy?gad_source=1&amp;gclid=CjwKCAiA-bmsBhAGEiwAoaQNmh0ksflI8CPKwJL14hZUVgnCByjM7y4yC2buRUQwEaHq_zIgo8T-0xoCiD4QAvD_BwE) June 2016** 
 
 ---
 
@@ -270,7 +270,7 @@ Breast Cancer, for example, needs &gt;80 ng
 
 #### 28,600 hits in Google Scholar for search of immunotherapy &amp; cancer &amp; &quot;Vitamin D&quot;
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dimmunotherapy%2Bcancer%2B%22vitamin%2Bd%22) Jan 2024** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=immunotherapy+cancer+%22vitamin+d%22) Jan 2024** 
 
 * The impact of vitamin D on cancer: A mini review - June 2023 [https://doi.org/10.1016/j.jsbmb.2023.106308](https://doi.org/10.1016/j.jsbmb.2023.106308) FREE PDF
 

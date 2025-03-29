@@ -71,7 +71,7 @@ This list is automatically updated
 
 *  **Conclusion**  Magnesium pidolate may offer advantages in terms of bioavailability and intracellular penetration, which could theoretically make it more effective for reducing headaches compared to forms with lower bioavailability.
 
- **[Complete answer](https://www.perplexity.ai/search/please-compare-Magnesium-9eS8Z5y4QKGhcnc1mpe2Ng%3Fs%3Dc)** 
+ **[Complete answer](https://www.perplexity.ai/search/please-compare-Magnesium-9eS8Z5y4QKGhcnc1mpe2Ng?s=c)** 
 
 
 
@@ -138,7 +138,7 @@ This list is automatically updated
 
 *  **Conclusion**  Magnesium pidolate may offer advantages in terms of bioavailability and intracellular penetration, which could theoretically make it more effective for reducing headaches compared to forms with lower bioavailability.
 
- **[Complete answer](https://www.perplexity.ai/search/please-compare-Magnesium-9eS8Z5y4QKGhcnc1mpe2Ng%3Fs%3Dc)** 
+ **[Complete answer](https://www.perplexity.ai/search/please-compare-Magnesium-9eS8Z5y4QKGhcnc1mpe2Ng?s=c)** 
 
 
 

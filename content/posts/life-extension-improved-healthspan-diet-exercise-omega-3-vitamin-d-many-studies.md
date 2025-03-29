@@ -81,7 +81,7 @@ A sustained dietary change may give substantial health gains for people of all a
 
 ##### Graphical Summary
 
- **[Jan 2024 issue of Life Extension Magazine](https://www.lifeextension.com/magazine/2024/1%3Fsourcecode%3DCVM301E%26utm_content%3Dimage-hero%26utm_medium%3Demail%26utm_source%3Dnewsletter-zmag%26utm_campaign%3DCVM301E%26CID%3D609e8ed4-3dd7-4797-b600-b1f40786371e)** 
+ **[Jan 2024 issue of Life Extension Magazine](https://www.lifeextension.com/magazine/2024/1?sourcecode=CVM301E&utm_content=image-hero&utm_medium=email&utm_source=newsletter-zmag&utm_campaign=CVM301E&CID=609e8ed4-3dd7-4797-b600-b1f40786371e)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -213,7 +213,7 @@ A sustained dietary change may give substantial health gains for people of all a
 
 ##### Graphical Summary
 
- **[Jan 2024 issue of Life Extension Magazine](https://www.lifeextension.com/magazine/2024/1%3Fsourcecode%3DCVM301E%26utm_content%3Dimage-hero%26utm_medium%3Demail%26utm_source%3Dnewsletter-zmag%26utm_campaign%3DCVM301E%26CID%3D609e8ed4-3dd7-4797-b600-b1f40786371e)** 
+ **[Jan 2024 issue of Life Extension Magazine](https://www.lifeextension.com/magazine/2024/1?sourcecode=CVM301E&amp;utm_content=image-hero&amp;utm_medium=email&amp;utm_source=newsletter-zmag&amp;utm_campaign=CVM301E&amp;CID=609e8ed4-3dd7-4797-b600-b1f40786371e)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

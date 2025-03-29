@@ -17,9 +17,9 @@ categories:
 
 #### Life’s Essential 8: Higher scores extend health span
 
- **[MDEdge](https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span%3Fecd%3DWNL_EVE_231231_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span?ecd=WNL_EVE_231231_mdedge)** 
 
-based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 [Can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522)
+based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 [Can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4?articleList=%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522)
 
  **Not smoking** 
 
@@ -107,9 +107,9 @@ Markdown:
 
 #### Life’s Essential 8: Higher scores extend health span
 
- **[MDEdge](https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span%3Fecd%3DWNL_EVE_231231_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/obgyn/article/262061/preventive-care/lifes-essential-8-higher-scores-extend-health-span?ecd=WNL_EVE_231231_mdedge)** 
 
-based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 [Can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522)
+based on Association of Cardiovascular Health With Life Expectancy Free of Cardiovascular Disease, Diabetes, Cancer, and Dementia in UK Adults - JAMA Intern Med. 2023;183(4):340-349. doi:10.1001/jamainternmed.2023.0015 [Can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/association-of-cardiovascular-health-with-life-expectancy-free-of-tE1hGRwDi4?articleList=%2Fsearch%3Fquery%3D%2522Association%2Bof%2BCardiovascular%2BHealth%2BWith%2BLife%2BExpectancy%2BFree%2Bof%2BCardiovascular%2BDisease%252C%2BDiabetes%252C%2BCancer%252C%2Band%2BDementia%2Bin%2BUK%2BAdults%2522)
 
  **Not smoking** 
 

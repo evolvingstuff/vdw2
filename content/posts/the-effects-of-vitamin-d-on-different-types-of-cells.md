@@ -617,7 +617,7 @@ This list is automatically updated
 
 #### Note: There are 5,300 types of cells in the mouse brain as of Dec 2023
 
- **[QuantaMagazine](https://www.quantamagazine.org/new-cell-atlases-reveal-untold-variety-in-the-brain-and-beyond-20231213/%3Fmc_cid%3D6437d7bf8c%26mc_eid%3Dc1f126e187)** 
+ **[QuantaMagazine](https://www.quantamagazine.org/new-cell-atlases-reveal-untold-variety-in-the-brain-and-beyond-20231213/?mc_cid=6437d7bf8c&mc_eid=c1f126e187)** 
 
 * indentified individual cells based on which genes they are expressing. 
 
@@ -1238,7 +1238,7 @@ This list is automatically updated
 
 #### Note: There are 5,300 types of cells in the mouse brain as of Dec 2023
 
- **[QuantaMagazine](https://www.quantamagazine.org/new-cell-atlases-reveal-untold-variety-in-the-brain-and-beyond-20231213/%3Fmc_cid%3D6437d7bf8c%26mc_eid%3Dc1f126e187)** 
+ **[QuantaMagazine](https://www.quantamagazine.org/new-cell-atlases-reveal-untold-variety-in-the-brain-and-beyond-20231213/?mc_cid=6437d7bf8c&amp;mc_eid=c1f126e187)** 
 
 * indentified individual cells based on which genes they are expressing. 
 

@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### [Modern HealthCare](https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028%23:~:text%3DAs%20a%20result%2C%20the%20healthcare%2Cwhich%20was%2017.7%25%20of%20GDP.) March 2022
+#### [Modern HealthCare](https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.) March 2022
 
 ---
 
@@ -39,7 +39,7 @@ Markdown:
 
 ---
 
-#### [Modern HealthCare](https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028%23:~:text%3DAs%20a%20result%2C%20the%20healthcare%2Cwhich%20was%2017.7%25%20of%20GDP.) March 2022
+#### [Modern HealthCare](https://www.modernhealthcare.com/healthcare-economics/healthcare-spending-consume-20-gdp-2028#:~:text=As%20a%20result%2C%20the%20healthcare,which%20was%2017.7%25%20of%20GDP.) March 2022
 
 ---
 

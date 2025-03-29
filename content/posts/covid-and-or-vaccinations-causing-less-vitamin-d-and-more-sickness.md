@@ -17,7 +17,7 @@ categories:
 
 #### Getting Sick More Often Because of "Immunity Theft or Debt"
 
- **[Concepts Proposed to Explain Kids and Adults Getting Sick More Often - McCullogh substack](https://petermcculloughmd.substack.com/p/getting-sick-more-often-because-of%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Concepts Proposed to Explain Kids and Adults Getting Sick More Often - McCullogh substack](https://petermcculloughmd.substack.com/p/getting-sick-more-often-because-of?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
 
 refers to
 
@@ -55,7 +55,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 #### Some Vaccine Types Linked to Increased Risk of Other Infections in girls - Jan 2024
 
- **[The Defender](https://childrenshealthdefense.org/defender/vaccines-increase-risk-other-infections/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240119)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/vaccines-increase-risk-other-infections/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20240119)** 
 
 "*Researchers found that vaccines that do not contain a live or weakened pathogen, while effective against the targeted infection, may also raise the risk of non-targeted infections, particularly in girls."
 
@@ -86,7 +86,7 @@ Markdown:
 
 #### Getting Sick More Often Because of &quot;Immunity Theft or Debt&quot;
 
- **[Concepts Proposed to Explain Kids and Adults Getting Sick More Often - McCullogh substack](https://petermcculloughmd.substack.com/p/getting-sick-more-often-because-of%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
+ **[Concepts Proposed to Explain Kids and Adults Getting Sick More Often - McCullogh substack](https://petermcculloughmd.substack.com/p/getting-sick-more-often-because-of?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
 
 refers to
 
@@ -124,7 +124,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 #### Some Vaccine Types Linked to Increased Risk of Other Infections in girls - Jan 2024
 
- **[The Defender](https://childrenshealthdefense.org/defender/vaccines-increase-risk-other-infections/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240119)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/vaccines-increase-risk-other-infections/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20240119)** 
 
 &quot;*Researchers found that vaccines that do not contain a live or weakened pathogen, while effective against the targeted infection, may also raise the risk of non-targeted infections, particularly in girls.&quot;
 

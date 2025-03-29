@@ -19,7 +19,7 @@ categories:
 
  **based on the National Health Claims Database 2017-2019** 
 
-Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/10.1007/s00198-024-07022-7) [Can be viewed at DeepDyve 1 month free trial](https://www.deepdyve.com/lp/springer-journals/selective-estrogen-receptor-modulators-serms-with-vitamin-d-composite-FCTILqFMaH%3Fkey%3Dspringer%20)
+Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/10.1007/s00198-024-07022-7) [Can be viewed at DeepDyve 1 month free trial](https://www.deepdyve.com/lp/springer-journals/selective-estrogen-receptor-modulators-serms-with-vitamin-d-composite-FCTILqFMaH?key=springer%20)
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 
@@ -135,7 +135,7 @@ Markdown:
 
  **based on the National Health Claims Database 2017-2019** 
 
-Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/10.1007/s00198-024-07022-7) [Can be viewed at DeepDyve 1 month free trial](https://www.deepdyve.com/lp/springer-journals/selective-estrogen-receptor-modulators-serms-with-vitamin-d-composite-FCTILqFMaH%3Fkey%3Dspringer%20)
+Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/10.1007/s00198-024-07022-7) [Can be viewed at DeepDyve 1 month free trial](https://www.deepdyve.com/lp/springer-journals/selective-estrogen-receptor-modulators-serms-with-vitamin-d-composite-FCTILqFMaH?key=springer%20)
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 

@@ -67,9 +67,9 @@ This list is automatically updated
 
 #### 10,000+ studies contain CYP24A1  and  Cancer
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3DCYP24A1%2B%2Bcancer%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=CYP24A1++cancer&btnG=)** 
 
-* CYP24A1-induced vitamin D insufficiency promotes breast cancer growth - Sept 2016 [FREE PDF](https://www.spandidos-publications.com/10.3892/or.2016.5072%3Ftext%3Dfulltext)
+* CYP24A1-induced vitamin D insufficiency promotes breast cancer growth - Sept 2016 [FREE PDF](https://www.spandidos-publications.com/10.3892/or.2016.5072?text=fulltext)
 
 * Association of CYP24A1 with survival and drug resistance in clinical cancer patients: a meta-analysis - Dec 2022 [FREE PDF](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-10369-x)
 
@@ -135,9 +135,9 @@ This list is automatically updated
 
 #### 10,000+ studies contain CYP24A1  and  Cancer
 
- **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3DCYP24A1%2B%2Bcancer%26btnG%3D)** 
+ **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=CYP24A1++cancer&amp;btnG=)** 
 
-* CYP24A1-induced vitamin D insufficiency promotes breast cancer growth - Sept 2016 [FREE PDF](https://www.spandidos-publications.com/10.3892/or.2016.5072%3Ftext%3Dfulltext)
+* CYP24A1-induced vitamin D insufficiency promotes breast cancer growth - Sept 2016 [FREE PDF](https://www.spandidos-publications.com/10.3892/or.2016.5072?text=fulltext)
 
 * Association of CYP24A1 with survival and drug resistance in clinical cancer patients: a meta-analysis - Dec 2022 [FREE PDF](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-10369-x)
 

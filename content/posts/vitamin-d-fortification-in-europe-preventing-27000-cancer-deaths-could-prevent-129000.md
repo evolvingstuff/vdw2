@@ -60,7 +60,7 @@ Interpretation: Systematic fortification of foods might considerably reduce the 
 
 ---
 
-#### VitaminDWiki – <span>[tiki-index.php?page_id=11386]</span> contains
+#### VitaminDWiki – <a href="/posts/change-of-vitamin-d-fortification-in-denmark" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11386">Change of  Vitamin D Fortification in Denmark</a> contains
 
 ---
 
@@ -167,7 +167,7 @@ Interpretation: Systematic fortification of foods might considerably reduce the 
 
 ---
 
-#### VitaminDWiki – &lt;span&gt;[tiki-index.php?page_id=11386]&lt;/span&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/change-of-vitamin-d-fortification-in-denmark&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11386&quot;&gt;Change of  Vitamin D Fortification in Denmark&lt;/a&gt; contains
 
 ---
 

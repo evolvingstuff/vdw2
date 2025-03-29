@@ -90,7 +90,7 @@ The fructose added to soft drinks and processed food, as well as frequent detect
 
 #### Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023
 
- **[Daily Mail](https://www.dailymail.co.uk/health/article-12655351/Scientists-claim-root-cause-obesity-NOT-calories-carbs.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)**  reporting on  **The fructose survival hypothesis as a mechanism for unifying the various obesity hypotheses**  
+ **[Daily Mail](https://www.dailymail.co.uk/health/article-12655351/Scientists-claim-root-cause-obesity-NOT-calories-carbs.html?utm_source=substack&utm_medium=email)**  reporting on  **The fructose survival hypothesis as a mechanism for unifying the various obesity hypotheses**  
 
 https://doi.org/10.1002/oby.23920 79 references online $12 to rent the PDF
 
@@ -223,7 +223,7 @@ The fructose added to soft drinks and processed food, as well as frequent detect
 
 #### Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023
 
- **[Daily Mail](https://www.dailymail.co.uk/health/article-12655351/Scientists-claim-root-cause-obesity-NOT-calories-carbs.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)**  reporting on  **The fructose survival hypothesis as a mechanism for unifying the various obesity hypotheses**  
+ **[Daily Mail](https://www.dailymail.co.uk/health/article-12655351/Scientists-claim-root-cause-obesity-NOT-calories-carbs.html?utm_source=substack&amp;utm_medium=email)**  reporting on  **The fructose survival hypothesis as a mechanism for unifying the various obesity hypotheses**  
 
 https://doi.org/10.1002/oby.23920 79 references online $12 to rent the PDF
 

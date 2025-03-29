@@ -27,7 +27,7 @@ categories:
 
 * It is possible that vitamin D deficiency is driving the immune deficiency, as we know that vitamin D is essential for defensive immunity and is a powerful stimulator of the vitally important T-cells.
 
- **[Posted on his website](http://www.drdavidgrimes.com/2023/10/vitamin-d-and-second-pandemic-of.html%3Fspref%3Dfb%26fbclid%3DIwAR14q1frlQR8wyOpMiyAZVjryTER2hsw8lyfmPSD2O4QwM3S-DIOw1ONtN0)** 
+ **[Posted on his website](http://www.drdavidgrimes.com/2023/10/vitamin-d-and-second-pandemic-of.html?spref=fb&fbclid=IwAR14q1frlQR8wyOpMiyAZVjryTER2hsw8lyfmPSD2O4QwM3S-DIOw1ONtN0)** 
 
 ---
 
@@ -74,7 +74,7 @@ Markdown:
 
 * It is possible that vitamin D deficiency is driving the immune deficiency, as we know that vitamin D is essential for defensive immunity and is a powerful stimulator of the vitally important T-cells.
 
- **[Posted on his website](http://www.drdavidgrimes.com/2023/10/vitamin-d-and-second-pandemic-of.html%3Fspref%3Dfb%26fbclid%3DIwAR14q1frlQR8wyOpMiyAZVjryTER2hsw8lyfmPSD2O4QwM3S-DIOw1ONtN0)** 
+ **[Posted on his website](http://www.drdavidgrimes.com/2023/10/vitamin-d-and-second-pandemic-of.html?spref=fb&amp;fbclid=IwAR14q1frlQR8wyOpMiyAZVjryTER2hsw8lyfmPSD2O4QwM3S-DIOw1ONtN0)** 
 
 ---
 

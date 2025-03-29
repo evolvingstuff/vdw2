@@ -18,7 +18,7 @@ categories:
 
 #### Diagnosis Prostate Cancer: An Interview with Dr. Michael Holick and Carole Baggerly
 
- **[YouTube 48 minutes](https://www.youtube.com/watch%3Fv%3DBMjmsmtdYnM%26ab_channel%3DvitaminDaction)** 
+ **[YouTube 48 minutes](https://www.youtube.com/watch?v=BMjmsmtdYnM&ab_channel=vitaminDaction)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -268,7 +268,7 @@ course of more than five years that's addressed the nasal passages in such a way
 
 ---
 
-#### His ongoing diary on [Facebook](https://www.facebook.com/search/top%3Fq%3Dholick%20prostate%20cancer)
+#### His ongoing diary on [Facebook](https://www.facebook.com/search/top?q=holick%20prostate%20cancer)
 
 ---
 
@@ -286,7 +286,7 @@ course of more than five years that's addressed the nasal passages in such a way
 
 #### PSA RCT problems - 2014
 
- **[PSA RCT are deeply flawed](http://www.nytimes.com/2014/11/26/opinion/the-problem-with-prostate-screening.html%3F_r%3D0) by PSA discoverer, NYT Nov 2014** 
+ **[PSA RCT are deeply flawed](http://www.nytimes.com/2014/11/26/opinion/the-problem-with-prostate-screening.html?_r=0) by PSA discoverer, NYT Nov 2014** 
 
 He is also the author of" " **The Great Prostate Hoax** : How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster" March 2014
 
@@ -400,7 +400,7 @@ Markdown:
 
 #### Diagnosis Prostate Cancer: An Interview with Dr. Michael Holick and Carole Baggerly
 
- **[YouTube 48 minutes](https://www.youtube.com/watch%3Fv%3DBMjmsmtdYnM%26ab_channel%3DvitaminDaction)** 
+ **[YouTube 48 minutes](https://www.youtube.com/watch?v=BMjmsmtdYnM&amp;ab_channel=vitaminDaction)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -650,7 +650,7 @@ course of more than five years that&#39;s addressed the nasal passages in such a
 
 ---
 
-#### His ongoing diary on [Facebook](https://www.facebook.com/search/top%3Fq%3Dholick%20prostate%20cancer)
+#### His ongoing diary on [Facebook](https://www.facebook.com/search/top?q=holick%20prostate%20cancer)
 
 ---
 
@@ -668,7 +668,7 @@ course of more than five years that&#39;s addressed the nasal passages in such a
 
 #### PSA RCT problems - 2014
 
- **[PSA RCT are deeply flawed](http://www.nytimes.com/2014/11/26/opinion/the-problem-with-prostate-screening.html%3F_r%3D0) by PSA discoverer, NYT Nov 2014** 
+ **[PSA RCT are deeply flawed](http://www.nytimes.com/2014/11/26/opinion/the-problem-with-prostate-screening.html?_r=0) by PSA discoverer, NYT Nov 2014** 
 
 He is also the author of&quot; &quot; **The Great Prostate Hoax** : How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster&quot; March 2014
 
