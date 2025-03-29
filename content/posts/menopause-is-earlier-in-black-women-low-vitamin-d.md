@@ -59,7 +59,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – <a href="/posts/blacks-die-more-often-than-whites-of-many-diseases-they-have-less-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: (Blacks die more often than whites of many diseases (they have less vitamin D) – 2012">(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012</a> contains:
+#### VitaminDWiki – <a href="/posts/blacks-die-more-often-than-whites-of-many-diseases-they-have-less-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Blacks die more often than whites of many diseases (they have less vitamin D) – 2012">Blacks die more often than whites of many diseases (they have less vitamin D) – 2012</a> contains:
 
 
 
@@ -114,7 +114,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/blacks-die-more-often-than-whites-of-many-diseases-they-have-less-vitamin-d-2012&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: (Blacks die more often than whites of many diseases (they have less vitamin D) – 2012&quot;&gt;(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012&lt;/a&gt; contains:
+#### VitaminDWiki – &lt;a href=&quot;/posts/blacks-die-more-often-than-whites-of-many-diseases-they-have-less-vitamin-d-2012&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Blacks die more often than whites of many diseases (they have less vitamin D) – 2012&quot;&gt;Blacks die more often than whites of many diseases (they have less vitamin D) – 2012&lt;/a&gt; contains:
 
 
 
@@ -384,21 +384,21 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki – (((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:`
-│   inner_content: `VitaminDWiki – (((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:`
+│   full_match: `!!!!VitaminDWiki – ((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:`
+│   inner_content: `VitaminDWiki – ((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
-│   │   full_match: `(((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012))`
-│   │   inner_content: `(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
-│   │   page: `(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
+│   │   full_match: `((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012))`
+│   │   inner_content: `Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
+│   │   page: `Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
-│   │   │   inner_content: `(Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
+│   │   │   full_match: `Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
+│   │   │   inner_content: `Blacks die more often than whites of many diseases (they have less vitamin D) – 2012`
 │   ├── TextNode
 │   │   full_match: ` contains:`
 │   │   inner_content: ` contains:`├── TextNode
@@ -443,7 +443,7 @@ __[https://www.nytimes.com/2023/08/23/well/live/menopause-symptoms-women-of-colo
 !!!!VitaminDWiki – ((Skin - Dark)) contains
 {include page=&quot;Skin - Dark&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDWiki – (((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:
+!!!!VitaminDWiki – ((Blacks die more often than whites of many diseases (they have less vitamin D) – 2012)) contains:
 {include page=&quot;Blacks die more often than whites of many diseases (they have less vitamin D) – 2012&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 </code>
 </pre>

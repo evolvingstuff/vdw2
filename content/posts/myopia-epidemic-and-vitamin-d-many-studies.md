@@ -92,7 +92,7 @@ Screens include Video, TV, Computer, Gaming
 
 ---
 
-#### VitaminDWiki <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc</a>)
+#### VitaminDWiki <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc</a>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -206,7 +206,7 @@ Screens include Video, TV, Computer, Gaming
 
 ---
 
-#### VitaminDWiki &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc&lt;/a&gt;)
+#### VitaminDWiki &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc&lt;/a&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -596,8 +596,8 @@ AST Structure:
 │   │   width: 800├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)))`
-│   inner_content: `VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)))`
+│   full_match: `!!!!VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc))`
+│   inner_content: `VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc))`
 │   level: `4`
 │   children:
 │   ├── TextNode
@@ -610,10 +610,7 @@ AST Structure:
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`
-│   │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`
-│   ├── TextNode
-│   │   full_match: `)`
-│   │   inner_content: `)`├── TextNode
+│   │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;10814&quot; width=&quot;500&quot;}`
@@ -806,7 +803,7 @@ __[https://www.eyecareconcepts.com.au/myopia-epidemic.html|Myopia East Asia]__
 !!!!Global [https://nerdist.com/article/myopia-epidemic-growing-among-kids-causes-still-uncertain/|Myopia Epidemic 35% mid 2020&#39;s 52% by 2050]
 {img type=&quot;attId&quot; attId=&quot;19999&quot; width=&quot;800&quot;}
 ---
-!!!!VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)))
+!!!!VitaminDWiki ((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc))
 {img type=&quot;attId&quot; attId=&quot;10814&quot; width=&quot;500&quot;}
 ---
 !!!!Many people now believe that [https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/|less outdoors ==&gt; more Myopia]

@@ -40,7 +40,7 @@ Results: 21 cohort studies and 6 randomized trials were included. Compared with 
 
 Conclusions: Vitamin D deficiency and insufficiency are associated with a higher risk of all-cause and cardiovascular mortality in patients with type 2 diabetes or prediabetes. Vitamin D deficiency should be corrected in patients with type 2 diabetes to reach normal serum 25(OH)D concentrations, preferably 60 nmol/L.
 
-<!-- ~tc~ (alias(Diabetes increases chance of death (low vitamin D))) ~/tc~ -->
+<!-- ~tc~ (alias(Diabetes increases chance of death (low vitamin D)) ~/tc~ -->
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -76,7 +76,7 @@ Results: 21 cohort studies and 6 randomized trials were included. Compared with 
 
 Conclusions: Vitamin D deficiency and insufficiency are associated with a higher risk of all-cause and cardiovascular mortality in patients with type 2 diabetes or prediabetes. Vitamin D deficiency should be corrected in patients with type 2 diabetes to reach normal serum 25(OH)D concentrations, preferably 60 nmol/L.
 
-&lt;!-- ~tc~ (alias(Diabetes increases chance of death (low vitamin D))) ~/tc~ --&gt;
+&lt;!-- ~tc~ (alias(Diabetes increases chance of death (low vitamin D)) ~/tc~ --&gt;
 
 
 AST Structure:
@@ -156,12 +156,12 @@ AST Structure:
 │   │   inner_content: `Serum 25(OH)D Concentration, Vitamin D Supplementation, and Risk of Cardiovascular Disease and Mortality in Patients with Type 2 Diabetes or Prediabetes: a Systematic Review and Dose-Response Meta-Analysis`├── TextNode
 │   full_match: `\nThe American Journal of CLINICAL NUTRITION https://doi.org/10.1016/j.ajcnut.2023.07.012 PDF is behind a paywll\nAhmad Jayedi ’ , Mojtaba Daneshvar , Aliyu Tijani Jibril , John D. Sluyter , Mary Waterhouse , Briony Duarte Romero 4, Rachel E. Neale4, JoAnn E. Manson5, Sakineh Shab-Bidar 2’\n\nBackground: Evidence is uncertain about the association between serum 25-hydroxyvitamin D (25(OH)D) concentration and health outcomes in people with type 2 diabetes.\n\nObjectives: We aimed to assess the association between vitamin D status and all-cause mortality and cardiovascular disease in people with type 2 diabetes. Methods: We did a systematic search in PubMed, Scopus, CENTRAL, and Web of Science until May 2022. We selected 1) cohort studies investigating the association between serum 25(OH)D concentration and mortality or cardiovascular disease in people with type 2 diabetes or prediabetes and 2) randomized trials of vitamin D supplementation in these patients. We used random-effects pairwise meta-analyses to calculate summary relative risks (RRs) and 95% confidence intervals (CI).\n\nResults: 21 cohort studies and 6 randomized trials were included. Compared with sufficient vitamin D status (&gt;50 nmol/L), the RR of all-cause mortality was 1.36 (95% CI: 1.23, 1.49; n = 11 studies, GRADE = moderate) for vitamin D insufficiency (25 to &lt;50 nmol/L), and 1.58 (1.33, 1.83; n = 16, GRADE = moderate) for deficiency (&lt;25 nmol/L). Similar findings were observed for cardiovascular mortality and morbidity but not for cancer mortality. The certainty of evidence ranged from very low to moderate. Dose-response meta-analyses indicated nonlinear associations, with the lowest risk at 25(OH)D ~60 nmol/L for all-cause and cardiovascular mortality. Supplementation with vitamin D did not reduce the risk of all-cause mortality (RR: 0.96, 95% CI: 0.79, 1.16; risk difference per 1000 patients: 3 fewer, 95% CI: 16 fewer, 12 more; n = 6 trials with 7316 participants; GRADE = low) or the risk of cardiovascular mortality and morbidity (very low- to low-certainty evidence).\n\nConclusions: Vitamin D deficiency and insufficiency are associated with a higher risk of all-cause and cardiovascular mortality in patients with type 2 diabetes or prediabetes. Vitamin D deficiency should be corrected in patients with type 2 diabetes to reach normal serum 25(OH)D concentrations, preferably 60 nmol/L.\n\n`
 │   inner_content: `\nThe American Journal of CLINICAL NUTRITION https://doi.org/10.1016/j.ajcnut.2023.07.012 PDF is behind a paywll\nAhmad Jayedi ’ , Mojtaba Daneshvar , Aliyu Tijani Jibril , John D. Sluyter , Mary Waterhouse , Briony Duarte Romero 4, Rachel E. Neale4, JoAnn E. Manson5, Sakineh Shab-Bidar 2’\n\nBackground: Evidence is uncertain about the association between serum 25-hydroxyvitamin D (25(OH)D) concentration and health outcomes in people with type 2 diabetes.\n\nObjectives: We aimed to assess the association between vitamin D status and all-cause mortality and cardiovascular disease in people with type 2 diabetes. Methods: We did a systematic search in PubMed, Scopus, CENTRAL, and Web of Science until May 2022. We selected 1) cohort studies investigating the association between serum 25(OH)D concentration and mortality or cardiovascular disease in people with type 2 diabetes or prediabetes and 2) randomized trials of vitamin D supplementation in these patients. We used random-effects pairwise meta-analyses to calculate summary relative risks (RRs) and 95% confidence intervals (CI).\n\nResults: 21 cohort studies and 6 randomized trials were included. Compared with sufficient vitamin D status (&gt;50 nmol/L), the RR of all-cause mortality was 1.36 (95% CI: 1.23, 1.49; n = 11 studies, GRADE = moderate) for vitamin D insufficiency (25 to &lt;50 nmol/L), and 1.58 (1.33, 1.83; n = 16, GRADE = moderate) for deficiency (&lt;25 nmol/L). Similar findings were observed for cardiovascular mortality and morbidity but not for cancer mortality. The certainty of evidence ranged from very low to moderate. Dose-response meta-analyses indicated nonlinear associations, with the lowest risk at 25(OH)D ~60 nmol/L for all-cause and cardiovascular mortality. Supplementation with vitamin D did not reduce the risk of all-cause mortality (RR: 0.96, 95% CI: 0.79, 1.16; risk difference per 1000 patients: 3 fewer, 95% CI: 16 fewer, 12 more; n = 6 trials with 7316 participants; GRADE = low) or the risk of cardiovascular mortality and morbidity (very low- to low-certainty evidence).\n\nConclusions: Vitamin D deficiency and insufficiency are associated with a higher risk of all-cause and cardiovascular mortality in patients with type 2 diabetes or prediabetes. Vitamin D deficiency should be corrected in patients with type 2 diabetes to reach normal serum 25(OH)D concentrations, preferably 60 nmol/L.\n\n`├── TikiCommentNode
-│   full_match: `~tc~ (alias(Diabetes increases chance of death (low vitamin D))) ~/tc~`
-│   inner_content: ` (alias(Diabetes increases chance of death (low vitamin D))) `
+│   full_match: `~tc~ (alias(Diabetes increases chance of death (low vitamin D)) ~/tc~`
+│   inner_content: ` (alias(Diabetes increases chance of death (low vitamin D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: `(alias(Diabetes increases chance of death (low vitamin D))) `
-│   │   inner_content: `(alias(Diabetes increases chance of death (low vitamin D))) `
+│   │   full_match: `(alias(Diabetes increases chance of death (low vitamin D)) `
+│   │   inner_content: `(alias(Diabetes increases chance of death (low vitamin D)) `
 
 Original Tiki:
 -------------
@@ -184,6 +184,6 @@ Results: 21 cohort studies and 6 randomized trials were included. Compared with 
 
 Conclusions: Vitamin D deficiency and insufficiency are associated with a higher risk of all-cause and cardiovascular mortality in patients with type 2 diabetes or prediabetes. Vitamin D deficiency should be corrected in patients with type 2 diabetes to reach normal serum 25(OH)D concentrations, preferably 60 nmol/L.
 
-~tc~ (alias(Diabetes increases chance of death (low vitamin D))) ~/tc~
+~tc~ (alias(Diabetes increases chance of death (low vitamin D)) ~/tc~
 </code>
 </pre>

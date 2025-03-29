@@ -277,7 +277,7 @@ This list is automatically updated
 
  **ShortURL = https://is.gd/teethD** 
 
-<!-- ~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript))) ~/tc~ -->
+<!-- ~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript)) ~/tc~ -->
 
 <!-- ~tc~ (alias(Peridontal Disease and Vitamin D (Video with Transcript) Grant July 2023)) ~/tc~ -->
 
@@ -556,7 +556,7 @@ This list is automatically updated
 
  **ShortURL = https://is.gd/teethD** 
 
-&lt;!-- ~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript))) ~/tc~ --&gt;
+&lt;!-- ~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript)) ~/tc~ --&gt;
 
 &lt;!-- ~tc~ (alias(Peridontal Disease and Vitamin D (Video with Transcript) Grant July 2023)) ~/tc~ --&gt;
 
@@ -1530,12 +1530,12 @@ AST Structure:
 │   │   inner_content: `ShortURL = https://is.gd/teethD`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── TikiCommentNode
-│   full_match: `~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript))) ~/tc~`
-│   inner_content: ` (alias(peridontal Disease an Vitamin D (Video with Transcript))) `
+│   full_match: `~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript)) ~/tc~`
+│   inner_content: ` (alias(peridontal Disease an Vitamin D (Video with Transcript)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: `(alias(peridontal Disease an Vitamin D (Video with Transcript))) `
-│   │   inner_content: `(alias(peridontal Disease an Vitamin D (Video with Transcript))) `├── TextNode
+│   │   full_match: `(alias(peridontal Disease an Vitamin D (Video with Transcript)) `
+│   │   inner_content: `(alias(peridontal Disease an Vitamin D (Video with Transcript)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Peridontal Disease and Vitamin D (Video with Transcript) Grant July 2023)) ~/tc~`
@@ -1782,7 +1782,7 @@ __[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=(periodontal+O
 ---
 __ShortURL = https://is.gd/teethD__
 
-~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript))) ~/tc~
+~tc~ (alias(peridontal Disease an Vitamin D (Video with Transcript)) ~/tc~
 ~tc~ (alias(Peridontal Disease and Vitamin D (Video with Transcript) Grant July 2023)) ~/tc~
 ~tc~ (alias(Peridontal Disease and Vitamin D - interview and transcript - Grant July 2023)) ~/tc~
 ~tc~ (alias(Peridontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023)) ~/tc~

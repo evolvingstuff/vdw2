@@ -107,7 +107,7 @@ This list is automatically updated
 
 <!-- ~tc~ (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) ~/tc~ -->
 
-<!-- ~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) ~/tc~ -->
+<!-- ~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) ~/tc~ -->
 
 <!-- ~tc~ (alias(Large dose Vitamin D helps before surgery, 35 studies)) ~/tc~ -->
 
@@ -209,7 +209,7 @@ This list is automatically updated
 
 &lt;!-- ~tc~ (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) ~/tc~ --&gt;
 
-&lt;!-- ~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) ~/tc~ --&gt;
+&lt;!-- ~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) ~/tc~ --&gt;
 
 &lt;!-- ~tc~ (alias(Large dose Vitamin D helps before surgery, 35 studies)) ~/tc~ --&gt;
 
@@ -572,12 +572,12 @@ AST Structure:
 │   │   inner_content: `(alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) ~/tc~`
-│   inner_content: ` (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `
+│   full_match: `~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) ~/tc~`
+│   inner_content: ` (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `
-│   │   inner_content: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `├── TextNode
+│   │   full_match: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) `
+│   │   inner_content: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Large dose Vitamin D helps before surgery, 35 studies)) ~/tc~`
@@ -647,7 +647,7 @@ This study did not receive any grants and funding. The authors declare that they
 &#39;&#39;This list is automatically updated&#39;&#39;
 {category id=&quot;73+64&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ~tc~ (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) ~/tc~
-~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) ~/tc~
+~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case)) ~/tc~
 ~tc~ (alias(Large dose Vitamin D helps before surgery, 35 studies)) ~/tc~
 </code>
 </pre>

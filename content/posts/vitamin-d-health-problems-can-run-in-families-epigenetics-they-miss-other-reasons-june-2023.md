@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: (Many reasons why vitamin D deficiency has become epidemic">(Many reasons why vitamin D deficiency has become epidemic</a> only some of them are genetics
+#### VitaminDWiki - <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> only some of them are genetics
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -149,7 +149,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: (Many reasons why vitamin D deficiency has become epidemic&quot;&gt;(Many reasons why vitamin D deficiency has become epidemic&lt;/a&gt; only some of them are genetics
+#### VitaminDWiki - &lt;a href=&quot;/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic&quot;&gt;Many reasons why vitamin D deficiency has become epidemic&lt;/a&gt; only some of them are genetics
 
 
 AST Structure:
@@ -350,21 +350,21 @@ AST Structure:
 │   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;EPIGENETICS &quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki - (((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics`
-│   inner_content: `VitaminDWiki - (((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics`
+│   full_match: `!!!!VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics`
+│   inner_content: `VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
-│   │   full_match: `(((Many reasons why vitamin D deficiency has become epidemic))`
-│   │   inner_content: `(Many reasons why vitamin D deficiency has become epidemic`
-│   │   page: `(Many reasons why vitamin D deficiency has become epidemic`
+│   │   full_match: `((Many reasons why vitamin D deficiency has become epidemic))`
+│   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   page: `Many reasons why vitamin D deficiency has become epidemic`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `(Many reasons why vitamin D deficiency has become epidemic`
-│   │   │   inner_content: `(Many reasons why vitamin D deficiency has become epidemic`
+│   │   │   full_match: `Many reasons why vitamin D deficiency has become epidemic`
+│   │   │   inner_content: `Many reasons why vitamin D deficiency has become epidemic`
 │   ├── TextNode
 │   │   full_match: ` only some of them are genetics`
 │   │   inner_content: ` only some of them are genetics`
@@ -416,6 +416,6 @@ __Includes a section &quot;Gene studies of health problems which run in families
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
 {LIST}
 ---
-!!!!VitaminDWiki - (((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics
+!!!!VitaminDWiki - ((Many reasons why vitamin D deficiency has become epidemic)) only some of them are genetics
 </code>
 </pre>

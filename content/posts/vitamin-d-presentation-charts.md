@@ -248,7 +248,7 @@ image is in All Vitamin D 2023
 
  **Short URL = [https://is.gd/vitdiceland](https://is.gd/vitdiceland)** 
 
-<!-- ~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) ~/tc~ -->
+<!-- ~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) ~/tc~ -->
 
 <!-- ~tc~ (alias(Vitamin D presentation Charts - March 2023)) ~/tc~ -->
 
@@ -497,7 +497,7 @@ image is in All Vitamin D 2023
 
  **Short URL = [https://is.gd/vitdiceland](https://is.gd/vitdiceland)** 
 
-&lt;!-- ~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) ~/tc~ --&gt;
+&lt;!-- ~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) ~/tc~ --&gt;
 
 &lt;!-- ~tc~ (alias(Vitamin D presentation Charts - March 2023)) ~/tc~ --&gt;
 
@@ -2951,12 +2951,12 @@ AST Structure:
 │   │   │   inner_content: `https://is.gd/vitdiceland`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) ~/tc~`
-│   inner_content: ` (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) `
+│   full_match: `~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) ~/tc~`
+│   inner_content: ` (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: `(alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) `
-│   │   inner_content: `(alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) `├── TextNode
+│   │   full_match: `(alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) `
+│   │   inner_content: `(alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D presentation Charts - March 2023)) ~/tc~`
@@ -3155,7 +3155,7 @@ __[https://VitaminDWiki.com/tiki-index.php?page_id=4293|Click here for details]_
 ~/tc~
 ---
 __Short URL = [https://is.gd/vitdiceland]__
-~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese))) ~/tc~
+~tc~ (alias(Vitamin D levels when taking 50,000 IU weekly (more if obese)) ~/tc~
 ~tc~ (alias(Vitamin D presentation Charts - March 2023)) ~/tc~
 </code>
 </pre>

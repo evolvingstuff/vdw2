@@ -41,7 +41,7 @@ In conclusion, while Vitamin D is essential for overall health, many individuals
 
 ---
 
-#### 20 recently changed items in <a href="/posts/vitamin-d-and-boron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: (Vitamin D and Boron">(Vitamin D and Boron</a> category
+#### 20 recently changed items in [Vitamin D and Boron](/categories/vitamin-d-and-boron) category
 
 This list is automatically updated
 
@@ -82,7 +82,7 @@ In conclusion, while Vitamin D is essential for overall health, many individuals
 
 ---
 
-#### 20 recently changed items in &lt;a href=&quot;/posts/vitamin-d-and-boron&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: (Vitamin D and Boron&quot;&gt;(Vitamin D and Boron&lt;/a&gt; category
+#### 20 recently changed items in [Vitamin D and Boron](/categories/vitamin-d-and-boron) category
 
 This list is automatically updated
 
@@ -236,21 +236,21 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!20 recently changed items in (((Vitamin D and Boron)) category`
-│   inner_content: `20 recently changed items in (((Vitamin D and Boron)) category`
+│   full_match: `!!!!20 recently changed items in ((Vitamin D and Boron)) category`
+│   inner_content: `20 recently changed items in ((Vitamin D and Boron)) category`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `20 recently changed items in `
 │   │   inner_content: `20 recently changed items in `
 │   ├── LocalLinkNode
-│   │   full_match: `(((Vitamin D and Boron))`
-│   │   inner_content: `(Vitamin D and Boron`
-│   │   page: `(Vitamin D and Boron`
+│   │   full_match: `((Vitamin D and Boron))`
+│   │   inner_content: `Vitamin D and Boron`
+│   │   page: `Vitamin D and Boron`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `(Vitamin D and Boron`
-│   │   │   inner_content: `(Vitamin D and Boron`
+│   │   │   full_match: `Vitamin D and Boron`
+│   │   │   inner_content: `Vitamin D and Boron`
 │   ├── TextNode
 │   │   full_match: ` category`
 │   │   inner_content: ` category`├── TextNode
@@ -302,7 +302,7 @@ In conclusion, while Vitamin D is essential for overall health, many individuals
 !!!VitaminDWiki – ((Vitamin D and Boron)) contains:
 {include page=&quot;Vitamin D and Boron&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!20 recently changed items in (((Vitamin D and Boron)) category
+!!!!20 recently changed items in ((Vitamin D and Boron)) category
 &#39;&#39;This list is automatically updated&#39;&#39;
 {DIV(class=&quot;hide2columns&quot;)}{LISTPAGES(categId=119, max=20, sort=&quot;lastModif_desc&quot;)} {LISTPAGES}{DIV}
 </code>

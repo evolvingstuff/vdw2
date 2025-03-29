@@ -44,9 +44,9 @@ page under construction
 
 &nbsp;&nbsp;<a href="/posts/vitamin-d-daily-evolution-4000-iu-government-800-iu-veith" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022">Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022</a>
 
-&nbsp;&nbsp;<a href="/posts/4000-iu-of-vitamin-d-is-too-small-a-dose-to-help-obese-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: (4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022">(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022</a>
+&nbsp;&nbsp;<a href="/posts/4000-iu-of-vitamin-d-is-too-small-a-dose-to-help-obese-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022">4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022</a>
 
-&nbsp;&nbsp;<a href="/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: (4,000 IU of Vitamin D is OK - 19 organizations agree - 2018">(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018</a>
+&nbsp;&nbsp;<a href="/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D is OK - 19 organizations agree - 2018">4,000 IU of Vitamin D is OK - 19 organizations agree - 2018</a>
 
 0:05:58.6  **Patrick**  And what I mean by a steroid hormone, most people think about estrogen, testosterone. Those are steroid hormones. Like imagine if 70% of the men in the United States were deficient in testosterone, they would be terrible. So vitamin D is basically very different because it basically can enter what's called the nucleus of a cell, and that is where all your DNA is, and it can basically recognize this little sequence of DNA, and it basically binds to a receptor and it binds to your DNA and turns genes on, activates them and turns other genes off and deactivate them in this coordinated fashion, and these are genes that are important from everything from brain function so serotonin is one, it's important for the synthesis of serotonin in the brain to immune function, and it's why Vitamin D plays such a critical role in helping prevent respiratory diseases and so...
 
@@ -148,9 +148,9 @@ page under construction
 
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/vitamin-d-daily-evolution-4000-iu-government-800-iu-veith&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022&quot;&gt;Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/4000-iu-of-vitamin-d-is-too-small-a-dose-to-help-obese-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: (4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022&quot;&gt;(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/4000-iu-of-vitamin-d-is-too-small-a-dose-to-help-obese-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022&quot;&gt;4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: (4,000 IU of Vitamin D is OK - 19 organizations agree - 2018&quot;&gt;(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4,000 IU of Vitamin D is OK - 19 organizations agree - 2018&quot;&gt;4,000 IU of Vitamin D is OK - 19 organizations agree - 2018&lt;/a&gt;
 
 0:05:58.6  **Patrick**  And what I mean by a steroid hormone, most people think about estrogen, testosterone. Those are steroid hormones. Like imagine if 70% of the men in the United States were deficient in testosterone, they would be terrible. So vitamin D is basically very different because it basically can enter what&#39;s called the nucleus of a cell, and that is where all your DNA is, and it can basically recognize this little sequence of DNA, and it basically binds to a receptor and it binds to your DNA and turns genes on, activates them and turns other genes off and deactivate them in this coordinated fashion, and these are genes that are important from everything from brain function so serotonin is one, it&#39;s important for the synthesis of serotonin in the brain to immune function, and it&#39;s why Vitamin D plays such a critical role in helping prevent respiratory diseases and so...
 
@@ -358,8 +358,8 @@ AST Structure:
 │   │   inner_content: `Patrick`├── TextNode
 │   full_match: ` You start to run the risk of bone problems and severe others have types of server problems, immune dysfunction, for example, people that are deficient and supplement with about 4000 IUs per day, can bring herself up to a sufficient level closer above 30 nanograms per mil, perhaps even closer to 40 and 4000 IUs per day is actually the tolerable upper intake set by the instate medicine for vitamin D3, and I just want to mention, vitamin D is unique among the vitamins because it&#39;s actually, it gets converted into a steroid hormone, so Vitamin D3 goes to the liver, it&#39;s converted to another metabolite called 25 hydroxy Vitamin D, that&#39;s the major circulating metabolite of vitamin D that&#39;s usually measured if you get a blood test, and then it goes to the kidneys where it&#39;s unconverted into the steroid hormone that&#39;s 125-hydroxy Vitamin D.\n`
 │   inner_content: ` You start to run the risk of bone problems and severe others have types of server problems, immune dysfunction, for example, people that are deficient and supplement with about 4000 IUs per day, can bring herself up to a sufficient level closer above 30 nanograms per mil, perhaps even closer to 40 and 4000 IUs per day is actually the tolerable upper intake set by the instate medicine for vitamin D3, and I just want to mention, vitamin D is unique among the vitamins because it&#39;s actually, it gets converted into a steroid hormone, so Vitamin D3 goes to the liver, it&#39;s converted to another metabolite called 25 hydroxy Vitamin D, that&#39;s the major circulating metabolite of vitamin D that&#39;s usually measured if you get a blood test, and then it goes to the kidneys where it&#39;s unconverted into the steroid hormone that&#39;s 125-hydroxy Vitamin D.\n`├── DivNode
-│   full_match: `{DIV(style=&quot;font-size:20px;&quot;)} ~hs~~hs~((Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022))\n~hs~~hs~(((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))\n~hs~~hs~(((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018)){DIV}`
-│   inner_content: ` ~hs~~hs~((Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022))\n~hs~~hs~(((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))\n~hs~~hs~(((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018))`
+│   full_match: `{DIV(style=&quot;font-size:20px;&quot;)} ~hs~~hs~((Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022))\n~hs~~hs~((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))\n~hs~~hs~((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018)){DIV}`
+│   inner_content: ` ~hs~~hs~((Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022))\n~hs~~hs~((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))\n~hs~~hs~((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018))`
 │   attrs_dict:
 │   │   raw_content: (style=&quot;font-size:20px;&quot;)
 │   │   style: font-size:20px;
@@ -384,13 +384,13 @@ AST Structure:
 │   │   inner_content: ``
 │   │   repetitions: `2`
 │   ├── LocalLinkNode
-│   │   full_match: `(((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))`
-│   │   inner_content: `(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
-│   │   page: `(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
+│   │   full_match: `((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))`
+│   │   inner_content: `4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
+│   │   page: `4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
-│   │   │   inner_content: `(4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
+│   │   │   full_match: `4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
+│   │   │   inner_content: `4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
@@ -399,13 +399,13 @@ AST Structure:
 │   │   inner_content: ``
 │   │   repetitions: `2`
 │   ├── LocalLinkNode
-│   │   full_match: `(((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018))`
-│   │   inner_content: `(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
-│   │   page: `(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
+│   │   full_match: `((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018))`
+│   │   inner_content: `4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
+│   │   page: `4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
-│   │   │   inner_content: `(4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`├── TextNode
+│   │   │   full_match: `4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`
+│   │   │   inner_content: `4,000 IU of Vitamin D is OK - 19 organizations agree - 2018`├── TextNode
 │   full_match: `\n\n0:05:58.6 `
 │   inner_content: `\n\n0:05:58.6 `├── BoldNode
 │   full_match: `__Patrick__`
@@ -585,8 +585,8 @@ page under construction
 !!!!!4,000 IU ==&gt; steroid hormone
 0:04:55.8 __Patrick__ You start to run the risk of bone problems and severe others have types of server problems, immune dysfunction, for example, people that are deficient and supplement with about 4000 IUs per day, can bring herself up to a sufficient level closer above 30 nanograms per mil, perhaps even closer to 40 and 4000 IUs per day is actually the tolerable upper intake set by the instate medicine for vitamin D3, and I just want to mention, vitamin D is unique among the vitamins because it&#39;s actually, it gets converted into a steroid hormone, so Vitamin D3 goes to the liver, it&#39;s converted to another metabolite called 25 hydroxy Vitamin D, that&#39;s the major circulating metabolite of vitamin D that&#39;s usually measured if you get a blood test, and then it goes to the kidneys where it&#39;s unconverted into the steroid hormone that&#39;s 125-hydroxy Vitamin D.
 {DIV(style=&quot;font-size:20px;&quot;)} ~hs~~hs~((Vitamin D daily - Evolution: 4,000 IU, Government: 800 IU– Veith Oct 2022))
-~hs~~hs~(((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))
-~hs~~hs~(((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018)){DIV}
+~hs~~hs~((4,000 IU of Vitamin D is too small a dose to help Obese - RCT Feb 2022))
+~hs~~hs~((4,000 IU of Vitamin D is OK - 19 organizations agree - 2018)){DIV}
 
 0:05:58.6 __Patrick__ And what I mean by a steroid hormone, most people think about estrogen, testosterone. Those are steroid hormones. Like imagine if 70% of the men in the United States were deficient in testosterone, they would be terrible. So vitamin D is basically very different because it basically can enter what&#39;s called the nucleus of a cell, and that is where all your DNA is, and it can basically recognize this little sequence of DNA, and it basically binds to a receptor and it binds to your DNA and turns genes on, activates them and turns other genes off and deactivate them in this coordinated fashion, and these are genes that are important from everything from brain function so serotonin is one, it&#39;s important for the synthesis of serotonin in the brain to immune function, and it&#39;s why Vitamin D plays such a critical role in helping prevent respiratory diseases and so...
 
