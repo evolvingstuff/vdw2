@@ -64,9 +64,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * Snippits / / / / / / / / / /
 
-* [Vitamin D meta-analyses of Virus 37+ studies](https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
+* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
 
-* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
+* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
 
 * Left Column / / / / / / / / 
 
@@ -230,7 +230,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Depression](/categories/depression) (254+)
 
-* [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies) ( 11+) 
 
 * <span>[tiki-index.php?page_id=7681]</span> (29) depression
 
@@ -870,11 +870,11 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * <a href="/posts/top-charts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Top Charts">Top Charts</a> ~20 most popular charts in VitaminDWiki
 
-* [Quickly search for a chart on VitaminDWiki](https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
 
 * <a href="/posts/variety-of-evidence-that-vitamin-d-helps-the-brain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014">Variety of evidence that Vitamin D helps the brain – July 2014</a> charts
 
-* [Seach for charts on a topic](https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
 
 * <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> i.e. Diabetes increases the risk of 10 diseases
 
@@ -3886,9 +3886,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * Snippits / / / / / / / / / /
 
-* [Vitamin D meta-analyses of Virus 37+ studies](https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
+* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
 
-* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
+* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
 
 * Left Column / / / / / / / / 
 
@@ -4052,7 +4052,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Depression](/categories/depression) (254+)
 
-* [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies) ( 11+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=7681]&lt;/span&gt; (29) depression
 
@@ -4692,11 +4692,11 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * &lt;a href=&quot;/posts/top-charts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Top Charts&quot;&gt;Top Charts&lt;/a&gt; ~20 most popular charts in VitaminDWiki
 
-* [Quickly search for a chart on VitaminDWiki](https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
 
 * &lt;a href=&quot;/posts/variety-of-evidence-that-vitamin-d-helps-the-brain&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014&quot;&gt;Variety of evidence that Vitamin D helps the brain – July 2014&lt;/a&gt; charts
 
-* [Seach for charts on a topic](https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
 
 * &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;Diseases that may be related via low vitamin D&lt;/a&gt; i.e. Diabetes increases the risk of 10 diseases
 
@@ -7757,28 +7757,28 @@ AST Structure:
 │   │   inner_content: `Snippits / / / / / / / / / /`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
-│   inner_content: `[https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
+│   full_match: `*[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
+│   inner_content: `[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
+│   │   full_match: `[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]`
 │   │   inner_content: `Vitamin D meta-analyses of Virus 37+ studies`
-│   │   url: `https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies`
+│   │   url: `https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D meta-analyses of Virus 37+ studies`
 │   │   │   inner_content: `Vitamin D meta-analyses of Virus 37+ studies`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
-│   inner_content: `[https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
+│   full_match: `*[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
+│   inner_content: `[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
+│   │   full_match: `[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]`
 │   │   inner_content: `VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos`
-│   │   url: `https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos`
+│   │   url: `https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos`
@@ -9138,14 +9138,14 @@ AST Structure:
 │   │   inner_content: ` (254+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `* [https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) `
-│   inner_content: ` [https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) `
+│   full_match: `* [https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) `
+│   inner_content: ` [https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) `
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety]`
+│   │   full_match: `[https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety]`
 │   │   inner_content: `Anxiety`
-│   │   url: `https://vitamindwiki.com/Depression#Anxiety_studies`
+│   │   url: `https://VitaminDWiki.com/Depression#Anxiety_studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Anxiety`
@@ -14400,14 +14400,14 @@ AST Structure:
 │   │   inner_content: ` ~20 most popular charts in VitaminDWiki`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
-│   inner_content: `[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
+│   full_match: `*[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
+│   inner_content: `[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
+│   │   full_match: `[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]`
 │   │   inner_content: `Quickly search for a chart on VitaminDWiki`
-│   │   url: `https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google`
+│   │   url: `https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Quickly search for a chart on VitaminDWiki`
@@ -14431,14 +14431,14 @@ AST Structure:
 │   │   inner_content: ` charts`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
-│   inner_content: `[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
+│   full_match: `*[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
+│   inner_content: `[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
+│   │   full_match: `[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]`
 │   │   inner_content: `Seach for charts on a topic`
-│   │   url: `https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google`
+│   │   url: `https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Seach for charts on a topic`
@@ -35127,8 +35127,8 @@ __You can also search in another language__
 &#39;&#39;Please email me if you have suggestions or questions&#39;&#39; __[hlahore@gmail.com]__
 ---
 *Snippits / / / / / / / / / /
-*[https://vitamindwiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]
-*[https://vitamindwiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]
+*[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies|Vitamin D meta-analyses of Virus 37+ studies]
+*[https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos|VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos]
 *Left Column / / / / / / / / 
 *((Acne)) (20+ studies) 
 *((ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD)) (44+)
@@ -35210,7 +35210,7 @@ __You can also search in another language__
 *((Cystic Fibrosis)) (50+)
 *((Dental)) (101+)Oral Health 
 *((Depression)) (254+)
-* [https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) 
+* [https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) 
 * [tiki-index.php?page_id=7681|Omega-3] (29) depression
 *((Diabetes)) (526+) 
 *((Overview Diabetes and vitamin D))
@@ -35530,9 +35530,9 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 *((Vitamin D decreases incidence of disease)) charts
 *((Vitamin D charts from GrassrootsHealth - May 2016))
 *((Top Charts)) ~20 most popular charts in VitaminDWiki
-*[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]
+*[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Quickly search for a chart on VitaminDWiki]
 *((Variety of evidence that Vitamin D helps the brain – July 2014)) charts
-*[https://vitamindwiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]
+*[https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google|Seach for charts on a topic]
 *((Diseases that may be related via low vitamin D)) i.e. Diabetes increases the risk of 10 diseases
 ---
 __Many studies__

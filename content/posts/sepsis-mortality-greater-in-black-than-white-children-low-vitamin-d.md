@@ -38,7 +38,7 @@ The word vitamin does not occur even once on the page
 
 * [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
 
-* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.vitamindwiki.com/tiki-index.php?page_id=1076) from JAMA 2007
+* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page_id=1076) from JAMA 2007
 
   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 
@@ -101,7 +101,7 @@ The word vitamin does not occur even once on the page
 
 * [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
 
-* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.vitamindwiki.com/tiki-index.php?page_id=1076) from JAMA 2007
+* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page_id=1076) from JAMA 2007
 
   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 
@@ -270,14 +270,14 @@ AST Structure:
 │   │   inner_content: ` NYT July 20, 2020`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://www.vitamindwiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007`
-│   inner_content: `[https://www.vitamindwiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007`
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://www.vitamindwiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D]`
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D]`
 │   │   inner_content: `Do blacks have a 5 year life penalty due to low vitamin D`
-│   │   url: `https://www.vitamindwiki.com/tiki-index.php?page_id=1076`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1076`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Do blacks have a 5 year life penalty due to low vitamin D`
@@ -529,7 +529,7 @@ The word vitamin does not occur even once on the page
 *((Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023))
 *((Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022))
 *[https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html|Dark-skinned children 3.4 X more likely to die after surgery than white skinned children] NYT July 20, 2020
-*[https://www.vitamindwiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1076|Do blacks have a 5 year life penalty due to low vitamin D] from JAMA 2007
 **Heart Disease 1.3 years, ((HIV)) 0.6 years, Perinatal death 0.5 years, ((Stroke)) 0.4 years, Lung cancer 0.3 years,
 **Other cancer 0.3 years, ((Diabetes)) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
 **((Hypertension)) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-((Depression)) ?

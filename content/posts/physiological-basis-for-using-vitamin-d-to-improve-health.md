@@ -629,7 +629,7 @@ Furthermore, 1a-hydroxylated synthetic vitamin D analogs, including 1,25(OH)D, a
 
 1. Wimalawansa, S.J. Global epidemic of coronavirus-COVID-19: What can we do to minimize risks. Eur. J. Biomed 2020, 7, 432438.
 
-1. Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
+1. Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
 
 1. Malinverni, S.; Ochogavia, Q.; Lecrenier, S.; Scorpinniti, M.; Preiser, J.-C.; Cotton, F.; Mols, P.; Bartiaux, M. Severe vitamin D deficiency in patients admitted to the emergency department with severe sepsis is associated with an increased 90-day mortality. Emerg. Med. J. 2022, 40, 36-41.
 
@@ -1290,7 +1290,7 @@ Furthermore, 1a-hydroxylated synthetic vitamin D analogs, including 1,25(OH)D, a
 
 1. Wimalawansa, S.J. Global epidemic of coronavirus-COVID-19: What can we do to minimize risks. Eur. J. Biomed 2020, 7, 432438.
 
-1. Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
+1. Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
 
 1. Malinverni, S.; Ochogavia, Q.; Lecrenier, S.; Scorpinniti, M.; Preiser, J.-C.; Cotton, F.; Mols, P.; Bartiaux, M. Severe vitamin D deficiency in patients admitted to the emergency department with severe sepsis is associated with an increased 90-day mortality. Emerg. Med. J. 2022, 40, 36-41.
 
@@ -5233,13 +5233,13 @@ AST Structure:
 │   │   inner_content: `Wimalawansa, S.J. Global epidemic of coronavirus-COVID-19: What can we do to minimize risks. Eur. J. Biomed 2020, 7, 432438.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
-│   full_match: `#Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
-│   inner_content: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
+│   full_match: `#Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
+│   inner_content: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
-│   │   inner_content: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`├── TextNode
+│   │   full_match: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`
+│   │   inner_content: `Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.\t2022,\t7,\t432-438. Available online:\thttps://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Malinverni, S.; Ochogavia, Q.; Lecrenier, S.; Scorpinniti, M.; Preiser, J.-C.; Cotton, F.; Mols, P.; Bartiaux, M. Severe vitamin D deficiency in patients admitted to the emergency department with severe sepsis is associated with an increased 90-day mortality. Emerg. Med. J. 2022, 40, 36-41.`
@@ -5702,7 +5702,7 @@ Furthermore, 1a-hydroxylated synthetic vitamin D analogs, including 1,25(OH)D, a
 #Tosoni, A.; Cossari, A.; Paratore, M.; Impagnatiello, M.; Passaro, G.; Vallone, C.V.; Zaccone, V.; Gasbarrini, A.; Addolorato, G.; De Cosmo, S.; et al. Delta-Procalcitonin and Vitamin D Can Predict Mortality of Internal Medicine Patients with Microbiological Identified Sepsis. Medicina 2021, 57, 331.
 #Balbin-Archi, C.C.; Álvarez-Oscco, I.; Chunga-Tume, P. Vitamin D deficiency as a COVID-19 mortality factor. Gac. Med. Mex. 2022, 158, 337.
 #Wimalawansa, S.J. Global epidemic of coronavirus-COVID-19: What can we do to minimize risks. Eur. J. Biomed 2020, 7, 432438.
-#Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://vitamindwiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
+#Lahore, H. COVID Is Predicted to Be a Pandemic That Could Be Stopped by High Doses of Vitamin D-Feb 2020. Euro J. Biomed. Pharm. Sci.	2022,	7,	432-438. Available online:	https://VitaminDWiki.com/COVID+predicted+to+be+a+pandemic+that+could+be+stopped+by+high+dose+vitamin+D+-+Feb+2020 (accessed on 6 February 2023).
 #Malinverni, S.; Ochogavia, Q.; Lecrenier, S.; Scorpinniti, M.; Preiser, J.-C.; Cotton, F.; Mols, P.; Bartiaux, M. Severe vitamin D deficiency in patients admitted to the emergency department with severe sepsis is associated with an increased 90-day mortality. Emerg. Med. J. 2022, 40, 36-41.
 #Fedson, D.S. Treating the host response to emerging virus diseases: Lessons learned from sepsis, pneumonia, influenza and Ebola. Ann. Transl. Med. 2016, 4, 421.
 #Quraishi, S.A.; Litonjua, A.A.; Moromizato, T.; Gibbons, F.K.; Camargo, C.A.; Giovannucci, E.; Christopher, K.B. Association between prehospital vitamin D status and hospital-acquired bloodstream infections. Am. J. Clin. Nutr. 2013, 98, 952-959.

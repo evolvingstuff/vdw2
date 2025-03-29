@@ -41,7 +41,7 @@ Conclusions: The findings of our study suggest that serum micronutrient levels e
 
 ####  <span style="color:orange;">23+</span> VitaminDWiki pages contain PERIODONTITIS in title
 
- **[VitaminDWiki pages containing PERIODONTITIS in title ](https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
+ **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
 
 ---
 
@@ -83,7 +83,7 @@ Conclusions: The findings of our study suggest that serum micronutrient levels e
 
 ####  &lt;span style=&quot;color:orange;&quot;&gt;23+&lt;/span&gt; VitaminDWiki pages contain PERIODONTITIS in title
 
- **[VitaminDWiki pages containing PERIODONTITIS in title ](https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
+ **[VitaminDWiki pages containing PERIODONTITIS in title ](https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title)** 
 
 ---
 
@@ -206,13 +206,13 @@ AST Structure:
 │   │   inner_content: ` VitaminDWiki pages contain PERIODONTITIS in title`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__[https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]__`
-│   inner_content: `[https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]`
+│   full_match: `__[https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]__`
+│   inner_content: `[https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]`
+│   │   full_match: `[https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]`
 │   │   inner_content: `VitaminDWiki pages containing PERIODONTITIS in title `
-│   │   url: `https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title`
+│   │   url: `https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `VitaminDWiki pages containing PERIODONTITIS in title `
@@ -272,7 +272,7 @@ Conclusions: The findings of our study suggest that serum micronutrient levels e
 {include page=&quot;Dental&quot; start=&quot;~tc~ xx ~/tc~&quot; stop=&quot;~tc~ yy ~/tc~&quot;}
 ---
 !!!!~~#F00:23+~~ VitaminDWiki pages contain PERIODONTITIS in title
-__[https://vitamindwiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]__
+__[https://VitaminDWiki.com/Severe+periodontitis+is+half+as+likely+at+60+ng+of+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_PERIODONTITIS_in_title|VitaminDWiki pages containing PERIODONTITIS in title ]__
 ---
 !!!!VitaminDWiki – ((Vitamin B12)) contains
 {include page=&quot;Vitamin B12&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}

@@ -15,7 +15,7 @@ categories:
 
 ---
 
-#### VitaminDwiki – [Virus](/categories/virus) category contains
+#### VitaminDWiki – [Virus](/categories/virus) category contains
 
 ---
 
@@ -35,7 +35,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki – [Virus](/categories/virus) category contains
+#### VitaminDWiki – [Virus](/categories/virus) category contains
 
 ---
 
@@ -63,13 +63,13 @@ AST Structure:
 │   │   │   Title: ├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Virus)) category contains`
-│   inner_content: `VitaminDwiki – ((Virus)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Virus)) category contains`
+│   inner_content: `VitaminDWiki – ((Virus)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Virus))`
 │   │   inner_content: `Virus`
@@ -145,7 +145,7 @@ Original Tiki:
 -------------
 {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
 ---
-!!!!VitaminDwiki – ((Virus)) category contains
+!!!!VitaminDWiki – ((Virus)) category contains
 {include page=&quot;Virus&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=155{SQL}~~ Virus articles

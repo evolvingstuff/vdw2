@@ -62,7 +62,7 @@ date: 2023-03-27
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764) |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php?page_id=13764) |
 | World | 73.3 |  |
 
 
@@ -125,7 +125,7 @@ Markdown:
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://vitamindwiki.com/tiki-index.php?page_id=13764) |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php?page_id=13764) |
 | World | 73.3 |  |
 
 
@@ -447,8 +447,8 @@ AST Structure:
 │   │   inner_content: ` 2020`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TableNode
-│   full_match: `||Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| ||`
-│   inner_content: `Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| `
+│   full_match: `||Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| ||`
+│   inner_content: `Japan|84.6|\nIceland|83.1|\nUK|80.9|\nUS|77.3|\nSaudi Arabia|76.6|[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]\nWorld|73.3| `
 │   children:
 │   ├── TableRowNode
 │   │   full_match: `Japan|84.6|`
@@ -535,8 +535,8 @@ AST Structure:
 │   │   │   full_match: ``
 │   │   │   inner_content: ``
 │   ├── TableRowNode
-│   │   full_match: `Saudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
-│   │   inner_content: `Saudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   full_match: `Saudi Arabia|76.6|[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   inner_content: `Saudi Arabia|76.6|[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
 │   │   children:
 │   │   ├── TableCellNode
 │   │   │   full_match: `Saudi Arabia`
@@ -553,13 +553,13 @@ AST Structure:
 │   │   │   │   full_match: `76.6`
 │   │   │   │   inner_content: `76.6`
 │   │   ├── TableCellNode
-│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
-│   │   │   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
 │   │   │   children:
 │   │   │   ├── LinkNode
-│   │   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
+│   │   │   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]`
 │   │   │   │   inner_content: `$1bn/year funding to increase it`
-│   │   │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13764`
+│   │   │   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13764`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
 │   │   │   │   │   full_match: `$1bn/year funding to increase it`
@@ -619,7 +619,7 @@ __Reminder: in the US Big Pharma just has to show that a new drug is better than
 Iceland|83.1|
 UK|80.9|
 US|77.3|
-Saudi Arabia|76.6|[https://vitamindwiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]
+Saudi Arabia|76.6|[https://VitaminDWiki.com/tiki-index.php?page_id=13764|$1bn/year funding to increase it]
 World|73.3| ||
 
 </code>

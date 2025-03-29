@@ -100,7 +100,7 @@ click on image for details
 
 ---
 
-#### VitaminDwiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
 
 ---
 
@@ -244,7 +244,7 @@ click on image for details
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
 
 ---
 
@@ -614,13 +614,13 @@ AST Structure:
 │   │   inner_content: `VitaminDWiki: Vitamin D is the 3rd best way to improve your health (but the most cost-effective and easiest)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
-│   full_match: `{img fileId=&quot;3287&quot; width =&quot;450&quot; link=https://vitamindwiki.com/tiki-index.php?page_id=10426}`
+│   full_match: `{img fileId=&quot;3287&quot; width =&quot;450&quot; link=https://VitaminDWiki.com/tiki-index.php?page_id=10426}`
 │   inner_content: ``
 │   attrs_dict:
-│   │   raw_content:  fileId=&quot;3287&quot; width =&quot;450&quot; link=https://vitamindwiki.com/tiki-index.php?page_id=10426
+│   │   raw_content:  fileId=&quot;3287&quot; width =&quot;450&quot; link=https://VitaminDWiki.com/tiki-index.php?page_id=10426
 │   │   fileId: 3287
 │   │   width: 450
-│   │   link: https://vitamindwiki.com/tiki-index.php?page_id=10426├── TextNode
+│   │   link: https://VitaminDWiki.com/tiki-index.php?page_id=10426├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── EmphasisNode
 │   full_match: `&#39;&#39;click on image for details&#39;&#39;`
@@ -680,13 +680,13 @@ AST Structure:
 │   │   inner_content: `and then later turned down`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Longevity and healthspan increased by Vitamin D - many studies))`
-│   inner_content: `VitaminDwiki - ((Longevity and healthspan increased by Vitamin D - many studies))`
+│   full_match: `!!!!VitaminDWiki - ((Longevity and healthspan increased by Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki - ((Longevity and healthspan increased by Vitamin D - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Longevity and healthspan increased by Vitamin D - many studies))`
 │   │   inner_content: `Longevity and healthspan increased by Vitamin D - many studies`
@@ -839,7 +839,7 @@ __[https://www.youtube.com/watch?v=VWeg3l3RBIM&amp;ab_channel=PlantChompers|YouT
 ---
 !!!!!He mentions again and again - diet + exercise ==&gt; Longevity
 __VitaminDWiki: Vitamin D is the 3rd best way to improve your health (but the most cost-effective and easiest)__
-{img fileId=&quot;3287&quot; width =&quot;450&quot; link=https://vitamindwiki.com/tiki-index.php?page_id=10426}
+{img fileId=&quot;3287&quot; width =&quot;450&quot; link=https://VitaminDWiki.com/tiki-index.php?page_id=10426}
 &#39;&#39;click on image for details&#39;&#39;
 
 __He notes: Exercise ==&gt; Longevity ==&gt; Happiness__
@@ -850,7 +850,7 @@ __Many of the books discuss the problems of too much protein (Keto diet)__
 __He points out that something like the Keto diet has been proposed many times of the centuries__
 __and then later turned down__
 ---
-!!!!VitaminDwiki - ((Longevity and healthspan increased by Vitamin D - many studies))
+!!!!VitaminDWiki - ((Longevity and healthspan increased by Vitamin D - many studies))
 ---
 !!!!24+ VitaminDWiki pages have LONGEVITY etc in the title
 &#39;&#39;This list is automatically updated&#39;&#39;

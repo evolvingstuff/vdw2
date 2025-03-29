@@ -27,7 +27,7 @@ categories:
 
 ---
 
-#### VitaminDwiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
 
  **that page was started Oct 2022** 
 
@@ -65,7 +65,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/long-covid-is-now-the-biggest-covid-concern-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies&quot;&gt;Long-COVID is now the biggest COVID concern - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/long-covid-is-now-the-biggest-covid-concern-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies&quot;&gt;Long-COVID is now the biggest COVID concern - many studies&lt;/a&gt;
 
  **that page was started Oct 2022** 
 
@@ -152,13 +152,13 @@ AST Structure:
 │   │   │   inner_content: `Survey was published July 2023`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Long-COVID is now the biggest COVID concern - many studies))`
-│   inner_content: `VitaminDwiki - ((Long-COVID is now the biggest COVID concern - many studies))`
+│   full_match: `!!!!VitaminDWiki - ((Long-COVID is now the biggest COVID concern - many studies))`
+│   inner_content: `VitaminDWiki - ((Long-COVID is now the biggest COVID concern - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Long-COVID is now the biggest COVID concern - many studies))`
 │   │   inner_content: `Long-COVID is now the biggest COVID concern - many studies`
@@ -248,7 +248,7 @@ __[https://www.mdedge.com/internalmedicine/article/265092/long-covid/one-five-do
 *&quot;Long COVID affects more than 65 million people worldwide. It is estimated that 1 in 10 people infected with the virus develop long-term symptoms. In the United Kingdom, health care and social care workers are seven times more likely to have had severe COVID-19 than other types of employees.&quot;
 __[https://www.bma.org.uk/bma-media-centre/first-major-survey-of-doctors-with-long-covid-reveals-debilitating-impact-on-health-life-and-work-and-wider-implications-for-workforce-and-health-services#:~:text=Of%20506%20doctors%20who%20answered,14%20(2.8%25)%20said%20retired|Survey was published July 2023]__
 ---
-!!!!VitaminDwiki - ((Long-COVID is now the biggest COVID concern - many studies))
+!!!!VitaminDWiki - ((Long-COVID is now the biggest COVID concern - many studies))
 __that page was started Oct 2022__
 ---
 !!!!VitaminDWiki – ((COVID-19 treated by Vitamin D - studies, reports, videos))

@@ -22,7 +22,7 @@ categories:
 
 ---
 
-#### See also VitaminDWiki &nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://vitamindwiki.com/tiki-index.php?page_id=13401)
+#### See also VitaminDWiki &nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://VitaminDWiki.com/tiki-index.php?page_id=13401)
 
 * [Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)
 
@@ -52,7 +52,7 @@ Markdown:
 
 ---
 
-#### See also VitaminDWiki &amp;nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://vitamindwiki.com/tiki-index.php?page_id=13401)
+#### See also VitaminDWiki &amp;nbsp; Note: [COVID decreases Vitamin D getting to cells for a long time](https://VitaminDWiki.com/tiki-index.php?page_id=13401)
 
 * [Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)
 
@@ -102,8 +102,8 @@ AST Structure:
 │   inner_content: `\n2 year rate: 196 ==&gt; 349 `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!See also VitaminDWiki ~hs~ Note: [https://vitamindwiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
-│   inner_content: `See also VitaminDWiki ~hs~ Note: [https://vitamindwiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
+│   full_match: `!!!!See also VitaminDWiki ~hs~ Note: [https://VitaminDWiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
+│   inner_content: `See also VitaminDWiki ~hs~ Note: [https://VitaminDWiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
 │   level: `4`
 │   children:
 │   ├── TextNode
@@ -117,9 +117,9 @@ AST Structure:
 │   │   full_match: ` Note: `
 │   │   inner_content: ` Note: `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]`
 │   │   inner_content: `COVID decreases Vitamin D getting to cells for a long time`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13401`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13401`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID decreases Vitamin D getting to cells for a long time`
@@ -198,7 +198,7 @@ __[https://www.trialsitenews.com/a/why-are-intracranial-tumors-breast-cancers-su
 __Benign neoplasm Brain infratentorial = tumors located in the cerebellum or brainstem__
 2 year rate: 196 ==&gt; 349 
 ---
-!!!!See also VitaminDWiki ~hs~ Note: [https://vitamindwiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]
+!!!!See also VitaminDWiki ~hs~ Note: [https://VitaminDWiki.com/tiki-index.php?page_id=13401|COVID decreases Vitamin D getting to cells for a long time]
 *((Multiple COVID vaccinations might increase Cancer Incidence - many studies))
 *((COVID vaccinations resulted in big increase in metabolic disorders - Nov 2023))
 *((Bone worse after COVID - several studies))

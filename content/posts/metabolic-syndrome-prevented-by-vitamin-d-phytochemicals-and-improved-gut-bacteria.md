@@ -45,7 +45,7 @@ Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut m
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
  **See also** 
 
@@ -61,7 +61,7 @@ Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut m
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) contains
 
 ---
 
@@ -108,7 +108,7 @@ Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut m
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
  **See also** 
 
@@ -124,7 +124,7 @@ Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut m
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) contains
 
 ---
 
@@ -224,13 +224,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Metabolic Syndrome)) contains`
-│   inner_content: `VitaminDwiki – ((Metabolic Syndrome)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Metabolic Syndrome)) contains`
+│   inner_content: `VitaminDWiki – ((Metabolic Syndrome)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Metabolic Syndrome))`
 │   │   inner_content: `Metabolic Syndrome`
@@ -329,13 +329,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Microbiome)) contains `
-│   inner_content: `VitaminDwiki – ((Microbiome)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Microbiome)) contains `
+│   inner_content: `VitaminDWiki – ((Microbiome)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Microbiome))`
 │   │   inner_content: `Microbiome`
@@ -409,7 +409,7 @@ The intake of these phytochemicals and vitamin D, along with prebiotics and prob
 Firmicutes are obese-prone gut microbiota and Bacteroidetes are lean-prone gut microbiota; good gut microbiota nurture regulatory T cells, which suppress inflammatory responses and upregulate immunity. Maintaining good gut microbiota suppresses TNF-α, an inflammatory cytokine that is also considered to be a pathogenic contributor adipokine, and prevents chronic inflammation, thereby helping to prevent metabolic syndrome. Maintaining good gut microbiota also enhances adiponectin, a protector adipokine that prevents metabolic syndrome. For the prevention of metabolic syndrome and the reduction of various disease risks, the intake of phytochemicals and vitamin D will be important for human health in the future.
 {FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19204&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Metabolic Syndrome)) contains
+!!!!VitaminDWiki – ((Metabolic Syndrome)) contains
 {include page=&quot;Metabolic Syndrome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 __See also__
 *((Gut Microbiota: improved by Vitamin D – narrative review – July 2021))
@@ -419,7 +419,7 @@ __See also__
 !!!!Metabolic Syndrome Associations with other categories
 {include page=&quot;Metabolic Syndrome&quot; start=&quot;~tc~ starta ~/tc~&quot; stop=&quot;~tc~ enda ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Microbiome)) contains 
+!!!!VitaminDWiki – ((Microbiome)) contains 
 {include page=&quot;Microbiome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 ---

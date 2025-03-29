@@ -52,7 +52,7 @@ Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine an
 
 ---
 
-#### 240+ [targets of the magic bullet](https://vitamindwiki.com/Health+Problems+and+D)
+#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health+Problems+and+D)
 
 ---
 
@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - <a href="/posts/vitamin-d-is-still-not-snake-oil" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is still NOT Snake oil - Sept 2015">Vitamin D is still NOT Snake oil - Sept 2015</a>
+#### VitaminDWiki - <a href="/posts/vitamin-d-is-still-not-snake-oil" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is still NOT Snake oil - Sept 2015">Vitamin D is still NOT Snake oil - Sept 2015</a>
 
 <!-- ~tc~ (alias(Yes, vitamin D can be a magic bullet)) ~/tc~ -->
 
@@ -131,7 +131,7 @@ Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine an
 
 ---
 
-#### 240+ [targets of the magic bullet](https://vitamindwiki.com/Health+Problems+and+D)
+#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health+Problems+and+D)
 
 ---
 
@@ -155,7 +155,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/vitamin-d-is-still-not-snake-oil&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is still NOT Snake oil - Sept 2015&quot;&gt;Vitamin D is still NOT Snake oil - Sept 2015&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-is-still-not-snake-oil&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is still NOT Snake oil - Sept 2015&quot;&gt;Vitamin D is still NOT Snake oil - Sept 2015&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Yes, vitamin D can be a magic bullet)) ~/tc~ --&gt;
 
@@ -335,17 +335,17 @@ AST Structure:
 │   inner_content: `\nWilliam B. Grant* Sunlight, Nutrition, and Health Research Center, P.O. Box 641603, San Francisco, CA, 94164-1603, USA\nBarbara J. Boucher The Blizard Institute Barts, The London School of Medicine and Dentistry, Queen Mary University of London, London, United Kingdom`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!240+ [https://vitamindwiki.com/Health+Problems+and+D|targets of the magic bullet]`
-│   inner_content: `240+ [https://vitamindwiki.com/Health+Problems+and+D|targets of the magic bullet]`
+│   full_match: `!!!!240+ [https://VitaminDWiki.com/Health+Problems+and+D|targets of the magic bullet]`
+│   inner_content: `240+ [https://VitaminDWiki.com/Health+Problems+and+D|targets of the magic bullet]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `240+ `
 │   │   inner_content: `240+ `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Health+Problems+and+D|targets of the magic bullet]`
+│   │   full_match: `[https://VitaminDWiki.com/Health+Problems+and+D|targets of the magic bullet]`
 │   │   inner_content: `targets of the magic bullet`
-│   │   url: `https://vitamindwiki.com/Health+Problems+and+D`
+│   │   url: `https://VitaminDWiki.com/Health+Problems+and+D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `targets of the magic bullet`
@@ -388,13 +388,13 @@ AST Structure:
 │   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;grant&quot; | &quot;migrant&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Vitamin D is still NOT Snake oil - Sept 2015))`
-│   inner_content: `VitaminDwiki - ((Vitamin D is still NOT Snake oil - Sept 2015))`
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D is still NOT Snake oil - Sept 2015))`
+│   inner_content: `VitaminDWiki - ((Vitamin D is still NOT Snake oil - Sept 2015))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Vitamin D is still NOT Snake oil - Sept 2015))`
 │   │   inner_content: `Vitamin D is still NOT Snake oil - Sept 2015`
@@ -448,7 +448,7 @@ Evidence for health benefits of better vitamin D status also comes from ecologic
 William B. Grant* Sunlight, Nutrition, and Health Research Center, P.O. Box 641603, San Francisco, CA, 94164-1603, USA
 Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine and Dentistry, Queen Mary University of London, London, United Kingdom
 ---
-!!!!240+ [https://vitamindwiki.com/Health+Problems+and+D|targets of the magic bullet]
+!!!!240+ [https://VitaminDWiki.com/Health+Problems+and+D|targets of the magic bullet]
 ---
 !!!!~~#F06:50+~~  VitaminDWiki pages with GRANT in the title 
 &#39;&#39;This list is automatically updated&#39;&#39;
@@ -466,7 +466,7 @@ Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine an
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
 {LIST}
 ---
-!!!!VitaminDwiki - ((Vitamin D is still NOT Snake oil - Sept 2015))
+!!!!VitaminDWiki - ((Vitamin D is still NOT Snake oil - Sept 2015))
 
 ~tc~ (alias(Yes, vitamin D can be a magic bullet)) ~/tc~
 ~tc~ (alias(Yes, Vitamin D can be a magic bullet - March 2020)) ~/tc~

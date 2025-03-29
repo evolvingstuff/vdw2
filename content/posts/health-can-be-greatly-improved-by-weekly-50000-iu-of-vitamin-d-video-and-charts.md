@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023  &nbsp;&nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023  &nbsp;&nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php?page_id=14301)** 
 
 <!-- {maketoc title="charts WITHOUT transcript"} -->
  
@@ -38,7 +38,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **[Reference](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Reference](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
 
 &nbsp;
 
@@ -363,7 +363,7 @@ Note Humans and animals have evolved to go for days with many nutrients
 <code class="language-text">
 Markdown:
 --------
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://vitamindwiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php?page_id=14301)** 
 
 &lt;!-- {maketoc title=&quot;charts WITHOUT transcript&quot;} --&gt;
  
@@ -390,7 +390,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **[Reference](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Reference](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
 
 &amp;nbsp;
 
@@ -714,15 +714,15 @@ Note Humans and animals have evolved to go for days with many nutrients
 AST Structure:
 -------------
 ├── FontNode
-│   full_match: `{FONT(size=&quot;25&quot;)}__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__{FONT}`
-│   inner_content: `__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__`
+│   full_match: `{FONT(size=&quot;25&quot;)}__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__{FONT}`
+│   inner_content: `__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__`
 │   attrs_dict:
 │   │   raw_content: size=&quot;25&quot;
 │   │   size: 25
 │   children:
 │   ├── BoldNode
-│   │   full_match: `__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__`
-│   │   inner_content: `[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]`
+│   │   full_match: `__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__`
+│   │   inner_content: `[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]`
 │   │   children:
 │   │   ├── LinkNode
 │   │   │   full_match: `[https://youtu.be/hscufeebcgQ?t=1216|YouTube]`
@@ -753,9 +753,9 @@ AST Structure:
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
 │   │   ├── LinkNode
-│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]`
+│   │   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]`
 │   │   │   inner_content: `Click here for charts WITH transcript`
-│   │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14301`
+│   │   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14301`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Click here for charts WITH transcript`
@@ -863,13 +863,13 @@ AST Structure:
 │   │   width: 800├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__[https://vitamindwiki.com/tiki-index.php?page_id=14133| Reference]__`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=14133| Reference]`
+│   full_match: `__[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Reference]__`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Reference]`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14133| Reference]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Reference]`
 │   │   inner_content: ` Reference`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14133`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14133`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Reference`
@@ -3041,7 +3041,7 @@ AST Structure:
 
 Original Tiki:
 -------------
-{FONT(size=&quot;25&quot;)}__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://vitamindwiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__{FONT}
+{FONT(size=&quot;25&quot;)}__[https://youtu.be/hscufeebcgQ?t=1216|YouTube]~hs~~hs~Presented in Iceland March 4, 2023 %%% ~hs~~hs~ [https://VitaminDWiki.com/tiki-index.php?page_id=14301|Click here for charts WITH transcript]__{FONT}
 
 {DIV(class=&quot;lefth4&quot;)}{maketoc title=&quot;charts WITHOUT transcript&quot;}{DIV} 
 ---
@@ -3054,7 +3054,7 @@ Original Tiki:
 ---
 !!!(2) Reykjavík has the longest Vitamin D winter of the world&#39;s capitals
 {img type=&quot;attId&quot; attId=&quot;19242&quot; width=&quot;800&quot;}
-__[https://vitamindwiki.com/tiki-index.php?page_id=14133| Reference]__
+__[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Reference]__
 ~hs~
 ~hs~
 ~hs~

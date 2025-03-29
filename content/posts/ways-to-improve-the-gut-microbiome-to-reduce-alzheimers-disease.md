@@ -43,7 +43,7 @@ Lastly, we discuss diet, sleep, and exercise as potential modifiers of the relat
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) contains
 
 
 
@@ -83,7 +83,7 @@ Lastly, we discuss diet, sleep, and exercise as potential modifiers of the relat
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) contains
 
 
 
@@ -165,13 +165,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Microbiome)) contains `
-│   inner_content: `VitaminDwiki – ((Microbiome)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Microbiome)) contains `
+│   inner_content: `VitaminDWiki – ((Microbiome)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Microbiome))`
 │   │   inner_content: `Microbiome`
@@ -220,7 +220,7 @@ Lastly, we discuss diet, sleep, and exercise as potential modifiers of the relat
 
 {FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19185&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Microbiome)) contains 
+!!!!VitaminDWiki – ((Microbiome)) contains 
 {include page=&quot;Microbiome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 </code>

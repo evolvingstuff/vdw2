@@ -86,7 +86,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * <a href="/posts/on-line-vitamin-d-response-simulation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: On-line Vitamin D response simulation – July 2021">On-line Vitamin D response simulation – July 2021</a>
 
-* [VitaminDWiki page titles containing "RESPONSE"](https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
+* [VitaminDWiki page titles containing "RESPONSE"](https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
 
 * <a href="/posts/obese-need-2x-to-3x-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014">Obese need 2X to 3X more vitamin D - Nov 2014</a> has the following chart
 
@@ -201,7 +201,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * &lt;a href=&quot;/posts/on-line-vitamin-d-response-simulation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: On-line Vitamin D response simulation – July 2021&quot;&gt;On-line Vitamin D response simulation – July 2021&lt;/a&gt;
 
-* [VitaminDWiki page titles containing &quot;RESPONSE&quot;](https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
+* [VitaminDWiki page titles containing &quot;RESPONSE&quot;](https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_) 149 pages as of Jam 2023
 
 * &lt;a href=&quot;/posts/obese-need-2x-to-3x-more-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014&quot;&gt;Obese need 2X to 3X more vitamin D - Nov 2014&lt;/a&gt; has the following chart
 
@@ -553,14 +553,14 @@ AST Structure:
 │   │   │   inner_content: `On-line Vitamin D response simulation – July 2021`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023`
-│   inner_content: `[https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023`
+│   full_match: `*[https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023`
+│   inner_content: `[https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;]`
+│   │   full_match: `[https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;]`
 │   │   inner_content: `VitaminDWiki page titles containing &quot;RESPONSE&quot;`
-│   │   url: `https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_`
+│   │   url: `https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `VitaminDWiki page titles containing &quot;RESPONSE&quot;`
@@ -720,7 +720,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 *((Vitamin D Cofactors in a nutshell))
 *((Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020))
 *((On-line Vitamin D response simulation – July 2021))
-*[https://vitamindwiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023
+*[https://VitaminDWiki.com/On-line+Vitamin+D+response+simulation+%E2%80%93+May+2021#VitaminDWiki_page_titles_containing_RESPONSE_|VitaminDWiki page titles containing &quot;RESPONSE&quot;] 149 pages as of Jam 2023
 *((Obese need 2X to 3X more vitamin D - Nov 2014)) has the following chart
 *{include page=&quot;Obese need 2X to 3X more vitamin D - Nov 2014&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 **= 250% more vitamin D needed by obese at 50 ng

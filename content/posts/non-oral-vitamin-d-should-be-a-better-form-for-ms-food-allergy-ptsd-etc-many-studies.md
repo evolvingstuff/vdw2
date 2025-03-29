@@ -40,7 +40,7 @@ Non-oral forms include: topical, patches, injection, UV, sublingual and inhaled
 
 ---
 
-#### VitaminDwiki – [Injection](/categories/injection) contains
+#### VitaminDWiki – [Injection](/categories/injection) contains
 
 <!-- ~tc~ (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) ~/tc~ -->
 
@@ -79,7 +79,7 @@ Non-oral forms include: topical, patches, injection, UV, sublingual and inhaled
 
 ---
 
-#### VitaminDwiki – [Injection](/categories/injection) contains
+#### VitaminDWiki – [Injection](/categories/injection) contains
 
 &lt;!-- ~tc~ (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) ~/tc~ --&gt;
 
@@ -235,13 +235,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Injection)) contains`
-│   inner_content: `VitaminDwiki – ((Injection)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Injection)) contains`
+│   inner_content: `VitaminDWiki – ((Injection)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Injection))`
 │   │   inner_content: `Injection`
@@ -295,7 +295,7 @@ Non-oral forms include: topical, patches, injection, UV, sublingual and inhaled
 !!!!VitaminDWiki – ((Topical Vitamin D)) category contains
 {include page=&quot;Topical Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Injection)) contains
+!!!!VitaminDWiki – ((Injection)) contains
 {include page=&quot;Injection&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ~tc~ (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) ~/tc~
 </code>

@@ -92,7 +92,7 @@ Conclusion: Vitamin D concentrations were often insufficient among children livi
 
 ---
 
-#### VitaminDwiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
 
 <!-- ~tc~ (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) ~/tc~ -->
 
@@ -182,7 +182,7 @@ Conclusion: Vitamin D concentrations were often insufficient among children livi
 
 ---
 
-#### VitaminDwiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
 
 &lt;!-- ~tc~ (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) ~/tc~ --&gt;
 
@@ -487,13 +487,13 @@ AST Structure:
 │   │   │   │   inner_content: `After years of adding vitamin D, Finland now has 38 ng levels - March 2022`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Fortification with Vitamin D)) contains`
-│   inner_content: `VitaminDwiki – ((Fortification with Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Fortification with Vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Fortification with Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Fortification with Vitamin D))`
 │   │   inner_content: `Fortification with Vitamin D`
@@ -574,7 +574,7 @@ Conclusion: Vitamin D concentrations were often insufficient among children livi
 !!!!Finland has learned to both fortify and supplement – and now may have the best vitamin D level on the planet
 *__((After years of adding vitamin D, Finland now has 38 ng levels - March 2022))__
 ---
-!!!!VitaminDwiki – ((Fortification with Vitamin D)) contains
+!!!!VitaminDWiki – ((Fortification with Vitamin D)) contains
 {include page=&quot;Fortification with Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 

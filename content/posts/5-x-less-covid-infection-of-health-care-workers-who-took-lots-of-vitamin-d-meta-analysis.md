@@ -57,7 +57,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 
 
@@ -111,7 +111,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 
 
@@ -292,13 +292,13 @@ AST Structure:
 │   │   showTitle: n├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -347,7 +347,7 @@ __[https://www.youtube.com/watch?v=ZLUoX4YEjqk&amp;ab_channel=Dr.JohnCampbell|Yo
 &#39;&#39;This list is automatically updated&#39;&#39;
 {category id=&quot;97+155&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 </code>
 </pre>

@@ -47,7 +47,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
+#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
 
 ---
 
@@ -138,7 +138,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
+#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
 
 ---
 
@@ -315,17 +315,17 @@ AST Structure:
 │   │   │   inner_content: `Vitamin D Receptor`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!! 81+  [https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title] `
-│   inner_content: `81+  [https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title]`
+│   full_match: `!!!! 81+  [https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title] `
+│   inner_content: `81+  [https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `81+  `
 │   │   inner_content: `81+  `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title]`
+│   │   full_match: `[https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title]`
 │   │   inner_content: `Vitamin D Receptor pages in VitaminDWiki have CANCER in title`
-│   │   url: `https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title`
+│   │   url: `https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D Receptor pages in VitaminDWiki have CANCER in title`
@@ -727,7 +727,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 ---
 !!!!Risk of ~~#F00:44+ ~~ diseases at least double with poor ((Vitamin D Receptor))
 ---
-!!!! 81+  [https://vitamindwiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title] 
+!!!! 81+  [https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title|Vitamin D Receptor pages in VitaminDWiki have CANCER in title] 
 ---
 !!!!14 ways ((Vitamin D Receptor)) activation can be increased
 __((Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D|Omega-3)), ~hs~((Magnesium and Vitamin D |Magnesium)),~hs~ ((Zinc and Vitamin D |Zinc)), ~hs~ ((Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin)), ~hs~ ((Better than Daily|non-daily Vit D)), ~hs~((Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin)), intense exercise, ((14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement) |Butyrate)) ~hs~ Ginger, ~hs~ Essential oils, etc~hs~ Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators__

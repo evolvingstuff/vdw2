@@ -44,11 +44,11 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki – [Tuberculosis](/categories/tuberculosis) category contains
+#### VitaminDWiki – [Tuberculosis](/categories/tuberculosis) category contains
 
 ---
 
-#### VitaminDwiki – <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a> contains
+#### VitaminDWiki – <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a> contains
 
 
 
@@ -88,11 +88,11 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki – [Tuberculosis](/categories/tuberculosis) category contains
+#### VitaminDWiki – [Tuberculosis](/categories/tuberculosis) category contains
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/overview-tuberculosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Tuberculosis and Vitamin D&quot;&gt;Overview Tuberculosis and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-tuberculosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Tuberculosis and Vitamin D&quot;&gt;Overview Tuberculosis and Vitamin D&lt;/a&gt; contains
 
 
 
@@ -192,13 +192,13 @@ AST Structure:
 │   │   showTitle: n├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Tuberculosis)) category contains`
-│   inner_content: `VitaminDwiki – ((Tuberculosis)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Tuberculosis)) category contains`
+│   inner_content: `VitaminDWiki – ((Tuberculosis)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Tuberculosis))`
 │   │   inner_content: `Tuberculosis`
@@ -225,13 +225,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains  `
-│   inner_content: `VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains  `
+│   inner_content: `VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Tuberculosis and Vitamin D))`
 │   │   inner_content: `Overview Tuberculosis and Vitamin D`
@@ -280,10 +280,10 @@ Conclusions: Weekly oral supplementation with 10,000 IU vitamin D3 for 3 years e
 &#39;&#39;This list is automatically updated&#39;&#39;
 {category id=&quot;23+97&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
-!!!!VitaminDwiki – ((Tuberculosis)) category contains
+!!!!VitaminDWiki – ((Tuberculosis)) category contains
 {include page=&quot;Tuberculosis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains  
+!!!!VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains  
 {include page=&quot;Overview Tuberculosis and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 </code>

@@ -33,11 +33,11 @@ Conclusion: Weekly oral supplementation with 10,000 IU vitamin D3 for 3 years el
 
 ---
 
-#### VitaminDwiki – [Tuberculosis](/categories/tuberculosis) category contains
+#### VitaminDWiki – [Tuberculosis](/categories/tuberculosis) category contains
 
 ---
 
-#### VitaminDwiki – <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a> contains
+#### VitaminDWiki – <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a> contains
 
 ---
 
@@ -81,11 +81,11 @@ Conclusion: Weekly oral supplementation with 10,000 IU vitamin D3 for 3 years el
 
 ---
 
-#### VitaminDwiki – [Tuberculosis](/categories/tuberculosis) category contains
+#### VitaminDWiki – [Tuberculosis](/categories/tuberculosis) category contains
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/overview-tuberculosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Tuberculosis and Vitamin D&quot;&gt;Overview Tuberculosis and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-tuberculosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Tuberculosis and Vitamin D&quot;&gt;Overview Tuberculosis and Vitamin D&lt;/a&gt; contains
 
 ---
 
@@ -164,13 +164,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Tuberculosis)) category contains`
-│   inner_content: `VitaminDwiki – ((Tuberculosis)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Tuberculosis)) category contains`
+│   inner_content: `VitaminDWiki – ((Tuberculosis)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Tuberculosis))`
 │   │   inner_content: `Tuberculosis`
@@ -197,13 +197,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains  `
-│   inner_content: `VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains  `
+│   inner_content: `VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Tuberculosis and Vitamin D))`
 │   │   inner_content: `Overview Tuberculosis and Vitamin D`
@@ -330,10 +330,10 @@ Results: 829 vs. 853 QFT-Plus-negative children were randomized to receive vitam
 Conclusion: Weekly oral supplementation with 10,000 IU vitamin D3 for 3 years elevated serum 25(OH)D concentrations among QFT-Plus-negative Cape Town schoolchildren but did not reduce their risk of QFT-Plus conversion.
 {FONT(size=&quot;22&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19911&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Tuberculosis)) category contains
+!!!!VitaminDWiki – ((Tuberculosis)) category contains
 {include page=&quot;Tuberculosis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Overview Tuberculosis and Vitamin D)) contains  
+!!!!VitaminDWiki – ((Overview Tuberculosis and Vitamin D)) contains  
 {include page=&quot;Overview Tuberculosis and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 23  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories TB and Vitamin D Receptor

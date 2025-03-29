@@ -53,7 +53,7 @@ Sleep
 | --- | --- |
 | Websites | Action |
 | www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
-| www.vitamindwiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
+| www.VitaminDWiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
 
@@ -119,7 +119,7 @@ Sleep
 | --- | --- |
 | Websites | Action |
 | www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
-| www.vitamindwiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
+| www.VitaminDWiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
 | www.canceractive.com     | Subscribe to newsletter &amp; search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
 
@@ -406,8 +406,8 @@ AST Structure:
 │   │   │   │   inner_content: `Jessica Richards`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── TableNode
-│   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) \nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
-│   inner_content: `Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) \nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here`
+│   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) \nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
+│   inner_content: `Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) \nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here`
 │   children:
 │   ├── TableRowNode
 │   │   full_match: `Websites|Action`
@@ -451,16 +451,16 @@ AST Structure:
 │   │   │   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”`
 │   │   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
 │   ├── TableRowNode
-│   │   full_match: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
-│   │   inner_content: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
+│   │   full_match: `www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
+│   │   inner_content: `www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `www.vitamindwiki.com `
-│   │   │   inner_content: `www.vitamindwiki.com `
+│   │   │   full_match: `www.VitaminDWiki.com `
+│   │   │   inner_content: `www.VitaminDWiki.com `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `www.vitamindwiki.com `
-│   │   │   │   inner_content: `www.vitamindwiki.com `
+│   │   │   │   full_match: `www.VitaminDWiki.com `
+│   │   │   │   inner_content: `www.VitaminDWiki.com `
 │   │   ├── TableCellNode
 │   │   │   full_match: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
 │   │   │   inner_content: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) `
@@ -641,7 +641,7 @@ The Topic of Cancer|  Jessica Richards||
 ---
 ||Websites|Action
 www.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]
-www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) 
+www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) 
 www.canceractive.com    |Subscribe to newsletter &amp; search website
 https://yestolife.org.uk/     |Start with:  I’m New Here||
 ---

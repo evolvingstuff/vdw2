@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-##### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+##### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
@@ -153,7 +153,7 @@ This list is automatically updated
 
 ---
 
-##### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+##### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
@@ -451,13 +451,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!!VitaminDwiki – ((Better than Daily)) contains`
-│   inner_content: `VitaminDwiki – ((Better than Daily)) contains`
+│   full_match: `!!!!!VitaminDWiki – ((Better than Daily)) contains`
+│   inner_content: `VitaminDWiki – ((Better than Daily)) contains`
 │   level: `5`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Better than Daily))`
 │   │   inner_content: `Better than Daily`
@@ -548,7 +548,7 @@ Funding: This investigation was supported by a grant from the National Multiple 
 !!!!VitaminDWiki – ((Overview MS and vitamin D)) contains 
 {include page=&quot;Overview MS and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!!VitaminDwiki – ((Better than Daily)) contains
+!!!!!VitaminDWiki – ((Better than Daily)) contains
 {include page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}
 ---
 !!!!40-150 ng of Vitamin D is needed to treat many health problems

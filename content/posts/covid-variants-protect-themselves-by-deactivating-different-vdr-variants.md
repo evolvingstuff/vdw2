@@ -50,7 +50,7 @@ Conclusion: Our findings showed that the effects of Tru9I rs757343 and FokI rs22
 
 Sent her the following email
 
-[Many studies have found](https://vitamindwiki.com/tiki-index.php?page_id=14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
+[Many studies have found](https://VitaminDWiki.com/tiki-index.php?page_id=14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
 
 When COVID leaves the body, it fails to turn the receptor back on.
 
@@ -101,7 +101,7 @@ Conclusion: Our findings showed that the effects of Tru9I rs757343 and FokI rs22
 
 Sent her the following email
 
-[Many studies have found](https://vitamindwiki.com/tiki-index.php?page_id=14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
+[Many studies have found](https://VitaminDWiki.com/tiki-index.php?page_id=14371) that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
 
 When COVID leaves the body, it fails to turn the receptor back on.
 
@@ -244,9 +244,9 @@ AST Structure:
 │   │   │   inner_content: `by Kristen Brown`├── TextNode
 │   full_match: `\nSent her the following email\n`
 │   inner_content: `\nSent her the following email\n`├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14371|Many studies have found]`
+│   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14371|Many studies have found]`
 │   inner_content: `Many studies have found`
-│   url: `https://vitamindwiki.com/tiki-index.php?page_id=14371`
+│   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14371`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Many studies have found`
@@ -280,7 +280,7 @@ Conclusion: Our findings showed that the effects of Tru9I rs757343 and FokI rs22
 !!!!Are People Getting Sick More Since the Covid Pandemic?- Bloomberg March 2024
 __[https://www.bloomberg.com/news/newsletters/2024-03-03/are-people-getting-sick-more-after-the-covid-pandemic?cmpid=BBD030324_prognosis&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=240303&amp;utm_campaign=prognosis|by Kristen Brown]__
 Sent her the following email
-[https://vitamindwiki.com/tiki-index.php?page_id=14371|Many studies have found] that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
+[https://VitaminDWiki.com/tiki-index.php?page_id=14371|Many studies have found] that the virus that results in COVID protects itself by turning off the Vitamin D Receptor (as well as many other genes)
 
 When COVID leaves the body, it fails to turn the receptor back on.
 

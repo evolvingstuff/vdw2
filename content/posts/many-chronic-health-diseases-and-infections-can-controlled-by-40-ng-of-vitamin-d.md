@@ -408,7 +408,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
 ---
 
-#### VitaminDwiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -815,7 +815,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
 
 
 AST Structure:
@@ -4918,13 +4918,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!! VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
-│   inner_content: `VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
+│   full_match: `!!!! VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
+│   inner_content: `VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
 │   │   inner_content: `Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023`
@@ -5145,6 +5145,6 @@ __Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D 
 !!!!40-150 ng of Vitamin D is needed to ((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))
 {include page=&quot;Is 50 ng of vitamin D too high, just right, or not enough&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!! VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))
+!!!! VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))
 </code>
 </pre>

@@ -50,7 +50,7 @@ Folate is a crucial nutrient that supports physiological functions. Low folate l
 
 ---
 
-#### VitaminDwiki - <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">Vitamin D Cofactors in a nutshell</a> table show the importance of each
+#### VitaminDWiki - <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">Vitamin D Cofactors in a nutshell</a> table show the importance of each
 
 
 
@@ -98,7 +98,7 @@ Folate is a crucial nutrient that supports physiological functions. Low folate l
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;Vitamin D Cofactors in a nutshell&lt;/a&gt; table show the importance of each
+#### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;Vitamin D Cofactors in a nutshell&lt;/a&gt; table show the importance of each
 
 
 
@@ -203,13 +203,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
-│   inner_content: `VitaminDwiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
+│   inner_content: `VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Vitamin D Cofactors in a nutshell))`
 │   │   inner_content: `Vitamin D Cofactors in a nutshell`
@@ -265,7 +265,7 @@ Qiangqiang He 1 2, Jianping Li 3
 Folate is a crucial nutrient that supports physiological functions. Low folate levels is a risk factor for several diseases, including cardiovascular diseases and neural tube defects. The most used folate supplement is folic acid, a synthetic oxidative form, and folic acid grain fortification is a success story of public health. However, the metabolic conversion of folic acid to bioactive tetrahydrofolate requires several enzymes and cofactors. Therefore, these factors influence its bioavailability and efficacy. In contrast, 5-methyltetrahydrofolate is used directly and participates in one-carbon metabolism, and the use of 5-methyltetrahydrofolate as an alternative folate supplement has increased. The metabolism of 5-methyltetrahydrofolate is primarily dependent on the transmembrane transporter, reduced folate carrier (RFC), and the RFC gene SLC19A1 variant is a functional polymorphism that affects folate status indexes. Recent studies demonstrated that the expression of RFC and cystathionine β-synthase, another enzyme required for homocysteine clearance, increases significantly by supplementation with calcitriol (vitamin D3), suggesting that calcitriol intake promotes the bioavailability of folate and has synergistic effects in homocysteine clearance. The advancements in biomedical and cohort studies and clinical trials have enhanced our understanding of the critical roles of folate and the regulation of one-carbon metabolism. We anticipate that the field of folate supplementation is poised to evolve from one size for all to personalized, precision, poly-paths (3Ps), which is a critical measure to meet individual needs, maximize health benefits, and minimize side effects.
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19768&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each
+!!!!VitaminDWiki - ((Vitamin D Cofactors in a nutshell)) table show the importance of each
 {include page=&quot;Supplements&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 </code>

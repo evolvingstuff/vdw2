@@ -62,7 +62,7 @@ categories:
 
 ---
 
-#### VitaminDwiki - [How Much Vitamin D](/categories/how-much-vitamin-d) contains
+#### VitaminDWiki - [How Much Vitamin D](/categories/how-much-vitamin-d) contains
 
 <!-- ~tc~ (alias(Canadian DRI forVitamin D not updated since 2010)) ~/tc~ -->
 
@@ -125,7 +125,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki - [How Much Vitamin D](/categories/how-much-vitamin-d) contains
+#### VitaminDWiki - [How Much Vitamin D](/categories/how-much-vitamin-d) contains
 
 &lt;!-- ~tc~ (alias(Canadian DRI forVitamin D not updated since 2010)) ~/tc~ --&gt;
 
@@ -394,13 +394,13 @@ AST Structure:
 │   │   inner_content: `Note: Many studies have also concluded that Vitamin D needed is proportional to weight`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((How Much Vitamin D)) contains`
-│   inner_content: `VitaminDwiki - ((How Much Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki - ((How Much Vitamin D)) contains`
+│   inner_content: `VitaminDWiki - ((How Much Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((How Much Vitamin D))`
 │   │   inner_content: `How Much Vitamin D`
@@ -469,7 +469,7 @@ __((Intervention - Vitamin D by date))__
 *((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ))
 __Note: Many studies have also concluded that Vitamin D needed is proportional to weight__
 ---
-!!!!VitaminDwiki - ((How Much Vitamin D)) contains
+!!!!VitaminDWiki - ((How Much Vitamin D)) contains
 {include page=&quot;How Much Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ~tc~ (alias(Canadian DRI forVitamin D not updated since 2010)) ~/tc~
 ~tc~ (alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) ~/tc~

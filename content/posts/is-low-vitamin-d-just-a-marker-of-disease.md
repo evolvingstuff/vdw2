@@ -80,7 +80,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 93 health problems
 
-* [48 Health problems fought by weekly 50K Vitamin D](https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D ) most were RCTs
+* [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D ) most were RCTs
 
  **Loading Dose** 
 
@@ -144,7 +144,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * <a href="/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019">Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019</a>
 
-* [https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
+* [https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
 
  **Better than Daily** 
 
@@ -265,7 +265,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;Proof that Vitamin D Works&lt;/a&gt; 93 health problems
 
-* [48 Health problems fought by weekly 50K Vitamin D](https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D ) most were RCTs
+* [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D ) most were RCTs
 
  **Loading Dose** 
 
@@ -329,7 +329,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * &lt;a href=&quot;/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019&quot;&gt;Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019&lt;/a&gt;
 
-* [https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
+* [https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
 
  **Better than Daily** 
 
@@ -780,14 +780,14 @@ AST Structure:
 │   │   inner_content: ` 93 health problems`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D]`
 │   │   inner_content: `48 Health problems fought by weekly 50K Vitamin D`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D `
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D `
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `48 Health problems fought by weekly 50K Vitamin D`
@@ -1183,13 +1183,13 @@ AST Structure:
 │   │   │   inner_content: `Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
-│   inner_content: `[https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
+│   full_match: `*[https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
+│   inner_content: `[https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `[https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
-│   │   inner_content: `[https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`├── TextNode
+│   │   full_match: `[https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`
+│   │   inner_content: `[https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__Better than Daily__`
@@ -1317,7 +1317,7 @@ To end in a more positive note, there is still a lot to discover in the field of
 ---
 !!!!Vitamin D is not just association - examples of RCTs finding that adding D fights diseases
 *((Proof that Vitamin D Works)) 93 health problems
-*[https://vitamindwiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs
+*[https://VitaminDWiki.com/tiki-index.php?page_id=14301#Health_problems_fought_by_weekly_50K_Vitamin_D |48 Health problems fought by weekly 50K Vitamin D] most were RCTs
 __Loading Dose__
 *((Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017))
 *((COVID-19 defeated 3x faster by 420,000 IU Vitamin D nanoemulsion – RCT Nov 12, 2020))
@@ -1349,7 +1349,7 @@ __Multiple Sclerosis__
 *((No multiple sclerosis relapses during pregnancy if 50,000 IU of Vitamin D weekly – RCT April 2015))
 __Autoimmune__
 *((Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019))
-*[https://vitamindwiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
+*[https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
 __Better than Daily__
 *((44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020))
 ---

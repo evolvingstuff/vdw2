@@ -33,7 +33,7 @@ However, it has been shown that the genomic vitamin D signaling pathway is alrea
 
 ---
 
-#### VitaminDwiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> contains
+#### VitaminDWiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> contains
 
 
 
@@ -64,7 +64,7 @@ However, it has been shown that the genomic vitamin D signaling pathway is alrea
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; contains
 
 
 
@@ -122,13 +122,13 @@ AST Structure:
 │   inner_content: `\nare all influenced by vitamin D, and these functions are considered relevant in AD pathogenesis. \nHowever, it has been shown that the genomic vitamin D signaling pathway is already impaired in the AD brain, making things more complicated. In this paper, we aim to summarise the role of vitamin D in AD and review the results of the supplementation trials in AD patients.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
-│   inner_content: `VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D))`
 │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
@@ -171,7 +171,7 @@ Alzheimer&#39;s disease (AD) represents the most prevalent type of neurodegenera
 are all influenced by vitamin D, and these functions are considered relevant in AD pathogenesis. 
 However, it has been shown that the genomic vitamin D signaling pathway is already impaired in the AD brain, making things more complicated. In this paper, we aim to summarise the role of vitamin D in AD and review the results of the supplementation trials in AD patients.
 ---
-!!!!VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains
+!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains
 {include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 

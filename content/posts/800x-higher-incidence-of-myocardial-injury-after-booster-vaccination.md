@@ -55,7 +55,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -116,7 +116,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -250,13 +250,13 @@ AST Structure:
 │   │   inner_content: `\n{list max=&quot;300&quot;}\n{filter field=&quot;title&quot; content=&quot;VACCIN OR VAX&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -358,7 +358,7 @@ __[https://petermcculloughmd.substack.com/p/swiss-prospective-cohort-study-demon
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
 {LIST}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 ---
 !!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 13  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Cardiovascular and Virus

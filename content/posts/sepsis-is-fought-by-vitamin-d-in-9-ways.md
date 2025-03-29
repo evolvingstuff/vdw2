@@ -32,7 +32,7 @@ Vitamin D is an important immune modulator that is linked to infection susceptib
 
 ---
 
-#### VitaminDwiki - <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a> contains
+#### VitaminDWiki - <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a> contains
 
 <!-- ~tc~ (alias(Vitamin D Deficiency: An Underestimated Factor in Sepsis – Feb 2023)) ~/tc~ -->
 
@@ -61,7 +61,7 @@ Vitamin D is an important immune modulator that is linked to infection susceptib
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies&quot;&gt;Sepsis is both prevented and treated by Vitamin D - many studies&lt;/a&gt; contains
+#### VitaminDWiki - &lt;a href=&quot;/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies&quot;&gt;Sepsis is both prevented and treated by Vitamin D - many studies&lt;/a&gt; contains
 
 &lt;!-- ~tc~ (alias(Vitamin D Deficiency: An Underestimated Factor in Sepsis – Feb 2023)) ~/tc~ --&gt;
 
@@ -126,13 +126,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains`
-│   inner_content: `VitaminDwiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains`
+│   full_match: `!!!!VitaminDWiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains`
+│   inner_content: `VitaminDWiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Sepsis is both prevented and treated by Vitamin D - many studies))`
 │   │   inner_content: `Sepsis is both prevented and treated by Vitamin D - many studies`
@@ -179,7 +179,7 @@ by Charlotte Delrue 1,Reinhart Speeckaert 2,Joris R. Delanghe 3 and Marijn M. Sp
 Vitamin D is an important immune modulator that is linked to infection susceptibility. It has been suggested that vitamin D deficiency plays a role in sepsis and septic shock because vitamin-D-related pathways are associated with various immunological, endocrine, and endothelial functions. Previous research has yielded inconclusive results regarding the link between mortality and vitamin D deficiency in sepsis patients. In patients with sepsis and severe vitamin D deficiency, an adequate vitamin D concentration may reduce mortality. Randomized controlled trials to assess the influence of vitamin D supplementation on clinical outcomes in sepsis patients with vitamin D deficiency are uncommon. We will provide an overview of the current knowledge about the relationship between vitamin D and sepsis in this review, as well as consider the potential value of vitamin D supplementation in this situation.
 {FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19213&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains
+!!!!VitaminDWiki - ((Sepsis is both prevented and treated by Vitamin D - many studies)) contains
 {include page=&quot;Sepsis is both prevented and treated by Vitamin D - many studies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 ~tc~ (alias(Vitamin D Deficiency: An Underestimated Factor in Sepsis – Feb 2023)) ~/tc~

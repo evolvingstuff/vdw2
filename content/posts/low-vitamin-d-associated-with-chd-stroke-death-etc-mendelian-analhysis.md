@@ -59,7 +59,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 
 * <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
-* [All items in category Optimum Vitamin D](https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&sort_mode=created_desc)  **<span style="color:orange;">
+* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&sort_mode=created_desc)  **<span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} -->
  items</span>** 
 
@@ -128,7 +128,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 
 * &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
 
-* [All items in category Optimum Vitamin D](https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc)  **&lt;span style=&quot;color:orange;&quot;&gt;
+* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc)  **&lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} --&gt;
  items&lt;/span&gt;** 
 
@@ -443,14 +443,14 @@ AST Structure:
 │   │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
-│   inner_content: `[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D]`
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D]`
 │   │   inner_content: ` All items in category Optimum Vitamin D`
-│   │   url: `https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `All items in category Optimum Vitamin D`
@@ -606,7 +606,7 @@ __40-150 ng of Vitamin D need to ((Is 50 ng of vitamin D too high, just right, o
 *((Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021))
 __During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough%%% ~hs~~hs~ Suspect that~~#F00: &gt;50 ng~~ would be much better__
 *((Is 50 ng of vitamin D too high, just right, or not enough))
-*[https://www.vitamindwiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc| All items in category Optimum Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} items~~__
 
 *((Heart Failure and Vitamin D meta-analyses - 2016, 2019))
 *((Cardiovascular Disease is treated by Vitamin D - many studies))

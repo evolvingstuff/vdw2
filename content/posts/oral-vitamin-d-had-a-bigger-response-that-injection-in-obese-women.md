@@ -45,7 +45,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ---
 
-#### VitaminDwiki – [Injection](/categories/injection) contains
+#### VitaminDWiki – [Injection](/categories/injection) contains
 
 
 
@@ -90,7 +90,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ---
 
-#### VitaminDwiki – [Injection](/categories/injection) contains
+#### VitaminDWiki – [Injection](/categories/injection) contains
 
 
 
@@ -154,13 +154,13 @@ AST Structure:
 │   │   inner_content: `Or due to when the Vitamin D test was given relative to dosing time`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Injection)) contains`
-│   inner_content: `VitaminDwiki – ((Injection)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Injection)) contains`
+│   inner_content: `VitaminDWiki – ((Injection)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Injection))`
 │   │   inner_content: `Injection`
@@ -214,7 +214,7 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 !!!!!I do not recall seeing this before  
 __Is it due to obesity?%%%Or due to when the Vitamin D test was given relative to dosing time__
 ---
-!!!!VitaminDwiki – ((Injection)) contains
+!!!!VitaminDWiki – ((Injection)) contains
 {include page=&quot;Injection&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 

@@ -328,7 +328,7 @@ UVR is a skin carcinogen, yet no studies link sun exposure to increased all-caus
 
 ---
 
-#### VitaminDwiki – <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+#### VitaminDWiki – <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
 
 
 
@@ -653,7 +653,7 @@ UVR is a skin carcinogen, yet no studies link sun exposure to increased all-caus
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&quot;&gt;Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&quot;&gt;Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&lt;/a&gt;
 
 
 
@@ -2187,13 +2187,13 @@ AST Structure:
 │   │   inner_content: `Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
-│   inner_content: `VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
+│   full_match: `!!!!VitaminDWiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
+│   inner_content: `VitaminDWiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))`
 │   │   inner_content: `Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.`
@@ -2366,7 +2366,7 @@ __PDF Table of Contents__
 *Zhu H, Wang N, Yao L, Chen Q, Zhang R, Qian J, et al. Moderate UV exposure enhances learning and memory by promoting a novel glutamate biosynthetic pathway in the brain. Cell 2018;173:1716-27.e17.
 *Zittermann A, Schleithoff SS, Koerfer R. Putting cardiovascular disease and vitamin D insufficiency into perspective. Br J Nutr 2005;94:483-92.
 ---
-!!!!VitaminDwiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))
+!!!!VitaminDWiki – ((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))
 
 </code>
 </pre>

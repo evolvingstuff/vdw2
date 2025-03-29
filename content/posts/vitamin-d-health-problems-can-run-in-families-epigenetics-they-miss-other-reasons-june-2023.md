@@ -46,7 +46,7 @@ Registration: The systematic review protocol was registered on PROSPERO (registr
 
 ---
 
-#### VitaminDwiki - <a href="/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response by vitamin D level in the blood">Reasons for low response by vitamin D level in the blood</a>
+#### VitaminDWiki - <a href="/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response by vitamin D level in the blood">Reasons for low response by vitamin D level in the blood</a>
 
 ---
 
@@ -119,7 +119,7 @@ Registration: The systematic review protocol was registered on PROSPERO (registr
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Reasons for low response by vitamin D level in the blood&quot;&gt;Reasons for low response by vitamin D level in the blood&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/reasons-for-low-response-by-vitamin-d-level-in-the-blood&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Reasons for low response by vitamin D level in the blood&quot;&gt;Reasons for low response by vitamin D level in the blood&lt;/a&gt;
 
 ---
 
@@ -259,13 +259,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Reasons for low response by vitamin D level in the blood)) `
-│   inner_content: `VitaminDwiki - ((Reasons for low response by vitamin D level in the blood))`
+│   full_match: `!!!!VitaminDWiki - ((Reasons for low response by vitamin D level in the blood)) `
+│   inner_content: `VitaminDWiki - ((Reasons for low response by vitamin D level in the blood))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Reasons for low response by vitamin D level in the blood))`
 │   │   inner_content: `Reasons for low response by vitamin D level in the blood`
@@ -394,7 +394,7 @@ Registration: The systematic review protocol was registered on PROSPERO (registr
 !!!!VitaminDWiki – ((Genetics)) category contains
 {include page=&quot;Genetics&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki - ((Reasons for low response by vitamin D level in the blood)) 
+!!!!VitaminDWiki - ((Reasons for low response by vitamin D level in the blood)) 
 {include page=&quot;Reasons for low response by vitamin D level in the blood&quot; start=&quot;~tc~ startreasons ~/tc~&quot; stop=&quot;~tc~ endreasons ~/tc~&quot;}
 ---
 !!!!VitaminDWiki - ((Health problems that run in families are often associated with low vitamin D))

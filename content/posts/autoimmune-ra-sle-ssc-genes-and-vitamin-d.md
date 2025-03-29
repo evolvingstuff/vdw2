@@ -110,7 +110,7 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 
 ---
 
-#### VitaminDwiki – [Cholesterol](/categories/cholesterol) category contains
+#### VitaminDWiki – [Cholesterol](/categories/cholesterol) category contains
 
 <!-- ~tc~ (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) ~/tc~ -->
 
@@ -217,7 +217,7 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 
 ---
 
-#### VitaminDwiki – [Cholesterol](/categories/cholesterol) category contains
+#### VitaminDWiki – [Cholesterol](/categories/cholesterol) category contains
 
 &lt;!-- ~tc~ (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) ~/tc~ --&gt;
 
@@ -512,13 +512,13 @@ AST Structure:
 │   │   showTitle: n├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Cholesterol)) category contains`
-│   inner_content: `VitaminDwiki – ((Cholesterol)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Cholesterol)) category contains`
+│   inner_content: `VitaminDWiki – ((Cholesterol)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Cholesterol))`
 │   │   inner_content: `Cholesterol`
@@ -608,7 +608,7 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 !!!!{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 34  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} VitaminDWiki studies in both Autoimmune and VDR categories
 {category id=&quot;34+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
-!!!!VitaminDwiki – ((Cholesterol)) category contains
+!!!!VitaminDWiki – ((Cholesterol)) category contains
 {include page=&quot;Cholesterol&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 ~tc~ (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) ~/tc~

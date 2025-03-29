@@ -69,7 +69,7 @@ This list is automatically updated
 
 ####  <span style="color:orange;">52+</span>  VitaminDWiki pages have GRANT (but not migrant) in the title
 
-This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki
+This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki
 
 <!-- {LIST()}
 {list max="100"}
@@ -150,7 +150,7 @@ This list is automatically updated
 
 ####  &lt;span style=&quot;color:orange;&quot;&gt;52+&lt;/span&gt;  VitaminDWiki pages have GRANT (but not migrant) in the title
 
-This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki
+This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki
 
 &lt;!-- {LIST()}
 {list max=&quot;100&quot;}
@@ -386,12 +386,12 @@ AST Structure:
 │   │   inner_content: `  VitaminDWiki pages have GRANT (but not migrant) in the title`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── EmphasisNode
-│   full_match: `&#39;&#39;This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki&#39;&#39;`
-│   inner_content: `This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki`
+│   full_match: `&#39;&#39;This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki&#39;&#39;`
+│   inner_content: `This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki`
 │   children:
 │   ├── TextNode
-│   │   full_match: `This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki`
-│   │   inner_content: `This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki`├── TextNode
+│   │   full_match: `This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki`
+│   │   inner_content: `This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
 │   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;grant&quot; | &quot;migrant&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
@@ -452,7 +452,7 @@ __There are perhaps 10X more hours per year with UVB &gt;3 in ~~#F06:Florida~~ t
 {include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!~~#F06:52+~~  VitaminDWiki pages have GRANT (but not migrant) in the title 
-&#39;&#39;This list is automatically updated, unfortunately includes grants, granted and vitaminDwiki&#39;&#39;
+&#39;&#39;This list is automatically updated, unfortunately includes grants, granted and VitaminDWiki&#39;&#39;
 {LIST()}
 {list max=&quot;100&quot;}
 {filter field=&quot;title&quot; content=&quot;grant&quot; | &quot;migrant&quot;}

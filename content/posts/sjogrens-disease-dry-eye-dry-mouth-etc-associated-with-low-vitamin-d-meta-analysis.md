@@ -32,7 +32,7 @@ Conclusion: Available evidence points to lower levels of vitamin D in patients w
 
 ---
 
-#### VitaminDwiki <a href="/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies">Dry Eyes treated by Omega-3 and Vitamin D – many studies</a>
+#### VitaminDWiki <a href="/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies">Dry Eyes treated by Omega-3 and Vitamin D – many studies</a>
 
 <!-- ~tc~ (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) ~/tc~ -->
 
@@ -65,7 +65,7 @@ Conclusion: Available evidence points to lower levels of vitamin D in patients w
 
 ---
 
-#### VitaminDwiki &lt;a href=&quot;/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies&quot;&gt;Dry Eyes treated by Omega-3 and Vitamin D – many studies&lt;/a&gt;
+#### VitaminDWiki &lt;a href=&quot;/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies&quot;&gt;Dry Eyes treated by Omega-3 and Vitamin D – many studies&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) ~/tc~ --&gt;
 
@@ -125,13 +125,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((Dry Eyes treated by Omega-3 and Vitamin D – many studies))`
 │   │   inner_content: `Dry Eyes treated by Omega-3 and Vitamin D – many studies`
@@ -166,7 +166,7 @@ Results: Nine studies totaling 670 SD patients and 857 healthy controls were eli
 Conclusion: Available evidence points to lower levels of vitamin D in patients with SD in comparison to healthy controls. However, further studies are necessary to understand the underlying mechanisms associated with the role of vitamin D in the development and disease severity of SD.
 {FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19203&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))
+!!!!VitaminDWiki ((Dry Eyes treated by Omega-3 and Vitamin D – many studies))
 ~tc~ (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) ~/tc~
 </code>
 </pre>

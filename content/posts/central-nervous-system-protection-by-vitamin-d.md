@@ -50,7 +50,7 @@ This review is focused mainly on
 
 ---
 
-#### VitaminDwiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+#### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
 
 ---
 
@@ -101,7 +101,7 @@ This review is focused mainly on
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies&quot;&gt;Brain and Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies&quot;&gt;Brain and Vitamin D - many studies&lt;/a&gt;
 
 ---
 
@@ -258,13 +258,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Brain and Vitamin D - many studies))`
-│   inner_content: `VitaminDwiki - ((Brain and Vitamin D - many studies))`
+│   full_match: `!!!!VitaminDWiki - ((Brain and Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki - ((Brain and Vitamin D - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Brain and Vitamin D - many studies))`
 │   │   inner_content: `Brain and Vitamin D - many studies`
@@ -341,7 +341,7 @@ This review is focused mainly on
 *the benefit of vitamin D and its derivates in alleviating these disorders.
 {FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20500&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki - ((Brain and Vitamin D - many studies))
+!!!!VitaminDWiki - ((Brain and Vitamin D - many studies))
 ---
 !!!!VitaminDWiki - ((How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – June 2023))
 ---

@@ -53,7 +53,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 
 #### VitaminDWiki - <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
 
- **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
+ **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
 
 ---
 
@@ -115,7 +115,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D&lt;/a&gt;
 
- **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
+ **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
 
 ---
 
@@ -221,16 +221,16 @@ AST Structure:
 │   │   │   inner_content: `Overview Fibromyalgia or Chronic Fatigue and vitamin D`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__which contains: [https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]__`
-│   inner_content: `which contains: [https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]`
+│   full_match: `__which contains: [https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]__`
+│   inner_content: `which contains: [https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]`
 │   children:
 │   ├── TextNode
 │   │   full_match: `which contains: `
 │   │   inner_content: `which contains: `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]`
 │   │   inner_content: `Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022`
-│   │   url: `https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022`
+│   │   url: `https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022`
@@ -321,7 +321,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 {FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20098&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
 !!!!VitaminDWiki - ((Overview Fibromyalgia or Chronic Fatigue and vitamin D))
-__which contains: [https://vitamindwiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]__
+__which contains: [https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022|Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022]__
 ---
 !!!!VitaminDWiki - ((50,000 IU Vitamin D weekly is often recommended))
 __204+ studies have 50,000 IU in the title as of Sept 2023__

@@ -40,7 +40,7 @@ This list is automatically updated
 
 * <a href="/posts/military-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Military and Vitamin D - many studies">Military and Vitamin D - many studies</a> 24+
 
-* [Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023](https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023)
+* [Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023](https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023)
 
 * <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
 
@@ -107,7 +107,7 @@ This list is automatically updated
 
 * &lt;a href=&quot;/posts/military-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Military and Vitamin D - many studies&quot;&gt;Military and Vitamin D - many studies&lt;/a&gt; 24+
 
-* [Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023](https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023)
+* [Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023](https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023)
 
 * &lt;a href=&quot;/posts/overview-seniors-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Seniors and Vitamin D&quot;&gt;Overview Seniors and Vitamin D&lt;/a&gt;
 
@@ -210,14 +210,14 @@ AST Structure:
 │   │   inner_content: ` 24+`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
-│   inner_content: `[https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
+│   full_match: `*[https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
+│   inner_content: `[https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
+│   │   full_match: `[https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]`
 │   │   inner_content: `Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023`
-│   │   url: `https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023`
+│   │   url: `https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023`
@@ -342,7 +342,7 @@ Original Tiki:
 ---
 !!!!See also VitaminDWiki:
 *((Military and Vitamin D - many studies)) 24+
-*[https://vitamindwiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]
+*[https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D#Vitamin_D_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023|Vitamin D to veterans likely to suicide, 45% decrease in suicide attempts - Feb 2023]
 *((Overview Seniors and Vitamin D))
 *((40 percent less likely to die if vitamin D was prescribed (10,000 VA patients, no surprise) – Oct 2021))
 *((Dementia risk increased 2.4 X following TBI, even if had not lost consciousness – May 2018))

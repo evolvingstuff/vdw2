@@ -27,7 +27,7 @@ categories:
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -76,7 +76,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -159,13 +159,13 @@ AST Structure:
 │   │   width: 500├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -272,7 +272,7 @@ Original Tiki:
 __[https://darrellricke.substack.com/p/covid-19-vaccines-immediate-onset?utm_source=cross-post&amp;publication_id=735472&amp;post_id=138024521&amp;utm_campaign=583200&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email|Substack]  Oct 16__
 {img type=&quot;attId&quot; attId=&quot;20243&quot; width=&quot;500&quot;}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 ---
 !!!!266+ VitaminDWiki pages with ((Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title)) 

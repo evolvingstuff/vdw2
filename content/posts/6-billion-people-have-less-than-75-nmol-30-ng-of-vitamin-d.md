@@ -75,7 +75,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki –[Maps of deficiency in 2014 (<75 nmol = grey)](https://vitamindwiki.com/tiki-index.php?page_id=4806)
+#### VitaminDWiki –[Maps of deficiency in 2014 (<75 nmol = grey)](https://VitaminDWiki.com/tiki-index.php?page_id=4806)
 
 ##### Children
 
@@ -167,7 +167,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki –[Maps of deficiency in 2014 (&lt;75 nmol = grey)](https://vitamindwiki.com/tiki-index.php?page_id=4806)
+#### VitaminDWiki –[Maps of deficiency in 2014 (&lt;75 nmol = grey)](https://VitaminDWiki.com/tiki-index.php?page_id=4806)
 
 ##### Children
 
@@ -436,17 +436,17 @@ AST Structure:
 │   │   │   inner_content: `Diseases that may be related via low vitamin D`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki –[https://vitamindwiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
-│   inner_content: `VitaminDWiki –[https://vitamindwiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
+│   full_match: `!!!!VitaminDWiki –[https://VitaminDWiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
+│   inner_content: `VitaminDWiki –[https://VitaminDWiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki –`
 │   │   inner_content: `VitaminDWiki –`
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]`
 │   │   inner_content: `Maps of deficiency in 2014 (&lt;75 nmol = grey)`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=4806`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=4806`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Maps of deficiency in 2014 (&lt;75 nmol = grey)`
@@ -611,7 +611,7 @@ __((Criteria to associate a health problem with low vitamin D))__
 __((Many reasons why vitamin D deficiency has become epidemic))__ 20 of the 35 are new in past few decades
 __((Diseases that may be related via low vitamin D))__
 ---
-!!!!VitaminDWiki –[https://vitamindwiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]
+!!!!VitaminDWiki –[https://VitaminDWiki.com/tiki-index.php?page_id=4806|Maps of deficiency in 2014 (&lt;75 nmol = grey)]
 !!!!!Children
 {img attId=&quot;3313&quot; width =&quot;900&quot;}
 

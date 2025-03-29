@@ -52,15 +52,15 @@ Interpretation: Systematic fortification of foods might considerably reduce the 
 
 ---
 
-#### VitaminDwiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
 
 ---
 
-#### VitaminDwiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
-#### VitaminDwiki – <span>[tiki-index.php?page_id=11386]</span> contains
+#### VitaminDWiki – <span>[tiki-index.php?page_id=11386]</span> contains
 
 ---
 
@@ -159,15 +159,15 @@ Interpretation: Systematic fortification of foods might considerably reduce the 
 
 ---
 
-#### VitaminDwiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Fortification with Vitamin D](/categories/fortification-with-vitamin-d) contains
 
 ---
 
-#### VitaminDwiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
+#### VitaminDWiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
-#### VitaminDwiki – &lt;span&gt;[tiki-index.php?page_id=11386]&lt;/span&gt; contains
+#### VitaminDWiki – &lt;span&gt;[tiki-index.php?page_id=11386]&lt;/span&gt; contains
 
 ---
 
@@ -379,13 +379,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Fortification with Vitamin D)) contains`
-│   inner_content: `VitaminDwiki – ((Fortification with Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Fortification with Vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Fortification with Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Fortification with Vitamin D))`
 │   │   inner_content: `Fortification with Vitamin D`
@@ -412,13 +412,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Fortification with Vitamin D|Bread Fortification)) contains`
-│   inner_content: `VitaminDwiki – ((Fortification with Vitamin D|Bread Fortification)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Fortification with Vitamin D|Bread Fortification)) contains`
+│   inner_content: `VitaminDWiki – ((Fortification with Vitamin D|Bread Fortification)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Fortification with Vitamin D|Bread Fortification))`
 │   │   inner_content: `Fortification with Vitamin D|Bread Fortification`
@@ -445,13 +445,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains`
-│   inner_content: `VitaminDwiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains`
+│   full_match: `!!!!VitaminDWiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains`
+│   inner_content: `VitaminDWiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark]`
 │   │   inner_content: `Change of  Vitamin D Fortification in Denmark`
@@ -697,13 +697,13 @@ Results: Current vitamin D fortification is estimated to prevent approximately 1
  Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.
 {FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20022&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Fortification with Vitamin D)) contains
+!!!!VitaminDWiki – ((Fortification with Vitamin D)) contains
 {include page=&quot;Fortification with Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Fortification with Vitamin D|Bread Fortification)) contains
+!!!!VitaminDWiki – ((Fortification with Vitamin D|Bread Fortification)) contains
 {include page=&quot;Fortification with Vitamin D&quot; start=&quot;~tc~ startb ~/tc~&quot; stop=&quot;~tc~ endb ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains
+!!!!VitaminDWiki – [tiki-index.php?page_id=11386|Change of  Vitamin D Fortification in Denmark] contains
 {include page=&quot;60 percent more life births after infertility diagnosis if Vitamin D fortification (Denmark) - Nov 2019&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!Finland has had great success adding Vitamin D (19+ studies)

@@ -664,7 +664,7 @@ Given that the quality of the data is heterogeneous, newer, more robustly design
 
 ---
 
-#### VitaminDwiki - [Interactions with Vitamin D](/categories/interactions-with-vitamin-d) contains
+#### VitaminDWiki - [Interactions with Vitamin D](/categories/interactions-with-vitamin-d) contains
 
  
 
@@ -1328,7 +1328,7 @@ Given that the quality of the data is heterogeneous, newer, more robustly design
 
 ---
 
-#### VitaminDwiki - [Interactions with Vitamin D](/categories/interactions-with-vitamin-d) contains
+#### VitaminDWiki - [Interactions with Vitamin D](/categories/interactions-with-vitamin-d) contains
 
  
 
@@ -6163,13 +6163,13 @@ AST Structure:
 │   │   inner_content: `Franchi C, Tettamanti M, Pasina L, et al. Changes in drug pre­scribing to Italian community-dwelling elderly people: the EPIFARM—Elderly Project 2000-2010. Eur J Clin Pharmacol. 2014;70:437-43. doi:10.1007/s00228-013-1621-6`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Interactions with Vitamin D)) contains`
-│   inner_content: `VitaminDwiki - ((Interactions with Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki - ((Interactions with Vitamin D)) contains`
+│   inner_content: `VitaminDWiki - ((Interactions with Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Interactions with Vitamin D))`
 │   │   inner_content: `Interactions with Vitamin D`
@@ -6541,7 +6541,7 @@ __This is especially so for cytochrome P450 3A4 enzyme (__CYP3A4__)-metabolized 
 #Qato DM, Alexander GC, Conti RM, Johnson M, Schumm P, Lindau ST. Use of prescription and over-the-counter medications and dietary supplements among older adults in the United States. J Am Med Assoc. 2008;300:2867-2878.
 #Franchi C, Tettamanti M, Pasina L, et al. Changes in drug pre­scribing to Italian community-dwelling elderly people: the EPIFARM—Elderly Project 2000-2010. Eur J Clin Pharmacol. 2014;70:437-43. doi:10.1007/s00228-013-1621-6
 ---
-!!!!VitaminDwiki - ((Interactions with Vitamin D)) contains
+!!!!VitaminDWiki - ((Interactions with Vitamin D)) contains
 {include page=&quot;Interactions with Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;} 
 </code>
 </pre>

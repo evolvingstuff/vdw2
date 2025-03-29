@@ -39,7 +39,7 @@ Conclusion: Multiple healthy lifestyle behaviours are associated with better vit
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
 ---
 
@@ -81,7 +81,7 @@ Conclusion: Multiple healthy lifestyle behaviours are associated with better vit
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
 ---
 
@@ -164,13 +164,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Metabolic Syndrome)) contains`
-│   inner_content: `VitaminDwiki – ((Metabolic Syndrome)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Metabolic Syndrome)) contains`
+│   inner_content: `VitaminDWiki – ((Metabolic Syndrome)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Metabolic Syndrome))`
 │   │   inner_content: `Metabolic Syndrome`
@@ -241,7 +241,7 @@ Higher physical activity was the only individual component significantly associa
 Conclusion: Multiple healthy lifestyle behaviours are associated with better vitamin D status in older men. Further work is needed to determine the effects of promoting healthy lifestyle behaviours, including physical activity, on vitamin D sufficiency.
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19558&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Metabolic Syndrome)) contains
+!!!!VitaminDWiki – ((Metabolic Syndrome)) contains
 {include page=&quot;Metabolic Syndrome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!Metabolic Syndrome Associations with other categories

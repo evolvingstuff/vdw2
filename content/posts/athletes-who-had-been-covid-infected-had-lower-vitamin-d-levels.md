@@ -33,7 +33,7 @@ Blood profiling data in athletic populations and their respective responses to S
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 
 
@@ -63,7 +63,7 @@ Blood profiling data in athletic populations and their respective responses to S
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 
 
@@ -150,13 +150,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -192,7 +192,7 @@ Shirin Vollrath 1, Lynn Matits 1 2, Achim Jerg 1, Jule Zorn 1, Lucas John 1, Jü
 Blood profiling data in athletic populations and their respective responses to SARS-CoV-2 infection are lacking. Thus, this exploratory pilot study aimed to analyze and compare clinical blood markers in previously infected trained athletes (ATH; 30 m/29 f) and a not previously infected healthy athletic control group (HC; 12 m/19 f). The ATH group undertook a sports medical examination which included extended blood analyses. Blood profiles with a total of 74 variables were assessed (blood counts, pro-/inflammatory and immunological markers, and micronutrients), and the ATH group was compared to the age-matched, vaccinated HC group with comparable athletic back grounds, though without previous SARS-CoV-2-infections. The ATH group showed lower IgG, Troponin-T levels, and they had a lower complement/acute-phase protein activation. Furthermore, Vitamin D levels were lower and electrolyte/micronutrient concentrations were higher in ATH. Soluble transferrin receptor as a marker of erythrocyte turnover was decreased whereas PTT as a coagulation marker was increased. Subgroup analyses according to sex revealed more differences between the women of the ATH and HC groups (for 25 different variables) than between the men (for 5 different variables), especially for immunological and metabolic variables. In particular, the immune system and electrolyte/micronutrient status should be observed frequently and sex-specifically in this athletic cohort.
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19873&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 
 </code>

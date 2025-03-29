@@ -54,7 +54,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - <a href="/posts/long-covid-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID in VitaminDWiki">Long-COVID</a> 78+ items
+#### VitaminDWiki - <a href="/posts/long-covid-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID in VitaminDWiki">Long-COVID</a> 78+ items
 
 <!-- ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~ -->
 
@@ -106,7 +106,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/long-covid-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID in VitaminDWiki&quot;&gt;Long-COVID&lt;/a&gt; 78+ items
+#### VitaminDWiki - &lt;a href=&quot;/posts/long-covid-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID in VitaminDWiki&quot;&gt;Long-COVID&lt;/a&gt; 78+ items
 
 &lt;!-- ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~ --&gt;
 
@@ -208,13 +208,13 @@ AST Structure:
 │   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;GENES or GENETICS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items`
-│   inner_content: `VitaminDwiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items`
+│   full_match: `!!!!VitaminDWiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items`
+│   inner_content: `VitaminDWiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Long-COVID in VitaminDWiki|Long-COVID))`
 │   │   inner_content: `Long-COVID in VitaminDWiki|Long-COVID`
@@ -266,7 +266,7 @@ Host genetic polymorphisms are recognized as a critical determinant of diversity
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
 {LIST}
 ---
-!!!!VitaminDwiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items
+!!!!VitaminDWiki - ((Long-COVID in VitaminDWiki|Long-COVID)) 78+ items
 ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~
 </code>
 </pre>

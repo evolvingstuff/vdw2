@@ -31,7 +31,7 @@ Conclusion: This meta-analysis showed correlations between vitamin D level and I
 
 ---
 
-#### VitaminDwiki –  <a href="/posts/overview-muscles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Muscles and Vitamin D">Overview Muscles and Vitamin D</a> contains
+#### VitaminDWiki –  <a href="/posts/overview-muscles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Muscles and Vitamin D">Overview Muscles and Vitamin D</a> contains
 
 
 
@@ -60,7 +60,7 @@ Conclusion: This meta-analysis showed correlations between vitamin D level and I
 
 ---
 
-#### VitaminDwiki –  &lt;a href=&quot;/posts/overview-muscles-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Muscles and Vitamin D&quot;&gt;Overview Muscles and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki –  &lt;a href=&quot;/posts/overview-muscles-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Muscles and Vitamin D&quot;&gt;Overview Muscles and Vitamin D&lt;/a&gt; contains
 
 
 
@@ -112,13 +112,13 @@ AST Structure:
 │   inner_content: `, 95% CI: 1.81-5.79; p &lt; 0.0001).\n\nConclusion: This meta-analysis showed correlations between vitamin D level and IIM. The results indicated, VDD may be a risk factor for IIM, a determinant of immune dysregulation in IIM, or a consequence of IIM. Also, it implied further research to determine whether vitamin D supplementation is beneficial for patients with IIM.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains`
-│   inner_content: `VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains`
+│   inner_content: `VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki –  `
-│   │   inner_content: `VitaminDwiki –  `
+│   │   full_match: `VitaminDWiki –  `
+│   │   inner_content: `VitaminDWiki –  `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Muscles and Vitamin D))`
 │   │   inner_content: `Overview Muscles and Vitamin D`
@@ -175,7 +175,7 @@ Results: Search revealed __five studies__ with 286 IIM patients and 480 healthy 
 
 Conclusion: This meta-analysis showed correlations between vitamin D level and IIM. The results indicated, VDD may be a risk factor for IIM, a determinant of immune dysregulation in IIM, or a consequence of IIM. Also, it implied further research to determine whether vitamin D supplementation is beneficial for patients with IIM.
 ---
-!!!!VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains
+!!!!VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains
 {include page=&quot;Overview Muscles and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 {include page=&quot;Overview Muscles and Vitamin D&quot; start=&quot;~tc~ startl ~/tc~&quot; stop=&quot;~tc~ endl ~/tc~&quot;}

@@ -60,7 +60,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * <a href="/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D dosing - weekly may be better than daily – video Aug 2018">Vitamin D dosing - weekly may be better than daily – video Aug 2018</a>
 
-* [Take vitamin D3 daily or weekly](https://www.vitamindwiki.com/tiki-index.php?page_id=2475) has the following chart
+* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php?page_id=2475) has the following chart
 
 &nbsp;&nbsp;&nbsp;&nbsp;This chart unrealistically assumes 100% compliance for daily dosing
 
@@ -224,7 +224,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * &lt;a href=&quot;/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D dosing - weekly may be better than daily – video Aug 2018&quot;&gt;Vitamin D dosing - weekly may be better than daily – video Aug 2018&lt;/a&gt;
 
-* [Take vitamin D3 daily or weekly](https://www.vitamindwiki.com/tiki-index.php?page_id=2475) has the following chart
+* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php?page_id=2475) has the following chart
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;This chart unrealistically assumes 100% compliance for daily dosing
 
@@ -590,14 +590,14 @@ AST Structure:
 │   │   │   inner_content: `Vitamin D dosing - weekly may be better than daily – video Aug 2018`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://www.vitamindwiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart`
-│   inner_content: `[https://www.vitamindwiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart`
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://www.vitamindwiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly]`
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly]`
 │   │   inner_content: `Take vitamin D3 daily or weekly`
-│   │   url: `https://www.vitamindwiki.com/tiki-index.php?page_id=2475`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2475`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Take vitamin D3 daily or weekly`
@@ -1173,7 +1173,7 @@ __~~#00F:&#39;&#39;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s
 !!!!!More often than monthly (includes chart)
 *((Vitamin D every 25 days may be BETTER than daily – RCT May 2018))
 *((Vitamin D dosing - weekly may be better than daily – video Aug 2018))
-*[https://www.vitamindwiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] has the following chart
 +This chart unrealistically assumes 100% compliance for daily dosing
 {img fileId=&quot;2132&quot;  max =&quot;400&quot;} chart was made ~2013
 ~~#00F:&#39;&#39;__Study on this page must have had an untypically high compliance rate__&#39;&#39;~~

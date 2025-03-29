@@ -154,7 +154,7 @@ Summary: Vitamin D status appears to be relevant to reproductive physiology, and
 
 ---
 
-#### VitaminDwiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
+#### VitaminDWiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
 
 - - - - - - - - -
 
@@ -309,7 +309,7 @@ Summary: Vitamin D status appears to be relevant to reproductive physiology, and
 
 ---
 
-#### VitaminDwiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
+#### VitaminDWiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
 
 - - - - - - - - -
 
@@ -1398,13 +1398,13 @@ AST Structure:
 │   │   inner_content: ` supplementation on spermatogram and endocrine factors in asthenozoospermia infertile men: a randomized, triple blind, placebo-controlled clinical trial. Reprod Biol Endocrinol 2021; 19:102.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Fertility and Sperm)) category contains `
-│   inner_content: `VitaminDwiki – ((Fertility and Sperm)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Fertility and Sperm)) category contains `
+│   inner_content: `VitaminDWiki – ((Fertility and Sperm)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Fertility and Sperm))`
 │   │   inner_content: `Fertility and Sperm`
@@ -1528,7 +1528,7 @@ Summary: Vitamin D status appears to be relevant to reproductive physiology, and
 #Homayouni-Meymandi M, Sotoodehnejadnematalahi F, Nasr-Esfahani MH. Relationship between serum __vitamin D__ in male, sperm function and clinical outcomes in infertile men candidate for ICSI: a cohort study. Int J FertilSteril 2022; 16:115–121.
 #Maghsoumi-Norouzabad L, Javid AZ, Mansoori A, et al. The effects of __vitamin D__ supplementation on spermatogram and endocrine factors in asthenozoospermia infertile men: a randomized, triple blind, placebo-controlled clinical trial. Reprod Biol Endocrinol 2021; 19:102.
 ---
-!!!!VitaminDwiki – ((Fertility and Sperm)) category contains 
+!!!!VitaminDWiki – ((Fertility and Sperm)) category contains 
 {include page=&quot;Fertility and Sperm&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 - - - - - - - - -
 {include page=&quot;Fertility and Sperm&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}

@@ -95,7 +95,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [Seniors](/categories/seniors) category is associated with 37 categories – examples
+#### VitaminDWiki [Seniors](/categories/seniors) category is associated with 37 categories – examples
 
 
 
@@ -188,7 +188,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [Seniors](/categories/seniors) category is associated with 37 categories – examples
+#### VitaminDWiki [Seniors](/categories/seniors) category is associated with 37 categories – examples
 
 
 
@@ -294,13 +294,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((Seniors)) category is associated with 37 categories – examples`
-│   inner_content: `VitaminDwiki ((Seniors)) category is associated with 37 categories – examples`
+│   full_match: `!!!!VitaminDWiki ((Seniors)) category is associated with 37 categories – examples`
+│   inner_content: `VitaminDWiki ((Seniors)) category is associated with 37 categories – examples`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((Seniors))`
 │   │   inner_content: `Seniors`
@@ -381,7 +381,7 @@ __References online__
 !!!!VitaminDWiki – ((Seniors)) contains:
 {include page=&quot;Seniors&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki ((Seniors)) category is associated with 37 categories – examples
+!!!!VitaminDWiki ((Seniors)) category is associated with 37 categories – examples
 {include page=&quot;Seniors&quot; start=&quot;~tc~ startcat ~/tc~&quot; stop=&quot;~tc~ endcat ~/tc~&quot;}
 
 </code>

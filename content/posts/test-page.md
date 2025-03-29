@@ -21,7 +21,7 @@ date: 2025-03-29
 
 0:13:24.6  **Holford** : We tend to get red. <span>[laughter]</span>
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://vitamindwiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indent 3
 
@@ -59,12 +59,13 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | --- | --- |
 | Websites | Action |
 | www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
-| www.vitamindwiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
+| www.VitaminDWiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
 
 ---
 
+#### VitaminDWiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -84,7 +85,7 @@ Markdown:
 
 0:13:24.6  **Holford** : We tend to get red. &lt;span&gt;[laughter]&lt;/span&gt;
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://vitamindwiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indent 3
 
@@ -122,12 +123,13 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | --- | --- |
 | Websites | Action |
 | www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
-| www.vitamindwiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
+| www.VitaminDWiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter &amp; search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
 
 ---
 
+#### VitaminDWiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart
 
 
 AST Structure:
@@ -203,9 +205,9 @@ AST Structure:
 │   │   inner_content: `laughter`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=1336|90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials]`
+│   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=1336|90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials]`
 │   inner_content: `90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials`
-│   url: `https://vitamindwiki.com/tiki-index.php?page_id=1336`
+│   url: `https://VitaminDWiki.com/tiki-index.php?page_id=1336`
 │   children:
 │   ├── TextNode
 │   │   full_match: `90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials`
@@ -331,8 +333,8 @@ AST Structure:
 │   inner_content: `---`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── TableNode
-│   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
-│   inner_content: `Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here`
+│   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
+│   inner_content: `Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))\nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here`
 │   children:
 │   ├── TableRowNode
 │   │   full_match: `Websites|Action`
@@ -376,16 +378,16 @@ AST Structure:
 │   │   │   │   │   full_match: `Vitamin D for cancer – find “Call-To-Action”`
 │   │   │   │   │   inner_content: `Vitamin D for cancer – find “Call-To-Action”`
 │   ├── TableRowNode
-│   │   full_match: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
-│   │   inner_content: `www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   full_match: `www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
+│   │   inner_content: `www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
 │   │   children:
 │   │   ├── TableCellNode
-│   │   │   full_match: `www.vitamindwiki.com `
-│   │   │   inner_content: `www.vitamindwiki.com `
+│   │   │   full_match: `www.VitaminDWiki.com `
+│   │   │   inner_content: `www.VitaminDWiki.com `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `www.vitamindwiki.com `
-│   │   │   │   inner_content: `www.vitamindwiki.com `
+│   │   │   │   full_match: `www.VitaminDWiki.com `
+│   │   │   │   inner_content: `www.VitaminDWiki.com `
 │   │   ├── TableCellNode
 │   │   │   full_match: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
 │   │   │   inner_content: `Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))`
@@ -454,8 +456,26 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Start with:  I’m New Here`
 │   │   │   │   inner_content: `Start with:  I’m New Here`├── HorizontalRuleNode
-│   full_match: `\n---`
-│   inner_content: `---`
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `\n!!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart`
+│   inner_content: `VitaminDWiki – ((Getting Vitamin D into your body)) has a chart`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
+│   ├── LocalLinkNode
+│   │   full_match: `((Getting Vitamin D into your body))`
+│   │   inner_content: `Getting Vitamin D into your body`
+│   │   page: `Getting Vitamin D into your body`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Getting Vitamin D into your body`
+│   │   │   inner_content: `Getting Vitamin D into your body`
+│   ├── TextNode
+│   │   full_match: ` has a chart`
+│   │   inner_content: ` has a chart`
 
 Original Tiki:
 -------------
@@ -471,7 +491,7 @@ Original Tiki:
 
 0:13:24.6 __Holford__: We tend to get red. [laughter]
 
-[https://vitamindwiki.com/tiki-index.php?page_id=1336|90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials]
+[https://VitaminDWiki.com/tiki-index.php?page_id=1336|90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials]
 
 +++Indent 3
 ++++Indent 4
@@ -500,9 +520,11 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 ---
 ||Websites|Action
 www.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]
-www.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))
+www.VitaminDWiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis))
 www.canceractive.com    |Subscribe to newsletter &amp; search website
 https://yestolife.org.uk/     |Start with:  I’m New Here||
 ---
+
+!!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart
 </code>
 </pre>

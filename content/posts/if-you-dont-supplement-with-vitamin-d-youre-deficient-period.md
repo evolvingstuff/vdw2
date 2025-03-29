@@ -37,7 +37,7 @@ categories:
 
 ---
 
-#### See also in VitaminDwiki
+#### See also in VitaminDWiki
 
 * [High-Dose](/categories/high-dose) category has 
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=190{SQL} -->
@@ -83,7 +83,7 @@ Markdown:
 
 ---
 
-#### See also in VitaminDwiki
+#### See also in VitaminDWiki
 
 * [High-Dose](/categories/high-dose) category has 
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=190{SQL} --&gt;
@@ -242,13 +242,13 @@ AST Structure:
 │   │   │   inner_content: ` pages`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!See also in VitaminDwiki `
-│   inner_content: `See also in VitaminDwiki`
+│   full_match: `!!!!See also in VitaminDWiki `
+│   inner_content: `See also in VitaminDWiki`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `See also in VitaminDwiki`
-│   │   inner_content: `See also in VitaminDwiki`├── TextNode
+│   │   full_match: `See also in VitaminDWiki`
+│   │   inner_content: `See also in VitaminDWiki`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*((High-Dose)) category has {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=190{SQL} items`
@@ -343,7 +343,7 @@ __[https://is.gd/cheng2023|GrassrootsHealth]__
 *&quot;Vitamin C is a water-soluble vitamin, therefore if it is taken as one big dose, much of it will be excreted. The body is able to absorb close to 1g of vitamin C every hour. To take it, you can either put it in water and drink it throughout the day or divide the larger dose into 3 smaller doses taken at different times of the day.&quot;
 **&#39;&#39;VitaminDWiki ((Vitamin C)) category contains {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=188{SQL} pages&#39;&#39;
 ---
-!!!!See also in VitaminDwiki 
+!!!!See also in VitaminDWiki 
 *((High-Dose)) category has {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=190{SQL} items
 *((High Dose Vitamin D for autoimmune diseases -blog June 13, 2021)) Dr. Cheng
 *((Aging leads to a decrease of vitamin D getting to cells – Sept 2017))

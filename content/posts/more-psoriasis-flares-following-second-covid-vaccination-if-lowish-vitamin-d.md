@@ -51,7 +51,7 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -107,7 +107,7 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -290,13 +290,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -393,7 +393,7 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 !!!!VitaminDWiki – ((Psoriasis)) category contains
 {include page=&quot;Psoriasis&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 ---
 !!!!See also VitaminDWiki

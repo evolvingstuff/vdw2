@@ -470,7 +470,7 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023](/posts/health-can-be-greatly-improved-by-weekly-50000-iu-of-vitamin-d-video-and-transcript)
 
-  * [48 Health problems fought by weekly 50K Vitamin D](https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
+  * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
 
 * <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
@@ -480,7 +480,7 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">When taking >4,000 IU daily for >1 year, co-factors such as Magnesium and Vitamin K2 are important</a>
 
-* [Almost 2 months to respond to 50K weekly unless start with loading dose](https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose)
+* [Almost 2 months to respond to 50K weekly unless start with loading dose](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose)
 
 * <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>
 
@@ -967,7 +967,7 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023](/posts/health-can-be-greatly-improved-by-weekly-50000-iu-of-vitamin-d-video-and-transcript)
 
-  * [48 Health problems fought by weekly 50K Vitamin D](https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
+  * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
 
 * &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
 
@@ -977,7 +977,7 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;When taking &gt;4,000 IU daily for &gt;1 year, co-factors such as Magnesium and Vitamin K2 are important&lt;/a&gt;
 
-* [Almost 2 months to respond to 50K weekly unless start with loading dose](https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose)
+* [Almost 2 months to respond to 50K weekly unless start with loading dose](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose)
 
 * &lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;
 
@@ -2395,14 +2395,14 @@ AST Structure:
 │   │   │   inner_content: `Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `**[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
-│   inner_content: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
+│   full_match: `**[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
+│   inner_content: `[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
 │   depth: `2`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
+│   │   full_match: `[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]`
 │   │   inner_content: `48 Health problems fought by weekly 50K Vitamin D`
-│   │   url: `https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D`
+│   │   url: `https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `48 Health problems fought by weekly 50K Vitamin D`
@@ -2465,14 +2465,14 @@ AST Structure:
 │   │   │   inner_content: `Vitamin D Cofactors in a nutshell|When taking &gt;4,000 IU daily for &gt;1 year, co-factors such as Magnesium and Vitamin K2 are important`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
-│   inner_content: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
+│   full_match: `*[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
+│   inner_content: `[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
+│   │   full_match: `[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]`
 │   │   inner_content: `Almost 2 months to respond to 50K weekly unless start with loading dose`
-│   │   url: `https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose`
+│   │   url: `https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Almost 2 months to respond to 50K weekly unless start with loading dose`
@@ -3111,12 +3111,12 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 !!!VitaminDWiki
 *((Health Problems and D|Vitamin D prevents and/or treats &gt;200 health problems))
 *((Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023))
-**[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]
+**[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D|48 Health problems fought by weekly 50K Vitamin D]
 *((Is 50 ng of vitamin D too high, just right, or not enough))
 *((Better than Daily|Vitamin D is often better when taken weekly instead of daily))
 **((44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020))
 *((Vitamin D Cofactors in a nutshell|When taking &gt;4,000 IU daily for &gt;1 year, co-factors such as Magnesium and Vitamin K2 are important))
-*[https://vitamindwiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]
+*[https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Almost_2_months_to_respond_to_50K_weekly_unless_start_with_loading_dose|Almost 2 months to respond to 50K weekly unless start with loading dose]
 *((Can get 50,000 IU Vitamin D anywhere on the globe))
 *((Vitamin D Receptor|A Vitamin D receptor gene can limit how much Vitamin D actually gets to the cells))
 **Diseases such as COVID, and many cancers have learned to protect themselves by de-activating the Vitamin D

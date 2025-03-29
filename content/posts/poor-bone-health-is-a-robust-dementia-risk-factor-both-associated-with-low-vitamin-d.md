@@ -21,7 +21,7 @@ categories:
 
 ---
 
-#### See vitaminDWiki: <a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a>
+#### See VitaminDWiki: <a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a>
 
 
 
@@ -40,7 +40,7 @@ Markdown:
 
 ---
 
-#### See vitaminDWiki: &lt;a href=&quot;/posts/dementia-is-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dementia is associated with low vitamin D - many studies&quot;&gt;Dementia is associated with low vitamin D - many studies&lt;/a&gt;
+#### See VitaminDWiki: &lt;a href=&quot;/posts/dementia-is-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dementia is associated with low vitamin D - many studies&quot;&gt;Dementia is associated with low vitamin D - many studies&lt;/a&gt;
 
 
 
@@ -105,13 +105,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!See vitaminDWiki: ((Dementia is associated with low vitamin D - many studies))`
-│   inner_content: `See vitaminDWiki: ((Dementia is associated with low vitamin D - many studies))`
+│   full_match: `!!!!See VitaminDWiki: ((Dementia is associated with low vitamin D - many studies))`
+│   inner_content: `See VitaminDWiki: ((Dementia is associated with low vitamin D - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `See vitaminDWiki: `
-│   │   inner_content: `See vitaminDWiki: `
+│   │   full_match: `See VitaminDWiki: `
+│   │   inner_content: `See VitaminDWiki: `
 │   ├── LocalLinkNode
 │   │   full_match: `((Dementia is associated with low vitamin D - many studies))`
 │   │   inner_content: `Dementia is associated with low vitamin D - many studies`
@@ -130,7 +130,7 @@ Original Tiki:
 __Based on &quot;Association of Bone Mineral Density and Dementia: The Rotterdam Study&quot; March 2023__
 {FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19406&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!See vitaminDWiki: ((Dementia is associated with low vitamin D - many studies))
+!!!!See VitaminDWiki: ((Dementia is associated with low vitamin D - many studies))
 
 
 

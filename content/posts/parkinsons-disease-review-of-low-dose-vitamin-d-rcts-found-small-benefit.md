@@ -31,7 +31,7 @@ In recent years, neurodegenerative diseases are a leading cause of morbidity and
 
 ---
 
-#### VitaminDwiki – <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a> contains:
+#### VitaminDWiki – <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a> contains:
 
 
 
@@ -60,7 +60,7 @@ In recent years, neurodegenerative diseases are a leading cause of morbidity and
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies&lt;/a&gt; contains:
+#### VitaminDWiki – &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies&lt;/a&gt; contains:
 
 
 
@@ -155,13 +155,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains:`
-│   inner_content: `VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains:`
+│   full_match: `!!!!VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains:`
+│   inner_content: `VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains:`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Comparing High-dose vitamin D therapies))`
 │   │   inner_content: `Comparing High-dose vitamin D therapies`
@@ -203,7 +203,7 @@ In recent years, neurodegenerative diseases are a leading cause of morbidity and
 !!!!VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains :  
 {include page=&quot;Overview Parkinson&#39;s and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains:
+!!!!VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains:
 {include page=&quot;Comparing High-dose vitamin D therapies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 </code>

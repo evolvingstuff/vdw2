@@ -29,7 +29,7 @@ Excess deaths provide total impact estimates of major crises, such as the COVID-
 
 ---
 
-#### VitaminDwiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
 
 ---
 
@@ -62,7 +62,7 @@ Excess deaths provide total impact estimates of major crises, such as the COVID-
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
 
 ---
 
@@ -144,13 +144,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Excess deaths - 5 possible reasons - many studies))`
-│   inner_content: `VitaminDwiki - ((Excess deaths - 5 possible reasons - many studies))`
+│   full_match: `!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))`
+│   inner_content: `VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Excess deaths - 5 possible reasons - many studies))`
 │   │   inner_content: `Excess deaths - 5 possible reasons - many studies`
@@ -203,7 +203,7 @@ Version 2. medRxiv. Preprint. 2023 Apr 26 [revised 2023 Aug 22]. doi: 10.1101/20
 Excess deaths provide total impact estimates of major crises, such as the COVID-19 pandemic. We evaluated excess death’s trajectories during 2020–2023 across countries with accurate death registration and population age structure data; and assessed relationships with economic indicators of vulnerability. Using the Human Mortality Database on 34 countries, excess deaths were calculated for 2020–2023 (to week 29, 2023) using 2017–2019 as reference, with weekly expected death calculations and adjustment for 5 age strata. Countries were divided into less and more vulnerable; the latter had per capita nominal GDP&lt;$30,000, Gini&gt;0.35 for income inequality and/or at least 2.5% of their population living in poverty. Excess deaths (as proportion of expected deaths, p%) were inversely correlated with per capita GDP (r=−0.60), correlated with proportion living in poverty (r=0.66) and modestly correlated with income inequality (r=0.45). Incidence rate ratio for deaths was 1.06 (95% confidence interval, 1.04–1.08) in the more versus less vulnerable countries. Excess deaths started deviating in the two groups after the first wave. Between-country heterogeneity diminished over time within each of the two groups. Less vulnerable countries had mean p%=−0.8% and 0.4% in 0–64 and &gt;65 year-old strata while more vulnerable countries had mean p%=7.0% and 7.2%, respectively. Usually lower death rates were seen in children 0–14 years old during 2020–2023 versus pre-pandemic years. While the pandemic hit some countries earlier than others, country vulnerability dominated eventually the cumulative impact. Half of the analyzed countries witnessed no substantial excess deaths versus pre-pandemic levels, while the other half suffered major death tolls.
 {FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20189&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki - ((Excess deaths - 5 possible reasons - many studies))
+!!!!VitaminDWiki - ((Excess deaths - 5 possible reasons - many studies))
 ---
 !!!!More excess deaths if more vaccinations
 __((Excess deaths after COVID vaccination - 17 countries - Sept 2023))__

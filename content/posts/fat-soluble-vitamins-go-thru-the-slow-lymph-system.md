@@ -106,7 +106,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 ---
 
-#### VitaminDwiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart
+#### VitaminDWiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart
 
 <img src="display2696" alt="image" width="700">
 
@@ -218,7 +218,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart
+#### VitaminDWiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart
 
 &lt;img src=&quot;display2696&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -613,13 +613,13 @@ AST Structure:
 │   │   │   inner_content: `Sublingual vitamin D|sublingual`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Getting Vitamin D into your body)) has a chart`
-│   inner_content: `VitaminDwiki – ((Getting Vitamin D into your body)) has a chart`
+│   full_match: `!!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart`
+│   inner_content: `VitaminDWiki – ((Getting Vitamin D into your body)) has a chart`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Getting Vitamin D into your body))`
 │   │   inner_content: `Getting Vitamin D into your body`
@@ -749,7 +749,7 @@ __Suspect: Both sublingual and emulsion forms of the vitamins get into the blood
 !!!!Vitamin D from the skin enters the blood quickly, bypassing the lymphatic system
 __Skin sources of Vitamin D:((Noontime sun and D|Sun)), ((Vitamin D from low-cost UVB lamps|UV)), ((Topical Vitamin D provides more benefits than oral sometimes - many studies|topical)), ((Sublingual vitamin D|sublingual))__
 ---
-!!!!VitaminDwiki – ((Getting Vitamin D into your body)) has a chart
+!!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart
 {img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 ---
 !!!!The TOP articles in Forms of Vitamin D (including Calcitriol, Calcidiol, and Injection):

@@ -50,7 +50,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
 ---
 
@@ -105,7 +105,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
 ---
 
@@ -183,17 +183,17 @@ AST Structure:
 │   │   inner_content: ` category`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki - [https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
-│   inner_content: `VitaminDWiki - [https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
+│   full_match: `!!!!VitaminDWiki - [https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
+│   inner_content: `VitaminDWiki - [https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
+│   │   full_match: `[https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]`
 │   │   inner_content: `Omega-3 associations  with other categories`
-│   │   url: `https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3`
+│   │   url: `https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Omega-3 associations  with other categories`
@@ -270,7 +270,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 ---
 !!!!VitaminDWiki - ((ADHD and Vitamin D Deficiency)) category
 ---
-!!!!VitaminDWiki - [https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]
+!!!!VitaminDWiki - [https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3|Omega-3 associations  with other categories]
  {include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ startlist ~/tc~&quot; stop=&quot;~tc~ endlist~/tc~&quot;}
 ---
 !!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=4360{SQL}~~ visits to this page 

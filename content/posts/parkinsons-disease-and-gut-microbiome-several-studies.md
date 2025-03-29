@@ -130,7 +130,7 @@ The causes of complex diseases remain an enigma despite decades of epidemiologic
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) category contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) category contains
 
 
 
@@ -257,7 +257,7 @@ The causes of complex diseases remain an enigma despite decades of epidemiologic
 
 ---
 
-#### VitaminDwiki – [Microbiome](/categories/microbiome) category contains
+#### VitaminDWiki – [Microbiome](/categories/microbiome) category contains
 
 
 
@@ -613,13 +613,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Microbiome)) category contains `
-│   inner_content: `VitaminDwiki – ((Microbiome)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Microbiome)) category contains `
+│   inner_content: `VitaminDWiki – ((Microbiome)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Microbiome))`
 │   │   inner_content: `Microbiome`
@@ -722,7 +722,7 @@ The causes of complex diseases remain an enigma despite decades of epidemiologic
 !!!!VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains   
 {include page=&quot;Overview Parkinson&#39;s and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Microbiome)) category contains 
+!!!!VitaminDWiki – ((Microbiome)) category contains 
 {include page=&quot;Microbiome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 
 </code>

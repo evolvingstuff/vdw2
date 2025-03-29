@@ -117,7 +117,7 @@ To journal your observations as you go. Record how your body is responding, so y
 
 ---
 
-#### VitaminDwiki – <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a> contains her protocol:
+#### VitaminDWiki – <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a> contains her protocol:
 
 ---
 
@@ -241,7 +241,7 @@ To journal your observations as you go. Record how your body is responding, so y
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies&lt;/a&gt; contains her protocol:
+#### VitaminDWiki – &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies&lt;/a&gt; contains her protocol:
 
 ---
 
@@ -520,13 +520,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:`
-│   inner_content: `VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:`
+│   full_match: `!!!!VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:`
+│   inner_content: `VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Comparing High-dose vitamin D therapies))`
 │   │   inner_content: `Comparing High-dose vitamin D therapies`
@@ -666,7 +666,7 @@ To journal your observations as you go. Record how your body is responding, so y
 !!!!VitaminDWiki – ((Sleep)) category contains     
 {include page=&quot;Sleep&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:
+!!!!VitaminDWiki – ((Comparing High-dose vitamin D therapies)) contains her protocol:
 {include page=&quot;Comparing High-dose vitamin D therapies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14769{SQL}~~ visits to this page 

@@ -52,11 +52,11 @@ Furthermore, vitamin D insufficiency is often related to CVD and connected risk 
 
 ---
 
-#### VitaminDwiki – [Cardiovascular](/categories/cardiovascular) category contains
+#### VitaminDWiki – [Cardiovascular](/categories/cardiovascular) category contains
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
 ---
 
@@ -134,11 +134,11 @@ Furthermore, vitamin D insufficiency is often related to CVD and connected risk 
 
 ---
 
-#### VitaminDwiki – [Cardiovascular](/categories/cardiovascular) category contains
+#### VitaminDWiki – [Cardiovascular](/categories/cardiovascular) category contains
 
 ---
 
-#### VitaminDwiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
+#### VitaminDWiki – [Metabolic Syndrome](/categories/metabolic-syndrome) contains
 
 ---
 
@@ -269,13 +269,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Cardiovascular)) category contains`
-│   inner_content: `VitaminDwiki – ((Cardiovascular)) category contains`
+│   full_match: `!!!!VitaminDWiki – ((Cardiovascular)) category contains`
+│   inner_content: `VitaminDWiki – ((Cardiovascular)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Cardiovascular))`
 │   │   inner_content: `Cardiovascular`
@@ -302,13 +302,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Metabolic Syndrome)) contains`
-│   inner_content: `VitaminDwiki – ((Metabolic Syndrome)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Metabolic Syndrome)) contains`
+│   inner_content: `VitaminDWiki – ((Metabolic Syndrome)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Metabolic Syndrome))`
 │   │   inner_content: `Metabolic Syndrome`
@@ -719,10 +719,10 @@ Recently, there has been a surge in interest in assessing its roles. Vitamin D i
 Furthermore, vitamin D insufficiency is often related to CVD and connected risk factors, highlighting the need to know vitamin D’s functions in relation to metabolic syndrome and related processes. Through looking at previous studies, this paper explains why vitamin D is important, how deficiency is related to risk factors for metabolic syndrome through different mechanisms, and how deficiency affects CVD.
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19598&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Cardiovascular)) category contains
+!!!!VitaminDWiki – ((Cardiovascular)) category contains
 {include page=&quot;Cardiovascular&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Metabolic Syndrome)) contains
+!!!!VitaminDWiki – ((Metabolic Syndrome)) contains
 {include page=&quot;Metabolic Syndrome&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!Metabolic Syndrome Associations with 12 other categories

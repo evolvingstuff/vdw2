@@ -56,7 +56,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -169,7 +169,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 ---
 
@@ -300,13 +300,13 @@ AST Structure:
 │   inner_content: `\n00:00:00 - Intro\n00:00:02 - Vitamin D importance for immunity\n00:06:37 - Vitamin D production and deficiency\n00:13:23 - Covid-19 impact on doctors, vitamin D deficiency.\n00:19:46 - Fish consumption and vitamin D deficiency\n00:26:15 - Vitamin D and COVID-19.\n00:32:29 - Vitamin D, clinical trials, calciodial\n00:38:56 - Vitamin D benefits and trials.\n00:44:56 - Excess deaths, pandemic, covid-19\n00:51:48 - Medical guidelines, excess deaths, age groups.\n00:58:38 - Increase in illness and deaths, vaccination effects, vitamin D activation.\n01:06:02 - Vitamin D, VDR, immunity\n01:12:36 - Vaccination, vitamin D, immune response`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -523,7 +523,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 01:06:02 - Vitamin D, VDR, immunity
 01:12:36 - Vaccination, vitamin D, immune response
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 ---
 !!!!~~#F00:18+~~ VitaminDWiki pages with GRIMES OR CAMPBELL in the title

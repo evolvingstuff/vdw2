@@ -140,7 +140,7 @@ categories:
 
 ---
 
-#### See related in VitaminDwiki:
+#### See related in VitaminDWiki:
 
 * <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
 
@@ -279,7 +279,7 @@ Markdown:
 
 ---
 
-#### See related in VitaminDwiki:
+#### See related in VitaminDWiki:
 
 * &lt;a href=&quot;/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies&quot;&gt;Health benefit of Sunlight is more than Vitamin D in the blood - many studies&lt;/a&gt;
 
@@ -1299,13 +1299,13 @@ AST Structure:
 │   │   width: 900├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!See related in VitaminDwiki: `
-│   inner_content: `See related in VitaminDwiki:`
+│   full_match: `!!!!See related in VitaminDWiki: `
+│   inner_content: `See related in VitaminDWiki:`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `See related in VitaminDwiki:`
-│   │   inner_content: `See related in VitaminDwiki:`├── TextNode
+│   │   full_match: `See related in VitaminDWiki:`
+│   │   inner_content: `See related in VitaminDWiki:`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*((Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies))`
@@ -1402,7 +1402,7 @@ __[https://www.youtube.com/watch?v=UF0nqolsNZc|YouTube 160 minutes]__
 !!!!!Some of his [https://www.youtube.com/@hubermanlab/videos|Videos to April 2023]
 {img type=&quot;attId&quot; attId=&quot;19481&quot; width=&quot;900&quot;}
 ---
-!!!!See related in VitaminDwiki: 
+!!!!See related in VitaminDWiki: 
 *((Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies))
 *((Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.))
 </code>

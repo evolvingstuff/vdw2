@@ -88,7 +88,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-#### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+#### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
@@ -187,7 +187,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-#### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+#### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
@@ -531,13 +531,13 @@ AST Structure:
 │   │   │   inner_content: `44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Better than Daily)) contains`
-│   inner_content: `VitaminDwiki – ((Better than Daily)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Better than Daily)) contains`
+│   inner_content: `VitaminDWiki – ((Better than Daily)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Better than Daily))`
 │   │   inner_content: `Better than Daily`
@@ -669,7 +669,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 __((Smoking reduces vitamin D - many studies))__
 __((44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020))__
 ---
-!!!!VitaminDwiki – ((Better than Daily)) contains
+!!!!VitaminDWiki – ((Better than Daily)) contains
 {include page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}
 ---
 !!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14395{SQL}~~ visits to this page 

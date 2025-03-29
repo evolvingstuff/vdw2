@@ -21,7 +21,7 @@ categories:
 
 1. Reduce Calcium intake (so that the same amout of Calcium gets into the body)
 
-  * Note: Might only need to reduce the [rock-calcium, not natural Calcium (plants, dairy)](https://vitamindwiki.com/tiki-index.php?page_id=12996)
+  * Note: Might only need to reduce the [rock-calcium, not natural Calcium (plants, dairy)](https://VitaminDWiki.com/tiki-index.php?page_id=12996)
 
 1. Take Vitamin K2 - at least once every 3 days while taking high-dose vitamin D
 
@@ -63,7 +63,7 @@ Markdown:
 
 1. Reduce Calcium intake (so that the same amout of Calcium gets into the body)
 
-  * Note: Might only need to reduce the [rock-calcium, not natural Calcium (plants, dairy)](https://vitamindwiki.com/tiki-index.php?page_id=12996)
+  * Note: Might only need to reduce the [rock-calcium, not natural Calcium (plants, dairy)](https://VitaminDWiki.com/tiki-index.php?page_id=12996)
 
 1. Take Vitamin K2 - at least once every 3 days while taking high-dose vitamin D
 
@@ -128,17 +128,17 @@ AST Structure:
 │   │   inner_content: `Reduce Calcium intake (so that the same amout of Calcium gets into the body)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `**Note: Might only need to reduce the [https://vitamindwiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
-│   inner_content: `Note: Might only need to reduce the [https://vitamindwiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
+│   full_match: `**Note: Might only need to reduce the [https://VitaminDWiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
+│   inner_content: `Note: Might only need to reduce the [https://VitaminDWiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
 │   depth: `2`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Note: Might only need to reduce the `
 │   │   inner_content: `Note: Might only need to reduce the `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]`
 │   │   inner_content: `rock-calcium, not natural Calcium (plants, dairy)`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=12996`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=12996`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `rock-calcium, not natural Calcium (plants, dairy)`
@@ -288,7 +288,7 @@ Original Tiki:
 ----
 !!!!2 options to reduce excess Calcium in the arteries if take high-dose Vitamin D
 #Reduce Calcium intake (so that the same amout of Calcium gets into the body)
-**Note: Might only need to reduce the [https://vitamindwiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]
+**Note: Might only need to reduce the [https://VitaminDWiki.com/tiki-index.php?page_id=12996|rock-calcium, not natural Calcium (plants, dairy)]
 #Take Vitamin K2 - at least once every 3 days while taking high-dose vitamin D
 ---
 !!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 53  OR categId = 106 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Calcium and Vitamin K2

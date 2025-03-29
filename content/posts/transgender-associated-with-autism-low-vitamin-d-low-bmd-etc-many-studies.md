@@ -14,9 +14,9 @@ categories:
 
 
 
-[Vitamin D levels have been crashing](https://vitamindwiki.com/tiki-index.php?page_id=10189)
+[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php?page_id=10189)
 
-1) There has been a big increase in [Autism](https://vitamindwiki.com/tiki-index.php?page_id=605)
+1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php?page_id=605)
 
 2) Vitamin D has been proven to both prevent and treat Autism
 
@@ -388,9 +388,9 @@ Markdown:
 --------
 
 
-[Vitamin D levels have been crashing](https://vitamindwiki.com/tiki-index.php?page_id=10189)
+[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php?page_id=10189)
 
-1) There has been a big increase in [Autism](https://vitamindwiki.com/tiki-index.php?page_id=605)
+1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php?page_id=605)
 
 2) Vitamin D has been proven to both prevent and treat Autism
 
@@ -759,8 +759,8 @@ Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://do
 AST Structure:
 -------------
 ├── DivNode
-│   full_match: `{DIV( style=&quot;font-size:20px;&quot;)}\n[https://vitamindwiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]\n1) There has been a big increase in [https://vitamindwiki.com/tiki-index.php?page_id=605|Autism]\n2) Vitamin D has been proven to both prevent and treat Autism\n3) There has been a big increase in Transgender etc. individuals\n4) Perhaps low vitamin D before and/or after birth increases gender confusion\n5) People preparing for transgender therapy had lower Vitamin D levels\n6) Speculation: Increased vitamin D levels sometime after conception will decrease gender confusion\n{DIV}`
-│   inner_content: `\n[https://vitamindwiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]\n1) There has been a big increase in [https://vitamindwiki.com/tiki-index.php?page_id=605|Autism]\n2) Vitamin D has been proven to both prevent and treat Autism\n3) There has been a big increase in Transgender etc. individuals\n4) Perhaps low vitamin D before and/or after birth increases gender confusion\n5) People preparing for transgender therapy had lower Vitamin D levels\n6) Speculation: Increased vitamin D levels sometime after conception will decrease gender confusion\n`
+│   full_match: `{DIV( style=&quot;font-size:20px;&quot;)}\n[https://VitaminDWiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]\n1) There has been a big increase in [https://VitaminDWiki.com/tiki-index.php?page_id=605|Autism]\n2) Vitamin D has been proven to both prevent and treat Autism\n3) There has been a big increase in Transgender etc. individuals\n4) Perhaps low vitamin D before and/or after birth increases gender confusion\n5) People preparing for transgender therapy had lower Vitamin D levels\n6) Speculation: Increased vitamin D levels sometime after conception will decrease gender confusion\n{DIV}`
+│   inner_content: `\n[https://VitaminDWiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]\n1) There has been a big increase in [https://VitaminDWiki.com/tiki-index.php?page_id=605|Autism]\n2) Vitamin D has been proven to both prevent and treat Autism\n3) There has been a big increase in Transgender etc. individuals\n4) Perhaps low vitamin D before and/or after birth increases gender confusion\n5) People preparing for transgender therapy had lower Vitamin D levels\n6) Speculation: Increased vitamin D levels sometime after conception will decrease gender confusion\n`
 │   attrs_dict:
 │   │   raw_content: ( style=&quot;font-size:20px;&quot;)
 │   │   style: font-size:20px;
@@ -769,9 +769,9 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]`
 │   │   inner_content: `Vitamin D levels have been crashing`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=10189`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=10189`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D levels have been crashing`
@@ -780,9 +780,9 @@ AST Structure:
 │   │   full_match: `\n1) There has been a big increase in `
 │   │   inner_content: `\n1) There has been a big increase in `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=605|Autism]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=605|Autism]`
 │   │   inner_content: `Autism`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=605`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=605`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Autism`
@@ -2092,8 +2092,8 @@ AST Structure:
 Original Tiki:
 -------------
 {DIV( style=&quot;font-size:20px;&quot;)}
-[https://vitamindwiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]
-1) There has been a big increase in [https://vitamindwiki.com/tiki-index.php?page_id=605|Autism]
+[https://VitaminDWiki.com/tiki-index.php?page_id=10189|Vitamin D levels have been crashing]
+1) There has been a big increase in [https://VitaminDWiki.com/tiki-index.php?page_id=605|Autism]
 2) Vitamin D has been proven to both prevent and treat Autism
 3) There has been a big increase in Transgender etc. individuals
 4) Perhaps low vitamin D before and/or after birth increases gender confusion

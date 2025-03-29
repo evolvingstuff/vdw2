@@ -31,7 +31,7 @@ categories:
 
 ---
 
-#### VitaminDwiki - [Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024](/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital)
+#### VitaminDWiki - [Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024](/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital)
 
 
 
@@ -60,7 +60,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki - [Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024](/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital)
+#### VitaminDWiki - [Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024](/posts/prescription-drugs-are-the-3rd-cause-of-all-us-deaths-4th-cause-of-deaths-in-hospital)
 
 
 
@@ -157,13 +157,13 @@ AST Structure:
 │   │   │   inner_content: `US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))`
-│   inner_content: `VitaminDwiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))`
+│   full_match: `!!!!VitaminDWiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))`
+│   inner_content: `VitaminDWiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))`
 │   │   inner_content: `Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024`
@@ -188,7 +188,7 @@ Original Tiki:
 ---
 !!!!VitaminDWiki - ((US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually))
 ---
-!!!!VitaminDwiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))
+!!!!VitaminDWiki - ((Prescription drugs are the 3rd cause of all US deaths, 4th cause of deaths in hospital - April 2024))
 
 
 </code>

@@ -17,13 +17,13 @@ categories:
 
 #### What vitamin D level do I need to be healthy - focus on results from VitaminDWiki
 
-To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [2](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=4566&download=y&page=Vitamin D measurements vary with the same sample of blood – March 2014)  [3](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947)  [6](https://vitamindwiki.com/dl974)
+To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [2](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=4566&download=y&page=Vitamin D measurements vary with the same sample of blood – March 2014)  [3](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947)  [6](https://VitaminDWiki.com/dl974)
 
-For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [5](https://vitamindwiki.com/tiki-download_file.php?fileId=1434)
+For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [5](https://VitaminDWiki.com/tiki-download_file.php?fileId=1434)
 
-It's important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [1](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=13329&download=y)  [3](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947)   [6](https://vitamindwiki.com/dl974)
+It's important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [1](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=13329&download=y)  [3](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947)   [6](https://VitaminDWiki.com/dl974)
 
-In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [5](https://vitamindwiki.com/tiki-download_file.php?fileId=1434)
+In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [5](https://VitaminDWiki.com/tiki-download_file.php?fileId=1434)
 
  **[full answer with references, images, videos, etc.](https://www.perplexity.ai/search/What-vitamin-D-_P8Wxp2vTU.M5jd3droFig)** 
 
@@ -76,13 +76,13 @@ Markdown:
 
 #### What vitamin D level do I need to be healthy - focus on results from VitaminDWiki
 
-To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [2](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014)  [3](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947)  [6](https://vitamindwiki.com/dl974)
+To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [2](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014)  [3](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947)  [6](https://VitaminDWiki.com/dl974)
 
-For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [5](https://vitamindwiki.com/tiki-download_file.php?fileId=1434)
+For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [5](https://VitaminDWiki.com/tiki-download_file.php?fileId=1434)
 
-It&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [1](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y)  [3](https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947)   [6](https://vitamindwiki.com/dl974)
+It&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [1](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y)  [3](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947)   [6](https://VitaminDWiki.com/dl974)
 
-In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [5](https://vitamindwiki.com/tiki-download_file.php?fileId=1434)
+In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [5](https://VitaminDWiki.com/tiki-download_file.php?fileId=1434)
 
  **[full answer with references, images, videos, etc.](https://www.perplexity.ai/search/What-vitamin-D-_P8Wxp2vTU.M5jd3droFig)** 
 
@@ -150,72 +150,72 @@ AST Structure:
 │   │   inner_content: `What vitamin D level do I need to be healthy - focus on results from VitaminDWiki`├── TextNode
 │   full_match: `\n\nTo maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   `
 │   inner_content: `\n\nTo maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014|2]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014|2]`
 │   inner_content: `2`
-│   url: `https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014`
+│   url: `https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014`
 │   children:
 │   ├── TextNode
 │   │   full_match: `2`
 │   │   inner_content: `2`├── TextNode
 │   full_match: `  `
 │   inner_content: `  `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947|3]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947|3]`
 │   inner_content: `3`
-│   url: `https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947`
+│   url: `https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947`
 │   children:
 │   ├── TextNode
 │   │   full_match: `3`
 │   │   inner_content: `3`├── TextNode
 │   full_match: `  `
 │   inner_content: `  `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/dl974|6]`
+│   full_match: `[https://VitaminDWiki.com/dl974|6]`
 │   inner_content: `6`
-│   url: `https://vitamindwiki.com/dl974`
+│   url: `https://VitaminDWiki.com/dl974`
 │   children:
 │   ├── TextNode
 │   │   full_match: `6`
 │   │   inner_content: `6`├── TextNode
 │   full_match: `\n\nFor instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  `
 │   inner_content: `\n\nFor instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_file.php?fileId=1434|5]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_file.php?fileId=1434|5]`
 │   inner_content: `5`
-│   url: `https://vitamindwiki.com/tiki-download_file.php?fileId=1434`
+│   url: `https://VitaminDWiki.com/tiki-download_file.php?fileId=1434`
 │   children:
 │   ├── TextNode
 │   │   full_match: `5`
 │   │   inner_content: `5`├── TextNode
 │   full_match: `\n\nIt&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   `
 │   inner_content: `\n\nIt&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y|1]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y|1]`
 │   inner_content: `1`
-│   url: `https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y`
+│   url: `https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y`
 │   children:
 │   ├── TextNode
 │   │   full_match: `1`
 │   │   inner_content: `1`├── TextNode
 │   full_match: `  `
 │   inner_content: `  `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947|3]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947|3]`
 │   inner_content: `3`
-│   url: `https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947`
+│   url: `https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947`
 │   children:
 │   ├── TextNode
 │   │   full_match: `3`
 │   │   inner_content: `3`├── TextNode
 │   full_match: `   `
 │   inner_content: `   `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/dl974|6]`
+│   full_match: `[https://VitaminDWiki.com/dl974|6]`
 │   inner_content: `6`
-│   url: `https://vitamindwiki.com/dl974`
+│   url: `https://VitaminDWiki.com/dl974`
 │   children:
 │   ├── TextNode
 │   │   full_match: `6`
 │   │   inner_content: `6`├── TextNode
 │   full_match: `\n\nIn summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects `
 │   inner_content: `\n\nIn summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/tiki-download_file.php?fileId=1434|5]`
+│   full_match: `[https://VitaminDWiki.com/tiki-download_file.php?fileId=1434|5]`
 │   inner_content: `5`
-│   url: `https://vitamindwiki.com/tiki-download_file.php?fileId=1434`
+│   url: `https://VitaminDWiki.com/tiki-download_file.php?fileId=1434`
 │   children:
 │   ├── TextNode
 │   │   full_match: `5`
@@ -467,13 +467,13 @@ Original Tiki:
 ---
 !!!!What vitamin D level do I need to be healthy - focus on results from VitaminDWiki
 
-To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014|2]  [https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947|3]  [https://vitamindwiki.com/dl974|6]
+To maintain health, vitamin D levels should generally be above 20 ng/mL (50 nmol/L), which is considered sufficient for bone health in most people. However, there is some debate about the optimal level of vitamin D for overall health. Some researchers and health organizations recommend maintaining 25-hydroxyvitamin D (25(OH)D) levels above 30 ng/mL (75 nmol/L) to ensure adequate health benefits   [https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=4566&amp;download=y&amp;page=Vitamin D measurements vary with the same sample of blood – March 2014|2]  [https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947|3]  [https://VitaminDWiki.com/dl974|6]
 
-For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [https://vitamindwiki.com/tiki-download_file.php?fileId=1434|5]
+For instance, the Endocrine Society suggests that vitamin D deficiency is defined as a 25(OH)D level below 20 ng/mL, and insufficiency as a level between 20-29 ng/mL. They recommend maintaining levels between 30-100 ng/mL for optimal health, with a caution that levels greater than 100 ng/mL should probably be avoided to prevent potential toxicity  [https://VitaminDWiki.com/tiki-download_file.php?fileId=1434|5]
 
-It&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y|1]  [https://vitamindwiki.com/tiki-download_wiki_attachment.php?attId=1947|3]   [https://vitamindwiki.com/dl974|6]
+It&#39;s important to note that individual requirements for vitamin D may vary based on factors such as age, skin color, geographic location, and sun exposure. For example, older adults, individuals with darker skin, and those living in higher latitudes may require higher vitamin D intake to maintain sufficient levels   [https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=13329&amp;download=y|1]  [https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=1947|3]   [https://VitaminDWiki.com/dl974|6]
 
-In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [https://vitamindwiki.com/tiki-download_file.php?fileId=1434|5]
+In summary, while there is some variability in the recommended levels, aiming for a vitamin D level above 30 ng/mL (75 nmol/L) is often suggested to ensure adequate health benefits, with the upper limit of normal being around 100 ng/mL (250 nmol/L) to avoid potential adverse effects [https://VitaminDWiki.com/tiki-download_file.php?fileId=1434|5]
 
 __[https://www.perplexity.ai/search/What-vitamin-D-_P8Wxp2vTU.M5jd3droFig|full answer with references, images, videos, etc.]__
 ---

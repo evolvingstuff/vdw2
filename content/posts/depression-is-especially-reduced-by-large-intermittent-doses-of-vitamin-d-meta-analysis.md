@@ -48,11 +48,11 @@ Conclusions: Heterogeneous data suggested that vitamin D supplements are effecti
 
 ---
 
-#### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+#### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
-#### VitaminDwiki – <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+#### VitaminDWiki – <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
 
 <!-- ~tc~ (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) ~/tc~ -->
 
@@ -97,11 +97,11 @@ Conclusions: Heterogeneous data suggested that vitamin D supplements are effecti
 
 ---
 
-#### VitaminDwiki – [Better than Daily](/categories/better-than-daily) contains
+#### VitaminDWiki – [Better than Daily](/categories/better-than-daily) contains
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/diseases-treated-by-high-dose-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies&quot;&gt;Diseases treated by high-dose Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/diseases-treated-by-high-dose-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies&quot;&gt;Diseases treated by high-dose Vitamin D - many studies&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) ~/tc~ --&gt;
 
@@ -221,13 +221,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Better than Daily)) contains`
-│   inner_content: `VitaminDwiki – ((Better than Daily)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Better than Daily)) contains`
+│   inner_content: `VitaminDWiki – ((Better than Daily)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Better than Daily))`
 │   │   inner_content: `Better than Daily`
@@ -254,13 +254,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Diseases treated by high-dose Vitamin D - many studies))`
-│   inner_content: `VitaminDwiki – ((Diseases treated by high-dose Vitamin D - many studies))`
+│   full_match: `!!!!VitaminDWiki – ((Diseases treated by high-dose Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki – ((Diseases treated by high-dose Vitamin D - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Diseases treated by high-dose Vitamin D - many studies))`
 │   │   inner_content: `Diseases treated by high-dose Vitamin D - many studies`
@@ -302,10 +302,10 @@ Conclusions: Heterogeneous data suggested that vitamin D supplements are effecti
 !!!!VitaminDWiki – ((Depression))  summary contains
 {include page=&quot;Depression&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Better than Daily)) contains
+!!!!VitaminDWiki – ((Better than Daily)) contains
 {include page=&quot;Better than Daily&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}
 ---
-!!!!VitaminDwiki – ((Diseases treated by high-dose Vitamin D - many studies))
+!!!!VitaminDWiki – ((Diseases treated by high-dose Vitamin D - many studies))
 ~tc~ (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) ~/tc~
 </code>
 </pre>

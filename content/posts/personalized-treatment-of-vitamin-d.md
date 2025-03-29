@@ -47,13 +47,13 @@ categories:
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
-1. Have a disease that is associated with low Vitamin D ([Diabetes](https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D), etc.)
+1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D), etc.)
 
 1. Have a disease that is associated with a poor Vitamin D response (Asthma, etc.)
 
 1. Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) 
 
-1. Was born [preterm](https://vitamindwiki.com/tiki-index.php?page_id=14440) or mother had low vitamin D while pregnant
+1. Was born [preterm](https://VitaminDWiki.com/tiki-index.php?page_id=14440) or mother had low vitamin D while pregnant
 
 &nbsp;&nbsp;&nbsp;&nbsp;increases the risk of many Vitamin D diseases up to 50 years later
 
@@ -61,11 +61,11 @@ categories:
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
+&nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies">stressful situation</a>
 
-1. Have poor [liver](https://vitamindwiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://vitamindwiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
+1. Have poor [liver](https://VitaminDWiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a <span>[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]</span> (required to get Vitamin D in the intestine into the blood)
 
@@ -662,13 +662,13 @@ Markdown:
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
-1. Have a disease that is associated with low Vitamin D ([Diabetes](https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D), etc.)
+1. Have a disease that is associated with low Vitamin D ([Diabetes](https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D), etc.)
 
 1. Have a disease that is associated with a poor Vitamin D response (Asthma, etc.)
 
 1. Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) 
 
-1. Was born [preterm](https://vitamindwiki.com/tiki-index.php?page_id=14440) or mother had low vitamin D while pregnant
+1. Was born [preterm](https://VitaminDWiki.com/tiki-index.php?page_id=14440) or mother had low vitamin D while pregnant
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;increases the risk of many Vitamin D diseases up to 50 years later
 
@@ -676,11 +676,11 @@ Markdown:
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very &lt;a href=&quot;/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies&quot;&gt;stressful situation&lt;/a&gt;
 
-1. Have poor [liver](https://vitamindwiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://vitamindwiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
+1. Have poor [liver](https://VitaminDWiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a &lt;span&gt;[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]&lt;/span&gt; (required to get Vitamin D in the intestine into the blood)
 
@@ -1502,17 +1502,17 @@ AST Structure:
 │   │   inner_content: `Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
-│   full_match: `#Have a disease that is associated with low Vitamin D ([https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)`
-│   inner_content: `Have a disease that is associated with low Vitamin D ([https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)`
+│   full_match: `#Have a disease that is associated with low Vitamin D ([https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)`
+│   inner_content: `Have a disease that is associated with low Vitamin D ([https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)`
 │   depth: `1`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Have a disease that is associated with low Vitamin D (`
 │   │   inner_content: `Have a disease that is associated with low Vitamin D (`
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D|Diabetes]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D|Diabetes]`
 │   │   inner_content: `Diabetes`
-│   │   url: `https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D`
+│   │   url: `https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Diabetes`
@@ -1540,17 +1540,17 @@ AST Structure:
 │   │   inner_content: `Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
-│   full_match: `#Was born [https://vitamindwiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant`
-│   inner_content: `Was born [https://vitamindwiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant`
+│   full_match: `#Was born [https://VitaminDWiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant`
+│   inner_content: `Was born [https://VitaminDWiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant`
 │   depth: `1`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Was born `
 │   │   inner_content: `Was born `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14440|preterm]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14440|preterm]`
 │   │   inner_content: `preterm`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14440`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14440`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `preterm`
@@ -1587,17 +1587,17 @@ AST Structure:
 │   │   inner_content: `Have little ability to get Vitamin D from the noonday sun`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IndentNode
-│   full_match: `+Concealing clothes, far from the equator, [https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair`
-│   inner_content: `Concealing clothes, far from the equator, [https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair`
+│   full_match: `+Concealing clothes, far from the equator, [https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair`
+│   inner_content: `Concealing clothes, far from the equator, [https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair`
 │   level: `1`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Concealing clothes, far from the equator, `
 │   │   inner_content: `Concealing clothes, far from the equator, `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin]`
 │   │   inner_content: `dark skin`
-│   │   url: `https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D`
+│   │   url: `https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `dark skin`
@@ -1624,17 +1624,17 @@ AST Structure:
 │   │   │   inner_content: `Mental stress, physical stress associations with low vitamin D - many studies|stressful situation`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
-│   full_match: `#Have poor [https://vitamindwiki.com/Overview+Liver+and+vitamin+D|liver] or [https://vitamindwiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)`
-│   inner_content: `Have poor [https://vitamindwiki.com/Overview+Liver+and+vitamin+D|liver] or [https://vitamindwiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)`
+│   full_match: `#Have poor [https://VitaminDWiki.com/Overview+Liver+and+vitamin+D|liver] or [https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)`
+│   inner_content: `Have poor [https://VitaminDWiki.com/Overview+Liver+and+vitamin+D|liver] or [https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)`
 │   depth: `1`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Have poor `
 │   │   inner_content: `Have poor `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview+Liver+and+vitamin+D|liver]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview+Liver+and+vitamin+D|liver]`
 │   │   inner_content: `liver`
-│   │   url: `https://vitamindwiki.com/Overview+Liver+and+vitamin+D`
+│   │   url: `https://VitaminDWiki.com/Overview+Liver+and+vitamin+D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `liver`
@@ -1643,9 +1643,9 @@ AST Structure:
 │   │   full_match: ` or `
 │   │   inner_content: ` or `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview+Kidney+and+vitamin+D|kidney]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D|kidney]`
 │   │   inner_content: `kidney`
-│   │   url: `https://vitamindwiki.com/Overview+Kidney+and+vitamin+D`
+│   │   url: `https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `kidney`
@@ -4130,16 +4130,16 @@ Original Tiki:
 #((Smoking reduces vitamin D - many studies|Smoking))
 #Taking ((Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D))
 #Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
-#Have a disease that is associated with low Vitamin D ([https://vitamindwiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)
+#Have a disease that is associated with low Vitamin D ([https://VitaminDWiki.com/Overview+Diabetes+and+vitamin+D|Diabetes], etc.)
 #Have a disease that is associated with a poor Vitamin D response (Asthma, etc.)
 #Unable to or dislikes swallowing pills (powder, liquid, spray, and topical forms are available) 
-#Was born [https://vitamindwiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant
+#Was born [https://VitaminDWiki.com/tiki-index.php?page_id=14440|preterm] or mother had low vitamin D while pregnant
 +increases the risk of many Vitamin D diseases up to 50 years later
 #Have diseases that run in the family that are associated with low Vitamin D
 #Have little ability to get Vitamin D from the noonday sun
-+Concealing clothes, far from the equator, [https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair
++Concealing clothes, far from the equator, [https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D|dark skin], avoiding the very hot sun, shift worker, nursing home, wheelchair
 #Are in a very ((Mental stress, physical stress associations with low vitamin D - many studies|stressful situation))
-#Have poor [https://vitamindwiki.com/Overview+Liver+and+vitamin+D|liver] or [https://vitamindwiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)
+#Have poor [https://VitaminDWiki.com/Overview+Liver+and+vitamin+D|liver] or [https://VitaminDWiki.com/Overview+Kidney+and+vitamin+D|kidney] (needed to metabolize vitamin D in the bloodstream)
 #Have a [Vitamin D in the gut is slow to get to the blood - must go thru the lymph system| poor lymph system] (required to get Vitamin D in the intestine into the blood)
 #((Loading Dose of Vitamin D|Loading dose)) if signs of improvement are needed in a month instead of within a fraction of a year
 __The above are all documented in VitaminDWiki - Solutions include: %%%different dose size, ((Forms of Vitamin D|different form)), ((Vitamin D from low-cost UVB lamps|UV lamp)), ((Vitamin D Cofactors in a nutshell|cofactors)), ((Better than Daily|non-daily dose))__

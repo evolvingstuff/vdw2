@@ -20,7 +20,7 @@ categories:
 
  **Preterm birth rates are higher if** 
 
-* [Low vitamin D](https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
+* [Low vitamin D](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
 
 * Low Omega-3
 
@@ -206,7 +206,7 @@ Markdown:
 
  **Preterm birth rates are higher if** 
 
-* [Low vitamin D](https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
+* [Low vitamin D](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023)
 
 * Low Omega-3
 
@@ -413,14 +413,14 @@ AST Structure:
 │   │   inner_content: `Preterm birth rates are higher if`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
-│   inner_content: `[https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
+│   full_match: `*[https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
+│   inner_content: `[https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
+│   │   full_match: `[https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]`
 │   │   inner_content: `Low vitamin D`
-│   │   url: `https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023`
+│   │   url: `https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Low vitamin D`
@@ -1112,7 +1112,7 @@ Original Tiki:
 ---
 !!!!Summary
 __Preterm birth rates are higher if__
-*[https://vitamindwiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]
+*[https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Preterm_birth_7_times_more_likely_if_low_vitamin_D_1_month_before_May_2023|Low vitamin D]
 *Low Omega-3
 *((Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor))
 *((Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin))

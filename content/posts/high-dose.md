@@ -219,7 +219,7 @@ Effect of parenteral nutrition in oxygen escalation/de-escalation in SARS-CoV-2 
 
 * Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF
 
-* Effectiveness and Safety of a High-Dose  **Weekly Vitamin D (20,000 IU)**  Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% > 40 ng - safe, did not notice benefit &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF from Sci-Hub via VitaminDwiki  ](/attachments/d3.mock.pdf)** 
+* Effectiveness and Safety of a High-Dose  **Weekly Vitamin D (20,000 IU)**  Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% > 40 ng - safe, did not notice benefit &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF from Sci-Hub via VitaminDWiki  ](/attachments/d3.mock.pdf)** 
 
 
 
@@ -435,7 +435,7 @@ Effect of parenteral nutrition in oxygen escalation/de-escalation in SARS-CoV-2 
 
 * Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF
 
-* Effectiveness and Safety of a High-Dose  **Weekly Vitamin D (20,000 IU)**  Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF from Sci-Hub via VitaminDwiki  ](/attachments/d3.mock.pdf)** 
+* Effectiveness and Safety of a High-Dose  **Weekly Vitamin D (20,000 IU)**  Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF from Sci-Hub via VitaminDWiki  ](/attachments/d3.mock.pdf)** 
 
 
 
@@ -1032,8 +1032,8 @@ AST Structure:
 │   │   inner_content: `Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}__`
-│   inner_content: `Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}__`
+│   full_match: `*Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}__`
+│   inner_content: `Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}__`
 │   depth: `1`
 │   children:
 │   ├── TextNode
@@ -1054,20 +1054,20 @@ AST Structure:
 │   │   inner_content: ``
 │   │   repetitions: `1`
 │   ├── BoldNode
-│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}__`
-│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}`
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}`
 │   │   children:
 │   │   ├── AttachNode
-│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}`
-│   │   │   inner_content: `PDF from Sci-Hub via VitaminDwiki  `
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}`
+│   │   │   inner_content: `PDF from Sci-Hub via VitaminDWiki  `
 │   │   │   attrs_dict:
 │   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19114&quot;)
 │   │   │   │   inline: 1
 │   │   │   │   id: 19114
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `PDF from Sci-Hub via VitaminDwiki  `
-│   │   │   │   inner_content: `PDF from Sci-Hub via VitaminDwiki  `├── TextNode
+│   │   │   │   full_match: `PDF from Sci-Hub via VitaminDWiki  `
+│   │   │   │   inner_content: `PDF from Sci-Hub via VitaminDWiki  `├── TextNode
 │   full_match: `\n\n\n`
 │   inner_content: `\n\n\n`
 
@@ -1200,7 +1200,7 @@ Effect of parenteral nutrition in oxygen escalation/de-escalation in SARS-CoV-2 
 !!!!130,000+  High-Dose Vitamin D items in GoogleScholar
 __[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22high+dose%22+%22vitamin+d%22+&amp;btnG=|google Scholar]__
 *Early High-Dose Vitamin D3 for Critically Ill, Vitamin D–Deficient Patients Dec 2019 DOI: 10.1056/NEJMoa1911124 540,000 IU  no advantage FREE PDF
-*Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDwiki  {ATTACH}__
+*Effectiveness and Safety of a High-Dose __Weekly Vitamin D (20,000 IU)__ Protocol in Older Adults Living in Residential Care - July 2014 https://doi.org/10.1111/jgs.12927 19% still less than 30 ng, 52% &gt; 40 ng - safe, did not notice benefit ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19114&quot;)}PDF from Sci-Hub via VitaminDWiki  {ATTACH}__
 
 
 

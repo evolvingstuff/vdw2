@@ -62,7 +62,7 @@ Conclusion: Vitamin D supplementation in older adults was not associated with an
 
 ---
 
-#### 229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title
+#### 229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title
 
 Note: India uses 60,000 IU capsules
 
@@ -145,7 +145,7 @@ Conclusion: Vitamin D supplementation in older adults was not associated with an
 
 ---
 
-#### 229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title
+#### 229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title
 
 Note: India uses 60,000 IU capsules
 
@@ -364,13 +364,13 @@ AST Structure:
 │   │   inner_content: ``├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`
-│   inner_content: `229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`
+│   full_match: `!!!!229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title`
+│   inner_content: `229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`
-│   │   inner_content: `229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title`├── TextNode
+│   │   full_match: `229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title`
+│   │   inner_content: `229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title`├── TextNode
 │   full_match: `\nNote: India uses 60,000 IU capsules\n`
 │   inner_content: `\nNote: India uses 60,000 IU capsules\n`├── ListNode
 │   full_match: `{LIST()}\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;50,000 OR 60,000&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
@@ -454,7 +454,7 @@ Conclusion: Vitamin D supplementation in older adults was not associated with an
 !!!!VitaminDWiki – ((Depression)) contains
 {include page=&quot;Depression&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
-!!!!229+ VitaminDwiki pages have 50,000 or 60,000 IU in their title
+!!!!229+ VitaminDWiki pages have 50,000 or 60,000 IU in their title
 Note: India uses 60,000 IU capsules
 {LIST()}
 {list max=&quot;250&quot;}

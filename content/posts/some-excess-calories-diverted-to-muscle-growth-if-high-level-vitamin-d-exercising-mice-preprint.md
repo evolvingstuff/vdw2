@@ -42,7 +42,7 @@ That is, high dose vitamin D improves organismal energy sensing. Obesity, aging 
 
 ---
 
-#### VitaminDwiki –  <a href="/posts/overview-muscles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Muscles and Vitamin D">Overview Muscles and Vitamin D</a> contains
+#### VitaminDWiki –  <a href="/posts/overview-muscles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Muscles and Vitamin D">Overview Muscles and Vitamin D</a> contains
 
 
 
@@ -82,7 +82,7 @@ That is, high dose vitamin D improves organismal energy sensing. Obesity, aging 
 
 ---
 
-#### VitaminDwiki –  &lt;a href=&quot;/posts/overview-muscles-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Muscles and Vitamin D&quot;&gt;Overview Muscles and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki –  &lt;a href=&quot;/posts/overview-muscles-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Muscles and Vitamin D&quot;&gt;Overview Muscles and Vitamin D&lt;/a&gt; contains
 
 
 
@@ -165,13 +165,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains`
-│   inner_content: `VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains`
+│   inner_content: `VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki –  `
-│   │   inner_content: `VitaminDwiki –  `
+│   │   full_match: `VitaminDWiki –  `
+│   │   inner_content: `VitaminDWiki –  `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Muscles and Vitamin D))`
 │   │   inner_content: `Overview Muscles and Vitamin D`
@@ -231,7 +231,7 @@ That is, high dose vitamin D improves organismal energy sensing. Obesity, aging 
 
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19627&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki –  ((Overview Muscles and Vitamin D)) contains
+!!!!VitaminDWiki –  ((Overview Muscles and Vitamin D)) contains
 {include page=&quot;Overview Muscles and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 {include page=&quot;Overview Muscles and Vitamin D&quot; start=&quot;~tc~ startl ~/tc~&quot; stop=&quot;~tc~ endl ~/tc~&quot;}
 

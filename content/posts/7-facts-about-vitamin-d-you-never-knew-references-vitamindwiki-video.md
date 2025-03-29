@@ -17,9 +17,9 @@ categories:
 
 Vitamin D is crucial for your health, and there are some important points about it that you need to know. Check this out. DATA: 
 
-[https://vitamindwiki.com/VitaminDWiki... interview](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&q=https://vitamindwiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&v=N2DGrgMIcsE)
+[https://VitaminDWiki.com/VitaminDWiki... interview](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&q=https://VitaminDWiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&v=N2DGrgMIcsE)
 
-[https://vitamindwiki.com/Overview . . . Vit3 not D2..](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&q=https://vitamindwiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&v=N2DGrgMIcsE) 
+[https://VitaminDWiki.com/Overview . . . Vit3 not D2..](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&q=https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&v=N2DGrgMIcsE) 
 
 [0:00](https://www.youtube.com/watch?v=N2DGrgMIcsE&t=0s) Introduction: Vitamin D deficiency
 
@@ -107,9 +107,9 @@ Markdown:
 
 Vitamin D is crucial for your health, and there are some important points about it that you need to know. Check this out. DATA: 
 
-[https://vitamindwiki.com/VitaminDWiki... interview](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://vitamindwiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE)
+[https://VitaminDWiki.com/VitaminDWiki... interview](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://VitaminDWiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE)
 
-[https://vitamindwiki.com/Overview . . . Vit3 not D2..](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://vitamindwiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE) 
+[https://VitaminDWiki.com/Overview . . . Vit3 not D2..](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE) 
 
 [0:00](https://www.youtube.com/watch?v=N2DGrgMIcsE&amp;t=0s) Introduction: Vitamin D deficiency
 
@@ -205,22 +205,22 @@ AST Structure:
 │   │   │   inner_content: `Dr. Berg YouTube - 8 minutes`├── TextNode
 │   full_match: `\nVitamin D is crucial for your health, and there are some important points about it that you need to know. Check this out. DATA: \n`
 │   inner_content: `\nVitamin D is crucial for your health, and there are some important points about it that you need to know. Check this out. DATA: \n`├── LinkNode
-│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://vitamindwiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE|https://vitamindwiki.com/VitaminDWiki... interview]`
-│   inner_content: `https://vitamindwiki.com/VitaminDWiki... interview`
-│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://vitamindwiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE`
+│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://VitaminDWiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE|https://VitaminDWiki.com/VitaminDWiki... interview]`
+│   inner_content: `https://VitaminDWiki.com/VitaminDWiki... interview`
+│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://VitaminDWiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE`
 │   children:
 │   ├── TextNode
-│   │   full_match: `https://vitamindwiki.com/VitaminDWiki... interview`
-│   │   inner_content: `https://vitamindwiki.com/VitaminDWiki... interview`├── TextNode
+│   │   full_match: `https://VitaminDWiki.com/VitaminDWiki... interview`
+│   │   inner_content: `https://VitaminDWiki.com/VitaminDWiki... interview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LinkNode
-│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://vitamindwiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE|https://vitamindwiki.com/Overview . . . Vit3 not D2..]`
-│   inner_content: `https://vitamindwiki.com/Overview . . . Vit3 not D2..`
-│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://vitamindwiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE`
+│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE|https://VitaminDWiki.com/Overview . . . Vit3 not D2..]`
+│   inner_content: `https://VitaminDWiki.com/Overview . . . Vit3 not D2..`
+│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE`
 │   children:
 │   ├── TextNode
-│   │   full_match: `https://vitamindwiki.com/Overview . . . Vit3 not D2..`
-│   │   inner_content: `https://vitamindwiki.com/Overview . . . Vit3 not D2..`├── TextNode
+│   │   full_match: `https://VitaminDWiki.com/Overview . . . Vit3 not D2..`
+│   │   inner_content: `https://VitaminDWiki.com/Overview . . . Vit3 not D2..`├── TextNode
 │   full_match: ` \n`
 │   inner_content: ` \n`├── LinkNode
 │   full_match: `[https://www.youtube.com/watch?v=N2DGrgMIcsE&amp;t=0s|0:00]`
@@ -542,8 +542,8 @@ Original Tiki:
  
 __[https://www.youtube.com/watch?v=N2DGrgMIcsE|Dr. Berg YouTube - 8 minutes]__
 Vitamin D is crucial for your health, and there are some important points about it that you need to know. Check this out. DATA: 
-[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://vitamindwiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE|https://vitamindwiki.com/VitaminDWiki... interview]
-[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://vitamindwiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE|https://vitamindwiki.com/Overview . . . Vit3 not D2..] 
+[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazl1RF9LbHRGOVNxQjlpQTY1MlMwUmw1dmdwUXxBQ3Jtc0ttUVFCenRoaGRvcGotMU56ejBvT1dkWnRCcDdoNEUteDNKeGFRRDFUZkxrN25PVlk3NGVmTlMyTmtqbHE2NzNBZFQ5aW5mV19meGstTkJ4MmVoZWx3S1B3RW81eUNZU3JyajJIZV9EUWhrME5FR1k1cw&amp;q=https://VitaminDWiki.com/VitaminDWiki+interview+and+transcript+-+Jan+2022#Vitamin_D_is_the_3rd_best_way_to_improve_your_health_but_the_most_cost-effective_&amp;v=N2DGrgMIcsE|https://VitaminDWiki.com/VitaminDWiki... interview]
+[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWpOM081aVRVR3RXbzRBRE1wSXhFT3NCMGNzUXxBQ3Jtc0trWE9fYkFTZy1acFV6Q1AtcjhGeHlvYzFlQ3VMVWdZTzd5R1lBcFZ4TU1oUktKa3N3TFVpVWZHUzdkajN5WHF2UGtGWUQzSHpiTUpHd0FUZk9ITXRnOG0xcG1nc0IzWUVjVnBwNlBEZkNBRC13Q2RjRQ&amp;q=https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title&amp;v=N2DGrgMIcsE|https://VitaminDWiki.com/Overview . . . Vit3 not D2..] 
 [https://www.youtube.com/watch?v=N2DGrgMIcsE&amp;t=0s|0:00] Introduction: Vitamin D deficiency
 [https://www.youtube.com/watch?v=N2DGrgMIcsE&amp;t=35s|0:35] Vitamin D deficiency causes
 [https://www.youtube.com/watch?v=N2DGrgMIcsE&amp;t=130s|2:10] Vitamin D explained

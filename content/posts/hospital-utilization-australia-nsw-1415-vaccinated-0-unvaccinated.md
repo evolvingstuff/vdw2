@@ -35,7 +35,7 @@ Includes > 100 items, such items as
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 <!-- ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~ -->
 
@@ -69,7 +69,7 @@ Includes &gt; 100 items, such items as
 
 ---
 
-#### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
 &lt;!-- ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~ --&gt;
 
@@ -159,13 +159,13 @@ AST Structure:
 │   │   width: 800├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((COVID infections and vaccinations decrease Vitamin D – many studies))`
 │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`
@@ -208,7 +208,7 @@ Includes &gt; 100 items, such items as
 *US Deaths - following chart
 {img type=&quot;attId&quot; attId=&quot;19966&quot; width=&quot;800&quot;}
 ---
-!!!!VitaminDwiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
+!!!!VitaminDWiki ((COVID infections and vaccinations decrease Vitamin D – many studies))
   {include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}
 ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~
 </code>

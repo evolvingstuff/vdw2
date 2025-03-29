@@ -18,7 +18,7 @@ categories:
 
 * Vitamin D increases killing of intracellular Leishmania amazonensis in vitro independently of macrophage oxidative mechanisms - Sept 2020 https://doi.org/10.1017/S0031182020001791
 
-* VitaminDwiki - <a href="/posts/hypothesis-leishmania-parasitic-infection-can-be-reduced-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015">Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015</a>
+* VitaminDWiki - <a href="/posts/hypothesis-leishmania-parasitic-infection-can-be-reduced-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015">Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015</a>
 
 ---
 
@@ -43,7 +43,7 @@ Markdown:
 
 * Vitamin D increases killing of intracellular Leishmania amazonensis in vitro independently of macrophage oxidative mechanisms - Sept 2020 https://doi.org/10.1017/S0031182020001791
 
-* VitaminDwiki - &lt;a href=&quot;/posts/hypothesis-leishmania-parasitic-infection-can-be-reduced-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015&quot;&gt;Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015&lt;/a&gt;
+* VitaminDWiki - &lt;a href=&quot;/posts/hypothesis-leishmania-parasitic-infection-can-be-reduced-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015&quot;&gt;Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015&lt;/a&gt;
 
 ---
 
@@ -95,13 +95,13 @@ AST Structure:
 │   │   inner_content: `Vitamin D increases killing of intracellular Leishmania amazonensis in vitro independently of macrophage oxidative mechanisms - Sept 2020 https://doi.org/10.1017/S0031182020001791`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*VitaminDwiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))`
-│   inner_content: `VitaminDwiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))`
+│   full_match: `*VitaminDWiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))`
+│   inner_content: `VitaminDWiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))`
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))`
 │   │   inner_content: `Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015`
@@ -160,7 +160,7 @@ Original Tiki:
 *The Role of Vitamin D and Vitamin D Receptor in Immunity to Leishmania major Infection Oct 2011 https://doi.org/10.1155/2012/134645
 *Serum 25-hydroxyvitamin D level and vitamin D receptor (VDR) polymorphisms in patients infected with Leishmania tropica: a case control study - Sept. 2019 https://doi.org/10.1007/s12639-019-01159-7 FREE PDF
 *Vitamin D increases killing of intracellular Leishmania amazonensis in vitro independently of macrophage oxidative mechanisms - Sept 2020 https://doi.org/10.1017/S0031182020001791
-*VitaminDwiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))
+*VitaminDWiki - ((Hypothesis: Leishmania parasitic infection can be reduced by Vitamin D – May 2015))
 ---
 !!!!New York Times article on [https://www.nytimes.com/2023/12/19/health/leishmaniasis-fly-treatment-colombia.html|Leishmania  - Dec 2023]
 *&quot;He was prescribed a drug that required three injections a day for 20 days, each one agonizingly painful. Mr. Tilano, 85, had to make repeated expensive bus trips to town to get them. Then his kidneys started to fail, which is a common side effect of the drug, as are heart failure and liver damage.&quot;

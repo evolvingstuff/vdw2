@@ -44,47 +44,47 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 #### 16 Major Cancers in VitaminDWiki (April 2023)
 
-* [Cancer](https://vitamindwiki.com/Cancer) (256+) [Overview](https://vitamindwiki.com/Overview Cancer and vitamin D)
+* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview Cancer and vitamin D)
 
-* [After diagnosis](https://vitamindwiki.com/Cancer - After diagnosis) (97+)
+* [After diagnosis](https://VitaminDWiki.com/Cancer - After diagnosis) (97+)
 
-* [Bladder](https://vitamindwiki.com/Cancer - Bladder) (25+)
+* [Bladder](https://VitaminDWiki.com/Cancer - Bladder) (25+)
 
-* [Bone](https://vitamindwiki.com/tiki-index.php?page_id=7048) (8+)
+* [Bone](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (8+)
 
-* [Breast](https://vitamindwiki.com/Cancer - Breast) (241+) [Overview](https://vitamindwiki.com/Overview Breast Cancer and Vitamin D)
+* [Breast](https://VitaminDWiki.com/Cancer - Breast) (241+) [Overview](https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D)
 
-* [Colon](https://vitamindwiki.com/Cancer - Colon) (134+) [Overview](https://vitamindwiki.com/Overview Cancer-Colon and vitamin D)
+* [Colon](https://VitaminDWiki.com/Cancer - Colon) (134+) [Overview](https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D)
 
-* [Gastric](https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
 
-* [Leukemia](https://vitamindwiki.com/Cancer - Leukemia) (18+)
+* [Leukemia](https://VitaminDWiki.com/Cancer - Leukemia) (18+)
 
-* [Liver](https://vitamindwiki.com/Cancer - Liver) (16+)
+* [Liver](https://VitaminDWiki.com/Cancer - Liver) (16+)
 
-* [Lung](https://vitamindwiki.com/Cancer - Lung) (53+) [Overview](https://vitamindwiki.com/Overview Lung cancer and vitamin D)
+* [Lung](https://VitaminDWiki.com/Cancer - Lung) (53+) [Overview](https://VitaminDWiki.com/Overview Lung cancer and vitamin D)
 
-* [Lymphoma](https://vitamindwiki.com/Cancer - Lymphoma) (23+)
+* [Lymphoma](https://VitaminDWiki.com/Cancer - Lymphoma) (23+)
 
-* [Melanoma](https://vitamindwiki.com/tiki-index.php?page_id=13263) (43+)
+* [Melanoma](https://VitaminDWiki.com/tiki-index.php?page_id=13263) (43+)
 
-* [Multiple Myeloma](https://vitamindwiki.com/tiki-index.php?page_id=7048) (10+)
+* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (10+)
 
-* [Metastatic](https://vitamindwiki.com/tiki-index.php?page_id=395) (17+)
+* [Metastatic](https://VitaminDWiki.com/tiki-index.php?page_id=395) (17+)
 
-* [Other](https://vitamindwiki.com/Cancer - Other) (59+) - many minor cancers also fought
+* [Other](https://VitaminDWiki.com/Cancer - Other) (59+) - many minor cancers also fought
 
-* [Ovarian](https://vitamindwiki.com/Cancer - Ovarian) (23+)
+* [Ovarian](https://VitaminDWiki.com/Cancer - Ovarian) (23+)
 
-* [Pallitive Care](https://vitamindwiki.com/tiki-index.php?page_id=12680) (10+)
+* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php?page_id=12680) (10+)
 
-* [Pancreatic](https://vitamindwiki.com/Cancer - Pancreatic) (54+)
+* [Pancreatic](https://VitaminDWiki.com/Cancer - Pancreatic) (54+)
 
-* [Prostate](https://vitamindwiki.com/Cancer - Prostate) (97+) [Overview](https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D)
+* [Prostate](https://VitaminDWiki.com/Cancer - Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D)
 
-* [Skin](https://vitamindwiki.com/Cancer - Skin) (116+) [Overview](https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D)
+* [Skin](https://VitaminDWiki.com/Cancer - Skin) (116+) [Overview](https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D)
 
-* [Thyroid](https://vitamindwiki.com/tiki-index.php?page_id=9344) (7+)
+* [Thyroid](https://VitaminDWiki.com/tiki-index.php?page_id=9344) (7+)
 
 ---
 
@@ -154,47 +154,47 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 #### 16 Major Cancers in VitaminDWiki (April 2023)
 
-* [Cancer](https://vitamindwiki.com/Cancer) (256+) [Overview](https://vitamindwiki.com/Overview Cancer and vitamin D)
+* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview Cancer and vitamin D)
 
-* [After diagnosis](https://vitamindwiki.com/Cancer - After diagnosis) (97+)
+* [After diagnosis](https://VitaminDWiki.com/Cancer - After diagnosis) (97+)
 
-* [Bladder](https://vitamindwiki.com/Cancer - Bladder) (25+)
+* [Bladder](https://VitaminDWiki.com/Cancer - Bladder) (25+)
 
-* [Bone](https://vitamindwiki.com/tiki-index.php?page_id=7048) (8+)
+* [Bone](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (8+)
 
-* [Breast](https://vitamindwiki.com/Cancer - Breast) (241+) [Overview](https://vitamindwiki.com/Overview Breast Cancer and Vitamin D)
+* [Breast](https://VitaminDWiki.com/Cancer - Breast) (241+) [Overview](https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D)
 
-* [Colon](https://vitamindwiki.com/Cancer - Colon) (134+) [Overview](https://vitamindwiki.com/Overview Cancer-Colon and vitamin D)
+* [Colon](https://VitaminDWiki.com/Cancer - Colon) (134+) [Overview](https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D)
 
-* [Gastric](https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
 
-* [Leukemia](https://vitamindwiki.com/Cancer - Leukemia) (18+)
+* [Leukemia](https://VitaminDWiki.com/Cancer - Leukemia) (18+)
 
-* [Liver](https://vitamindwiki.com/Cancer - Liver) (16+)
+* [Liver](https://VitaminDWiki.com/Cancer - Liver) (16+)
 
-* [Lung](https://vitamindwiki.com/Cancer - Lung) (53+) [Overview](https://vitamindwiki.com/Overview Lung cancer and vitamin D)
+* [Lung](https://VitaminDWiki.com/Cancer - Lung) (53+) [Overview](https://VitaminDWiki.com/Overview Lung cancer and vitamin D)
 
-* [Lymphoma](https://vitamindwiki.com/Cancer - Lymphoma) (23+)
+* [Lymphoma](https://VitaminDWiki.com/Cancer - Lymphoma) (23+)
 
-* [Melanoma](https://vitamindwiki.com/tiki-index.php?page_id=13263) (43+)
+* [Melanoma](https://VitaminDWiki.com/tiki-index.php?page_id=13263) (43+)
 
-* [Multiple Myeloma](https://vitamindwiki.com/tiki-index.php?page_id=7048) (10+)
+* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (10+)
 
-* [Metastatic](https://vitamindwiki.com/tiki-index.php?page_id=395) (17+)
+* [Metastatic](https://VitaminDWiki.com/tiki-index.php?page_id=395) (17+)
 
-* [Other](https://vitamindwiki.com/Cancer - Other) (59+) - many minor cancers also fought
+* [Other](https://VitaminDWiki.com/Cancer - Other) (59+) - many minor cancers also fought
 
-* [Ovarian](https://vitamindwiki.com/Cancer - Ovarian) (23+)
+* [Ovarian](https://VitaminDWiki.com/Cancer - Ovarian) (23+)
 
-* [Pallitive Care](https://vitamindwiki.com/tiki-index.php?page_id=12680) (10+)
+* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php?page_id=12680) (10+)
 
-* [Pancreatic](https://vitamindwiki.com/Cancer - Pancreatic) (54+)
+* [Pancreatic](https://VitaminDWiki.com/Cancer - Pancreatic) (54+)
 
-* [Prostate](https://vitamindwiki.com/Cancer - Prostate) (97+) [Overview](https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D)
+* [Prostate](https://VitaminDWiki.com/Cancer - Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D)
 
-* [Skin](https://vitamindwiki.com/Cancer - Skin) (116+) [Overview](https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D)
+* [Skin](https://VitaminDWiki.com/Cancer - Skin) (116+) [Overview](https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D)
 
-* [Thyroid](https://vitamindwiki.com/tiki-index.php?page_id=9344) (7+)
+* [Thyroid](https://VitaminDWiki.com/tiki-index.php?page_id=9344) (7+)
 
 ---
 
@@ -349,14 +349,14 @@ AST Structure:
 │   │   inner_content: `16 Major Cancers in VitaminDWiki (April 2023)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer|Cancer] (256+) [https://vitamindwiki.com/Overview Cancer and vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer|Cancer] (256+) [https://vitamindwiki.com/Overview Cancer and vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer|Cancer] (256+) [https://VitaminDWiki.com/Overview Cancer and vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer|Cancer] (256+) [https://VitaminDWiki.com/Overview Cancer and vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer|Cancer]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer|Cancer]`
 │   │   inner_content: `Cancer`
-│   │   url: `https://vitamindwiki.com/Cancer`
+│   │   url: `https://VitaminDWiki.com/Cancer`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer`
@@ -365,23 +365,23 @@ AST Structure:
 │   │   full_match: ` (256+) `
 │   │   inner_content: ` (256+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Cancer and vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Cancer and vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Cancer and vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Cancer and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - After diagnosis|After diagnosis] (97+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - After diagnosis|After diagnosis] (97+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - After diagnosis|After diagnosis] (97+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - After diagnosis|After diagnosis] (97+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - After diagnosis|After diagnosis]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - After diagnosis|After diagnosis]`
 │   │   inner_content: `After diagnosis`
-│   │   url: `https://vitamindwiki.com/Cancer - After diagnosis`
+│   │   url: `https://VitaminDWiki.com/Cancer - After diagnosis`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `After diagnosis`
@@ -391,14 +391,14 @@ AST Structure:
 │   │   inner_content: ` (97+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Bladder|Bladder] (25+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Bladder|Bladder] (25+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Bladder|Bladder] (25+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Bladder|Bladder] (25+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Bladder|Bladder]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Bladder|Bladder]`
 │   │   inner_content: `Bladder`
-│   │   url: `https://vitamindwiki.com/Cancer - Bladder`
+│   │   url: `https://VitaminDWiki.com/Cancer - Bladder`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Bladder`
@@ -408,14 +408,14 @@ AST Structure:
 │   │   inner_content: ` (25+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=7048|Bone] (8+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=7048|Bone] (8+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Bone] (8+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Bone] (8+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=7048|Bone]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Bone]`
 │   │   inner_content: `Bone`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=7048`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=7048`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Bone`
@@ -425,14 +425,14 @@ AST Structure:
 │   │   inner_content: ` (8+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Breast|Breast] (241+) [https://vitamindwiki.com/Overview Breast Cancer and Vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Breast|Breast] (241+) [https://vitamindwiki.com/Overview Breast Cancer and Vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Breast|Breast] (241+) [https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Breast|Breast] (241+) [https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Breast|Breast]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Breast|Breast]`
 │   │   inner_content: `Breast`
-│   │   url: `https://vitamindwiki.com/Cancer - Breast`
+│   │   url: `https://VitaminDWiki.com/Cancer - Breast`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Breast`
@@ -441,23 +441,23 @@ AST Structure:
 │   │   full_match: ` (241+) `
 │   │   inner_content: ` (241+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Breast Cancer and Vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Breast Cancer and Vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Colon|Colon] (134+) [https://vitamindwiki.com/Overview Cancer-Colon and vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Colon|Colon] (134+) [https://vitamindwiki.com/Overview Cancer-Colon and vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Colon|Colon] (134+) [https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Colon|Colon] (134+) [https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Colon|Colon]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Colon|Colon]`
 │   │   inner_content: `Colon`
-│   │   url: `https://vitamindwiki.com/Cancer - Colon`
+│   │   url: `https://VitaminDWiki.com/Cancer - Colon`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Colon`
@@ -466,23 +466,23 @@ AST Structure:
 │   │   full_match: ` (134+) `
 │   │   inner_content: ` (134+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Cancer-Colon and vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Cancer-Colon and vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)`
-│   inner_content: `[https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)`
+│   full_match: `*[https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)`
+│   inner_content: `[https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric]`
+│   │   full_match: `[https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric]`
 │   │   inner_content: `Gastric`
-│   │   url: `https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies`
+│   │   url: `https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gastric`
@@ -492,14 +492,14 @@ AST Structure:
 │   │   inner_content: ` (9+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Leukemia|Leukemia] (18+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Leukemia|Leukemia] (18+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Leukemia|Leukemia] (18+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Leukemia|Leukemia] (18+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Leukemia|Leukemia]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Leukemia|Leukemia]`
 │   │   inner_content: `Leukemia`
-│   │   url: `https://vitamindwiki.com/Cancer - Leukemia`
+│   │   url: `https://VitaminDWiki.com/Cancer - Leukemia`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Leukemia`
@@ -509,14 +509,14 @@ AST Structure:
 │   │   inner_content: ` (18+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Liver|Liver] (16+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Liver|Liver] (16+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Liver|Liver] (16+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Liver|Liver] (16+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Liver|Liver]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Liver|Liver]`
 │   │   inner_content: `Liver`
-│   │   url: `https://vitamindwiki.com/Cancer - Liver`
+│   │   url: `https://VitaminDWiki.com/Cancer - Liver`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Liver`
@@ -526,14 +526,14 @@ AST Structure:
 │   │   inner_content: ` (16+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Lung|Lung] (53+) [https://vitamindwiki.com/Overview Lung cancer and vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Lung|Lung] (53+) [https://vitamindwiki.com/Overview Lung cancer and vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Lung|Lung] (53+) [https://VitaminDWiki.com/Overview Lung cancer and vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Lung|Lung] (53+) [https://VitaminDWiki.com/Overview Lung cancer and vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Lung|Lung]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Lung|Lung]`
 │   │   inner_content: `Lung`
-│   │   url: `https://vitamindwiki.com/Cancer - Lung`
+│   │   url: `https://VitaminDWiki.com/Cancer - Lung`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Lung`
@@ -542,23 +542,23 @@ AST Structure:
 │   │   full_match: ` (53+) `
 │   │   inner_content: ` (53+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Lung cancer and vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Lung cancer and vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Lung cancer and vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Lung cancer and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Lymphoma|Lymphoma] (23+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Lymphoma|Lymphoma] (23+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Lymphoma|Lymphoma] (23+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Lymphoma|Lymphoma] (23+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Lymphoma|Lymphoma]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Lymphoma|Lymphoma]`
 │   │   inner_content: `Lymphoma`
-│   │   url: `https://vitamindwiki.com/Cancer - Lymphoma`
+│   │   url: `https://VitaminDWiki.com/Cancer - Lymphoma`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Lymphoma`
@@ -568,14 +568,14 @@ AST Structure:
 │   │   inner_content: ` (23+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13263|Melanoma]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13263|Melanoma]`
 │   │   inner_content: `Melanoma`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13263`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13263`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Melanoma`
@@ -585,14 +585,14 @@ AST Structure:
 │   │   inner_content: ` (43+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=7048|Multiple Myeloma]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Multiple Myeloma]`
 │   │   inner_content: `Multiple Myeloma`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=7048`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=7048`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Multiple Myeloma`
@@ -602,14 +602,14 @@ AST Structure:
 │   │   inner_content: ` (10+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=395|Metastatic] (17+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=395|Metastatic] (17+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=395|Metastatic] (17+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=395|Metastatic] (17+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=395|Metastatic]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=395|Metastatic]`
 │   │   inner_content: `Metastatic`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=395`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=395`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Metastatic`
@@ -619,14 +619,14 @@ AST Structure:
 │   │   inner_content: ` (17+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Other|Other]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Other|Other]`
 │   │   inner_content: `Other`
-│   │   url: `https://vitamindwiki.com/Cancer - Other`
+│   │   url: `https://VitaminDWiki.com/Cancer - Other`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Other`
@@ -636,14 +636,14 @@ AST Structure:
 │   │   inner_content: ` (59+) - many minor cancers also fought`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Ovarian|Ovarian] (23+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Ovarian|Ovarian] (23+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Ovarian|Ovarian] (23+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Ovarian|Ovarian] (23+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Ovarian|Ovarian]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Ovarian|Ovarian]`
 │   │   inner_content: `Ovarian`
-│   │   url: `https://vitamindwiki.com/Cancer - Ovarian`
+│   │   url: `https://VitaminDWiki.com/Cancer - Ovarian`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Ovarian`
@@ -653,14 +653,14 @@ AST Structure:
 │   │   inner_content: ` (23+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=12680|Pallitive Care]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=12680|Pallitive Care]`
 │   │   inner_content: `Pallitive Care`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=12680`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=12680`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Pallitive Care`
@@ -670,14 +670,14 @@ AST Structure:
 │   │   inner_content: ` (10+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Pancreatic|Pancreatic] (54+)`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Pancreatic|Pancreatic] (54+)`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Pancreatic|Pancreatic] (54+)`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Pancreatic|Pancreatic] (54+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Pancreatic|Pancreatic]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Pancreatic|Pancreatic]`
 │   │   inner_content: `Pancreatic`
-│   │   url: `https://vitamindwiki.com/Cancer - Pancreatic`
+│   │   url: `https://VitaminDWiki.com/Cancer - Pancreatic`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Pancreatic`
@@ -687,14 +687,14 @@ AST Structure:
 │   │   inner_content: ` (54+)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Prostate|Prostate] (97+) [https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Prostate|Prostate] (97+) [https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Prostate|Prostate] (97+) [https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Prostate|Prostate] (97+) [https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Prostate|Prostate]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Prostate|Prostate]`
 │   │   inner_content: `Prostate`
-│   │   url: `https://vitamindwiki.com/Cancer - Prostate`
+│   │   url: `https://VitaminDWiki.com/Cancer - Prostate`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Prostate`
@@ -703,23 +703,23 @@ AST Structure:
 │   │   full_match: ` (97+) `
 │   │   inner_content: ` (97+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/Cancer - Skin|Skin] (116+) [https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
-│   inner_content: `[https://vitamindwiki.com/Cancer - Skin|Skin] (116+) [https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
+│   full_match: `*[https://VitaminDWiki.com/Cancer - Skin|Skin] (116+) [https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
+│   inner_content: `[https://VitaminDWiki.com/Cancer - Skin|Skin] (116+) [https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Cancer - Skin|Skin]`
+│   │   full_match: `[https://VitaminDWiki.com/Cancer - Skin|Skin]`
 │   │   inner_content: `Skin`
-│   │   url: `https://vitamindwiki.com/Cancer - Skin`
+│   │   url: `https://VitaminDWiki.com/Cancer - Skin`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Skin`
@@ -728,23 +728,23 @@ AST Structure:
 │   │   full_match: ` (116+) `
 │   │   inner_content: ` (116+) `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
+│   │   full_match: `[https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D|Overview]`
 │   │   inner_content: `Overview`
-│   │   url: `https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D`
+│   │   url: `https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview`
 │   │   │   inner_content: `Overview`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=9344|Thyroid]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=9344|Thyroid]`
 │   │   inner_content: `Thyroid`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=9344`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=9344`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Thyroid`
@@ -845,27 +845,27 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 {FONT( size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19491&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
 !!!! 16 Major Cancers in VitaminDWiki (April 2023)
-*[https://vitamindwiki.com/Cancer|Cancer] (256+) [https://vitamindwiki.com/Overview Cancer and vitamin D|Overview]
-*[https://vitamindwiki.com/Cancer - After diagnosis|After diagnosis] (97+)
-*[https://vitamindwiki.com/Cancer - Bladder|Bladder] (25+)
-*[https://vitamindwiki.com/tiki-index.php?page_id=7048|Bone] (8+)
-*[https://vitamindwiki.com/Cancer - Breast|Breast] (241+) [https://vitamindwiki.com/Overview Breast Cancer and Vitamin D|Overview]
-*[https://vitamindwiki.com/Cancer - Colon|Colon] (134+) [https://vitamindwiki.com/Overview Cancer-Colon and vitamin D|Overview]
-*[https://vitamindwiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)
-*[https://vitamindwiki.com/Cancer - Leukemia|Leukemia] (18+)
-*[https://vitamindwiki.com/Cancer - Liver|Liver] (16+)
-*[https://vitamindwiki.com/Cancer - Lung|Lung] (53+) [https://vitamindwiki.com/Overview Lung cancer and vitamin D|Overview]
-*[https://vitamindwiki.com/Cancer - Lymphoma|Lymphoma] (23+)
-*[https://vitamindwiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)
-*[https://vitamindwiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)
-*[https://vitamindwiki.com/tiki-index.php?page_id=395|Metastatic] (17+)
-*[https://vitamindwiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought
-*[https://vitamindwiki.com/Cancer - Ovarian|Ovarian] (23+)
-*[https://vitamindwiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)
-*[https://vitamindwiki.com/Cancer - Pancreatic|Pancreatic] (54+)
-*[https://vitamindwiki.com/Cancer - Prostate|Prostate] (97+) [https://vitamindwiki.com/Overview Prostate Cancer and Vitamin D|Overview]
-*[https://vitamindwiki.com/Cancer - Skin|Skin] (116+) [https://vitamindwiki.com/Overview Suntan, melanoma and vitamin D|Overview]
-*[https://vitamindwiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)
+*[https://VitaminDWiki.com/Cancer|Cancer] (256+) [https://VitaminDWiki.com/Overview Cancer and vitamin D|Overview]
+*[https://VitaminDWiki.com/Cancer - After diagnosis|After diagnosis] (97+)
+*[https://VitaminDWiki.com/Cancer - Bladder|Bladder] (25+)
+*[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Bone] (8+)
+*[https://VitaminDWiki.com/Cancer - Breast|Breast] (241+) [https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D|Overview]
+*[https://VitaminDWiki.com/Cancer - Colon|Colon] (134+) [https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D|Overview]
+*[https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric] (9+)
+*[https://VitaminDWiki.com/Cancer - Leukemia|Leukemia] (18+)
+*[https://VitaminDWiki.com/Cancer - Liver|Liver] (16+)
+*[https://VitaminDWiki.com/Cancer - Lung|Lung] (53+) [https://VitaminDWiki.com/Overview Lung cancer and vitamin D|Overview]
+*[https://VitaminDWiki.com/Cancer - Lymphoma|Lymphoma] (23+)
+*[https://VitaminDWiki.com/tiki-index.php?page_id=13263|Melanoma] (43+)
+*[https://VitaminDWiki.com/tiki-index.php?page_id=7048|Multiple Myeloma] (10+)
+*[https://VitaminDWiki.com/tiki-index.php?page_id=395|Metastatic] (17+)
+*[https://VitaminDWiki.com/Cancer - Other|Other] (59+) - many minor cancers also fought
+*[https://VitaminDWiki.com/Cancer - Ovarian|Ovarian] (23+)
+*[https://VitaminDWiki.com/tiki-index.php?page_id=12680|Pallitive Care] (10+)
+*[https://VitaminDWiki.com/Cancer - Pancreatic|Pancreatic] (54+)
+*[https://VitaminDWiki.com/Cancer - Prostate|Prostate] (97+) [https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D|Overview]
+*[https://VitaminDWiki.com/Cancer - Skin|Skin] (116+) [https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D|Overview]
+*[https://VitaminDWiki.com/tiki-index.php?page_id=9344|Thyroid] (7+)
 ---
 !!!!See also: ((Overview Cancer and vitamin D)), ((Cancer and Vitamin D - many studies))
 ---

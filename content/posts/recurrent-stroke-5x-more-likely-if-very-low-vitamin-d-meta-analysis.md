@@ -39,7 +39,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [Stroke](/categories/stroke) category contains
+#### VitaminDWiki [Stroke](/categories/stroke) category contains
 
 <!-- ~tc~ (alias(Receurrent Strok 5X more likely if very low vitamin D - meta-analysis Feb 2023)) ~/tc~ -->
 
@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki [Stroke](/categories/stroke) category contains
+#### VitaminDWiki [Stroke](/categories/stroke) category contains
 
 &lt;!-- ~tc~ (alias(Receurrent Strok 5X more likely if very low vitamin D - meta-analysis Feb 2023)) ~/tc~ --&gt;
 
@@ -197,13 +197,13 @@ AST Structure:
 │   │   showTitle: n├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki ((Stroke)) category contains    `
-│   inner_content: `VitaminDwiki ((Stroke)) category contains`
+│   full_match: `!!!!VitaminDWiki ((Stroke)) category contains    `
+│   inner_content: `VitaminDWiki ((Stroke)) category contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki `
-│   │   inner_content: `VitaminDwiki `
+│   │   full_match: `VitaminDWiki `
+│   │   inner_content: `VitaminDWiki `
 │   ├── LocalLinkNode
 │   │   full_match: `((Stroke))`
 │   │   inner_content: `Stroke`
@@ -253,7 +253,7 @@ Stroke recurrence significantly improves the prognosis quoad vitam et valetudine
 &#39;&#39;This list is automatically updated&#39;&#39;
 {category id=&quot;82+114&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
-!!!!VitaminDwiki ((Stroke)) category contains    
+!!!!VitaminDWiki ((Stroke)) category contains    
 {include page=&quot;Stroke&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ~tc~ (alias(Receurrent Strok 5X more likely if very low vitamin D - meta-analysis Feb 2023)) ~/tc~
 </code>

@@ -61,7 +61,7 @@ Previous publications of this study
 
 * <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies">Preeclampsia & Vitamin D: >55 studies</a>
 
-* [Preterm birth >116 studies](https://vitamindwiki.com/tiki-index.php?page_id=14440)
+* [Preterm birth >116 studies](https://VitaminDWiki.com/tiki-index.php?page_id=14440)
 
 <!-- ~tc~ (alias(3 Problems in Pregnancy if Vitamin D deficient – RCT May 2023)) ~/tc~ -->
 
@@ -123,7 +123,7 @@ Previous publications of this study
 
 * &lt;a href=&quot;/posts/preeclampsia-reduced-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies&quot;&gt;Preeclampsia &amp; Vitamin D: &gt;55 studies&lt;/a&gt;
 
-* [Preterm birth &gt;116 studies](https://vitamindwiki.com/tiki-index.php?page_id=14440)
+* [Preterm birth &gt;116 studies](https://VitaminDWiki.com/tiki-index.php?page_id=14440)
 
 &lt;!-- ~tc~ (alias(3 Problems in Pregnancy if Vitamin D deficient – RCT May 2023)) ~/tc~ --&gt;
 
@@ -458,14 +458,14 @@ AST Structure:
 │   │   │   inner_content: `Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]`
 │   │   inner_content: `Preterm birth &gt;116 studies`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14440`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14440`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth &gt;116 studies`
@@ -516,7 +516,7 @@ Previous publications of this study
 ---
 !!!!See also VitaminDWiki 
 *((Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies))
-*[https://vitamindwiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]
+*[https://VitaminDWiki.com/tiki-index.php?page_id=14440|Preterm birth &gt;116 studies]
 ~tc~ (alias(3 Problems in Pregnancy if Vitamin D deficient – RCT May 2023)) ~/tc~
 ~tc~ (alias(2 Pregnancy problems decrease by 20X if add Vitamin D – May 2023)) ~/tc~
 </code>

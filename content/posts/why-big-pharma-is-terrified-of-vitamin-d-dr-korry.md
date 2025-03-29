@@ -75,7 +75,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * 92 <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Health Problems were proven to be fought by Vitamin D</a> by Dec 2023---
 
-* 242 pages have ["Multiple Studies" in their title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
+* 242 pages have ["Multiple Studies" in their title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
 
 * [Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024](/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews)
 
@@ -85,7 +85,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [(left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
+#### Health Problems and D [(left hand column of every page)](https://VitaminDWiki.com/tiki-index.php?page_id=3381)
 
 ---
 
@@ -164,7 +164,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * 92 &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;Health Problems were proven to be fought by Vitamin D&lt;/a&gt; by Dec 2023---
 
-* 242 pages have [&quot;Multiple Studies&quot; in their title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
+* 242 pages have [&quot;Multiple Studies&quot; in their title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
 
 * [Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024](/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews)
 
@@ -174,7 +174,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [(left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
+#### Health Problems and D [(left hand column of every page)](https://VitaminDWiki.com/tiki-index.php?page_id=3381)
 
 ---
 
@@ -398,17 +398,17 @@ AST Structure:
 │   │   inner_content: ` by Dec 2023---`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*242 pages have [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
-│   inner_content: `242 pages have [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
+│   full_match: `*242 pages have [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
+│   inner_content: `242 pages have [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
 │   depth: `1`
 │   children:
 │   ├── TextNode
 │   │   full_match: `242 pages have `
 │   │   inner_content: `242 pages have `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]`
 │   │   inner_content: `&quot;Multiple Studies&quot; in their title`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13884`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13884`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `&quot;Multiple Studies&quot; in their title`
@@ -457,17 +457,17 @@ AST Structure:
 │   │   │   inner_content: `Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!Health Problems and D [https://vitamindwiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
-│   inner_content: `Health Problems and D [https://vitamindwiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
+│   full_match: `!!!!Health Problems and D [https://VitaminDWiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
+│   inner_content: `Health Problems and D [https://VitaminDWiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Health Problems and D `
 │   │   inner_content: `Health Problems and D `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]`
 │   │   inner_content: ` (left hand column of every page)`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=3381`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=3381`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `(left hand column of every page)`
@@ -544,12 +544,12 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 *((The problems with healthcare in the U.S., following the disinformation playbook – Grant Dec 2017))
 *((137 health problems associated with low vitamin D – meta-meta-analysis April 2014))
 *92 ((Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D)) by Dec 2023---
-*242 pages have [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]
+*242 pages have [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;Multiple Studies&quot; in their title]
 *((Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024))
 *((5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024))
 *((Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022))
 ---
-!!!!Health Problems and D [https://vitamindwiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]
+!!!!Health Problems and D [https://VitaminDWiki.com/tiki-index.php?page_id=3381| (left hand column of every page)]
 ---
 !!!!VitaminDWiki – ((Cancer)) category contains:
 {include page=&quot;Cancer&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}

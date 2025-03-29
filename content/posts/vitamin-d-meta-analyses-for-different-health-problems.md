@@ -31,8 +31,8 @@ Close Associations
 {CUSTOMSEARCH} -->
 
 <!-- ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
@@ -71,8 +71,8 @@ Close Associations
 {CUSTOMSEARCH} --&gt;
 
 &lt;!-- ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
@@ -918,12 +918,12 @@ AST Structure:
 │   │   inner_content: `\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
-│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
+│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
+│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
 │   children:
 │   ├── TextNode
-│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
-│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
 │   ├── ItalixNode
 │   │   full_match: `^p^`
 │   │   inner_content: `p`
@@ -977,8 +977,8 @@ __ADHD~~red,white:7~~,  Autism~~red,white:7~~,  Autoimmune~~red,white:5~~,  Back
 {CUSTOMSEARCH}
 {DIV}
 ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023

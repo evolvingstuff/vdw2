@@ -28,7 +28,7 @@ categories:
 
 ---
 
-#### VitaminDwiki -  <a href="/posts/vitamin-d3-for-vegans" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans">Vitamin D3 for Vegans</a>
+#### VitaminDWiki -  <a href="/posts/vitamin-d3-for-vegans" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans">Vitamin D3 for Vegans</a>
 
  **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+vegan&i=hpc&ref=nb_sb_noss_2)** 
 
@@ -73,7 +73,7 @@ Markdown:
 
 ---
 
-#### VitaminDwiki -  &lt;a href=&quot;/posts/vitamin-d3-for-vegans&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 for Vegans&quot;&gt;Vitamin D3 for Vegans&lt;/a&gt;
+#### VitaminDWiki -  &lt;a href=&quot;/posts/vitamin-d3-for-vegans&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 for Vegans&quot;&gt;Vitamin D3 for Vegans&lt;/a&gt;
 
  **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+vegan&amp;i=hpc&amp;ref=nb_sb_noss_2)** 
 
@@ -173,13 +173,13 @@ AST Structure:
 │   │   inner_content: ` wrote Dr. Jenkins and Dr. Belsito.&quot;`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki -  ((Vitamin D3 for Vegans))`
-│   inner_content: `VitaminDwiki -  ((Vitamin D3 for Vegans))`
+│   full_match: `!!!!VitaminDWiki -  ((Vitamin D3 for Vegans))`
+│   inner_content: `VitaminDWiki -  ((Vitamin D3 for Vegans))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki -  `
-│   │   inner_content: `VitaminDwiki -  `
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
 │   ├── LocalLinkNode
 │   │   full_match: `((Vitamin D3 for Vegans))`
 │   │   inner_content: `Vitamin D3 for Vegans`
@@ -318,7 +318,7 @@ __[https://www.mdedge.com/dermatology/article/261868/contact-dermatitis/lanolin-
 *&quot;Notably, modern wool textiles do not contain lanolin, and lanolin-allergic patients need not avoid wool, Dr. Belsito added.&quot;
 *&quot;Current evidence suggests that the prevalence of contact allergy in the western European population is __0.4%,__ wrote Dr. Jenkins and Dr. Belsito.&quot;
 ---
-!!!!VitaminDwiki -  ((Vitamin D3 for Vegans))
+!!!!VitaminDWiki -  ((Vitamin D3 for Vegans))
 __[https://www.amazon.com/s?k=%22vitamin+d%22+vegan&amp;i=hpc&amp;ref=nb_sb_noss_2|Amazon has 1000+ Vegan D3 supplements]__
 __[https://www.amazon.com/s?k=%22vitamin+d%22+lichen&amp;i=hpc&amp;ref=nb_sb_noss_2|Amazon has 200+ Lichen D3 supplements]__
 __Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,%%%~hs~~hs~ and more likely - due to lack of Magnesium or ((Gut-Friendly Vitamin D|gut problems))__

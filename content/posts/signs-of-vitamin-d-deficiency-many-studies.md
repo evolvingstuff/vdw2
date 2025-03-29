@@ -102,7 +102,7 @@ Please describe the top 5 signs of Vitamin D deficiency - you can use the attach
 
 ---
 
-#### VitaminDwiki - [Predict Vitamin D](/categories/predict-vitamin-d) category contains:
+#### VitaminDWiki - [Predict Vitamin D](/categories/predict-vitamin-d) category contains:
 
  
 
@@ -201,7 +201,7 @@ Please describe the top 5 signs of Vitamin D deficiency - you can use the attach
 
 ---
 
-#### VitaminDwiki - [Predict Vitamin D](/categories/predict-vitamin-d) category contains:
+#### VitaminDWiki - [Predict Vitamin D](/categories/predict-vitamin-d) category contains:
 
  
 
@@ -630,13 +630,13 @@ AST Structure:
 │   │   │   inner_content: `Excellent prediction of very low vitamin D in elderly from just 16 questions (analyzed by ML) – June 2017`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Predict Vitamin D)) category contains:`
-│   inner_content: `VitaminDwiki - ((Predict Vitamin D)) category contains:`
+│   full_match: `!!!!VitaminDWiki - ((Predict Vitamin D)) category contains:`
+│   inner_content: `VitaminDWiki - ((Predict Vitamin D)) category contains:`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Predict Vitamin D))`
 │   │   inner_content: `Predict Vitamin D`
@@ -722,7 +722,7 @@ __Please describe the top 10 signs of Vitamin D deficiency__
 *((Toward predicting vitamin D levels without a blood test.))
 *((Excellent prediction of very low vitamin D in elderly from just 16 questions (analyzed by ML) – June 2017))
 ---
-!!!!VitaminDwiki - ((Predict Vitamin D)) category contains:
+!!!!VitaminDWiki - ((Predict Vitamin D)) category contains:
 {include page=&quot;Predict Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;} 
 </code>
 </pre>

@@ -75,11 +75,11 @@ date: 2023-10-25
 
 #### His references are all from VitaminDWiki
 
-[https://vitamindwiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&q=https://vitamindwiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&v=X2T2Vd9utcs)
 
-[https://vitamindwiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&q=https://vitamindwiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&v=X2T2Vd9utcs)
 
-[https://vitamindwiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&q=https://vitamindwiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&v=X2T2Vd9utcs)
 
 <a href="/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies">More Vitamin D to cells should prevent Uterine Fibroids – multiple studies</a>
 
@@ -91,11 +91,11 @@ date: 2023-10-25
 
 ---
 
-#### VitaminDWiki [Mega-Search](https://vitamindwiki.com/MegaSearch)
+#### VitaminDWiki [Mega-Search](https://VitaminDWiki.com/MegaSearch)
 
 ---
 
-#### 200+ VitaminDWiki pages contain ["many studies" in the title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
+#### 200+ VitaminDWiki pages contain ["many studies" in the title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
 
 
 
@@ -170,11 +170,11 @@ Markdown:
 
 #### His references are all from VitaminDWiki
 
-[https://vitamindwiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://vitamindwiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs)
 
-[https://vitamindwiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://vitamindwiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs)
 
-[https://vitamindwiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://vitamindwiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs)
 
 &lt;a href=&quot;/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies&quot;&gt;More Vitamin D to cells should prevent Uterine Fibroids – multiple studies&lt;/a&gt;
 
@@ -186,11 +186,11 @@ Markdown:
 
 ---
 
-#### VitaminDWiki [Mega-Search](https://vitamindwiki.com/MegaSearch)
+#### VitaminDWiki [Mega-Search](https://VitaminDWiki.com/MegaSearch)
 
 ---
 
-#### 200+ VitaminDWiki pages contain [&quot;many studies&quot; in the title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
+#### 200+ VitaminDWiki pages contain [&quot;many studies&quot; in the title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
 
 
 
@@ -259,31 +259,31 @@ AST Structure:
 │   │   inner_content: `His references are all from VitaminDWiki`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LinkNode
-│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://vitamindwiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Nightmares+a...]`
-│   inner_content: `https://vitamindwiki.com/Nightmares+a...`
-│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://vitamindwiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs`
+│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Nightmares+a...]`
+│   inner_content: `https://VitaminDWiki.com/Nightmares+a...`
+│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs`
 │   children:
 │   ├── TextNode
-│   │   full_match: `https://vitamindwiki.com/Nightmares+a...`
-│   │   inner_content: `https://vitamindwiki.com/Nightmares+a...`├── TextNode
+│   │   full_match: `https://VitaminDWiki.com/Nightmares+a...`
+│   │   inner_content: `https://VitaminDWiki.com/Nightmares+a...`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LinkNode
-│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://vitamindwiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Restless+Leg...]`
-│   inner_content: `https://vitamindwiki.com/Restless+Leg...`
-│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://vitamindwiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs`
+│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Restless+Leg...]`
+│   inner_content: `https://VitaminDWiki.com/Restless+Leg...`
+│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs`
 │   children:
 │   ├── TextNode
-│   │   full_match: `https://vitamindwiki.com/Restless+Leg...`
-│   │   inner_content: `https://vitamindwiki.com/Restless+Leg...`├── TextNode
+│   │   full_match: `https://VitaminDWiki.com/Restless+Leg...`
+│   │   inner_content: `https://VitaminDWiki.com/Restless+Leg...`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LinkNode
-│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://vitamindwiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Bipolar+Diso...]`
-│   inner_content: `https://vitamindwiki.com/Bipolar+Diso...`
-│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://vitamindwiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs`
+│   full_match: `[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Bipolar+Diso...]`
+│   inner_content: `https://VitaminDWiki.com/Bipolar+Diso...`
+│   url: `https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs`
 │   children:
 │   ├── TextNode
-│   │   full_match: `https://vitamindwiki.com/Bipolar+Diso...`
-│   │   inner_content: `https://vitamindwiki.com/Bipolar+Diso...`├── TextNode
+│   │   full_match: `https://VitaminDWiki.com/Bipolar+Diso...`
+│   │   inner_content: `https://VitaminDWiki.com/Bipolar+Diso...`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LocalLinkNode
 │   full_match: `((More Vitamin D to cells should prevent Uterine Fibroids – multiple studies))`
@@ -322,34 +322,34 @@ AST Structure:
 │   │   inner_content: `Myopia epidemic and Vitamin D - many studies`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki [https://vitamindwiki.com/MegaSearch|Mega-Search]`
-│   inner_content: `VitaminDWiki [https://vitamindwiki.com/MegaSearch|Mega-Search]`
+│   full_match: `!!!!VitaminDWiki [https://VitaminDWiki.com/MegaSearch|Mega-Search]`
+│   inner_content: `VitaminDWiki [https://VitaminDWiki.com/MegaSearch|Mega-Search]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki `
 │   │   inner_content: `VitaminDWiki `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/MegaSearch|Mega-Search]`
+│   │   full_match: `[https://VitaminDWiki.com/MegaSearch|Mega-Search]`
 │   │   inner_content: `Mega-Search`
-│   │   url: `https://vitamindwiki.com/MegaSearch`
+│   │   url: `https://VitaminDWiki.com/MegaSearch`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Mega-Search`
 │   │   │   inner_content: `Mega-Search`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!200+ VitaminDWiki pages contain [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
-│   inner_content: `200+ VitaminDWiki pages contain [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
+│   full_match: `!!!!200+ VitaminDWiki pages contain [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
+│   inner_content: `200+ VitaminDWiki pages contain [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
 │   level: `4`
 │   children:
 │   ├── TextNode
 │   │   full_match: `200+ VitaminDWiki pages contain `
 │   │   inner_content: `200+ VitaminDWiki pages contain `
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]`
 │   │   inner_content: `&quot;many studies&quot; in the title`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13884`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13884`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `&quot;many studies&quot; in the title`
@@ -392,17 +392,17 @@ Original Tiki:
 • Bone loss • Bone pain • Low immunity • Depression • High blood pressure • Inflammation • Asthma • Poor sleep
 ---
 !!!!His references are all from VitaminDWiki
-[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://vitamindwiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Nightmares+a...]
-[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://vitamindwiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Restless+Leg...]
-[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://vitamindwiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs|https://vitamindwiki.com/Bipolar+Diso...]
+[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Nightmares+a...]
+[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Restless+Leg...]
+[https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs|https://VitaminDWiki.com/Bipolar+Diso...]
 ((More Vitamin D to cells should prevent Uterine Fibroids – multiple studies))
 ((Poor menstrual cycles 2X more likely if poor vitamin D levels - many studies))
 ((Vitamin D and urinary incontinence - many studies))
 ((Myopia epidemic and Vitamin D - many studies))
 ---
-!!!!VitaminDWiki [https://vitamindwiki.com/MegaSearch|Mega-Search]
+!!!!VitaminDWiki [https://VitaminDWiki.com/MegaSearch|Mega-Search]
 ---
-!!!!200+ VitaminDWiki pages contain [https://vitamindwiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]
+!!!!200+ VitaminDWiki pages contain [https://VitaminDWiki.com/tiki-index.php?page_id=13884|&quot;many studies&quot; in the title]
 
 </code>
 </pre>

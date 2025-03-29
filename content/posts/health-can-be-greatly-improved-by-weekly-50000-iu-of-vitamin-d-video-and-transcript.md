@@ -36,7 +36,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **[Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there's very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I've spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I'm used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
@@ -364,7 +364,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **[Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
@@ -823,13 +823,13 @@ AST Structure:
 │   │   width: 800├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__[https://vitamindwiki.com/tiki-index.php?page_id=14133| Source of chart]__`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=14133| Source of chart]`
+│   full_match: `__[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Source of chart]__`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Source of chart]`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=14133| Source of chart]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Source of chart]`
 │   │   inner_content: ` Source of chart`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14133`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=14133`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Source of chart`
@@ -2863,7 +2863,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 ---
 !!!(2) Reykjavík has the longest Vitamin D winter of the world&#39;s capitals
 {img type=&quot;attId&quot; attId=&quot;19242&quot; width=&quot;800&quot;}
-__[https://vitamindwiki.com/tiki-index.php?page_id=14133| Source of chart]__
+__[https://VitaminDWiki.com/tiki-index.php?page_id=14133| Source of chart]__
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
 This is some of the fear that the doctors who are aware of it fear that they&#39;ll also go out of business. Most doctors aren&#39;t that aware of what vitamin D does and its importance, but there is of a list of the reasons that people are concerned about that. Onto the next slide. This is just showing the... For the city, that it is the city, which has the longest number of days of winter in terms of vitamin D, there&#39;s different ways of describing winter, of course. And Iceland, Reykjavik has the longest or the least amount of sunshine coming to it of any capital in the entire world.

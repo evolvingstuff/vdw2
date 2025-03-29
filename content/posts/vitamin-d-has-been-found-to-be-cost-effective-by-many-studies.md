@@ -62,7 +62,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
 
  **see also <a href="/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D">26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D</a>** 
 
@@ -106,8 +106,8 @@ Close Associations
 {CUSTOMSEARCH} -->
 
 <!-- ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
@@ -179,7 +179,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
 
  **see also &lt;a href=&quot;/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D&quot;&gt;26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D&lt;/a&gt;** 
 
@@ -223,8 +223,8 @@ Close Associations
 {CUSTOMSEARCH} --&gt;
 
 &lt;!-- ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
@@ -404,13 +404,13 @@ AST Structure:
 │   inner_content: ` `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
-│   inner_content: `VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
+│   full_match: `!!!!VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
+│   inner_content: `VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))`
 │   │   inner_content: `Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023`
@@ -560,12 +560,12 @@ AST Structure:
 │   │   inner_content: `\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
-│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
+│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
+│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
 │   children:
 │   ├── TextNode
-│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
-│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://VitaminDWiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
 │   ├── ItalixNode
 │   │   full_match: `^p^`
 │   │   inner_content: `p`
@@ -635,7 +635,7 @@ __Heart Conditions,  Diabetes,  Cancer,  Obesity,  COPD and Asthma,   Traffic In
 !!!!{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 87  OR categId = 64 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}   Items in both categories: &quot;Cost savings with Vitamin D&quot; and &quot;Trauma &amp; Surgery&quot; 
 {category id=&quot;87+64&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;} 
 ---
-!!!!VitaminDwiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))
+!!!!VitaminDWiki - ((Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023))
 __see also ((26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D))__
 ---
 !!!!VitaminDWiki - ((Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually)) 
@@ -664,8 +664,8 @@ Respiratory infections|25 %
 {CUSTOMSEARCH}
 {DIV}
 ~tc~ NOTE: This Search function uses this search template: 
-Search template: https://vitamindwiki.com/tiki-index.php?page_id=13813
-Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 
+Search template: https://VitaminDWiki.com/tiki-index.php?page_id=13813
+Search callbackscript: https://VitaminDWiki.com/tiki-index.php?page_id=13814 
 
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023

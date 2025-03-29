@@ -52,7 +52,7 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Depression](/categories/depression)
 
-[Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies)
+[Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies)
 
 <a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Schizophrenia</a>
 
@@ -108,7 +108,7 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Depression](/categories/depression)
 
-[Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies)
+[Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies)
 
 &lt;a href=&quot;/posts/overview-schizophrenia-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Schizophrenia and Vitamin D&quot;&gt;Schizophrenia&lt;/a&gt;
 
@@ -350,9 +350,9 @@ AST Structure:
 │   │   inner_content: `Depression`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── LinkNode
-│   full_match: `[https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety]`
+│   full_match: `[https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety]`
 │   inner_content: `Anxiety`
-│   url: `https://vitamindwiki.com/Depression#Anxiety_studies`
+│   url: `https://VitaminDWiki.com/Depression#Anxiety_studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Anxiety`
@@ -409,7 +409,7 @@ __[https://www.trialsitenews.com/a/obesity-significantly-increases-risk-of-devel
 ---
 !!!!Low Vitamin D (due to obesity, etc) causes several mental health problems:
 ((Depression))
-[https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety]
+[https://VitaminDWiki.com/Depression#Anxiety_studies|Anxiety]
 ((Overview Schizophrenia and Vitamin D|Schizophrenia))
 ((Smoking reduces vitamin D - many studies|Addiction to smoking))
 

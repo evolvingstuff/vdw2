@@ -135,11 +135,11 @@ Plasma GDF-15 and C-reactive protein (CRP) concentrations were quantified as mar
 
 ---
 
-#### VitaminDwiki – <a href="/posts/epigenetics-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epigenetics and Vitamin D – many studies">Epigenetics and Vitamin D – many studies</a>
+#### VitaminDWiki – <a href="/posts/epigenetics-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epigenetics and Vitamin D – many studies">Epigenetics and Vitamin D – many studies</a>
 
 ---
 
-#### VitaminDwiki – <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki – <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
 
 ---
 
@@ -277,11 +277,11 @@ Plasma GDF-15 and C-reactive protein (CRP) concentrations were quantified as mar
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/epigenetics-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Epigenetics and Vitamin D – many studies&quot;&gt;Epigenetics and Vitamin D – many studies&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/epigenetics-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Epigenetics and Vitamin D – many studies&quot;&gt;Epigenetics and Vitamin D – many studies&lt;/a&gt;
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
 
 ---
 
@@ -816,13 +816,13 @@ AST Structure:
 │   │   inner_content: `Chen L, Dong Y, Bhagatwala J, Raed A, Huang Y, Zhu H. Effects of vitamin D3 supplementation on epigenetic aging in overweight and obese African Americans with suboptimal vitamin D status: a randomized clinical trial. J Gerontol A Biol Sci Med Sci. 2019;74:91–8. https://doi.org/10.1093/gerona/gly223 . - DOI - PubMed`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Epigenetics and Vitamin D – many studies))`
-│   inner_content: `VitaminDwiki – ((Epigenetics and Vitamin D – many studies))`
+│   full_match: `!!!!VitaminDWiki – ((Epigenetics and Vitamin D – many studies))`
+│   inner_content: `VitaminDWiki – ((Epigenetics and Vitamin D – many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Epigenetics and Vitamin D – many studies))`
 │   │   inner_content: `Epigenetics and Vitamin D – many studies`
@@ -833,13 +833,13 @@ AST Structure:
 │   │   │   inner_content: `Epigenetics and Vitamin D – many studies`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Longevity and healthspan increased by Vitamin D - many studies))`
-│   inner_content: `VitaminDwiki – ((Longevity and healthspan increased by Vitamin D - many studies))`
+│   full_match: `!!!!VitaminDWiki – ((Longevity and healthspan increased by Vitamin D - many studies))`
+│   inner_content: `VitaminDWiki – ((Longevity and healthspan increased by Vitamin D - many studies))`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Longevity and healthspan increased by Vitamin D - many studies))`
 │   │   inner_content: `Longevity and healthspan increased by Vitamin D - many studies`
@@ -968,9 +968,9 @@ Plasma GDF-15 and C-reactive protein (CRP) concentrations were quantified as mar
 #Demidenko O, Barardo D, Budovskii V, Finnemore R, Palmer FR, Kennedy BK, Budovskaya YV. Rejuvant®, a potential life-extending compound formulation with alpha-ketoglutarate and vitamins, conferred an average 8 year reduction in biological aging, after an average of 7 months of use, in the TruAge DNA methylation test. Aging (Albany NY), 2021;13:24485–24499. https://doi.org/10.18632/aging.203736 .
 #Chen L, Dong Y, Bhagatwala J, Raed A, Huang Y, Zhu H. Effects of vitamin D3 supplementation on epigenetic aging in overweight and obese African Americans with suboptimal vitamin D status: a randomized clinical trial. J Gerontol A Biol Sci Med Sci. 2019;74:91–8. https://doi.org/10.1093/gerona/gly223 . - DOI - PubMed
 ---
-!!!!VitaminDwiki – ((Epigenetics and Vitamin D – many studies))
+!!!!VitaminDWiki – ((Epigenetics and Vitamin D – many studies))
 ---
-!!!!VitaminDwiki – ((Longevity and healthspan increased by Vitamin D - many studies))
+!!!!VitaminDWiki – ((Longevity and healthspan increased by Vitamin D - many studies))
 ---
 !!!!VitaminDWiki – ((Inflammation)) category contains:
 {include page=&quot;Inflammation&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}

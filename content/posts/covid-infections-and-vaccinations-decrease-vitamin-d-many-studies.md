@@ -42,7 +42,7 @@ categories:
 
 * [More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023](/posts/more-psoriasis-flares-following-second-covid-vaccination-if-lowish-vitamin-d)
 
-* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
+* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
 
  **Vaccination and/or Infection** 
 
@@ -117,7 +117,7 @@ Markdown:
 
 * [More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023](/posts/more-psoriasis-flares-following-second-covid-vaccination-if-lowish-vitamin-d)
 
-* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
+* [Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022](https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022)
 
  **Vaccination and/or Infection** 
 
@@ -380,14 +380,14 @@ AST Structure:
 │   │   │   inner_content: `More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
-│   full_match: `*[https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
-│   inner_content: `[https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
+│   full_match: `*[https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
+│   inner_content: `[https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
 │   depth: `1`
 │   children:
 │   ├── LinkNode
-│   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
+│   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]`
 │   │   inner_content: `Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022`
-│   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022`
+│   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022`
@@ -615,7 +615,7 @@ __Vaccination__
 *((800x Higher Incidence of Myocardial Injury After Booster Vaccination - July 2023))
 *((74% of autopsies were found to be related to COVID vaccination (from 44 studies) – Lancet July 2023))
 *((More psoriasis flares following second COVID vaccination if lowish Vitamin D – May 2023))
-*[https://vitamindwiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]
+*[https://VitaminDWiki.com/tiki-index.php?page_id=13765#Long-COVID_2.2X_more-likely_if_had_2_COVID_vaccinations_-_Dec_2022|Long-COVID 2.2X more-likely if had 2 COVID vaccinations - Dec 2022]
 __Vaccination and/or Infection__
 *((COVID infections or vaccinations may increase Multiple Sclerosis (if low D) - several studies))
 *((50% increase in Cancer deaths (age 15-44) since before COVID - Nov 2023))

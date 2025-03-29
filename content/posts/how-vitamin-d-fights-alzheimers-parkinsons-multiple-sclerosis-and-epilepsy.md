@@ -60,7 +60,7 @@ This review provides up-to-date and comprehensive information on vitamin D defic
 
 ---
 
-#### VitaminDwiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> contains
+#### VitaminDWiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> contains
 
 ---
 
@@ -129,7 +129,7 @@ This review provides up-to-date and comprehensive information on vitamin D defic
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; contains
 
 ---
 
@@ -309,13 +309,13 @@ AST Structure:
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
-│   inner_content: `VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
+│   full_match: `!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
+│   inner_content: `VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki – `
-│   │   inner_content: `VitaminDwiki – `
+│   │   full_match: `VitaminDWiki – `
+│   │   inner_content: `VitaminDWiki – `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D))`
 │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
@@ -478,7 +478,7 @@ influencing the production and release of
 This review provides up-to-date and comprehensive information on vitamin D deficiency, risk factors, and clinical and preclinical evidence on its relationship with neurological disorders. Furthermore, this review provides mechanistic insight into the implications of vitamin D and its deficiency on the pathogenesis of neurological disorders. Thus, an understanding of the crucial role of vitamin D in the neurobiology of neurodegenerative disorders can assist in the better management of vitamin D-deficient individuals.
 {FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19502&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
 ---
-!!!!VitaminDwiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains
+!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains
 {include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!VitaminDWiki - ((Overview Parkinson&#39;s and Vitamin D)) contains   

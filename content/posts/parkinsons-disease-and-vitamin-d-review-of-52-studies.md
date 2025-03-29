@@ -68,7 +68,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased by:
+#### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased by:
 
  **any of: <a href="/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, &nbsp;<a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,&nbsp; <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>, &nbsp; <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>, &nbsp; [non-daily Vit D](/categories/better-than-daily), &nbsp;<a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>, intense exercise,  &nbsp; Ginger, &nbsp; Essential oils, etc** &nbsp; **Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators** 
 
@@ -134,7 +134,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased by:
+#### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased by:
 
  **any of: &lt;a href=&quot;/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;, &amp;nbsp;&lt;a href=&quot;/posts/magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D&quot;&gt;Magnesium&lt;/a&gt;,&amp;nbsp; &lt;a href=&quot;/posts/zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D&quot;&gt;Zinc&lt;/a&gt;, &amp;nbsp; &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016&quot;&gt;Quercetin&lt;/a&gt;, &amp;nbsp; [non-daily Vit D](/categories/better-than-daily), &amp;nbsp;&lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010&quot;&gt;Curcumin&lt;/a&gt;, intense exercise,  &amp;nbsp; Ginger, &amp;nbsp; Essential oils, etc** &amp;nbsp; **Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators** 
 
@@ -331,13 +331,13 @@ AST Structure:
 │   │   showTitle: n├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDwiki - ((Vitamin D Receptor)) activation can be increased by:`
-│   inner_content: `VitaminDwiki - ((Vitamin D Receptor)) activation can be increased by:`
+│   full_match: `!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased by:`
+│   inner_content: `VitaminDWiki - ((Vitamin D Receptor)) activation can be increased by:`
 │   level: `4`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Vitamin D Receptor))`
 │   │   inner_content: `Vitamin D Receptor`
@@ -526,7 +526,7 @@ It is not yet proven if vitamin D reintegration could be an appropriate support 
 &#39;&#39;This list is automatically updated&#39;&#39;
 {category id=&quot;67+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
-!!!!VitaminDwiki - ((Vitamin D Receptor)) activation can be increased by:
+!!!!VitaminDWiki - ((Vitamin D Receptor)) activation can be increased by:
 {FONT(size=&quot;16&quot;)}__any of: ((Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D|Omega-3)), ~hs~((Magnesium and Vitamin D |Magnesium)),~hs~ ((Zinc and Vitamin D |Zinc)), ~hs~ ((Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin)), ~hs~ ((Better than Daily|non-daily Vit D)), ~hs~((Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin)), intense exercise,  ~hs~ Ginger, ~hs~ Essential oils, etc__{FONT}~hs~__ Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators__
 </code>
 </pre>

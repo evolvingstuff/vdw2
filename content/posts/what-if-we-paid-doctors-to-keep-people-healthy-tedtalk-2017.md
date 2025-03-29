@@ -89,7 +89,7 @@ Most of the technologies that we need to initiate that change are already existi
 
 #### Other items on the topic
 
- **VitaminDwiki - <a href="/posts/concierge-medicine-would-benefit-from-healthier-patients-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concierge medicine would benefit from healthier patients (vitamin D) ">Concierge medicine would benefit from healthier patients (vitamin D) </a>** 
+ **VitaminDWiki - <a href="/posts/concierge-medicine-would-benefit-from-healthier-patients-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concierge medicine would benefit from healthier patients (vitamin D) ">Concierge medicine would benefit from healthier patients (vitamin D) </a>** 
 
  **[https://en.wikipedia.org/wiki/Concierge_medicine](https://en.wikipedia.org/wiki/Concierge_medicine)** 
 
@@ -178,7 +178,7 @@ Most of the technologies that we need to initiate that change are already existi
 
 #### Other items on the topic
 
- **VitaminDwiki - &lt;a href=&quot;/posts/concierge-medicine-would-benefit-from-healthier-patients-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Concierge medicine would benefit from healthier patients (vitamin D) &quot;&gt;Concierge medicine would benefit from healthier patients (vitamin D) &lt;/a&gt;** 
+ **VitaminDWiki - &lt;a href=&quot;/posts/concierge-medicine-would-benefit-from-healthier-patients-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Concierge medicine would benefit from healthier patients (vitamin D) &quot;&gt;Concierge medicine would benefit from healthier patients (vitamin D) &lt;/a&gt;** 
 
  **[https://en.wikipedia.org/wiki/Concierge_medicine](https://en.wikipedia.org/wiki/Concierge_medicine)** 
 
@@ -251,12 +251,12 @@ AST Structure:
 │   │   inner_content: `Other items on the topic`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__VitaminDwiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))__`
-│   inner_content: `VitaminDwiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))`
+│   full_match: `__VitaminDWiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))__`
+│   inner_content: `VitaminDWiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))`
 │   children:
 │   ├── TextNode
-│   │   full_match: `VitaminDwiki - `
-│   │   inner_content: `VitaminDwiki - `
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
 │   ├── LocalLinkNode
 │   │   full_match: `((Concierge medicine would benefit from healthier patients (vitamin D) ))`
 │   │   inner_content: `Concierge medicine would benefit from healthier patients (vitamin D) `
@@ -348,7 +348,7 @@ This change may not come overnight. But by refocusing the incentives within the 
 Most of the technologies that we need to initiate that change are already existing today. But this is not a technology question. It is primarily a question of vision and will.
 ---
 !!!!Other items on the topic
-__VitaminDwiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))__
+__VitaminDWiki - ((Concierge medicine would benefit from healthier patients (vitamin D) ))__
 __[https://en.wikipedia.org/wiki/Concierge_medicine]__
 __[https://nutritionstudies.org/what-if-doctors-were-paid-to-keep-people-well/|What If Doctors Were Paid to Keep People Well? - March 2021]__
 </code>

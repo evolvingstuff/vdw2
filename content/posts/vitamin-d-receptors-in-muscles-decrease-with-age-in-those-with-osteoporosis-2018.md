@@ -55,7 +55,7 @@ This list is automatically updated
 
 #### VitaminDWiki - <a href="/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies">Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies</a>
 
-contains  [Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020](https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020)
+contains  [Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020](https://VitaminDWiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -104,7 +104,7 @@ This list is automatically updated
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies&quot;&gt;Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies&lt;/a&gt;
 
-contains  [Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020](https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020)
+contains  [Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020](https://VitaminDWiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020)
 
 AST Structure:
 -------------
@@ -354,9 +354,9 @@ AST Structure:
 │   │   │   inner_content: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`├── TextNode
 │   full_match: `\ncontains  `
 │   inner_content: `\ncontains  `├── LinkNode
-│   full_match: `[https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020|Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020]`
+│   full_match: `[https://VitaminDWiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020|Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020]`
 │   inner_content: `Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020`
-│   url: `https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020`
+│   url: `https://VitaminDWiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020`
@@ -390,6 +390,6 @@ In this study, we investigated the relationship between sarcopenia (evaluated in
 {category id=&quot;5+142&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
 !!!!VitaminDWiki - ((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies))
-contains  [https://vitamindwiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020|Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020]
+contains  [https://VitaminDWiki.com/Sarcopenia+%28muscle+loss%29+fought+by+Vitamin+D%2C+exercise+and+protein+-+many+studies#Sarcopenia_1.6X_more_likely_if_you_have_a_poor_VDR_Nov_2020|Sarcopenia 1.6X more likely if you have a poor VDR – Nov 2020]
 </code>
 </pre>

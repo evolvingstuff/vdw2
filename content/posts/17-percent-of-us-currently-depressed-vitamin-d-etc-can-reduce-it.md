@@ -10,7 +10,7 @@ categories:
 ---
 
 
- <span style="color:orange;">Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs</span>hs~ otherwise must wait for 2 months to notice reduced depression&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>Both Omega-3 and Magnesium also reduce depression ~~
+ <span style="color:orange;">Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://VitaminDWiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs</span>hs~ otherwise must wait for 2 months to notice reduced depression&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>Both Omega-3 and Magnesium also reduce depression ~~
 
 ---
 
@@ -54,7 +54,7 @@ categories:
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://vitamindwiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs&lt;/span&gt;hs~ otherwise must wait for 2 months to notice reduced depression&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;Both Omega-3 and Magnesium also reduce depression ~~
+ &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly [(RCT)](https://VitaminDWiki.com/tiki-index.php?page_id=11241) Start with 50,000 IU daily for the first week to get results in 1 week,  ~hs&lt;/span&gt;hs~ otherwise must wait for 2 months to notice reduced depression&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;Both Omega-3 and Magnesium also reduce depression ~~
 
 ---
 
@@ -97,15 +97,15 @@ Markdown:
 AST Structure:
 -------------
 ├── FontNode
-│   full_match: `{FONT(size=&quot;20&quot;)}~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~{FONT}`
-│   inner_content: `~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~`
+│   full_match: `{FONT(size=&quot;20&quot;)}~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~{FONT}`
+│   inner_content: `~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~`
 │   attrs_dict:
 │   │   raw_content: size=&quot;20&quot;
 │   │   size: 20
 │   children:
 │   ├── ColorNode
-│   │   full_match: `~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~`
-│   │   inner_content: `Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs`
+│   │   full_match: `~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~`
+│   │   inner_content: `Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs`
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
@@ -119,9 +119,9 @@ AST Structure:
 │   │   │   full_match: `Single 50,000 IU capsule bi-weekly or weekly `
 │   │   │   inner_content: `Single 50,000 IU capsule bi-weekly or weekly `
 │   │   ├── LinkNode
-│   │   │   full_match: `[https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]`
+│   │   │   full_match: `[https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]`
 │   │   │   inner_content: `(RCT)`
-│   │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=11241`
+│   │   │   url: `https://VitaminDWiki.com/tiki-index.php?page_id=11241`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `(RCT)`
@@ -342,7 +342,7 @@ AST Structure:
 
 Original Tiki:
 -------------
-{FONT(size=&quot;20&quot;)}~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://vitamindwiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~{FONT}
+{FONT(size=&quot;20&quot;)}~~#00F:Vitamin D is the lowest-cost depression treatment: only pennies a day %%%Single 50,000 IU capsule bi-weekly or weekly [https://VitaminDWiki.com/tiki-index.php?page_id=11241|(RCT)]%%% Start with 50,000 IU daily for the first week to get results in 1 week, %%% ~hs~~hs~ otherwise must wait for 2 months to notice reduced depression%%%~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~((Can get 50,000 IU Vitamin D anywhere on the globe))%%%Both Omega-3 and Magnesium also reduce depression ~~{FONT}
 ---
 {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV} 
 ---
