@@ -39,13 +39,13 @@ This list is automatically updated
 
 ##### Dr. Stasha Gominak Discusses Sleep and Vitamin D and B Vitamins - video Nov 2023
 
- **[72 minutes](https://www.youtube.com/watch?v=AIEA9ZdkRhc&ab_channel=acaciaNorison)** 
+ **[72 minutes](https://www.youtube.com/watch%3Fv%3DAIEA9ZdkRhc%26ab_channel%3DacaciaNorison)** 
 
 ---
 
 ##### Three Simple Steps for Healthier Sleep: Dr. Stasha Gominak video - Oct 2023
 
- **[YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&ab_channel=AmericanAcademyofCraniofacialPain)** 
+ **[YouTube 64 minutes](https://www.youtube.com/watch%3Fv%3DLbAXAvMEZX4%26ab_channel%3DAmericanAcademyofCraniofacialPain)** 
 
  **Learning Objectives:** 
 
@@ -63,13 +63,13 @@ This list is automatically updated
 
 ##### Vitamin D - Conversation with Neurologist Dr. Stasha Gominak - Vitamin D, Sleep + Headaches Part 1 - video Nov 2022
 
- **[122 minutes](https://www.youtube.com/watch?v=qAoy0rp6ptw&ab_channel=CraigStewart )** 
+ **[122 minutes](https://www.youtube.com/watch%3Fv%3DqAoy0rp6ptw%26ab_channel%3DCraigStewart%20)** 
 
 ---
 
 ##### How does Vitamin D deficiency and your gut microbiome affect your sleep with Dr. Stasha Gominak video Feb 2023
 
- **[51 minutes](https://www.youtube.com/watch?v=qZNiLkJn7cc&ab_channel=Dr.AmyNovotny)** 
+ **[51 minutes](https://www.youtube.com/watch%3Fv%3DqZNiLkJn7cc%26ab_channel%3DDr.AmyNovotny)** 
 
 Do you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?
 
@@ -163,13 +163,13 @@ This list is automatically updated
 
 ##### Dr. Stasha Gominak Discusses Sleep and Vitamin D and B Vitamins - video Nov 2023
 
- **[72 minutes](https://www.youtube.com/watch?v=AIEA9ZdkRhc&amp;ab_channel=acaciaNorison)** 
+ **[72 minutes](https://www.youtube.com/watch%3Fv%3DAIEA9ZdkRhc%26ab_channel%3DacaciaNorison)** 
 
 ---
 
 ##### Three Simple Steps for Healthier Sleep: Dr. Stasha Gominak video - Oct 2023
 
- **[YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&amp;ab_channel=AmericanAcademyofCraniofacialPain)** 
+ **[YouTube 64 minutes](https://www.youtube.com/watch%3Fv%3DLbAXAvMEZX4%26ab_channel%3DAmericanAcademyofCraniofacialPain)** 
 
  **Learning Objectives:** 
 
@@ -187,13 +187,13 @@ This list is automatically updated
 
 ##### Vitamin D - Conversation with Neurologist Dr. Stasha Gominak - Vitamin D, Sleep + Headaches Part 1 - video Nov 2022
 
- **[122 minutes](https://www.youtube.com/watch?v=qAoy0rp6ptw&amp;ab_channel=CraigStewart )** 
+ **[122 minutes](https://www.youtube.com/watch%3Fv%3DqAoy0rp6ptw%26ab_channel%3DCraigStewart%20)** 
 
 ---
 
 ##### How does Vitamin D deficiency and your gut microbiome affect your sleep with Dr. Stasha Gominak video Feb 2023
 
- **[51 minutes](https://www.youtube.com/watch?v=qZNiLkJn7cc&amp;ab_channel=Dr.AmyNovotny)** 
+ **[51 minutes](https://www.youtube.com/watch%3Fv%3DqZNiLkJn7cc%26ab_channel%3DDr.AmyNovotny)** 
 
 Do you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?
 

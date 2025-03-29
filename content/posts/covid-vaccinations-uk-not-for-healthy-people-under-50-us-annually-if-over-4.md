@@ -13,7 +13,7 @@ categories:
 
 #### UK to End COVID Booster Program for Healthy People Under 50 in Shift to ‘Post-Pandemic Life’ - Jan 28, 2023
 
- **[The Defender](https://childrenshealthdefense.org/defender/uk-covid-vaccine-booster-post-pandemic/?utm_source=salsa&eType=EmailBlastContent&eId=e065c53b-1f73-46a2-b8a6-2fde5a150956)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/uk-covid-vaccine-booster-post-pandemic/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3De065c53b-1f73-46a2-b8a6-2fde5a150956)** 
 
 * "People ages 5 to 49 who are in a “clinical risk group, live with an immunosuppressed person or are carers” will be able to get the boosters under the new program, which is “similar to one carried out for the annual flu vaccine,” the Daily Mail reported."
 
@@ -43,7 +43,7 @@ Markdown:
 
 #### UK to End COVID Booster Program for Healthy People Under 50 in Shift to ‘Post-Pandemic Life’ - Jan 28, 2023
 
- **[The Defender](https://childrenshealthdefense.org/defender/uk-covid-vaccine-booster-post-pandemic/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=e065c53b-1f73-46a2-b8a6-2fde5a150956)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/uk-covid-vaccine-booster-post-pandemic/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3De065c53b-1f73-46a2-b8a6-2fde5a150956)** 
 
 * &quot;People ages 5 to 49 who are in a “clinical risk group, live with an immunosuppressed person or are carers” will be able to get the boosters under the new program, which is “similar to one carried out for the annual flu vaccine,” the Daily Mail reported.&quot;
 

@@ -17,7 +17,7 @@ categories:
 
 #### Response by Perplexity AI Feb 2024
 
- **[Click here for 12 references, images, videos, etc](https://www.perplexity.ai/search/might-the-vagus-oizVAgnSQge0wpjJ06KhoA?s=c)** 
+ **[Click here for 12 references, images, videos, etc](https://www.perplexity.ai/search/might-the-vagus-oizVAgnSQge0wpjJ06KhoA%3Fs%3Dc)** 
 
 The relationship between vitamin D and the vagus nerve, a critical component of the autonomic nervous system, has been explored in various studies, suggesting that vitamin D may indeed play a role in supporting vagus nerve function and, by extension, autonomic nervous system health.
 
@@ -58,7 +58,7 @@ Markdown:
 
 #### Response by Perplexity AI Feb 2024
 
- **[Click here for 12 references, images, videos, etc](https://www.perplexity.ai/search/might-the-vagus-oizVAgnSQge0wpjJ06KhoA?s=c)** 
+ **[Click here for 12 references, images, videos, etc](https://www.perplexity.ai/search/might-the-vagus-oizVAgnSQge0wpjJ06KhoA%3Fs%3Dc)** 
 
 The relationship between vitamin D and the vagus nerve, a critical component of the autonomic nervous system, has been explored in various studies, suggesting that vitamin D may indeed play a role in supporting vagus nerve function and, by extension, autonomic nervous system health.
 

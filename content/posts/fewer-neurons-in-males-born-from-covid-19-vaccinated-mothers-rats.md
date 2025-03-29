@@ -14,7 +14,7 @@ categories:
 
 #### Will COVID-19 Shots Drive an Epidemic of Autism?
 
- **[Brindle substack](https://viralimmunologist.substack.com/p/will-covid-19-shots-drive-an-epidemic?utm_source=cross-post&publication_id=592214&post_id=140854321&utm_campaign=1119676&isFreemail=false&r=ofo3r&utm_medium=email)** 
+ **[Brindle substack](https://viralimmunologist.substack.com/p/will-covid-19-shots-drive-an-epidemic%3Futm_source%3Dcross-post%26publication_id%3D592214%26post_id%3D140854321%26utm_campaign%3D1119676%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 * "Male rats were the ones in which biochemical changes translated into an obvious manifestation of autism-like behaviours. Note that this was “pronounced”. Interestingly, this correlates with the human condition, in which boys are diagnosed with autism more often than girls. Of particular concern is the loss of neurons in the brain. Depending on the location of the brain, there were 24-38% fewer neurons in males born from dams (mothers) that had received the COVID-19 shot."
 
@@ -48,7 +48,7 @@ Markdown:
 
 #### Will COVID-19 Shots Drive an Epidemic of Autism?
 
- **[Brindle substack](https://viralimmunologist.substack.com/p/will-covid-19-shots-drive-an-epidemic?utm_source=cross-post&amp;publication_id=592214&amp;post_id=140854321&amp;utm_campaign=1119676&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
+ **[Brindle substack](https://viralimmunologist.substack.com/p/will-covid-19-shots-drive-an-epidemic%3Futm_source%3Dcross-post%26publication_id%3D592214%26post_id%3D140854321%26utm_campaign%3D1119676%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 * &quot;Male rats were the ones in which biochemical changes translated into an obvious manifestation of autism-like behaviours. Note that this was “pronounced”. Interestingly, this correlates with the human condition, in which boys are diagnosed with autism more often than girls. Of particular concern is the loss of neurons in the brain. Depending on the location of the brain, there were 24-38% fewer neurons in males born from dams (mothers) that had received the COVID-19 shot.&quot;
 

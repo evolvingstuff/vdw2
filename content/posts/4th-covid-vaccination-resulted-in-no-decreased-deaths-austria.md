@@ -51,7 +51,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 
 ---
 
-#### Video [review of this study by Dr. Campbell](https://www.youtube.com/watch?v=CRs9xwiGabA&ab_channel=Dr.JohnCampbell) Dec 13, 2023
+#### Video [review of this study by Dr. Campbell](https://www.youtube.com/watch%3Fv%3DCRs9xwiGabA%26ab_channel%3DDr.JohnCampbell) Dec 13, 2023
 
 <!-- ~tc~ (alias(COVID vaccination 4th dose - incred infections and no decrese in deaths - Nov 2023)) ~/tc~ -->
 
@@ -103,7 +103,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 
 ---
 
-#### Video [review of this study by Dr. Campbell](https://www.youtube.com/watch?v=CRs9xwiGabA&amp;ab_channel=Dr.JohnCampbell) Dec 13, 2023
+#### Video [review of this study by Dr. Campbell](https://www.youtube.com/watch%3Fv%3DCRs9xwiGabA%26ab_channel%3DDr.JohnCampbell) Dec 13, 2023
 
 &lt;!-- ~tc~ (alias(COVID vaccination 4th dose - incred infections and no decrese in deaths - Nov 2023)) ~/tc~ --&gt;
 

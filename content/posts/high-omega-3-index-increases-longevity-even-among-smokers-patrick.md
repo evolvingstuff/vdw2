@@ -18,7 +18,7 @@ categories:
 
 #### Dr. Rhonda Patrick - This is The Only Supplement that ACTUALLY Increases Lifespan
 
- **[YouTube 57 minutes](https://www.youtube.com/watch?v=Sxxy6bUlX28&ab_channel=ThomasDeLauer)** 
+ **[YouTube 57 minutes](https://www.youtube.com/watch%3Fv%3DSxxy6bUlX28%26ab_channel%3DThomasDeLauer)** 
 
  **Timestamps** 
 
@@ -99,7 +99,7 @@ Markdown:
 
 #### Dr. Rhonda Patrick - This is The Only Supplement that ACTUALLY Increases Lifespan
 
- **[YouTube 57 minutes](https://www.youtube.com/watch?v=Sxxy6bUlX28&amp;ab_channel=ThomasDeLauer)** 
+ **[YouTube 57 minutes](https://www.youtube.com/watch%3Fv%3DSxxy6bUlX28%26ab_channel%3DThomasDeLauer)** 
 
  **Timestamps** 
 

@@ -19,7 +19,7 @@ categories:
 
 ---
 
-#### The Broad-Spectrum Antiviral Effects of Willow Bark Extract - [Mercola](https://articles.mercola.com/sites/articles/archive/2023/12/26/willow-bark.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art2HL&cid=20231226&foDate=false&mid=DM1508229&rid=2002031810)
+#### The Broad-Spectrum Antiviral Effects of Willow Bark Extract - [Mercola](https://articles.mercola.com/sites/articles/archive/2023/12/26/willow-bark.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart2HL%26cid%3D20231226%26foDate%3Dfalse%26mid%3DDM1508229%26rid%3D2002031810)
 
 * Willow bark is perhaps most widely known as aspirin’s forerunner, but it appears to have powerful  **antiviral effects**  as well
 
@@ -135,7 +135,7 @@ It's important to note that while willow bark contains salicin, which is similar
 
 #### Willowbark forms: liquid, pills, tea, cream, etc
 
- **[Amazon - >3X the cost of aspirin](https://www.amazon.com/s?k=willow+bark&crid=JKHS6DW947IN&sprefix=willow+bark%2Caps%2C198&ref=nb_sb_ss_ts-doa-p_1_11)** 
+ **[Amazon - >3X the cost of aspirin](https://www.amazon.com/s%3Fk%3Dwillow%2Bbark%26crid%3DJKHS6DW947IN%26sprefix%3Dwillow%2Bbark%2Caps%2C198%26ref%3Dnb_sb_ss_ts-doa-p_1_11)** 
 
 <!-- ~tc~ (alias(junk)) ~/tc~ -->
 
@@ -151,7 +151,7 @@ Markdown:
 
 ---
 
-#### The Broad-Spectrum Antiviral Effects of Willow Bark Extract - [Mercola](https://articles.mercola.com/sites/articles/archive/2023/12/26/willow-bark.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art2HL&amp;cid=20231226&amp;foDate=false&amp;mid=DM1508229&amp;rid=2002031810)
+#### The Broad-Spectrum Antiviral Effects of Willow Bark Extract - [Mercola](https://articles.mercola.com/sites/articles/archive/2023/12/26/willow-bark.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart2HL%26cid%3D20231226%26foDate%3Dfalse%26mid%3DDM1508229%26rid%3D2002031810)
 
 * Willow bark is perhaps most widely known as aspirin’s forerunner, but it appears to have powerful  **antiviral effects**  as well
 
@@ -267,7 +267,7 @@ It&#39;s important to note that while willow bark contains salicin, which is sim
 
 #### Willowbark forms: liquid, pills, tea, cream, etc
 
- **[Amazon - &gt;3X the cost of aspirin](https://www.amazon.com/s?k=willow+bark&amp;crid=JKHS6DW947IN&amp;sprefix=willow+bark%2Caps%2C198&amp;ref=nb_sb_ss_ts-doa-p_1_11)** 
+ **[Amazon - &gt;3X the cost of aspirin](https://www.amazon.com/s%3Fk%3Dwillow%2Bbark%26crid%3DJKHS6DW947IN%26sprefix%3Dwillow%2Bbark%2Caps%2C198%26ref%3Dnb_sb_ss_ts-doa-p_1_11)** 
 
 &lt;!-- ~tc~ (alias(junk)) ~/tc~ --&gt;
 

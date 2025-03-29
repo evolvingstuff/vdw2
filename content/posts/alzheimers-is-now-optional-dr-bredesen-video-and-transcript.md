@@ -17,7 +17,7 @@ categories:
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen, M.D.
 
- **[YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&t=5273s&ab_channel=TheRealTruthAboutHealth) 114 minutes** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D5273s%26ab_channel%3DTheRealTruthAboutHealth) 114 minutes** 
 
 ---
 
@@ -2356,7 +2356,7 @@ Markdown:
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen, M.D.
 
- **[YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=5273s&amp;ab_channel=TheRealTruthAboutHealth) 114 minutes** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3Dlh0eyYZCECc%26t%3D5273s%26ab_channel%3DTheRealTruthAboutHealth) 114 minutes** 
 
 ---
 

@@ -18,7 +18,7 @@ page under construction
 
 ---
 
-#### [YouTube 6 minutes](https://www.youtube.com/watch?v=s4VvG0qD5Xw&t=18s&ab_channel=FoundMyFitnessClips)
+#### [YouTube 6 minutes](https://www.youtube.com/watch%3Fv%3Ds4VvG0qD5Xw%26t%3D18s%26ab_channel%3DFoundMyFitnessClips)
 
 #### Transcript
 
@@ -122,7 +122,7 @@ page under construction
 
 ---
 
-#### [YouTube 6 minutes](https://www.youtube.com/watch?v=s4VvG0qD5Xw&amp;t=18s&amp;ab_channel=FoundMyFitnessClips)
+#### [YouTube 6 minutes](https://www.youtube.com/watch%3Fv%3Ds4VvG0qD5Xw%26t%3D18s%26ab_channel%3DFoundMyFitnessClips)
 
 #### Transcript
 

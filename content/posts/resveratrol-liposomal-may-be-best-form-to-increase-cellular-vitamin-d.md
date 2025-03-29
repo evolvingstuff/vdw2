@@ -64,7 +64,7 @@ Resveratrol is a polyphenol with diverse pharmacological activities, but its cli
 
 #### Many Amazon suppliers sell liposomal Resveratrol
 
- **[Amazon](https://www.amazon.com/s?k=resveratrol+liposomal&crid=2Z8VA1RGOOX61&sprefix=resveratrol+lipo%2Caps%2C189&ref=nb_sb_ss_ts-doa-p_1_16)** 
+ **[Amazon](https://www.amazon.com/s%3Fk%3Dresveratrol%2Bliposomal%26crid%3D2Z8VA1RGOOX61%26sprefix%3Dresveratrol%2Blipo%2Caps%2C189%26ref%3Dnb_sb_ss_ts-doa-p_1_16)** 
 
 Some of the items listed are liposomal tumeric/curcumin combined with Reseratrol (probably OK)
 
@@ -163,7 +163,7 @@ Resveratrol is a polyphenol with diverse pharmacological activities, but its cli
 
 #### Many Amazon suppliers sell liposomal Resveratrol
 
- **[Amazon](https://www.amazon.com/s?k=resveratrol+liposomal&amp;crid=2Z8VA1RGOOX61&amp;sprefix=resveratrol+lipo%2Caps%2C189&amp;ref=nb_sb_ss_ts-doa-p_1_16)** 
+ **[Amazon](https://www.amazon.com/s%3Fk%3Dresveratrol%2Bliposomal%26crid%3D2Z8VA1RGOOX61%26sprefix%3Dresveratrol%2Blipo%2Caps%2C189%26ref%3Dnb_sb_ss_ts-doa-p_1_16)** 
 
 Some of the items listed are liposomal tumeric/curcumin combined with Reseratrol (probably OK)
 

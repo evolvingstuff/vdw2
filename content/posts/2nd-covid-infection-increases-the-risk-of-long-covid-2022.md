@@ -16,9 +16,9 @@ categories:
 
 * [Long COVID Risk Makes It Worth Avoiding Second Infections](https://www.webmd.com/covid/news/20221219/long-covid-risk-makes-it-worth-avoiding-second-infections)  Dec 2022  WebMD
 
-* [Getting COVID-19 Multiple Times Is Risky for Your Health](https://time.com/6232103/covid-19-reinfections-effects/ ) Time Nov 2022
+* [Getting COVID-19 Multiple Times Is Risky for Your Health](https://time.com/6232103/covid-19-reinfections-effects/%20) Time Nov 2022
 
-* [What doctors wish patients knew about COVID-19 reinfection]( https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
+* [What doctors wish patients knew about COVID-19 reinfection](%20https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
 
   * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
 
@@ -39,9 +39,9 @@ Markdown:
 
 * [Long COVID Risk Makes It Worth Avoiding Second Infections](https://www.webmd.com/covid/news/20221219/long-covid-risk-makes-it-worth-avoiding-second-infections)  Dec 2022  WebMD
 
-* [Getting COVID-19 Multiple Times Is Risky for Your Health](https://time.com/6232103/covid-19-reinfections-effects/ ) Time Nov 2022
+* [Getting COVID-19 Multiple Times Is Risky for Your Health](https://time.com/6232103/covid-19-reinfections-effects/%20) Time Nov 2022
 
-* [What doctors wish patients knew about COVID-19 reinfection]( https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
+* [What doctors wish patients knew about COVID-19 reinfection](%20https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
 
   * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
 

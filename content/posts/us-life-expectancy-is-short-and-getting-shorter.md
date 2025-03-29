@@ -14,7 +14,7 @@ date: 2023-03-27
 
 #### 'Live free and die?' The sad state of U.S. life expectancy - NPR
 
- **[NPR](https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy?utm_medium=email&utm_source=pocket_hits&utm_campaign=POCKET_HITS-EN-DAILY-RECS-2023_03_27&sponsored=0&position=3&scheduled_corpus_item_id=80c4db78-8d42-4a69-a34c-902765c4521d) &nbsp; [Interactive charts](https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/#Life%20expectancy%20at%20birth%20in%20years,%201980-2021)** 
+ **[NPR](https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-RECS-2023_03_27%26sponsored%3D0%26position%3D3%26scheduled_corpus_item_id%3D80c4db78-8d42-4a69-a34c-902765c4521d) &nbsp; [Interactive charts](https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/%23Life%20expectancy%20at%20birth%20in%20years%2C%201980-2021)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -62,7 +62,7 @@ date: 2023-03-27
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php?page_id=13764) |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13764) |
 | World | 73.3 |  |
 
 
@@ -77,7 +77,7 @@ Markdown:
 
 #### &#39;Live free and die?&#39; The sad state of U.S. life expectancy - NPR
 
- **[NPR](https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy?utm_medium=email&amp;utm_source=pocket_hits&amp;utm_campaign=POCKET_HITS-EN-DAILY-RECS-2023_03_27&amp;sponsored=0&amp;position=3&amp;scheduled_corpus_item_id=80c4db78-8d42-4a69-a34c-902765c4521d) &amp;nbsp; [Interactive charts](https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/#Life%20expectancy%20at%20birth%20in%20years,%201980-2021)** 
+ **[NPR](https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy%3Futm_medium%3Demail%26utm_source%3Dpocket_hits%26utm_campaign%3DPOCKET_HITS-EN-DAILY-RECS-2023_03_27%26sponsored%3D0%26position%3D3%26scheduled_corpus_item_id%3D80c4db78-8d42-4a69-a34c-902765c4521d) &amp;nbsp; [Interactive charts](https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/%23Life%20expectancy%20at%20birth%20in%20years%2C%201980-2021)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -125,7 +125,7 @@ Markdown:
 | Iceland | 83.1 |  |
 | UK | 80.9 |  |
 | US | 77.3 |  |
-| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php?page_id=13764) |
+| Saudi Arabia | 76.6 | [$1bn/year funding to increase it](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13764) |
 | World | 73.3 |  |
 
 

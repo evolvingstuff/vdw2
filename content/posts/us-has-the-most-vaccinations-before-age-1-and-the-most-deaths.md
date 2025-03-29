@@ -22,7 +22,7 @@ categories:
 
 #### US infants  26% more likely to die before age 1 than infants born in 19 other wealthy nations
 
- **[Forewarned Is Forearmed: CHD E-book Helps Parents-to-Be Navigate Risky CDC Recommendations](https://childrenshealthdefense.org/community-forum/chd-ebook-parents-guide-to-healthy-children/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20240326) CHD** 
+ **[Forewarned Is Forearmed: CHD E-book Helps Parents-to-Be Navigate Risky CDC Recommendations](https://childrenshealthdefense.org/community-forum/chd-ebook-parents-guide-to-healthy-children/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240326) CHD** 
 
 ##### United States - 23 doses
 
@@ -126,7 +126,7 @@ Markdown:
 
 #### US infants  26% more likely to die before age 1 than infants born in 19 other wealthy nations
 
- **[Forewarned Is Forearmed: CHD E-book Helps Parents-to-Be Navigate Risky CDC Recommendations](https://childrenshealthdefense.org/community-forum/chd-ebook-parents-guide-to-healthy-children/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20240326) CHD** 
+ **[Forewarned Is Forearmed: CHD E-book Helps Parents-to-Be Navigate Risky CDC Recommendations](https://childrenshealthdefense.org/community-forum/chd-ebook-parents-guide-to-healthy-children/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240326) CHD** 
 
 ##### United States - 23 doses
 

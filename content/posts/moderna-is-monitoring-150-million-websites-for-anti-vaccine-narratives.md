@@ -17,7 +17,7 @@ categories:
 
 #### Moderna’s ‘Disinformation Department’ Monitors 150 Million Websites for ‘Anti-Vaccine’ Narratives
 
- **[Children's Health Defence](https://childrenshealthdefense.org/defender/moderna-artificial-intelligence-anti-vaccine-narratives/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20231121)** 
+ **[Children's Health Defence](https://childrenshealthdefense.org/defender/moderna-artificial-intelligence-anti-vaccine-narratives/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231121)** 
 
 * "Moderna had never successfully advanced any product to market prior to the COVID-19 mRNA vaccine and was teetering on the edge of collapse when the pandemic was announced."
 
@@ -56,7 +56,7 @@ Markdown:
 
 #### Moderna’s ‘Disinformation Department’ Monitors 150 Million Websites for ‘Anti-Vaccine’ Narratives
 
- **[Children&#39;s Health Defence](https://childrenshealthdefense.org/defender/moderna-artificial-intelligence-anti-vaccine-narratives/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20231121)** 
+ **[Children&#39;s Health Defence](https://childrenshealthdefense.org/defender/moderna-artificial-intelligence-anti-vaccine-narratives/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231121)** 
 
 * &quot;Moderna had never successfully advanced any product to market prior to the COVID-19 mRNA vaccine and was teetering on the edge of collapse when the pandemic was announced.&quot;
 

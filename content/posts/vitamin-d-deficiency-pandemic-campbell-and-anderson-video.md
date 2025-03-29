@@ -13,7 +13,7 @@ date: 2024-02-23
 
 ---
 
-#### YouTube [51 minute](https://www.youtube.com/watch?v=lCiABhI9qjU&ab_channel=Dr.JohnCampbell)
+#### YouTube [51 minute](https://www.youtube.com/watch%3Fv%3DlCiABhI9qjU%26ab_channel%3DDr.JohnCampbell)
 
 00:00:00 - Intro
 
@@ -132,7 +132,7 @@ Markdown:
 
 ---
 
-#### YouTube [51 minute](https://www.youtube.com/watch?v=lCiABhI9qjU&amp;ab_channel=Dr.JohnCampbell)
+#### YouTube [51 minute](https://www.youtube.com/watch%3Fv%3DlCiABhI9qjU%26ab_channel%3DDr.JohnCampbell)
 
 00:00:00 - Intro
 

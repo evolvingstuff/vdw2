@@ -115,7 +115,7 @@ Conclusion/interpretation: Despite younger age at diagnosis, and fewer individua
 
 * <a href="/posts/vitamin-d-intervention-reduces-preterm-births-and-low-birth-weight-by-60-percent-cochrane-reviews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017">Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017</a>
 
-* Birth weight and the future development of diabetes: A review of the evidence  Aug 1998) [FREE PDF](https://www.proquest.com/docview/223037240?pq-origsite=gscholar&fromopenview=true)
+* Birth weight and the future development of diabetes: A review of the evidence  Aug 1998) [FREE PDF](https://www.proquest.com/docview/223037240%3Fpq-origsite%3Dgscholar%26fromopenview%3Dtrue)
 
 * <a href="/posts/low-birth-weight-3x-more-likely-if-mother-had-less-than-25-nanograms-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012">Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012</a>
 
@@ -266,7 +266,7 @@ Conclusion/interpretation: Despite younger age at diagnosis, and fewer individua
 
 * &lt;a href=&quot;/posts/vitamin-d-intervention-reduces-preterm-births-and-low-birth-weight-by-60-percent-cochrane-reviews&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017&quot;&gt;Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017&lt;/a&gt;
 
-* Birth weight and the future development of diabetes: A review of the evidence  Aug 1998) [FREE PDF](https://www.proquest.com/docview/223037240?pq-origsite=gscholar&amp;fromopenview=true)
+* Birth weight and the future development of diabetes: A review of the evidence  Aug 1998) [FREE PDF](https://www.proquest.com/docview/223037240%3Fpq-origsite%3Dgscholar%26fromopenview%3Dtrue)
 
 * &lt;a href=&quot;/posts/low-birth-weight-3x-more-likely-if-mother-had-less-than-25-nanograms-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012&quot;&gt;Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012&lt;/a&gt;
 

@@ -16,35 +16,35 @@ categories:
 
 ---
 
-#### [YouTube - DeLauer](https://www.youtube.com/watch?v=ErgZlZixCrA&ab_channel=ThomasDeLauer)__
+#### [YouTube - DeLauer](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26ab_channel%3DThomasDeLauer)__
 
 ---
 
 #### Timestamps
 
-* [0:00](https://www.youtube.com/watch?v=ErgZlZixCrA&t=0s) - Intro -  **9 Signs of Severe Vitamin D Deficiency** 
+* [0:00](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D0s) - Intro -  **9 Signs of Severe Vitamin D Deficiency** 
 
-* [0:27](https://www.youtube.com/watch?v=ErgZlZixCrA&t=27s) - Advertisement 
+* [0:27](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D27s) - Advertisement 
 
-* [1:20](https://www.youtube.com/watch?v=ErgZlZixCrA&t=80s) - Fatigue - and short sleep
+* [1:20](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D80s) - Fatigue - and short sleep
 
-* [2:26](https://www.youtube.com/watch?v=ErgZlZixCrA&t=146s) - Depression - due to neuroinflammation
+* [2:26](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D146s) - Depression - due to neuroinflammation
 
-* [3:37](https://www.youtube.com/watch?v=ErgZlZixCrA&t=217s) - Bone Density 
+* [3:37](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D217s) - Bone Density 
 
-* [4:11](https://www.youtube.com/watch?v=ErgZlZixCrA&t=251s) - Chronic Pain/Inflammation
+* [4:11](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D251s) - Chronic Pain/Inflammation
 
-* [5:55](https://www.youtube.com/watch?v=ErgZlZixCrA&t=355s) - Muscle Loss
+* [5:55](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D355s) - Muscle Loss
 
-* [7:38](https://www.youtube.com/watch?v=ErgZlZixCrA&t=458s) - Fat Gain 
+* [7:38](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D458s) - Fat Gain 
 
-* [9:13](https://www.youtube.com/watch?v=ErgZlZixCrA&t=553s) - High Blood Sugar
+* [9:13](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D553s) - High Blood Sugar
 
-* [10:42](https://www.youtube.com/watch?v=ErgZlZixCrA&t=642s) - Respiratory Infection
+* [10:42](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D642s) - Respiratory Infection
 
-* [11:58](https://www.youtube.com/watch?v=ErgZlZixCrA&t=718s) - Skin Issues 
+* [11:58](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D718s) - Skin Issues 
 
-* [12:57](https://www.youtube.com/watch?v=ErgZlZixCrA&t=777s) - Sources of Vitamin D
+* [12:57](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D777s) - Sources of Vitamin D
 
 ---
 
@@ -62,17 +62,17 @@ categories:
 
 * [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603112/)
 
-* [https://www.cambridge.org/core/journa...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVvR1ZOa3FqZHdNSzBaUExHZ0FWZHM3a2E0d3xBQ3Jtc0tuWk85b29GblZPZzM1Z1NoVm1COVB0SV8wZWxTcHE3REpJcW5wOVpTT1pJMnYwRWtpc2h5c3V4Zm5BeVRHdDk3clg0a1RfZDRKZWotMVJhdko3NHJZaWtWRVRqcjRxSnNqVWdMV2VqcUc2d3RwRjFFZw&q=https://www.cambridge.org/core/journals/public-health-nutrition/article/does-vitamin-d-status-predict-weight-gain-or-increase-in-waist-circumference-results-from-the-longitudinal-health-20002011-survey/810DA81ABDE7749060A2A7C3A6F5A602&v=ErgZlZixCrA)
+* [https://www.cambridge.org/core/journa...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbkVvR1ZOa3FqZHdNSzBaUExHZ0FWZHM3a2E0d3xBQ3Jtc0tuWk85b29GblZPZzM1Z1NoVm1COVB0SV8wZWxTcHE3REpJcW5wOVpTT1pJMnYwRWtpc2h5c3V4Zm5BeVRHdDk3clg0a1RfZDRKZWotMVJhdko3NHJZaWtWRVRqcjRxSnNqVWdMV2VqcUc2d3RwRjFFZw%26q%3Dhttps://www.cambridge.org/core/journals/public-health-nutrition/article/does-vitamin-d-status-predict-weight-gain-or-increase-in-waist-circumference-results-from-the-longitudinal-health-20002011-survey/810DA81ABDE7749060A2A7C3A6F5A602%26v%3DErgZlZixCrA)
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblNnd3V3MkoxLWNZcjhtT3o1dnJMdzBQREdMZ3xBQ3Jtc0ttUTNUeC12Ni05alA5Sm1sdGRXWTZXUjB5a1JjSVdETVJ4MWtRZjhhVWZFZzJhWXAtWFJPTmxRX3RjR21Db0hMbFZSNHhnMW01bGt0MkVKckhvdUh5Z2d4ZHRKNXRrcGFMX0FIVVM5dkJ1ZzZDQTdXQQ&q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875459/&v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqblNnd3V3MkoxLWNZcjhtT3o1dnJMdzBQREdMZ3xBQ3Jtc0ttUTNUeC12Ni05alA5Sm1sdGRXWTZXUjB5a1JjSVdETVJ4MWtRZjhhVWZFZzJhWXAtWFJPTmxRX3RjR21Db0hMbFZSNHhnMW01bGt0MkVKckhvdUh5Z2d4ZHRKNXRrcGFMX0FIVVM5dkJ1ZzZDQTdXQQ%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875459/%26v%3DErgZlZixCrA)
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjdwNGhNdGpQSHdCRjU4TVpCUVZneUJYVnp2QXxBQ3Jtc0trU0tLZVk4UWRyNlZXazBxdGtqcUh3bGFUcU5HbG9oNGpDRVlNb0I2OFllcng3bmh0aGVlYzBKdXI0eE5iS2tlMzJWWG5jNk1kekc2WElsYlltbWJwSm1CNmh3emRNd1I1X2o5WjlZRlo5SlU0dDVLYw&q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114481/&v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbjdwNGhNdGpQSHdCRjU4TVpCUVZneUJYVnp2QXxBQ3Jtc0trU0tLZVk4UWRyNlZXazBxdGtqcUh3bGFUcU5HbG9oNGpDRVlNb0I2OFllcng3bmh0aGVlYzBKdXI0eE5iS2tlMzJWWG5jNk1kekc2WElsYlltbWJwSm1CNmh3emRNd1I1X2o5WjlZRlo5SlU0dDVLYw%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114481/%26v%3DErgZlZixCrA)
 
-* [https://journals.sagepub.com/doi/10.1...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjdlNC1pOXFaRXBmc2Q2d1pXWndVU1RpTTRKQXxBQ3Jtc0tsS3VjZjNVVnJfc1FwaVZiUVJnVm55T1pOdm90bFR6NFEyVU9oY2doWHZ1OS1iQ19FOTlKQzFUNUF1cXBudkRaLTdKbWtlSkhIaERjNkwyRi03RnNVVDFzbGJIN2ZDUzdKcVdGaTFpZVVSeTVXQ2txTQ&q=https://journals.sagepub.com/doi/10.1177/0049475516644141?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed&v=ErgZlZixCrA) 
+* [https://journals.sagepub.com/doi/10.1...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbjdlNC1pOXFaRXBmc2Q2d1pXWndVU1RpTTRKQXxBQ3Jtc0tsS3VjZjNVVnJfc1FwaVZiUVJnVm55T1pOdm90bFR6NFEyVU9oY2doWHZ1OS1iQ19FOTlKQzFUNUF1cXBudkRaLTdKbWtlSkhIaERjNkwyRi03RnNVVDFzbGJIN2ZDUzdKcVdGaTFpZVVSeTVXQ2txTQ%26q%3Dhttps://journals.sagepub.com/doi/10.1177/0049475516644141%3Furl_ver%3DZ39.88-2003%26rfr_id%3Dori:rid:crossref.org%26rfr_dat%3Dcr_pub%20%200pubmed%26v%3DErgZlZixCrA) 
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl8yYlFSWmFSaTFZeDZjSC1JUy1walBNNjdRZ3xBQ3Jtc0tsOUxobFQ3R0duY3k4SWZSNE9Jcm5EV2F3NDNYMlJDMjJrSVh1S0V1YlNJSDR0Vlc3eVZnTFZOLTA1ejRySFR1dGVIS1lRTXZ6dHlrZ2hfcDRmZTlDZkNrczlOUkZFQWs3WDA3VXdNMlRWcExHLWp0MA&q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046524/&v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbl8yYlFSWmFSaTFZeDZjSC1JUy1walBNNjdRZ3xBQ3Jtc0tsOUxobFQ3R0duY3k4SWZSNE9Jcm5EV2F3NDNYMlJDMjJrSVh1S0V1YlNJSDR0Vlc3eVZnTFZOLTA1ejRySFR1dGVIS1lRTXZ6dHlrZ2hfcDRmZTlDZkNrczlOUkZFQWs3WDA3VXdNMlRWcExHLWp0MA%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046524/%26v%3DErgZlZixCrA)
 
-* [https://www.karger.com/Article/Fullte...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXBxeGF0ZTc3cVhiU0lqcGhkVVljWVFVUl9vUXxBQ3Jtc0tsV1FhV0ZuOGV3UkVJWmNhQXJ5aGNVRGQ2QjlRY1I1VGVaWFY2WHlpdmdnajhtcHFoTWxiQnE2bFRmbnZrU1NNT2FBNzVyYW1TdzZlRnVRdmREb2NOMGRQRlFSX2pLRE9YbkZzajN4SmlGd3pDQmQ2dw&q=https://www.karger.com/Article/Fulltext/485132&v=ErgZlZixCrA) 
+* [https://www.karger.com/Article/Fullte...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbXBxeGF0ZTc3cVhiU0lqcGhkVVljWVFVUl9vUXxBQ3Jtc0tsV1FhV0ZuOGV3UkVJWmNhQXJ5aGNVRGQ2QjlRY1I1VGVaWFY2WHlpdmdnajhtcHFoTWxiQnE2bFRmbnZrU1NNT2FBNzVyYW1TdzZlRnVRdmREb2NOMGRQRlFSX2pLRE9YbkZzajN4SmlGd3pDQmQ2dw%26q%3Dhttps://www.karger.com/Article/Fulltext/485132%26v%3DErgZlZixCrA) 
 
 ---
 
@@ -128,35 +128,35 @@ Markdown:
 
 ---
 
-#### [YouTube - DeLauer](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;ab_channel=ThomasDeLauer)__
+#### [YouTube - DeLauer](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26ab_channel%3DThomasDeLauer)__
 
 ---
 
 #### Timestamps
 
-* [0:00](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=0s) - Intro -  **9 Signs of Severe Vitamin D Deficiency** 
+* [0:00](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D0s) - Intro -  **9 Signs of Severe Vitamin D Deficiency** 
 
-* [0:27](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=27s) - Advertisement 
+* [0:27](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D27s) - Advertisement 
 
-* [1:20](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=80s) - Fatigue - and short sleep
+* [1:20](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D80s) - Fatigue - and short sleep
 
-* [2:26](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=146s) - Depression - due to neuroinflammation
+* [2:26](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D146s) - Depression - due to neuroinflammation
 
-* [3:37](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=217s) - Bone Density 
+* [3:37](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D217s) - Bone Density 
 
-* [4:11](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=251s) - Chronic Pain/Inflammation
+* [4:11](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D251s) - Chronic Pain/Inflammation
 
-* [5:55](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=355s) - Muscle Loss
+* [5:55](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D355s) - Muscle Loss
 
-* [7:38](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=458s) - Fat Gain 
+* [7:38](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D458s) - Fat Gain 
 
-* [9:13](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=553s) - High Blood Sugar
+* [9:13](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D553s) - High Blood Sugar
 
-* [10:42](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=642s) - Respiratory Infection
+* [10:42](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D642s) - Respiratory Infection
 
-* [11:58](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=718s) - Skin Issues 
+* [11:58](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D718s) - Skin Issues 
 
-* [12:57](https://www.youtube.com/watch?v=ErgZlZixCrA&amp;t=777s) - Sources of Vitamin D
+* [12:57](https://www.youtube.com/watch%3Fv%3DErgZlZixCrA%26t%3D777s) - Sources of Vitamin D
 
 ---
 
@@ -174,17 +174,17 @@ Markdown:
 
 * [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603112/)
 
-* [https://www.cambridge.org/core/journa...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkVvR1ZOa3FqZHdNSzBaUExHZ0FWZHM3a2E0d3xBQ3Jtc0tuWk85b29GblZPZzM1Z1NoVm1COVB0SV8wZWxTcHE3REpJcW5wOVpTT1pJMnYwRWtpc2h5c3V4Zm5BeVRHdDk3clg0a1RfZDRKZWotMVJhdko3NHJZaWtWRVRqcjRxSnNqVWdMV2VqcUc2d3RwRjFFZw&amp;q=https://www.cambridge.org/core/journals/public-health-nutrition/article/does-vitamin-d-status-predict-weight-gain-or-increase-in-waist-circumference-results-from-the-longitudinal-health-20002011-survey/810DA81ABDE7749060A2A7C3A6F5A602&amp;v=ErgZlZixCrA)
+* [https://www.cambridge.org/core/journa...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbkVvR1ZOa3FqZHdNSzBaUExHZ0FWZHM3a2E0d3xBQ3Jtc0tuWk85b29GblZPZzM1Z1NoVm1COVB0SV8wZWxTcHE3REpJcW5wOVpTT1pJMnYwRWtpc2h5c3V4Zm5BeVRHdDk3clg0a1RfZDRKZWotMVJhdko3NHJZaWtWRVRqcjRxSnNqVWdMV2VqcUc2d3RwRjFFZw%26q%3Dhttps://www.cambridge.org/core/journals/public-health-nutrition/article/does-vitamin-d-status-predict-weight-gain-or-increase-in-waist-circumference-results-from-the-longitudinal-health-20002011-survey/810DA81ABDE7749060A2A7C3A6F5A602%26v%3DErgZlZixCrA)
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblNnd3V3MkoxLWNZcjhtT3o1dnJMdzBQREdMZ3xBQ3Jtc0ttUTNUeC12Ni05alA5Sm1sdGRXWTZXUjB5a1JjSVdETVJ4MWtRZjhhVWZFZzJhWXAtWFJPTmxRX3RjR21Db0hMbFZSNHhnMW01bGt0MkVKckhvdUh5Z2d4ZHRKNXRrcGFMX0FIVVM5dkJ1ZzZDQTdXQQ&amp;q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875459/&amp;v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqblNnd3V3MkoxLWNZcjhtT3o1dnJMdzBQREdMZ3xBQ3Jtc0ttUTNUeC12Ni05alA5Sm1sdGRXWTZXUjB5a1JjSVdETVJ4MWtRZjhhVWZFZzJhWXAtWFJPTmxRX3RjR21Db0hMbFZSNHhnMW01bGt0MkVKckhvdUh5Z2d4ZHRKNXRrcGFMX0FIVVM5dkJ1ZzZDQTdXQQ%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875459/%26v%3DErgZlZixCrA)
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjdwNGhNdGpQSHdCRjU4TVpCUVZneUJYVnp2QXxBQ3Jtc0trU0tLZVk4UWRyNlZXazBxdGtqcUh3bGFUcU5HbG9oNGpDRVlNb0I2OFllcng3bmh0aGVlYzBKdXI0eE5iS2tlMzJWWG5jNk1kekc2WElsYlltbWJwSm1CNmh3emRNd1I1X2o5WjlZRlo5SlU0dDVLYw&amp;q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114481/&amp;v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbjdwNGhNdGpQSHdCRjU4TVpCUVZneUJYVnp2QXxBQ3Jtc0trU0tLZVk4UWRyNlZXazBxdGtqcUh3bGFUcU5HbG9oNGpDRVlNb0I2OFllcng3bmh0aGVlYzBKdXI0eE5iS2tlMzJWWG5jNk1kekc2WElsYlltbWJwSm1CNmh3emRNd1I1X2o5WjlZRlo5SlU0dDVLYw%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114481/%26v%3DErgZlZixCrA)
 
-* [https://journals.sagepub.com/doi/10.1...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjdlNC1pOXFaRXBmc2Q2d1pXWndVU1RpTTRKQXxBQ3Jtc0tsS3VjZjNVVnJfc1FwaVZiUVJnVm55T1pOdm90bFR6NFEyVU9oY2doWHZ1OS1iQ19FOTlKQzFUNUF1cXBudkRaLTdKbWtlSkhIaERjNkwyRi03RnNVVDFzbGJIN2ZDUzdKcVdGaTFpZVVSeTVXQ2txTQ&amp;q=https://journals.sagepub.com/doi/10.1177/0049475516644141?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed&amp;v=ErgZlZixCrA) 
+* [https://journals.sagepub.com/doi/10.1...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbjdlNC1pOXFaRXBmc2Q2d1pXWndVU1RpTTRKQXxBQ3Jtc0tsS3VjZjNVVnJfc1FwaVZiUVJnVm55T1pOdm90bFR6NFEyVU9oY2doWHZ1OS1iQ19FOTlKQzFUNUF1cXBudkRaLTdKbWtlSkhIaERjNkwyRi03RnNVVDFzbGJIN2ZDUzdKcVdGaTFpZVVSeTVXQ2txTQ%26q%3Dhttps://journals.sagepub.com/doi/10.1177/0049475516644141%3Furl_ver%3DZ39.88-2003%26rfr_id%3Dori:rid:crossref.org%26rfr_dat%3Dcr_pub%20%200pubmed%26v%3DErgZlZixCrA) 
 
-* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbl8yYlFSWmFSaTFZeDZjSC1JUy1walBNNjdRZ3xBQ3Jtc0tsOUxobFQ3R0duY3k4SWZSNE9Jcm5EV2F3NDNYMlJDMjJrSVh1S0V1YlNJSDR0Vlc3eVZnTFZOLTA1ejRySFR1dGVIS1lRTXZ6dHlrZ2hfcDRmZTlDZkNrczlOUkZFQWs3WDA3VXdNMlRWcExHLWp0MA&amp;q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046524/&amp;v=ErgZlZixCrA)
+* [https://www.ncbi.nlm.nih.gov/pmc/arti...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbl8yYlFSWmFSaTFZeDZjSC1JUy1walBNNjdRZ3xBQ3Jtc0tsOUxobFQ3R0duY3k4SWZSNE9Jcm5EV2F3NDNYMlJDMjJrSVh1S0V1YlNJSDR0Vlc3eVZnTFZOLTA1ejRySFR1dGVIS1lRTXZ6dHlrZ2hfcDRmZTlDZkNrczlOUkZFQWs3WDA3VXdNMlRWcExHLWp0MA%26q%3Dhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046524/%26v%3DErgZlZixCrA)
 
-* [https://www.karger.com/Article/Fullte...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbXBxeGF0ZTc3cVhiU0lqcGhkVVljWVFVUl9vUXxBQ3Jtc0tsV1FhV0ZuOGV3UkVJWmNhQXJ5aGNVRGQ2QjlRY1I1VGVaWFY2WHlpdmdnajhtcHFoTWxiQnE2bFRmbnZrU1NNT2FBNzVyYW1TdzZlRnVRdmREb2NOMGRQRlFSX2pLRE9YbkZzajN4SmlGd3pDQmQ2dw&amp;q=https://www.karger.com/Article/Fulltext/485132&amp;v=ErgZlZixCrA) 
+* [https://www.karger.com/Article/Fullte...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbXBxeGF0ZTc3cVhiU0lqcGhkVVljWVFVUl9vUXxBQ3Jtc0tsV1FhV0ZuOGV3UkVJWmNhQXJ5aGNVRGQ2QjlRY1I1VGVaWFY2WHlpdmdnajhtcHFoTWxiQnE2bFRmbnZrU1NNT2FBNzVyYW1TdzZlRnVRdmREb2NOMGRQRlFSX2pLRE9YbkZzajN4SmlGd3pDQmQ2dw%26q%3Dhttps://www.karger.com/Article/Fulltext/485132%26v%3DErgZlZixCrA) 
 
 ---
 

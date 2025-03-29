@@ -10,13 +10,13 @@ categories:
 ---
 
 
- **[Wall Street Journal](https://www.wsj.com/articles/the-fda-wants-to-interfere-in-the-practice-of-medicine-physicians-patients-medical-devices-treatment-11673562165?utm_source=substack&utm_medium=email)** 
+ **[Wall Street Journal](https://www.wsj.com/articles/the-fda-wants-to-interfere-in-the-practice-of-medicine-physicians-patients-medical-devices-treatment-11673562165%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "A little-noticed provision of the omnibus spending bill could give the agency power to ban off-label use of approved therapies."
 
 * "Secreted within the 2023 omnibus appropriations bill—4,155 pages, spending $1.7 trillion—is a 19-line section that could change the way medicine is practiced."
 
- **The information is also covered in a substack by [merylnass](https://merylnass.substack.com/p/the-fda-succeeded-in-interfering?utm_source=substack&utm_medium=email)** 
+ **The information is also covered in a substack by [merylnass](https://merylnass.substack.com/p/the-fda-succeeded-in-interfering%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "The law that allowed for the use of off-label licensed drugs like HCQ and IVM appears to have been neutered. Also gone is the prohibition for using EUA products outside an emergency, discussed in a previous substack and confirmed by Sanjoy Mahajan’s identifying the FDA notice dated Jan. 31 that confirms it."
 
@@ -40,13 +40,13 @@ categories:
 <code class="language-text">
 Markdown:
 --------
- **[Wall Street Journal](https://www.wsj.com/articles/the-fda-wants-to-interfere-in-the-practice-of-medicine-physicians-patients-medical-devices-treatment-11673562165?utm_source=substack&amp;utm_medium=email)** 
+ **[Wall Street Journal](https://www.wsj.com/articles/the-fda-wants-to-interfere-in-the-practice-of-medicine-physicians-patients-medical-devices-treatment-11673562165%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;A little-noticed provision of the omnibus spending bill could give the agency power to ban off-label use of approved therapies.&quot;
 
 * &quot;Secreted within the 2023 omnibus appropriations bill—4,155 pages, spending $1.7 trillion—is a 19-line section that could change the way medicine is practiced.&quot;
 
- **The information is also covered in a substack by [merylnass](https://merylnass.substack.com/p/the-fda-succeeded-in-interfering?utm_source=substack&amp;utm_medium=email)** 
+ **The information is also covered in a substack by [merylnass](https://merylnass.substack.com/p/the-fda-succeeded-in-interfering%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;The law that allowed for the use of off-label licensed drugs like HCQ and IVM appears to have been neutered. Also gone is the prohibition for using EUA products outside an emergency, discussed in a previous substack and confirmed by Sanjoy Mahajan’s identifying the FDA notice dated Jan. 31 that confirms it.&quot;
 

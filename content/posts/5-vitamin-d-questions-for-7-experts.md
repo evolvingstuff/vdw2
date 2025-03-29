@@ -29,7 +29,7 @@ Clifford J Rosen 6,
 
 Inez Schoenmakers 7
 
-##### PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-view-on-vitamin-d-a-pleiotropic-factor-7I8FiYMNX4?articleList=%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01)
+##### PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-view-on-vitamin-d-a-pleiotropic-factor-7I8FiYMNX4%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01)
 
 DeepDyve offers a 1 month trial to look at this and thousands of other studies
 
@@ -140,7 +140,7 @@ Clifford J Rosen 6,
 
 Inez Schoenmakers 7
 
-##### PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-view-on-vitamin-d-a-pleiotropic-factor-7I8FiYMNX4?articleList=%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01)
+##### PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-view-on-vitamin-d-a-pleiotropic-factor-7I8FiYMNX4%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01)
 
 DeepDyve offers a 1 month trial to look at this and thousands of other studies
 

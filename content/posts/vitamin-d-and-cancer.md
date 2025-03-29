@@ -19,7 +19,7 @@ categories:
 
 Mol Biol Rep. 2024 Jan 25;51(1):190. [doi: 10.1007/s11033-023-09111-y](https://doi.org/10.1007/s11033-023-09111-y) 
 
-PDF is behind a paywall.  Can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/vitamin-d-and-potential-effects-on-cancers-a-review-BWuTgsGEGc?articleList=%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01%26page%3D2)
+PDF is behind a paywall.  Can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/vitamin-d-and-potential-effects-on-cancers-a-review-BWuTgsGEGc%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01%26page%3D2)
 
 Pouria Sobhi 1, Mohammad Bahrami 1, Faraz Mahdizadeh 1, Aliakbar Fazaeli 2, Ghader Babaei 3, Lotfollah Rezagholizadeh 4
 
@@ -250,7 +250,7 @@ Markdown:
 
 Mol Biol Rep. 2024 Jan 25;51(1):190. [doi: 10.1007/s11033-023-09111-y](https://doi.org/10.1007/s11033-023-09111-y) 
 
-PDF is behind a paywall.  Can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/vitamin-d-and-potential-effects-on-cancers-a-review-BWuTgsGEGc?articleList=%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01%26page%3D2)
+PDF is behind a paywall.  Can be viewed at [DeepDyve](https://www.deepdyve.com/lp/springer-journals/vitamin-d-and-potential-effects-on-cancers-a-review-BWuTgsGEGc%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Vitamin%2BD%2522%26articleFilter%3Drentable%257Cfree%257Crestricted%26dateFrom%3D2024-01-01%26page%3D2)
 
 Pouria Sobhi 1, Mohammad Bahrami 1, Faraz Mahdizadeh 1, Aliakbar Fazaeli 2, Ghader Babaei 3, Lotfollah Rezagholizadeh 4
 

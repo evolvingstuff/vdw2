@@ -18,7 +18,7 @@ categories:
 
 #### Lanolin gets nod for Allergen of the Year
 
- **[MDedge March 2021](https://www.mdedge.com/dermatology/article/261868/contact-dermatitis/lanolin-gets-nod-allergen-year?ecd=WNL_EVE_230320_mdedge )** 
+ **[MDedge March 2021](https://www.mdedge.com/dermatology/article/261868/contact-dermatitis/lanolin-gets-nod-allergen-year%3Fecd%3DWNL_EVE_230320_mdedge%20)** 
 
 * "“From my perspective, this was a timely year to think about lanolin, as there is significant ongoing controversy about whether it is allergenic,” Dr. Jenkins said in an interview. “Numerous companies market lanolin-containing topicals as safe and effective emollients,” she said."
 
@@ -30,9 +30,9 @@ categories:
 
 #### VitaminDWiki -  <a href="/posts/vitamin-d3-for-vegans" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans">Vitamin D3 for Vegans</a>
 
- **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+vegan&i=hpc&ref=nb_sb_noss_2)** 
+ **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s%3Fk%3D%22vitamin%2Bd%22%2Bvegan%26i%3Dhpc%26ref%3Dnb_sb_noss_2)** 
 
- **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+lichen&i=hpc&ref=nb_sb_noss_2)** 
+ **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s%3Fk%3D%22vitamin%2Bd%22%2Blichen%26i%3Dhpc%26ref%3Dnb_sb_noss_2)** 
 
  **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,&nbsp;&nbsp; and more likely - due to lack of Magnesium or <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut problems</a>** 
 
@@ -63,7 +63,7 @@ Markdown:
 
 #### Lanolin gets nod for Allergen of the Year
 
- **[MDedge March 2021](https://www.mdedge.com/dermatology/article/261868/contact-dermatitis/lanolin-gets-nod-allergen-year?ecd=WNL_EVE_230320_mdedge )** 
+ **[MDedge March 2021](https://www.mdedge.com/dermatology/article/261868/contact-dermatitis/lanolin-gets-nod-allergen-year%3Fecd%3DWNL_EVE_230320_mdedge%20)** 
 
 * &quot;“From my perspective, this was a timely year to think about lanolin, as there is significant ongoing controversy about whether it is allergenic,” Dr. Jenkins said in an interview. “Numerous companies market lanolin-containing topicals as safe and effective emollients,” she said.&quot;
 
@@ -75,9 +75,9 @@ Markdown:
 
 #### VitaminDWiki -  &lt;a href=&quot;/posts/vitamin-d3-for-vegans&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 for Vegans&quot;&gt;Vitamin D3 for Vegans&lt;/a&gt;
 
- **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+vegan&amp;i=hpc&amp;ref=nb_sb_noss_2)** 
+ **[Amazon has 1000+ Vegan D3 supplements](https://www.amazon.com/s%3Fk%3D%22vitamin%2Bd%22%2Bvegan%26i%3Dhpc%26ref%3Dnb_sb_noss_2)** 
 
- **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s?k=%22vitamin+d%22+lichen&amp;i=hpc&amp;ref=nb_sb_noss_2)** 
+ **[Amazon has 200+ Lichen D3 supplements](https://www.amazon.com/s%3Fk%3D%22vitamin%2Bd%22%2Blichen%26i%3Dhpc%26ref%3Dnb_sb_noss_2)** 
 
  **Perhaps 1 in 300 people have allergies to the Vitamin D oil used, colors added,&amp;nbsp;&amp;nbsp; and more likely - due to lack of Magnesium or &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;gut problems&lt;/a&gt;** 
 

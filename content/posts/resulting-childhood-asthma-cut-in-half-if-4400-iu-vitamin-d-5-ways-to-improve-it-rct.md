@@ -62,7 +62,7 @@ Conclusion: Pregnant women with severe vitamin D deficiency show the greatest 25
 
 * <a href="/posts/asthma-treated-by-vitamin-d-13th-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma treated by Vitamin D - 13th Meta-analysis – July 2022">Asthma treated by Vitamin D - 13th Meta-analysis – July 2022</a>
 
-* [Vitamin D is cost-effective to give to asthmatic children in Columbia - Feb 2023](https://VitaminDWiki.com/Overview+Asthma+and+Vitamin+D#Vitamin_D_is_cost-effective_to_give_to_asthmatic_children_in_Columbia_-_Feb_2023)
+* [Vitamin D is cost-effective to give to asthmatic children in Columbia - Feb 2023](https://VitaminDWiki.com/Overview%2BAsthma%2Band%2BVitamin%2BD%23Vitamin_D_is_cost-effective_to_give_to_asthmatic_children_in_Columbia_-_Feb_2023)
 
 * <a href="/posts/reduction-of-infant-asthma-may-require-good-vitamin-d-when-lung-development-starts-4-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduction of infant asthma may require good vitamin D when lung development starts (4 weeks) – March 2017">Reduction of infant asthma may require good vitamin D when lung development starts (4 weeks) – March 2017</a>
 
@@ -144,7 +144,7 @@ Conclusion: Pregnant women with severe vitamin D deficiency show the greatest 25
 
 * &lt;a href=&quot;/posts/asthma-treated-by-vitamin-d-13th-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Asthma treated by Vitamin D - 13th Meta-analysis – July 2022&quot;&gt;Asthma treated by Vitamin D - 13th Meta-analysis – July 2022&lt;/a&gt;
 
-* [Vitamin D is cost-effective to give to asthmatic children in Columbia - Feb 2023](https://VitaminDWiki.com/Overview+Asthma+and+Vitamin+D#Vitamin_D_is_cost-effective_to_give_to_asthmatic_children_in_Columbia_-_Feb_2023)
+* [Vitamin D is cost-effective to give to asthmatic children in Columbia - Feb 2023](https://VitaminDWiki.com/Overview%2BAsthma%2Band%2BVitamin%2BD%23Vitamin_D_is_cost-effective_to_give_to_asthmatic_children_in_Columbia_-_Feb_2023)
 
 * &lt;a href=&quot;/posts/reduction-of-infant-asthma-may-require-good-vitamin-d-when-lung-development-starts-4-weeks&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Reduction of infant asthma may require good vitamin D when lung development starts (4 weeks) – March 2017&quot;&gt;Reduction of infant asthma may require good vitamin D when lung development starts (4 weeks) – March 2017&lt;/a&gt;
 

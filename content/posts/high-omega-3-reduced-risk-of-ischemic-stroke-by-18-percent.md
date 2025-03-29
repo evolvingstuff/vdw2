@@ -44,7 +44,7 @@ Higher omega-3 PUFA levels are associated with lower risks of total and ischemic
 
 ---
 
-#### See discussion at [Grassrootshealth](https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html?soid=1102722411090&aid=5FVAE0Gurd8)
+#### See discussion at [Grassrootshealth](https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html%3Fsoid%3D1102722411090%26aid%3D5FVAE0Gurd8)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -127,7 +127,7 @@ Higher omega-3 PUFA levels are associated with lower risks of total and ischemic
 
 ---
 
-#### See discussion at [Grassrootshealth](https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html?soid=1102722411090&amp;aid=5FVAE0Gurd8)
+#### See discussion at [Grassrootshealth](https://myemail.constantcontact.com/Higher-Omega-3-Levels-Associated-with-Lower-Risk-of-Stroke.html%3Fsoid%3D1102722411090%26aid%3D5FVAE0Gurd8)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

@@ -17,27 +17,27 @@ categories:
 
 #### The #1 BEST Nutrient for Autoimmune Conditions - Dr. Eric Berg
 
- **[YouTube 14 minutes](https://www.youtube.com/watch?v=zy-jEXIxpSo&ab_channel=Dr.EricBergDC)** 
+ **[YouTube 14 minutes](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26ab_channel%3DDr.EricBergDC)** 
 
 CHECK OUT THE WEBSITE HERE: [https://www.coimbraprotocol.com/](https://www.coimbraprotocol.com/)
 
-[https://clinicalmolecularallergy.biom...](https://clinicalmolecularallergy.biomedcentral.com/articles/10.1186/s12948-021-00145-w&v=zy-jEXIxpSo)
+[https://clinicalmolecularallergy.biom...](https://clinicalmolecularallergy.biomedcentral.com/articles/10.1186/s12948-021-00145-w%26v%3Dzy-jEXIxpSo)
 
-[0:00](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=0s) Introduction: The best nutrient for autoimmune diseases
+[0:00](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D0s) Introduction: The best nutrient for autoimmune diseases
 
-[0:15](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=15s) The Coimbra protocol
+[0:15](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D15s) The Coimbra protocol
 
-[2:00](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=120s) Vitamin D explained
+[2:00](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D120s) Vitamin D explained
 
-[2:50](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=170s) A look at vitamin C and scurvy
+[2:50](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D170s) A look at vitamin C and scurvy
 
-[5:53](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=353s) Vitamin D for autoimmune conditions
+[5:53](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D353s) Vitamin D for autoimmune conditions
 
-[7:30](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=450s) Vitamin D resistance
+[7:30](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D450s) Vitamin D resistance
 
-[10:15](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=615s) How to do the Coimbra protocol
+[10:15](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D615s) How to do the Coimbra protocol
 
-[13:35](https://www.youtube.com/watch?v=zy-jEXIxpSo&t=815s) Check out my video on vitamin D toxicity!
+[13:35](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D815s) Check out my video on vitamin D toxicity!
 
 Let’s talk about the best nutrient for autoimmune conditions. This information is based on an interesting protocol developed by Dr. Coimbra.
 
@@ -114,27 +114,27 @@ Markdown:
 
 #### The #1 BEST Nutrient for Autoimmune Conditions - Dr. Eric Berg
 
- **[YouTube 14 minutes](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;ab_channel=Dr.EricBergDC)** 
+ **[YouTube 14 minutes](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26ab_channel%3DDr.EricBergDC)** 
 
 CHECK OUT THE WEBSITE HERE: [https://www.coimbraprotocol.com/](https://www.coimbraprotocol.com/)
 
-[https://clinicalmolecularallergy.biom...](https://clinicalmolecularallergy.biomedcentral.com/articles/10.1186/s12948-021-00145-w&amp;v=zy-jEXIxpSo)
+[https://clinicalmolecularallergy.biom...](https://clinicalmolecularallergy.biomedcentral.com/articles/10.1186/s12948-021-00145-w%26v%3Dzy-jEXIxpSo)
 
-[0:00](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=0s) Introduction: The best nutrient for autoimmune diseases
+[0:00](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D0s) Introduction: The best nutrient for autoimmune diseases
 
-[0:15](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=15s) The Coimbra protocol
+[0:15](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D15s) The Coimbra protocol
 
-[2:00](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=120s) Vitamin D explained
+[2:00](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D120s) Vitamin D explained
 
-[2:50](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=170s) A look at vitamin C and scurvy
+[2:50](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D170s) A look at vitamin C and scurvy
 
-[5:53](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=353s) Vitamin D for autoimmune conditions
+[5:53](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D353s) Vitamin D for autoimmune conditions
 
-[7:30](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=450s) Vitamin D resistance
+[7:30](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D450s) Vitamin D resistance
 
-[10:15](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=615s) How to do the Coimbra protocol
+[10:15](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D615s) How to do the Coimbra protocol
 
-[13:35](https://www.youtube.com/watch?v=zy-jEXIxpSo&amp;t=815s) Check out my video on vitamin D toxicity!
+[13:35](https://www.youtube.com/watch%3Fv%3Dzy-jEXIxpSo%26t%3D815s) Check out my video on vitamin D toxicity!
 
 Let’s talk about the best nutrient for autoimmune conditions. This information is based on an interesting protocol developed by Dr. Coimbra.
 

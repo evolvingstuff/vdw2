@@ -38,7 +38,7 @@ categories:
 | William B. Grant, Barbara J. Boucher, Fatme Al Anouti and Stefan Pilz | Comparing the Evidence from Observational Studies and Randomized Controlled Trials for Nonskeletal Health Effects of Vitamin D |
 | Elina Hypponen, Karani S. Vimaleswaran and Ang Zhou | Genetic Determinants of 25-Hydroxyvitamin D Concentrations and Their Relevance to Public Health |
 
- **[Download the 16 MB PDF from Google Drive](https://drive.google.com/file/d/1tR3_pthwiZoAodpkAcODF9r2qYYNod0t/view?usp=sharing)** 
+ **[Download the 16 MB PDF from Google Drive](https://drive.google.com/file/d/1tR3_pthwiZoAodpkAcODF9r2qYYNod0t/view%3Fusp%3Dsharing)** 
 
 <!-- ~tc~ (alias(XX Vitamin D studies - 2022)) ~/tc~ -->
 
@@ -74,7 +74,7 @@ Markdown:
 | William B. Grant, Barbara J. Boucher, Fatme Al Anouti and Stefan Pilz | Comparing the Evidence from Observational Studies and Randomized Controlled Trials for Nonskeletal Health Effects of Vitamin D |
 | Elina Hypponen, Karani S. Vimaleswaran and Ang Zhou | Genetic Determinants of 25-Hydroxyvitamin D Concentrations and Their Relevance to Public Health |
 
- **[Download the 16 MB PDF from Google Drive](https://drive.google.com/file/d/1tR3_pthwiZoAodpkAcODF9r2qYYNod0t/view?usp=sharing)** 
+ **[Download the 16 MB PDF from Google Drive](https://drive.google.com/file/d/1tR3_pthwiZoAodpkAcODF9r2qYYNod0t/view%3Fusp%3Dsharing)** 
 
 &lt;!-- ~tc~ (alias(XX Vitamin D studies - 2022)) ~/tc~ --&gt;
 

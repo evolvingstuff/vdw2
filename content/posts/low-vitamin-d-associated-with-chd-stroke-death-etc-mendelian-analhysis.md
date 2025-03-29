@@ -59,7 +59,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 
 * <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
-* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&sort_mode=created_desc)  **<span style="color:orange;">
+* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php%3FparentId%3D135%26sort_mode%3Dcreated_desc)  **<span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} -->
  items</span>** 
 
@@ -128,7 +128,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 
 * &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
 
-* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=135&amp;sort_mode=created_desc)  **&lt;span style=&quot;color:orange;&quot;&gt;
+* [All items in category Optimum Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php%3FparentId%3D135%26sort_mode%3Dcreated_desc)  **&lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=135{SQL} --&gt;
  items&lt;/span&gt;** 
 

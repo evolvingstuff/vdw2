@@ -41,7 +41,7 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 #### Finland's preterm birth rates have DECREASED recently
 
-* Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi: 10.1111/apa.16753)
+* Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi:%2010.1111/apa.16753)
 
   * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
 
@@ -82,7 +82,7 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 #### Finland&#39;s preterm birth rates have DECREASED recently
 
-* Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi: 10.1111/apa.16753)
+* Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi:%2010.1111/apa.16753)
 
   * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
 

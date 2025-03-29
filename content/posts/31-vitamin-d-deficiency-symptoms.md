@@ -13,7 +13,7 @@ date: 2023-10-25
 
 ---
 
-#### [23 WEIRD Vitamin D Deficiency Symptoms](https://www.youtube.com/watch?v=X2T2Vd9utcs&ab_channel=Dr.EricBergDC) Video - Dr. Berg
+#### [23 WEIRD Vitamin D Deficiency Symptoms](https://www.youtube.com/watch%3Fv%3DX2T2Vd9utcs%26ab_channel%3DDr.EricBergDC) Video - Dr. Berg
 
 ---
 
@@ -75,11 +75,11 @@ date: 2023-10-25
 
 #### His references are all from VitaminDWiki
 
-[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw%26q%3Dhttps://VitaminDWiki.com/Nightmares%20associated%20with%20low%20Vitamin%20D%20and%20low%20Calcium%20–%20Aug%202021%26v%3DX2T2Vd9utcs)
 
-[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA%26q%3Dhttps://VitaminDWiki.com/Restless%20Legs%20Syndrome%20dramatically%20reduced%20by%20vitamin%20D%2C%20etc%26v%3DX2T2Vd9utcs)
 
-[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ%26q%3Dhttps://VitaminDWiki.com/Bipolar%20Disorder%20may%20be%20related%20to%20cellular%2C%20not%20blood%20Vitamin%20D%23articles_in_the_Bipolar_category%26v%3DX2T2Vd9utcs)
 
 <a href="/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies">More Vitamin D to cells should prevent Uterine Fibroids – multiple studies</a>
 
@@ -95,7 +95,7 @@ date: 2023-10-25
 
 ---
 
-#### 200+ VitaminDWiki pages contain ["many studies" in the title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
+#### 200+ VitaminDWiki pages contain ["many studies" in the title](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13884)
 
 
 
@@ -108,7 +108,7 @@ Markdown:
 
 ---
 
-#### [23 WEIRD Vitamin D Deficiency Symptoms](https://www.youtube.com/watch?v=X2T2Vd9utcs&amp;ab_channel=Dr.EricBergDC) Video - Dr. Berg
+#### [23 WEIRD Vitamin D Deficiency Symptoms](https://www.youtube.com/watch%3Fv%3DX2T2Vd9utcs%26ab_channel%3DDr.EricBergDC) Video - Dr. Berg
 
 ---
 
@@ -170,11 +170,11 @@ Markdown:
 
 #### His references are all from VitaminDWiki
 
-[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw&amp;q=https://VitaminDWiki.com/Nightmares associated with low Vitamin D and low Calcium – Aug 2021&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Nightmares+a...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqa2JScU5PaWhMdWp6N2gwbzVUaEF5el9oc0dDUXxBQ3Jtc0tuSE1IcWpfbWNacnNGUEVDbjd2ZTJWSzR0YnhLQVU4SHBCM1ZBY2dqWkg2RmFKcVMyMXMwZXJBd211YmlGSTR5eUxhem51VGZ3THZmTlJ4NlVHNjBlbVA3WkRiemdlc2tfazFqMmlYcTRDSWJKOTdyYw%26q%3Dhttps://VitaminDWiki.com/Nightmares%20associated%20with%20low%20Vitamin%20D%20and%20low%20Calcium%20–%20Aug%202021%26v%3DX2T2Vd9utcs)
 
-[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA&amp;q=https://VitaminDWiki.com/Restless Legs Syndrome dramatically reduced by vitamin D, etc&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Restless+Leg...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbEt6VEs4VjcyTlFhM2pNUWtJSXBsd1V3LS1Qd3xBQ3Jtc0tsOFQ1SWpRU3g1ZFRqX2h6VDVvVURwdFFTRlFXaHNqYmlmcDVNbHJRdE9rbWJVVHFNUkNXQVRWRk4tbkR6VnhUX0txSXlvNWhlcmc1SE1VRkFuelA4UDBDZUYySjcwYjRqazRWVThJeE1WUVVuTHBFOA%26q%3Dhttps://VitaminDWiki.com/Restless%20Legs%20Syndrome%20dramatically%20reduced%20by%20vitamin%20D%2C%20etc%26v%3DX2T2Vd9utcs)
 
-[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&amp;q=https://VitaminDWiki.com/Bipolar Disorder may be related to cellular, not blood Vitamin D#articles_in_the_Bipolar_category&amp;v=X2T2Vd9utcs)
+[https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ%26q%3Dhttps://VitaminDWiki.com/Bipolar%20Disorder%20may%20be%20related%20to%20cellular%2C%20not%20blood%20Vitamin%20D%23articles_in_the_Bipolar_category%26v%3DX2T2Vd9utcs)
 
 &lt;a href=&quot;/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies&quot;&gt;More Vitamin D to cells should prevent Uterine Fibroids – multiple studies&lt;/a&gt;
 
@@ -190,7 +190,7 @@ Markdown:
 
 ---
 
-#### 200+ VitaminDWiki pages contain [&quot;many studies&quot; in the title](https://VitaminDWiki.com/tiki-index.php?page_id=13884)
+#### 200+ VitaminDWiki pages contain [&quot;many studies&quot; in the title](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13884)
 
 
 

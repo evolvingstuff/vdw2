@@ -63,9 +63,9 @@ This list is automatically updated
 
 #### 6 of 250,000 studies of Exercise and Vitamin D
 
- **[Google Scholar April 2023](https://scholar.google.com/scholar?q=exercise+%22vitamin+d%22&hl=en&as_sdt=0,48)** 
+ **[Google Scholar April 2023](https://scholar.google.com/scholar%3Fq%3Dexercise%2B%22vitamin%2Bd%22%26hl%3Den%26as_sdt%3D0%2C48)** 
 
-* Vitamin D, Its Role in Recovery after Muscular Damage Following Exercise - July 2021 [FREE PDF]( https://doi.org/10.3390/nu13072336)
+* Vitamin D, Its Role in Recovery after Muscular Damage Following Exercise - July 2021 [FREE PDF](%20https://doi.org/10.3390/nu13072336)
 
 * Exercise: A Possibly Effective Way to Improve Vitamin D Nutritional Status - June 2022 [ https://doi.org/10.3390/nu14132652|FREE PDF
 
@@ -141,9 +141,9 @@ This list is automatically updated
 
 #### 6 of 250,000 studies of Exercise and Vitamin D
 
- **[Google Scholar April 2023](https://scholar.google.com/scholar?q=exercise+%22vitamin+d%22&amp;hl=en&amp;as_sdt=0,48)** 
+ **[Google Scholar April 2023](https://scholar.google.com/scholar%3Fq%3Dexercise%2B%22vitamin%2Bd%22%26hl%3Den%26as_sdt%3D0%2C48)** 
 
-* Vitamin D, Its Role in Recovery after Muscular Damage Following Exercise - July 2021 [FREE PDF]( https://doi.org/10.3390/nu13072336)
+* Vitamin D, Its Role in Recovery after Muscular Damage Following Exercise - July 2021 [FREE PDF](%20https://doi.org/10.3390/nu13072336)
 
 * Exercise: A Possibly Effective Way to Improve Vitamin D Nutritional Status - June 2022 [ https://doi.org/10.3390/nu14132652|FREE PDF
 

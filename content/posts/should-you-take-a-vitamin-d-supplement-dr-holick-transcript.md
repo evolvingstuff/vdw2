@@ -16,7 +16,7 @@ date: 2023-11-27
 
 ### Should You Take A Vitamin D Supplement? With Dr Michael Holick
 
- **[YouTube AUDIO 44 minute](https://www.youtube.com/watch?v=WJMy6O7ezSo&t=1639s&ab_channel=WhatYourGPDoesn%27tTellYouPodcast)** 
+ **[YouTube AUDIO 44 minute](https://www.youtube.com/watch%3Fv%3DWJMy6O7ezSo%26t%3D1639s%26ab_channel%3DWhatYourGPDoesn%27tTellYouPodcast)** 
 
 ---
 
@@ -232,7 +232,7 @@ date: 2023-11-27
 
 0:36:03.0  **Tucker:**  How much calcium should we all be drinking as adults? 
 
-#### Calcium absorption better if take 3 times per day (consider [vegi-calcium](https://tiki-index.php?page_id=12996))
+#### Calcium absorption better if take 3 times per day (consider [vegi-calcium](https://tiki-index.php%3Fpage_id%3D12996))
 
 0:36:06.4  **Holick:**  I tell my patients that I think 1000 milligrams a day, as recommended by the Institute of Medicine, is quite reasonable. You don't wanna take it all at once because if you do, you can't as efficiently absorb it. We prefer that you break it up. Personally, I think dietary calcium is much better. The major dietary source, of course, is dairy. And now of course they have various types of milks, oat milk and almond milk, where they're adding calcium carbonate to it as a source of calcium, but to me, the best source is dairy. I drink three glasses every day.
 
@@ -314,15 +314,15 @@ This list is automatically updated
 
 #### A tiny sample of Dr. Holick's recent Vitamin D videos
 
-* [MICHAEL HOLICK 6 - Mayo; Harvard studies: MANY CANCERS REDUCED BY VITAMIN D](https://www.youtube.com/watch?v=16a5La_zyVg&ab_channel=DoctorsToTrust) 3 minutes May 2023
+* [MICHAEL HOLICK 6 - Mayo; Harvard studies: MANY CANCERS REDUCED BY VITAMIN D](https://www.youtube.com/watch%3Fv%3D16a5La_zyVg%26ab_channel%3DDoctorsToTrust) 3 minutes May 2023
 
-* [MICHAEL HOLICK 5 - Study 6 years VITAMIN D …50k IU every 2 weeks. Result: 100 nmol/L, NO TOXICITY](https://www.youtube.com/watch?v=bCNW7v2_ung&ab_channel=DoctorsToTrust ) 3 minutes May 2023
+* [MICHAEL HOLICK 5 - Study 6 years VITAMIN D …50k IU every 2 weeks. Result: 100 nmol/L, NO TOXICITY](https://www.youtube.com/watch%3Fv%3DbCNW7v2_ung%26ab_channel%3DDoctorsToTrust%20) 3 minutes May 2023
 
 * https://www.youtube.com/watch?v=XcMpvG0bHu0&ab_channel=DoctorsToTrust<span>[ ]</span> 3 minutes May 2023
 
-* [MICHAEL HOLICK 2 - Kids: low vitamin D: CAVITIES #1 childhood disease!](https://www.youtube.com/watch?v=xjM1aeqiNFw&ab_channel=DoctorsToTrust )  3 minutes May 2023
+* [MICHAEL HOLICK 2 - Kids: low vitamin D: CAVITIES #1 childhood disease!](https://www.youtube.com/watch%3Fv%3DxjM1aeqiNFw%26ab_channel%3DDoctorsToTrust%20)  3 minutes May 2023
 
-* [Vitamin D & Your Immune System with special guest Michael Holick, Ph. D., M.D.](https://www.youtube.com/watch?v=-HIm1hfs4f8&t=28s&ab_channel=HotzeHealth%26WellnessCenter ) Nov 2022 46 minutes
+* [Vitamin D & Your Immune System with special guest Michael Holick, Ph. D., M.D.](https://www.youtube.com/watch%3Fv%3D-HIm1hfs4f8%26t%3D28s%26ab_channel%3DHotzeHealth%26WellnessCenter%20) Nov 2022 46 minutes
 
 ---
 
@@ -362,7 +362,7 @@ Markdown:
 
 ### Should You Take A Vitamin D Supplement? With Dr Michael Holick
 
- **[YouTube AUDIO 44 minute](https://www.youtube.com/watch?v=WJMy6O7ezSo&amp;t=1639s&amp;ab_channel=WhatYourGPDoesn%27tTellYouPodcast)** 
+ **[YouTube AUDIO 44 minute](https://www.youtube.com/watch%3Fv%3DWJMy6O7ezSo%26t%3D1639s%26ab_channel%3DWhatYourGPDoesn%27tTellYouPodcast)** 
 
 ---
 
@@ -578,7 +578,7 @@ Markdown:
 
 0:36:03.0  **Tucker:**  How much calcium should we all be drinking as adults? 
 
-#### Calcium absorption better if take 3 times per day (consider [vegi-calcium](https://tiki-index.php?page_id=12996))
+#### Calcium absorption better if take 3 times per day (consider [vegi-calcium](https://tiki-index.php%3Fpage_id%3D12996))
 
 0:36:06.4  **Holick:**  I tell my patients that I think 1000 milligrams a day, as recommended by the Institute of Medicine, is quite reasonable. You don&#39;t wanna take it all at once because if you do, you can&#39;t as efficiently absorb it. We prefer that you break it up. Personally, I think dietary calcium is much better. The major dietary source, of course, is dairy. And now of course they have various types of milks, oat milk and almond milk, where they&#39;re adding calcium carbonate to it as a source of calcium, but to me, the best source is dairy. I drink three glasses every day.
 
@@ -660,15 +660,15 @@ This list is automatically updated
 
 #### A tiny sample of Dr. Holick&#39;s recent Vitamin D videos
 
-* [MICHAEL HOLICK 6 - Mayo; Harvard studies: MANY CANCERS REDUCED BY VITAMIN D](https://www.youtube.com/watch?v=16a5La_zyVg&amp;ab_channel=DoctorsToTrust) 3 minutes May 2023
+* [MICHAEL HOLICK 6 - Mayo; Harvard studies: MANY CANCERS REDUCED BY VITAMIN D](https://www.youtube.com/watch%3Fv%3D16a5La_zyVg%26ab_channel%3DDoctorsToTrust) 3 minutes May 2023
 
-* [MICHAEL HOLICK 5 - Study 6 years VITAMIN D …50k IU every 2 weeks. Result: 100 nmol/L, NO TOXICITY](https://www.youtube.com/watch?v=bCNW7v2_ung&amp;ab_channel=DoctorsToTrust ) 3 minutes May 2023
+* [MICHAEL HOLICK 5 - Study 6 years VITAMIN D …50k IU every 2 weeks. Result: 100 nmol/L, NO TOXICITY](https://www.youtube.com/watch%3Fv%3DbCNW7v2_ung%26ab_channel%3DDoctorsToTrust%20) 3 minutes May 2023
 
 * https://www.youtube.com/watch?v=XcMpvG0bHu0&amp;ab_channel=DoctorsToTrust&lt;span&gt;[ ]&lt;/span&gt; 3 minutes May 2023
 
-* [MICHAEL HOLICK 2 - Kids: low vitamin D: CAVITIES #1 childhood disease!](https://www.youtube.com/watch?v=xjM1aeqiNFw&amp;ab_channel=DoctorsToTrust )  3 minutes May 2023
+* [MICHAEL HOLICK 2 - Kids: low vitamin D: CAVITIES #1 childhood disease!](https://www.youtube.com/watch%3Fv%3DxjM1aeqiNFw%26ab_channel%3DDoctorsToTrust%20)  3 minutes May 2023
 
-* [Vitamin D &amp; Your Immune System with special guest Michael Holick, Ph. D., M.D.](https://www.youtube.com/watch?v=-HIm1hfs4f8&amp;t=28s&amp;ab_channel=HotzeHealth%26WellnessCenter ) Nov 2022 46 minutes
+* [Vitamin D &amp; Your Immune System with special guest Michael Holick, Ph. D., M.D.](https://www.youtube.com/watch%3Fv%3D-HIm1hfs4f8%26t%3D28s%26ab_channel%3DHotzeHealth%26WellnessCenter%20) Nov 2022 46 minutes
 
 ---
 

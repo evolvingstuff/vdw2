@@ -20,7 +20,7 @@ categories:
 
 Vitamin D is essential for our health. Know what is true and what is not so you can make the most of vitamin D for YOUR health!
 
- **[Original, in English, has graphics](https://mail.google.com/mail/u/0/?ui=2&ik=bb216ec13e&view=lg&permmsgid=msg-f:1772295867280824895&ser=1)** 
+ **[Original, in English, has graphics](https://mail.google.com/mail/u/0/%3Fui%3D2%26ik%3Dbb216ec13e%26view%3Dlg%26permmsgid%3Dmsg-f:1772295867280824895%26ser%3D1)** 
 
 #### MYTH #1: VITAMIN D IS STORED IN FAT FOR USE
 
@@ -30,7 +30,7 @@ Vitamin D IS fat soluble, but is not stored as a means of maintaining healthy bl
 
 Is this true? The fat storage for use debate…
 
-[More information](https://www.grassrootshealth.net/blog/vitamin-d-fat-soluble-storage-debate/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/vitamin-d-fat-soluble-storage-debate/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #2: VITAMIN D IS EASILY TOXIC
 
@@ -40,22 +40,22 @@ Toxicity is rare! It can be seen when taking too much D, such as 50,000 lU/day o
 
 Is this true? How much is too much?…
 
-&nbsp;&nbsp;[More information](https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters
-“Watch Out! Vitamin D can build-up in your fat and become toxic.”
-Is this true? The toxic fat stores debate…
-~hs~~hs~'https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+&nbsp;&nbsp;[More information](https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters
+“Watch%20Out!%20Vitamin%20D%20can%20build-up%20in%20your%20fat%20and%20become%20toxic.”
+Is%20this%20true%3F%20The%20toxic%20fat%20stores%20debate…
+~hs~~hs~'https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #3: THE RECOMMENDED DAILY ALLOWANCE (RDA) IS ENOUGH FOR EVERYONE
 
 Almost all who get only the RDA of 400-600 lU/day of vitamin D are deficient! Studies demonstrate the need for roughly 10 times more than the current daily recommendation.
 
-[More information](https://www.grassrootshealth.net/blog/current-recommendations-low/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/current-recommendations-low/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #4: VITAMIN D TESTING IS UNNECESSARY
 
 There is a higher risk of deficiency among certain individuals (darker skin, higher BMI, older age). Many other factors also influence how each person responds to D, making it useful for everyone to test their levels. Test from home: grassrootshealth.net/test
 
-[More information](https://www.grassrootshealth.net/blog/vitamin-d-testing-necessary/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/vitamin-d-testing-necessary/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #5: SUN & FOOD PROVIDE ENOUGH VITAMIN D
 
@@ -63,7 +63,7 @@ It is possible to get enough D from sun and food alone (such as for native Afric
 
 le to get enough D from sun and food alone (such as for native African tribes and some outdoor workers) but it is very unlikely It is d alone (such as for native African tribes and some outdoor workers) but it is very unlikely for most. Nearly everyone requires a vitamin D supplement to 
 
-[More information](https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH  #6: TAKING VITAMIN D CAUSES KIDNEY STONES
 
@@ -79,7 +79,7 @@ High levels of vitamin D DO NOT cause kidney stones. Recent studies have shown t
 
 Is this true? Can taking vitamin D create a co-nutrient imbalance?...
 
-[more information](https://www.grassrootshealth.net/blog/can-taking-vitamin-d-unmask-underlying-nutrient-imbalances/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[more information](https://www.grassrootshealth.net/blog/can-taking-vitamin-d-unmask-underlying-nutrient-imbalances/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #8: Vitamin D Supplementation Never has Side-Effects
 
@@ -89,7 +89,7 @@ Is this true? Unfortunately, no. While it is true that the majority of individu
 
 People with Primary Hyperparathyroidism (PHPT), Sarcoidosis, and other Granulomatous Disorders should take extra caution with vitamin D. If you know or suspect that you have any of these conditions, or if you experience what feels like a hypersensitivity or negative effects due to vitamin D, please work with your health care provider to address these conditions, and work with them to safely resolve any existing vitamin D deficiency.
 
-[More information](https://www.grassrootshealth.net/blog/granulomatous-disorders-vitamin-d-hypersensitivity/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/granulomatous-disorders-vitamin-d-hypersensitivity/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #9: The Same Amount of Vitamin D is Good for Everyone
 
@@ -97,13 +97,13 @@ People with Primary Hyperparathyroidism (PHPT), Sarcoidosis, and other Granul
 
 Is this true? Most definitely not… everyone responds differently to sun and supplements, AND, each person may have unique health needs that may require higher vitamin D levels to target, such as for cancer.
 
-[More information](https://www.grassrootshealth.net/blog/dose-not-work-everyone/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/dose-not-work-everyone/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #10: The Hormonal Vitamin D is the Only Form that Benefits Us
 
 “The only active form of vitamin D and the only one important to our health is the hormonal form”. Is this true? Certainly not! The common misconceptions concerning the 3 main forms of vitamin D found in our body...
 
-[More information](https://www.grassrootshealth.net/blog/body-needs-forms-vitamin-d/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/body-needs-forms-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 ---
 
@@ -143,7 +143,7 @@ Markdown:
 
 Vitamin D is essential for our health. Know what is true and what is not so you can make the most of vitamin D for YOUR health!
 
- **[Original, in English, has graphics](https://mail.google.com/mail/u/0/?ui=2&amp;ik=bb216ec13e&amp;view=lg&amp;permmsgid=msg-f:1772295867280824895&amp;ser=1)** 
+ **[Original, in English, has graphics](https://mail.google.com/mail/u/0/%3Fui%3D2%26ik%3Dbb216ec13e%26view%3Dlg%26permmsgid%3Dmsg-f:1772295867280824895%26ser%3D1)** 
 
 #### MYTH #1: VITAMIN D IS STORED IN FAT FOR USE
 
@@ -153,7 +153,7 @@ Vitamin D IS fat soluble, but is not stored as a means of maintaining healthy bl
 
 Is this true? The fat storage for use debate…
 
-[More information](https://www.grassrootshealth.net/blog/vitamin-d-fat-soluble-storage-debate/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/vitamin-d-fat-soluble-storage-debate/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #2: VITAMIN D IS EASILY TOXIC
 
@@ -163,22 +163,22 @@ Toxicity is rare! It can be seen when taking too much D, such as 50,000 lU/day o
 
 Is this true? How much is too much?…
 
-&amp;nbsp;&amp;nbsp;[More information](https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters
-“Watch Out! Vitamin D can build-up in your fat and become toxic.”
-Is this true? The toxic fat stores debate…
-~hs~~hs~&#39;https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+&amp;nbsp;&amp;nbsp;[More information](https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters
+“Watch%20Out!%20Vitamin%20D%20can%20build-up%20in%20your%20fat%20and%20become%20toxic.”
+Is%20this%20true%3F%20The%20toxic%20fat%20stores%20debate…
+~hs~~hs~&#39;https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #3: THE RECOMMENDED DAILY ALLOWANCE (RDA) IS ENOUGH FOR EVERYONE
 
 Almost all who get only the RDA of 400-600 lU/day of vitamin D are deficient! Studies demonstrate the need for roughly 10 times more than the current daily recommendation.
 
-[More information](https://www.grassrootshealth.net/blog/current-recommendations-low/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/current-recommendations-low/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #4: VITAMIN D TESTING IS UNNECESSARY
 
 There is a higher risk of deficiency among certain individuals (darker skin, higher BMI, older age). Many other factors also influence how each person responds to D, making it useful for everyone to test their levels. Test from home: grassrootshealth.net/test
 
-[More information](https://www.grassrootshealth.net/blog/vitamin-d-testing-necessary/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/vitamin-d-testing-necessary/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #5: SUN &amp; FOOD PROVIDE ENOUGH VITAMIN D
 
@@ -186,7 +186,7 @@ It is possible to get enough D from sun and food alone (such as for native Afric
 
 le to get enough D from sun and food alone (such as for native African tribes and some outdoor workers) but it is very unlikely It is d alone (such as for native African tribes and some outdoor workers) but it is very unlikely for most. Nearly everyone requires a vitamin D supplement to 
 
-[More information](https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH  #6: TAKING VITAMIN D CAUSES KIDNEY STONES
 
@@ -202,7 +202,7 @@ High levels of vitamin D DO NOT cause kidney stones. Recent studies have shown t
 
 Is this true? Can taking vitamin D create a co-nutrient imbalance?...
 
-[more information](https://www.grassrootshealth.net/blog/can-taking-vitamin-d-unmask-underlying-nutrient-imbalances/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[more information](https://www.grassrootshealth.net/blog/can-taking-vitamin-d-unmask-underlying-nutrient-imbalances/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #8: Vitamin D Supplementation Never has Side-Effects
 
@@ -212,7 +212,7 @@ Is this true? Unfortunately, no. While it is true that the majority of individu
 
 People with Primary Hyperparathyroidism (PHPT), Sarcoidosis, and other Granulomatous Disorders should take extra caution with vitamin D. If you know or suspect that you have any of these conditions, or if you experience what feels like a hypersensitivity or negative effects due to vitamin D, please work with your health care provider to address these conditions, and work with them to safely resolve any existing vitamin D deficiency.
 
-[More information](https://www.grassrootshealth.net/blog/granulomatous-disorders-vitamin-d-hypersensitivity/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/granulomatous-disorders-vitamin-d-hypersensitivity/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #9: The Same Amount of Vitamin D is Good for Everyone
 
@@ -220,13 +220,13 @@ People with Primary Hyperparathyroidism (PHPT), Sarcoidosis, and other Granul
 
 Is this true? Most definitely not… everyone responds differently to sun and supplements, AND, each person may have unique health needs that may require higher vitamin D levels to target, such as for cancer.
 
-[More information](https://www.grassrootshealth.net/blog/dose-not-work-everyone/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/dose-not-work-everyone/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 #### MYTH #10: The Hormonal Vitamin D is the Only Form that Benefits Us
 
 “The only active form of vitamin D and the only one important to our health is the hormonal form”. Is this true? Certainly not! The common misconceptions concerning the 3 main forms of vitamin D found in our body...
 
-[More information](https://www.grassrootshealth.net/blog/body-needs-forms-vitamin-d/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)
+[More information](https://www.grassrootshealth.net/blog/body-needs-forms-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)
 
 ---
 

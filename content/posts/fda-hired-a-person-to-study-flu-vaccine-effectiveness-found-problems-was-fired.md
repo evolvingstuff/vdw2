@@ -113,7 +113,7 @@ See also: <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes
 
 #### Flu vaccines make pharma companies $3 billion a year and aren't very effective.
 
- **[Wired Managine](https://www.wired.com/story/flu-vaccine-big-pharma/#:~:text=Flu%20vaccines%20make%20pharma%20companies,going%20to%20get%20any%20better.) 2018** 
+ **[Wired Managine](https://www.wired.com/story/flu-vaccine-big-pharma/%23:~:text%3DFlu%20vaccines%20make%20pharma%20companies%2Cgoing%20to%20get%20any%20better.) 2018** 
 
 ---
 
@@ -235,7 +235,7 @@ See also: &lt;a href=&quot;/posts/vitamin-d-can-inhibit-enveloped-virus-eg-coron
 
 #### Flu vaccines make pharma companies $3 billion a year and aren&#39;t very effective.
 
- **[Wired Managine](https://www.wired.com/story/flu-vaccine-big-pharma/#:~:text=Flu%20vaccines%20make%20pharma%20companies,going%20to%20get%20any%20better.) 2018** 
+ **[Wired Managine](https://www.wired.com/story/flu-vaccine-big-pharma/%23:~:text%3DFlu%20vaccines%20make%20pharma%20companies%2Cgoing%20to%20get%20any%20better.) 2018** 
 
 ---
 

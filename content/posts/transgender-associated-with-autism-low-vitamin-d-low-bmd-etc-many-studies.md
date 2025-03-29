@@ -14,9 +14,9 @@ categories:
 
 
 
-[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php?page_id=10189)
+[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D10189)
 
-1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php?page_id=605)
+1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D605)
 
 2) Vitamin D has been proven to both prevent and treat Autism
 
@@ -58,19 +58,19 @@ Results: 14.3% of transgender and 6.2% of cisgender sample, respectively, had z-
 
 #### Autism and Transgender link - Dr. Peter McCullough - June 2023
 
- **[SubStack](https://petermcculloughmd.substack.com/p/dr-mccullough-talks-with-mothers?utm_source=substack&utm_medium=email)** 
+ **[SubStack](https://petermcculloughmd.substack.com/p/dr-mccullough-talks-with-mothers%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "Multiple studies have demonstrated that autistic children are prone to ostracization, and are suggestible. This makes them easy prey for counselors and others who are pushing transgenderism. As pornography and indoctrination becomes a routine part of the school environment, autistic children are attracted to the LGBT fantasy."
 
  **Previous Substacks by the same author on the topic** 
 
-* [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals Transgender Epidemic Driven by Tidal Wave of Autism Spectrum Disorder PETER A. MCCULLOUGH, MD, MPH™ APR 24, 2023](https://open.substack.com/pub/petermcculloughmd/p/elevated-rates-of-autism-other-neurodevelopmenta?r=14jb45&utm_campaign=post&utm_medium=web)
+* [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals Transgender Epidemic Driven by Tidal Wave of Autism Spectrum Disorder PETER A. MCCULLOUGH, MD, MPH™ APR 24, 2023](https://open.substack.com/pub/petermcculloughmd/p/elevated-rates-of-autism-other-neurodevelopmenta%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Mental Healthcare Burden of Transgender Youth Before and After Gender-Affirming Treatment Heavy Psychiatric Care Costs Get Worse after Hormones PETER A. MCCULLOUGH, MD, MPH™ MAY 11, 2023](https://open.substack.com/pub/petermcculloughmd/p/mental-healthcare-burden-of-transgender?r=14jb45&utm_campaign=post&utm_medium=web)
+* [Mental Healthcare Burden of Transgender Youth Before and After Gender-Affirming Treatment Heavy Psychiatric Care Costs Get Worse after Hormones PETER A. MCCULLOUGH, MD, MPH™ MAY 11, 2023](https://open.substack.com/pub/petermcculloughmd/p/mental-healthcare-burden-of-transgender%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Sick with Gender Affirming Hormone Therapy Side Effects Take Away the Fantasy Dream of Being the Opposite Sex PETER A. MCCULLOUGH, MD, MPH™ JUN 14, 2023](https://open.substack.com/pub/petermcculloughmd/p/sick-with-gender-affirming-hormone?r=14jb45&utm_campaign=post&utm_medium=web)
+* [Sick with Gender Affirming Hormone Therapy Side Effects Take Away the Fantasy Dream of Being the Opposite Sex PETER A. MCCULLOUGH, MD, MPH™ JUN 14, 2023](https://open.substack.com/pub/petermcculloughmd/p/sick-with-gender-affirming-hormone%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Failed Surgical Creation of Phalli in Women Transgender Misadventure Leads to Frequent, Serious Complications PETER A. MCCULLOUGH, MD, MPH™ JUN 13, 2023](https://open.substack.com/pub/petermcculloughmd/p/failed-surgical-creation-of-phalli?r=14jb45&utm_campaign=post&utm_medium=web)
+* [Failed Surgical Creation of Phalli in Women Transgender Misadventure Leads to Frequent, Serious Complications PETER A. MCCULLOUGH, MD, MPH™ JUN 13, 2023](https://open.substack.com/pub/petermcculloughmd/p/failed-surgical-creation-of-phalli%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
 ---
 
@@ -128,7 +128,7 @@ Conclusions" DBP tended to increase in transwomen, but did not change in transme
 
 #### Scandalous 40 year saga Hormone blocking Durgs - March 2024
 
- **[Puberty Blockers Are Incredibly Dangerous Drugs - Midwetern Doctor](https://www.midwesterndoctor.com/p/puberty-blockers-are-incredibly-dangerous?utm_source=post-email-title&publication_id=748806&post_id=136194340&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&triedRedirect=true&utm_medium=email )** 
+ **[Puberty Blockers Are Incredibly Dangerous Drugs - Midwetern Doctor](https://www.midwesterndoctor.com/p/puberty-blockers-are-incredibly-dangerous%3Futm_source%3Dpost-email-title%26publication_id%3D748806%26post_id%3D136194340%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail%20)** 
 
 has a section on  **Selling Lupron**  - which increases doctor's income while increasing death rates
 
@@ -358,17 +358,17 @@ The LGBT youth are at a higher risk for
 
 * suicide
 
-as compared to the general population. [Note more than half of those risks are associated with low vitamin D ](<em>Note more than half of those risks are associated with low vitamin D </em>)
+as compared to the general population. [Note more than half of those risks are associated with low vitamin D ](<em>Note%20more%20than%20half%20of%20those%20risks%20are%20associated%20with%20low%20vitamin%20D%20</em>)
 
 LGBT youth receive poor quality of care due to stigma, lack of healthcare providers' awareness, and insensitivity to the unique needs of this community. The main objective of this literature review is to highlight the challenges faced by the LGBT youth and to enhance the awareness among physicians about the existing disparities in order to provide a more comprehensive, evidence-based, and humane medical care to this community.
 
- **[Clpck here for full study](https://www.cureus.com/articles/6744-health-care-disparities-among-lesbian-gay-bisexual-and-transgender-youth-a-literature-review#!/)** 
+ **[Clpck here for full study](https://www.cureus.com/articles/6744-health-care-disparities-among-lesbian-gay-bisexual-and-transgender-youth-a-literature-review%23!/)** 
 
 ---
 
 #### Half of transmale teen boys have attempted suicide - Sept 2018
 
-[click here](https://www.reuters.com/article/us-health-transgender-teen-suicide/trans-teens-much-more-likely-to-attempt-suicide-idUSKCN1LS39K#:~:text=roughly half of transgender teens who identify as male but were assigned a female gender at birth have attempted suicide at least once, the study found. )   5X more than males who are cisgender
+[click here](https://www.reuters.com/article/us-health-transgender-teen-suicide/trans-teens-much-more-likely-to-attempt-suicide-idUSKCN1LS39K%23:~:text%3Droughly%20half%20of%20transgender%20teens%20who%20identify%20as%20male%20but%20were%20assigned%20a%20female%20gender%20at%20birth%20have%20attempted%20suicide%20at%20least%20once%2C%20the%20study%20found.%20)   5X more than males who are cisgender
 
 Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://doi.org/10.1542/peds.2017-4218)
 
@@ -380,7 +380,7 @@ Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://do
 
 #### “Rapid-onset Gender Dysphoria” (ROGD) - alternate analysis by Robert Malone - April 13, 2023
 
- **[SubStack](https://rwmalonemd.substack.com/p/rapid-onset-gender-dysphoria-rogd?utm_source=substack&utm_medium=email)** 
+ **[SubStack](https://rwmalonemd.substack.com/p/rapid-onset-gender-dysphoria-rogd%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -388,9 +388,9 @@ Markdown:
 --------
 
 
-[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php?page_id=10189)
+[Vitamin D levels have been crashing](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D10189)
 
-1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php?page_id=605)
+1) There has been a big increase in [Autism](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D605)
 
 2) Vitamin D has been proven to both prevent and treat Autism
 
@@ -432,19 +432,19 @@ Results: 14.3% of transgender and 6.2% of cisgender sample, respectively, had z-
 
 #### Autism and Transgender link - Dr. Peter McCullough - June 2023
 
- **[SubStack](https://petermcculloughmd.substack.com/p/dr-mccullough-talks-with-mothers?utm_source=substack&amp;utm_medium=email)** 
+ **[SubStack](https://petermcculloughmd.substack.com/p/dr-mccullough-talks-with-mothers%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;Multiple studies have demonstrated that autistic children are prone to ostracization, and are suggestible. This makes them easy prey for counselors and others who are pushing transgenderism. As pornography and indoctrination becomes a routine part of the school environment, autistic children are attracted to the LGBT fantasy.&quot;
 
  **Previous Substacks by the same author on the topic** 
 
-* [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals Transgender Epidemic Driven by Tidal Wave of Autism Spectrum Disorder PETER A. MCCULLOUGH, MD, MPH™ APR 24, 2023](https://open.substack.com/pub/petermcculloughmd/p/elevated-rates-of-autism-other-neurodevelopmenta?r=14jb45&amp;utm_campaign=post&amp;utm_medium=web)
+* [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals Transgender Epidemic Driven by Tidal Wave of Autism Spectrum Disorder PETER A. MCCULLOUGH, MD, MPH™ APR 24, 2023](https://open.substack.com/pub/petermcculloughmd/p/elevated-rates-of-autism-other-neurodevelopmenta%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Mental Healthcare Burden of Transgender Youth Before and After Gender-Affirming Treatment Heavy Psychiatric Care Costs Get Worse after Hormones PETER A. MCCULLOUGH, MD, MPH™ MAY 11, 2023](https://open.substack.com/pub/petermcculloughmd/p/mental-healthcare-burden-of-transgender?r=14jb45&amp;utm_campaign=post&amp;utm_medium=web)
+* [Mental Healthcare Burden of Transgender Youth Before and After Gender-Affirming Treatment Heavy Psychiatric Care Costs Get Worse after Hormones PETER A. MCCULLOUGH, MD, MPH™ MAY 11, 2023](https://open.substack.com/pub/petermcculloughmd/p/mental-healthcare-burden-of-transgender%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Sick with Gender Affirming Hormone Therapy Side Effects Take Away the Fantasy Dream of Being the Opposite Sex PETER A. MCCULLOUGH, MD, MPH™ JUN 14, 2023](https://open.substack.com/pub/petermcculloughmd/p/sick-with-gender-affirming-hormone?r=14jb45&amp;utm_campaign=post&amp;utm_medium=web)
+* [Sick with Gender Affirming Hormone Therapy Side Effects Take Away the Fantasy Dream of Being the Opposite Sex PETER A. MCCULLOUGH, MD, MPH™ JUN 14, 2023](https://open.substack.com/pub/petermcculloughmd/p/sick-with-gender-affirming-hormone%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
-* [Failed Surgical Creation of Phalli in Women Transgender Misadventure Leads to Frequent, Serious Complications PETER A. MCCULLOUGH, MD, MPH™ JUN 13, 2023](https://open.substack.com/pub/petermcculloughmd/p/failed-surgical-creation-of-phalli?r=14jb45&amp;utm_campaign=post&amp;utm_medium=web)
+* [Failed Surgical Creation of Phalli in Women Transgender Misadventure Leads to Frequent, Serious Complications PETER A. MCCULLOUGH, MD, MPH™ JUN 13, 2023](https://open.substack.com/pub/petermcculloughmd/p/failed-surgical-creation-of-phalli%3Fr%3D14jb45%26utm_campaign%3Dpost%26utm_medium%3Dweb)
 
 ---
 
@@ -502,7 +502,7 @@ Conclusions&quot; DBP tended to increase in transwomen, but did not change in tr
 
 #### Scandalous 40 year saga Hormone blocking Durgs - March 2024
 
- **[Puberty Blockers Are Incredibly Dangerous Drugs - Midwetern Doctor](https://www.midwesterndoctor.com/p/puberty-blockers-are-incredibly-dangerous?utm_source=post-email-title&amp;publication_id=748806&amp;post_id=136194340&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email )** 
+ **[Puberty Blockers Are Incredibly Dangerous Drugs - Midwetern Doctor](https://www.midwesterndoctor.com/p/puberty-blockers-are-incredibly-dangerous%3Futm_source%3Dpost-email-title%26publication_id%3D748806%26post_id%3D136194340%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail%20)** 
 
 has a section on  **Selling Lupron**  - which increases doctor&#39;s income while increasing death rates
 
@@ -732,17 +732,17 @@ The LGBT youth are at a higher risk for
 
 * suicide
 
-as compared to the general population. [Note more than half of those risks are associated with low vitamin D ](&lt;em&gt;Note more than half of those risks are associated with low vitamin D &lt;/em&gt;)
+as compared to the general population. [Note more than half of those risks are associated with low vitamin D ](&lt;em&gt;Note%20more%20than%20half%20of%20those%20risks%20are%20associated%20with%20low%20vitamin%20D%20&lt;/em&gt;)
 
 LGBT youth receive poor quality of care due to stigma, lack of healthcare providers&#39; awareness, and insensitivity to the unique needs of this community. The main objective of this literature review is to highlight the challenges faced by the LGBT youth and to enhance the awareness among physicians about the existing disparities in order to provide a more comprehensive, evidence-based, and humane medical care to this community.
 
- **[Clpck here for full study](https://www.cureus.com/articles/6744-health-care-disparities-among-lesbian-gay-bisexual-and-transgender-youth-a-literature-review#!/)** 
+ **[Clpck here for full study](https://www.cureus.com/articles/6744-health-care-disparities-among-lesbian-gay-bisexual-and-transgender-youth-a-literature-review%23!/)** 
 
 ---
 
 #### Half of transmale teen boys have attempted suicide - Sept 2018
 
-[click here](https://www.reuters.com/article/us-health-transgender-teen-suicide/trans-teens-much-more-likely-to-attempt-suicide-idUSKCN1LS39K#:~:text=roughly half of transgender teens who identify as male but were assigned a female gender at birth have attempted suicide at least once, the study found. )   5X more than males who are cisgender
+[click here](https://www.reuters.com/article/us-health-transgender-teen-suicide/trans-teens-much-more-likely-to-attempt-suicide-idUSKCN1LS39K%23:~:text%3Droughly%20half%20of%20transgender%20teens%20who%20identify%20as%20male%20but%20were%20assigned%20a%20female%20gender%20at%20birth%20have%20attempted%20suicide%20at%20least%20once%2C%20the%20study%20found.%20)   5X more than males who are cisgender
 
 Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://doi.org/10.1542/peds.2017-4218)
 
@@ -754,7 +754,7 @@ Source: Transgender Adolescent Suicide Behavior - Oct 2018 [FREE PDF](https://do
 
 #### “Rapid-onset Gender Dysphoria” (ROGD) - alternate analysis by Robert Malone - April 13, 2023
 
- **[SubStack](https://rwmalonemd.substack.com/p/rapid-onset-gender-dysphoria-rogd?utm_source=substack&amp;utm_medium=email)** 
+ **[SubStack](https://rwmalonemd.substack.com/p/rapid-onset-gender-dysphoria-rogd%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 AST Structure:
 -------------

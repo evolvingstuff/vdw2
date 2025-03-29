@@ -71,11 +71,11 @@ This list is automatically updated
 
 #### Web
 
-* "Choroidal thinning has been associated with many pathological conditions, such as age-related macular degeneration, high myopia and ocular growth. Additionally, since lymphatics are known to play a fundamental role in immunosurveillance, the choroid is susceptible to uveitis and other choroidal inflammatory conditions." [URL](https://www.reviewofoptometry.com/article/concerns-about-the-choroid#:~:text=Choroidal%20thinning%20has%20been%20associated,high%20myopia%20and%20ocular%20growth.&text=Additionally%2C%20since%20lymphatics%20are%20known,and%20other%20choroidal%20inflammatory%20conditions.)
+* "Choroidal thinning has been associated with many pathological conditions, such as age-related macular degeneration, high myopia and ocular growth. Additionally, since lymphatics are known to play a fundamental role in immunosurveillance, the choroid is susceptible to uveitis and other choroidal inflammatory conditions." [URL](https://www.reviewofoptometry.com/article/concerns-about-the-choroid%23:~:text%3DChoroidal%20thinning%20has%20been%20associated%2Chigh%20myopia%20and%20ocular%20growth.%26text%3DAdditionally%2C%20since%20lymphatics%20are%20known%2Cand%20other%20choroidal%20inflammatory%20conditions.)
 
 * Editorial: Choroidal thinning could be significant cause of vision loss - [Oct 2014](https://www.aao.org/education/editors-choice/editorial-choroidal-thinning-could-be-significant-)
 
-* Thinner choroidal thickness is a risk factor for myopic progression but not for myopia incidence. [July 2019](https://iovs.arvojournals.org/article.aspx?articleid=2745729)
+* Thinner choroidal thickness is a risk factor for myopic progression but not for myopia incidence. [July 2019](https://iovs.arvojournals.org/article.aspx%3Farticleid%3D2745729)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -141,11 +141,11 @@ This list is automatically updated
 
 #### Web
 
-* &quot;Choroidal thinning has been associated with many pathological conditions, such as age-related macular degeneration, high myopia and ocular growth. Additionally, since lymphatics are known to play a fundamental role in immunosurveillance, the choroid is susceptible to uveitis and other choroidal inflammatory conditions.&quot; [URL](https://www.reviewofoptometry.com/article/concerns-about-the-choroid#:~:text=Choroidal%20thinning%20has%20been%20associated,high%20myopia%20and%20ocular%20growth.&amp;text=Additionally%2C%20since%20lymphatics%20are%20known,and%20other%20choroidal%20inflammatory%20conditions.)
+* &quot;Choroidal thinning has been associated with many pathological conditions, such as age-related macular degeneration, high myopia and ocular growth. Additionally, since lymphatics are known to play a fundamental role in immunosurveillance, the choroid is susceptible to uveitis and other choroidal inflammatory conditions.&quot; [URL](https://www.reviewofoptometry.com/article/concerns-about-the-choroid%23:~:text%3DChoroidal%20thinning%20has%20been%20associated%2Chigh%20myopia%20and%20ocular%20growth.%26text%3DAdditionally%2C%20since%20lymphatics%20are%20known%2Cand%20other%20choroidal%20inflammatory%20conditions.)
 
 * Editorial: Choroidal thinning could be significant cause of vision loss - [Oct 2014](https://www.aao.org/education/editors-choice/editorial-choroidal-thinning-could-be-significant-)
 
-* Thinner choroidal thickness is a risk factor for myopic progression but not for myopia incidence. [July 2019](https://iovs.arvojournals.org/article.aspx?articleid=2745729)
+* Thinner choroidal thickness is a risk factor for myopic progression but not for myopia incidence. [July 2019](https://iovs.arvojournals.org/article.aspx%3Farticleid%3D2745729)
 
 AST Structure:
 -------------

@@ -17,7 +17,7 @@ categories:
 
 #### Why Do Milk Drinkers Live Shorter Lives on Average?
 
- **[Dr. Greger](https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/?subscriber=true&utm_source=NutritionFacts.org&utm_campaign=597796c854-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&utm_medium=email&utm_term=0_40f9e497d1-597796c854-25209481&mc_cid=597796c854&mc_eid=b95641625a)** 
+ **[Dr. Greger](https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3D597796c854-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-597796c854-25209481%26mc_cid%3D597796c854%26mc_eid%3Db95641625a)** 
 
 In my video on milk and bones, I discussed this set of studies, following 100,000 people for up to two decades, finding a 60 percent higher risk of hip fracture among women who drank a lot of milk. The researchers suggested it might be due to the galactose, which is a breakdown product of the milk sugar lactose, based on the fact that people with high levels in their blood––because they were born with an inability to detoxify the stuff––can end up with weakened bones. But that’s not all galactose can do.
 
@@ -132,7 +132,7 @@ Markdown:
 
 #### Why Do Milk Drinkers Live Shorter Lives on Average?
 
- **[Dr. Greger](https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/?subscriber=true&amp;utm_source=NutritionFacts.org&amp;utm_campaign=597796c854-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01&amp;utm_medium=email&amp;utm_term=0_40f9e497d1-597796c854-25209481&amp;mc_cid=597796c854&amp;mc_eid=b95641625a)** 
+ **[Dr. Greger](https://nutritionfacts.org/video/why-do-milk-drinkers-live-shorter-lives-on-average/%3Fsubscriber%3Dtrue%26utm_source%3DNutritionFacts.org%26utm_campaign%3D597796c854-EMAIL_CAMPAIGN_7_26_2022_12_48_COPY_01%26utm_medium%3Demail%26utm_term%3D0_40f9e497d1-597796c854-25209481%26mc_cid%3D597796c854%26mc_eid%3Db95641625a)** 
 
 In my video on milk and bones, I discussed this set of studies, following 100,000 people for up to two decades, finding a 60 percent higher risk of hip fracture among women who drank a lot of milk. The researchers suggested it might be due to the galactose, which is a breakdown product of the milk sugar lactose, based on the fact that people with high levels in their blood––because they were born with an inability to detoxify the stuff––can end up with weakened bones. But that’s not all galactose can do.
 

@@ -18,7 +18,7 @@ categories:
 
 #### Mississippi–Ohio River valley linked to higher risk of Parkinson’s disease
 
- **[MDEdge](https://www.mdedge.com/neurology/article/262306/parkinsons-disease/mississippi-ohio-river-valley-linked-higher-risk?ecd=WNL_EVE_230411_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/262306/parkinsons-disease/mississippi-ohio-river-valley-linked-higher-risk%3Fecd%3DWNL_EVE_230411_mdedge)** 
 
 * "In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%)."
 
@@ -51,7 +51,7 @@ Markdown:
 
 #### Mississippi–Ohio River valley linked to higher risk of Parkinson’s disease
 
- **[MDEdge](https://www.mdedge.com/neurology/article/262306/parkinsons-disease/mississippi-ohio-river-valley-linked-higher-risk?ecd=WNL_EVE_230411_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/262306/parkinsons-disease/mississippi-ohio-river-valley-linked-higher-risk%3Fecd%3DWNL_EVE_230411_mdedge)** 
 
 * &quot;In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%).&quot;
 

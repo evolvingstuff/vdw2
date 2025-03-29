@@ -17,7 +17,7 @@ categories:
 
 #### New Report: Young People Dying of Cancer at ‘Explosive’ Rates, UK Government Data Show
 
- **[The Defender](https://childrenshealthdefense.org/defender/young-people-cancer-death-uk-edward-dowd-analysis/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20231121)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/young-people-cancer-death-uk-edward-dowd-analysis/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231121)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -113,7 +113,7 @@ Markdown:
 
 #### New Report: Young People Dying of Cancer at ‘Explosive’ Rates, UK Government Data Show
 
- **[The Defender](https://childrenshealthdefense.org/defender/young-people-cancer-death-uk-edward-dowd-analysis/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20231121)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/young-people-cancer-death-uk-edward-dowd-analysis/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20231121)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 

@@ -21,7 +21,7 @@ date: 2025-03-29
 
 0:13:24.6  **Holford** : We tend to get red. <span>[laughter]</span>
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indent 3
 
@@ -58,7 +58,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/%3Fs%3Dcancer%2Bcall%2Bfor%2Baction) |
 | www.VitaminDWiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -67,6 +67,9 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 #### VitaminDWiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart
 
+#### HOW BORON CAN HELP
+
+Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup%3Fjournal%3DJ%20Trace%20Elem%20Exp%20Med%26title%3DEffect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet%26author%3DFH%20Nielsen%26author%3DLM%20Mullen%26author%3DSK%20Gallegher%26volume%3D3%26publication_year%3D1990%26pages%3D45-54%26). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -85,7 +88,7 @@ Markdown:
 
 0:13:24.6  **Holford** : We tend to get red. &lt;span&gt;[laughter]&lt;/span&gt;
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indent 3
 
@@ -122,7 +125,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 | | |
 | --- | --- |
 | Websites | Action |
-| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
+| www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/%3Fs%3Dcancer%2Bcall%2Bfor%2Baction) |
 | www.VitaminDWiki.com  | Search for cancer&lt;br&gt;&lt;a href=&quot;/posts/cancer-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer and Vitamin D - many studies&quot;&gt;Cancer and Vitamin D - many studies&lt;/a&gt;&lt;br&gt; [Cancer - After diagnosis](/categories/cancer---after-diagnosis) |
 | www.canceractive.com     | Subscribe to newsletter &amp; search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
@@ -131,6 +134,9 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart
 
+#### HOW BORON CAN HELP
+
+Research, consisting of both animal and human studies, has revealed the [beneficial role of boron in increasing the serum levels of Vitamin D](https://scholar.google.com/scholar_lookup%3Fjournal%3DJ%20Trace%20Elem%20Exp%20Med%26title%3DEffect%20of%20boron%20depletion%20and%20repletion%20on%20blood%20indicators%20of%20calcium%20status%20in%20humans%20fed%20a%20magnesium-low%20diet%26author%3DFH%20Nielsen%26author%3DLM%20Mullen%26author%3DSK%20Gallegher%26volume%3D3%26publication_year%3D1990%26pages%3D45-54%26). The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
 
 AST Structure:
 -------------
@@ -475,7 +481,27 @@ AST Structure:
 │   │   │   inner_content: `Getting Vitamin D into your body`
 │   ├── TextNode
 │   │   full_match: ` has a chart`
-│   │   inner_content: ` has a chart`
+│   │   inner_content: ` has a chart`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!HOW BORON CAN HELP`
+│   inner_content: `HOW BORON CAN HELP`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `HOW BORON CAN HELP`
+│   │   inner_content: `HOW BORON CAN HELP`├── TextNode
+│   full_match: `\nResearch, consisting of both animal and human studies, has revealed the `
+│   inner_content: `\nResearch, consisting of both animal and human studies, has revealed the `├── LinkNode
+│   full_match: `[https://scholar.google.com/scholar_lookup?journal=J Trace Elem Exp Med&amp;title=Effect of boron depletion and repletion on blood indicators of calcium status in humans fed a magnesium-low diet&amp;author=FH Nielsen&amp;author=LM Mullen&amp;author=SK Gallegher&amp;volume=3&amp;publication_year=1990&amp;pages=45-54&amp;|beneficial role of boron in increasing the serum levels of Vitamin D]`
+│   inner_content: `beneficial role of boron in increasing the serum levels of Vitamin D`
+│   url: `https://scholar.google.com/scholar_lookup?journal=J Trace Elem Exp Med&amp;title=Effect of boron depletion and repletion on blood indicators of calcium status in humans fed a magnesium-low diet&amp;author=FH Nielsen&amp;author=LM Mullen&amp;author=SK Gallegher&amp;volume=3&amp;publication_year=1990&amp;pages=45-54&amp;`
+│   children:
+│   ├── TextNode
+│   │   full_match: `beneficial role of boron in increasing the serum levels of Vitamin D`
+│   │   inner_content: `beneficial role of boron in increasing the serum levels of Vitamin D`├── TextNode
+│   full_match: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.`
+│   inner_content: `. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.`
 
 Original Tiki:
 -------------
@@ -526,5 +552,8 @@ https://yestolife.org.uk/     |Start with:  I’m New Here||
 ---
 
 !!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart
+
+!!!!HOW BORON CAN HELP
+Research, consisting of both animal and human studies, has revealed the [https://scholar.google.com/scholar_lookup?journal=J Trace Elem Exp Med&amp;title=Effect of boron depletion and repletion on blood indicators of calcium status in humans fed a magnesium-low diet&amp;author=FH Nielsen&amp;author=LM Mullen&amp;author=SK Gallegher&amp;volume=3&amp;publication_year=1990&amp;pages=45-54&amp;|beneficial role of boron in increasing the serum levels of Vitamin D]. The underlying mechanism appears multifaceted. One plausible explanation suggests that boron aids in retaining and efficiently utilizing magnesium and copper, minerals essential for various bodily functions. Specifically, boron is known to keep magnesium within the cell, preventing rapid depletion of our magnesium reserves, particularly pertinent during stress response. Concurrently, copper—an indispensable mineral for cellular energy generation—may also be conserved better as boron supplementation can prevent the over-consumption of critical nutrients, like copper, during increased stress.One pioneering open pilot study recorded similar findings. This study involved middle-aged participants presumed to be Vitamin D deficient.
 </code>
 </pre>

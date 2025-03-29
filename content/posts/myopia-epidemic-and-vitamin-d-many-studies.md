@@ -56,7 +56,7 @@ This list is automatically updated
 
 #### Video screens, Lack of Sun Are Causing an Epidemic of Myopia - WSJ Aug 2023
 
- **[Wall St. Journal](https://www.wsj.com/tech/personal-tech/our-eyes-really-are-getting-worse-heres-how-to-save-your-kids-vision-de16d592?mod=hp_lead_pos5)** 
+ **[Wall St. Journal](https://www.wsj.com/tech/personal-tech/our-eyes-really-are-getting-worse-heres-how-to-save-your-kids-vision-de16d592%3Fmod%3Dhp_lead_pos5)** 
 
 Screens include Video, TV, Computer, Gaming
 
@@ -70,7 +70,7 @@ Screens include Video, TV, Computer, Gaming
 
 #### Myopia exploding: 3X increase in half a century in Asia - Sept 2022
 
- **[THE MYOPIA GENERATION - Why do so many kids need glasses now?](https://www.theatlantic.com/magazine/archive/2022/10/kids-glasses-vision-increased-nearsightedness-myopia/671244/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20230731&utm_term=The Atlantic Daily)** 
+ **[THE MYOPIA GENERATION - Why do so many kids need glasses now?](https://www.theatlantic.com/magazine/archive/2022/10/kids-glasses-vision-increased-nearsightedness-myopia/671244/%3Futm_source%3Dnewsletter%26utm_medium%3Demail%26utm_campaign%3Datlantic-daily-newsletter%26utm_content%3D20230731%26utm_term%3DThe%20Atlantic%20Daily)** 
 
 * " In East and Southeast Asia, where this shift is most dramatic, the proportion of teenagers and young adults with myopia has jumped from roughly a quarter to more than 80 percent in just over half a century"
 
@@ -170,7 +170,7 @@ This list is automatically updated
 
 #### Video screens, Lack of Sun Are Causing an Epidemic of Myopia - WSJ Aug 2023
 
- **[Wall St. Journal](https://www.wsj.com/tech/personal-tech/our-eyes-really-are-getting-worse-heres-how-to-save-your-kids-vision-de16d592?mod=hp_lead_pos5)** 
+ **[Wall St. Journal](https://www.wsj.com/tech/personal-tech/our-eyes-really-are-getting-worse-heres-how-to-save-your-kids-vision-de16d592%3Fmod%3Dhp_lead_pos5)** 
 
 Screens include Video, TV, Computer, Gaming
 
@@ -184,7 +184,7 @@ Screens include Video, TV, Computer, Gaming
 
 #### Myopia exploding: 3X increase in half a century in Asia - Sept 2022
 
- **[THE MYOPIA GENERATION - Why do so many kids need glasses now?](https://www.theatlantic.com/magazine/archive/2022/10/kids-glasses-vision-increased-nearsightedness-myopia/671244/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=atlantic-daily-newsletter&amp;utm_content=20230731&amp;utm_term=The Atlantic Daily)** 
+ **[THE MYOPIA GENERATION - Why do so many kids need glasses now?](https://www.theatlantic.com/magazine/archive/2022/10/kids-glasses-vision-increased-nearsightedness-myopia/671244/%3Futm_source%3Dnewsletter%26utm_medium%3Demail%26utm_campaign%3Datlantic-daily-newsletter%26utm_content%3D20230731%26utm_term%3DThe%20Atlantic%20Daily)** 
 
 * &quot; In East and Southeast Asia, where this shift is most dramatic, the proportion of teenagers and young adults with myopia has jumped from roughly a quarter to more than 80 percent in just over half a century&quot;
 

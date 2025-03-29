@@ -118,9 +118,9 @@ He also said that people’s fluoride exposure can depend on how much water they
 
 The NTP confirmed that people exposed to levels of fluoride lower than 1.5 mg/L in the water system could have high levels of fluoride in their systems. It stated:
 
-“Even in the optimally fluoridated cities [fluoridated at 0.7 mg/L](fluoridated at 0.7 mg/L) in Canada studied by Green et al. (2019), individual exposure levels, as documented by repeated urinary measurements, suggest widely varying total exposures from water combined with fluoride from other sources.”
+“Even in the optimally fluoridated cities [fluoridated at 0.7 mg/L](fluoridated%20at%200.7%20mg/L) in Canada studied by Green et al. (2019), individual exposure levels, as documented by repeated urinary measurements, suggest widely varying total exposures from water combined with fluoride from other sources.”
 
-It added, “our moderate confidence conclusion is primarily based on studies with total fluoride exposure that approximates or exceeds what is generally associated with consumption of optimally fluoridated water [0.7 mg/L](0.7 mg/L) in the United States.”
+It added, “our moderate confidence conclusion is primarily based on studies with total fluoride exposure that approximates or exceeds what is generally associated with consumption of optimally fluoridated water [0.7 mg/L](0.7%20mg/L) in the United States.”
 
 “We have stressed in our monograph that our conclusions apply to total fluoride exposures rather than to exposures exclusively through drinking water.”
 
@@ -321,9 +321,9 @@ He also said that people’s fluoride exposure can depend on how much water they
 
 The NTP confirmed that people exposed to levels of fluoride lower than 1.5 mg/L in the water system could have high levels of fluoride in their systems. It stated:
 
-“Even in the optimally fluoridated cities [fluoridated at 0.7 mg/L](fluoridated at 0.7 mg/L) in Canada studied by Green et al. (2019), individual exposure levels, as documented by repeated urinary measurements, suggest widely varying total exposures from water combined with fluoride from other sources.”
+“Even in the optimally fluoridated cities [fluoridated at 0.7 mg/L](fluoridated%20at%200.7%20mg/L) in Canada studied by Green et al. (2019), individual exposure levels, as documented by repeated urinary measurements, suggest widely varying total exposures from water combined with fluoride from other sources.”
 
-It added, “our moderate confidence conclusion is primarily based on studies with total fluoride exposure that approximates or exceeds what is generally associated with consumption of optimally fluoridated water [0.7 mg/L](0.7 mg/L) in the United States.”
+It added, “our moderate confidence conclusion is primarily based on studies with total fluoride exposure that approximates or exceeds what is generally associated with consumption of optimally fluoridated water [0.7 mg/L](0.7%20mg/L) in the United States.”
 
 “We have stressed in our monograph that our conclusions apply to total fluoride exposures rather than to exposures exclusively through drinking water.”
 

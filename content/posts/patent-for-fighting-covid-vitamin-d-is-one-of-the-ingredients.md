@@ -12,7 +12,7 @@ categories:
 
 
 
-#### Methods of [treating COVID-19 infection - US11166971B2](https://patents.google.com/patent/US11166971B2/en?inventor=sabine+hazan&oq=sabine+hazan)
+#### Methods of [treating COVID-19 infection - US11166971B2](https://patents.google.com/patent/US11166971B2/en%3Finventor%3Dsabine%2Bhazan%26oq%3Dsabine%2Bhazan)
 
 "antimicrobials comprise: chloroquine or hydroxychloroquine; azithromycin; vitamin C; vitamin D; and zinc; "
 
@@ -52,7 +52,7 @@ This list is automatically updated
 Markdown:
 --------
 
-#### Methods of [treating COVID-19 infection - US11166971B2](https://patents.google.com/patent/US11166971B2/en?inventor=sabine+hazan&amp;oq=sabine+hazan)
+#### Methods of [treating COVID-19 infection - US11166971B2](https://patents.google.com/patent/US11166971B2/en%3Finventor%3Dsabine%2Bhazan%26oq%3Dsabine%2Bhazan)
 
 &quot;antimicrobials comprise: chloroquine or hydroxychloroquine; azithromycin; vitamin C; vitamin D; and zinc; &quot;
 

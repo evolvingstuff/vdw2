@@ -10,7 +10,7 @@ date: 2023-02-03
 
  **Lowest cost - 25 cents, just once a week** 
 
-[13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://VitaminDWiki.com/Can+get+50%2C000+IU+Vitamin+D+anywhere+on+the+globe#VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
+[13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://VitaminDWiki.com/Can%2Bget%2B50%2C000%2BIU%2BVitamin%2BD%2Banywhere%2Bon%2Bthe%2Bglobe%23VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
 
  **As safe as [cabbage](/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript)** 
 
@@ -40,7 +40,7 @@ Markdown:
 --------
  **Lowest cost - 25 cents, just once a week** 
 
-[13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://VitaminDWiki.com/Can+get+50%2C000+IU+Vitamin+D+anywhere+on+the+globe#VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
+[13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://VitaminDWiki.com/Can%2Bget%2B50%2C000%2BIU%2BVitamin%2BD%2Banywhere%2Bon%2Bthe%2Bglobe%23VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
 
  **As safe as [cabbage](/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript)** 
 

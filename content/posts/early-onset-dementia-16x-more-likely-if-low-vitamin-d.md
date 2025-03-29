@@ -15,7 +15,7 @@ date: 2024-01-11
 
 #### Modifiable Risk Factors for Young-Onset Dementia Flagged
 
- **[MDEdge](https://www.mdedge.com/neurology/article/267310/alzheimers-cognition/modifiable-risk-factors-young-onset-dementia-flagged?channel=39313)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/267310/alzheimers-cognition/modifiable-risk-factors-young-onset-dementia-flagged%3Fchannel%3D39313)** 
 
 * "The study included 356,052 participants younger than 65 years (mean baseline age, 54.6 years) without dementia from the UK Biobank, an ongoing prospective cohort study."
 
@@ -55,7 +55,7 @@ Stevie Hendriks, PhD1; Janice M. Ranson, PhD2; Kirsten Peetoom, PhD1
 
 The abstract is data-free. The PDF is not free: it costs $40 doi:10.1001/jamaneurol.2023.4929
 
- **[PDF can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/risk-factors-for-young-onset-dementia-in-the-uk-biobank-LDVPZezTQo?articleList=%2Fsearch%3Fquery%3D%2522Risk%2BFactors%2Bfor%2BYoung-Onset%2BDementia%2Bin%2Bthe%2BUK%2BBiobank%2522)** 
+ **[PDF can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/risk-factors-for-young-onset-dementia-in-the-uk-biobank-LDVPZezTQo%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Risk%2BFactors%2Bfor%2BYoung-Onset%2BDementia%2Bin%2Bthe%2BUK%2BBiobank%2522)** 
 
 ---
 
@@ -88,7 +88,7 @@ Markdown:
 
 #### Modifiable Risk Factors for Young-Onset Dementia Flagged
 
- **[MDEdge](https://www.mdedge.com/neurology/article/267310/alzheimers-cognition/modifiable-risk-factors-young-onset-dementia-flagged?channel=39313)** 
+ **[MDEdge](https://www.mdedge.com/neurology/article/267310/alzheimers-cognition/modifiable-risk-factors-young-onset-dementia-flagged%3Fchannel%3D39313)** 
 
 * &quot;The study included 356,052 participants younger than 65 years (mean baseline age, 54.6 years) without dementia from the UK Biobank, an ongoing prospective cohort study.&quot;
 
@@ -128,7 +128,7 @@ Stevie Hendriks, PhD1; Janice M. Ranson, PhD2; Kirsten Peetoom, PhD1
 
 The abstract is data-free. The PDF is not free: it costs $40 doi:10.1001/jamaneurol.2023.4929
 
- **[PDF can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/risk-factors-for-young-onset-dementia-in-the-uk-biobank-LDVPZezTQo?articleList=%2Fsearch%3Fquery%3D%2522Risk%2BFactors%2Bfor%2BYoung-Onset%2BDementia%2Bin%2Bthe%2BUK%2BBiobank%2522)** 
+ **[PDF can be read at DeepDyve](https://www.deepdyve.com/lp/american-medical-association/risk-factors-for-young-onset-dementia-in-the-uk-biobank-LDVPZezTQo%3FarticleList%3D%2Fsearch%3Fquery%3D%2522Risk%2BFactors%2Bfor%2BYoung-Onset%2BDementia%2Bin%2Bthe%2BUK%2BBiobank%2522)** 
 
 ---
 

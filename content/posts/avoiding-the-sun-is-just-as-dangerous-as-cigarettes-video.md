@@ -17,7 +17,7 @@ categories:
 
 #### Dr. Berg 4 minute video
 
- **[4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&ab_channel=Dr.EricBergDC)** 
+ **[4 minute video](https://www.youtube.com/watch%3Fv%3DrDeLISqGgfs%26ab_channel%3DDr.EricBergDC)** 
 
 ---
 
@@ -41,7 +41,7 @@ Markdown:
 
 #### Dr. Berg 4 minute video
 
- **[4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&amp;ab_channel=Dr.EricBergDC)** 
+ **[4 minute video](https://www.youtube.com/watch%3Fv%3DrDeLISqGgfs%26ab_channel%3DDr.EricBergDC)** 
 
 ---
 

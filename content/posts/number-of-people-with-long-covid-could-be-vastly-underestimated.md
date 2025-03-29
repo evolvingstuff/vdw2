@@ -15,7 +15,7 @@ categories:
 
 ---
 
-#### From  **[MD Edge](https://www.mdedge.com/neurology/article/265007/long-covid/number-people-long-covid-could-be-vastly-underestimated?channel=39313&ecd=WNL_MDIQFFF_230901_mdedge)** 
+#### From  **[MD Edge](https://www.mdedge.com/neurology/article/265007/long-covid/number-people-long-covid-could-be-vastly-underestimated%3Fchannel%3D39313%26ecd%3DWNL_MDIQFFF_230901_mdedge)** 
 
 It’s been estimated that up to one-third of people who survive acute SARS-CoV-2 infection will suffer a post-viral syndrome with lingering neurologic and other symptoms – now known as long COVID or neurological postacute sequelae of SARS-CoV-2 infection (Neuro-PASC).
 
@@ -67,7 +67,7 @@ Markdown:
 
 ---
 
-#### From  **[MD Edge](https://www.mdedge.com/neurology/article/265007/long-covid/number-people-long-covid-could-be-vastly-underestimated?channel=39313&amp;ecd=WNL_MDIQFFF_230901_mdedge)** 
+#### From  **[MD Edge](https://www.mdedge.com/neurology/article/265007/long-covid/number-people-long-covid-could-be-vastly-underestimated%3Fchannel%3D39313%26ecd%3DWNL_MDIQFFF_230901_mdedge)** 
 
 It’s been estimated that up to one-third of people who survive acute SARS-CoV-2 infection will suffer a post-viral syndrome with lingering neurologic and other symptoms – now known as long COVID or neurological postacute sequelae of SARS-CoV-2 infection (Neuro-PASC).
 

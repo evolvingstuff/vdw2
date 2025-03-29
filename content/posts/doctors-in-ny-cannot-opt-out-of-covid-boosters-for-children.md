@@ -12,7 +12,7 @@ categories:
 
 
 
-#### [Coercing Doctors to Buy COVID Boosters](https://rwmalonemd.substack.com/p/coercing-doctors-to-buy-covid-boosters?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)
+#### [Coercing Doctors to Buy COVID Boosters](https://rwmalonemd.substack.com/p/coercing-doctors-to-buy-covid-boosters%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)
 
 NY State Government Department of Health provides a lesson in how the Federal Vaccines For Children (VFC) program gets enforced. ROBERT W MALONE MD, MS Substact
 
@@ -61,7 +61,7 @@ This list is automatically updated
 Markdown:
 --------
 
-#### [Coercing Doctors to Buy COVID Boosters](https://rwmalonemd.substack.com/p/coercing-doctors-to-buy-covid-boosters?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)
+#### [Coercing Doctors to Buy COVID Boosters](https://rwmalonemd.substack.com/p/coercing-doctors-to-buy-covid-boosters%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)
 
 NY State Government Department of Health provides a lesson in how the Federal Vaccines For Children (VFC) program gets enforced. ROBERT W MALONE MD, MS Substact
 

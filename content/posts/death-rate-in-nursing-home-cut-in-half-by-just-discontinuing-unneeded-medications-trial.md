@@ -47,7 +47,7 @@ Conclusions: Application of the geriatric-palliative methodology in the disabled
 
 ##### This study was cited 375 times as of Sept 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=8044774655833660859&as_sdt=5,48&sciodt=0,48&hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D8044774655833660859%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 * A systematic review of the evidence for  **deprescribing**  interventions among older people living with frailty - April 2021 https://doi.org/10.1186/s12877-021-02208-8 FREE PDF
 
@@ -110,7 +110,7 @@ Conclusions: Application of the geriatric-palliative methodology in the disabled
 
 ##### This study was cited 375 times as of Sept 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=8044774655833660859&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D8044774655833660859%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 * A systematic review of the evidence for  **deprescribing**  interventions among older people living with frailty - April 2021 https://doi.org/10.1186/s12877-021-02208-8 FREE PDF
 

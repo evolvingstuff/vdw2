@@ -52,7 +52,7 @@ We found a relation between lower 25OHD concentrations and increased inpatient h
 
 ##### 17 citations of this study as of Oct 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=14211099022253471756&as_sdt=5,48&sciodt=0,48&hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D14211099022253471756%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 * [5000 IU Vitamin D daily resulted in lower health care costs - RCT Oct 2023](/posts/5000-iu-vitamin-d-daily-resulted-in-lower-health-care-costs-rct)  in VitaminDWiki
 
@@ -114,7 +114,7 @@ We found a relation between lower 25OHD concentrations and increased inpatient h
 
 ##### 17 citations of this study as of Oct 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=14211099022253471756&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D14211099022253471756%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 * [5000 IU Vitamin D daily resulted in lower health care costs - RCT Oct 2023](/posts/5000-iu-vitamin-d-daily-resulted-in-lower-health-care-costs-rct)  in VitaminDWiki
 

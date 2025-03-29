@@ -11,7 +11,7 @@ categories:
 
 
 
-#### [Why Are Death and Disability Rising Among Young Americans? - Opinion](https://www.newsweek.com/why-are-death-disability-rising-among-young-americans-opinion-1837006?eType=EmailBlastContent&eId=f5cced30-9909-468d-89b8-9bdbd420a206)
+#### [Why Are Death and Disability Rising Among Young Americans? - Opinion](https://www.newsweek.com/why-are-death-disability-rising-among-young-americans-opinion-1837006%3FeType%3DEmailBlastContent%26eId%3Df5cced30-9909-468d-89b8-9bdbd420a206)
 
 * "According to data from the Bureau of Labor Statistics, the number of American adults considered unable to work grew by more than 3.5 million since January 2020, with 1.5 million added just in the first nine months of this year."
 
@@ -54,7 +54,7 @@ This list is automatically updated
 Markdown:
 --------
 
-#### [Why Are Death and Disability Rising Among Young Americans? - Opinion](https://www.newsweek.com/why-are-death-disability-rising-among-young-americans-opinion-1837006?eType=EmailBlastContent&amp;eId=f5cced30-9909-468d-89b8-9bdbd420a206)
+#### [Why Are Death and Disability Rising Among Young Americans? - Opinion](https://www.newsweek.com/why-are-death-disability-rising-among-young-americans-opinion-1837006%3FeType%3DEmailBlastContent%26eId%3Df5cced30-9909-468d-89b8-9bdbd420a206)
 
 * &quot;According to data from the Bureau of Labor Statistics, the number of American adults considered unable to work grew by more than 3.5 million since January 2020, with 1.5 million added just in the first nine months of this year.&quot;
 

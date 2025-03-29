@@ -11,7 +11,7 @@ categories:
 
 
 
-#### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety?r=ofo3r&utm_source=substack&utm_medium=email) Dr. Peter McCullough
+#### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety%3Fr%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) Dr. Peter McCullough
 
 [Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
 
@@ -46,7 +46,7 @@ categories:
 Markdown:
 --------
 
-#### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety?r=ofo3r&amp;utm_source=substack&amp;utm_medium=email) Dr. Peter McCullough
+#### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety%3Fr%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) Dr. Peter McCullough
 
 [Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
 

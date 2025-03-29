@@ -17,7 +17,7 @@ categories:
 
 #### A combination nutritional supplement reduces DNA methylation age only in older adults with a raised epigenetic age
 
-Geroscience. 2024 Mar 26. [doi: 10.1007/s11357-024-01138-8](https://doi.org/10.1007/s11357-024-01138-8) – PDF behind paywall, but can be seen in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-combination-nutritional-supplement-reduces-dna-methylation-age-only-JjQGqcLsau?articleList=%2Fsearch%3Fquery%3D%2522A%2Bcombination%2Bnutritional%2Bsupplement%2Breduces%2BDNA%2Bmethylation%2Bage%2Bonly%2Bin%2Bolder%2Badults%2Bwith%2Ba%2Braised%2Bepigenetic%2Bage%2522)
+Geroscience. 2024 Mar 26. [doi: 10.1007/s11357-024-01138-8](https://doi.org/10.1007/s11357-024-01138-8) – PDF behind paywall, but can be seen in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-combination-nutritional-supplement-reduces-dna-methylation-age-only-JjQGqcLsau%3FarticleList%3D%2Fsearch%3Fquery%3D%2522A%2Bcombination%2Bnutritional%2Bsupplement%2Breduces%2BDNA%2Bmethylation%2Bage%2Bonly%2Bin%2Bolder%2Badults%2Bwith%2Ba%2Braised%2Bepigenetic%2Bage%2522)
 
 Kirsty C McGee 1, Jack Sullivan 1, Jon Hazeldine 1, Lisa J Schmunk 2, Daniel E Martin-Herranz 2, Thomas Jackson 1 3, Janet M Lord 4 5
 
@@ -159,7 +159,7 @@ Markdown:
 
 #### A combination nutritional supplement reduces DNA methylation age only in older adults with a raised epigenetic age
 
-Geroscience. 2024 Mar 26. [doi: 10.1007/s11357-024-01138-8](https://doi.org/10.1007/s11357-024-01138-8) – PDF behind paywall, but can be seen in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-combination-nutritional-supplement-reduces-dna-methylation-age-only-JjQGqcLsau?articleList=%2Fsearch%3Fquery%3D%2522A%2Bcombination%2Bnutritional%2Bsupplement%2Breduces%2BDNA%2Bmethylation%2Bage%2Bonly%2Bin%2Bolder%2Badults%2Bwith%2Ba%2Braised%2Bepigenetic%2Bage%2522)
+Geroscience. 2024 Mar 26. [doi: 10.1007/s11357-024-01138-8](https://doi.org/10.1007/s11357-024-01138-8) – PDF behind paywall, but can be seen in [DeepDyve](https://www.deepdyve.com/lp/springer-journals/a-combination-nutritional-supplement-reduces-dna-methylation-age-only-JjQGqcLsau%3FarticleList%3D%2Fsearch%3Fquery%3D%2522A%2Bcombination%2Bnutritional%2Bsupplement%2Breduces%2BDNA%2Bmethylation%2Bage%2Bonly%2Bin%2Bolder%2Badults%2Bwith%2Ba%2Braised%2Bepigenetic%2Bage%2522)
 
 Kirsty C McGee 1, Jack Sullivan 1, Jon Hazeldine 1, Lisa J Schmunk 2, Daniel E Martin-Herranz 2, Thomas Jackson 1 3, Janet M Lord 4 5
 

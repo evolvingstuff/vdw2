@@ -53,7 +53,7 @@ This list is automatically updated
 
  **<a href="/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies">Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies</a>** 
 
- **[Controversial Effects of Vitamin D and Related Genes on Viral Infections, Pathogenesis, and Treatment Outcomes - 2020](https://VitaminDWiki.com/Herpes+%28Cytomegalovirus%29+downregulates+the+vitamin+D+receptor+by+8X+%E2%80%93+Jan+2017#Controversial_Effects_of_Vitamin_D_and_Related_Genes_on_Viral_Infections_Pathogenesis_and_Treatment_Outcomes_-_2020)** 
+ **[Controversial Effects of Vitamin D and Related Genes on Viral Infections, Pathogenesis, and Treatment Outcomes - 2020](https://VitaminDWiki.com/Herpes%2B%28Cytomegalovirus%29%2Bdownregulates%2Bthe%2Bvitamin%2BD%2Breceptor%2Bby%2B8X%2B%E2%80%93%2BJan%2B2017%23Controversial_Effects_of_Vitamin_D_and_Related_Genes_on_Viral_Infections_Pathogenesis_and_Treatment_Outcomes_-_2020)** 
 
  **<a href="/posts/colon-cancer-protects-itself-by-changing-the-vdr-and-cyp3a4-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022">Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022</a>** 
 
@@ -115,7 +115,7 @@ This list is automatically updated
 
  **&lt;a href=&quot;/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies&quot;&gt;Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies&lt;/a&gt;** 
 
- **[Controversial Effects of Vitamin D and Related Genes on Viral Infections, Pathogenesis, and Treatment Outcomes - 2020](https://VitaminDWiki.com/Herpes+%28Cytomegalovirus%29+downregulates+the+vitamin+D+receptor+by+8X+%E2%80%93+Jan+2017#Controversial_Effects_of_Vitamin_D_and_Related_Genes_on_Viral_Infections_Pathogenesis_and_Treatment_Outcomes_-_2020)** 
+ **[Controversial Effects of Vitamin D and Related Genes on Viral Infections, Pathogenesis, and Treatment Outcomes - 2020](https://VitaminDWiki.com/Herpes%2B%28Cytomegalovirus%29%2Bdownregulates%2Bthe%2Bvitamin%2BD%2Breceptor%2Bby%2B8X%2B%E2%80%93%2BJan%2B2017%23Controversial_Effects_of_Vitamin_D_and_Related_Genes_on_Viral_Infections_Pathogenesis_and_Treatment_Outcomes_-_2020)** 
 
  **&lt;a href=&quot;/posts/colon-cancer-protects-itself-by-changing-the-vdr-and-cyp3a4-genes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022&quot;&gt;Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022&lt;/a&gt;** 
 

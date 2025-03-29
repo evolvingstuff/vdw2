@@ -47,7 +47,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
+#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast%2BCancer%2Breduces%2Breceptor%2Band%2Bthus%2Bblocks%2BVitamin%2BD%2Bto%2Bthe%2Bcells%2B%E2%80%93%2Bseveral%2Bstudies%23Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
 
 ---
 
@@ -138,7 +138,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast+Cancer+reduces+receptor+and+thus+blocks+Vitamin+D+to+the+cells+%E2%80%93+several+studies#Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
+#### 81+  [Vitamin D Receptor pages in VitaminDWiki have CANCER in title](https://VitaminDWiki.com/Breast%2BCancer%2Breduces%2Breceptor%2Band%2Bthus%2Bblocks%2BVitamin%2BD%2Bto%2Bthe%2Bcells%2B%E2%80%93%2Bseveral%2Bstudies%23Vitamin_D_Receptor_pages_in_VitaminDWiki_with_CANCER_in_title)
 
 ---
 

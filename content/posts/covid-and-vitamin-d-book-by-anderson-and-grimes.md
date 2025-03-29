@@ -36,7 +36,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&ab_channel=Dr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch%3Fv%3DrLl-SilwQ4g%26ab_channel%3DDr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 
@@ -216,7 +216,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&amp;ab_channel=Dr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch%3Fv%3DrLl-SilwQ4g%26ab_channel%3DDr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 

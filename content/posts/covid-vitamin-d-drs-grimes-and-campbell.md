@@ -14,9 +14,9 @@ categories:
 
 #### The second pandemic
 
- **[first interview 83 minutes](https://www.youtube.com/watch?v=sp21CPCVNAw&ab_channel=Dr.JohnCampbell)** 
+ **[first interview 83 minutes](https://www.youtube.com/watch%3Fv%3Dsp21CPCVNAw%26ab_channel%3DDr.JohnCampbell)** 
 
- **[2nd interview Feb 2024 67 minutes](https://www.youtube.com/watch?v=2hO7fniCbmw&t=3577s&ab_channel=Dr.JohnCampbell)** 
+ **[2nd interview Feb 2024 67 minutes](https://www.youtube.com/watch%3Fv%3D2hO7fniCbmw%26t%3D3577s%26ab_channel%3DDr.JohnCampbell)** 
 
 #### Hypothesis: The body consumes Vitamin D each time the immune system is activated
 
@@ -127,9 +127,9 @@ Markdown:
 
 #### The second pandemic
 
- **[first interview 83 minutes](https://www.youtube.com/watch?v=sp21CPCVNAw&amp;ab_channel=Dr.JohnCampbell)** 
+ **[first interview 83 minutes](https://www.youtube.com/watch%3Fv%3Dsp21CPCVNAw%26ab_channel%3DDr.JohnCampbell)** 
 
- **[2nd interview Feb 2024 67 minutes](https://www.youtube.com/watch?v=2hO7fniCbmw&amp;t=3577s&amp;ab_channel=Dr.JohnCampbell)** 
+ **[2nd interview Feb 2024 67 minutes](https://www.youtube.com/watch%3Fv%3D2hO7fniCbmw%26t%3D3577s%26ab_channel%3DDr.JohnCampbell)** 
 
 #### Hypothesis: The body consumes Vitamin D each time the immune system is activated
 

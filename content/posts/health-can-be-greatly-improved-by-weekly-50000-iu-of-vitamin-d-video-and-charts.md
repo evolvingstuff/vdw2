@@ -11,7 +11,7 @@ categories:
 ---
 
 
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023  &nbsp;&nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ%3Ft%3D1216)&nbsp;&nbsp;Presented in Iceland March 4, 2023  &nbsp;&nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301)** 
 
 <!-- {maketoc title="charts WITHOUT transcript"} -->
  
@@ -24,7 +24,7 @@ categories:
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 
- **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">English</a> &nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
+ **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">English</a> &nbsp;[with Icelandic captions](https://www.youtube.com/watch%3Fv%3D6cGHU6k3WFs)** 
 
 &nbsp;
 
@@ -38,7 +38,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **[Reference](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
+ **[Reference](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14133)** 
 
 &nbsp;
 
@@ -363,7 +363,7 @@ Note Humans and animals have evolved to go for days with many nutrients
 <code class="language-text">
 Markdown:
 --------
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php?page_id=14301)** 
+ **[YouTube](https://youtu.be/hscufeebcgQ%3Ft%3D1216)&amp;nbsp;&amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp;&amp;nbsp; [Click here for charts WITH transcript](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301)** 
 
 &lt;!-- {maketoc title=&quot;charts WITHOUT transcript&quot;} --&gt;
  
@@ -376,7 +376,7 @@ Markdown:
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 
- **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;English&lt;/a&gt; &amp;nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
+ **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;English&lt;/a&gt; &amp;nbsp;[with Icelandic captions](https://www.youtube.com/watch%3Fv%3D6cGHU6k3WFs)** 
 
 &amp;nbsp;
 
@@ -390,7 +390,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **[Reference](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
+ **[Reference](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14133)** 
 
 &amp;nbsp;
 

@@ -22,7 +22,7 @@ Mariem Ammar 1 2, Syrine Heni 3 4, Mohamed Sahbi Tira 3 4, Yassine Khalij 3 4, H
 
 Objective: The aim of this study was to determine the influence of polymorphisms in some key gene actors of the vitamin D (vitD) metabolic pathway on supplementation efficacy.
 
-Methods: In total, 245 healthy participants were recruited from occupational medicine service in Sahloul University Hospital with vitD deficiency [25(OH)D ≤ 30 ng/ml](25(OH)D ≤ 30 ng/ml). After giving an informed consent, all participants were asked to complete a generalized questionnaire and to follow a detailed personalized supplementation protocol. Genetic study was performed by PCR-RFLP for 15 single nucleotide polymorphisms (SNPs) belonging to DBP, CYP2R1, CYP27B14, CYP24A1 and VDR genes. Statistical study was carried out with SPSS23.0.
+Methods: In total, 245 healthy participants were recruited from occupational medicine service in Sahloul University Hospital with vitD deficiency [25(OH)D ≤ 30 ng/ml](25(OH)D%20≤%2030%20ng/ml). After giving an informed consent, all participants were asked to complete a generalized questionnaire and to follow a detailed personalized supplementation protocol. Genetic study was performed by PCR-RFLP for 15 single nucleotide polymorphisms (SNPs) belonging to DBP, CYP2R1, CYP27B14, CYP24A1 and VDR genes. Statistical study was carried out with SPSS23.0.
 
 Results: Among the studied SNPs, non-response was significantly associated with variant alleles of 
 
@@ -105,7 +105,7 @@ Mariem Ammar 1 2, Syrine Heni 3 4, Mohamed Sahbi Tira 3 4, Yassine Khalij 3 4, H
 
 Objective: The aim of this study was to determine the influence of polymorphisms in some key gene actors of the vitamin D (vitD) metabolic pathway on supplementation efficacy.
 
-Methods: In total, 245 healthy participants were recruited from occupational medicine service in Sahloul University Hospital with vitD deficiency [25(OH)D ≤ 30 ng/ml](25(OH)D ≤ 30 ng/ml). After giving an informed consent, all participants were asked to complete a generalized questionnaire and to follow a detailed personalized supplementation protocol. Genetic study was performed by PCR-RFLP for 15 single nucleotide polymorphisms (SNPs) belonging to DBP, CYP2R1, CYP27B14, CYP24A1 and VDR genes. Statistical study was carried out with SPSS23.0.
+Methods: In total, 245 healthy participants were recruited from occupational medicine service in Sahloul University Hospital with vitD deficiency [25(OH)D ≤ 30 ng/ml](25(OH)D%20≤%2030%20ng/ml). After giving an informed consent, all participants were asked to complete a generalized questionnaire and to follow a detailed personalized supplementation protocol. Genetic study was performed by PCR-RFLP for 15 single nucleotide polymorphisms (SNPs) belonging to DBP, CYP2R1, CYP27B14, CYP24A1 and VDR genes. Statistical study was carried out with SPSS23.0.
 
 Results: Among the studied SNPs, non-response was significantly associated with variant alleles of 
 

@@ -17,7 +17,7 @@ categories:
 
 #### Testimony in UK Parliament: Show us the data!
 
- **[Robert Malone substack](https://rwmalonemd.substack.com/p/testimony-in-uk-parliament-show-us?utm_source=post-email-title&publication_id=583200&post_id=139457252&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
+ **[Robert Malone substack](https://rwmalonemd.substack.com/p/testimony-in-uk-parliament-show-us%3Futm_source%3Dpost-email-title%26publication_id%3D583200%26post_id%3D139457252%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 Members of Congress in the USA and in Parliaments all over the worlds 
 
@@ -113,7 +113,7 @@ Markdown:
 
 #### Testimony in UK Parliament: Show us the data!
 
- **[Robert Malone substack](https://rwmalonemd.substack.com/p/testimony-in-uk-parliament-show-us?utm_source=post-email-title&amp;publication_id=583200&amp;post_id=139457252&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
+ **[Robert Malone substack](https://rwmalonemd.substack.com/p/testimony-in-uk-parliament-show-us%3Futm_source%3Dpost-email-title%26publication_id%3D583200%26post_id%3D139457252%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 Members of Congress in the USA and in Parliaments all over the worlds 
 

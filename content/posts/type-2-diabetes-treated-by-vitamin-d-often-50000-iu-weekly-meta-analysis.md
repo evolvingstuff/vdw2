@@ -80,7 +80,7 @@ This list is automatically updated
 
 ---
 
-##### Study is [reported on by GrassrootsHealth](https://myemail.constantcontact.com/New-Meta-analysis-Shows-Significant-Effect-of-Vitamin-D-on-Regulating-Insulin-Resistance.html?soid=1102722411090&aid=TKmo9YMrfrQ)
+##### Study is [reported on by GrassrootsHealth](https://myemail.constantcontact.com/New-Meta-analysis-Shows-Significant-Effect-of-Vitamin-D-on-Regulating-Insulin-Resistance.html%3Fsoid%3D1102722411090%26aid%3DTKmo9YMrfrQ)
 
 
 
@@ -157,7 +157,7 @@ This list is automatically updated
 
 ---
 
-##### Study is [reported on by GrassrootsHealth](https://myemail.constantcontact.com/New-Meta-analysis-Shows-Significant-Effect-of-Vitamin-D-on-Regulating-Insulin-Resistance.html?soid=1102722411090&amp;aid=TKmo9YMrfrQ)
+##### Study is [reported on by GrassrootsHealth](https://myemail.constantcontact.com/New-Meta-analysis-Shows-Significant-Effect-of-Vitamin-D-on-Regulating-Insulin-Resistance.html%3Fsoid%3D1102722411090%26aid%3DTKmo9YMrfrQ)
 
 
 

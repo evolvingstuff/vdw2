@@ -17,7 +17,7 @@ categories:
 
 #### Covid kills nearly 10,000 in a month as holidays fuel spread, WHO says
 
- **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&utm_medium=email&utm_source=newsletter&wpisrc=nl_the7)** 
+ **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/%3Futm_campaign%3Dwp_the7%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_the7)** 
 
 * "There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month"
 
@@ -29,7 +29,7 @@ categories:
 
 #### CDC projecting that JN.1 will be 60% of COVID by Jan 6, 2024
 
- **[CDC](https://covid.cdc.gov/covid-data-tracker/?utm_source=substack&utm_medium=email#variant-proportions)** 
+ **[CDC](https://covid.cdc.gov/covid-data-tracker/%3Futm_source%3Dsubstack%26utm_medium%3Demail%23variant-proportions)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -55,7 +55,7 @@ Markdown:
 
 #### Covid kills nearly 10,000 in a month as holidays fuel spread, WHO says
 
- **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7)** 
+ **[Washington Post](https://www.washingtonpost.com/health/2024/01/11/covid-deaths-holidays-world-health-organization/%3Futm_campaign%3Dwp_the7%26utm_medium%3Demail%26utm_source%3Dnewsletter%26wpisrc%3Dnl_the7)** 
 
 * &quot;There was a 42% increase in hospitalizations and a 62% increase in ICU admissions from the previous month&quot;
 
@@ -67,7 +67,7 @@ Markdown:
 
 #### CDC projecting that JN.1 will be 60% of COVID by Jan 6, 2024
 
- **[CDC](https://covid.cdc.gov/covid-data-tracker/?utm_source=substack&amp;utm_medium=email#variant-proportions)** 
+ **[CDC](https://covid.cdc.gov/covid-data-tracker/%3Futm_source%3Dsubstack%26utm_medium%3Demail%23variant-proportions)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 

@@ -53,7 +53,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [Preterm birth and low Vitamin D - many studies](/posts/preterm-birth-and-low-vitamin-d-many-studies) 139 as of Dec 2023
 
-Which includes: [Asked Chat-GPT: "What health problems do preemies have as adults?" (Dec 2023)](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Asked_Chat-GPT:_What_health_problems_do_preemies_have_as_adults_Dec_2023_)
+Which includes: [Asked Chat-GPT: "What health problems do preemies have as adults?" (Dec 2023)](https://VitaminDWiki.com/Preterm%2Bbirth%2Band%2Blow%2BVitamin%2BD%2B-%2Bmany%2Bstudies%23Asked_Chat-GPT:_What_health_problems_do_preemies_have_as_adults_Dec_2023_)
 
 <!-- ~tc~ (alias(Preemies have less handgrip strength as adults - Dec 2023)) ~/tc~ -->
 
@@ -105,7 +105,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [Preterm birth and low Vitamin D - many studies](/posts/preterm-birth-and-low-vitamin-d-many-studies) 139 as of Dec 2023
 
-Which includes: [Asked Chat-GPT: &quot;What health problems do preemies have as adults?&quot; (Dec 2023)](https://VitaminDWiki.com/Preterm+birth+and+low+Vitamin+D+-+many+studies#Asked_Chat-GPT:_What_health_problems_do_preemies_have_as_adults_Dec_2023_)
+Which includes: [Asked Chat-GPT: &quot;What health problems do preemies have as adults?&quot; (Dec 2023)](https://VitaminDWiki.com/Preterm%2Bbirth%2Band%2Blow%2BVitamin%2BD%2B-%2Bmany%2Bstudies%23Asked_Chat-GPT:_What_health_problems_do_preemies_have_as_adults_Dec_2023_)
 
 &lt;!-- ~tc~ (alias(Preemies have less handgrip strength as adults - Dec 2023)) ~/tc~ --&gt;
 

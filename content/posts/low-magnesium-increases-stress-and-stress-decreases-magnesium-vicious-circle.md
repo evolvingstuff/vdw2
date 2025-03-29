@@ -49,7 +49,7 @@ Magnesium deficiency and stress are both common conditions among the general pop
 
 #### Study cited 122 times as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=3050576641659435629&as_sdt=5,48&sciodt=0,48&hl=en )** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D3050576641659435629%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den%20)** 
 
 * Magnesium: Biochemistry, Nutrition, Detection, and Social Impact of Diseases Linked to Its Deficiency - March 2021  [https://doi.org/10.3390/nu13041136](https://doi.org/10.3390/nu13041136) FREE PDF
 
@@ -153,7 +153,7 @@ Magnesium deficiency and stress are both common conditions among the general pop
 
 #### Study cited 122 times as of March 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=3050576641659435629&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en )** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D3050576641659435629%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den%20)** 
 
 * Magnesium: Biochemistry, Nutrition, Detection, and Social Impact of Diseases Linked to Its Deficiency - March 2021  [https://doi.org/10.3390/nu13041136](https://doi.org/10.3390/nu13041136) FREE PDF
 

@@ -14,7 +14,7 @@ categories:
 
 #### Analysis supports link between psoriasis and obstructive sleep apnea
 
- **[MD Edge](https://www.mdedge.com/familymedicine/article/266881/sleep-medicine/analysis-supports-link-between-psoriasis-and?ecd=WNL_EVE_231205_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/familymedicine/article/266881/sleep-medicine/analysis-supports-link-between-psoriasis-and%3Fecd%3DWNL_EVE_231205_mdedge)** 
 
 "Patients with psoriasis had a 1.77-fold increased risk of having obstructive sleep apnea"
 
@@ -48,7 +48,7 @@ categories:
 
 * <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Diabetes</a>
 
-* [Psoriasis==> Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668?dopt=Abstract)
+* [Psoriasis==> Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668%3Fdopt%3DAbstract)
 
 * <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013">Celiac Disease ==> Anemia, Psoriasis</a>
 
@@ -68,7 +68,7 @@ Markdown:
 
 #### Analysis supports link between psoriasis and obstructive sleep apnea
 
- **[MD Edge](https://www.mdedge.com/familymedicine/article/266881/sleep-medicine/analysis-supports-link-between-psoriasis-and?ecd=WNL_EVE_231205_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/familymedicine/article/266881/sleep-medicine/analysis-supports-link-between-psoriasis-and%3Fecd%3DWNL_EVE_231205_mdedge)** 
 
 &quot;Patients with psoriasis had a 1.77-fold increased risk of having obstructive sleep apnea&quot;
 
@@ -102,7 +102,7 @@ Markdown:
 
 * &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015&quot;&gt;Psoriasis ==&gt; Diabetes&lt;/a&gt;
 
-* [Psoriasis==&gt; Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668?dopt=Abstract)
+* [Psoriasis==&gt; Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668%3Fdopt%3DAbstract)
 
 * &lt;a href=&quot;/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013&quot;&gt;Celiac Disease ==&gt; Anemia, Psoriasis&lt;/a&gt;
 

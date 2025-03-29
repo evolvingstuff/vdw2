@@ -17,7 +17,7 @@ categories:
 
 ---
 
-#### MDEdge – [BMI ‘vastly underestimates’ true obesity](https://www.mdedge.com/endocrinology/article/263693/obesity/bmi-vastly-underestimates-true-obesity?ecd=WNL_EVE_230619_mdedge)
+#### MDEdge – [BMI ‘vastly underestimates’ true obesity](https://www.mdedge.com/endocrinology/article/263693/obesity/bmi-vastly-underestimates-true-obesity%3Fecd%3DWNL_EVE_230619_mdedge)
 
 #### Chat-GPT comparison of BMI and DEXA
 
@@ -123,7 +123,7 @@ uww, underwater weighing;
 
 #### 100's of body weight scales on Amazon also measure body impedance - as low as $10
 
- **[Amazon](https://www.amazon.com/s?k=weight+scale+with+body+fat+and+muscle&crid=1QXQ3B1R92SII&sprefix=weight+sca%2Caps%2C200&ref=nb_sb_ss_ts-doa-p_5_10)** 
+ **[Amazon](https://www.amazon.com/s%3Fk%3Dweight%2Bscale%2Bwith%2Bbody%2Bfat%2Band%2Bmuscle%26crid%3D1QXQ3B1R92SII%26sprefix%3Dweight%2Bsca%2Caps%2C200%26ref%3Dnb_sb_ss_ts-doa-p_5_10)** 
 
 ---
 
@@ -193,7 +193,7 @@ Markdown:
 
 ---
 
-#### MDEdge – [BMI ‘vastly underestimates’ true obesity](https://www.mdedge.com/endocrinology/article/263693/obesity/bmi-vastly-underestimates-true-obesity?ecd=WNL_EVE_230619_mdedge)
+#### MDEdge – [BMI ‘vastly underestimates’ true obesity](https://www.mdedge.com/endocrinology/article/263693/obesity/bmi-vastly-underestimates-true-obesity%3Fecd%3DWNL_EVE_230619_mdedge)
 
 #### Chat-GPT comparison of BMI and DEXA
 
@@ -299,7 +299,7 @@ uww, underwater weighing;
 
 #### 100&#39;s of body weight scales on Amazon also measure body impedance - as low as $10
 
- **[Amazon](https://www.amazon.com/s?k=weight+scale+with+body+fat+and+muscle&amp;crid=1QXQ3B1R92SII&amp;sprefix=weight+sca%2Caps%2C200&amp;ref=nb_sb_ss_ts-doa-p_5_10)** 
+ **[Amazon](https://www.amazon.com/s%3Fk%3Dweight%2Bscale%2Bwith%2Bbody%2Bfat%2Band%2Bmuscle%26crid%3D1QXQ3B1R92SII%26sprefix%3Dweight%2Bsca%2Caps%2C200%26ref%3Dnb_sb_ss_ts-doa-p_5_10)** 
 
 ---
 

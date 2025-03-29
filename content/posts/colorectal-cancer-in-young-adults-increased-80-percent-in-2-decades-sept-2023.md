@@ -17,7 +17,7 @@ categories:
 
 #### Bowel cancer is rising among young people
 
- **[The Economist](https://www.economist.com/graphic-detail/2023/09/28/bowel-cancer-is-rising-among-young-people?) &nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
+ **[The Economist](https://www.economist.com/graphic-detail/2023/09/28/bowel-cancer-is-rising-among-young-people%3F) &nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="250">  **5 per 100,000** 
 
@@ -51,7 +51,7 @@ Markdown:
 
 #### Bowel cancer is rising among young people
 
- **[The Economist](https://www.economist.com/graphic-detail/2023/09/28/bowel-cancer-is-rising-among-young-people?) &amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
+ **[The Economist](https://www.economist.com/graphic-detail/2023/09/28/bowel-cancer-is-rising-among-young-people%3F) &amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;250&quot;&gt;  **5 per 100,000** 
 

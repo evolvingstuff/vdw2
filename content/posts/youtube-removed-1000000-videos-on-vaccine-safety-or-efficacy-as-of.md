@@ -11,7 +11,7 @@ categories:
 
 
 
-#### [Dr. McCullough](https://petermcculloughmd.substack.com/p/tommy-keightly-and-mscsmedia-crack?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email) Sept 10, 2023
+#### [Dr. McCullough](https://petermcculloughmd.substack.com/p/tommy-keightly-and-mscsmedia-crack%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) Sept 10, 2023
 
 ---
 
@@ -21,7 +21,7 @@ categories:
 
 * From this point onward, any content that contradicts or diverges from the WHO's official health guidance may be deemed "harmful content" in violation of Youtube's "Community Guidelines" and will now be subject to censorship or removal. 
 
-* In a post titled, " **[A long term vision for YouTube's medical misinformation policies](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/?linkId=8954528)** ," Youtube shared its "thinking about the future of medical misinformation policies, including removing cancer misinformation."
+* In a post titled, " **[A long term vision for YouTube's medical misinformation policies](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/%3FlinkId%3D8954528)** ," Youtube shared its "thinking about the future of medical misinformation policies, including removing cancer misinformation."
 
  **Their vaccine-specific guidance includes censorship of any of the following topics:** 
 
@@ -86,7 +86,7 @@ This list is automatically updated
 Markdown:
 --------
 
-#### [Dr. McCullough](https://petermcculloughmd.substack.com/p/tommy-keightly-and-mscsmedia-crack?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email) Sept 10, 2023
+#### [Dr. McCullough](https://petermcculloughmd.substack.com/p/tommy-keightly-and-mscsmedia-crack%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail) Sept 10, 2023
 
 ---
 
@@ -96,7 +96,7 @@ Markdown:
 
 * From this point onward, any content that contradicts or diverges from the WHO&#39;s official health guidance may be deemed &quot;harmful content&quot; in violation of Youtube&#39;s &quot;Community Guidelines&quot; and will now be subject to censorship or removal. 
 
-* In a post titled, &quot; **[A long term vision for YouTube&#39;s medical misinformation policies](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/?linkId=8954528)** ,&quot; Youtube shared its &quot;thinking about the future of medical misinformation policies, including removing cancer misinformation.&quot;
+* In a post titled, &quot; **[A long term vision for YouTube&#39;s medical misinformation policies](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/%3FlinkId%3D8954528)** ,&quot; Youtube shared its &quot;thinking about the future of medical misinformation policies, including removing cancer misinformation.&quot;
 
  **Their vaccine-specific guidance includes censorship of any of the following topics:** 
 

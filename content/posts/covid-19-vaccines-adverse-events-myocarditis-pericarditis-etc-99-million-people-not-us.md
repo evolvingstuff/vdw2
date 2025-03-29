@@ -61,7 +61,7 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 ##### Dr. talked with authors then made video: study did not look at long-COVID problems
 
- **[Drbeen](https://www.youtube.com/watch?v=K0Abk5q_z_c&t=22s&ab_channel=DrbeenMedicalLectures) 39 minutes** 
+ **[Drbeen](https://www.youtube.com/watch%3Fv%3DK0Abk5q_z_c%26t%3D22s%26ab_channel%3DDrbeenMedicalLectures) 39 minutes** 
 
 ---
 
@@ -136,7 +136,7 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 ##### Dr. talked with authors then made video: study did not look at long-COVID problems
 
- **[Drbeen](https://www.youtube.com/watch?v=K0Abk5q_z_c&amp;t=22s&amp;ab_channel=DrbeenMedicalLectures) 39 minutes** 
+ **[Drbeen](https://www.youtube.com/watch%3Fv%3DK0Abk5q_z_c%26t%3D22s%26ab_channel%3DDrbeenMedicalLectures) 39 minutes** 
 
 ---
 

@@ -19,7 +19,7 @@ categories:
 
 #### BREAKING - Infant Mortality Concern Emerges with Nirsevimab RSV Monoclonal Antibody Given to Newborns  - Dec 2023
 
- **[Dr. McCullough Substack](https://petermcculloughmd.substack.com/p/breaking-infant-mortality-concern?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
+ **[Dr. McCullough Substack](https://petermcculloughmd.substack.com/p/breaking-infant-mortality-concern%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * Annual risk of RSV hospitalization is well under 1%.
 
@@ -41,7 +41,7 @@ Note:  Most of the vaccinations were given later, so deaths would not show up on
 
 #### French Researchers Identify ‘Improbably High Rate of Deaths’ in Newborns Who Received New RSV Shot - Jan 2024
 
- **[CHD](https://childrenshealthdefense.org/defender/newborns-rsv-shot-beyfortus-death-rate-france/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20240102)** 
+ **[CHD](https://childrenshealthdefense.org/defender/newborns-rsv-shot-beyfortus-death-rate-france/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240102)** 
 
 * "According to Banoun, “The French government is recommending that Beyfortus be injected into newborns before they leave the maternity ward, from Sept. 15, 2023, even though the product has not been tested on this age group,” Banoun said."
 
@@ -57,7 +57,7 @@ Note:  Most of the vaccinations were given later, so deaths would not show up on
 
 *  **Target**  Young infants represent the main target population because the peak of severe RSV disease occurs in the first 2–3 months of life.
 
-* As of Dec 9, 2023, 17.0% of adults 60 years and older reported having received an RSV vaccine. [CDC](https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/index.html#:~:text=Estimates%20of%20vaccination%20coverage%20are,definitely%20plan%20to%20get%20vaccinated.)
+* As of Dec 9, 2023, 17.0% of adults 60 years and older reported having received an RSV vaccine. [CDC](https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/index.html%23:~:text%3DEstimates%20of%20vaccination%20coverage%20are%2Cdefinitely%20plan%20to%20get%20vaccinated.)
 
 * $200 cost of vaccine in the US is typically paid by insurance and Medicare
 
@@ -94,7 +94,7 @@ Markdown:
 
 #### BREAKING - Infant Mortality Concern Emerges with Nirsevimab RSV Monoclonal Antibody Given to Newborns  - Dec 2023
 
- **[Dr. McCullough Substack](https://petermcculloughmd.substack.com/p/breaking-infant-mortality-concern?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
+ **[Dr. McCullough Substack](https://petermcculloughmd.substack.com/p/breaking-infant-mortality-concern%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * Annual risk of RSV hospitalization is well under 1%.
 
@@ -116,7 +116,7 @@ Note:  Most of the vaccinations were given later, so deaths would not show up on
 
 #### French Researchers Identify ‘Improbably High Rate of Deaths’ in Newborns Who Received New RSV Shot - Jan 2024
 
- **[CHD](https://childrenshealthdefense.org/defender/newborns-rsv-shot-beyfortus-death-rate-france/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20240102)** 
+ **[CHD](https://childrenshealthdefense.org/defender/newborns-rsv-shot-beyfortus-death-rate-france/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240102)** 
 
 * &quot;According to Banoun, “The French government is recommending that Beyfortus be injected into newborns before they leave the maternity ward, from Sept. 15, 2023, even though the product has not been tested on this age group,” Banoun said.&quot;
 
@@ -132,7 +132,7 @@ Note:  Most of the vaccinations were given later, so deaths would not show up on
 
 *  **Target**  Young infants represent the main target population because the peak of severe RSV disease occurs in the first 2–3 months of life.
 
-* As of Dec 9, 2023, 17.0% of adults 60 years and older reported having received an RSV vaccine. [CDC](https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/index.html#:~:text=Estimates%20of%20vaccination%20coverage%20are,definitely%20plan%20to%20get%20vaccinated.)
+* As of Dec 9, 2023, 17.0% of adults 60 years and older reported having received an RSV vaccine. [CDC](https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/index.html%23:~:text%3DEstimates%20of%20vaccination%20coverage%20are%2Cdefinitely%20plan%20to%20get%20vaccinated.)
 
 * $200 cost of vaccine in the US is typically paid by insurance and Medicare
 

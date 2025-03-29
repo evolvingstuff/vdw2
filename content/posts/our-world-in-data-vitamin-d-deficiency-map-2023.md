@@ -14,7 +14,7 @@ categories:
 
  **?? < 20 ng ??** 
 
-[Vitamin D Fortification  - 2024 book chapter](https://books.google.com/books?id=9-cEEQAAQBAJ&newbks=0&printsec=frontcover&pg=PA57&dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&hl=en&source=newbks_fb#v=onepage&q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&f=true)
+[Vitamin D Fortification  - 2024 book chapter](https://books.google.com/books%3Fid%3D9-cEEQAAQBAJ%26newbks%3D0%26printsec%3Dfrontcover%26pg%3DPA57%26dq%3D%2B%22Vitamin%2BD%22%2BOR%2B%22Vitamin%2BD3%22%2BOR%2Bcholecalciferol%26hl%3Den%26source%3Dnewbks_fb%23v%3Donepage%26q%3D%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol%26f%3Dtrue)
 
 ---
 
@@ -30,7 +30,7 @@ Markdown:
 
  **?? &lt; 20 ng ??** 
 
-[Vitamin D Fortification  - 2024 book chapter](https://books.google.com/books?id=9-cEEQAAQBAJ&amp;newbks=0&amp;printsec=frontcover&amp;pg=PA57&amp;dq=+%22Vitamin+D%22+OR+%22Vitamin+D3%22+OR+cholecalciferol&amp;hl=en&amp;source=newbks_fb#v=onepage&amp;q=%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol&amp;f=true)
+[Vitamin D Fortification  - 2024 book chapter](https://books.google.com/books%3Fid%3D9-cEEQAAQBAJ%26newbks%3D0%26printsec%3Dfrontcover%26pg%3DPA57%26dq%3D%2B%22Vitamin%2BD%22%2BOR%2B%22Vitamin%2BD3%22%2BOR%2Bcholecalciferol%26hl%3Den%26source%3Dnewbks_fb%23v%3Donepage%26q%3D%22Vitamin%20D%22%20OR%20%22Vitamin%20D3%22%20OR%20cholecalciferol%26f%3Dtrue)
 
 ---
 

@@ -126,7 +126,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### 7,700 studies resulted from a query for: ("high fructose" OR HFCS) "vitamin d" as of Dec 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%28%22high+fructose%22+OR+HFCS%29+%22vitamin+d%22&btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%28%22high%2Bfructose%22%2BOR%2BHFCS%29%2B%22vitamin%2Bd%22%26btnG%3D)** 
 
 * Cholecalciferol Prevent Obesity in Rats Under High Fat High Fructose Diet - Jan 2023 [FREE PDF](https://doi.org/10.37287/picnhs.v4i1.1682)
 
@@ -136,7 +136,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### HFCS is banned in much of Europe, including Sweden (Dec 2023) (not confirmed)
 
- **[SugarJoy](https://www.sugarjoy.com/pages/hfcs-gmos-and-trans-fats#:~:text=Because%20of%20its%20low%20cost,the%20quality%20of%20our%20products.)** 
+ **[SugarJoy](https://www.sugarjoy.com/pages/hfcs-gmos-and-trans-fats%23:~:text%3DBecause%20of%20its%20low%20cost%2Cthe%20quality%20of%20our%20products.)** 
 
 ---
 
@@ -371,7 +371,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### 7,700 studies resulted from a query for: (&quot;high fructose&quot; OR HFCS) &quot;vitamin d&quot; as of Dec 2023
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28%22high+fructose%22+OR+HFCS%29+%22vitamin+d%22&amp;btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%28%22high%2Bfructose%22%2BOR%2BHFCS%29%2B%22vitamin%2Bd%22%26btnG%3D)** 
 
 * Cholecalciferol Prevent Obesity in Rats Under High Fat High Fructose Diet - Jan 2023 [FREE PDF](https://doi.org/10.37287/picnhs.v4i1.1682)
 
@@ -381,7 +381,7 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### HFCS is banned in much of Europe, including Sweden (Dec 2023) (not confirmed)
 
- **[SugarJoy](https://www.sugarjoy.com/pages/hfcs-gmos-and-trans-fats#:~:text=Because%20of%20its%20low%20cost,the%20quality%20of%20our%20products.)** 
+ **[SugarJoy](https://www.sugarjoy.com/pages/hfcs-gmos-and-trans-fats%23:~:text%3DBecause%20of%20its%20low%20cost%2Cthe%20quality%20of%20our%20products.)** 
 
 ---
 

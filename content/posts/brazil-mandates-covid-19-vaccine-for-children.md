@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### [Brazil mandates COVID-19 vaccine for children](https://frontline.news/post/brazil-mandates-covid-19-vaccine-for-children?utm_source=substack&utm_medium=email)
+#### [Brazil mandates COVID-19 vaccine for children](https://frontline.news/post/brazil-mandates-covid-19-vaccine-for-children%3Futm_source%3Dsubstack%26utm_medium%3Demail)
 
 Ages 0.5 to 6
 
@@ -54,7 +54,7 @@ Markdown:
 
 ---
 
-#### [Brazil mandates COVID-19 vaccine for children](https://frontline.news/post/brazil-mandates-covid-19-vaccine-for-children?utm_source=substack&amp;utm_medium=email)
+#### [Brazil mandates COVID-19 vaccine for children](https://frontline.news/post/brazil-mandates-covid-19-vaccine-for-children%3Futm_source%3Dsubstack%26utm_medium%3Demail)
 
 Ages 0.5 to 6
 

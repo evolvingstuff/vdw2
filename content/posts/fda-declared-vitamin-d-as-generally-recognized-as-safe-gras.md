@@ -13,7 +13,7 @@ categories:
 
 #### Food Additives Permitted for Direct Addition to Food for Human Consumption; <span style="color:orange;">Vitamin D3</span>
 
- **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3#:~:text=To%20ensure%20that%20vitamin%20D,184.1950%20(21%20CFR%20184.1950).)** 
+ **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3%23:~:text%3DTo%20ensure%20that%20vitamin%20D%2C184.1950%20(21%20CFR%20184.1950).)** 
 
 * "To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation."
 
@@ -42,7 +42,7 @@ Markdown:
 
 #### Food Additives Permitted for Direct Addition to Food for Human Consumption; &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D3&lt;/span&gt;
 
- **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3#:~:text=To%20ensure%20that%20vitamin%20D,184.1950%20(21%20CFR%20184.1950).)** 
+ **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3%23:~:text%3DTo%20ensure%20that%20vitamin%20D%2C184.1950%20(21%20CFR%20184.1950).)** 
 
 * &quot;To ensure that vitamin D is not added to the U.S. food supply at levels that could raise safety concerns, FDA affirmed vitamin D as generally recognized as safe (GRAS) with specific limitations as listed in § 184.1950 (21 CFR 184.1950). Under § 184.1(b)(2) (21 CFR 184.1(b)(2)), an ingredient affirmed as GRAS with specific limitations may be used in food only within such limitations, including the category of food, functional use of the ingredient, and level of use. Any addition of vitamin D to food beyond those limitations set out in § 184.1950 requires a food additive regulation.&quot;
 

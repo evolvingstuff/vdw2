@@ -13,7 +13,7 @@ categories:
 
 A few times a year a tiny portion of my back would seize up making movement and walking  painful
 
-In April 2022 I purchased a  [$32 TENS machine from Amazon](https://www.amazon.com/gp/product/B00NCRE4GO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+In April 2022 I purchased a  [$32 TENS machine from Amazon](https://www.amazon.com/gp/product/B00NCRE4GO/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26psc%3D1)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -43,7 +43,7 @@ It has lots of options - but I only used the defaults on level 3 intensity out o
 
 ---
 
-In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/pain/fda-oks-spinal-cord-stimulation-devices-chronic-back-pain?ecd=WNL_EVE_230521_mdedge) approved implant nerve stimulation to relieve chronic long-term backpain 
+In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/pain/fda-oks-spinal-cord-stimulation-devices-chronic-back-pain%3Fecd%3DWNL_EVE_230521_mdedge) approved implant nerve stimulation to relieve chronic long-term backpain 
 
 <!-- ~tc~ (alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) ~/tc~ -->
 
@@ -56,7 +56,7 @@ Markdown:
 --------
 A few times a year a tiny portion of my back would seize up making movement and walking  painful
 
-In April 2022 I purchased a  [$32 TENS machine from Amazon](https://www.amazon.com/gp/product/B00NCRE4GO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1)
+In April 2022 I purchased a  [$32 TENS machine from Amazon](https://www.amazon.com/gp/product/B00NCRE4GO/ref%3Dppx_yo_dt_b_search_asin_title%3Fie%3DUTF8%26psc%3D1)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -86,7 +86,7 @@ It has lots of options - but I only used the defaults on level 3 intensity out o
 
 ---
 
-In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/pain/fda-oks-spinal-cord-stimulation-devices-chronic-back-pain?ecd=WNL_EVE_230521_mdedge) approved implant nerve stimulation to relieve chronic long-term backpain 
+In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/pain/fda-oks-spinal-cord-stimulation-devices-chronic-back-pain%3Fecd%3DWNL_EVE_230521_mdedge) approved implant nerve stimulation to relieve chronic long-term backpain 
 
 &lt;!-- ~tc~ (alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) ~/tc~ --&gt;
 

@@ -18,75 +18,75 @@ categories:
 
 #### Using Light (Sunlight, Blue Light & Red Light) to Optimize Health
 
- **[YouTube 160 minutes](https://www.youtube.com/watch?v=UF0nqolsNZc)** 
+ **[YouTube 160 minutes](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc)** 
 
 ---
 
 ##### Jump to portions of the video
 
-* [00:00:00](https://www.youtube.com/watch?v=UF0nqolsNZc&t=0s) Using Light to Improve Health
+* [00:00:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D0s) Using Light to Improve Health
 
-* [00:04:31](https://www.youtube.com/watch?v=UF0nqolsNZc&t=271s) The Brain-Body Contract
+* [00:04:31](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D271s) The Brain-Body Contract
 
-* [00:05:17](https://www.youtube.com/watch?v=UF0nqolsNZc&t=317s) AG1 (Athletic Greens), Thesis, LMNT
+* [00:05:17](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D317s) AG1 (Athletic Greens), Thesis, LMNT
 
-* [00:09:56](https://www.youtube.com/watch?v=UF0nqolsNZc&t=596s) Physics of Light, Electromagnetic Energy
+* [00:09:56](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D596s) Physics of Light, Electromagnetic Energy
 
-* [00:12:23](https://www.youtube.com/watch?v=UF0nqolsNZc&t=743s) Wavelengths of Light
+* [00:12:23](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D743s) Wavelengths of Light
 
-* [00:15:38](https://www.youtube.com/watch?v=UF0nqolsNZc&t=938s) How Light Penetrates Tissues
+* [00:15:38](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D938s) How Light Penetrates Tissues
 
-* [00:20:](https://www.youtube.com/watch?v=UF0nqolsNZc&t=1213s)[1](https://www.youtube.com/watch?v=UF0nqolsNZc&t=1213s)[3](https://www.youtube.com/watch?v=UF0nqolsNZc&t=1213s) Light & the Body: Direct & Indirect Signals
+* [00:20:](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s)[1](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s)[3](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s) Light & the Body: Direct & Indirect Signals
 
-* [00:28:35](https://www.youtube.com/watch?v=UF0nqolsNZc&t=1715s) Light, Seasonality & Melatonin
+* [00:28:35](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1715s) Light, Seasonality & Melatonin
 
-* [00:33:40](https://www.youtube.com/watch?v=UF0nqolsNZc&t=2020s) Melatonin: Regulatory & Protective Effects
+* [00:33:40](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2020s) Melatonin: Regulatory & Protective Effects
 
-* [00:38:49](https://www.youtube.com/watch?v=UF0nqolsNZc&t=2329s) Tools: Optimizing Melatonin Levels
+* [00:38:49](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2329s) Tools: Optimizing Melatonin Levels
 
-* [00:44:49](https://www.youtube.com/watch?v=UF0nqolsNZc&t=2689s) Sun (UVB light) Exposure, Mating Behavior, Testosterone & Estrogen
+* [00:44:49](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2689s) Sun (UVB light) Exposure, Mating Behavior, Testosterone & Estrogen
 
-* [00:58:09](https://www.youtube.com/watch?v=UF0nqolsNZc&t=3489s) Seasonality, Romantic Passion & Testosterone
+* [00:58:09](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3489s) Seasonality, Romantic Passion & Testosterone
 
-* [01:02:13](https://www.youtube.com/watch?v=UF0nqolsNZc&t=3733s) Tool: Skin Sun Exposure & Testosterone
+* [01:02:13](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3733s) Tool: Skin Sun Exposure & Testosterone
 
-* [01:06:13](https://www.youtube.com/watch?v=UF0nqolsNZc&t=3973s) Light & Improved Pain Tolerance
+* [01:06:13](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3973s) Light & Improved Pain Tolerance
 
-* [01:11:55](https://www.youtube.com/watch?v=UF0nqolsNZc&t=4315s) Protocol: Sun Exposure & Chronic Pain
+* [01:11:55](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4315s) Protocol: Sun Exposure & Chronic Pain
 
-* [01:12:48](https://www.youtube.com/watch?v=UF0nqolsNZc&t=4368s) Tools: Sunlight (UVB), Blue-Light Blockers, Seasonal Affective Disorder (SAD)
+* [01:12:48](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4368s) Tools: Sunlight (UVB), Blue-Light Blockers, Seasonal Affective Disorder (SAD)
 
-* [01:19:44](https://www.youtube.com/watch?v=UF0nqolsNZc&t=4784s) Light & Enhanced Immune Function
+* [01:19:44](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4784s) Light & Enhanced Immune Function
 
-* [01:23:30](https://www.youtube.com/watch?v=UF0nqolsNZc&t=5010s) Tool: Light During Winter Months
+* [01:23:30](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5010s) Tool: Light During Winter Months
 
-* [01:26:18](https://www.youtube.com/watch?v=UF0nqolsNZc&t=5178s) Light Therapies: Local vs. Systemic Exposure
+* [01:26:18](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5178s) Light Therapies: Local vs. Systemic Exposure
 
-* [01:28:54](https://www.youtube.com/watch?v=UF0nqolsNZc&t=5334s) Tool: Improving Mood, Timing of Natural & Artificial Light
+* [01:28:54](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5334s) Tool: Improving Mood, Timing of Natural & Artificial Light
 
-* [01:32:44](https://www.youtube.com/watch?v=UF0nqolsNZc&t=5564s) Light Conditions & Sleep Optimization
+* [01:32:44](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5564s) Light Conditions & Sleep Optimization
 
-* [01:39:00](https://www.youtube.com/watch?v=UF0nqolsNZc&t=5940s) Infrared Light, Skin & Wound Healing
+* [01:39:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5940s) Infrared Light, Skin & Wound Healing
 
-* [01:46:00](https://www.youtube.com/watch?v=UF0nqolsNZc&t=6360s) Infrared Light Therapy & Skin, Low-Level Laser (Light) Therapy (LLLT)
+* [01:46:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D6360s) Infrared Light Therapy & Skin, Low-Level Laser (Light) Therapy (LLLT)
 
-* [01:49:20](https://www.youtube.com/watch?v=UF0nqolsNZc&t=6560s) Infrared Light & Age-Related Vision Loss
+* [01:49:20](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D6560s) Infrared Light & Age-Related Vision Loss
 
-* [01:59:36](https://www.youtube.com/watch?v=UF0nqolsNZc&t=7176s) Tools: Infrared Panels, Morning Exposure
+* [01:59:36](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7176s) Tools: Infrared Panels, Morning Exposure
 
-* [02:05:22](https://www.youtube.com/watch?v=UF0nqolsNZc&t=7522s) Infrared Light at Night, Shift Work
+* [02:05:22](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7522s) Infrared Light at Night, Shift Work
 
-* [02:08:35](https://www.youtube.com/watch?v=UF0nqolsNZc&t=7715s) Light Flicker Phototherapy & Neuroprotection
+* [02:08:35](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7715s) Light Flicker Phototherapy & Neuroprotection
 
-* [02:19:07](https://www.youtube.com/watch?v=UF0nqolsNZc&t=8347s) Phototherapies for Health
+* [02:19:07](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D8347s) Phototherapies for Health
 
-* [02:20:50](https://www.youtube.com/watch?v=UF0nqolsNZc&t=8450s) Zero-Cost Support, YouTube Feedback, Spotify Reviews, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter, Brain-Body Contract
+* [02:20:50](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D8450s) Zero-Cost Support, YouTube Feedback, Spotify Reviews, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter, Brain-Body Contract
 
 ---
 
 ##### Articles referenced
 
-* [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2211124721010135?showall=true) (Cell Reports)
+* [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S2211124721010135%3Fshowall%3Dtrue) (Cell Reports)
 
 * [Skin Exposure to Ultraviolet B Rapidly Activates Systemic Neuroendocrine and Immunosuppressive Response](https://onlinelibrary.wiley.com/doi/10.1111/php.12642) (Photochemistry and Photobiology)
 
@@ -98,11 +98,11 @@ categories:
 
 * [Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring](https://www.scmsjournal.com/article/abstract/low-level-laser-light-therapy-lllt-in-skin-stimulating-healing-restoring/) (Seminars in Cutaneous Medicine and Surgery)
 
-* [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1#citeas) (Scientific Reports)
+* [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1%23citeas) (Scientific Reports)
 
-* [Red light: A novel, non-pharmacological intervention to promote alertness in shift workers](https://www.sciencedirect.com/science/article/abs/pii/S0022437520300694?via=ihub) (Journal of Safety Research)
+* [Red light: A novel, non-pharmacological intervention to promote alertness in shift workers](https://www.sciencedirect.com/science/article/abs/pii/S0022437520300694%3Fvia%3Dihub) (Journal of Safety Research)
 
-* [Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0896627319303460?showall=true) (Neuron)
+* [Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S0896627319303460%3Fshowall%3Dtrue) (Neuron)
 
 ---
 
@@ -157,75 +157,75 @@ Markdown:
 
 #### Using Light (Sunlight, Blue Light &amp; Red Light) to Optimize Health
 
- **[YouTube 160 minutes](https://www.youtube.com/watch?v=UF0nqolsNZc)** 
+ **[YouTube 160 minutes](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc)** 
 
 ---
 
 ##### Jump to portions of the video
 
-* [00:00:00](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=0s) Using Light to Improve Health
+* [00:00:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D0s) Using Light to Improve Health
 
-* [00:04:31](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=271s) The Brain-Body Contract
+* [00:04:31](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D271s) The Brain-Body Contract
 
-* [00:05:17](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=317s) AG1 (Athletic Greens), Thesis, LMNT
+* [00:05:17](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D317s) AG1 (Athletic Greens), Thesis, LMNT
 
-* [00:09:56](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=596s) Physics of Light, Electromagnetic Energy
+* [00:09:56](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D596s) Physics of Light, Electromagnetic Energy
 
-* [00:12:23](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=743s) Wavelengths of Light
+* [00:12:23](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D743s) Wavelengths of Light
 
-* [00:15:38](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=938s) How Light Penetrates Tissues
+* [00:15:38](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D938s) How Light Penetrates Tissues
 
-* [00:20:](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=1213s)[1](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=1213s)[3](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=1213s) Light &amp; the Body: Direct &amp; Indirect Signals
+* [00:20:](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s)[1](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s)[3](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1213s) Light &amp; the Body: Direct &amp; Indirect Signals
 
-* [00:28:35](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=1715s) Light, Seasonality &amp; Melatonin
+* [00:28:35](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D1715s) Light, Seasonality &amp; Melatonin
 
-* [00:33:40](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=2020s) Melatonin: Regulatory &amp; Protective Effects
+* [00:33:40](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2020s) Melatonin: Regulatory &amp; Protective Effects
 
-* [00:38:49](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=2329s) Tools: Optimizing Melatonin Levels
+* [00:38:49](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2329s) Tools: Optimizing Melatonin Levels
 
-* [00:44:49](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=2689s) Sun (UVB light) Exposure, Mating Behavior, Testosterone &amp; Estrogen
+* [00:44:49](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D2689s) Sun (UVB light) Exposure, Mating Behavior, Testosterone &amp; Estrogen
 
-* [00:58:09](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=3489s) Seasonality, Romantic Passion &amp; Testosterone
+* [00:58:09](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3489s) Seasonality, Romantic Passion &amp; Testosterone
 
-* [01:02:13](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=3733s) Tool: Skin Sun Exposure &amp; Testosterone
+* [01:02:13](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3733s) Tool: Skin Sun Exposure &amp; Testosterone
 
-* [01:06:13](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=3973s) Light &amp; Improved Pain Tolerance
+* [01:06:13](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D3973s) Light &amp; Improved Pain Tolerance
 
-* [01:11:55](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=4315s) Protocol: Sun Exposure &amp; Chronic Pain
+* [01:11:55](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4315s) Protocol: Sun Exposure &amp; Chronic Pain
 
-* [01:12:48](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=4368s) Tools: Sunlight (UVB), Blue-Light Blockers, Seasonal Affective Disorder (SAD)
+* [01:12:48](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4368s) Tools: Sunlight (UVB), Blue-Light Blockers, Seasonal Affective Disorder (SAD)
 
-* [01:19:44](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=4784s) Light &amp; Enhanced Immune Function
+* [01:19:44](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D4784s) Light &amp; Enhanced Immune Function
 
-* [01:23:30](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=5010s) Tool: Light During Winter Months
+* [01:23:30](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5010s) Tool: Light During Winter Months
 
-* [01:26:18](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=5178s) Light Therapies: Local vs. Systemic Exposure
+* [01:26:18](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5178s) Light Therapies: Local vs. Systemic Exposure
 
-* [01:28:54](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=5334s) Tool: Improving Mood, Timing of Natural &amp; Artificial Light
+* [01:28:54](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5334s) Tool: Improving Mood, Timing of Natural &amp; Artificial Light
 
-* [01:32:44](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=5564s) Light Conditions &amp; Sleep Optimization
+* [01:32:44](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5564s) Light Conditions &amp; Sleep Optimization
 
-* [01:39:00](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=5940s) Infrared Light, Skin &amp; Wound Healing
+* [01:39:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D5940s) Infrared Light, Skin &amp; Wound Healing
 
-* [01:46:00](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=6360s) Infrared Light Therapy &amp; Skin, Low-Level Laser (Light) Therapy (LLLT)
+* [01:46:00](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D6360s) Infrared Light Therapy &amp; Skin, Low-Level Laser (Light) Therapy (LLLT)
 
-* [01:49:20](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=6560s) Infrared Light &amp; Age-Related Vision Loss
+* [01:49:20](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D6560s) Infrared Light &amp; Age-Related Vision Loss
 
-* [01:59:36](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=7176s) Tools: Infrared Panels, Morning Exposure
+* [01:59:36](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7176s) Tools: Infrared Panels, Morning Exposure
 
-* [02:05:22](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=7522s) Infrared Light at Night, Shift Work
+* [02:05:22](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7522s) Infrared Light at Night, Shift Work
 
-* [02:08:35](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=7715s) Light Flicker Phototherapy &amp; Neuroprotection
+* [02:08:35](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D7715s) Light Flicker Phototherapy &amp; Neuroprotection
 
-* [02:19:07](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=8347s) Phototherapies for Health
+* [02:19:07](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D8347s) Phototherapies for Health
 
-* [02:20:50](https://www.youtube.com/watch?v=UF0nqolsNZc&amp;t=8450s) Zero-Cost Support, YouTube Feedback, Spotify Reviews, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter, Brain-Body Contract
+* [02:20:50](https://www.youtube.com/watch%3Fv%3DUF0nqolsNZc%26t%3D8450s) Zero-Cost Support, YouTube Feedback, Spotify Reviews, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter, Brain-Body Contract
 
 ---
 
 ##### Articles referenced
 
-* [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2211124721010135?showall=true) (Cell Reports)
+* [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S2211124721010135%3Fshowall%3Dtrue) (Cell Reports)
 
 * [Skin Exposure to Ultraviolet B Rapidly Activates Systemic Neuroendocrine and Immunosuppressive Response](https://onlinelibrary.wiley.com/doi/10.1111/php.12642) (Photochemistry and Photobiology)
 
@@ -237,11 +237,11 @@ Markdown:
 
 * [Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring](https://www.scmsjournal.com/article/abstract/low-level-laser-light-therapy-lllt-in-skin-stimulating-healing-restoring/) (Seminars in Cutaneous Medicine and Surgery)
 
-* [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1#citeas) (Scientific Reports)
+* [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1%23citeas) (Scientific Reports)
 
-* [Red light: A novel, non-pharmacological intervention to promote alertness in shift workers](https://www.sciencedirect.com/science/article/abs/pii/S0022437520300694?via=ihub) (Journal of Safety Research)
+* [Red light: A novel, non-pharmacological intervention to promote alertness in shift workers](https://www.sciencedirect.com/science/article/abs/pii/S0022437520300694%3Fvia%3Dihub) (Journal of Safety Research)
 
-* [Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0896627319303460?showall=true) (Neuron)
+* [Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S0896627319303460%3Fshowall%3Dtrue) (Neuron)
 
 ---
 

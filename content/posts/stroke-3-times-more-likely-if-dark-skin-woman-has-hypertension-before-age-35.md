@@ -19,7 +19,7 @@ categories:
 
 #### Hypertension Before 35 Tied to Triple Stroke Risk in Midlife
 
- **From: [MD Edge](https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge)** 
+ **From: [MD Edge](https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife%3Fecd%3DWNL_EVE_240202_mdedge)** 
 
 Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.
 
@@ -93,7 +93,7 @@ Markdown:
 
 #### Hypertension Before 35 Tied to Triple Stroke Risk in Midlife
 
- **From: [MD Edge](https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife?ecd=WNL_EVE_240202_mdedge)** 
+ **From: [MD Edge](https://www.mdedge.com/cardiology/article/267662/hypertension/hypertension-35-tied-triple-stroke-risk-midlife%3Fecd%3DWNL_EVE_240202_mdedge)** 
 
 Black women who develop high blood pressure before age 35 have a threefold increased risk of having a midlife stroke, new observational data suggested.
 

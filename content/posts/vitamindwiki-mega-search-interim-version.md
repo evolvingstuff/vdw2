@@ -64,9 +64,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * Snippits / / / / / / / / / /
 
-* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
+* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits%2Bof%2BVitaminDWiki%23Vitamin_D_meta-analyses_of_Virus_37_studies)
 
-* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
+* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits%2Bof%2BVitaminDWiki%23VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
 
 * Left Column / / / / / / / / 
 
@@ -206,11 +206,11 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
 
-* [Anesthesia ==> Cog](/tiki-index.php?page_id=10105) cognitive 
+* [Anesthesia ==> Cog](/tiki-index.php%3Fpage_id%3D10105) cognitive 
 
-* [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
+* [Brain](/tiki-index.php%3Fpage_id%3D14019) (94+) cognitive 
 
-* [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
+* [Delirium](/tiki-index.php%3Fpage_id%3D14250) (9+) cognitive 
 
 * <span>[tiki-index.php?page_id=9810]</span> (50+) cognitive 
 
@@ -230,7 +230,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Depression](/categories/depression) (254+)
 
-* [Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://VitaminDWiki.com/Depression%23Anxiety_studies) ( 11+) 
 
 * <span>[tiki-index.php?page_id=7681]</span> (29) depression
 
@@ -272,9 +272,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
-* [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
+* [Erectile Dysfunction](/tiki-index.php%3Fpage_id%3D5686) (12+)
 
-* [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
+* [In Vitro Fertilization](/tiki-index.php%3Fpage_id%3D3277) (18+) IVF
 
 * <span>[tiki-index.php?page_id=383]</span> 
 
@@ -470,7 +470,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=14350]</span> (49+) 
 
-* [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
+* [In Vitro Fert.](/tiki-index.php%3Fpage_id%3D3277) (18+)
 
 * <span>[tiki-index.php?page_id=8202]</span> (21+) 
 
@@ -870,11 +870,11 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * <a href="/posts/top-charts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Top Charts">Top Charts</a> ~20 most popular charts in VitaminDWiki
 
-* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch%23Quickly_find_chart_image_with_Google)
 
 * <a href="/posts/variety-of-evidence-that-vitamin-d-helps-the-brain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014">Variety of evidence that Vitamin D helps the brain – July 2014</a> charts
 
-* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch%23Quickly_find_chart_image_with_Google)
 
 * <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> i.e. Diabetes increases the risk of 10 diseases
 
@@ -3886,9 +3886,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * Snippits / / / / / / / / / /
 
-* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#Vitamin_D_meta-analyses_of_Virus_37_studies)
+* [Vitamin D meta-analyses of Virus 37+ studies](https://VitaminDWiki.com/Snippits%2Bof%2BVitaminDWiki%23Vitamin_D_meta-analyses_of_Virus_37_studies)
 
-* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits+of+VitaminDWiki#VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
+* [VitaminDWiki – COVID-19 treated by Vitamin D - studies, reports, videos](https://VitaminDWiki.com/Snippits%2Bof%2BVitaminDWiki%23VitaminDWiki_COVID-19_treated_by_Vitamin_D_-_studies_reports_videos)
 
 * Left Column / / / / / / / / 
 
@@ -4028,11 +4028,11 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt;
 
-* [Anesthesia ==&gt; Cog](/tiki-index.php?page_id=10105) cognitive 
+* [Anesthesia ==&gt; Cog](/tiki-index.php%3Fpage_id%3D10105) cognitive 
 
-* [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
+* [Brain](/tiki-index.php%3Fpage_id%3D14019) (94+) cognitive 
 
-* [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
+* [Delirium](/tiki-index.php%3Fpage_id%3D14250) (9+) cognitive 
 
 * &lt;span&gt;[tiki-index.php?page_id=9810]&lt;/span&gt; (50+) cognitive 
 
@@ -4052,7 +4052,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Depression](/categories/depression) (254+)
 
-* [Anxiety](https://VitaminDWiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://VitaminDWiki.com/Depression%23Anxiety_studies) ( 11+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=7681]&lt;/span&gt; (29) depression
 
@@ -4094,9 +4094,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
-* [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
+* [Erectile Dysfunction](/tiki-index.php%3Fpage_id%3D5686) (12+)
 
-* [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
+* [In Vitro Fertilization](/tiki-index.php%3Fpage_id%3D3277) (18+) IVF
 
 * &lt;span&gt;[tiki-index.php?page_id=383]&lt;/span&gt; 
 
@@ -4292,7 +4292,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=14350]&lt;/span&gt; (49+) 
 
-* [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
+* [In Vitro Fert.](/tiki-index.php%3Fpage_id%3D3277) (18+)
 
 * &lt;span&gt;[tiki-index.php?page_id=8202]&lt;/span&gt; (21+) 
 
@@ -4692,11 +4692,11 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * &lt;a href=&quot;/posts/top-charts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Top Charts&quot;&gt;Top Charts&lt;/a&gt; ~20 most popular charts in VitaminDWiki
 
-* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Quickly search for a chart on VitaminDWiki](https://VitaminDWiki.com/VitaminDSearch%23Quickly_find_chart_image_with_Google)
 
 * &lt;a href=&quot;/posts/variety-of-evidence-that-vitamin-d-helps-the-brain&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014&quot;&gt;Variety of evidence that Vitamin D helps the brain – July 2014&lt;/a&gt; charts
 
-* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch#Quickly_find_chart_image_with_Google)
+* [Seach for charts on a topic](https://VitaminDWiki.com/VitaminDSearch%23Quickly_find_chart_image_with_Google)
 
 * &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;Diseases that may be related via low vitamin D&lt;/a&gt; i.e. Diabetes increases the risk of 10 diseases
 

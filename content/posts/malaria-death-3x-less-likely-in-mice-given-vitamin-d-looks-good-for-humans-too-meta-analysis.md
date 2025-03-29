@@ -67,13 +67,13 @@ Previous studies on humans have shown that administering vitamin D can improve a
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
-[Reference](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0076640.g002)
+[Reference](https://journals.plos.org/plosone/article/figure%3Fid%3D10.1371/journal.pone.0076640.g002)
 
 ---
 
 #### 26,000 hits from Google Scholar query: malaria "vitamin d”
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=malaria+%22vitamin+d%22&btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dmalaria%2B%22vitamin%2Bd%22%26btnG%3D)** 
 
 * Oral administration of vitamin D and importance in prevention of cerebral malaria - Nov 2018 https://doi.org/10.1016/j.intimp.2018.08.041 FREE PDF
 
@@ -160,13 +160,13 @@ Previous studies on humans have shown that administering vitamin D can improve a
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
-[Reference](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0076640.g002)
+[Reference](https://journals.plos.org/plosone/article/figure%3Fid%3D10.1371/journal.pone.0076640.g002)
 
 ---
 
 #### 26,000 hits from Google Scholar query: malaria &quot;vitamin d”
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=malaria+%22vitamin+d%22&amp;btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dmalaria%2B%22vitamin%2Bd%22%26btnG%3D)** 
 
 * Oral administration of vitamin D and importance in prevention of cerebral malaria - Nov 2018 https://doi.org/10.1016/j.intimp.2018.08.041 FREE PDF
 

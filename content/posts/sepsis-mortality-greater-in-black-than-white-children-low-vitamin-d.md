@@ -18,7 +18,7 @@ categories:
 
 #### Sepsis mortality (2.5X) greater in Black than White children despite similar interventions
 
- **[MD Edge](https://www.mdedge.com/pediatrics/article/266635/diversity-medicine/sepsis-mortality-greater-black-white-children-despite?ecd=WNL_EVE_231203_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/pediatrics/article/266635/diversity-medicine/sepsis-mortality-greater-black-white-children-despite%3Fecd%3DWNL_EVE_231203_mdedge)** 
 
 The word vitamin does not occur even once on the page
 
@@ -38,7 +38,7 @@ The word vitamin does not occur even once on the page
 
 * [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
 
-* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page_id=1076) from JAMA 2007
+* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1076) from JAMA 2007
 
   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 
@@ -81,7 +81,7 @@ Markdown:
 
 #### Sepsis mortality (2.5X) greater in Black than White children despite similar interventions
 
- **[MD Edge](https://www.mdedge.com/pediatrics/article/266635/diversity-medicine/sepsis-mortality-greater-black-white-children-despite?ecd=WNL_EVE_231203_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/pediatrics/article/266635/diversity-medicine/sepsis-mortality-greater-black-white-children-despite%3Fecd%3DWNL_EVE_231203_mdedge)** 
 
 The word vitamin does not occur even once on the page
 
@@ -101,7 +101,7 @@ The word vitamin does not occur even once on the page
 
 * [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
 
-* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php?page_id=1076) from JAMA 2007
+* [Do blacks have a 5 year life penalty due to low vitamin D](https://www.VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1076) from JAMA 2007
 
   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 

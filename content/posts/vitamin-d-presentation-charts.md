@@ -8,7 +8,7 @@ date: 2023-02-14
 ---
 
 
-Moved: please click [HERE](https://VitaminDWiki.com/tiki-index.php?page_id=14301)
+Moved: please click [HERE](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301)
 
 <!-- ~tc~
 {DIV(class="lefth4")}{maketoc title="Charts"}{DIV} 
@@ -236,7 +236,7 @@ image is in All Vitamin D 2023
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
- **[Click here for details](https://VitaminDWiki.com/tiki-index.php?page_id=4293)** 
+ **[Click here for details](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4293)** 
 
 &nbsp;
 
@@ -257,7 +257,7 @@ image is in All Vitamin D 2023
 <code class="language-text">
 Markdown:
 --------
-Moved: please click [HERE](https://VitaminDWiki.com/tiki-index.php?page_id=14301)
+Moved: please click [HERE](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14301)
 
 &lt;!-- ~tc~
 {DIV(class=&quot;lefth4&quot;)}{maketoc title=&quot;Charts&quot;}{DIV} 
@@ -485,7 +485,7 @@ image is in All Vitamin D 2023
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 
- **[Click here for details](https://VitaminDWiki.com/tiki-index.php?page_id=4293)** 
+ **[Click here for details](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4293)** 
 
 &amp;nbsp;
 

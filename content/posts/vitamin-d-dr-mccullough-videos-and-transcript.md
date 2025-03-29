@@ -20,19 +20,19 @@ categories:
 
 ### 6 videos were made from an August 2023 interview
 
- **[Dr. Patrick McCullough Shares about his Experiences with Vitamin D in Practice](https://www.grassrootshealth.net/blog/dr-patrick-mccullough-shares-experiences-vitamin-d-practice/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
+ **[Dr. Patrick McCullough Shares about his Experiences with Vitamin D in Practice](https://www.grassrootshealth.net/blog/dr-patrick-mccullough-shares-experiences-vitamin-d-practice/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
 
-1. [Why is there so much Confusion about Vitamin D?](https://www.youtube.com/watch?v=J51fOzA6Kbw&ab_channel=vitaminDaction) YouTube 14 minutes
+1. [Why is there so much Confusion about Vitamin D?](https://www.youtube.com/watch%3Fv%3DJ51fOzA6Kbw%26ab_channel%3DvitaminDaction) YouTube 14 minutes
 
-1. [How Vitamin D Affects Genetic Expression: Dose-dependent relationship between vitamin D & our genes](https://www.youtube.com/watch?v=h2CvCcHN3n4&ab_channel=vitaminDaction) YouTube 6 minutes]
+1. [How Vitamin D Affects Genetic Expression: Dose-dependent relationship between vitamin D & our genes](https://www.youtube.com/watch%3Fv%3Dh2CvCcHN3n4%26ab_channel%3DvitaminDaction) YouTube 6 minutes]
 
-1. [How the Immune Response Depends on Vitamin D](https://www.youtube.com/watch?v=_kYyjEk5pog&ab_channel=vitaminDaction) YouTube 7 minutes
+1. [How the Immune Response Depends on Vitamin D](https://www.youtube.com/watch%3Fv%3D_kYyjEk5pog%26ab_channel%3DvitaminDaction) YouTube 7 minutes
 
-1. [How Vitamin D Helps Control Autoimmune Diseases](https://www.youtube.com/watch?v=m4JZj1I0s1c&ab_channel=vitaminDaction) YouTube 7 minutes
+1. [How Vitamin D Helps Control Autoimmune Diseases](https://www.youtube.com/watch%3Fv%3Dm4JZj1I0s1c%26ab_channel%3DvitaminDaction) YouTube 7 minutes
 
-1. [Vitamin D and Tuberculosis](https://www.youtube.com/watch?v=BxsIjqxUtMw&ab_channel=vitaminDaction) YouTube 4 minutes
+1. [Vitamin D and Tuberculosis](https://www.youtube.com/watch%3Fv%3DBxsIjqxUtMw%26ab_channel%3DvitaminDaction) YouTube 4 minutes
 
-1. [Vitamin D Safety and Toxicity](https://www.youtube.com/watch?v=TeW79GMh84k&ab_channel=vitaminDaction) YouTube 5 minutes
+1. [Vitamin D Safety and Toxicity](https://www.youtube.com/watch%3Fv%3DTeW79GMh84k%26ab_channel%3DvitaminDaction) YouTube 5 minutes
 
 ---
 
@@ -50,7 +50,7 @@ categories:
 
 0:03:16.6  **Patrick:**  Okay. Something has to turn genes on. Something has to turn them off. Okay. What are the things that do that? Hormones do that. So vitamin D is actually a steroid hormone. It's not in the body, Vitamins are substances that the body can't make. And you have to get some from a food source. Well, vitamin D was discovered in 1922. They found it in the skin of laboratory animals that had been subjected to ultraviolet irradiation and cod liver oil. So you can get it from the food source. And that was the era where they were discovering vitamins. And it was the fourth one they found. So they called it vitamin D. But you can make it in your skin. You can make it in your body.
 
-0:03:55.1  **Patrick:**  But you just have to have sunshine hitting your skin. Right? So it's not a vitamin. And vitamins are co-factors in an enzymatic reaction, but Vitamin D is a hormone. And  **it turns genes on and turns them off** . So in 2010, like the study, the first author's name was Ramagopalan [256 references in VDW](https://VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Ramagopalan&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com#gsc.tab=0&gsc.q=Ramagopalan&gsc.page=1). And he is published in Genome Research. He identified  **2,776 unique binding sites for the vitamin D receptor** . So in vitamin D, it's transformed into the active hormone form. 25-hydroxyvitamin D is what we measure in the blood to see how much Vitamin D we have. It has to undergo a hydroxylation reaction, turn into 125-dihydroxy vitamin D, which just has a half-life of a few hours as opposed to a couple of weeks for 25-hydroxyvitamin D. It gets made on demand when it's needed. Then it has to bind to a receptor.
+0:03:55.1  **Patrick:**  But you just have to have sunshine hitting your skin. Right? So it's not a vitamin. And vitamins are co-factors in an enzymatic reaction, but Vitamin D is a hormone. And  **it turns genes on and turns them off** . So in 2010, like the study, the first author's name was Ramagopalan [256 references in VDW](https://VitaminDWiki.com/Search%2BResults%3Fhl%3Den%26oe%3DUTF-8%26ie%3DUTF-8%26btnG%3DGoogle%2BSearch%26googles.x%3D0%26googles.y%3D0%26q%3DRamagopalan%26domains%3DVitaminDWiki.com%26sitesearch%3DVitaminDWiki.com%23gsc.tab%3D0%26gsc.q%3DRamagopalan%26gsc.page%3D1). And he is published in Genome Research. He identified  **2,776 unique binding sites for the vitamin D receptor** . So in vitamin D, it's transformed into the active hormone form. 25-hydroxyvitamin D is what we measure in the blood to see how much Vitamin D we have. It has to undergo a hydroxylation reaction, turn into 125-dihydroxy vitamin D, which just has a half-life of a few hours as opposed to a couple of weeks for 25-hydroxyvitamin D. It gets made on demand when it's needed. Then it has to bind to a receptor.
 
 0:04:47.7  **Patrick:**  And then the two things get together with Vitamin D binds to the receptor. And then a bunch of transcription co-factors have to come bind to it, like retinoid X receptor and a bunch of other stuff. And that whole big molecule then has to go into the DNA. So vitamin D binds to its receptor, all these transcription cofactors. Then it goes in the DNA, and it binds to a unique binding site in the DNA. It's called the vitamin D response cell. And the vitamin D response cell elements are all over the place. And in this study, what Ramagopalan did was he identified 2,776 unique binding sites for the vitamin D receptor. That would imply that there's 2,776 unique genes that vitamin D controls, and that's just an estimate. It's probably much more complicated than that there.
 
@@ -287,19 +287,19 @@ Markdown:
 
 ### 6 videos were made from an August 2023 interview
 
- **[Dr. Patrick McCullough Shares about his Experiences with Vitamin D in Practice](https://www.grassrootshealth.net/blog/dr-patrick-mccullough-shares-experiences-vitamin-d-practice/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
+ **[Dr. Patrick McCullough Shares about his Experiences with Vitamin D in Practice](https://www.grassrootshealth.net/blog/dr-patrick-mccullough-shares-experiences-vitamin-d-practice/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
 
-1. [Why is there so much Confusion about Vitamin D?](https://www.youtube.com/watch?v=J51fOzA6Kbw&amp;ab_channel=vitaminDaction) YouTube 14 minutes
+1. [Why is there so much Confusion about Vitamin D?](https://www.youtube.com/watch%3Fv%3DJ51fOzA6Kbw%26ab_channel%3DvitaminDaction) YouTube 14 minutes
 
-1. [How Vitamin D Affects Genetic Expression: Dose-dependent relationship between vitamin D &amp; our genes](https://www.youtube.com/watch?v=h2CvCcHN3n4&amp;ab_channel=vitaminDaction) YouTube 6 minutes]
+1. [How Vitamin D Affects Genetic Expression: Dose-dependent relationship between vitamin D &amp; our genes](https://www.youtube.com/watch%3Fv%3Dh2CvCcHN3n4%26ab_channel%3DvitaminDaction) YouTube 6 minutes]
 
-1. [How the Immune Response Depends on Vitamin D](https://www.youtube.com/watch?v=_kYyjEk5pog&amp;ab_channel=vitaminDaction) YouTube 7 minutes
+1. [How the Immune Response Depends on Vitamin D](https://www.youtube.com/watch%3Fv%3D_kYyjEk5pog%26ab_channel%3DvitaminDaction) YouTube 7 minutes
 
-1. [How Vitamin D Helps Control Autoimmune Diseases](https://www.youtube.com/watch?v=m4JZj1I0s1c&amp;ab_channel=vitaminDaction) YouTube 7 minutes
+1. [How Vitamin D Helps Control Autoimmune Diseases](https://www.youtube.com/watch%3Fv%3Dm4JZj1I0s1c%26ab_channel%3DvitaminDaction) YouTube 7 minutes
 
-1. [Vitamin D and Tuberculosis](https://www.youtube.com/watch?v=BxsIjqxUtMw&amp;ab_channel=vitaminDaction) YouTube 4 minutes
+1. [Vitamin D and Tuberculosis](https://www.youtube.com/watch%3Fv%3DBxsIjqxUtMw%26ab_channel%3DvitaminDaction) YouTube 4 minutes
 
-1. [Vitamin D Safety and Toxicity](https://www.youtube.com/watch?v=TeW79GMh84k&amp;ab_channel=vitaminDaction) YouTube 5 minutes
+1. [Vitamin D Safety and Toxicity](https://www.youtube.com/watch%3Fv%3DTeW79GMh84k%26ab_channel%3DvitaminDaction) YouTube 5 minutes
 
 ---
 
@@ -317,7 +317,7 @@ Markdown:
 
 0:03:16.6  **Patrick:**  Okay. Something has to turn genes on. Something has to turn them off. Okay. What are the things that do that? Hormones do that. So vitamin D is actually a steroid hormone. It&#39;s not in the body, Vitamins are substances that the body can&#39;t make. And you have to get some from a food source. Well, vitamin D was discovered in 1922. They found it in the skin of laboratory animals that had been subjected to ultraviolet irradiation and cod liver oil. So you can get it from the food source. And that was the era where they were discovering vitamins. And it was the fourth one they found. So they called it vitamin D. But you can make it in your skin. You can make it in your body.
 
-0:03:55.1  **Patrick:**  But you just have to have sunshine hitting your skin. Right? So it&#39;s not a vitamin. And vitamins are co-factors in an enzymatic reaction, but Vitamin D is a hormone. And  **it turns genes on and turns them off** . So in 2010, like the study, the first author&#39;s name was Ramagopalan [256 references in VDW](https://VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=Ramagopalan&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com#gsc.tab=0&amp;gsc.q=Ramagopalan&amp;gsc.page=1). And he is published in Genome Research. He identified  **2,776 unique binding sites for the vitamin D receptor** . So in vitamin D, it&#39;s transformed into the active hormone form. 25-hydroxyvitamin D is what we measure in the blood to see how much Vitamin D we have. It has to undergo a hydroxylation reaction, turn into 125-dihydroxy vitamin D, which just has a half-life of a few hours as opposed to a couple of weeks for 25-hydroxyvitamin D. It gets made on demand when it&#39;s needed. Then it has to bind to a receptor.
+0:03:55.1  **Patrick:**  But you just have to have sunshine hitting your skin. Right? So it&#39;s not a vitamin. And vitamins are co-factors in an enzymatic reaction, but Vitamin D is a hormone. And  **it turns genes on and turns them off** . So in 2010, like the study, the first author&#39;s name was Ramagopalan [256 references in VDW](https://VitaminDWiki.com/Search%2BResults%3Fhl%3Den%26oe%3DUTF-8%26ie%3DUTF-8%26btnG%3DGoogle%2BSearch%26googles.x%3D0%26googles.y%3D0%26q%3DRamagopalan%26domains%3DVitaminDWiki.com%26sitesearch%3DVitaminDWiki.com%23gsc.tab%3D0%26gsc.q%3DRamagopalan%26gsc.page%3D1). And he is published in Genome Research. He identified  **2,776 unique binding sites for the vitamin D receptor** . So in vitamin D, it&#39;s transformed into the active hormone form. 25-hydroxyvitamin D is what we measure in the blood to see how much Vitamin D we have. It has to undergo a hydroxylation reaction, turn into 125-dihydroxy vitamin D, which just has a half-life of a few hours as opposed to a couple of weeks for 25-hydroxyvitamin D. It gets made on demand when it&#39;s needed. Then it has to bind to a receptor.
 
 0:04:47.7  **Patrick:**  And then the two things get together with Vitamin D binds to the receptor. And then a bunch of transcription co-factors have to come bind to it, like retinoid X receptor and a bunch of other stuff. And that whole big molecule then has to go into the DNA. So vitamin D binds to its receptor, all these transcription cofactors. Then it goes in the DNA, and it binds to a unique binding site in the DNA. It&#39;s called the vitamin D response cell. And the vitamin D response cell elements are all over the place. And in this study, what Ramagopalan did was he identified 2,776 unique binding sites for the vitamin D receptor. That would imply that there&#39;s 2,776 unique genes that vitamin D controls, and that&#39;s just an estimate. It&#39;s probably much more complicated than that there.
 

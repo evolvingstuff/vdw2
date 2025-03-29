@@ -42,7 +42,7 @@ The world copied the US mistake of 600 IU
 
 #### The IOM Miscalculated Its RDA For Vitamin D - GrassrootsHealth March 2024
 
- **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/?utm_source=newsletter-main&utm_medium=email&utm_campaign=Newsletters)** 
+ **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
 
 ---
 
@@ -203,7 +203,7 @@ The world copied the US mistake of 600 IU
 
 #### The IOM Miscalculated Its RDA For Vitamin D - GrassrootsHealth March 2024
 
- **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters)** 
+ **[The Institute of Medicine Miscalculated Its RDA For Vitamin D, by Dr. Robert Heaney](https://www.grassrootshealth.net/blog/iom-miscalculated-rda-vitamin-d/%3Futm_source%3Dnewsletter-main%26utm_medium%3Demail%26utm_campaign%3DNewsletters)** 
 
 ---
 

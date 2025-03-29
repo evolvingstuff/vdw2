@@ -74,9 +74,9 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 #### This preprint was also reported on by:
 
-* [COVID-19 Vaccine is the Culprit in Majority Found Dead after Injection](https://petermcculloughmd.substack.com/p/covid-19-vaccine-is-the-culprit-in?utm_source=substack&utm_medium=email ) Substack - PETER A. MCCULLOUGH,
+* [COVID-19 Vaccine is the Culprit in Majority Found Dead after Injection](https://petermcculloughmd.substack.com/p/covid-19-vaccine-is-the-culprit-in%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Substack - PETER A. MCCULLOUGH,
 
-* [The most damaging paper of the pandemic has just been published in The Lancet](https://stevekirsch.substack.com/p/the-most-damaging-paper-of-the-pandemic?utm_source=substack&utm_medium=email ) Substack - STEVE KIRSCH
+* [The most damaging paper of the pandemic has just been published in The Lancet](https://stevekirsch.substack.com/p/the-most-damaging-paper-of-the-pandemic%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Substack - STEVE KIRSCH
 
 ---
 
@@ -313,9 +313,9 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 #### This preprint was also reported on by:
 
-* [COVID-19 Vaccine is the Culprit in Majority Found Dead after Injection](https://petermcculloughmd.substack.com/p/covid-19-vaccine-is-the-culprit-in?utm_source=substack&amp;utm_medium=email ) Substack - PETER A. MCCULLOUGH,
+* [COVID-19 Vaccine is the Culprit in Majority Found Dead after Injection](https://petermcculloughmd.substack.com/p/covid-19-vaccine-is-the-culprit-in%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Substack - PETER A. MCCULLOUGH,
 
-* [The most damaging paper of the pandemic has just been published in The Lancet](https://stevekirsch.substack.com/p/the-most-damaging-paper-of-the-pandemic?utm_source=substack&amp;utm_medium=email ) Substack - STEVE KIRSCH
+* [The most damaging paper of the pandemic has just been published in The Lancet](https://stevekirsch.substack.com/p/the-most-damaging-paper-of-the-pandemic%3Futm_source%3Dsubstack%26utm_medium%3Demail%20) Substack - STEVE KIRSCH
 
 ---
 

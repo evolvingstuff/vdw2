@@ -18,7 +18,7 @@ categories:
 
 #### Video - Jan 2024
 
- **[YouTube 7 minutes](https://www.youtube.com/watch?v=omv_3p9eCvo&ab_channel=ForHealthConscious)** 
+ **[YouTube 7 minutes](https://www.youtube.com/watch%3Fv%3Domv_3p9eCvo%26ab_channel%3DForHealthConscious)** 
 
 01:04 ► Lack of Sun Exposure
 
@@ -120,7 +120,7 @@ Markdown:
 
 #### Video - Jan 2024
 
- **[YouTube 7 minutes](https://www.youtube.com/watch?v=omv_3p9eCvo&amp;ab_channel=ForHealthConscious)** 
+ **[YouTube 7 minutes](https://www.youtube.com/watch%3Fv%3Domv_3p9eCvo%26ab_channel%3DForHealthConscious)** 
 
 01:04 ► Lack of Sun Exposure
 

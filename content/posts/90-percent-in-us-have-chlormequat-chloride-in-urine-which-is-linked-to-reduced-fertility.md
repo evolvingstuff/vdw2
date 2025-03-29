@@ -14,7 +14,7 @@ categories:
 
 #### Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats
 
- **[Mercola](https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1HL&cid=20240226_HL2&foDate=false&mid=DM1535871&rid=2055050072)**  &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
+ **[Mercola](https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20240226_HL2%26foDate%3Dfalse%26mid%3DDM1535871%26rid%3D2055050072)**  &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
 92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical
 
@@ -51,7 +51,7 @@ Markdown:
 
 #### Americans Exposed to Fertility-Lowering Chemicals in Cheerios, Quaker Oats
 
- **[Mercola](https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1HL&amp;cid=20240226_HL2&amp;foDate=false&amp;mid=DM1535871&amp;rid=2055050072)**  &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
+ **[Mercola](https://articles.mercola.com/sites/articles/archive/2024/02/26/chlormequat-chloride.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20240226_HL2%26foDate%3Dfalse%26mid%3DDM1535871%26rid%3D2055050072)**  &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
 92% of (non-ogranic) oat-based foods, including popular brands like Quaker Oats and Cheerios, also contained the chemical
 

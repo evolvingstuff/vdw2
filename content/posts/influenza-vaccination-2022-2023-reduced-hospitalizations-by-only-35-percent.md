@@ -13,7 +13,7 @@ categories:
 
 #### 2022-2023 Vaccine Provided Little Protection Against Influenza
 
- **[McCullogh substack](https://petermcculloughmd.substack.com/p/2022-2023-vaccine-provided-little?utm_source=post-email-title&publication_id=1119676&post_id=140529625&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
+ **[McCullogh substack](https://petermcculloughmd.substack.com/p/2022-2023-vaccine-provided-little%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D140529625%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 References J Infect Dis 2023 Dec 2:jiad542. [doi: 10.1093/infdis/jiad542](https://doi.org/10.1093/infdis/jiad542) FREE PDF
 
@@ -49,7 +49,7 @@ Markdown:
 
 #### 2022-2023 Vaccine Provided Little Protection Against Influenza
 
- **[McCullogh substack](https://petermcculloughmd.substack.com/p/2022-2023-vaccine-provided-little?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=140529625&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
+ **[McCullogh substack](https://petermcculloughmd.substack.com/p/2022-2023-vaccine-provided-little%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D140529625%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 References J Infect Dis 2023 Dec 2:jiad542. [doi: 10.1093/infdis/jiad542](https://doi.org/10.1093/infdis/jiad542) FREE PDF
 

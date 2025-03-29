@@ -15,7 +15,7 @@ categories:
 
 ---
 
-#### [Dr. Berg YouTube 11 minutes](https://www.youtube.com/watch4v=_j8f4ur9LhQ&t=332s&ab_channel=Dr.EricBergDC)
+#### [Dr. Berg YouTube 11 minutes](https://www.youtube.com/watch4v%3D_j8f4ur9LhQ%26t%3D332s%26ab_channel%3DDr.EricBergDC)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -223,7 +223,7 @@ Markdown:
 
 ---
 
-#### [Dr. Berg YouTube 11 minutes](https://www.youtube.com/watch4v=_j8f4ur9LhQ&amp;t=332s&amp;ab_channel=Dr.EricBergDC)
+#### [Dr. Berg YouTube 11 minutes](https://www.youtube.com/watch4v%3D_j8f4ur9LhQ%26t%3D332s%26ab_channel%3DDr.EricBergDC)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 

@@ -32,7 +32,7 @@ Conclusion The test agent significantly reduced SARS-CoV-2 infection in healthca
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[ <span style="color:orange;">Being sold by  >100 companies on Amazon</span>](https://www.amazon.com/s?k=xylitol+nasal+spray&crid=16CZ3MC4EGZWP&sprefix=xilitol++nasal%2Caps%2C159&ref=nb_sb_ss_sc_1_13)** 
+ **[ <span style="color:orange;">Being sold by  >100 companies on Amazon</span>](https://www.amazon.com/s%3Fk%3Dxylitol%2Bnasal%2Bspray%26crid%3D16CZ3MC4EGZWP%26sprefix%3Dxilitol%2B%2Bnasal%2Caps%2C159%26ref%3Dnb_sb_ss_sc_1_13)** 
 
 ---
 
@@ -67,7 +67,7 @@ Conclusion The test agent significantly reduced SARS-CoV-2 infection in healthca
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **[ &lt;span style=&quot;color:orange;&quot;&gt;Being sold by  &gt;100 companies on Amazon&lt;/span&gt;](https://www.amazon.com/s?k=xylitol+nasal+spray&amp;crid=16CZ3MC4EGZWP&amp;sprefix=xilitol++nasal%2Caps%2C159&amp;ref=nb_sb_ss_sc_1_13)** 
+ **[ &lt;span style=&quot;color:orange;&quot;&gt;Being sold by  &gt;100 companies on Amazon&lt;/span&gt;](https://www.amazon.com/s%3Fk%3Dxylitol%2Bnasal%2Bspray%26crid%3D16CZ3MC4EGZWP%26sprefix%3Dxilitol%2B%2Bnasal%2Caps%2C159%26ref%3Dnb_sb_ss_sc_1_13)** 
 
 ---
 

@@ -13,13 +13,13 @@ categories:
 
 
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
 
-[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php?page_id=6329)
+[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D6329)
 
-[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php?page_id=4267)
+[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4267)
 
-[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health+Problems+and+D) 
+[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD) 
 
 <!-- ~tc~ (alias(Vitamin D has been proven to work by 100's of studies)) ~/tc~ -->
 
@@ -30,13 +30,13 @@ Markdown:
 --------
 
 
-[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php?page_id=1336)
+[90+ health problems treated by Vitamin D - most of which have Randomized Controlled Trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D1336)
 
-[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php?page_id=6329)
+[700+ Randomized Controlled Trials have successfully used vitamin D](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D6329)
 
-[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php?page_id=4267)
+[600+ meta-analyses of Vitamin D trials](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D4267)
 
-[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health+Problems+and+D) 
+[200+ categories of Health Problems prevented and/or treated by Vitamin D](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD) 
 
 &lt;!-- ~tc~ (alias(Vitamin D has been proven to work by 100&#39;s of studies)) ~/tc~ --&gt;
 

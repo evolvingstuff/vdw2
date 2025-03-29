@@ -173,7 +173,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. Pizzorno L, Pizzorno J. Healthy Bones, Healthy You! ISBN 97-1-77779-250-3 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1)
+&nbsp;&nbsp;&nbsp;&nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref%3Dsr_1_1%3Fcrid%3D1MB6F9K9V3JFA%26keywords%3DHealthy%2BBones%2C%2BHealthy%2BYou%26qid%3D1673971805%26sprefix%3Dhealthy%2Bbones%2C%2Bhealthy%2Byou%2Caps%2C237%26sr%3D8-1)
 
 1. [https://www.cdc.gov/obesity/data/prevalence-maps.html](https://www.cdc.gov/obesity/data/prevalence-maps.html) accessed 8/2022
 
@@ -267,11 +267,11 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
   * PDF title = Nothing Boring about Boron
 
-* [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O'Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&ab_channel=theDr.com ) 1 hour YouTube 2022
+* [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O'Bryan](https://www.youtube.com/watch%3Fv%3DbsR0lx7hFX0%26ab_channel%3DtheDr.com%20) 1 hour YouTube 2022
 
-* [Healthy Bones with Dr. Joe & Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch?v=uVP5QyGrhE8&t=1006s&ab_channel=BenWeitz%2CDC) -YouTube 2022
+* [Healthy Bones with Dr. Joe & Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch%3Fv%3DuVP5QyGrhE8%26t%3D1006s%26ab_channel%3DBenWeitz%2CDC) -YouTube 2022
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1) FREE for Kindle Unlimited
+&nbsp;&nbsp;&nbsp;&nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref%3Dsr_1_1%3Fcrid%3D1MB6F9K9V3JFA%26keywords%3DHealthy%2BBones%2C%2BHealthy%2BYou%26qid%3D1673971805%26sprefix%3Dhealthy%2Bbones%2C%2Bhealthy%2Byou%2Caps%2C237%26sr%3D8-1) FREE for Kindle Unlimited
 
 ---
 
@@ -447,7 +447,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. Pizzorno L, Pizzorno J. Healthy Bones, Healthy You! ISBN 97-1-77779-250-3 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref%3Dsr_1_1%3Fcrid%3D1MB6F9K9V3JFA%26keywords%3DHealthy%2BBones%2C%2BHealthy%2BYou%26qid%3D1673971805%26sprefix%3Dhealthy%2Bbones%2C%2Bhealthy%2Byou%2Caps%2C237%26sr%3D8-1)
 
 1. [https://www.cdc.gov/obesity/data/prevalence-maps.html](https://www.cdc.gov/obesity/data/prevalence-maps.html) accessed 8/2022
 
@@ -541,11 +541,11 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
   * PDF title = Nothing Boring about Boron
 
-* [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O&#39;Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&amp;ab_channel=theDr.com ) 1 hour YouTube 2022
+* [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O&#39;Bryan](https://www.youtube.com/watch%3Fv%3DbsR0lx7hFX0%26ab_channel%3DtheDr.com%20) 1 hour YouTube 2022
 
-* [Healthy Bones with Dr. Joe &amp; Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch?v=uVP5QyGrhE8&amp;t=1006s&amp;ab_channel=BenWeitz%2CDC) -YouTube 2022
+* [Healthy Bones with Dr. Joe &amp; Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch%3Fv%3DuVP5QyGrhE8%26t%3D1006s%26ab_channel%3DBenWeitz%2CDC) -YouTube 2022
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1) FREE for Kindle Unlimited
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref%3Dsr_1_1%3Fcrid%3D1MB6F9K9V3JFA%26keywords%3DHealthy%2BBones%2C%2BHealthy%2BYou%26qid%3D1673971805%26sprefix%3Dhealthy%2Bbones%2C%2Bhealthy%2Byou%2Caps%2C237%26sr%3D8-1) FREE for Kindle Unlimited
 
 ---
 

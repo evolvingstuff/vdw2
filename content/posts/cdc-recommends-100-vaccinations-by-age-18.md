@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### [Children’s Health Defense](http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&em_id=15681.0&NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7)__
+#### [Children’s Health Defense](http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid%3D00000000.app30028b%3Fdlv_id%3D15582%26em_id%3D15681.0%26NONCE_TOKEN%3D3EF3BD1F7BB2645CC738280EEE073CE7)__
 
  **“Only”  76 doses of 18 different vaccines are recommended after birth** 
 
@@ -66,7 +66,7 @@ Tetanus, diphtheria, & acellular pertussis (Tdap)
 
 The schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances
 
- **Detailed Feb 2024 answer  by [Perplexity](https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c)** 
+ **Detailed Feb 2024 answer  by [Perplexity](https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA%3Fs%3Dc)** 
 
  **Note:  The list does NOT include COVID vaccinations nor boosters** 
 
@@ -89,7 +89,7 @@ Markdown:
 
 ---
 
-#### [Children’s Health Defense](http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid=00000000.app30028b?dlv_id=15582&amp;em_id=15681.0&amp;NONCE_TOKEN=3EF3BD1F7BB2645CC738280EEE073CE7)__
+#### [Children’s Health Defense](http://support.childrenshealthdefense.org/site/MessageViewer;jsessionid%3D00000000.app30028b%3Fdlv_id%3D15582%26em_id%3D15681.0%26NONCE_TOKEN%3D3EF3BD1F7BB2645CC738280EEE073CE7)__
 
  **“Only”  76 doses of 18 different vaccines are recommended after birth** 
 
@@ -139,7 +139,7 @@ Tetanus, diphtheria, &amp; acellular pertussis (Tdap)
 
 The schedule includes multiple doses for many of these vaccines at various ages. For example, the DTaP vaccine is typically given in five doses, the polio vaccine in four doses, and the MMR and varicella vaccines in two doses each. The HPV vaccine is given in two doses if the series is started before the age of 15, or three doses if started at age 15 or older. The meningococcal vaccine is also given in multiple doses, with the MenACWY vaccine typically given at 11 or 12 years old and again at 16 years old, and the MenB vaccine recommended under specific circumstances
 
- **Detailed Feb 2024 answer  by [Perplexity](https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA?s=c)** 
+ **Detailed Feb 2024 answer  by [Perplexity](https://www.perplexity.ai/search/How-many-vaccinations-bFEDVOyGQTCFNaHD_9ANQA%3Fs%3Dc)** 
 
  **Note:  The list does NOT include COVID vaccinations nor boosters** 
 

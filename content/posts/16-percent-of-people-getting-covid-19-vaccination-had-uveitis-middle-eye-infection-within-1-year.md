@@ -33,7 +33,7 @@ categories:
 
 #### 85 studies had both uveitis and vaccination in their title as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?as_q=uveitis++vaccination&as_epq=&as_oq=&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C48 )** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3Duveitis%2B%2Bvaccination%26as_epq%3D%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48%20)** 
 
 ---
 
@@ -111,7 +111,7 @@ Markdown:
 
 #### 85 studies had both uveitis and vaccination in their title as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?as_q=uveitis++vaccination&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=title&amp;as_sauthors=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;hl=en&amp;as_sdt=0%2C48 )** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fas_q%3Duveitis%2B%2Bvaccination%26as_epq%3D%26as_oq%3D%26as_eq%3D%26as_occt%3Dtitle%26as_sauthors%3D%26as_publication%3D%26as_ylo%3D%26as_yhi%3D%26hl%3Den%26as_sdt%3D0%2C48%20)** 
 
 ---
 

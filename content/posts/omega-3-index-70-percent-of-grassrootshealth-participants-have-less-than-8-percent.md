@@ -15,7 +15,7 @@ categories:
 
 ---
 
-#### Omega-3 Index Results Among [GrassrootsHealth Participants](https://myemail.constantcontact.com/Omega-3-Index-Results-Among-GrassrootsHealth-Participants--Updated-2023-.html?soid=1102722411090&aid=eumiK3G3GJo)
+#### Omega-3 Index Results Among [GrassrootsHealth Participants](https://myemail.constantcontact.com/Omega-3-Index-Results-Among-GrassrootsHealth-Participants--Updated-2023-.html%3Fsoid%3D1102722411090%26aid%3DeumiK3G3GJo)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -27,7 +27,7 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
 
-&nbsp;&nbsp;&nbsp;&nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&qid=1703510253&sprefix=omega-3%2Bemu%2Caps%2C177&sr=8-21&th=1), for example, costs $0.86/day
+&nbsp;&nbsp;&nbsp;&nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref%3Dsr_1_21%3Fcrid%3D18QYY2C6TKWWV%26keywords%3Domega%2B3%2Bfish%2Boil%2Bemulsified%26qid%3D1703510253%26sprefix%3Domega-3%2Bemu%2Caps%2C177%26sr%3D8-21%26th%3D1), for example, costs $0.86/day
 
 1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
@@ -100,7 +100,7 @@ Markdown:
 
 ---
 
-#### Omega-3 Index Results Among [GrassrootsHealth Participants](https://myemail.constantcontact.com/Omega-3-Index-Results-Among-GrassrootsHealth-Participants--Updated-2023-.html?soid=1102722411090&amp;aid=eumiK3G3GJo)
+#### Omega-3 Index Results Among [GrassrootsHealth Participants](https://myemail.constantcontact.com/Omega-3-Index-Results-Among-GrassrootsHealth-Participants--Updated-2023-.html%3Fsoid%3D1102722411090%26aid%3DeumiK3G3GJo)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -112,7 +112,7 @@ Markdown:
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&amp;keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&amp;qid=1703510253&amp;sprefix=omega-3%2Bemu%2Caps%2C177&amp;sr=8-21&amp;th=1), for example, costs $0.86/day
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref%3Dsr_1_21%3Fcrid%3D18QYY2C6TKWWV%26keywords%3Domega%2B3%2Bfish%2Boil%2Bemulsified%26qid%3D1703510253%26sprefix%3Domega-3%2Bemu%2Caps%2C177%26sr%3D8-21%26th%3D1), for example, costs $0.86/day
 
 1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 

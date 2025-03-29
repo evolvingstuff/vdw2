@@ -19,7 +19,7 @@ categories:
 
 #### Astonishing rise in atrial fibrillation says British Heart Foundation (Dr. Campbell Video)
 
- **[YouTube](https://www.youtube.com/watch?v=Zoso8Um9P2M&ab_channel=Dr.JohnCampbell)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DZoso8Um9P2M%26ab_channel%3DDr.JohnCampbell)** 
 
 * Referencing the British Heart Foundation [Number of UK people with heart rhythm condition rises by 50% in a decade](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/may/new-figures-show-the-number-of-uk-people-with-heart-rhythm-condition) May 2023
 
@@ -37,7 +37,7 @@ categories:
 
 #### US historical AFIB prevelance: 1 in 620+ (CDC)
 
- **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
+ **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm%23:~:text%3DMore%20than%20454%2C000%20hospitalizations%20with%2Cyear%20in%20the%20United%20States.%26text%3DThe%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
 
 ---
 
@@ -89,7 +89,7 @@ Markdown:
 
 #### Astonishing rise in atrial fibrillation says British Heart Foundation (Dr. Campbell Video)
 
- **[YouTube](https://www.youtube.com/watch?v=Zoso8Um9P2M&amp;ab_channel=Dr.JohnCampbell)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DZoso8Um9P2M%26ab_channel%3DDr.JohnCampbell)** 
 
 * Referencing the British Heart Foundation [Number of UK people with heart rhythm condition rises by 50% in a decade](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/may/new-figures-show-the-number-of-uk-people-with-heart-rhythm-condition) May 2023
 
@@ -107,7 +107,7 @@ Markdown:
 
 #### US historical AFIB prevelance: 1 in 620+ (CDC)
 
- **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&amp;text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
+ **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm%23:~:text%3DMore%20than%20454%2C000%20hospitalizations%20with%2Cyear%20in%20the%20United%20States.%26text%3DThe%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
 
 ---
 

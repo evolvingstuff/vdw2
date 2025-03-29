@@ -122,7 +122,7 @@ Conclusion: The risk factors, identified in this study, can be used as significa
 
 #### Vaccination and multiple sclerosis - Dr. Campbell, YouTube May 2023
 
- **[17 minutes](https://www.youtube.com/watch?v=I9S2jooTxkQ&ab_channel=Dr.JohnCampbell)** 
+ **[17 minutes](https://www.youtube.com/watch%3Fv%3DI9S2jooTxkQ%26ab_channel%3DDr.JohnCampbell)** 
 
 ---
 
@@ -254,7 +254,7 @@ Conclusion: The risk factors, identified in this study, can be used as significa
 
 #### Vaccination and multiple sclerosis - Dr. Campbell, YouTube May 2023
 
- **[17 minutes](https://www.youtube.com/watch?v=I9S2jooTxkQ&amp;ab_channel=Dr.JohnCampbell)** 
+ **[17 minutes](https://www.youtube.com/watch%3Fv%3DI9S2jooTxkQ%26ab_channel%3DDr.JohnCampbell)** 
 
 ---
 

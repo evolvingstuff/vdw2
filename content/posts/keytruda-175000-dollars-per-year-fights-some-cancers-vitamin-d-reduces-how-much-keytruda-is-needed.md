@@ -17,7 +17,7 @@ categories:
 
 #### 1. 1 Selling Drug in the World: 27 Billion Dollars - Dr. Berg
 
- **[5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&ab_channel=Dr.EricBergDC)** 
+ **[5 minute video](https://www.youtube.com/watch%3Fv%3DQKeCwKDdWyM%26ab_channel%3DDr.EricBergDC)** 
 
 0:00 Introduction: The number 1 selling drug in the world
 
@@ -126,7 +126,7 @@ Markdown:
 
 #### 1. 1 Selling Drug in the World: 27 Billion Dollars - Dr. Berg
 
- **[5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&amp;ab_channel=Dr.EricBergDC)** 
+ **[5 minute video](https://www.youtube.com/watch%3Fv%3DQKeCwKDdWyM%26ab_channel%3DDr.EricBergDC)** 
 
 0:00 Introduction: The number 1 selling drug in the world
 

@@ -44,7 +44,7 @@ This list is automatically updated
 
 ---
 
-#### Found 21,500 items: stillbirth ("Vitamin D" OR omega-3 OR zinc) in [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=stillbirth+%28%22Vitamin+D%22+OR+omega-3+OR+zinc%29&btnG=)- Oct 2023
+#### Found 21,500 items: stillbirth ("Vitamin D" OR omega-3 OR zinc) in [Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dstillbirth%2B%28%22Vitamin%2BD%22%2BOR%2Bomega-3%2BOR%2Bzinc%29%26btnG%3D)- Oct 2023
 
 ---
 
@@ -80,7 +80,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
 ##### Australia Goal: reduce stillbirths by 20% (Note: Finland reduced rate by 15% with Vitamin D) - Jan 2024
 
- **[As the U.S. Struggles With a Stillbirth Crisis, Australia Offers a Model for How to Do Better](https://www.propublica.org/article/what-australia-could-teach-america-about-reducing-stillbirths?utm_source=sailthru&utm_medium=email&utm_campaign=majorinvestigations&utm_content=river )** 
+ **[As the U.S. Struggles With a Stillbirth Crisis, Australia Offers a Model for How to Do Better](https://www.propublica.org/article/what-australia-could-teach-america-about-reducing-stillbirths%3Futm_source%3Dsailthru%26utm_medium%3Demail%26utm_campaign%3Dmajorinvestigations%26utm_content%3Driver%20)** 
 
 ---
 
@@ -173,7 +173,7 @@ This list is automatically updated
 
 ---
 
-#### Found 21,500 items: stillbirth (&quot;Vitamin D&quot; OR omega-3 OR zinc) in [Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=stillbirth+%28%22Vitamin+D%22+OR+omega-3+OR+zinc%29&amp;btnG=)- Oct 2023
+#### Found 21,500 items: stillbirth (&quot;Vitamin D&quot; OR omega-3 OR zinc) in [Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dstillbirth%2B%28%22Vitamin%2BD%22%2BOR%2Bomega-3%2BOR%2Bzinc%29%26btnG%3D)- Oct 2023
 
 ---
 
@@ -209,7 +209,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
 ##### Australia Goal: reduce stillbirths by 20% (Note: Finland reduced rate by 15% with Vitamin D) - Jan 2024
 
- **[As the U.S. Struggles With a Stillbirth Crisis, Australia Offers a Model for How to Do Better](https://www.propublica.org/article/what-australia-could-teach-america-about-reducing-stillbirths?utm_source=sailthru&amp;utm_medium=email&amp;utm_campaign=majorinvestigations&amp;utm_content=river )** 
+ **[As the U.S. Struggles With a Stillbirth Crisis, Australia Offers a Model for How to Do Better](https://www.propublica.org/article/what-australia-could-teach-america-about-reducing-stillbirths%3Futm_source%3Dsailthru%26utm_medium%3Demail%26utm_campaign%3Dmajorinvestigations%26utm_content%3Driver%20)** 
 
 ---
 

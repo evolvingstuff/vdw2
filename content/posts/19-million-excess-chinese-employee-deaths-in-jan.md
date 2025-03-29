@@ -15,7 +15,7 @@ date: 2023-08-25
 
 #### China’s Covid Zero Exit Led to 1.9 Million Deaths in Two Months, Study Finds
 
- **[Bloomberg](https://www.bloomberg.com/news/articles/2023-08-24/china-s-swift-covid-exit-tied-to-almost-1-9-million-deaths-in-just-two-months?cmpid=BBD082523_prognosis&utm_medium=email&utm_source=newsletter&utm_term=230825&utm_campaign=prognosis) Aug 25, 2023)** 
+ **[Bloomberg](https://www.bloomberg.com/news/articles/2023-08-24/china-s-swift-covid-exit-tied-to-almost-1-9-million-deaths-in-just-two-months%3Fcmpid%3DBBD082523_prognosis%26utm_medium%3Demail%26utm_source%3Dnewsletter%26utm_term%3D230825%26utm_campaign%3Dprognosis) Aug 25, 2023)** 
 
 * “Because the Chinese population had been largely shielded from infection with limited natural immunity and was not fully or well vaccinated, the sudden introduction of widespread Covid-19 infection had a devastating impact.”
 
@@ -86,7 +86,7 @@ Markdown:
 
 #### China’s Covid Zero Exit Led to 1.9 Million Deaths in Two Months, Study Finds
 
- **[Bloomberg](https://www.bloomberg.com/news/articles/2023-08-24/china-s-swift-covid-exit-tied-to-almost-1-9-million-deaths-in-just-two-months?cmpid=BBD082523_prognosis&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=230825&amp;utm_campaign=prognosis) Aug 25, 2023)** 
+ **[Bloomberg](https://www.bloomberg.com/news/articles/2023-08-24/china-s-swift-covid-exit-tied-to-almost-1-9-million-deaths-in-just-two-months%3Fcmpid%3DBBD082523_prognosis%26utm_medium%3Demail%26utm_source%3Dnewsletter%26utm_term%3D230825%26utm_campaign%3Dprognosis) Aug 25, 2023)** 
 
 * “Because the Chinese population had been largely shielded from infection with limited natural immunity and was not fully or well vaccinated, the sudden introduction of widespread Covid-19 infection had a devastating impact.”
 

@@ -38,7 +38,7 @@ This list is automatically updated
 
 #### Search for Glaucoma and "Vitamin D" 16,300 studies
 
- **[Google Scholar April 2024](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=glaucoma "vitamin d"&btnG=)** 
+ **[Google Scholar April 2024](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dglaucoma%20"vitamin%20d"%26btnG%3D)** 
 
 * Association of the Severity of Primary Open-Angle Glaucoma with Serum Vitamin D Levels  - Dec 2023 - DOI: 10.21608/bmfj.2023.250567.1960 FREE PDF
 
@@ -56,7 +56,7 @@ This list is automatically updated
 
 #### Search for Glaucoma and "Vitamin D receptor" 1,440+ studies
 
- **[As of Feb 2024](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=glaucoma "vitamin D receptor"&btnG=)** 
+ **[As of Feb 2024](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dglaucoma%20"vitamin%20D%20receptor"%26btnG%3D)** 
 
 * Vitamin D and its receptor polymorphisms are associated with glaucoma - Dec 2020 [https://doi.org/10.1016/j.jfo.2020.02.016](https://doi.org/10.1016/j.jfo.2020.02.016) PDF is behind a paywall
 
@@ -78,7 +78,7 @@ This list is automatically updated
 
 ---
 
-#### Glacoma is 2.6 X more likely in persons with Diabetes - April 2024** [Diabetes increases your risk of glaucoma - Steve K substack](https://kirschsubstack.com/p/diabetes-increases-your-risk-of-glaucoma?utm_source=post-email-title&publication_id=548354&post_id=144079717&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&triedRedirect=true&utm_medium=email) **** [Perplexity AI says it is 2-3 X more likely](https://www.perplexity.ai/search/Does-diabetes-increase-G0ewirJtQYSQKBmGIo6n6Q) **** 
+#### Glacoma is 2.6 X more likely in persons with Diabetes - April 2024** [Diabetes increases your risk of glaucoma - Steve K substack](https://kirschsubstack.com/p/diabetes-increases-your-risk-of-glaucoma%3Futm_source%3Dpost-email-title%26publication_id%3D548354%26post_id%3D144079717%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail) **** [Perplexity AI says it is 2-3 X more likely](https://www.perplexity.ai/search/Does-diabetes-increase-G0ewirJtQYSQKBmGIo6n6Q) **** 
 <!-- {SQL( db="vitamind")}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 70  OR categId = 17 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
  studies in both categories Vision and Diabetes
 
@@ -104,7 +104,7 @@ In summary, while diabetic retinopathy is directly linked to the development of 
 
 #### Glaucoma on the web
 
-* [Glaucoma: A hidden threat to vision health rising swiftly](https://www.mdedge.com/internalmedicine/article/265524/mixed-topics/glaucoma-hidden-threat-vision-health-rising-swiftly?ecd=WNL_EVE_230922_mdedge) - September 2023 MDEdge
+* [Glaucoma: A hidden threat to vision health rising swiftly](https://www.mdedge.com/internalmedicine/article/265524/mixed-topics/glaucoma-hidden-threat-vision-health-rising-swiftly%3Fecd%3DWNL_EVE_230922_mdedge) - September 2023 MDEdge
 
   * "Glaucoma is the second leading cause of blindness worldwide, affecting 3 million people in the United States, and yet half of those affected are unaware, according to the Centers for Disease Control and Prevention."
 
@@ -112,7 +112,7 @@ In summary, while diabetic retinopathy is directly linked to the development of 
 
   * "Five percent of 560 70-year-olds had the disease, and half of those did not know they had it before they took part in the study."
 
-* [Glaucoma in the African American and Hispanic Communities: What We Know in 2023](https://www.brightfocus.org/glaucoma/article/glaucoma-african-american-and-hispanic-communities#:~:text=African Americans and Hispanics are,take to prevent vision loss.)
+* [Glaucoma in the African American and Hispanic Communities: What We Know in 2023](https://www.brightfocus.org/glaucoma/article/glaucoma-african-american-and-hispanic-communities%23:~:text%3DAfrican%20Americans%20and%20Hispanics%20are%2Ctake%20to%20prevent%20vision%20loss.)
 
   * "Adjusting for age, African Americans were  **3 to 4 times**  more likely to have a diagnosis of glaucoma compared to Caucasians."
 
@@ -163,7 +163,7 @@ This list is automatically updated
 
 #### Search for Glaucoma and &quot;Vitamin D&quot; 16,300 studies
 
- **[Google Scholar April 2024](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=glaucoma &quot;vitamin d&quot;&amp;btnG=)** 
+ **[Google Scholar April 2024](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dglaucoma%20&quot;vitamin%20d&quot;%26btnG%3D)** 
 
 * Association of the Severity of Primary Open-Angle Glaucoma with Serum Vitamin D Levels  - Dec 2023 - DOI: 10.21608/bmfj.2023.250567.1960 FREE PDF
 
@@ -181,7 +181,7 @@ This list is automatically updated
 
 #### Search for Glaucoma and &quot;Vitamin D receptor&quot; 1,440+ studies
 
- **[As of Feb 2024](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=glaucoma &quot;vitamin D receptor&quot;&amp;btnG=)** 
+ **[As of Feb 2024](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dglaucoma%20&quot;vitamin%20D%20receptor&quot;%26btnG%3D)** 
 
 * Vitamin D and its receptor polymorphisms are associated with glaucoma - Dec 2020 [https://doi.org/10.1016/j.jfo.2020.02.016](https://doi.org/10.1016/j.jfo.2020.02.016) PDF is behind a paywall
 
@@ -203,7 +203,7 @@ This list is automatically updated
 
 ---
 
-#### Glacoma is 2.6 X more likely in persons with Diabetes - April 2024** [Diabetes increases your risk of glaucoma - Steve K substack](https://kirschsubstack.com/p/diabetes-increases-your-risk-of-glaucoma?utm_source=post-email-title&amp;publication_id=548354&amp;post_id=144079717&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;triedRedirect=true&amp;utm_medium=email) **** [Perplexity AI says it is 2-3 X more likely](https://www.perplexity.ai/search/Does-diabetes-increase-G0ewirJtQYSQKBmGIo6n6Q) **** 
+#### Glacoma is 2.6 X more likely in persons with Diabetes - April 2024** [Diabetes increases your risk of glaucoma - Steve K substack](https://kirschsubstack.com/p/diabetes-increases-your-risk-of-glaucoma%3Futm_source%3Dpost-email-title%26publication_id%3D548354%26post_id%3D144079717%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26triedRedirect%3Dtrue%26utm_medium%3Demail) **** [Perplexity AI says it is 2-3 X more likely](https://www.perplexity.ai/search/Does-diabetes-increase-G0ewirJtQYSQKBmGIo6n6Q) **** 
 &lt;!-- {SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 70  OR categId = 17 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
  studies in both categories Vision and Diabetes
 
@@ -229,7 +229,7 @@ In summary, while diabetic retinopathy is directly linked to the development of 
 
 #### Glaucoma on the web
 
-* [Glaucoma: A hidden threat to vision health rising swiftly](https://www.mdedge.com/internalmedicine/article/265524/mixed-topics/glaucoma-hidden-threat-vision-health-rising-swiftly?ecd=WNL_EVE_230922_mdedge) - September 2023 MDEdge
+* [Glaucoma: A hidden threat to vision health rising swiftly](https://www.mdedge.com/internalmedicine/article/265524/mixed-topics/glaucoma-hidden-threat-vision-health-rising-swiftly%3Fecd%3DWNL_EVE_230922_mdedge) - September 2023 MDEdge
 
   * &quot;Glaucoma is the second leading cause of blindness worldwide, affecting 3 million people in the United States, and yet half of those affected are unaware, according to the Centers for Disease Control and Prevention.&quot;
 
@@ -237,7 +237,7 @@ In summary, while diabetic retinopathy is directly linked to the development of 
 
   * &quot;Five percent of 560 70-year-olds had the disease, and half of those did not know they had it before they took part in the study.&quot;
 
-* [Glaucoma in the African American and Hispanic Communities: What We Know in 2023](https://www.brightfocus.org/glaucoma/article/glaucoma-african-american-and-hispanic-communities#:~:text=African Americans and Hispanics are,take to prevent vision loss.)
+* [Glaucoma in the African American and Hispanic Communities: What We Know in 2023](https://www.brightfocus.org/glaucoma/article/glaucoma-african-american-and-hispanic-communities%23:~:text%3DAfrican%20Americans%20and%20Hispanics%20are%2Ctake%20to%20prevent%20vision%20loss.)
 
   * &quot;Adjusting for age, African Americans were  **3 to 4 times**  more likely to have a diagnosis of glaucoma compared to Caucasians.&quot;
 

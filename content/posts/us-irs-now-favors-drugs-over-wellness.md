@@ -17,7 +17,7 @@ categories:
 
 #### IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes
 
- **[ChildrenHealthDefense](https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20240319)** 
+ **[ChildrenHealthDefense](https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240319)** 
 
  **Includes a link to the 40 minute podcast** 
 
@@ -54,7 +54,7 @@ Markdown:
 
 #### IRS Cracks Down on Deductions for Healthy Food, Exercise as Childhood Chronic Disease Epidemic Explodes
 
- **[ChildrenHealthDefense](https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20240319)** 
+ **[ChildrenHealthDefense](https://childrenshealthdefense.org/defender/calley-means-irs-prioritize-pharma-drugs-over-childrens-health-rfk-jr-podcast/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20240319)** 
 
  **Includes a link to the 40 minute podcast** 
 

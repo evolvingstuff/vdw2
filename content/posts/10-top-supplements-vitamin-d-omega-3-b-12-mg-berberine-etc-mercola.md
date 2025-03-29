@@ -15,7 +15,7 @@ date: 2024-01-03
 
 #### 10 Supplements Exploding in Popularity for 2024
 
- **[Dr. Mercola](https://articles.mercola.com/sites/articles/archive/2024/01/03/10-popular-supplements.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&sd=20121119&cid_source=dnl&cid_medium=email&cid_content=art1HL&cid=20240103&foDate=false&mid=DM1511716&rid=2009048189)**  also includes
+ **[Dr. Mercola](https://articles.mercola.com/sites/articles/archive/2024/01/03/10-popular-supplements.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20240103%26foDate%3Dfalse%26mid%3DDM1511716%26rid%3D2009048189)**  also includes
 
 * Other B Vitamins
 
@@ -37,7 +37,7 @@ date: 2024-01-03
 
 * <sup>3,</sup> <sup>4</sup> [Doctormurray.com Berberine](https://doctormurray.com/berberine-alleviates-symptoms-of-anxiety-in-animal-model/)
 
-* <sup>5</sup> [Self Hacked, Berberine Benefits](https://www.selfhacked.com/blog/berberine-19-health-benefits-of-berberine-with-references/#3_Berberine_is_an_Anti-Depressant)
+* <sup>5</sup> [Self Hacked, Berberine Benefits](https://www.selfhacked.com/blog/berberine-19-health-benefits-of-berberine-with-references/%233_Berberine_is_an_Anti-Depressant)
 
 * <sup>6</sup> [Diabetes 2006 Aug; 55(8): 2256-2264](https://diabetes.diabetesjournals.org/content/55/8/2256.full)
 
@@ -45,7 +45,7 @@ date: 2024-01-03
 
 * <sup>8</sup> [Frontiers in Pharmacology 2021; 12: 653887](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107691/)
 
-* <sup>9</sup> [PLoS ONE 5(9): e12244](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012244)
+* <sup>9</sup> [PLoS ONE 5(9): e12244](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0012244)
 
 * <sup>10</sup> [Nature Metabolism 2023; 5: 1911-1930](https://www.nature.com/articles/s42255-023-00916-6)
 
@@ -53,19 +53,19 @@ date: 2024-01-03
 
 * <sup>12</sup> [Journal of Nutritional Biochemistry September 2022; 107: 109056](https://www.sciencedirect.com/science/article/pii/S0955286322001279)
 
-* <sup>13</sup> [Haidut.me May 31, 2023](https://web.archive.org/web/20230328234814/http:/haidut.me/?p=1866)
+* <sup>13</sup> [Haidut.me May 31, 2023](https://web.archive.org/web/20230328234814/http:/haidut.me/%3Fp%3D1866)
 
 * <sup>14</sup> [Nutrients June 2022; 14(11): 2219](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9183138/)
 
-* <sup>15</sup> [Haidut.me May 11, 2023](https://web.archive.org/web/20230521184052/http:/haidut.me/?p=2202)
+* <sup>15</sup> [Haidut.me May 11, 2023](https://web.archive.org/web/20230521184052/http:/haidut.me/%3Fp%3D2202)
 
-* <sup>16</sup> [Cell Reports April 20, 2023; 42(5): 112372](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00383-2?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2211124723003832?showall=true)
+* <sup>16</sup> [Cell Reports April 20, 2023; 42(5): 112372](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00383-2%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S2211124723003832%3Fshowall%3Dtrue)
 
 * <sup>17</sup> [Phys.org April 27, 2023](https://phys.org/news/2023-04-brain-cells-starved-energy-autophagy.html)
 
 * <sup>18</sup> [Nature Cardiovascular Research February 13, 2023; 2: 174-191](https://www.nature.com/articles/s44161-023-00214-0)
 
-* <sup>19</sup> [Haidut.me March 3, 2023](https://web.archive.org/web/20231001140355/http:/haidut.me/?p=2176)
+* <sup>19</sup> [Haidut.me March 3, 2023](https://web.archive.org/web/20231001140355/http:/haidut.me/%3Fp%3D2176)
 
 * <sup>20</sup> [Nutrients 2023; 15(1): 174](https://www.mdpi.com/2072-6643/15/1/174)
 
@@ -73,15 +73,15 @@ date: 2024-01-03
 
 * <sup>22</sup> [JAMA Ophthalmology 2022;140(1):11-18](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2786482)
 
-* <sup>23</sup> [Haidut.me December 9, 2021](https://web.archive.org/web/20230517144035/http:/haidut.me/?p=1687)
+* <sup>23</sup> [Haidut.me December 9, 2021](https://web.archive.org/web/20230517144035/http:/haidut.me/%3Fp%3D1687)
 
 * <sup>24</sup> [Nature Aging 2022; 2: 105-114](https://www.nature.com/articles/s43587-021-00167-8)
 
-* <sup>25</sup> [Haidut.me March 31, 2022](https://web.archive.org/web/20230807110526/http:/haidut.me/?p=1790)
+* <sup>25</sup> [Haidut.me March 31, 2022](https://web.archive.org/web/20230807110526/http:/haidut.me/%3Fp%3D1790)
 
 * <sup>26</sup> [Nature Metabolism 2022; 4: 711-723](https://www.nature.com/articles/s42255-022-00588-8)
 
-* <sup>27</sup> [Haidut.me July 14, 2022](https://web.archive.org/web/20230130091125/http:/haidut.me/?p=1933)
+* <sup>27</sup> [Haidut.me July 14, 2022](https://web.archive.org/web/20230130091125/http:/haidut.me/%3Fp%3D1933)
 
 * <sup>28</sup> [Nat Metab March 2023; 5(3): 357-359](https://pubmed.ncbi.nlm.nih.gov/36914910/)
 
@@ -157,7 +157,7 @@ Markdown:
 
 #### 10 Supplements Exploding in Popularity for 2024
 
- **[Dr. Mercola](https://articles.mercola.com/sites/articles/archive/2024/01/03/10-popular-supplements.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art1HL&amp;cid=20240103&amp;foDate=false&amp;mid=DM1511716&amp;rid=2009048189)**  also includes
+ **[Dr. Mercola](https://articles.mercola.com/sites/articles/archive/2024/01/03/10-popular-supplements.aspx%3Fui%3Dd738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d%26sd%3D20121119%26cid_source%3Ddnl%26cid_medium%3Demail%26cid_content%3Dart1HL%26cid%3D20240103%26foDate%3Dfalse%26mid%3DDM1511716%26rid%3D2009048189)**  also includes
 
 * Other B Vitamins
 
@@ -179,7 +179,7 @@ Markdown:
 
 * &lt;sup&gt;3,&lt;/sup&gt; &lt;sup&gt;4&lt;/sup&gt; [Doctormurray.com Berberine](https://doctormurray.com/berberine-alleviates-symptoms-of-anxiety-in-animal-model/)
 
-* &lt;sup&gt;5&lt;/sup&gt; [Self Hacked, Berberine Benefits](https://www.selfhacked.com/blog/berberine-19-health-benefits-of-berberine-with-references/#3_Berberine_is_an_Anti-Depressant)
+* &lt;sup&gt;5&lt;/sup&gt; [Self Hacked, Berberine Benefits](https://www.selfhacked.com/blog/berberine-19-health-benefits-of-berberine-with-references/%233_Berberine_is_an_Anti-Depressant)
 
 * &lt;sup&gt;6&lt;/sup&gt; [Diabetes 2006 Aug; 55(8): 2256-2264](https://diabetes.diabetesjournals.org/content/55/8/2256.full)
 
@@ -187,7 +187,7 @@ Markdown:
 
 * &lt;sup&gt;8&lt;/sup&gt; [Frontiers in Pharmacology 2021; 12: 653887](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107691/)
 
-* &lt;sup&gt;9&lt;/sup&gt; [PLoS ONE 5(9): e12244](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012244)
+* &lt;sup&gt;9&lt;/sup&gt; [PLoS ONE 5(9): e12244](https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0012244)
 
 * &lt;sup&gt;10&lt;/sup&gt; [Nature Metabolism 2023; 5: 1911-1930](https://www.nature.com/articles/s42255-023-00916-6)
 
@@ -195,19 +195,19 @@ Markdown:
 
 * &lt;sup&gt;12&lt;/sup&gt; [Journal of Nutritional Biochemistry September 2022; 107: 109056](https://www.sciencedirect.com/science/article/pii/S0955286322001279)
 
-* &lt;sup&gt;13&lt;/sup&gt; [Haidut.me May 31, 2023](https://web.archive.org/web/20230328234814/http:/haidut.me/?p=1866)
+* &lt;sup&gt;13&lt;/sup&gt; [Haidut.me May 31, 2023](https://web.archive.org/web/20230328234814/http:/haidut.me/%3Fp%3D1866)
 
 * &lt;sup&gt;14&lt;/sup&gt; [Nutrients June 2022; 14(11): 2219](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9183138/)
 
-* &lt;sup&gt;15&lt;/sup&gt; [Haidut.me May 11, 2023](https://web.archive.org/web/20230521184052/http:/haidut.me/?p=2202)
+* &lt;sup&gt;15&lt;/sup&gt; [Haidut.me May 11, 2023](https://web.archive.org/web/20230521184052/http:/haidut.me/%3Fp%3D2202)
 
-* &lt;sup&gt;16&lt;/sup&gt; [Cell Reports April 20, 2023; 42(5): 112372](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00383-2?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2211124723003832?showall=true)
+* &lt;sup&gt;16&lt;/sup&gt; [Cell Reports April 20, 2023; 42(5): 112372](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00383-2%3F_returnURL%3Dhttps://linkinghub.elsevier.com/retrieve/pii/S2211124723003832%3Fshowall%3Dtrue)
 
 * &lt;sup&gt;17&lt;/sup&gt; [Phys.org April 27, 2023](https://phys.org/news/2023-04-brain-cells-starved-energy-autophagy.html)
 
 * &lt;sup&gt;18&lt;/sup&gt; [Nature Cardiovascular Research February 13, 2023; 2: 174-191](https://www.nature.com/articles/s44161-023-00214-0)
 
-* &lt;sup&gt;19&lt;/sup&gt; [Haidut.me March 3, 2023](https://web.archive.org/web/20231001140355/http:/haidut.me/?p=2176)
+* &lt;sup&gt;19&lt;/sup&gt; [Haidut.me March 3, 2023](https://web.archive.org/web/20231001140355/http:/haidut.me/%3Fp%3D2176)
 
 * &lt;sup&gt;20&lt;/sup&gt; [Nutrients 2023; 15(1): 174](https://www.mdpi.com/2072-6643/15/1/174)
 
@@ -215,15 +215,15 @@ Markdown:
 
 * &lt;sup&gt;22&lt;/sup&gt; [JAMA Ophthalmology 2022;140(1):11-18](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2786482)
 
-* &lt;sup&gt;23&lt;/sup&gt; [Haidut.me December 9, 2021](https://web.archive.org/web/20230517144035/http:/haidut.me/?p=1687)
+* &lt;sup&gt;23&lt;/sup&gt; [Haidut.me December 9, 2021](https://web.archive.org/web/20230517144035/http:/haidut.me/%3Fp%3D1687)
 
 * &lt;sup&gt;24&lt;/sup&gt; [Nature Aging 2022; 2: 105-114](https://www.nature.com/articles/s43587-021-00167-8)
 
-* &lt;sup&gt;25&lt;/sup&gt; [Haidut.me March 31, 2022](https://web.archive.org/web/20230807110526/http:/haidut.me/?p=1790)
+* &lt;sup&gt;25&lt;/sup&gt; [Haidut.me March 31, 2022](https://web.archive.org/web/20230807110526/http:/haidut.me/%3Fp%3D1790)
 
 * &lt;sup&gt;26&lt;/sup&gt; [Nature Metabolism 2022; 4: 711-723](https://www.nature.com/articles/s42255-022-00588-8)
 
-* &lt;sup&gt;27&lt;/sup&gt; [Haidut.me July 14, 2022](https://web.archive.org/web/20230130091125/http:/haidut.me/?p=1933)
+* &lt;sup&gt;27&lt;/sup&gt; [Haidut.me July 14, 2022](https://web.archive.org/web/20230130091125/http:/haidut.me/%3Fp%3D1933)
 
 * &lt;sup&gt;28&lt;/sup&gt; [Nat Metab March 2023; 5(3): 357-359](https://pubmed.ncbi.nlm.nih.gov/36914910/)
 

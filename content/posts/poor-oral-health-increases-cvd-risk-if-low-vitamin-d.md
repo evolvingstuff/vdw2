@@ -123,7 +123,7 @@ Clinical relevance: Anti-inflammatory diet and prevention of vitamin D deficienc
 
 #### 64,000 items result from query of "oral health" (cardiovascular OR CVD)
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22oral+health%22+%28cardiovascular+OR+CVD%29&btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22oral%2Bhealth%22%2B%28cardiovascular%2BOR%2BCVD%29%26btnG%3D)** 
 
 * Vitamin D Deficiency and Oral Health: A Comprehensive Review May 2020 10.3390/nu12051471 FREE PDF
 
@@ -247,7 +247,7 @@ Clinical relevance: Anti-inflammatory diet and prevention of vitamin D deficienc
 
 #### 64,000 items result from query of &quot;oral health&quot; (cardiovascular OR CVD)
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22oral+health%22+%28cardiovascular+OR+CVD%29&amp;btnG=)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D%22oral%2Bhealth%22%2B%28cardiovascular%2BOR%2BCVD%29%26btnG%3D)** 
 
 * Vitamin D Deficiency and Oral Health: A Comprehensive Review May 2020 10.3390/nu12051471 FREE PDF
 

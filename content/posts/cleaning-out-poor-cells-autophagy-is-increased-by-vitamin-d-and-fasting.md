@@ -116,7 +116,7 @@ Please email me if you have any data or experience <span>[hlahore@gmail.com]</sp
 
 #### Time-Restricted Eating and High-Intensity Interval Training Reduced Fat Feb 2023
 
- **[Combination of Time-Restricted Eating and HIIT Reduced Blood Sugar, Weight and Visceral Fat in Obese and Overweight Women](https://www.trialsitenews.com/a/combination-of-time-restricted-eating-and-hiit-reduced-blood-sugar-weight-and-visceral-fat-in-obese-and-overweight-women-f8b387d0 )** 
+ **[Combination of Time-Restricted Eating and HIIT Reduced Blood Sugar, Weight and Visceral Fat in Obese and Overweight Women](https://www.trialsitenews.com/a/combination-of-time-restricted-eating-and-hiit-reduced-blood-sugar-weight-and-visceral-fat-in-obese-and-overweight-women-f8b387d0%20)** 
 
 ---
 
@@ -239,7 +239,7 @@ Please email me if you have any data or experience &lt;span&gt;[hlahore@gmail.co
 
 #### Time-Restricted Eating and High-Intensity Interval Training Reduced Fat Feb 2023
 
- **[Combination of Time-Restricted Eating and HIIT Reduced Blood Sugar, Weight and Visceral Fat in Obese and Overweight Women](https://www.trialsitenews.com/a/combination-of-time-restricted-eating-and-hiit-reduced-blood-sugar-weight-and-visceral-fat-in-obese-and-overweight-women-f8b387d0 )** 
+ **[Combination of Time-Restricted Eating and HIIT Reduced Blood Sugar, Weight and Visceral Fat in Obese and Overweight Women](https://www.trialsitenews.com/a/combination-of-time-restricted-eating-and-hiit-reduced-blood-sugar-weight-and-visceral-fat-in-obese-and-overweight-women-f8b387d0%20)** 
 
 ---
 

@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### Kindle [Amazon $20](https://www.amazon.com/How-Not-Age-Scientific-Healthier-ebook/dp/B09NJV5VCM/ref=sr_1_1?crid=3M6JSO19O90UK&keywords=how not to age&qid=1701793499&sprefix=,aps,307&sr=8-1)
+#### Kindle [Amazon $20](https://www.amazon.com/How-Not-Age-Scientific-Healthier-ebook/dp/B09NJV5VCM/ref%3Dsr_1_1%3Fcrid%3D3M6JSO19O90UK%26keywords%3Dhow%20not%20to%20age%26qid%3D1701793499%26sprefix%3D%2Caps%2C307%26sr%3D8-1)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
@@ -48,7 +48,7 @@ categories:
 
 * Will no longer have milk with my chocolate or blueberries - it cancels the health benefits
 
-  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&ab_channel=ModernHealthspan) (video)
+  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch%3Fv%3DrikOpH6_TgE%26ab_channel%3DModernHealthspan) (video)
 
   * "Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine."
 
@@ -66,7 +66,7 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 ---
 
-###### [80 minute video interview](https://www.youtube.com/watch?v=Xc6cYyL3CxM&ab_channel=PlantChompers)
+###### [80 minute video interview](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26ab_channel%3DPlantChompers)
 
 * One note: Alzheimer's is the largest chapter in his book. Almost was made the chapter as a separate book
 
@@ -76,39 +76,39 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 * Video sections
 
-  * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=0s) The best longevity books
+  * [0:00](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D0s) The best longevity books
 
-  * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=109s) The worst longevity books
+  * [1:49](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D109s) The worst longevity books
 
-  * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=223s) How Not To Age
+  * [3:43](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D223s) How Not To Age
 
-  * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=381s) Fact-checking Dr. Greger
+  * [6:21](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D381s) Fact-checking Dr. Greger
 
-  * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=504s) Why a book on aging
+  * [8:24](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D504s) Why a book on aging
 
-  * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=912s) The main pathways of aging
+  * [15:12](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D912s) The main pathways of aging
 
-  * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1528s) Hormesis
+  * [25:28](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D1528s) Hormesis
 
-  * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1784s) Is Dr. Greger biased?
+  * [29:44](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D1784s) Is Dr. Greger biased?
 
-  * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2087s) Alzheimer's
+  * [34:47](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2087s) Alzheimer's
 
-  * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2509s) Protein
+  * [41:49](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2509s) Protein
 
-  * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2990s) Browning/cooking food
+  * [49:50](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2990s) Browning/cooking food
 
-  * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3415s) Plant-based America
+  * [56:55](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D3415s) Plant-based America
 
-  * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3677s) Beef & chicken
+  * [1:01:17](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D3677s) Beef & chicken
 
-  * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=4620s) How good is How Not to Age?
+  * [1:17:00](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D4620s) How good is How Not to Age?
 
  **He later made: [16 Longevity books compared in a video - Dec 2023](/posts/16-longevity-books-compared-in-a-video)** 
 
 ---
 
-###### 122 minute interview by Michael Shermer - [Dec 16](https://www.youtube.com/watch?v=ZqsrivYAsLw&ab_channel=Skeptic)
+###### 122 minute interview by Michael Shermer - [Dec 16](https://www.youtube.com/watch%3Fv%3DZqsrivYAsLw%26ab_channel%3DSkeptic)
 
 00:00:00 - Intro
 
@@ -168,25 +168,25 @@ Throughout our conversation, Dr. Greger emphasizes the importance of informed ch
 
 ###### 56 minute presentation on "How Not to Age"
 
- **[URL](https://www.youtube.com/watch?v=VqDTU7hR8Ww&ab_channel=VeganLinked)** 
+ **[URL](https://www.youtube.com/watch%3Fv%3DVqDTU7hR8Ww%26ab_channel%3DVeganLinked)** 
 
 ---
 
 ###### 48 minute interview “How Not To Age” - The Exam Room
 
- **[YouTube](https://www.youtube.com/watch?v=ZRtbs8EbTJw&t=2s&ab_channel=PhysiciansCommittee)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DZRtbs8EbTJw%26t%3D2s%26ab_channel%3DPhysiciansCommittee)** 
 
 ---
 
 ###### 78 minute  video interview "The Shocking New Research On Diet & Longevity"
 
- **[YouTube](https://www.youtube.com/watch?v=QC5kmotYu14&ab_channel=TheVeganGym)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DQC5kmotYu14%26ab_channel%3DTheVeganGym)** 
 
 ---
 
 ###### 70 minute video interview: Power of Nutrition to Delay Aging ...
 
-[Youtube](https://www.youtube.com/watch?v=__IeuoJJhdc&t=2831s&ab_channel=GabbyReece)
+[Youtube](https://www.youtube.com/watch%3Fv%3D__IeuoJJhdc%26t%3D2831s%26ab_channel%3DGabbyReece)
 
 00:00:00 - Intro
 
@@ -220,7 +220,7 @@ https://www.timestampgenius.com/
 
 #### Is Aging a Disease? -3 minute video by Greger Jan 2024
 
- **[YouTube](https://www.youtube.com/watch?v=plUft_PH00g&ab_channel=NutritionFacts.org)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DplUft_PH00g%26ab_channel%3DNutritionFacts.org)** 
 
 For decades, one of the most contested questions in gerontology has been whether or not aging itself should be considered a disease. But aging is natural, the counterargument goes; so, it can’t be a disease. Yes, but so is getting an infection, and we call that a disease. But aging is universal. Yes, but everybody gets the common cold too.
 
@@ -317,7 +317,7 @@ Markdown:
 
 ---
 
-#### Kindle [Amazon $20](https://www.amazon.com/How-Not-Age-Scientific-Healthier-ebook/dp/B09NJV5VCM/ref=sr_1_1?crid=3M6JSO19O90UK&amp;keywords=how not to age&amp;qid=1701793499&amp;sprefix=,aps,307&amp;sr=8-1)
+#### Kindle [Amazon $20](https://www.amazon.com/How-Not-Age-Scientific-Healthier-ebook/dp/B09NJV5VCM/ref%3Dsr_1_1%3Fcrid%3D3M6JSO19O90UK%26keywords%3Dhow%20not%20to%20age%26qid%3D1701793499%26sprefix%3D%2Caps%2C307%26sr%3D8-1)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 
@@ -349,7 +349,7 @@ Markdown:
 
 * Will no longer have milk with my chocolate or blueberries - it cancels the health benefits
 
-  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&amp;ab_channel=ModernHealthspan) (video)
+  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch%3Fv%3DrikOpH6_TgE%26ab_channel%3DModernHealthspan) (video)
 
   * &quot;Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine.&quot;
 
@@ -367,7 +367,7 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 ---
 
-###### [80 minute video interview](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;ab_channel=PlantChompers)
+###### [80 minute video interview](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26ab_channel%3DPlantChompers)
 
 * One note: Alzheimer&#39;s is the largest chapter in his book. Almost was made the chapter as a separate book
 
@@ -377,39 +377,39 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 * Video sections
 
-  * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=0s) The best longevity books
+  * [0:00](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D0s) The best longevity books
 
-  * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=109s) The worst longevity books
+  * [1:49](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D109s) The worst longevity books
 
-  * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=223s) How Not To Age
+  * [3:43](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D223s) How Not To Age
 
-  * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=381s) Fact-checking Dr. Greger
+  * [6:21](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D381s) Fact-checking Dr. Greger
 
-  * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=504s) Why a book on aging
+  * [8:24](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D504s) Why a book on aging
 
-  * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=912s) The main pathways of aging
+  * [15:12](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D912s) The main pathways of aging
 
-  * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1528s) Hormesis
+  * [25:28](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D1528s) Hormesis
 
-  * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1784s) Is Dr. Greger biased?
+  * [29:44](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D1784s) Is Dr. Greger biased?
 
-  * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2087s) Alzheimer&#39;s
+  * [34:47](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2087s) Alzheimer&#39;s
 
-  * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2509s) Protein
+  * [41:49](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2509s) Protein
 
-  * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2990s) Browning/cooking food
+  * [49:50](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D2990s) Browning/cooking food
 
-  * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3415s) Plant-based America
+  * [56:55](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D3415s) Plant-based America
 
-  * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3677s) Beef &amp; chicken
+  * [1:01:17](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D3677s) Beef &amp; chicken
 
-  * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=4620s) How good is How Not to Age?
+  * [1:17:00](https://www.youtube.com/watch%3Fv%3DXc6cYyL3CxM%26t%3D4620s) How good is How Not to Age?
 
  **He later made: [16 Longevity books compared in a video - Dec 2023](/posts/16-longevity-books-compared-in-a-video)** 
 
 ---
 
-###### 122 minute interview by Michael Shermer - [Dec 16](https://www.youtube.com/watch?v=ZqsrivYAsLw&amp;ab_channel=Skeptic)
+###### 122 minute interview by Michael Shermer - [Dec 16](https://www.youtube.com/watch%3Fv%3DZqsrivYAsLw%26ab_channel%3DSkeptic)
 
 00:00:00 - Intro
 
@@ -469,25 +469,25 @@ Throughout our conversation, Dr. Greger emphasizes the importance of informed ch
 
 ###### 56 minute presentation on &quot;How Not to Age&quot;
 
- **[URL](https://www.youtube.com/watch?v=VqDTU7hR8Ww&amp;ab_channel=VeganLinked)** 
+ **[URL](https://www.youtube.com/watch%3Fv%3DVqDTU7hR8Ww%26ab_channel%3DVeganLinked)** 
 
 ---
 
 ###### 48 minute interview “How Not To Age” - The Exam Room
 
- **[YouTube](https://www.youtube.com/watch?v=ZRtbs8EbTJw&amp;t=2s&amp;ab_channel=PhysiciansCommittee)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DZRtbs8EbTJw%26t%3D2s%26ab_channel%3DPhysiciansCommittee)** 
 
 ---
 
 ###### 78 minute  video interview &quot;The Shocking New Research On Diet &amp; Longevity&quot;
 
- **[YouTube](https://www.youtube.com/watch?v=QC5kmotYu14&amp;ab_channel=TheVeganGym)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DQC5kmotYu14%26ab_channel%3DTheVeganGym)** 
 
 ---
 
 ###### 70 minute video interview: Power of Nutrition to Delay Aging ...
 
-[Youtube](https://www.youtube.com/watch?v=__IeuoJJhdc&amp;t=2831s&amp;ab_channel=GabbyReece)
+[Youtube](https://www.youtube.com/watch%3Fv%3D__IeuoJJhdc%26t%3D2831s%26ab_channel%3DGabbyReece)
 
 00:00:00 - Intro
 
@@ -521,7 +521,7 @@ https://www.timestampgenius.com/
 
 #### Is Aging a Disease? -3 minute video by Greger Jan 2024
 
- **[YouTube](https://www.youtube.com/watch?v=plUft_PH00g&amp;ab_channel=NutritionFacts.org)** 
+ **[YouTube](https://www.youtube.com/watch%3Fv%3DplUft_PH00g%26ab_channel%3DNutritionFacts.org)** 
 
 For decades, one of the most contested questions in gerontology has been whether or not aging itself should be considered a disease. But aging is natural, the counterargument goes; so, it can’t be a disease. Yes, but so is getting an infection, and we call that a disease. But aging is universal. Yes, but everybody gets the common cold too.
 

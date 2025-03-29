@@ -34,7 +34,7 @@ Results
 
 The psychopathologic evaluation was completed by 591 children aged 10 y, and 16 children (2.7%) were diagnosed with autism and 65 (11.0%) with ADHD. Hereof, 496 children participated in the vitamin D3 trial (246 received high-dose, 250 standard dose). Of these, 12 children (2.4%) were diagnosed with autism and 58 (11.7%) with ADHD. 
 
-Higher maternal preintervention 25(OH)D levels were associated with a decreased risk of autism [odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034](odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034), lower autistic symptom load [β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033](β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033). High-dose vitamin D3 supplementation was not associated with risk of autism or ADHD.
+Higher maternal preintervention 25(OH)D levels were associated with a decreased risk of autism [odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034](odd%20ratio%20(OR)%20per%2010%20nmol/L:%200.76%20(0.59%2C0.97);%20P%20%3D%200.034), lower autistic symptom load [β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033](β%20per%2010%20nmol/L:%20−0.03%20(−0.05%2C0.00);%20P%20%3D%200.024)%2C%20and%20decreased%20risk%20of%20ADHD%20diagnosis%20(OR%20per%2010%20nmol/L:%200.88%20(0.78%2C0.99);%20P%20%3D%200.033). High-dose vitamin D3 supplementation was not associated with risk of autism or ADHD.
 
 Conclusions
 
@@ -81,7 +81,7 @@ Results
 
 The psychopathologic evaluation was completed by 591 children aged 10 y, and 16 children (2.7%) were diagnosed with autism and 65 (11.0%) with ADHD. Hereof, 496 children participated in the vitamin D3 trial (246 received high-dose, 250 standard dose). Of these, 12 children (2.4%) were diagnosed with autism and 58 (11.7%) with ADHD. 
 
-Higher maternal preintervention 25(OH)D levels were associated with a decreased risk of autism [odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034](odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034), lower autistic symptom load [β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033](β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033). High-dose vitamin D3 supplementation was not associated with risk of autism or ADHD.
+Higher maternal preintervention 25(OH)D levels were associated with a decreased risk of autism [odd ratio (OR) per 10 nmol/L: 0.76 (0.59,0.97); P = 0.034](odd%20ratio%20(OR)%20per%2010%20nmol/L:%200.76%20(0.59%2C0.97);%20P%20%3D%200.034), lower autistic symptom load [β per 10 nmol/L: −0.03 (−0.05,0.00); P = 0.024), and decreased risk of ADHD diagnosis (OR per 10 nmol/L: 0.88 (0.78,0.99); P = 0.033](β%20per%2010%20nmol/L:%20−0.03%20(−0.05%2C0.00);%20P%20%3D%200.024)%2C%20and%20decreased%20risk%20of%20ADHD%20diagnosis%20(OR%20per%2010%20nmol/L:%200.88%20(0.78%2C0.99);%20P%20%3D%200.033). High-dose vitamin D3 supplementation was not associated with risk of autism or ADHD.
 
 Conclusions
 

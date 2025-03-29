@@ -37,7 +37,7 @@ Conclusion: Concurrent COVID-19 infection had the strongest association with ear
 
 ##### Substack on the study: Risk of Stroke Skyrockets with COVID-19 Infection after Vaccination
 
- **[Peter McCullough](https://petermcculloughmd.substack.com/p/risk-of-stroke-skyrockets-with-covid?utm_source=substack&utm_medium=email)** 
+ **[Peter McCullough](https://petermcculloughmd.substack.com/p/risk-of-stroke-skyrockets-with-covid%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 ---
 
@@ -92,7 +92,7 @@ Conclusion: Concurrent COVID-19 infection had the strongest association with ear
 
 ##### Substack on the study: Risk of Stroke Skyrockets with COVID-19 Infection after Vaccination
 
- **[Peter McCullough](https://petermcculloughmd.substack.com/p/risk-of-stroke-skyrockets-with-covid?utm_source=substack&amp;utm_medium=email)** 
+ **[Peter McCullough](https://petermcculloughmd.substack.com/p/risk-of-stroke-skyrockets-with-covid%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 ---
 

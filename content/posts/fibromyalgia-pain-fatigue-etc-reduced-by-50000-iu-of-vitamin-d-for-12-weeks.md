@@ -53,7 +53,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 
 #### VitaminDWiki - <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
 
- **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
+ **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview%2BFibromyalgia%2Bor%2BChronic%2BFatigue%2Band%2Bvitamin%2BD%23Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
 
 ---
 
@@ -115,7 +115,7 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D&lt;/a&gt;
 
- **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
+ **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview%2BFibromyalgia%2Bor%2BChronic%2BFatigue%2Band%2Bvitamin%2BD%23Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
 
 ---
 

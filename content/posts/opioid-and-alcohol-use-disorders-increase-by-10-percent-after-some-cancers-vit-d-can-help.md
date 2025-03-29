@@ -17,7 +17,7 @@ categories:
 
 #### SUDs rates highest in head, neck, and gastric cancer survivors
 
- **[MD Edge](https://www.mdedge.com/hematology-oncology/article/267385/mixed-topics/suds-rates-highest-head-neck-and-gastric-cancer?ecd=WNL_EVE_240118_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/hematology-oncology/article/267385/mixed-topics/suds-rates-highest-head-neck-and-gastric-cancer%3Fecd%3DWNL_EVE_240118_mdedge)** 
 
 * "Nearly 10% of survivors of head, neck, esophageal, and gastric cancers experienced active  **substance use disorders** , based on data from more than 6,000 individuals."
 
@@ -89,7 +89,7 @@ Markdown:
 
 #### SUDs rates highest in head, neck, and gastric cancer survivors
 
- **[MD Edge](https://www.mdedge.com/hematology-oncology/article/267385/mixed-topics/suds-rates-highest-head-neck-and-gastric-cancer?ecd=WNL_EVE_240118_mdedge)** 
+ **[MD Edge](https://www.mdedge.com/hematology-oncology/article/267385/mixed-topics/suds-rates-highest-head-neck-and-gastric-cancer%3Fecd%3DWNL_EVE_240118_mdedge)** 
 
 * &quot;Nearly 10% of survivors of head, neck, esophageal, and gastric cancers experienced active  **substance use disorders** , based on data from more than 6,000 individuals.&quot;
 

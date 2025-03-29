@@ -13,7 +13,7 @@ categories:
 
 #### First Sign of a Magnesium Deficiency NEVER to Ignore - video
 
- **[Dr. Berg, 8 minutes](https://www.youtube.com/watch?v=EN9e99iRTCQ&ab_channel=Dr.EricBergDC)** 
+ **[Dr. Berg, 8 minutes](https://www.youtube.com/watch%3Fv%3DEN9e99iRTCQ%26ab_channel%3DDr.EricBergDC)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="150">
 
@@ -118,7 +118,7 @@ Markdown:
 
 #### First Sign of a Magnesium Deficiency NEVER to Ignore - video
 
- **[Dr. Berg, 8 minutes](https://www.youtube.com/watch?v=EN9e99iRTCQ&amp;ab_channel=Dr.EricBergDC)** 
+ **[Dr. Berg, 8 minutes](https://www.youtube.com/watch%3Fv%3DEN9e99iRTCQ%26ab_channel%3DDr.EricBergDC)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;150&quot;&gt;
 

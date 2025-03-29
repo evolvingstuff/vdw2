@@ -14,7 +14,7 @@ categories:
 
 #### Why Vaccine-Pushing Cardiologists Never See Myocarditis
 
- **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&publication_id=1119676&post_id=139148225&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
+ **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D139148225%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
  **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
 
@@ -22,7 +22,7 @@ categories:
 
 #### 25% increase in emergency cardiac calls: Israel, age 16-39, first 4 months of 2021
 
- **[MYOCARDITIS UPDATE = subtack](https://phillipaltman.substack.com/p/myocarditis-update?utm_source=post-email-title&publication_id=1301027&post_id=139254381&utm_campaign=email-post-title&isFreemail=true&r=ofo3r&utm_medium=email)** 
+ **[MYOCARDITIS UPDATE = subtack](https://phillipaltman.substack.com/p/myocarditis-update%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139254381%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 ---
 
@@ -42,7 +42,7 @@ Markdown:
 
 #### Why Vaccine-Pushing Cardiologists Never See Myocarditis
 
- **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=139148225&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
+ **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists%3Futm_source%3Dpost-email-title%26publication_id%3D1119676%26post_id%3D139148225%26utm_campaign%3Demail-post-title%26isFreemail%3Dfalse%26r%3Dofo3r%26utm_medium%3Demail)** 
 
  **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
 
@@ -50,7 +50,7 @@ Markdown:
 
 #### 25% increase in emergency cardiac calls: Israel, age 16-39, first 4 months of 2021
 
- **[MYOCARDITIS UPDATE = subtack](https://phillipaltman.substack.com/p/myocarditis-update?utm_source=post-email-title&amp;publication_id=1301027&amp;post_id=139254381&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=ofo3r&amp;utm_medium=email)** 
+ **[MYOCARDITIS UPDATE = subtack](https://phillipaltman.substack.com/p/myocarditis-update%3Futm_source%3Dpost-email-title%26publication_id%3D1301027%26post_id%3D139254381%26utm_campaign%3Demail-post-title%26isFreemail%3Dtrue%26r%3Dofo3r%26utm_medium%3Demail)** 
 
 ---
 

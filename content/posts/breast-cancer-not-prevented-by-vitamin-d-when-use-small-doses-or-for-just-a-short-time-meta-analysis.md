@@ -13,7 +13,7 @@ categories:
 
  **<span style="color:orange;">The study looked at >2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?</span>** 
 
- **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss)** 
+ **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud%3Fpartner%3Drss%26utm_source%3Drss%26utm_medium%3Dfeed%26utm_campaign%3Drss%2Bfastcompany%26utm_content%3Drss)** 
 
 <!-- {maketoc Title=""} -->
  
@@ -56,7 +56,7 @@ Markdown:
 --------
  **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
 
- **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss)** 
+ **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud%3Fpartner%3Drss%26utm_source%3Drss%26utm_medium%3Dfeed%26utm_campaign%3Drss%2Bfastcompany%26utm_content%3Drss)** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
  

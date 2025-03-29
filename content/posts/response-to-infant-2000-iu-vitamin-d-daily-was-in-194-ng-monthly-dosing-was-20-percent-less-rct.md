@@ -28,7 +28,7 @@ Objectives: Compare the efficacy and safety of daily vs. monthly oral vitamin D3
 
 Methods: 90 infants with symsptomatic vitamin D deficiency were randomized into Daily (D) <span>[46 infants]</span> and Bolus (B) <span>[44 infants]</span> groups to receive oral vitamin D3, daily (2000 IU/day) and bolus (60,000 IU/month) for three months respectively. Both groups received daily oral calcium @50 mg/kg/day. Serum calcium (Ca), phosphate (P), alkaline phosphatase (ALP), 25-hydroxy cholecalciferol <span>[25(OH)D]</span>, parathyroid hormone (PTH) levels, urine calcium: creatinine ratio and radiological score were assessed at baseline, 4 and 12 weeks. At the end of 12 weeks, 78 infants were available for evaluation of efficacy and safety of both regimens.
 
-Results: Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B - 108.25 ± 32.40 nmol/L; p - 0.012) and 12 weeks (group D - 193.69 ± 32.47 nmol/L, group B - 153.85 ± 33.60 nmol/L; p<0.001). Eight infants [group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268](group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
+Results: Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B - 108.25 ± 32.40 nmol/L; p - 0.012) and 12 weeks (group D - 193.69 ± 32.47 nmol/L, group B - 153.85 ± 33.60 nmol/L; p<0.001). Eight infants [group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268](group%20D%20-%206/41%20(14.6%20%);%20group%20B%20-%202/37%20(5.4%20%)%2C%20p%3D0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
 
 Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are efficacious and safe for treating symptomatic vitamin D deficiency in infants.
 
@@ -60,7 +60,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * <a href="/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D dosing - weekly may be better than daily – video Aug 2018">Vitamin D dosing - weekly may be better than daily – video Aug 2018</a>
 
-* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php?page_id=2475) has the following chart
+* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php%3Fpage_id%3D2475) has the following chart
 
 &nbsp;&nbsp;&nbsp;&nbsp;This chart unrealistically assumes 100% compliance for daily dosing
 
@@ -192,7 +192,7 @@ Objectives: Compare the efficacy and safety of daily vs. monthly oral vitamin D3
 
 Methods: 90 infants with symsptomatic vitamin D deficiency were randomized into Daily (D) &lt;span&gt;[46 infants]&lt;/span&gt; and Bolus (B) &lt;span&gt;[44 infants]&lt;/span&gt; groups to receive oral vitamin D3, daily (2000 IU/day) and bolus (60,000 IU/month) for three months respectively. Both groups received daily oral calcium @50 mg/kg/day. Serum calcium (Ca), phosphate (P), alkaline phosphatase (ALP), 25-hydroxy cholecalciferol &lt;span&gt;[25(OH)D]&lt;/span&gt;, parathyroid hormone (PTH) levels, urine calcium: creatinine ratio and radiological score were assessed at baseline, 4 and 12 weeks. At the end of 12 weeks, 78 infants were available for evaluation of efficacy and safety of both regimens.
 
-Results: Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B - 108.25 ± 32.40 nmol/L; p - 0.012) and 12 weeks (group D - 193.69 ± 32.47 nmol/L, group B - 153.85 ± 33.60 nmol/L; p&lt;0.001). Eight infants [group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268](group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
+Results: Both regimens led to a statistically significant increase in Ca and P levels and fall in ALP and PTH levels from baseline to 4 and 12 weeks of therapy, with no inter-group difference. Infants in group D had statistically significant higher mean 25(OH)D levels as compared to group B at 4 weeks (group D 130.89 ± 43.43 nmol/L, group B - 108.25 ± 32.40 nmol/L; p - 0.012) and 12 weeks (group D - 193.69 ± 32.47 nmol/L, group B - 153.85 ± 33.60 nmol/L; p&lt;0.001). Eight infants [group D - 6/41 (14.6 %); group B - 2/37 (5.4 %), p=0.268](group%20D%20-%206/41%20(14.6%20%);%20group%20B%20-%202/37%20(5.4%20%)%2C%20p%3D0.268) developed mild asymptomatic hypercalcemia without hypercalciuria at 12 weeks that corrected spontaneously within a week.
 
 Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are efficacious and safe for treating symptomatic vitamin D deficiency in infants.
 
@@ -224,7 +224,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * &lt;a href=&quot;/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D dosing - weekly may be better than daily – video Aug 2018&quot;&gt;Vitamin D dosing - weekly may be better than daily – video Aug 2018&lt;/a&gt;
 
-* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php?page_id=2475) has the following chart
+* [Take vitamin D3 daily or weekly](https://www.VitaminDWiki.com/tiki-index.php%3Fpage_id%3D2475) has the following chart
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;This chart unrealistically assumes 100% compliance for daily dosing
 

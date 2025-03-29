@@ -44,7 +44,7 @@ However, low intakes relative to DRVs were found for
 
 * iodine (57–65% of DRV). 
 
-Age specific downward deviations were observed for iron intake in toddlers (75% of DRV) and for calcium intake in preschoolers (67–77% of DRV). In contrast, intakes were high for saturated fatty acids (SFA) (14–16 E%), mono-/disaccharides (60–87 g/day), and protein [2.1–2.6 g/(kg body weight*day)](2.1–2.6 g/(kg body weight*day)).
+Age specific downward deviations were observed for iron intake in toddlers (75% of DRV) and for calcium intake in preschoolers (67–77% of DRV). In contrast, intakes were high for saturated fatty acids (SFA) (14–16 E%), mono-/disaccharides (60–87 g/day), and protein [2.1–2.6 g/(kg body weight*day)](2.1–2.6%20g/(kg%20body%20weight*day)).
 
 Conclusion: Nutrient imbalances in toddlers and preschoolers in Germany, which are partly age-related, give rise to concern. Research is needed to determine if routine vitamin D supplementation should be extended beyond infancy. Public health efforts to increase the rate of use of iodized salt and to reduce the intake of SFA and mono-/disaccharides in children’s diets are to be strengthened.
 
@@ -101,7 +101,7 @@ However, low intakes relative to DRVs were found for
 
 * iodine (57–65% of DRV). 
 
-Age specific downward deviations were observed for iron intake in toddlers (75% of DRV) and for calcium intake in preschoolers (67–77% of DRV). In contrast, intakes were high for saturated fatty acids (SFA) (14–16 E%), mono-/disaccharides (60–87 g/day), and protein [2.1–2.6 g/(kg body weight*day)](2.1–2.6 g/(kg body weight*day)).
+Age specific downward deviations were observed for iron intake in toddlers (75% of DRV) and for calcium intake in preschoolers (67–77% of DRV). In contrast, intakes were high for saturated fatty acids (SFA) (14–16 E%), mono-/disaccharides (60–87 g/day), and protein [2.1–2.6 g/(kg body weight*day)](2.1–2.6%20g/(kg%20body%20weight*day)).
 
 Conclusion: Nutrient imbalances in toddlers and preschoolers in Germany, which are partly age-related, give rise to concern. Research is needed to determine if routine vitamin D supplementation should be extended beyond infancy. Public health efforts to increase the rate of use of iodized salt and to reduce the intake of SFA and mono-/disaccharides in children’s diets are to be strengthened.
 

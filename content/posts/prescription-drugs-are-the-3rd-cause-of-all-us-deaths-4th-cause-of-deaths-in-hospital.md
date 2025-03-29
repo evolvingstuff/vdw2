@@ -13,7 +13,7 @@ categories:
 
 #### Prescription Drugs Are the Leading Cause of Death
 
- **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&utm_medium=email)** 
+ **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "37,309 drug deaths were reported to the FDA in 2006 and 123,927 ten years later, which is 3.3 times as many"
 
@@ -45,7 +45,7 @@ Markdown:
 
 #### Prescription Drugs Are the Leading Cause of Death
 
- **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email)** 
+ **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;37,309 drug deaths were reported to the FDA in 2006 and 123,927 ten years later, which is 3.3 times as many&quot;
 

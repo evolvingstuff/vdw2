@@ -36,7 +36,7 @@ Mother-child dyads from ECHO cohorts with data available on prenatal (first trim
 
 Results
 
-Early (1.5–5 y) and middle childhood (6–13 y) outcomes were examined in 1688 and 1480 dyads, respectively. Approximately 45% were vitamin D deficient [25(OH)D < 20 ng/mL](25(OH)D < 20 ng/mL), with Black women overrepresented in this group. 
+Early (1.5–5 y) and middle childhood (6–13 y) outcomes were examined in 1688 and 1480 dyads, respectively. Approximately 45% were vitamin D deficient [25(OH)D < 20 ng/mL](25(OH)D%20<%2020%20ng/mL), with Black women overrepresented in this group. 
 
 In fully adjusted models, 25(OH)D concentrations in prenatal or cord blood were negatively associated with  **externalizing behavior T-scores in middle childhood [−0.73 (95% CI: −1.36, −0.10) per 10 ng/mL**  increase in gestational 25(OH)D]. We found no evidence of effect modification by race. In a sensitivity analysis restricted to those with 25(OH)D assessed in prenatal maternal samples, 25(OH)D was negatively associated with externalizing and total behavioral problems in early childhood.
 
@@ -50,7 +50,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin%2BD%2Band%2BOmega-3%23Associations_with_the_category_Omega-3)
 
 ---
 
@@ -91,7 +91,7 @@ Mother-child dyads from ECHO cohorts with data available on prenatal (first trim
 
 Results
 
-Early (1.5–5 y) and middle childhood (6–13 y) outcomes were examined in 1688 and 1480 dyads, respectively. Approximately 45% were vitamin D deficient [25(OH)D &lt; 20 ng/mL](25(OH)D &lt; 20 ng/mL), with Black women overrepresented in this group. 
+Early (1.5–5 y) and middle childhood (6–13 y) outcomes were examined in 1688 and 1480 dyads, respectively. Approximately 45% were vitamin D deficient [25(OH)D &lt; 20 ng/mL](25(OH)D%20&lt;%2020%20ng/mL), with Black women overrepresented in this group. 
 
 In fully adjusted models, 25(OH)D concentrations in prenatal or cord blood were negatively associated with  **externalizing behavior T-scores in middle childhood [−0.73 (95% CI: −1.36, −0.10) per 10 ng/mL**  increase in gestational 25(OH)D]. We found no evidence of effect modification by race. In a sensitivity analysis restricted to those with 25(OH)D assessed in prenatal maternal samples, 25(OH)D was negatively associated with externalizing and total behavioral problems in early childhood.
 
@@ -105,7 +105,7 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 ---
 
-#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
+#### VitaminDWiki - [Omega-3 associations  with other categories](https://VitaminDWiki.com/Vitamin%2BD%2Band%2BOmega-3%23Associations_with_the_category_Omega-3)
 
 ---
 

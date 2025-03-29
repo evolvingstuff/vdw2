@@ -25,7 +25,7 @@ which was reporting on
 
 #### Vitamin D dose guidance may not be high enough for heart health
 
- **[Medical News Today](https://www.medicalnewstoday.com/articles/vitamin-d-dose-guidance-may-not-be-high-enough-for-heart-health#How-much-vitamin-D-is-enough?)** 
+ **[Medical News Today](https://www.medicalnewstoday.com/articles/vitamin-d-dose-guidance-may-not-be-high-enough-for-heart-health%23How-much-vitamin-D-is-enough%3F)** 
 
 * "... 51% needed between 5,000-8,000 IU, much higher than the recommended dietary allowance. Additionally, 14.6% of participants required 10,000 IU or more to reach optimal vitamin D levels."
 
@@ -64,7 +64,7 @@ which was reporting on
 
 #### Vitamin D dose guidance may not be high enough for heart health
 
- **[Medical News Today](https://www.medicalnewstoday.com/articles/vitamin-d-dose-guidance-may-not-be-high-enough-for-heart-health#How-much-vitamin-D-is-enough?)** 
+ **[Medical News Today](https://www.medicalnewstoday.com/articles/vitamin-d-dose-guidance-may-not-be-high-enough-for-heart-health%23How-much-vitamin-D-is-enough%3F)** 
 
 * &quot;... 51% needed between 5,000-8,000 IU, much higher than the recommended dietary allowance. Additionally, 14.6% of participants required 10,000 IU or more to reach optimal vitamin D levels.&quot;
 

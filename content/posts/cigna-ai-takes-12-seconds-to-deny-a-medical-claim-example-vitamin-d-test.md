@@ -8,7 +8,7 @@ date: 2023-08-07
 ---
 
 
- **[Cigna accused of using AI, not doctors, to deny claims: Lawsuit](https://www.mdedge.com/hematology-oncology/article/264561/practice-management/cigna-accused-using-ai-not-doctors-deny?ecd=WNL_EVE_230807_mdedge)  MDedge** 
+ **[Cigna accused of using AI, not doctors, to deny claims: Lawsuit](https://www.mdedge.com/hematology-oncology/article/264561/practice-management/cigna-accused-using-ai-not-doctors-deny%3Fecd%3DWNL_EVE_230807_mdedge)  MDedge** 
 
 * "A new lawsuit alleges that Cigna uses artificial intelligence (AI) algorithms to inappropriately deny “hundreds or thousands” of claims at a time, bypassing legal requirements to complete individual claim reviews and forcing providers to bill patients in full."
 
@@ -27,7 +27,7 @@ date: 2023-08-07
 <code class="language-text">
 Markdown:
 --------
- **[Cigna accused of using AI, not doctors, to deny claims: Lawsuit](https://www.mdedge.com/hematology-oncology/article/264561/practice-management/cigna-accused-using-ai-not-doctors-deny?ecd=WNL_EVE_230807_mdedge)  MDedge** 
+ **[Cigna accused of using AI, not doctors, to deny claims: Lawsuit](https://www.mdedge.com/hematology-oncology/article/264561/practice-management/cigna-accused-using-ai-not-doctors-deny%3Fecd%3DWNL_EVE_230807_mdedge)  MDedge** 
 
 * &quot;A new lawsuit alleges that Cigna uses artificial intelligence (AI) algorithms to inappropriately deny “hundreds or thousands” of claims at a time, bypassing legal requirements to complete individual claim reviews and forcing providers to bill patients in full.&quot;
 

@@ -64,7 +64,7 @@ This list is automatically updated
 
 The incidence of MS varies significantly by race and ethnicity, with whites of European ancestry historically being the most affected. However, recent studies have shown an increasing incidence among African Americans and unique disease characteristics and progression in African Americans and Hispanics: 
 
-[full response by Perplexity Feb 2024]( https://www.perplexity.ai/search/How-does-the-XEqEV5ulQBaN4OauWzjUIg?s=c  )
+[full response by Perplexity Feb 2024](%20https://www.perplexity.ai/search/How-does-the-XEqEV5ulQBaN4OauWzjUIg%3Fs%3Dc%20%20)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -123,7 +123,7 @@ This list is automatically updated
 
 The incidence of MS varies significantly by race and ethnicity, with whites of European ancestry historically being the most affected. However, recent studies have shown an increasing incidence among African Americans and unique disease characteristics and progression in African Americans and Hispanics: 
 
-[full response by Perplexity Feb 2024]( https://www.perplexity.ai/search/How-does-the-XEqEV5ulQBaN4OauWzjUIg?s=c  )
+[full response by Perplexity Feb 2024](%20https://www.perplexity.ai/search/How-does-the-XEqEV5ulQBaN4OauWzjUIg%3Fs%3Dc%20%20)
 
 AST Structure:
 -------------

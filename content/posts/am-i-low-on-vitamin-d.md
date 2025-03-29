@@ -20,7 +20,7 @@ categories:
 | --- | --- | --- | --- |
 | Cost | Time | Result | Description |
 | FREE | 1 minute | <10ng | press on breastbone and both shinbones<br>if 2 of 3 are painful then very low vitamin D |
-| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon<br>take one 50,000 IU daily for a week<br>See if you feel a benefit<br>If yes, take [1 capsule every 2 weeks](/tiki-index.php?page_id=5217) <br>(very conservative, every easy, lowest cost) |
+| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon<br>take one 50,000 IU daily for a week<br>See if you feel a benefit<br>If yes, take [1 capsule every 2 weeks](/tiki-index.php%3Fpage_id%3D5217) <br>(very conservative, every easy, lowest cost) |
 | $35 | 10 days | <35 ng | [https://is.gd/dtestqual](https://is.gd/dtestqual) Amazon UK<br> 2 testers which look similar to COVID tester<br>but uses 2 drops of blood instead of nasal mucus<br>yes/no answer in 10 minutes |
 | $55 | 10 days | quantitative<br> 5 to 200 ng | [https://is.gd/vitdtestquant](https://is.gd/vitdtestquant) Amazon<br>Get results in <5 days |
 
@@ -60,7 +60,7 @@ Markdown:
 | --- | --- | --- | --- |
 | Cost | Time | Result | Description |
 | FREE | 1 minute | &lt;10ng | press on breastbone and both shinbones&lt;br&gt;if 2 of 3 are painful then very low vitamin D |
-| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon&lt;br&gt;take one 50,000 IU daily for a week&lt;br&gt;See if you feel a benefit&lt;br&gt;If yes, take [1 capsule every 2 weeks](/tiki-index.php?page_id=5217) &lt;br&gt;(very conservative, every easy, lowest cost) |
+| $10 | 1 month | N.A. | [https://is.gd/60each50K](https://is.gd/60each50K) Amazon&lt;br&gt;take one 50,000 IU daily for a week&lt;br&gt;See if you feel a benefit&lt;br&gt;If yes, take [1 capsule every 2 weeks](/tiki-index.php%3Fpage_id%3D5217) &lt;br&gt;(very conservative, every easy, lowest cost) |
 | $35 | 10 days | &lt;35 ng | [https://is.gd/dtestqual](https://is.gd/dtestqual) Amazon UK&lt;br&gt; 2 testers which look similar to COVID tester&lt;br&gt;but uses 2 drops of blood instead of nasal mucus&lt;br&gt;yes/no answer in 10 minutes |
 | $55 | 10 days | quantitative&lt;br&gt; 5 to 200 ng | [https://is.gd/vitdtestquant](https://is.gd/vitdtestquant) Amazon&lt;br&gt;Get results in &lt;5 days |
 

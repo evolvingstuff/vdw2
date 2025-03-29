@@ -17,7 +17,7 @@ categories:
 
 #### Politics — Not Science or Health — Behind Return of Mask Mandates, Critics Say
 
- **[The Defender](https://childrenshealthdefense.org/defender/politics-mask-mandates-return/?utm_source=luminate&utm_medium=email&utm_campaign=defender&utm_id=20230825)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/politics-mask-mandates-return/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230825)** 
 
 “Masks are not effective against the spread of viruses like COVID-19,” said [Brian Hooker, Ph.D.](https://childrenshealthdefense.org/authors/brian-hooker-ph-d-p-e/), senior director of science and research for Children’s Health Defense (CHD). “The virus is much too small to be blocked by a cloth/paper mask and even N95 masks have very limited effectiveness in reducing transmission.”
 
@@ -109,7 +109,7 @@ Markdown:
 
 #### Politics — Not Science or Health — Behind Return of Mask Mandates, Critics Say
 
- **[The Defender](https://childrenshealthdefense.org/defender/politics-mask-mandates-return/?utm_source=luminate&amp;utm_medium=email&amp;utm_campaign=defender&amp;utm_id=20230825)** 
+ **[The Defender](https://childrenshealthdefense.org/defender/politics-mask-mandates-return/%3Futm_source%3Dluminate%26utm_medium%3Demail%26utm_campaign%3Ddefender%26utm_id%3D20230825)** 
 
 “Masks are not effective against the spread of viruses like COVID-19,” said [Brian Hooker, Ph.D.](https://childrenshealthdefense.org/authors/brian-hooker-ph-d-p-e/), senior director of science and research for Children’s Health Defense (CHD). “The virus is much too small to be blocked by a cloth/paper mask and even N95 masks have very limited effectiveness in reducing transmission.”
 

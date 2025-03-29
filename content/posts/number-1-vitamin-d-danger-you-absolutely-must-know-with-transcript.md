@@ -16,15 +16,15 @@ categories:
 
 ---
 
-### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&ab_channel=Dr.StenEkberg)
+### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch%3Fv%3Doz7u92mifPI%26ab_channel%3DDr.StenEkberg)
 
 There is more to Vitamin D supplements than taking a pill. 
 
 Most Doctor's recommendations do not account for how 
 
-Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&index=1&t=0s)
+Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch%3Fv%3DuyUoK71uATU%26list%3DPLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx%26index%3D1%26t%3D0s)
 
-Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch?v=WRXVUxdOAUI&list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&index=1&t=0s)
+Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch%3Fv%3DWRXVUxdOAUI%26list%3DPLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx%26index%3D1%26t%3D0s)
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Transcript ](/attachments/d3.mock.pdf)** 
 
@@ -181,15 +181,15 @@ Markdown:
 
 ---
 
-### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&amp;ab_channel=Dr.StenEkberg)
+### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch%3Fv%3Doz7u92mifPI%26ab_channel%3DDr.StenEkberg)
 
 There is more to Vitamin D supplements than taking a pill. 
 
 Most Doctor&#39;s recommendations do not account for how 
 
-Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s)
+Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch%3Fv%3DuyUoK71uATU%26list%3DPLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx%26index%3D1%26t%3D0s)
 
-Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch?v=WRXVUxdOAUI&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s)
+Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch%3Fv%3DWRXVUxdOAUI%26list%3DPLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx%26index%3D1%26t%3D0s)
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Transcript ](/attachments/d3.mock.pdf)** 
 

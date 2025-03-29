@@ -459,7 +459,7 @@ Supplementary Materials: The following are? available online at http://www.mdpi.
 
 #### This study was cited 7 times as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=682991883062760573&as_sdt=5,48&sciodt=0,48&hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D682991883062760573%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 ---
 
@@ -938,7 +938,7 @@ Supplementary Materials: The following are? available online at http://www.mdpi.
 
 #### This study was cited 7 times as of April 2024
 
- **[Google Scholar](https://scholar.google.com/scholar?cites=682991883062760573&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fcites%3D682991883062760573%26as_sdt%3D5%2C48%26sciodt%3D0%2C48%26hl%3Den)** 
 
 ---
 

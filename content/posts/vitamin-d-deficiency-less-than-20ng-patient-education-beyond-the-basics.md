@@ -64,7 +64,7 @@ WHERE TO GET MORE INFORMATION
 
 ---
 
-#### RELATED [TOPICS](https://www.uptodate.com/contents/vitamin-d-deficiency-beyond-the-basics#)
+#### RELATED [TOPICS](https://www.uptodate.com/contents/vitamin-d-deficiency-beyond-the-basics%23)
 
 Patient education: Bone density testing (Beyond the Basics)
 
@@ -177,7 +177,7 @@ WHERE TO GET MORE INFORMATION
 
 ---
 
-#### RELATED [TOPICS](https://www.uptodate.com/contents/vitamin-d-deficiency-beyond-the-basics#)
+#### RELATED [TOPICS](https://www.uptodate.com/contents/vitamin-d-deficiency-beyond-the-basics%23)
 
 Patient education: Bone density testing (Beyond the Basics)
 

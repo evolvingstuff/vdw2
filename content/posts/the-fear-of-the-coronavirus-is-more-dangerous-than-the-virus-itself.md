@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### [Substack Mattias Desmet](https://mattiasdesmet.substack.com/p/the-fear-of-the-coronavirus-is-more?utm_source=cross-post&publication_id=949937&post_id=111147730&isFreemail=false&utm_campaign=583200&utm_medium=email)
+#### [Substack Mattias Desmet](https://mattiasdesmet.substack.com/p/the-fear-of-the-coronavirus-is-more%3Futm_source%3Dcross-post%26publication_id%3D949937%26post_id%3D111147730%26isFreemail%3Dfalse%26utm_campaign%3D583200%26utm_medium%3Demail)
 
 * "Three years ago, in the early days of the corona crisis, I published an opinion piece entitled “The fear of the coronavirus is more dangerous than the virus itself”. It pointed out the danger that in the corona crisis, the remedy could be far worse than the disease. The article warned that society was not so much in the grip of facts as of a narrative constructed about facts. The big question is: what facts were they? In recent weeks, more and more facts have surfaced. Think of the lockdown files in Great Britain and the Cochrane study on the effectiveness of the corona measures. You can read my previously published opinion piece below. I republish it here because I will write a follow up to this article shortly."
 
@@ -64,7 +64,7 @@ Markdown:
 
 ---
 
-#### [Substack Mattias Desmet](https://mattiasdesmet.substack.com/p/the-fear-of-the-coronavirus-is-more?utm_source=cross-post&amp;publication_id=949937&amp;post_id=111147730&amp;isFreemail=false&amp;utm_campaign=583200&amp;utm_medium=email)
+#### [Substack Mattias Desmet](https://mattiasdesmet.substack.com/p/the-fear-of-the-coronavirus-is-more%3Futm_source%3Dcross-post%26publication_id%3D949937%26post_id%3D111147730%26isFreemail%3Dfalse%26utm_campaign%3D583200%26utm_medium%3Demail)
 
 * &quot;Three years ago, in the early days of the corona crisis, I published an opinion piece entitled “The fear of the coronavirus is more dangerous than the virus itself”. It pointed out the danger that in the corona crisis, the remedy could be far worse than the disease. The article warned that society was not so much in the grip of facts as of a narrative constructed about facts. The big question is: what facts were they? In recent weeks, more and more facts have surfaced. Think of the lockdown files in Great Britain and the Cochrane study on the effectiveness of the corona measures. You can read my previously published opinion piece below. I republish it here because I will write a follow up to this article shortly.&quot;
 

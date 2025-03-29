@@ -85,7 +85,7 @@ Note: Butyrate has helped my wife's collitis, another gut problem
 
 #### Search for Butyrate (which activates the VDR) and Colorectal Cancer: 52,000 items
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=butyrate+colorectal+cancer&oq=Butyrate++%22co)**   checked Sept 2023
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dbutyrate%2Bcolorectal%2Bcancer%26oq%3DButyrate%2B%2B%22co)**   checked Sept 2023
 
 * Does butyrate protect from colorectal cancer? Feb 2006 https://doi.org/10.1111/j.1440-1746.2006.04213.x FREE PDF
 
@@ -177,7 +177,7 @@ Note: Butyrate has helped my wife&#39;s collitis, another gut problem
 
 #### Search for Butyrate (which activates the VDR) and Colorectal Cancer: 52,000 items
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=butyrate+colorectal+cancer&amp;oq=Butyrate++%22co)**   checked Sept 2023
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3Dbutyrate%2Bcolorectal%2Bcancer%26oq%3DButyrate%2B%2B%22co)**   checked Sept 2023
 
 * Does butyrate protect from colorectal cancer? Feb 2006 https://doi.org/10.1111/j.1440-1746.2006.04213.x FREE PDF
 

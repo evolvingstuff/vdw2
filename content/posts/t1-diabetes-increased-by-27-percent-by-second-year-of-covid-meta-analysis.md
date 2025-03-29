@@ -57,9 +57,9 @@ Conclusions and Relevance  This study found that incidence rates of type 1 diabe
 
 ##### Many might have to have daily insulin for life - Dr. Campbell  Substack and YouTube
 
- **[Substack -lots of text](https://johninengland.substack.com/p/dramatic-rise-in-childhood-diabetes?utm_source=substack&utm_medium=email)** 
+ **[Substack -lots of text](https://johninengland.substack.com/p/dramatic-rise-in-childhood-diabetes%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
- **[YouTube July 4, 2023 20 minutes](https://www.youtube.com/watch?v=GRohIT7-aik&ab_channel=Dr.JohnCampbell)** 
+ **[YouTube July 4, 2023 20 minutes](https://www.youtube.com/watch%3Fv%3DGRohIT7-aik%26ab_channel%3DDr.JohnCampbell)** 
 
 ---
 
@@ -174,9 +174,9 @@ Conclusions and Relevance  This study found that incidence rates of type 1 diabe
 
 ##### Many might have to have daily insulin for life - Dr. Campbell  Substack and YouTube
 
- **[Substack -lots of text](https://johninengland.substack.com/p/dramatic-rise-in-childhood-diabetes?utm_source=substack&amp;utm_medium=email)** 
+ **[Substack -lots of text](https://johninengland.substack.com/p/dramatic-rise-in-childhood-diabetes%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
- **[YouTube July 4, 2023 20 minutes](https://www.youtube.com/watch?v=GRohIT7-aik&amp;ab_channel=Dr.JohnCampbell)** 
+ **[YouTube July 4, 2023 20 minutes](https://www.youtube.com/watch%3Fv%3DGRohIT7-aik%26ab_channel%3DDr.JohnCampbell)** 
 
 ---
 

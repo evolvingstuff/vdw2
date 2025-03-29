@@ -13,7 +13,7 @@ categories:
 
 #### CDC Finds Hundreds of Safety Signals for Pfizer, Moderna COVID Vaccines
 
- **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&eType=EmailBlastContent&eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
+ **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3D1be78402-b984-4d95-8771-fc81eab8a8cd)** 
 
 * "The newly obtained PRR (proportional reporting ratio) results returned more than 500 adverse events larger than myocarditis and pericarditis."
 
@@ -53,7 +53,7 @@ Markdown:
 
 #### CDC Finds Hundreds of Safety Signals for Pfizer, Moderna COVID Vaccines
 
- **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
+ **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/%3Futm_source%3Dsalsa%26eType%3DEmailBlastContent%26eId%3D1be78402-b984-4d95-8771-fc81eab8a8cd)** 
 
 * &quot;The newly obtained PRR (proportional reporting ratio) results returned more than 500 adverse events larger than myocarditis and pericarditis.&quot;
 

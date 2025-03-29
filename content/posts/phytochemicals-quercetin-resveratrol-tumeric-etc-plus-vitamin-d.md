@@ -162,7 +162,7 @@ This list is automatically updated
 
 #### Is BHT a phytochemical? It fights many enveloped viruses
 
- **[A Quick Look at BHT - Aug 2023 substack](https://ilifelink.substack.com/p/a-quick-look-at-bht )** 
+ **[A Quick Look at BHT - Aug 2023 substack](https://ilifelink.substack.com/p/a-quick-look-at-bht%20)** 
 
 * "(A seemingly magic bullet for lipid-coated viruses with anti-aging properties)"
 
@@ -335,7 +335,7 @@ This list is automatically updated
 
 #### Is BHT a phytochemical? It fights many enveloped viruses
 
- **[A Quick Look at BHT - Aug 2023 substack](https://ilifelink.substack.com/p/a-quick-look-at-bht )** 
+ **[A Quick Look at BHT - Aug 2023 substack](https://ilifelink.substack.com/p/a-quick-look-at-bht%20)** 
 
 * &quot;(A seemingly magic bullet for lipid-coated viruses with anti-aging properties)&quot;
 

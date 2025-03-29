@@ -17,7 +17,7 @@ categories:
 
 ---
 
-#### 21 minute [Interview](https://www.youtube.com/watch?v=XM3PsykaUv0&ab_channel=vitaminDaction interview of)
+#### 21 minute [Interview](https://www.youtube.com/watch%3Fv%3DXM3PsykaUv0%26ab_channel%3DvitaminDaction%20interview%20of)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -261,7 +261,7 @@ This list is automatically updated
 
 #### 110,000 results for the Google Scholar search of (periodontal OR Dental) "vitamin d"
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,48&q=(periodontal+OR+Dental)+%22vitamin+d%22) &nbsp;~&nbsp;Examples:** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(periodontal%2BOR%2BDental)%2B%22vitamin%2Bd%22) &nbsp;~&nbsp;Examples:** 
 
 * The role of vitamin D in periodontal health and disease - Dec 2022  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
@@ -296,7 +296,7 @@ Markdown:
 
 ---
 
-#### 21 minute [Interview](https://www.youtube.com/watch?v=XM3PsykaUv0&amp;ab_channel=vitaminDaction interview of)
+#### 21 minute [Interview](https://www.youtube.com/watch%3Fv%3DXM3PsykaUv0%26ab_channel%3DvitaminDaction%20interview%20of)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -540,7 +540,7 @@ This list is automatically updated
 
 #### 110,000 results for the Google Scholar search of (periodontal OR Dental) &quot;vitamin d&quot;
 
- **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=(periodontal+OR+Dental)+%22vitamin+d%22) &amp;nbsp;~&amp;nbsp;Examples:** 
+ **[Google Scholar](https://scholar.google.com/scholar%3Fhl%3Den%26as_sdt%3D0%2C48%26q%3D(periodontal%2BOR%2BDental)%2B%22vitamin%2Bd%22) &amp;nbsp;~&amp;nbsp;Examples:** 
 
 * The role of vitamin D in periodontal health and disease - Dec 2022  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 

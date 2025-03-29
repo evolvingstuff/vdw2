@@ -53,9 +53,9 @@ This list is automatically updated
 
 #### New guidelines on peds obesity call for aggressive treatment - Jan 2023
 
- **[MDEdge](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment?ecd=WNL_EVE_230109_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment%3Fecd%3DWNL_EVE_230109_mdedge)** 
 
-"The [2023 guidelines](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment?ecd=WNL_EVE_230109_mdedge) recommend that pediatricians offer anyone aged 12 years and older with obesity – defined as a body mass index (BMI) at the 95th percentile or higher – the option of receiving weight-loss medications in addition to ongoing support for lifestyle modifications, such as exercising more and eating healthier foods."
+"The [2023 guidelines](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment%3Fecd%3DWNL_EVE_230109_mdedge) recommend that pediatricians offer anyone aged 12 years and older with obesity – defined as a body mass index (BMI) at the 95th percentile or higher – the option of receiving weight-loss medications in addition to ongoing support for lifestyle modifications, such as exercising more and eating healthier foods."
 
 "The same approach holds for bariatric surgery once children reach age 13, and AAP stressed that no physician should ever stigmatize children or imply that they are to blame for their weight."
 
@@ -109,9 +109,9 @@ This list is automatically updated
 
 #### New guidelines on peds obesity call for aggressive treatment - Jan 2023
 
- **[MDEdge](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment?ecd=WNL_EVE_230109_mdedge)** 
+ **[MDEdge](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment%3Fecd%3DWNL_EVE_230109_mdedge)** 
 
-&quot;The [2023 guidelines](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment?ecd=WNL_EVE_230109_mdedge) recommend that pediatricians offer anyone aged 12 years and older with obesity – defined as a body mass index (BMI) at the 95th percentile or higher – the option of receiving weight-loss medications in addition to ongoing support for lifestyle modifications, such as exercising more and eating healthier foods.&quot;
+&quot;The [2023 guidelines](https://www.mdedge.com/pediatrics/article/260530/obesity/new-guidelines-peds-obesity-call-aggressive-treatment%3Fecd%3DWNL_EVE_230109_mdedge) recommend that pediatricians offer anyone aged 12 years and older with obesity – defined as a body mass index (BMI) at the 95th percentile or higher – the option of receiving weight-loss medications in addition to ongoing support for lifestyle modifications, such as exercising more and eating healthier foods.&quot;
 
 &quot;The same approach holds for bariatric surgery once children reach age 13, and AAP stressed that no physician should ever stigmatize children or imply that they are to blame for their weight.&quot;
 

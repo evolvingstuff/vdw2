@@ -52,7 +52,7 @@ Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine an
 
 ---
 
-#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health+Problems+and+D)
+#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD)
 
 ---
 
@@ -131,7 +131,7 @@ Barbara J. Boucher The Blizard Institute Barts, The London School of Medicine an
 
 ---
 
-#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health+Problems+and+D)
+#### 240+ [targets of the magic bullet](https://VitaminDWiki.com/Health%2BProblems%2Band%2BD)
 
 ---
 

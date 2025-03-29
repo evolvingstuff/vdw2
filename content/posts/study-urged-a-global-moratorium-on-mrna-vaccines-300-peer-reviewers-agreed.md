@@ -51,7 +51,7 @@ Given the extensive, well-documented SAEs and unacceptably high harm-to-reward r
 
 #### Giant Mistake to Mass Vaccinate the World - 10 minute video discussion of the study
 
- **[Epidemiologist M. Nathaniel Mead, Dr. McCullough, On Grant Stinchield Tonight](https://petermcculloughmd.substack.com/p/giant-mistake-to-mass-vaccinate-the?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
+ **[Epidemiologist M. Nathaniel Mead, Dr. McCullough, On Grant Stinchield Tonight](https://petermcculloughmd.substack.com/p/giant-mistake-to-mass-vaccinate-the%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
@@ -73,7 +73,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 ---
 
-#### [("number needed to treat" OR NNT) "vitamin D" COVID"](https://scholar.google.com/scholar?q=(%22number+needed+to+treat%22+OR+NNT)+%22vitamin+D%22+COVID&hl=en&as_sdt=0,48) range from 4 to 30
+#### [("number needed to treat" OR NNT) "vitamin D" COVID"](https://scholar.google.com/scholar%3Fq%3D(%22number%2Bneeded%2Bto%2Btreat%22%2BOR%2BNNT)%2B%22vitamin%2BD%22%2BCOVID%26hl%3Den%26as_sdt%3D0%2C48) range from 4 to 30
 
  **>600 studies matched search criterial as of Feb 2024** 
 
@@ -85,7 +85,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 #### Publisher "decided" to remove the study - Feb 2024
 
- **[Kirsch Substack](https://kirschsubstack.com/p/our-paper-critical-of-the-covid-vaccines?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
+ **[Kirsch Substack](https://kirschsubstack.com/p/our-paper-critical-of-the-covid-vaccines%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 The concerns include, but are not limited to: 
 
@@ -109,7 +109,7 @@ The concerns include, but are not limited to:
 
 ##### Removal of paper violated Committee on Publication Ethics (COPE) Guidelines
 
- **[Substack](https://petermcculloughmd.substack.com/p/breaking-springer-nature-cureus-journal?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
+ **[Substack](https://petermcculloughmd.substack.com/p/breaking-springer-nature-cureus-journal%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "It topped >330,000 views/reads/downloads in a month as compared to an average Cureus-promoted paper which has only ~2700 in a year."
 
@@ -183,7 +183,7 @@ Given the extensive, well-documented SAEs and unacceptably high harm-to-reward r
 
 #### Giant Mistake to Mass Vaccinate the World - 10 minute video discussion of the study
 
- **[Epidemiologist M. Nathaniel Mead, Dr. McCullough, On Grant Stinchield Tonight](https://petermcculloughmd.substack.com/p/giant-mistake-to-mass-vaccinate-the?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
+ **[Epidemiologist M. Nathaniel Mead, Dr. McCullough, On Grant Stinchield Tonight](https://petermcculloughmd.substack.com/p/giant-mistake-to-mass-vaccinate-the%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
@@ -205,7 +205,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 ---
 
-#### [(&quot;number needed to treat&quot; OR NNT) &quot;vitamin D&quot; COVID&quot;](https://scholar.google.com/scholar?q=(%22number+needed+to+treat%22+OR+NNT)+%22vitamin+D%22+COVID&amp;hl=en&amp;as_sdt=0,48) range from 4 to 30
+#### [(&quot;number needed to treat&quot; OR NNT) &quot;vitamin D&quot; COVID&quot;](https://scholar.google.com/scholar%3Fq%3D(%22number%2Bneeded%2Bto%2Btreat%22%2BOR%2BNNT)%2B%22vitamin%2BD%22%2BCOVID%26hl%3Den%26as_sdt%3D0%2C48) range from 4 to 30
 
  **&gt;600 studies matched search criterial as of Feb 2024** 
 
@@ -217,7 +217,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 #### Publisher &quot;decided&quot; to remove the study - Feb 2024
 
- **[Kirsch Substack](https://kirschsubstack.com/p/our-paper-critical-of-the-covid-vaccines?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
+ **[Kirsch Substack](https://kirschsubstack.com/p/our-paper-critical-of-the-covid-vaccines%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 The concerns include, but are not limited to: 
 
@@ -241,7 +241,7 @@ The concerns include, but are not limited to:
 
 ##### Removal of paper violated Committee on Publication Ethics (COPE) Guidelines
 
- **[Substack](https://petermcculloughmd.substack.com/p/breaking-springer-nature-cureus-journal?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
+ **[Substack](https://petermcculloughmd.substack.com/p/breaking-springer-nature-cureus-journal%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;It topped &gt;330,000 views/reads/downloads in a month as compared to an average Cureus-promoted paper which has only ~2700 in a year.&quot;
 

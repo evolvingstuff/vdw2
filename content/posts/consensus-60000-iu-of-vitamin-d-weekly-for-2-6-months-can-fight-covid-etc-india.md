@@ -18,7 +18,7 @@ categories:
 
 #### Optimal Dose of Vitamin D in COVID-19: Survey of 2338 Indian Doctors brings First time Consensus
 
- **[YouTube](https://www.youtube.com/watch?app=desktop&v=hBpIqklcAGg&ab_channel=MedicalDialogues)** 
+ **[YouTube](https://www.youtube.com/watch%3Fapp%3Ddesktop%26v%3DhBpIqklcAGg%26ab_channel%3DMedicalDialogues)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -79,7 +79,7 @@ Markdown:
 
 #### Optimal Dose of Vitamin D in COVID-19: Survey of 2338 Indian Doctors brings First time Consensus
 
- **[YouTube](https://www.youtube.com/watch?app=desktop&amp;v=hBpIqklcAGg&amp;ab_channel=MedicalDialogues)** 
+ **[YouTube](https://www.youtube.com/watch%3Fapp%3Ddesktop%26v%3DhBpIqklcAGg%26ab_channel%3DMedicalDialogues)** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 

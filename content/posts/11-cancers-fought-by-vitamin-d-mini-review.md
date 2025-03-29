@@ -44,47 +44,47 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 #### 16 Major Cancers in VitaminDWiki (April 2023)
 
-* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview Cancer and vitamin D)
+* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview%20Cancer%20and%20vitamin%20D)
 
-* [After diagnosis](https://VitaminDWiki.com/Cancer - After diagnosis) (97+)
+* [After diagnosis](https://VitaminDWiki.com/Cancer%20-%20After%20diagnosis) (97+)
 
-* [Bladder](https://VitaminDWiki.com/Cancer - Bladder) (25+)
+* [Bladder](https://VitaminDWiki.com/Cancer%20-%20Bladder) (25+)
 
-* [Bone](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (8+)
+* [Bone](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (8+)
 
-* [Breast](https://VitaminDWiki.com/Cancer - Breast) (241+) [Overview](https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D)
+* [Breast](https://VitaminDWiki.com/Cancer%20-%20Breast) (241+) [Overview](https://VitaminDWiki.com/Overview%20Breast%20Cancer%20and%20Vitamin%20D)
 
-* [Colon](https://VitaminDWiki.com/Cancer - Colon) (134+) [Overview](https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D)
+* [Colon](https://VitaminDWiki.com/Cancer%20-%20Colon) (134+) [Overview](https://VitaminDWiki.com/Overview%20Cancer-Colon%20and%20vitamin%20D)
 
-* [Gastric](https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer%2C%20Vitamin%20D%2C%20VDR%2C%20UV%20-%20many%20studies) (9+)
 
-* [Leukemia](https://VitaminDWiki.com/Cancer - Leukemia) (18+)
+* [Leukemia](https://VitaminDWiki.com/Cancer%20-%20Leukemia) (18+)
 
-* [Liver](https://VitaminDWiki.com/Cancer - Liver) (16+)
+* [Liver](https://VitaminDWiki.com/Cancer%20-%20Liver) (16+)
 
-* [Lung](https://VitaminDWiki.com/Cancer - Lung) (53+) [Overview](https://VitaminDWiki.com/Overview Lung cancer and vitamin D)
+* [Lung](https://VitaminDWiki.com/Cancer%20-%20Lung) (53+) [Overview](https://VitaminDWiki.com/Overview%20Lung%20cancer%20and%20vitamin%20D)
 
-* [Lymphoma](https://VitaminDWiki.com/Cancer - Lymphoma) (23+)
+* [Lymphoma](https://VitaminDWiki.com/Cancer%20-%20Lymphoma) (23+)
 
-* [Melanoma](https://VitaminDWiki.com/tiki-index.php?page_id=13263) (43+)
+* [Melanoma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13263) (43+)
 
-* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (10+)
+* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (10+)
 
-* [Metastatic](https://VitaminDWiki.com/tiki-index.php?page_id=395) (17+)
+* [Metastatic](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D395) (17+)
 
-* [Other](https://VitaminDWiki.com/Cancer - Other) (59+) - many minor cancers also fought
+* [Other](https://VitaminDWiki.com/Cancer%20-%20Other) (59+) - many minor cancers also fought
 
-* [Ovarian](https://VitaminDWiki.com/Cancer - Ovarian) (23+)
+* [Ovarian](https://VitaminDWiki.com/Cancer%20-%20Ovarian) (23+)
 
-* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php?page_id=12680) (10+)
+* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D12680) (10+)
 
-* [Pancreatic](https://VitaminDWiki.com/Cancer - Pancreatic) (54+)
+* [Pancreatic](https://VitaminDWiki.com/Cancer%20-%20Pancreatic) (54+)
 
-* [Prostate](https://VitaminDWiki.com/Cancer - Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D)
+* [Prostate](https://VitaminDWiki.com/Cancer%20-%20Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview%20Prostate%20Cancer%20and%20Vitamin%20D)
 
-* [Skin](https://VitaminDWiki.com/Cancer - Skin) (116+) [Overview](https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D)
+* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan%2C%20melanoma%20and%20vitamin%20D)
 
-* [Thyroid](https://VitaminDWiki.com/tiki-index.php?page_id=9344) (7+)
+* [Thyroid](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D9344) (7+)
 
 ---
 
@@ -154,47 +154,47 @@ In this review, we summarize the most recent advances in vitamin D cancer resear
 
 #### 16 Major Cancers in VitaminDWiki (April 2023)
 
-* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview Cancer and vitamin D)
+* [Cancer](https://VitaminDWiki.com/Cancer) (256+) [Overview](https://VitaminDWiki.com/Overview%20Cancer%20and%20vitamin%20D)
 
-* [After diagnosis](https://VitaminDWiki.com/Cancer - After diagnosis) (97+)
+* [After diagnosis](https://VitaminDWiki.com/Cancer%20-%20After%20diagnosis) (97+)
 
-* [Bladder](https://VitaminDWiki.com/Cancer - Bladder) (25+)
+* [Bladder](https://VitaminDWiki.com/Cancer%20-%20Bladder) (25+)
 
-* [Bone](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (8+)
+* [Bone](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (8+)
 
-* [Breast](https://VitaminDWiki.com/Cancer - Breast) (241+) [Overview](https://VitaminDWiki.com/Overview Breast Cancer and Vitamin D)
+* [Breast](https://VitaminDWiki.com/Cancer%20-%20Breast) (241+) [Overview](https://VitaminDWiki.com/Overview%20Breast%20Cancer%20and%20Vitamin%20D)
 
-* [Colon](https://VitaminDWiki.com/Cancer - Colon) (134+) [Overview](https://VitaminDWiki.com/Overview Cancer-Colon and vitamin D)
+* [Colon](https://VitaminDWiki.com/Cancer%20-%20Colon) (134+) [Overview](https://VitaminDWiki.com/Overview%20Cancer-Colon%20and%20vitamin%20D)
 
-* [Gastric](https://VitaminDWiki.com/Gastric Cancer, Vitamin D, VDR, UV - many studies) (9+)
+* [Gastric](https://VitaminDWiki.com/Gastric%20Cancer%2C%20Vitamin%20D%2C%20VDR%2C%20UV%20-%20many%20studies) (9+)
 
-* [Leukemia](https://VitaminDWiki.com/Cancer - Leukemia) (18+)
+* [Leukemia](https://VitaminDWiki.com/Cancer%20-%20Leukemia) (18+)
 
-* [Liver](https://VitaminDWiki.com/Cancer - Liver) (16+)
+* [Liver](https://VitaminDWiki.com/Cancer%20-%20Liver) (16+)
 
-* [Lung](https://VitaminDWiki.com/Cancer - Lung) (53+) [Overview](https://VitaminDWiki.com/Overview Lung cancer and vitamin D)
+* [Lung](https://VitaminDWiki.com/Cancer%20-%20Lung) (53+) [Overview](https://VitaminDWiki.com/Overview%20Lung%20cancer%20and%20vitamin%20D)
 
-* [Lymphoma](https://VitaminDWiki.com/Cancer - Lymphoma) (23+)
+* [Lymphoma](https://VitaminDWiki.com/Cancer%20-%20Lymphoma) (23+)
 
-* [Melanoma](https://VitaminDWiki.com/tiki-index.php?page_id=13263) (43+)
+* [Melanoma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D13263) (43+)
 
-* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php?page_id=7048) (10+)
+* [Multiple Myeloma](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D7048) (10+)
 
-* [Metastatic](https://VitaminDWiki.com/tiki-index.php?page_id=395) (17+)
+* [Metastatic](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D395) (17+)
 
-* [Other](https://VitaminDWiki.com/Cancer - Other) (59+) - many minor cancers also fought
+* [Other](https://VitaminDWiki.com/Cancer%20-%20Other) (59+) - many minor cancers also fought
 
-* [Ovarian](https://VitaminDWiki.com/Cancer - Ovarian) (23+)
+* [Ovarian](https://VitaminDWiki.com/Cancer%20-%20Ovarian) (23+)
 
-* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php?page_id=12680) (10+)
+* [Pallitive Care](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D12680) (10+)
 
-* [Pancreatic](https://VitaminDWiki.com/Cancer - Pancreatic) (54+)
+* [Pancreatic](https://VitaminDWiki.com/Cancer%20-%20Pancreatic) (54+)
 
-* [Prostate](https://VitaminDWiki.com/Cancer - Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview Prostate Cancer and Vitamin D)
+* [Prostate](https://VitaminDWiki.com/Cancer%20-%20Prostate) (97+) [Overview](https://VitaminDWiki.com/Overview%20Prostate%20Cancer%20and%20Vitamin%20D)
 
-* [Skin](https://VitaminDWiki.com/Cancer - Skin) (116+) [Overview](https://VitaminDWiki.com/Overview Suntan, melanoma and vitamin D)
+* [Skin](https://VitaminDWiki.com/Cancer%20-%20Skin) (116+) [Overview](https://VitaminDWiki.com/Overview%20Suntan%2C%20melanoma%20and%20vitamin%20D)
 
-* [Thyroid](https://VitaminDWiki.com/tiki-index.php?page_id=9344) (7+)
+* [Thyroid](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D9344) (7+)
 
 ---
 

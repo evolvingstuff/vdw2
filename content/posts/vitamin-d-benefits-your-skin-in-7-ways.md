@@ -45,7 +45,7 @@ Darker skin produces less vitamin D than lighter skin.  This is because melani
 
 #### Dozens of Vitamin D cream sellers on Amazon
 
- **[Amazon Sellers](https://www.amazon.com/s?k=vitamin+d+cream&i=hpc&crid=1TPPYM40XQE4T&sprefix=%22vitamin+D%22+cream%2Chpc%2C185&ref=nb_sb_ss_ts-doa-p_1_15)** 
+ **[Amazon Sellers](https://www.amazon.com/s%3Fk%3Dvitamin%2Bd%2Bcream%26i%3Dhpc%26crid%3D1TPPYM40XQE4T%26sprefix%3D%22vitamin%2BD%22%2Bcream%2Chpc%2C185%26ref%3Dnb_sb_ss_ts-doa-p_1_15)** 
 
 <!-- ~tc~ (alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) ~/tc~ -->
 
@@ -91,7 +91,7 @@ Darker skin produces less vitamin D than lighter skin.  This is because melani
 
 #### Dozens of Vitamin D cream sellers on Amazon
 
- **[Amazon Sellers](https://www.amazon.com/s?k=vitamin+d+cream&amp;i=hpc&amp;crid=1TPPYM40XQE4T&amp;sprefix=%22vitamin+D%22+cream%2Chpc%2C185&amp;ref=nb_sb_ss_ts-doa-p_1_15)** 
+ **[Amazon Sellers](https://www.amazon.com/s%3Fk%3Dvitamin%2Bd%2Bcream%26i%3Dhpc%26crid%3D1TPPYM40XQE4T%26sprefix%3D%22vitamin%2BD%22%2Bcream%2Chpc%2C185%26ref%3Dnb_sb_ss_ts-doa-p_1_15)** 
 
 &lt;!-- ~tc~ (alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) ~/tc~ --&gt;
 

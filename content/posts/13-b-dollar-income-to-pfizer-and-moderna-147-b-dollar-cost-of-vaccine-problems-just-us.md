@@ -22,7 +22,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **Also in [Substack](https://rwmalonemd.substack.com/p/what-can-the-us-senate-teach-us-about?utm_source=substack&utm_medium=email)** 
+ **Also in [Substack](https://rwmalonemd.substack.com/p/what-can-the-us-senate-teach-us-about%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 ---
 
@@ -72,7 +72,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **Also in [Substack](https://rwmalonemd.substack.com/p/what-can-the-us-senate-teach-us-about?utm_source=substack&amp;utm_medium=email)** 
+ **Also in [Substack](https://rwmalonemd.substack.com/p/what-can-the-us-senate-teach-us-about%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 ---
 

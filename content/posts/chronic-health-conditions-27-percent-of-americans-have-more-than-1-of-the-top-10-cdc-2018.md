@@ -13,7 +13,7 @@ categories:
 
 #### Prevalence of Multiple Chronic Conditions Among US Adults, 2018
 
- **[CDC Sept 2020](https://www.cdc.gov/pcd/issues/2020/20_0130.htm?ck_subscriber_id=19612225)** 
+ **[CDC Sept 2020](https://www.cdc.gov/pcd/issues/2020/20_0130.htm%3Fck_subscriber_id%3D19612225)** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -57,7 +57,7 @@ Markdown:
 
 #### Prevalence of Multiple Chronic Conditions Among US Adults, 2018
 
- **[CDC Sept 2020](https://www.cdc.gov/pcd/issues/2020/20_0130.htm?ck_subscriber_id=19612225)** 
+ **[CDC Sept 2020](https://www.cdc.gov/pcd/issues/2020/20_0130.htm%3Fck_subscriber_id%3D19612225)** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

@@ -17,7 +17,7 @@ categories:
 
 #### The association between vitamin-D deficiency and fecal incontinence
 
-Neurogastroenterol Motil 2024 Feb 5:e14753. [doi: 10.1111/nmo.14753](https://doi.org/10.1111/nmo.14753)  PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/wiley/the-association-between-vitamin-d-deficiency-and-fecal-incontinence-xlf9tCjSOL?articleList=%2Fsearch%3Fquery%3D%2522The%2Bassociation%2Bbetween%2Bvitamin-D%2Bdeficiency%2Band%2Bfecal%2Bincontinence%2522)
+Neurogastroenterol Motil 2024 Feb 5:e14753. [doi: 10.1111/nmo.14753](https://doi.org/10.1111/nmo.14753)  PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/wiley/the-association-between-vitamin-d-deficiency-and-fecal-incontinence-xlf9tCjSOL%3FarticleList%3D%2Fsearch%3Fquery%3D%2522The%2Bassociation%2Bbetween%2Bvitamin-D%2Bdeficiency%2Band%2Bfecal%2Bincontinence%2522)
 
 Leila Neshatian 1, Gabrielle Grant 2, Nielsen Fernandez-Becker 1, Ye Yuan 3, Patricia Garcia 1, Laren Becker 1, Brooke Gurland 4, George Triadafilopoulos 1
 
@@ -143,7 +143,7 @@ Markdown:
 
 #### The association between vitamin-D deficiency and fecal incontinence
 
-Neurogastroenterol Motil 2024 Feb 5:e14753. [doi: 10.1111/nmo.14753](https://doi.org/10.1111/nmo.14753)  PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/wiley/the-association-between-vitamin-d-deficiency-and-fecal-incontinence-xlf9tCjSOL?articleList=%2Fsearch%3Fquery%3D%2522The%2Bassociation%2Bbetween%2Bvitamin-D%2Bdeficiency%2Band%2Bfecal%2Bincontinence%2522)
+Neurogastroenterol Motil 2024 Feb 5:e14753. [doi: 10.1111/nmo.14753](https://doi.org/10.1111/nmo.14753)  PDF can be viewed at [DeepDyve](https://www.deepdyve.com/lp/wiley/the-association-between-vitamin-d-deficiency-and-fecal-incontinence-xlf9tCjSOL%3FarticleList%3D%2Fsearch%3Fquery%3D%2522The%2Bassociation%2Bbetween%2Bvitamin-D%2Bdeficiency%2Band%2Bfecal%2Bincontinence%2522)
 
 Leila Neshatian 1, Gabrielle Grant 2, Nielsen Fernandez-Becker 1, Ye Yuan 3, Patricia Garcia 1, Laren Becker 1, Brooke Gurland 4, George Triadafilopoulos 1
 

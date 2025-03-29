@@ -17,7 +17,7 @@ categories:
 
 #### Deaths from four types of killer viruses lurking in animals will soar 12-fold due to climate change, scientists claim
 
- **[Daily Mail UK](https://www.dailymail.co.uk/health/article-12703575/Deaths-four-types-killer-viruses-lurking-animals-soar-12-fold-climate-change-scientists-claim.html?utm_source=substack&utm_medium=email)** 
+ **[Daily Mail UK](https://www.dailymail.co.uk/health/article-12703575/Deaths-four-types-killer-viruses-lurking-animals-soar-12-fold-climate-change-scientists-claim.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * "Four diseases transmitted from animals to humans will kill 12 times as many people in 2050 than they did in 2020, researchers fear"
 
@@ -82,7 +82,7 @@ Markdown:
 
 #### Deaths from four types of killer viruses lurking in animals will soar 12-fold due to climate change, scientists claim
 
- **[Daily Mail UK](https://www.dailymail.co.uk/health/article-12703575/Deaths-four-types-killer-viruses-lurking-animals-soar-12-fold-climate-change-scientists-claim.html?utm_source=substack&amp;utm_medium=email)** 
+ **[Daily Mail UK](https://www.dailymail.co.uk/health/article-12703575/Deaths-four-types-killer-viruses-lurking-animals-soar-12-fold-climate-change-scientists-claim.html%3Futm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 * &quot;Four diseases transmitted from animals to humans will kill 12 times as many people in 2050 than they did in 2020, researchers fear&quot;
 

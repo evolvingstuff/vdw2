@@ -13,7 +13,7 @@ categories:
 
  **Presented in Iceland March 4, 2023** 
 
- **[YouTube (22 minutes in English)](https://youtu.be/hscufeebcgQ?t=1216) &nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Charts and transcript in English ](/attachments/d3.mock.pdf)&nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Smelltu hér til að sjá töflur á íslensku ](/attachments/d3.mock.pdf)** 
+ **[YouTube (22 minutes in English)](https://youtu.be/hscufeebcgQ%3Ft%3D1216) &nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Charts and transcript in English ](/attachments/d3.mock.pdf)&nbsp;&nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Smelltu hér til að sjá töflur á íslensku ](/attachments/d3.mock.pdf)** 
 
 <!-- {maketoc title="Topics Discussed:"} -->
  
@@ -26,7 +26,7 @@ categories:
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 
- **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Video in English</a> &nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&t=1321s)** 
+ **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Video in English</a> &nbsp;[video with Icelandic captions](https://www.youtube.com/watch%3Fv%3DhscufeebcgQ%26t%3D1321s)** 
 
 I started off with being an electronics engineer and after retiring, I got interested in being able to help people's health around the world. And the way I got started with that is I had back pains before and very severe back pain that would occasionally come along, but would make it so I was having a hard time walking. A person introduced me to vitamin D and I gave it a try, and he had a... This is a trial back in 2009, in which 85% of the people that had back pain, the back pain went away. So I was quite interested and it went away from me, and I went and studied a lot more. And now 12 years later, I've got 40,000 different studies on vitamin D and omega-3 and magnesium and a few other oxidants, and we put together a video that will play for you during the intermission time in which it talks about... The title is, Does Less Sun mean More Disease?
 
@@ -36,7 +36,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **[Source of chart](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there's very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I've spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I'm used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
@@ -341,7 +341,7 @@ Markdown:
 --------
  **Presented in Iceland March 4, 2023** 
 
- **[YouTube (22 minutes in English)](https://youtu.be/hscufeebcgQ?t=1216) &amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Charts and transcript in English ](/attachments/d3.mock.pdf)&amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Smelltu hér til að sjá töflur á íslensku ](/attachments/d3.mock.pdf)** 
+ **[YouTube (22 minutes in English)](https://youtu.be/hscufeebcgQ%3Ft%3D1216) &amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Charts and transcript in English ](/attachments/d3.mock.pdf)&amp;nbsp;&amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Smelltu hér til að sjá töflur á íslensku ](/attachments/d3.mock.pdf)** 
 
 &lt;!-- {maketoc title=&quot;Topics Discussed:&quot;} --&gt;
  
@@ -354,7 +354,7 @@ Markdown:
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 
- **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Video in English&lt;/a&gt; &amp;nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&amp;t=1321s)** 
+ **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Video in English&lt;/a&gt; &amp;nbsp;[video with Icelandic captions](https://www.youtube.com/watch%3Fv%3DhscufeebcgQ%26t%3D1321s)** 
 
 I started off with being an electronics engineer and after retiring, I got interested in being able to help people&#39;s health around the world. And the way I got started with that is I had back pains before and very severe back pain that would occasionally come along, but would make it so I was having a hard time walking. A person introduced me to vitamin D and I gave it a try, and he had a... This is a trial back in 2009, in which 85% of the people that had back pain, the back pain went away. So I was quite interested and it went away from me, and I went and studied a lot more. And now 12 years later, I&#39;ve got 40,000 different studies on vitamin D and omega-3 and magnesium and a few other oxidants, and we put together a video that will play for you during the intermission time in which it talks about... The title is, Does Less Sun mean More Disease?
 
@@ -364,7 +364,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **[Source of chart](https://VitaminDWiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://VitaminDWiki.com/tiki-index.php%3Fpage_id%3D14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 

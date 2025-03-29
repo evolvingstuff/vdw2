@@ -17,11 +17,11 @@ categories:
 
 #### "We are the Good Guys" ( mainly, Professor Didier Raoult )
 
- **[McCullough substack](https://petermcculloughmd.substack.com/p/we-are-the-good-guys?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)** 
+ **[McCullough substack](https://petermcculloughmd.substack.com/p/we-are-the-good-guys%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 "A tireless researcher, he has published 2,300 papers and is the most cited microbiologist in Europe. He and his team have discovered 468 species of bacteria—about 1/5 of all those named and described. The bacteria genus Raoultella was named in his honor. He is probably best known as the discoverer of the so-called giant virus, so large it had previously been mistaken for an intracellular bacterium. He has won 13 major awards and is a Commander of the National Order of Merit."
 
- **The following is a translation from his [recent, French language post on X (formerly Twitter)](https://substack.com/redirect/9bec4257-4358-454a-9a6d-9d2f5fd33bf1?j=eyJ1Ijoib2ZvM3IifQ.KxQt84zgroF_h4uz6z8PO9ftzjtR6bzmtZ7l9nAIQ9c):** 
+ **The following is a translation from his [recent, French language post on X (formerly Twitter)](https://substack.com/redirect/9bec4257-4358-454a-9a6d-9d2f5fd33bf1%3Fj%3DeyJ1Ijoib2ZvM3IifQ.KxQt84zgroF_h4uz6z8PO9ftzjtR6bzmtZ7l9nAIQ9c):** 
 
 Propaganda and knowledge. We're the good guys, but we're not ignorant! When vaccines were developed against Covid, 3 types of vaccines were proposed: - Traditional vaccines (as quickly available as the others) made in China with the entire inactivated virus. These vaccines have not been authorized in France for reasons that escape me. This type of vaccine, comparable to that against the flu, carries fewer unknown risks and does not fight against a single target of the virus: the Spike. I feared, and this happened, that the mutations of the virus and its respiratory specificity would not provide lasting immunity and that the vaccine would not have a very long duration of protection because I published the first known case of reinfection with covid. The disease being poorly immunizing, the vaccine would not do any better.
 
@@ -53,11 +53,11 @@ Markdown:
 
 #### &quot;We are the Good Guys&quot; ( mainly, Professor Didier Raoult )
 
- **[McCullough substack](https://petermcculloughmd.substack.com/p/we-are-the-good-guys?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)** 
+ **[McCullough substack](https://petermcculloughmd.substack.com/p/we-are-the-good-guys%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)** 
 
 &quot;A tireless researcher, he has published 2,300 papers and is the most cited microbiologist in Europe. He and his team have discovered 468 species of bacteria—about 1/5 of all those named and described. The bacteria genus Raoultella was named in his honor. He is probably best known as the discoverer of the so-called giant virus, so large it had previously been mistaken for an intracellular bacterium. He has won 13 major awards and is a Commander of the National Order of Merit.&quot;
 
- **The following is a translation from his [recent, French language post on X (formerly Twitter)](https://substack.com/redirect/9bec4257-4358-454a-9a6d-9d2f5fd33bf1?j=eyJ1Ijoib2ZvM3IifQ.KxQt84zgroF_h4uz6z8PO9ftzjtR6bzmtZ7l9nAIQ9c):** 
+ **The following is a translation from his [recent, French language post on X (formerly Twitter)](https://substack.com/redirect/9bec4257-4358-454a-9a6d-9d2f5fd33bf1%3Fj%3DeyJ1Ijoib2ZvM3IifQ.KxQt84zgroF_h4uz6z8PO9ftzjtR6bzmtZ7l9nAIQ9c):** 
 
 Propaganda and knowledge. We&#39;re the good guys, but we&#39;re not ignorant! When vaccines were developed against Covid, 3 types of vaccines were proposed: - Traditional vaccines (as quickly available as the others) made in China with the entire inactivated virus. These vaccines have not been authorized in France for reasons that escape me. This type of vaccine, comparable to that against the flu, carries fewer unknown risks and does not fight against a single target of the virus: the Spike. I feared, and this happened, that the mutations of the virus and its respiratory specificity would not provide lasting immunity and that the vaccine would not have a very long duration of protection because I published the first known case of reinfection with covid. The disease being poorly immunizing, the vaccine would not do any better.
 

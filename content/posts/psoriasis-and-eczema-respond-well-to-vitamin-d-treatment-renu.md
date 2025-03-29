@@ -18,7 +18,7 @@ categories:
 
 #### Psoriasis and Eczema - Oct 2023
 
- **[YouTube 34 minutes](https://www.youtube.com/watch?v=7Jnj_N7VfSM&ab_channel=RenuMahtani)** 
+ **[YouTube 34 minutes](https://www.youtube.com/watch%3Fv%3D7Jnj_N7VfSM%26ab_channel%3DRenuMahtani)** 
 
  **"WORRYING ABOUT VITAMIN D TOXICITY IS LIKE WORRYING ABOUT DROWNING WHEN YOU’RE DYING OF THIRST"** 
 
@@ -36,13 +36,13 @@ categories:
 
 #### Vitamin D: A cellular necessity to prevent diseases & medicines - Dr. Renu Mahtani - Oct 2023
 
- **[34 minute video](https://www.youtube.com/watch?v=Vn9S_gRMVa8&ab_channel=RenuMahtani)** 
+ **[34 minute video](https://www.youtube.com/watch%3Fv%3DVn9S_gRMVa8%26ab_channel%3DRenuMahtani)** 
 
 ---
 
 #### Vit D3 Therapy and Autoimmunity: Dr. Renu Mahtani Video Nov 2022
 
- **Vit D3 Therapy Fundamentals for Autoimmunity: Dr. Renu Mahtani at [MAAFIM Conference Malaysia, Nov 2022](https://www.youtube.com/watch?v=8ndZ89b0nl0&ab_channel=RenuMahtani)** 
+ **Vit D3 Therapy Fundamentals for Autoimmunity: Dr. Renu Mahtani at [MAAFIM Conference Malaysia, Nov 2022](https://www.youtube.com/watch%3Fv%3D8ndZ89b0nl0%26ab_channel%3DRenuMahtani)** 
 
 ---
 
@@ -68,7 +68,7 @@ Markdown:
 
 #### Psoriasis and Eczema - Oct 2023
 
- **[YouTube 34 minutes](https://www.youtube.com/watch?v=7Jnj_N7VfSM&amp;ab_channel=RenuMahtani)** 
+ **[YouTube 34 minutes](https://www.youtube.com/watch%3Fv%3D7Jnj_N7VfSM%26ab_channel%3DRenuMahtani)** 
 
  **&quot;WORRYING ABOUT VITAMIN D TOXICITY IS LIKE WORRYING ABOUT DROWNING WHEN YOU’RE DYING OF THIRST&quot;** 
 
@@ -86,13 +86,13 @@ Markdown:
 
 #### Vitamin D: A cellular necessity to prevent diseases &amp; medicines - Dr. Renu Mahtani - Oct 2023
 
- **[34 minute video](https://www.youtube.com/watch?v=Vn9S_gRMVa8&amp;ab_channel=RenuMahtani)** 
+ **[34 minute video](https://www.youtube.com/watch%3Fv%3DVn9S_gRMVa8%26ab_channel%3DRenuMahtani)** 
 
 ---
 
 #### Vit D3 Therapy and Autoimmunity: Dr. Renu Mahtani Video Nov 2022
 
- **Vit D3 Therapy Fundamentals for Autoimmunity: Dr. Renu Mahtani at [MAAFIM Conference Malaysia, Nov 2022](https://www.youtube.com/watch?v=8ndZ89b0nl0&amp;ab_channel=RenuMahtani)** 
+ **Vit D3 Therapy Fundamentals for Autoimmunity: Dr. Renu Mahtani at [MAAFIM Conference Malaysia, Nov 2022](https://www.youtube.com/watch%3Fv%3D8ndZ89b0nl0%26ab_channel%3DRenuMahtani)** 
 
 ---
 

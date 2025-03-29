@@ -16,7 +16,7 @@ categories:
 
 ---
 
-#### Article by [A MidWesternDoctor.com](https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&r=ofo3r&utm_source=substack&utm_medium=email)
+#### Article by [A MidWesternDoctor.com](https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)
 
 APR 21, 2024
 
@@ -80,7 +80,7 @@ Markdown:
 
 ---
 
-#### Article by [A MidWesternDoctor.com](https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against?utm_campaign=email-post&amp;r=ofo3r&amp;utm_source=substack&amp;utm_medium=email)
+#### Article by [A MidWesternDoctor.com](https://www.midwesterndoctor.com/p/dermatologys-disastrous-war-against%3Futm_campaign%3Demail-post%26r%3Dofo3r%26utm_source%3Dsubstack%26utm_medium%3Demail)
 
 APR 21, 2024
 
