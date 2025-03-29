@@ -33,7 +33,7 @@ Melissa Bersanelli # 1 2, Alessio Cortellini # 3 4, Alessandro Leonetti 1 2, Ale
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
- **<span style="color:orange;"> Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25</span>** 
+ **<span style="color:orange;">Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25</span>** 
 
 Background: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).
 
@@ -56,12 +56,12 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 | | | |
 | --- | --- | --- |
 | Initial level | 4 week Loading dose | Maintenance dose |
-| >30 ng |  0 IU  | 0 ? |
-| 20-30 ng |  300,000 |  820 IU |
-| 10-20 ng | 600,000  |  1000 IU |
+| >30 ng | 0 IU  | 0 ? |
+| 20-30 ng | 300,000 | 820 IU |
+| 10-20 ng | 600,000  | 1000 IU |
 | 0-10 ng | 1,000,000 IU | 2000 IU  |
 
- &nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
+&nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
 
 ---
 
@@ -139,7 +139,7 @@ Breast Cancer, for example, needs >80 ng
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14929{SQL} -->
 </span> visits to this page
 
@@ -180,7 +180,7 @@ Melissa Bersanelli # 1 2, Alessio Cortellini # 3 4, Alessandro Leonetti 1 2, Ale
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt; Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25&lt;/span&gt;** 
 
 Background: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).
 
@@ -203,12 +203,12 @@ Conclusion: The PROVIDENCE study suggests the potential positive impact of early
 | | | |
 | --- | --- | --- |
 | Initial level | 4 week Loading dose | Maintenance dose |
-| &gt;30 ng |  0 IU  | 0 ? |
-| 20-30 ng |  300,000 |  820 IU |
-| 10-20 ng | 600,000  |  1000 IU |
+| &gt;30 ng | 0 IU  | 0 ? |
+| 20-30 ng | 300,000 | 820 IU |
+| 10-20 ng | 600,000  | 1000 IU |
 | 0-10 ng | 1,000,000 IU | 2000 IU  |
 
- &amp;nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
+&amp;nbsp; See their reference #18 in VitaminDWiki [Large Vitamin D loading doses recomended (Italy, goal 40-60 ng) - 2011](/posts/large-vitamin-d-loading-doses-recomended-italy-goal-40-60-ng-2011)
 
 ---
 
@@ -286,7 +286,7 @@ Breast Cancer, for example, needs &gt;80 ng
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14929{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -404,8 +404,8 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25`
-│   │   │   │   inner_content: ` Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25`├── TextNode
+│   │   │   │   full_match: `Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25`
+│   │   │   │   inner_content: `Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25`├── TextNode
 │   full_match: `\nBackground: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).\n\nMethods: We planned a prospective observational study (PROVIDENCE) to assess serum vitamin D levels in patients with advanced cancer receiving ICIs (cohort 1 at treatment initiation, cohort 2 during treatment) and the impact of systematic repletion on survival and toxicity outcomes. In an exploratory analysis, we compared the clinical outcomes of cohort 1 with a control cohort of patients followed at the participating centers who did not receive systematic vitamin D repletion.\n\nResults: Overall, 164 patients were prospectively recruited in the PROVIDENCE study. In cohort 1, consisting of 101 patients with 94.1% hypovitaminosis (≤ 30 ng/ml) at baseline, adequate repletion with cholecalciferol was obtained in 70.1% at the three months re-assessment. Cohort 2 consisted of 63 patients assessed for vitamin D at a median time of 3.7 months since immunotherapy initiation, with no patients having adequate levels (&gt; 30 ng/ml). Even in cohort 2, systematic supplementation led to adequate levels in 77.8% of patients at the three months re-assessment. Compared to a retrospective control group of 238 patients without systematic vitamin D repletion, PROVIDENCE cohort 1 showed longer overall survival (OS, p = 0.013), time to treatment failure (TTF, p = 0.017), and higher disease control rate (DCR, p = 0.016). The Inverse Probability of Treatment Weighing (IPTW) fitted multivariable Cox regression confirmed the significantly \n`
 │   inner_content: `\nBackground: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).\n\nMethods: We planned a prospective observational study (PROVIDENCE) to assess serum vitamin D levels in patients with advanced cancer receiving ICIs (cohort 1 at treatment initiation, cohort 2 during treatment) and the impact of systematic repletion on survival and toxicity outcomes. In an exploratory analysis, we compared the clinical outcomes of cohort 1 with a control cohort of patients followed at the participating centers who did not receive systematic vitamin D repletion.\n\nResults: Overall, 164 patients were prospectively recruited in the PROVIDENCE study. In cohort 1, consisting of 101 patients with 94.1% hypovitaminosis (≤ 30 ng/ml) at baseline, adequate repletion with cholecalciferol was obtained in 70.1% at the three months re-assessment. Cohort 2 consisted of 63 patients assessed for vitamin D at a median time of 3.7 months since immunotherapy initiation, with no patients having adequate levels (&gt; 30 ng/ml). Even in cohort 2, systematic supplementation led to adequate levels in 77.8% of patients at the three months re-assessment. Compared to a retrospective control group of 238 patients without systematic vitamin D repletion, PROVIDENCE cohort 1 showed longer overall survival (OS, p = 0.013), time to treatment failure (TTF, p = 0.017), and higher disease control rate (DCR, p = 0.016). The Inverse Probability of Treatment Weighing (IPTW) fitted multivariable Cox regression confirmed the significantly \n`├── ListItemNode
 │   full_match: `*decreased risk of death (HR 0.55, 95%CI: 0.34-0.90) and `
@@ -504,8 +504,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 0 IU `
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 0 IU `
-│   │   │   │   │   inner_content: ` 0 IU `
+│   │   │   │   │   full_match: `0 IU `
+│   │   │   │   │   inner_content: `0 IU `
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `0 ?`
 │   │   │   │   inner_content: `0 ?`
@@ -529,15 +529,15 @@ AST Structure:
 │   │   │   │   inner_content: ` 300,000`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 300,000`
-│   │   │   │   │   inner_content: ` 300,000`
+│   │   │   │   │   full_match: `300,000`
+│   │   │   │   │   inner_content: `300,000`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: ` 820 IU`
 │   │   │   │   inner_content: ` 820 IU`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 820 IU`
-│   │   │   │   │   inner_content: ` 820 IU`
+│   │   │   │   │   full_match: `820 IU`
+│   │   │   │   │   inner_content: `820 IU`
 │   │   ├── TableRowNode
 │   │   │   full_match: `10-20 ng|600,000 | 1000 IU`
 │   │   │   inner_content: `10-20 ng|600,000 | 1000 IU`
@@ -561,8 +561,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 1000 IU`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 1000 IU`
-│   │   │   │   │   inner_content: ` 1000 IU`
+│   │   │   │   │   full_match: `1000 IU`
+│   │   │   │   │   inner_content: `1000 IU`
 │   │   ├── TableRowNode
 │   │   │   full_match: `0-10 ng|1,000,000 IU|2000 IU `
 │   │   │   inner_content: `0-10 ng|1,000,000 IU|2000 IU `
@@ -591,8 +591,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── HorizontalSpaceNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~`
 │   inner_content: ``
 │   repetitions: `1`├── TextNode
@@ -1038,9 +1038,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14929{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14929`
@@ -1056,40 +1053,40 @@ AST Structure:
 │   inner_content: ` (alias(Immunotherapy  for Cancers greatly helped by vitamin D loading dose - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Immunotherapy  for Cancers greatly helped by vitamin D loading dose - Aug 2023)) `
-│   │   inner_content: ` (alias(Immunotherapy  for Cancers greatly helped by vitamin D loading dose - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Immunotherapy  for Cancers greatly helped by vitamin D loading dose - Aug 2023)) `
+│   │   inner_content: `(alias(Immunotherapy  for Cancers greatly helped by vitamin D loading dose - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) `
-│   │   inner_content: ` (alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) `
+│   │   inner_content: `(alias(Immunotherapy for Cancers greatly helped by a vitamin D loading dose - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
-│   │   inner_content: ` (alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
+│   │   inner_content: `(alias(cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
-│   │   inner_content: ` (alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `
+│   │   inner_content: `(alias(Cancer Immunotherapy greatly helped by a Vitamin D loading dose - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) `
-│   │   inner_content: ` (alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) `
+│   │   full_match: `(alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) `
+│   │   inner_content: `(alias(Cancer Immunotherapy is greatly helped by a Vitamin D loading dose - Aug 2023)) `
 
 Original Tiki:
 -------------

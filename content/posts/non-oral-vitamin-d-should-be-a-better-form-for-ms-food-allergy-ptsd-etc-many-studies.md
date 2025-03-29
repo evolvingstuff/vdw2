@@ -272,8 +272,8 @@ AST Structure:
 │   inner_content: ` (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) `
-│   │   inner_content: ` (alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) `
+│   │   full_match: `(alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) `
+│   │   inner_content: `(alias(Non-oral Vitamin D should be a better form if MS, Preeclampsia, food allergy, PTSD, etc. – many studies)) `
 
 Original Tiki:
 -------------

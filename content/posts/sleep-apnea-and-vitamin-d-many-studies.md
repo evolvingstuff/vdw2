@@ -28,9 +28,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -44,7 +44,7 @@ This list is automatically updated
 
  **[86 minutes](https://www.bitchute.com/video/themPqUuQ0aC/) dual, connected epidemics: Low D, Sleep Apnea** 
 
-   **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Transcript ](/attachments/d3.mock.pdf)** 
+ **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Transcript ](/attachments/d3.mock.pdf)** 
 
 Vitamin D is important for hibernation then should also be important for deep sleep
 
@@ -298,9 +298,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -314,7 +314,7 @@ This list is automatically updated
 
  **[86 minutes](https://www.bitchute.com/video/themPqUuQ0aC/) dual, connected epidemics: Low D, Sleep Apnea** 
 
-   **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Transcript ](/attachments/d3.mock.pdf)** 
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Transcript ](/attachments/d3.mock.pdf)** 
 
 Vitamin D is important for hibernation then should also be important for deep sleep
 
@@ -568,8 +568,8 @@ AST Structure:
 │   inner_content: ` start `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` start `
-│   │   inner_content: ` start `├── HorizontalRuleNode
+│   │   full_match: `start `
+│   │   inner_content: `start `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:13+~~  VitaminDWiki pages have SLEEP APNEA in the title`
@@ -598,22 +598,22 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;SLEEP APNEA\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ end ~/tc~`
 │   inner_content: ` end `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` end `
-│   │   inner_content: ` end `├── HorizontalRuleNode
+│   │   full_match: `end `
+│   │   inner_content: `end `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Sleep Apnea and Vitamin D Deficiency - Mercola interview Gominak Feb 2024`
@@ -639,8 +639,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` dual, connected epidemics: Low D, Sleep Apnea`
 │   │   inner_content: ` dual, connected epidemics: Low D, Sleep Apnea`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20932&quot; icon=&quot;1&quot;)}Transcript {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20932&quot; icon=&quot;1&quot;)}Transcript {ATTACH}__`
 │   attrs_dict:
@@ -2960,8 +2960,8 @@ AST Structure:
 │   inner_content: ` (alias(Sleep apnea and Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Sleep apnea and Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Sleep apnea and Vitamin D - many studies)) `
+│   │   full_match: `(alias(Sleep apnea and Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Sleep apnea and Vitamin D - many studies)) `
 
 Original Tiki:
 -------------

@@ -59,7 +59,7 @@ Appropriately powered studies of longer duration are recommended for replication
 
 | | | | |
 | --- | --- | --- | --- |
-| Group | Total Hospital $ | 1.  of people days | Average $/day |
+| Group | Total Hospital $ | 1. of people days | Average $/day |
 | Control  | $41,109,649  | 590,000  | $69.67 |
 | Intervention | $2,318,500  | 37,900 | $61.16 |
 
@@ -90,7 +90,7 @@ However, the abstract says: "Costs of care between the groups were not statistic
 This list is automatically updated
 
 <!-- {LIST()}
-  {filter type="wiki page"}
+{filter type="wiki page"}
 {list max="100"}
 {filter field="title" content="\" 5000 \" OR \" 5,000 \""}
 {filter field="title" content="NOT \" 50000\""}
@@ -110,11 +110,11 @@ This list is automatically updated
 {filter field="title" content="NOT \" school days\""}
 {filter field="title" content="NOT \" D2\""}
 {filter field="title" content="NOT \" fossil\""}
-  {sort mode="modification_date_major_desc"}
+{sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -124,7 +124,7 @@ This list is automatically updated
 
  **URL = is.gd/dcost3** 
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14728{SQL} -->
 </span> visits to this page
 
@@ -186,7 +186,7 @@ Appropriately powered studies of longer duration are recommended for replication
 
 | | | | |
 | --- | --- | --- | --- |
-| Group | Total Hospital $ | 1.  of people days | Average $/day |
+| Group | Total Hospital $ | 1. of people days | Average $/day |
 | Control  | $41,109,649  | 590,000  | $69.67 |
 | Intervention | $2,318,500  | 37,900 | $61.16 |
 
@@ -217,7 +217,7 @@ However, the abstract says: &quot;Costs of care between the groups were not stat
 This list is automatically updated
 
 &lt;!-- {LIST()}
-  {filter type=&quot;wiki page&quot;}
+{filter type=&quot;wiki page&quot;}
 {list max=&quot;100&quot;}
 {filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}
 {filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}
@@ -237,11 +237,11 @@ This list is automatically updated
 {filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}
 {filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}
 {filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}
-  {sort mode=&quot;modification_date_major_desc&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -251,7 +251,7 @@ This list is automatically updated
 
  **URL = is.gd/dcost3** 
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14728{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -439,8 +439,8 @@ AST Structure:
 │   │   │   │   depth: `1`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` of people days`
-│   │   │   │   │   inner_content: ` of people days`
+│   │   │   │   │   full_match: `of people days`
+│   │   │   │   │   inner_content: `of people days`
 │   │   ├── TableCellNode
 │   │   │   full_match: `Average $/day`
 │   │   │   inner_content: `Average $/day`
@@ -627,14 +627,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot; 5000 \&quot; OR \&quot; 5,000 \&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 50,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 12,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 1,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 300,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; mice\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 900,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 100,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 10,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 20,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 4,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 600,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; years\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 245,000\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; school days\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; D2\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; fossil\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── BoldNode
 │   full_match: `__URL = is.gd/dcost3__`
@@ -658,9 +658,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14728{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14728`
@@ -676,16 +673,16 @@ AST Structure:
 │   inner_content: ` (alias(5000 IU Vitamin D daily resulted in huge health improvements - RCT preprint Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(5000 IU Vitamin D daily resulted in huge health improvements - RCT preprint Sept 2023)) `
-│   │   inner_content: ` (alias(5000 IU Vitamin D daily resulted in huge health improvements - RCT preprint Sept 2023)) `├── TextNode
+│   │   full_match: `(alias(5000 IU Vitamin D daily resulted in huge health improvements - RCT preprint Sept 2023)) `
+│   │   inner_content: `(alias(5000 IU Vitamin D daily resulted in huge health improvements - RCT preprint Sept 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) ~/tc~`
 │   inner_content: ` (alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) `
-│   │   inner_content: ` (alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) `
+│   │   full_match: `(alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) `
+│   │   inner_content: `(alias(5000 IU Vitamin D daily resulted in lower health care costs - RCT preprint Sept 2023)) `
 
 Original Tiki:
 -------------

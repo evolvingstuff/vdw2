@@ -52,11 +52,9 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 #### VitaminDWiki - [Omega-3 associations  with other categories](https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
- 
-
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=4360{SQL} -->
 </span> visits to this page
 
@@ -109,11 +107,9 @@ This study confirmed a high prevalence of vitamin D deficiency in pregnancy, par
 
 #### VitaminDWiki - [Omega-3 associations  with other categories](https://vitamindwiki.com/Vitamin+D+and+Omega-3#Associations_with_the_category_Omega-3)
 
- 
-
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=4360{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -202,8 +198,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Omega-3 associations  with other categories`
 │   │   │   inner_content: `Omega-3 associations  with other categories`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ startlist ~/tc~&quot; stop=&quot;~tc~ endlist~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -230,9 +226,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=4360{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=4360`
@@ -248,8 +241,8 @@ AST Structure:
 │   inner_content: ` (alias(Reduced Childhood Behavioral Problems if mother had more Vitamin D – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Reduced Childhood Behavioral Problems if mother had more Vitamin D – April 2023)) `
-│   │   inner_content: ` (alias(Reduced Childhood Behavioral Problems if mother had more Vitamin D – April 2023)) `
+│   │   full_match: `(alias(Reduced Childhood Behavioral Problems if mother had more Vitamin D – April 2023)) `
+│   │   inner_content: `(alias(Reduced Childhood Behavioral Problems if mother had more Vitamin D – April 2023)) `
 
 Original Tiki:
 -------------

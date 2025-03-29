@@ -1034,8 +1034,8 @@ AST Structure:
 │   inner_content: ` Well, L-Taurine has been the star in all longevity community in 2023`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Well, L-Taurine has been the star in all longevity community in 2023`
-│   │   inner_content: ` Well, L-Taurine has been the star in all longevity community in 2023`├── TextNode
+│   │   full_match: `Well, L-Taurine has been the star in all longevity community in 2023`
+│   │   inner_content: `Well, L-Taurine has been the star in all longevity community in 2023`├── TextNode
 │   full_match: `. This fascinating molecule requires a completely separate video where we can delve deeper into longevity studies from the last 20 years and make a conscious decision that is specific to this supplement as opposed to just something that is attached to magnesium. Subscribe now to get notified when it comes out.\n\n0:16:00.3 `
 │   inner_content: `. This fascinating molecule requires a completely separate video where we can delve deeper into longevity studies from the last 20 years and make a conscious decision that is specific to this supplement as opposed to just something that is attached to magnesium. Subscribe now to get notified when it comes out.\n\n0:16:00.3 `├── BoldNode
 │   full_match: `__Rimon:__`
@@ -1225,16 +1225,16 @@ AST Structure:
 │   inner_content: ` (alias(The ONE Supplement All Longevity Experts (Magnesium) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The ONE Supplement All Longevity Experts (Magnesium) - Dec 2023)) `
-│   │   inner_content: ` (alias(The ONE Supplement All Longevity Experts (Magnesium) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(The ONE Supplement All Longevity Experts (Magnesium) - Dec 2023)) `
+│   │   inner_content: `(alias(The ONE Supplement All Longevity Experts (Magnesium) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) `
-│   │   inner_content: ` (alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) `
+│   │   full_match: `(alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) `
+│   │   inner_content: `(alias(The ONE Supplement All Longevity Experts Are Taking (Magnesium) - Dec 2023)) `
 
 Original Tiki:
 -------------

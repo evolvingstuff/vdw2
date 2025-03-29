@@ -188,8 +188,8 @@ AST Structure:
 │   inner_content: ` (alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) `
-│   │   inner_content: ` (alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) `
+│   │   full_match: `(alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) `
+│   │   inner_content: `(alias(Worse Myopia if less vitamin D in young adults - Sept 2023)) `
 
 Original Tiki:
 -------------

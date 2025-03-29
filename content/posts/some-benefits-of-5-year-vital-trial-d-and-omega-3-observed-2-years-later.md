@@ -273,8 +273,8 @@ AST Structure:
 │   inner_content: ` (alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) `
-│   │   inner_content: ` (alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) `
+│   │   full_match: `(alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) `
+│   │   inner_content: `(alias(Benefits of 5 year VITAL trial  (D and Omega-3)still observed 2 years later - Jan 2024)) `
 
 Original Tiki:
 -------------

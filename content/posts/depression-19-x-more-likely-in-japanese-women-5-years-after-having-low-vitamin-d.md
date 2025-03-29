@@ -373,8 +373,8 @@ AST Structure:
 │   inner_content: ` (alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) `
-│   │   inner_content: ` (alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) `
+│   │   full_match: `(alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) `
+│   │   inner_content: `(alias(Depression 1.9 X more likely in Japanese women 5 years after having low vitamin D - Feb 2023)) `
 
 Original Tiki:
 -------------

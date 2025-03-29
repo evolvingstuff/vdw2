@@ -13,7 +13,7 @@ categories:
 
 #### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety?r=ofo3r&utm_source=substack&utm_medium=email) Dr. Peter McCullough
 
- [Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
+[Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
 
 ---
 
@@ -48,7 +48,7 @@ Markdown:
 
 #### [CDC Turns Blind Eye to Vaccine Safety](https://petermcculloughmd.substack.com/p/cdc-turns-blind-eye-to-vaccine-safety?r=ofo3r&amp;utm_source=substack&amp;utm_medium=email) Dr. Peter McCullough
 
- [Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
+[Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.](https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html)
 
 ---
 
@@ -94,8 +94,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Dr. Peter McCullough`
 │   │   inner_content: ` Dr. Peter McCullough`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── LinkNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LinkNode
 │   full_match: `[https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html|Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.]`
 │   inner_content: `Among ~10 million vaccine recipients who used the system, 7.7% became so acutely ill after the shot they required emergency medical attention or were hospitalized. No vaccine in history has been this toxic.`
 │   url: `https://www.prnewswire.com/news-releases/cdcs-covid-19-vaccine-v-safe-data-released-pursuant-to-court-order-301639584.html`

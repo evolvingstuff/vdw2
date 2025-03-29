@@ -253,8 +253,8 @@ AST Structure:
 │   inner_content: ` (alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) `
-│   │   inner_content: ` (alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) `
+│   │   full_match: `(alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) `
+│   │   inner_content: `(alias(Musltiple Scleroisis risk factors - Vitamin D was the only one you can easily change - Sept 2023)) `
 
 Original Tiki:
 -------------

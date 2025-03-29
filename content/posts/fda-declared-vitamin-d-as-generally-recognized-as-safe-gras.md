@@ -11,7 +11,7 @@ categories:
 
 
 
-#### Food Additives Permitted for Direct Addition to Food for Human Consumption; <span style="color:orange;"> Vitamin D3</span>
+#### Food Additives Permitted for Direct Addition to Food for Human Consumption; <span style="color:orange;">Vitamin D3</span>
 
  **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3#:~:text=To%20ensure%20that%20vitamin%20D,184.1950%20(21%20CFR%20184.1950).)** 
 
@@ -21,9 +21,9 @@ categories:
 | --- | --- |
 | IU max | Age |
 | 1,000 IU | 0 - 6 months  |
-| 1,500 IU |  6 - 12 months  |
-| 2,500 IU |  1 - 3 years  |
-| 3,000 IU |  4 - 8 years |
+| 1,500 IU | 6 - 12 months  |
+| 2,500 IU | 1 - 3 years  |
+| 3,000 IU | 4 - 8 years |
 | 4,000 IU | > 8 years |
 
 Appears to be no change in 13 years, even though they admitted that they had made a math error
@@ -40,7 +40,7 @@ Appears to be no change in 13 years, even though they admitted that they had mad
 Markdown:
 --------
 
-#### Food Additives Permitted for Direct Addition to Food for Human Consumption; &lt;span style=&quot;color:orange;&quot;&gt; Vitamin D3&lt;/span&gt;
+#### Food Additives Permitted for Direct Addition to Food for Human Consumption; &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D3&lt;/span&gt;
 
  **[Federal Register](https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3#:~:text=To%20ensure%20that%20vitamin%20D,184.1950%20(21%20CFR%20184.1950).)** 
 
@@ -50,9 +50,9 @@ Markdown:
 | --- | --- |
 | IU max | Age |
 | 1,000 IU | 0 - 6 months  |
-| 1,500 IU |  6 - 12 months  |
-| 2,500 IU |  1 - 3 years  |
-| 3,000 IU |  4 - 8 years |
+| 1,500 IU | 6 - 12 months  |
+| 2,500 IU | 1 - 3 years  |
+| 3,000 IU | 4 - 8 years |
 | 4,000 IU | &gt; 8 years |
 
 Appears to be no change in 13 years, even though they admitted that they had made a math error
@@ -81,8 +81,8 @@ AST Structure:
 │   │   │   raw_content: #F00
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Vitamin D3`
-│   │   │   inner_content: ` Vitamin D3`├── TextNode
+│   │   │   full_match: `Vitamin D3`
+│   │   │   inner_content: `Vitamin D3`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__[https://www.federalregister.gov/documents/2023/01/05/2022-28428/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d3#:~:text=To%20ensure%20that%20vitamin%20D,184.1950%20(21%20CFR%20184.1950).|Federal Register]__`
@@ -162,8 +162,8 @@ AST Structure:
 │   │   │   inner_content: ` 6 - 12 months `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 6 - 12 months `
-│   │   │   │   inner_content: ` 6 - 12 months `
+│   │   │   │   full_match: `6 - 12 months `
+│   │   │   │   inner_content: `6 - 12 months `
 │   ├── TableRowNode
 │   │   full_match: `2,500 IU| 1 - 3 years `
 │   │   inner_content: `2,500 IU| 1 - 3 years `
@@ -180,8 +180,8 @@ AST Structure:
 │   │   │   inner_content: ` 1 - 3 years `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 1 - 3 years `
-│   │   │   │   inner_content: ` 1 - 3 years `
+│   │   │   │   full_match: `1 - 3 years `
+│   │   │   │   inner_content: `1 - 3 years `
 │   ├── TableRowNode
 │   │   full_match: `3,000 IU| 4 - 8 years`
 │   │   inner_content: `3,000 IU| 4 - 8 years`
@@ -198,8 +198,8 @@ AST Structure:
 │   │   │   inner_content: ` 4 - 8 years`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 4 - 8 years`
-│   │   │   │   inner_content: ` 4 - 8 years`
+│   │   │   │   full_match: `4 - 8 years`
+│   │   │   │   inner_content: `4 - 8 years`
 │   ├── TableRowNode
 │   │   full_match: `4,000 IU|&gt; 8 years`
 │   │   inner_content: `4,000 IU|&gt; 8 years`
@@ -257,8 +257,8 @@ AST Structure:
 │   inner_content: ` (alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) `
-│   │   inner_content: ` (alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) `
+│   │   full_match: `(alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) `
+│   │   inner_content: `(alias(FDA declared Vitamin D as Generaly Recognized as Safe (GRA) Jan 2023)) `
 
 Original Tiki:
 -------------

@@ -48,7 +48,7 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 |  **Plausibility**  | Mechanisms exist to explain the effect. |
 |  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
 |  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
-|  **Analogy**  <span style="color:orange;"> . . . . . . . . . . . . . . . . . . . . </span> | Analogous exposures for demonstrated outcomes. |
+|  **Analogy**  <span style="color:orange;">. . . . . . . . . . . . . . . . . . . . </span> | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
@@ -623,7 +623,7 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 |  **Plausibility**  | Mechanisms exist to explain the effect. |
 |  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
 |  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
-|  **Analogy**  &lt;span style=&quot;color:orange;&quot;&gt; . . . . . . . . . . . . . . . . . . . . &lt;/span&gt; | Analogous exposures for demonstrated outcomes. |
+|  **Analogy**  &lt;span style=&quot;color:orange;&quot;&gt;. . . . . . . . . . . . . . . . . . . . &lt;/span&gt; | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
@@ -1482,8 +1482,8 @@ AST Structure:
 │   │   │   │   │   raw_content: #FFF
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` . . . . . . . . . . . . . . . . . . . . `
-│   │   │   │   │   inner_content: ` . . . . . . . . . . . . . . . . . . . . `
+│   │   │   │   │   full_match: `. . . . . . . . . . . . . . . . . . . . `
+│   │   │   │   │   inner_content: `. . . . . . . . . . . . . . . . . . . . `
 │   │   ├── TableCellNode
 │   │   │   full_match: `Analogous exposures for demonstrated outcomes.`
 │   │   │   inner_content: `Analogous exposures for demonstrated outcomes.`
@@ -6425,16 +6425,16 @@ AST Structure:
 │   inner_content: ` (alias(PD)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(PD)) `
-│   │   inner_content: ` (alias(PD)) `├── TextNode
+│   │   full_match: `(alias(PD)) `
+│   │   inner_content: `(alias(PD)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) ~/tc~`
 │   inner_content: ` (alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) `
-│   │   inner_content: ` (alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) `
+│   │   full_match: `(alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) `
+│   │   inner_content: `(alias(Dental problems if low Vitamin D (Hills, Global Recc,) Grant June 2023)) `
 
 Original Tiki:
 -------------

@@ -76,7 +76,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 #### 6 studies of giving Vitamin D
 
-*  <a href="/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022">Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022</a>
+* <a href="/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022">Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022</a>
 
 * <a href="/posts/romania-joins-turkey-in-giving-free-vitamin-d-to-all-infants-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Romania joins Turkey in giving free Vitamin D to all infants – 2018">Romania joins Turkey in giving free Vitamin D to all infants – 2018</a>
 
@@ -163,7 +163,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 #### 6 studies of giving Vitamin D
 
-*  &lt;a href=&quot;/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022&quot;&gt;Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022&lt;/a&gt;
+* &lt;a href=&quot;/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022&quot;&gt;Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/romania-joins-turkey-in-giving-free-vitamin-d-to-all-infants-2018&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Romania joins Turkey in giving free Vitamin D to all infants – 2018&quot;&gt;Romania joins Turkey in giving free Vitamin D to all infants – 2018&lt;/a&gt;
 
@@ -408,9 +408,6 @@ AST Structure:
 │   inner_content: ` ((Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022))`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022))`
 │   │   inner_content: `Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022`

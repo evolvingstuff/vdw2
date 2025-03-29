@@ -268,7 +268,7 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 ##### VitaminDWiki – <a href="/posts/drgreger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DrGreger">DrGreger</a> category has 
 <!-- {SQL( db="vitamind")}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=186{SQL} -->
-  <span style="color:orange;"> items</span>** Which includes__
+  <span style="color:orange;">items</span>** Which includes__
 
 * <a href="/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ">Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) </a>
 
@@ -306,7 +306,7 @@ This list is automatically updated
 <!-- {SQL( db="vitamind")}SELECT hits FROM tiki_pages WHERE page_id=14864{SQL} -->
  visits to this page
 
- 
+
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -569,7 +569,7 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 ##### VitaminDWiki – &lt;a href=&quot;/posts/drgreger&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DrGreger&quot;&gt;DrGreger&lt;/a&gt; category has 
 &lt;!-- {SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=186{SQL} --&gt;
-  &lt;span style=&quot;color:orange;&quot;&gt; items&lt;/span&gt;** Which includes__
+  &lt;span style=&quot;color:orange;&quot;&gt;items&lt;/span&gt;** Which includes__
 
 * &lt;a href=&quot;/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) &quot;&gt;Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) &lt;/a&gt;
 
@@ -607,7 +607,7 @@ This list is automatically updated
 &lt;!-- {SQL( db=&quot;vitamind&quot;)}SELECT hits FROM tiki_pages WHERE page_id=14864{SQL} --&gt;
  visits to this page
 
- 
+
 
 AST Structure:
 -------------
@@ -1494,8 +1494,8 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` items`
-│   │   │   │   inner_content: ` items`
+│   │   │   │   full_match: `items`
+│   │   │   │   inner_content: `items`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── TextNode
@@ -1693,8 +1693,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` visits to this page`
 │   │   inner_content: ` visits to this page`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `
+│   full_match: `\n`
+│   inner_content: `\n`
 
 Original Tiki:
 -------------

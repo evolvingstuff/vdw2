@@ -285,8 +285,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) `
-│   │   inner_content: ` (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) `
+│   │   full_match: `(alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) `
+│   │   inner_content: `(alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) `
 
 Original Tiki:
 -------------

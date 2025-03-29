@@ -32,7 +32,7 @@ The world copied the US mistake of 600 IU
 
 * Assume only half of the people would take lots of vitamin D
 
-*  Thus, decrease in health care costs =12%  = half X half X 75%
+* Thus, decrease in health care costs =12%  = half X half X 75%
 
   * 12% of $8.3 trillion = $1.2 trillion
 
@@ -56,9 +56,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -102,9 +102,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -152,7 +152,7 @@ also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15149{SQL} -->
 </span> visits to this page
 
@@ -193,7 +193,7 @@ The world copied the US mistake of 600 IU
 
 * Assume only half of the people would take lots of vitamin D
 
-*  Thus, decrease in health care costs =12%  = half X half X 75%
+* Thus, decrease in health care costs =12%  = half X half X 75%
 
   * 12% of $8.3 trillion = $1.2 trillion
 
@@ -217,9 +217,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -263,9 +263,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -313,7 +313,7 @@ also &lt;a href=&quot;/posts/137-health-problems-associated-with-low-vitamin-d-m
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15149{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -414,8 +414,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Thus, decrease in health care costs =12%  = half X half X 75%`
-│   │   inner_content: ` Thus, decrease in health care costs =12%  = half X half X 75%`├── TextNode
+│   │   full_match: `Thus, decrease in health care costs =12%  = half X half X 75%`
+│   │   inner_content: `Thus, decrease in health care costs =12%  = half X half X 75%`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `**12% of $8.3 trillion = $1.2 trillion`
@@ -489,14 +489,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;math mistake&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!The 2nd panel did not want to publicly admit IoM mistake (or were bribed)`
@@ -701,14 +701,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;Institute of Medicine\&quot; OR “\&quot;IOM\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!! ((More than 700 Intervention Trials in VitaminDWiki since the IoM decision))`
@@ -922,9 +922,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15149{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15149`
@@ -940,40 +937,40 @@ AST Structure:
 │   inner_content: ` (alias(IoM 2010: Vitamin D RDA 400 IU, they later agreed math mistake was made, should have been 22 X larger)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(IoM 2010: Vitamin D RDA 400 IU, they later agreed math mistake was made, should have been 22 X larger)) `
-│   │   inner_content: ` (alias(IoM 2010: Vitamin D RDA 400 IU, they later agreed math mistake was made, should have been 22 X larger)) `├── TextNode
+│   │   full_match: `(alias(IoM 2010: Vitamin D RDA 400 IU, they later agreed math mistake was made, should have been 22 X larger)) `
+│   │   inner_content: `(alias(IoM 2010: Vitamin D RDA 400 IU, they later agreed math mistake was made, should have been 22 X larger)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) ~/tc~`
 │   inner_content: ` (alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) `
-│   │   inner_content: ` (alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) `├── TextNode
+│   │   full_match: `(alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) `
+│   │   inner_content: `(alias(The math mistake on Vitamin D RDA in 2010, now costs the globe about one Trillion dollars a year)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) ~/tc~`
 │   inner_content: ` (alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) `
-│   │   inner_content: ` (alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) `├── TextNode
+│   │   full_match: `(alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) `
+│   │   inner_content: `(alias(RDA math mistake for Vitamin D now costs the globe about one Trillion dollars a year)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) ~/tc~`
 │   inner_content: ` (alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) `
-│   │   inner_content: ` (alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) `├── TextNode
+│   │   full_match: `(alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) `
+│   │   inner_content: `(alias(4 US RDA math mistakes for Vitamin D cost about one Trillion dollars a year)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) ~/tc~`
 │   inner_content: ` (alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) `
-│   │   inner_content: ` (alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) `
+│   │   full_match: `(alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) `
+│   │   inner_content: `(alias(4 US RDA Vitamin D math mistakes cost the world about one Trillion dollars annually)) `
 
 Original Tiki:
 -------------

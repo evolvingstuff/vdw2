@@ -138,8 +138,8 @@ AST Structure:
 │   inner_content: ` (alias(All cirus studies in VitaminDWiki)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(All cirus studies in VitaminDWiki)) `
-│   │   inner_content: ` (alias(All cirus studies in VitaminDWiki)) `
+│   │   full_match: `(alias(All cirus studies in VitaminDWiki)) `
+│   │   inner_content: `(alias(All cirus studies in VitaminDWiki)) `
 
 Original Tiki:
 -------------

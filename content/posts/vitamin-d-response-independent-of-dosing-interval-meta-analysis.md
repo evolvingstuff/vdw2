@@ -23,7 +23,7 @@ categories:
 
 Front. Nutr.Sec. Nutritional Epidemiology Volume 10 - 2023 | [doi: 10.3389/fnut.2023.1168115](https://doi.org/10.3389/fnut.2023.1168115) &nbsp; PDF not available initially
 
- Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*
+Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*
 
 1 Zhejiang University, China
 
@@ -72,7 +72,7 @@ Markdown:
 
 Front. Nutr.Sec. Nutritional Epidemiology Volume 10 - 2023 | [doi: 10.3389/fnut.2023.1168115](https://doi.org/10.3389/fnut.2023.1168115) &amp;nbsp; PDF not available initially
 
- Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*
+Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*
 
 1 Zhejiang University, China
 
@@ -142,8 +142,8 @@ AST Structure:
 │   full_match: `~hs~`
 │   inner_content: ``
 │   repetitions: `1`├── TextNode
-│   full_match: ` PDF not available initially\n Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*\n1 Zhejiang University, China\n2 Sir Run run shaw hospital, China\n\n`
-│   inner_content: ` PDF not available initially\n Hui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*\n1 Zhejiang University, China\n2 Sir Run run shaw hospital, China\n\n`├── BoldNode
+│   full_match: ` PDF not available initially\nHui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*\n1 Zhejiang University, China\n2 Sir Run run shaw hospital, China\n\n`
+│   inner_content: ` PDF not available initially\nHui Liu1, 2* Haibo Zhou1 Zhicheng Peng1 Haoyue Cheng1  Peihan Chi1 Xing Xin1 Wenliang Luo1 Shuting Si1  Minjia Mo1  Danqing Chen1  Yunxian Yu1*\n1 Zhejiang University, China\n2 Sir Run run shaw hospital, China\n\n`├── BoldNode
 │   full_match: `__NMOL achieved (reminder, need &gt;2 months to get full response)__`
 │   inner_content: `NMOL achieved (reminder, need &gt;2 months to get full response)`
 │   children:
@@ -283,8 +283,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) `
-│   │   inner_content: ` (alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) `
+│   │   full_match: `(alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) `
+│   │   inner_content: `(alias(Vitamin D response independent of dosing interval (ignores cellular response) – meta-analysis July 2023)) `
 
 Original Tiki:
 -------------

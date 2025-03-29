@@ -41,7 +41,7 @@ categories:
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14496{SQL} -->
 </span> visits to this page
 
@@ -82,7 +82,7 @@ Markdown:
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14496{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -275,9 +275,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14496{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14496`
@@ -293,8 +290,8 @@ AST Structure:
 │   inner_content: ` (alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) `
-│   │   inner_content: ` (alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) `
+│   │   full_match: `(alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) `
+│   │   inner_content: `(alias(FDA approved drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023)) `
 
 Original Tiki:
 -------------

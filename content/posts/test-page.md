@@ -39,7 +39,17 @@ Reference? <sup>[3]</sup>
 
 <!-- {maketoc Title=""} -->
 
-  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+
+<img src="/attachments/d3.mock.jpg" alt="image">
+
+Reduce stress and anxiety with Magnesium - 100-page ebook June 2017
+
+Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023
+
+<a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a> chart
+
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ---
 
@@ -80,7 +90,17 @@ Reference? &lt;sup&gt;[3]&lt;/sup&gt;
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
-  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+
+Reduce stress and anxiety with Magnesium - 100-page ebook June 2017
+
+Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023
+
+&lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt; chart
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 ---
 
@@ -250,8 +270,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` See also `
-│   │   inner_content: ` See also `
+│   │   full_match: `See also `
+│   │   inner_content: `See also `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
 │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
@@ -259,7 +279,30 @@ AST Structure:
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
-│   │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`├── HorizontalRuleNode
+│   │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
+│   full_match: `{img fileId=3149}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=3149
+│   │   fileId: 3149├── TextNode
+│   full_match: `\n\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n`
+│   inner_content: `\n\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n`├── LocalLinkNode
+│   full_match: `((Magnesium is needed by Vitamin D in 8 places - 2013))`
+│   inner_content: `Magnesium is needed by Vitamin D in 8 places - 2013`
+│   page: `Magnesium is needed by Vitamin D in 8 places - 2013`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Magnesium is needed by Vitamin D in 8 places - 2013`
+│   │   inner_content: `Magnesium is needed by Vitamin D in 8 places - 2013`├── TextNode
+│   full_match: ` chart\n`
+│   inner_content: ` chart\n`├── ImgNode
+│   full_match: `{img fileId=3149}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=3149
+│   │   fileId: 3149├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`
 
@@ -294,6 +337,13 @@ doi: 10.1007/s11912-023-01476-4
 {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
 
 ** See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))
+
+{img fileId=3149}
+
+Reduce stress and anxiety with Magnesium - 100-page ebook June 2017
+Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023
+ ((Magnesium is needed by Vitamin D in 8 places - 2013)) chart
+	{img fileId=3149}
 ---
 
 </code>

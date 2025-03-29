@@ -43,47 +43,47 @@ Vitamin D levels affect the disease course in COVID-19 infection and proper bloo
 
 [Virus](/categories/virus)  **(1260+)** 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11703]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13008]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13008]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13586]</span> (11+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13586]</span> (11+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14221]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14221]</span> (13+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13346]</span> (20+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13346]</span> (20+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13434]</span> (23+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13434]</span> (23+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=7698]</span> (29+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=7698]</span> (29+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14086]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14086]</span> (13+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12259]</span> (35+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12259]</span> (35+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13765]</span> (72+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13765]</span> (72+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14052]</span> (60+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14052]</span> (60+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14687]</span> (11+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14687]</span> (11+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12472]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12472]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12896]</span> (14+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12896]</span> (14+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11825]</span> (12+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11825]</span> (12+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14292]</span> (16+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14292]</span> (16+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13851]</span> (198+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13851]</span> (198+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13335]</span> (650+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13335]</span> (650+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14371]</span> (31+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14371]</span> (31+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id==11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id==11703]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14074]</span> (32+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14074]</span> (32+) 
 
 ---
 
@@ -133,47 +133,47 @@ Vitamin D levels affect the disease course in COVID-19 infection and proper bloo
 
 [Virus](/categories/virus)  **(1260+)** 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14687]&lt;/span&gt; (11+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14687]&lt;/span&gt; (11+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+) 
 
 ---
 
@@ -308,9 +308,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -337,9 +334,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -366,9 +360,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -395,9 +386,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -424,9 +412,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -453,9 +438,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -482,9 +464,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -511,9 +490,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -540,9 +516,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -569,9 +542,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -598,9 +568,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -627,9 +594,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -656,9 +620,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -685,9 +646,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -714,9 +672,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -743,9 +698,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -772,9 +724,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -801,9 +750,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -830,9 +776,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -859,9 +802,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -888,9 +828,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -970,8 +907,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) `
-│   │   inner_content: ` (alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) `
+│   │   full_match: `(alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) `
+│   │   inner_content: `(alias(Vitamin D and COVID-19 charts – more studies are needed – Oct 2023)) `
 
 Original Tiki:
 -------------

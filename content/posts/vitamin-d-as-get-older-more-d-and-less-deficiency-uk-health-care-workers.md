@@ -288,8 +288,8 @@ AST Structure:
 │   inner_content: ` (alias(HCW)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(HCW)) `
-│   │   inner_content: ` (alias(HCW)) `
+│   │   full_match: `(alias(HCW)) `
+│   │   inner_content: `(alias(HCW)) `
 
 Original Tiki:
 -------------

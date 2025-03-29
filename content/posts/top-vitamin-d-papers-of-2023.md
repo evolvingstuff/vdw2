@@ -209,13 +209,13 @@ This list is automatically updated
 
 <!-- {LIST()}
 {list max="100"}
-  {filter type="wiki page"}
-  {filter field="title" content="top AND papers"}
-  {sort mode="creation_date"}
+{filter type="wiki page"}
+{filter field="title" content="top AND papers"}
+{sort mode="creation_date"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Published" sort="creation_date" field="creation_date"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Published" sort="creation_date" field="creation_date"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="creation_date")}{display name=creation_date format="date"}{FORMAT}
@@ -427,13 +427,13 @@ This list is automatically updated
 
 &lt;!-- {LIST()}
 {list max=&quot;100&quot;}
-  {filter type=&quot;wiki page&quot;}
-  {filter field=&quot;title&quot; content=&quot;top AND papers&quot;}
-  {sort mode=&quot;creation_date&quot;}
+{filter type=&quot;wiki page&quot;}
+{filter field=&quot;title&quot; content=&quot;top AND papers&quot;}
+{sort mode=&quot;creation_date&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}
@@ -1584,14 +1584,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n  {sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n  {sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n{sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n{sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n  {sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n  {sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n{sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;top AND papers&quot;}\n{sort mode=&quot;creation_date&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Published&quot; sort=&quot;creation_date&quot; field=&quot;creation_date&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;creation_date&quot;)}{display name=creation_date format=&quot;date&quot;}{FORMAT}\n`
 
 Original Tiki:
 -------------

@@ -625,9 +625,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -1254,9 +1254,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -1894,8 +1894,8 @@ AST Structure:
 │   url: ` 95% CI, 1.02-1.27`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` 95% CI, 1.02-1.27`
-│   │   inner_content: ` 95% CI, 1.02-1.27`├── TextNode
+│   │   full_match: `95% CI, 1.02-1.27`
+│   │   inner_content: `95% CI, 1.02-1.27`├── TextNode
 │   full_match: `). Several studies have found an inverse relationship between the incidence of cervical neoplasia and serum 25(OH)D concentrations (Avila, Noriega-Mejia, et al., 2023). The narrative review by Avila, Noriega-Mejia, et al. (2023) updates the current evidence supporting the notion that the vitamin D endocrine system has a preventive role on cervical cancer, mainly in the early phases of the disease, acting at the level of suppressing cell proliferation, promoting apop­tosis, modulating inflammatory responses, and probably favoring the clearance of HPV-dependent cervical lesions.\nHPV is also a risk factor for head and neck squamous cell carcinoma (HNSCC). An observational study in Germany examined the serum 25(OH)D concentrations for 231 HNSCC patients an 232 healthy controls (Bochen, Balensiefer, et al., 2018). Mean serum 25(OH)D concentrations were significantly lower in HNSCC patients than in controls (~11 ng/mL vs. ~25 ng/mL, p &lt; 0.001). However, HNSCC patients who were HPV-negative had lower mean 25(OH)D con­centrations than those who were HPV-positive (~9 ng/mL vs. ~15 ng/mL, p = 0.01). However, of the 35 HPV positive patients, HPV-positive with low 25(OH)D low, n = 18; HPV-positive, high 25(OH)D, n = 17. Thus, with the low numbers, it is not clear what the role of vitamin D is for HPV. Further discussion of the role of vitamin D in HNSCC is found in a 2023 review (Starska-Kowarska, 2023).\n`
 │   inner_content: `). Several studies have found an inverse relationship between the incidence of cervical neoplasia and serum 25(OH)D concentrations (Avila, Noriega-Mejia, et al., 2023). The narrative review by Avila, Noriega-Mejia, et al. (2023) updates the current evidence supporting the notion that the vitamin D endocrine system has a preventive role on cervical cancer, mainly in the early phases of the disease, acting at the level of suppressing cell proliferation, promoting apop­tosis, modulating inflammatory responses, and probably favoring the clearance of HPV-dependent cervical lesions.\nHPV is also a risk factor for head and neck squamous cell carcinoma (HNSCC). An observational study in Germany examined the serum 25(OH)D concentrations for 231 HNSCC patients an 232 healthy controls (Bochen, Balensiefer, et al., 2018). Mean serum 25(OH)D concentrations were significantly lower in HNSCC patients than in controls (~11 ng/mL vs. ~25 ng/mL, p &lt; 0.001). However, HNSCC patients who were HPV-negative had lower mean 25(OH)D con­centrations than those who were HPV-positive (~9 ng/mL vs. ~15 ng/mL, p = 0.01). However, of the 35 HPV positive patients, HPV-positive with low 25(OH)D low, n = 18; HPV-positive, high 25(OH)D, n = 17. Thus, with the low numbers, it is not clear what the role of vitamin D is for HPV. Further discussion of the role of vitamin D in HNSCC is found in a 2023 review (Starska-Kowarska, 2023).\n`├── HeadingNode
 │   full_match: `!!!!Conclusion`
@@ -3594,30 +3594,30 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) `
-│   │   inner_content: ` (alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) `
+│   │   inner_content: `(alias(Vitamin D viral infections, Infectious and autoimmune diseases, cancers – March 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) `
-│   │   inner_content: ` (alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) `
+│   │   full_match: `(alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) `
+│   │   inner_content: `(alias(Vitamin D viral infections, Infectious diseases, EBV and MS, Virus  Cancers – Grant March 2024)) `
 
 Original Tiki:
 -------------

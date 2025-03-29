@@ -20,12 +20,12 @@ categories:
 
 | | | |
 | --- | --- | --- |
-| ALLERGIC (53) |  AUTOIMMUNE (23) |   **CARDIAC (432)**  |
-|  **DERMATOLOGY (539)**  |  EAR, NOSE AND THROAT (31) |  ENDOCRINE (50) |
-| GASTROINTESTINAL (93) |  HEMATOLOGY (83) |  IMMUNE SYSTEM (78) |
-| INFECTIOUS DISEASE (69) |  MIS-V (53) |  MISC (41) |
-|  **NEURO (628)**  |  OB-GYN (6) |  ONCOLOGY (192) |
-| OPTHALMOLOGY (83) |  OPTHAMOLOGY (89) |  PULMONARY (64) |
+| ALLERGIC (53) | AUTOIMMUNE (23) |  **CARDIAC (432)**  |
+|  **DERMATOLOGY (539)**  | EAR, NOSE AND THROAT (31) | ENDOCRINE (50) |
+| GASTROINTESTINAL (93) | HEMATOLOGY (83) | IMMUNE SYSTEM (78) |
+| INFECTIOUS DISEASE (69) | MIS-V (53) | MISC (41) |
+|  **NEURO (628)**  | OB-GYN (6) | ONCOLOGY (192) |
+| OPTHALMOLOGY (83) | OPTHAMOLOGY (89) | PULMONARY (64) |
 | RENAL (174) |
 
 ---
@@ -51,12 +51,12 @@ Markdown:
 
 | | | |
 | --- | --- | --- |
-| ALLERGIC (53) |  AUTOIMMUNE (23) |   **CARDIAC (432)**  |
-|  **DERMATOLOGY (539)**  |  EAR, NOSE AND THROAT (31) |  ENDOCRINE (50) |
-| GASTROINTESTINAL (93) |  HEMATOLOGY (83) |  IMMUNE SYSTEM (78) |
-| INFECTIOUS DISEASE (69) |  MIS-V (53) |  MISC (41) |
-|  **NEURO (628)**  |  OB-GYN (6) |  ONCOLOGY (192) |
-| OPTHALMOLOGY (83) |  OPTHAMOLOGY (89) |  PULMONARY (64) |
+| ALLERGIC (53) | AUTOIMMUNE (23) |  **CARDIAC (432)**  |
+|  **DERMATOLOGY (539)**  | EAR, NOSE AND THROAT (31) | ENDOCRINE (50) |
+| GASTROINTESTINAL (93) | HEMATOLOGY (83) | IMMUNE SYSTEM (78) |
+| INFECTIOUS DISEASE (69) | MIS-V (53) | MISC (41) |
+|  **NEURO (628)**  | OB-GYN (6) | ONCOLOGY (192) |
+| OPTHALMOLOGY (83) | OPTHAMOLOGY (89) | PULMONARY (64) |
 | RENAL (174) |
 
 ---
@@ -123,15 +123,12 @@ AST Structure:
 │   │   │   inner_content: ` AUTOIMMUNE (23)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` AUTOIMMUNE (23)`
-│   │   │   │   inner_content: ` AUTOIMMUNE (23)`
+│   │   │   │   full_match: `AUTOIMMUNE (23)`
+│   │   │   │   inner_content: `AUTOIMMUNE (23)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` __CARDIAC (432)__`
 │   │   │   inner_content: ` __CARDIAC (432)__`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   │   ├── BoldNode
 │   │   │   │   full_match: `__CARDIAC (432)__`
 │   │   │   │   inner_content: `CARDIAC (432)`
@@ -159,15 +156,15 @@ AST Structure:
 │   │   │   inner_content: ` EAR, NOSE AND THROAT (31)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` EAR, NOSE AND THROAT (31)`
-│   │   │   │   inner_content: ` EAR, NOSE AND THROAT (31)`
+│   │   │   │   full_match: `EAR, NOSE AND THROAT (31)`
+│   │   │   │   inner_content: `EAR, NOSE AND THROAT (31)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` ENDOCRINE (50)`
 │   │   │   inner_content: ` ENDOCRINE (50)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` ENDOCRINE (50)`
-│   │   │   │   inner_content: ` ENDOCRINE (50)`
+│   │   │   │   full_match: `ENDOCRINE (50)`
+│   │   │   │   inner_content: `ENDOCRINE (50)`
 │   ├── TableRowNode
 │   │   full_match: `GASTROINTESTINAL (93)| HEMATOLOGY (83)| IMMUNE SYSTEM (78)`
 │   │   inner_content: `GASTROINTESTINAL (93)| HEMATOLOGY (83)| IMMUNE SYSTEM (78)`
@@ -184,15 +181,15 @@ AST Structure:
 │   │   │   inner_content: ` HEMATOLOGY (83)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` HEMATOLOGY (83)`
-│   │   │   │   inner_content: ` HEMATOLOGY (83)`
+│   │   │   │   full_match: `HEMATOLOGY (83)`
+│   │   │   │   inner_content: `HEMATOLOGY (83)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` IMMUNE SYSTEM (78)`
 │   │   │   inner_content: ` IMMUNE SYSTEM (78)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` IMMUNE SYSTEM (78)`
-│   │   │   │   inner_content: ` IMMUNE SYSTEM (78)`
+│   │   │   │   full_match: `IMMUNE SYSTEM (78)`
+│   │   │   │   inner_content: `IMMUNE SYSTEM (78)`
 │   ├── TableRowNode
 │   │   full_match: `INFECTIOUS DISEASE (69)| MIS-V (53)| MISC (41)`
 │   │   inner_content: `INFECTIOUS DISEASE (69)| MIS-V (53)| MISC (41)`
@@ -209,15 +206,15 @@ AST Structure:
 │   │   │   inner_content: ` MIS-V (53)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` MIS-V (53)`
-│   │   │   │   inner_content: ` MIS-V (53)`
+│   │   │   │   full_match: `MIS-V (53)`
+│   │   │   │   inner_content: `MIS-V (53)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` MISC (41)`
 │   │   │   inner_content: ` MISC (41)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` MISC (41)`
-│   │   │   │   inner_content: ` MISC (41)`
+│   │   │   │   full_match: `MISC (41)`
+│   │   │   │   inner_content: `MISC (41)`
 │   ├── TableRowNode
 │   │   full_match: `__NEURO (628)__| OB-GYN (6)| ONCOLOGY (192)`
 │   │   inner_content: `__NEURO (628)__| OB-GYN (6)| ONCOLOGY (192)`
@@ -238,15 +235,15 @@ AST Structure:
 │   │   │   inner_content: ` OB-GYN (6)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` OB-GYN (6)`
-│   │   │   │   inner_content: ` OB-GYN (6)`
+│   │   │   │   full_match: `OB-GYN (6)`
+│   │   │   │   inner_content: `OB-GYN (6)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` ONCOLOGY (192)`
 │   │   │   inner_content: ` ONCOLOGY (192)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` ONCOLOGY (192)`
-│   │   │   │   inner_content: ` ONCOLOGY (192)`
+│   │   │   │   full_match: `ONCOLOGY (192)`
+│   │   │   │   inner_content: `ONCOLOGY (192)`
 │   ├── TableRowNode
 │   │   full_match: `OPTHALMOLOGY (83)| OPTHAMOLOGY (89)| PULMONARY (64)`
 │   │   inner_content: `OPTHALMOLOGY (83)| OPTHAMOLOGY (89)| PULMONARY (64)`
@@ -263,15 +260,15 @@ AST Structure:
 │   │   │   inner_content: ` OPTHAMOLOGY (89)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` OPTHAMOLOGY (89)`
-│   │   │   │   inner_content: ` OPTHAMOLOGY (89)`
+│   │   │   │   full_match: `OPTHAMOLOGY (89)`
+│   │   │   │   inner_content: `OPTHAMOLOGY (89)`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` PULMONARY (64)`
 │   │   │   inner_content: ` PULMONARY (64)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` PULMONARY (64)`
-│   │   │   │   inner_content: ` PULMONARY (64)`
+│   │   │   │   full_match: `PULMONARY (64)`
+│   │   │   │   inner_content: `PULMONARY (64)`
 │   ├── TableRowNode
 │   │   full_match: `RENAL (174)`
 │   │   inner_content: `RENAL (174)`
@@ -306,16 +303,16 @@ AST Structure:
 │   inner_content: ` (alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) `
-│   │   inner_content: ` (alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) `├── TextNode
+│   │   full_match: `(alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) `
+│   │   inner_content: `(alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) ~/tc~`
 │   inner_content: ` (alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) `
-│   │   inner_content: ` (alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) `
+│   │   full_match: `(alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) `
+│   │   inner_content: `(alias(3,400 peer-reviewed studies documented COVID Vaccination problems as of April 2022)) `
 
 Original Tiki:
 -------------

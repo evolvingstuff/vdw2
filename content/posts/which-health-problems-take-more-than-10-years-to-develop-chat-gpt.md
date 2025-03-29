@@ -853,8 +853,8 @@ AST Structure:
 │   inner_content: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `
-│   │   inner_content: ` (alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `├── HorizontalRuleNode
+│   │   full_match: `(alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `
+│   │   inner_content: `(alias(Which health problem take more than 10 years to develop - Chat-GPT Dec 2023)) `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!This is one of the articles in the ((AI)) category (most of which are summaries or defintions)`

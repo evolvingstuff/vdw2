@@ -17,34 +17,34 @@ date: 2023-08-16
 
 | | |
 | --- | --- |
-| Health Condition/Goal |  # of Studies |
-| [https://examine.com/conditions/multiple-sclerosis/ | Multiple Sclerosis] |  9 Studies |
+| Health Condition/Goal | 1. of Studies |
+| [https://examine.com/conditions/multiple-sclerosis/ | Multiple Sclerosis] | 9 Studies |
 | [https://examine.com/conditions/common-cold/ | Common Cold]  | 9 Studies |
 | [https://examine.com/conditions/upper-respiratory-tract-infection/ | Upper Respiratory Tract Infection]  | 8 Studies |
-| [https://examine.com/conditions/premenstrual-syndrome/ | Premenstrual Syndrome] |  8 Studies |
-| [https://examine.com/conditions/immune-health/ | Immune Health] |  5 Studies |
-| [https://examine.com/conditions/flu/ | Flu] |  5 Studies |
-| [https://examine.com/conditions/type-2-diabetes/ | Type 2 Diabetes] |  4 Studies |
-| [https://examine.com/conditions/acute-respiratory-infection/ | Acute Respiratory Infection] |  4 Studies |
+| [https://examine.com/conditions/premenstrual-syndrome/ | Premenstrual Syndrome] | 8 Studies |
+| [https://examine.com/conditions/immune-health/ | Immune Health] | 5 Studies |
+| [https://examine.com/conditions/flu/ | Flu] | 5 Studies |
+| [https://examine.com/conditions/type-2-diabetes/ | Type 2 Diabetes] | 4 Studies |
+| [https://examine.com/conditions/acute-respiratory-infection/ | Acute Respiratory Infection] | 4 Studies |
 | [https://examine.com/conditions/covid-19/ | COVID-19] | 4 Studies |
-| [https://examine.com/conditions/endometriosis/ | Endometriosis]  |  3 Studies |
-| [https://examine.com/conditions/fibromyalgia/ | Fibromyalgia] |  3 Studies |
+| [https://examine.com/conditions/endometriosis/ | Endometriosis]  | 3 Studies |
+| [https://examine.com/conditions/fibromyalgia/ | Fibromyalgia] | 3 Studies |
 | [https://examine.com/conditions/obesity/ | Obesity]  | 3 Studies |
-| [https://examine.com/conditions/breast-cancer/ | Breast Cancer] |  3 Studies |
+| [https://examine.com/conditions/breast-cancer/ | Breast Cancer] | 3 Studies |
 | [https://examine.com/conditions/general-cardiovascular-health/ | General Cardiovascular Health]  | 3 Studies |
-| [https://examine.com/conditions/overweight/ | Overweight] |  3 Studies |
-| [https://examine.com/conditions/asthma/ | Asthma] |  3 Studies |
-| [https://examine.com/conditions/coronary-artery-disease/ | Coronary Artery Disease] |  2 Studies |
+| [https://examine.com/conditions/overweight/ | Overweight] | 3 Studies |
+| [https://examine.com/conditions/asthma/ | Asthma] | 3 Studies |
+| [https://examine.com/conditions/coronary-artery-disease/ | Coronary Artery Disease] | 2 Studies |
 | [https://examine.com/conditions/type-1-diabetes/ | Type 1 Diabetes] | 2 Studies |
-| [https://examine.com/conditions/bone-health/ | Bone Health] |  2 Studies |
-| [https://examine.com/conditions/cardiovascular-disease/ | Cardiovascular Disease] |  2 Studies |
-| [https://examine.com/conditions/fall-prevention/ | Fall Prevention] |  2 Studies |
+| [https://examine.com/conditions/bone-health/ | Bone Health] | 2 Studies |
+| [https://examine.com/conditions/cardiovascular-disease/ | Cardiovascular Disease] | 2 Studies |
+| [https://examine.com/conditions/fall-prevention/ | Fall Prevention] | 2 Studies |
 | [https://examine.com/conditions/metabolic-health/ | Metabolic Health]  | 2 Studies |
-| [https://examine.com/conditions/muscle-size-and-strength/ | Muscle Size & Strength] |  2 Studies |
-| [https://examine.com/conditions/pneumonia/ | Pneumonia] |  2 Studies |
-| [https://examine.com/conditions/prediabetes/ | Prediabetes] |  2 Studies |
-| [https://examine.com/conditions/general-athletic-performance/ | General Athletic Performance] |  2 Studies |
-| [https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/ | Aromatase-Inhibitor Related Joint Pain] |  2  Studies |
+| [https://examine.com/conditions/muscle-size-and-strength/ | Muscle Size & Strength] | 2 Studies |
+| [https://examine.com/conditions/pneumonia/ | Pneumonia] | 2 Studies |
+| [https://examine.com/conditions/prediabetes/ | Prediabetes] | 2 Studies |
+| [https://examine.com/conditions/general-athletic-performance/ | General Athletic Performance] | 2 Studies |
+| [https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/ | Aromatase-Inhibitor Related Joint Pain] | 2  Studies |
 |  **Just 1 study for each of the folllowing**  |
 | [https://examine.com/conditions/alzheimers-disease/ | Alzheimer’s Disease] |
 | [https://examine.com/conditions/high-blood-pressure/ | High Blood Pressure] |
@@ -73,8 +73,6 @@ date: 2023-08-16
 
 #### VitaminDWiki studies (updated ~ monthly)
 
- 
-
 <!-- ~tc~ (alias(Vitamin D summary by Examine - 2023)) ~/tc~ -->
 
 
@@ -91,34 +89,34 @@ Markdown:
 
 | | |
 | --- | --- |
-| Health Condition/Goal |  # of Studies |
-| [https://examine.com/conditions/multiple-sclerosis/ | Multiple Sclerosis] |  9 Studies |
+| Health Condition/Goal | 1. of Studies |
+| [https://examine.com/conditions/multiple-sclerosis/ | Multiple Sclerosis] | 9 Studies |
 | [https://examine.com/conditions/common-cold/ | Common Cold]  | 9 Studies |
 | [https://examine.com/conditions/upper-respiratory-tract-infection/ | Upper Respiratory Tract Infection]  | 8 Studies |
-| [https://examine.com/conditions/premenstrual-syndrome/ | Premenstrual Syndrome] |  8 Studies |
-| [https://examine.com/conditions/immune-health/ | Immune Health] |  5 Studies |
-| [https://examine.com/conditions/flu/ | Flu] |  5 Studies |
-| [https://examine.com/conditions/type-2-diabetes/ | Type 2 Diabetes] |  4 Studies |
-| [https://examine.com/conditions/acute-respiratory-infection/ | Acute Respiratory Infection] |  4 Studies |
+| [https://examine.com/conditions/premenstrual-syndrome/ | Premenstrual Syndrome] | 8 Studies |
+| [https://examine.com/conditions/immune-health/ | Immune Health] | 5 Studies |
+| [https://examine.com/conditions/flu/ | Flu] | 5 Studies |
+| [https://examine.com/conditions/type-2-diabetes/ | Type 2 Diabetes] | 4 Studies |
+| [https://examine.com/conditions/acute-respiratory-infection/ | Acute Respiratory Infection] | 4 Studies |
 | [https://examine.com/conditions/covid-19/ | COVID-19] | 4 Studies |
-| [https://examine.com/conditions/endometriosis/ | Endometriosis]  |  3 Studies |
-| [https://examine.com/conditions/fibromyalgia/ | Fibromyalgia] |  3 Studies |
+| [https://examine.com/conditions/endometriosis/ | Endometriosis]  | 3 Studies |
+| [https://examine.com/conditions/fibromyalgia/ | Fibromyalgia] | 3 Studies |
 | [https://examine.com/conditions/obesity/ | Obesity]  | 3 Studies |
-| [https://examine.com/conditions/breast-cancer/ | Breast Cancer] |  3 Studies |
+| [https://examine.com/conditions/breast-cancer/ | Breast Cancer] | 3 Studies |
 | [https://examine.com/conditions/general-cardiovascular-health/ | General Cardiovascular Health]  | 3 Studies |
-| [https://examine.com/conditions/overweight/ | Overweight] |  3 Studies |
-| [https://examine.com/conditions/asthma/ | Asthma] |  3 Studies |
-| [https://examine.com/conditions/coronary-artery-disease/ | Coronary Artery Disease] |  2 Studies |
+| [https://examine.com/conditions/overweight/ | Overweight] | 3 Studies |
+| [https://examine.com/conditions/asthma/ | Asthma] | 3 Studies |
+| [https://examine.com/conditions/coronary-artery-disease/ | Coronary Artery Disease] | 2 Studies |
 | [https://examine.com/conditions/type-1-diabetes/ | Type 1 Diabetes] | 2 Studies |
-| [https://examine.com/conditions/bone-health/ | Bone Health] |  2 Studies |
-| [https://examine.com/conditions/cardiovascular-disease/ | Cardiovascular Disease] |  2 Studies |
-| [https://examine.com/conditions/fall-prevention/ | Fall Prevention] |  2 Studies |
+| [https://examine.com/conditions/bone-health/ | Bone Health] | 2 Studies |
+| [https://examine.com/conditions/cardiovascular-disease/ | Cardiovascular Disease] | 2 Studies |
+| [https://examine.com/conditions/fall-prevention/ | Fall Prevention] | 2 Studies |
 | [https://examine.com/conditions/metabolic-health/ | Metabolic Health]  | 2 Studies |
-| [https://examine.com/conditions/muscle-size-and-strength/ | Muscle Size &amp; Strength] |  2 Studies |
-| [https://examine.com/conditions/pneumonia/ | Pneumonia] |  2 Studies |
-| [https://examine.com/conditions/prediabetes/ | Prediabetes] |  2 Studies |
-| [https://examine.com/conditions/general-athletic-performance/ | General Athletic Performance] |  2 Studies |
-| [https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/ | Aromatase-Inhibitor Related Joint Pain] |  2  Studies |
+| [https://examine.com/conditions/muscle-size-and-strength/ | Muscle Size &amp; Strength] | 2 Studies |
+| [https://examine.com/conditions/pneumonia/ | Pneumonia] | 2 Studies |
+| [https://examine.com/conditions/prediabetes/ | Prediabetes] | 2 Studies |
+| [https://examine.com/conditions/general-athletic-performance/ | General Athletic Performance] | 2 Studies |
+| [https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/ | Aromatase-Inhibitor Related Joint Pain] | 2  Studies |
 |  **Just 1 study for each of the folllowing**  |
 | [https://examine.com/conditions/alzheimers-disease/ | Alzheimer’s Disease] |
 | [https://examine.com/conditions/high-blood-pressure/ | High Blood Pressure] |
@@ -146,8 +144,6 @@ Markdown:
 ---
 
 #### VitaminDWiki studies (updated ~ monthly)
-
- 
 
 &lt;!-- ~tc~ (alias(Vitamin D summary by Examine - 2023)) ~/tc~ --&gt;
 
@@ -196,9 +192,14 @@ AST Structure:
 │   │   │   full_match: ` # of Studies`
 │   │   │   inner_content: ` # of Studies`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` # of Studies`
-│   │   │   │   inner_content: ` # of Studies`
+│   │   │   ├── NumListItemNode
+│   │   │   │   full_match: `# of Studies`
+│   │   │   │   inner_content: ` of Studies`
+│   │   │   │   depth: `1`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `of Studies`
+│   │   │   │   │   inner_content: `of Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/multiple-sclerosis/|Multiple Sclerosis]| 9 Studies`
 │   │   inner_content: `[https://examine.com/conditions/multiple-sclerosis/|Multiple Sclerosis]| 9 Studies`
@@ -222,8 +223,8 @@ AST Structure:
 │   │   │   inner_content: ` 9 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 9 Studies`
-│   │   │   │   inner_content: ` 9 Studies`
+│   │   │   │   full_match: `9 Studies`
+│   │   │   │   inner_content: `9 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/common-cold/|Common Cold] |9 Studies`
 │   │   inner_content: `[https://examine.com/conditions/common-cold/|Common Cold] |9 Studies`
@@ -297,8 +298,8 @@ AST Structure:
 │   │   │   inner_content: ` 8 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 8 Studies`
-│   │   │   │   inner_content: ` 8 Studies`
+│   │   │   │   full_match: `8 Studies`
+│   │   │   │   inner_content: `8 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/immune-health/|Immune Health]| 5 Studies`
 │   │   inner_content: `[https://examine.com/conditions/immune-health/|Immune Health]| 5 Studies`
@@ -322,8 +323,8 @@ AST Structure:
 │   │   │   inner_content: ` 5 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 5 Studies`
-│   │   │   │   inner_content: ` 5 Studies`
+│   │   │   │   full_match: `5 Studies`
+│   │   │   │   inner_content: `5 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/flu/|Flu]| 5 Studies`
 │   │   inner_content: `[https://examine.com/conditions/flu/|Flu]| 5 Studies`
@@ -347,8 +348,8 @@ AST Structure:
 │   │   │   inner_content: ` 5 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 5 Studies`
-│   │   │   │   inner_content: ` 5 Studies`
+│   │   │   │   full_match: `5 Studies`
+│   │   │   │   inner_content: `5 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/type-2-diabetes/|Type 2 Diabetes]| 4 Studies`
 │   │   inner_content: `[https://examine.com/conditions/type-2-diabetes/|Type 2 Diabetes]| 4 Studies`
@@ -372,8 +373,8 @@ AST Structure:
 │   │   │   inner_content: ` 4 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 4 Studies`
-│   │   │   │   inner_content: ` 4 Studies`
+│   │   │   │   full_match: `4 Studies`
+│   │   │   │   inner_content: `4 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/acute-respiratory-infection/|Acute Respiratory Infection]| 4 Studies`
 │   │   inner_content: `[https://examine.com/conditions/acute-respiratory-infection/|Acute Respiratory Infection]| 4 Studies`
@@ -397,8 +398,8 @@ AST Structure:
 │   │   │   inner_content: ` 4 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 4 Studies`
-│   │   │   │   inner_content: ` 4 Studies`
+│   │   │   │   full_match: `4 Studies`
+│   │   │   │   inner_content: `4 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/covid-19/|COVID-19]|4 Studies`
 │   │   inner_content: `[https://examine.com/conditions/covid-19/|COVID-19]|4 Studies`
@@ -447,8 +448,8 @@ AST Structure:
 │   │   │   inner_content: ` 3 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 3 Studies`
-│   │   │   │   inner_content: ` 3 Studies`
+│   │   │   │   full_match: `3 Studies`
+│   │   │   │   inner_content: `3 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/fibromyalgia/|Fibromyalgia]| 3 Studies`
 │   │   inner_content: `[https://examine.com/conditions/fibromyalgia/|Fibromyalgia]| 3 Studies`
@@ -472,8 +473,8 @@ AST Structure:
 │   │   │   inner_content: ` 3 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 3 Studies`
-│   │   │   │   inner_content: ` 3 Studies`
+│   │   │   │   full_match: `3 Studies`
+│   │   │   │   inner_content: `3 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/obesity/|Obesity] |3 Studies`
 │   │   inner_content: `[https://examine.com/conditions/obesity/|Obesity] |3 Studies`
@@ -522,8 +523,8 @@ AST Structure:
 │   │   │   inner_content: ` 3 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 3 Studies`
-│   │   │   │   inner_content: ` 3 Studies`
+│   │   │   │   full_match: `3 Studies`
+│   │   │   │   inner_content: `3 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/general-cardiovascular-health/|General Cardiovascular Health] |3 Studies`
 │   │   inner_content: `[https://examine.com/conditions/general-cardiovascular-health/|General Cardiovascular Health] |3 Studies`
@@ -572,8 +573,8 @@ AST Structure:
 │   │   │   inner_content: ` 3 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 3 Studies`
-│   │   │   │   inner_content: ` 3 Studies`
+│   │   │   │   full_match: `3 Studies`
+│   │   │   │   inner_content: `3 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/asthma/|Asthma]| 3 Studies`
 │   │   inner_content: `[https://examine.com/conditions/asthma/|Asthma]| 3 Studies`
@@ -597,8 +598,8 @@ AST Structure:
 │   │   │   inner_content: ` 3 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 3 Studies`
-│   │   │   │   inner_content: ` 3 Studies`
+│   │   │   │   full_match: `3 Studies`
+│   │   │   │   inner_content: `3 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/coronary-artery-disease/|Coronary Artery Disease]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/coronary-artery-disease/|Coronary Artery Disease]| 2 Studies`
@@ -622,8 +623,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/type-1-diabetes/|Type 1 Diabetes]|2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/type-1-diabetes/|Type 1 Diabetes]|2 Studies`
@@ -672,8 +673,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/cardiovascular-disease/|Cardiovascular Disease]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/cardiovascular-disease/|Cardiovascular Disease]| 2 Studies`
@@ -697,8 +698,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/fall-prevention/|Fall Prevention]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/fall-prevention/|Fall Prevention]| 2 Studies`
@@ -722,8 +723,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/metabolic-health/|Metabolic Health] |2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/metabolic-health/|Metabolic Health] |2 Studies`
@@ -772,8 +773,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/pneumonia/|Pneumonia]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/pneumonia/|Pneumonia]| 2 Studies`
@@ -797,8 +798,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/prediabetes/|Prediabetes]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/prediabetes/|Prediabetes]| 2 Studies`
@@ -822,8 +823,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/general-athletic-performance/|General Athletic Performance]| 2 Studies`
 │   │   inner_content: `[https://examine.com/conditions/general-athletic-performance/|General Athletic Performance]| 2 Studies`
@@ -847,8 +848,8 @@ AST Structure:
 │   │   │   inner_content: ` 2 Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2 Studies`
-│   │   │   │   inner_content: ` 2 Studies`
+│   │   │   │   full_match: `2 Studies`
+│   │   │   │   inner_content: `2 Studies`
 │   ├── TableRowNode
 │   │   full_match: `[https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/|Aromatase-Inhibitor Related Joint Pain]| 2  Studies`
 │   │   inner_content: `[https://examine.com/conditions/aromatase-inhibitor-related-joint-pain/|Aromatase-Inhibitor Related Joint Pain]| 2  Studies`
@@ -872,8 +873,8 @@ AST Structure:
 │   │   │   inner_content: ` 2  Studies`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 2  Studies`
-│   │   │   │   inner_content: ` 2  Studies`
+│   │   │   │   full_match: `2  Studies`
+│   │   │   │   inner_content: `2  Studies`
 │   ├── TableRowNode
 │   │   full_match: `__Just 1 study for each of the folllowing__`
 │   │   inner_content: `__Just 1 study for each of the folllowing__`
@@ -1294,8 +1295,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki studies (updated ~ monthly)`
 │   │   inner_content: `VitaminDWiki studies (updated ~ monthly)`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Health Problems and D&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1311,8 +1312,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D summary by Examine - 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D summary by Examine - 2023)) `
-│   │   inner_content: ` (alias(Vitamin D summary by Examine - 2023)) `
+│   │   full_match: `(alias(Vitamin D summary by Examine - 2023)) `
+│   │   inner_content: `(alias(Vitamin D summary by Examine - 2023)) `
 
 Original Tiki:
 -------------

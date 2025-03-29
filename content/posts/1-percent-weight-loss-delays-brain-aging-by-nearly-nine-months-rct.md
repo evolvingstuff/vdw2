@@ -234,8 +234,8 @@ AST Structure:
 │   inner_content: ` (alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) `
-│   │   inner_content: ` (alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) `
+│   │   full_match: `(alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) `
+│   │   inner_content: `(alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) `
 
 Original Tiki:
 -------------

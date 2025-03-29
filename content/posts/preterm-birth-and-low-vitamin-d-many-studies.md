@@ -56,9 +56,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -168,19 +168,19 @@ Premature babies, often referred to as "preemies," can face a range of health is
 
 1.  **Respiratory Problems:**  Premature babies are at a higher risk for developing respiratory issues, such as asthma and chronic obstructive pulmonary disease (COPD), because their lungs may not have fully developed before birth.
 
-1.   **Cardiovascular Issues:**  Adults who were born prematurely may have a higher risk of high blood pressure, heart disease, and stroke. This increased risk is thought to be related to the underdevelopment of the heart and vascular system in preemies.
+1.  **Cardiovascular Issues:**  Adults who were born prematurely may have a higher risk of high blood pressure, heart disease, and stroke. This increased risk is thought to be related to the underdevelopment of the heart and vascular system in preemies.
 
-1.   **Neurological Problems:**  Premature birth can affect brain development, leading to a higher risk of neurological disorders in adulthood, such as cerebral palsy, learning disabilities, and attention deficit hyperactivity disorder (ADHD).
+1.  **Neurological Problems:**  Premature birth can affect brain development, leading to a higher risk of neurological disorders in adulthood, such as cerebral palsy, learning disabilities, and attention deficit hyperactivity disorder (ADHD).
 
-1.   **Metabolic Disorders:**  Being born prematurely is associated with an increased risk of metabolic syndromes, such as type 2 diabetes and obesity, in adulthood.
+1.  **Metabolic Disorders:**  Being born prematurely is associated with an increased risk of metabolic syndromes, such as type 2 diabetes and obesity, in adulthood.
 
-1.   **Visual and Hearing Impairments:**  Premature infants are at a higher risk for vision and hearing problems, which can persist into adulthood. Conditions like retinopathy of prematurity (ROP) can lead to visual impairment.
+1.  **Visual and Hearing Impairments:**  Premature infants are at a higher risk for vision and hearing problems, which can persist into adulthood. Conditions like retinopathy of prematurity (ROP) can lead to visual impairment.
 
-1.   **Mental Health Issues:**  There is evidence suggesting that adults who were born prematurely may have an increased risk of mental health disorders, including depression and anxiety.
+1.  **Mental Health Issues:**  There is evidence suggesting that adults who were born prematurely may have an increased risk of mental health disorders, including depression and anxiety.
 
-1.   **Dental Problems:**  Preemies might face a higher risk of dental issues, including enamel hypoplasia (defective enamel), which can lead to an increased risk of cavities and other dental problems.
+1.  **Dental Problems:**  Preemies might face a higher risk of dental issues, including enamel hypoplasia (defective enamel), which can lead to an increased risk of cavities and other dental problems.
 
-1.   **Reproductive Challenges:**  Women who were born prematurely may experience reproductive issues, such as a higher risk of giving birth prematurely themselves.
+1.  **Reproductive Challenges:**  Women who were born prematurely may experience reproductive issues, such as a higher risk of giving birth prematurely themselves.
 
 It's important to note that while preemies are at a higher risk for these health problems, not all premature babies will experience them. Advances in neonatal care have significantly improved the outcomes for premature babies, and many go on to lead healthy lives. Regular medical follow-up and a healthy lifestyle can help mitigate some of these risks.
 
@@ -242,9 +242,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -354,19 +354,19 @@ Premature babies, often referred to as &quot;preemies,&quot; can face a range of
 
 1.  **Respiratory Problems:**  Premature babies are at a higher risk for developing respiratory issues, such as asthma and chronic obstructive pulmonary disease (COPD), because their lungs may not have fully developed before birth.
 
-1.   **Cardiovascular Issues:**  Adults who were born prematurely may have a higher risk of high blood pressure, heart disease, and stroke. This increased risk is thought to be related to the underdevelopment of the heart and vascular system in preemies.
+1.  **Cardiovascular Issues:**  Adults who were born prematurely may have a higher risk of high blood pressure, heart disease, and stroke. This increased risk is thought to be related to the underdevelopment of the heart and vascular system in preemies.
 
-1.   **Neurological Problems:**  Premature birth can affect brain development, leading to a higher risk of neurological disorders in adulthood, such as cerebral palsy, learning disabilities, and attention deficit hyperactivity disorder (ADHD).
+1.  **Neurological Problems:**  Premature birth can affect brain development, leading to a higher risk of neurological disorders in adulthood, such as cerebral palsy, learning disabilities, and attention deficit hyperactivity disorder (ADHD).
 
-1.   **Metabolic Disorders:**  Being born prematurely is associated with an increased risk of metabolic syndromes, such as type 2 diabetes and obesity, in adulthood.
+1.  **Metabolic Disorders:**  Being born prematurely is associated with an increased risk of metabolic syndromes, such as type 2 diabetes and obesity, in adulthood.
 
-1.   **Visual and Hearing Impairments:**  Premature infants are at a higher risk for vision and hearing problems, which can persist into adulthood. Conditions like retinopathy of prematurity (ROP) can lead to visual impairment.
+1.  **Visual and Hearing Impairments:**  Premature infants are at a higher risk for vision and hearing problems, which can persist into adulthood. Conditions like retinopathy of prematurity (ROP) can lead to visual impairment.
 
-1.   **Mental Health Issues:**  There is evidence suggesting that adults who were born prematurely may have an increased risk of mental health disorders, including depression and anxiety.
+1.  **Mental Health Issues:**  There is evidence suggesting that adults who were born prematurely may have an increased risk of mental health disorders, including depression and anxiety.
 
-1.   **Dental Problems:**  Preemies might face a higher risk of dental issues, including enamel hypoplasia (defective enamel), which can lead to an increased risk of cavities and other dental problems.
+1.  **Dental Problems:**  Preemies might face a higher risk of dental issues, including enamel hypoplasia (defective enamel), which can lead to an increased risk of cavities and other dental problems.
 
-1.   **Reproductive Challenges:**  Women who were born prematurely may experience reproductive issues, such as a higher risk of giving birth prematurely themselves.
+1.  **Reproductive Challenges:**  Women who were born prematurely may experience reproductive issues, such as a higher risk of giving birth prematurely themselves.
 
 It&#39;s important to note that while preemies are at a higher risk for these health problems, not all premature babies will experience them. Advances in neonatal care have significantly improved the outcomes for premature babies, and many go on to lead healthy lives. Regular medical follow-up and a healthy lifestyle can help mitigate some of these risks.
 
@@ -588,14 +588,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;250&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;pre-term\&quot; OR preterm OR preemie OR premature&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; ejaculation\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; labor\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Preterm Charts`
@@ -957,9 +957,6 @@ AST Structure:
 │   inner_content: ` __Cardiovascular Issues:__ Adults who were born prematurely may have a higher risk of high blood pressure, heart disease, and stroke. This increased risk is thought to be related to the underdevelopment of the heart and vascular system in preemies.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Cardiovascular Issues:__`
 │   │   inner_content: `Cardiovascular Issues:`
@@ -976,9 +973,6 @@ AST Structure:
 │   inner_content: ` __Neurological Problems:__ Premature birth can affect brain development, leading to a higher risk of neurological disorders in adulthood, such as cerebral palsy, learning disabilities, and attention deficit hyperactivity disorder (ADHD).`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Neurological Problems:__`
 │   │   inner_content: `Neurological Problems:`
@@ -995,9 +989,6 @@ AST Structure:
 │   inner_content: ` __Metabolic Disorders:__ Being born prematurely is associated with an increased risk of metabolic syndromes, such as type 2 diabetes and obesity, in adulthood.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Metabolic Disorders:__`
 │   │   inner_content: `Metabolic Disorders:`
@@ -1014,9 +1005,6 @@ AST Structure:
 │   inner_content: ` __Visual and Hearing Impairments:__ Premature infants are at a higher risk for vision and hearing problems, which can persist into adulthood. Conditions like retinopathy of prematurity (ROP) can lead to visual impairment.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Visual and Hearing Impairments:__`
 │   │   inner_content: `Visual and Hearing Impairments:`
@@ -1033,9 +1021,6 @@ AST Structure:
 │   inner_content: ` __Mental Health Issues:__ There is evidence suggesting that adults who were born prematurely may have an increased risk of mental health disorders, including depression and anxiety.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Mental Health Issues:__`
 │   │   inner_content: `Mental Health Issues:`
@@ -1052,9 +1037,6 @@ AST Structure:
 │   inner_content: ` __Dental Problems:__ Preemies might face a higher risk of dental issues, including enamel hypoplasia (defective enamel), which can lead to an increased risk of cavities and other dental problems.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Dental Problems:__`
 │   │   inner_content: `Dental Problems:`
@@ -1071,9 +1053,6 @@ AST Structure:
 │   inner_content: ` __Reproductive Challenges:__ Women who were born prematurely may experience reproductive issues, such as a higher risk of giving birth prematurely themselves.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Reproductive Challenges:__`
 │   │   inner_content: `Reproductive Challenges:`

@@ -21,8 +21,6 @@ categories:
 
 [200+ categories of Health Problems prevented and/or treated by Vitamin D](https://vitamindwiki.com/Health+Problems+and+D) 
 
- 
-
 <!-- ~tc~ (alias(Vitamin D has been proven to work by 100's of studies)) ~/tc~ -->
 
 
@@ -39,8 +37,6 @@ Markdown:
 [600+ meta-analyses of Vitamin D trials](https://vitamindwiki.com/tiki-index.php?page_id=4267)
 
 [200+ categories of Health Problems prevented and/or treated by Vitamin D](https://vitamindwiki.com/Health+Problems+and+D) 
-
- 
 
 &lt;!-- ~tc~ (alias(Vitamin D has been proven to work by 100&#39;s of studies)) ~/tc~ --&gt;
 
@@ -101,14 +97,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` `
 │   │   inner_content: ` `├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── TikiCommentNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D has been proven to work by 100&#39;s of studies)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D has been proven to work by 100&#39;s of studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D has been proven to work by 100&#39;s of studies)) `
-│   │   inner_content: ` (alias(Vitamin D has been proven to work by 100&#39;s of studies)) `
+│   │   full_match: `(alias(Vitamin D has been proven to work by 100&#39;s of studies)) `
+│   │   inner_content: `(alias(Vitamin D has been proven to work by 100&#39;s of studies)) `
 
 Original Tiki:
 -------------

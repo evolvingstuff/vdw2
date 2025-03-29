@@ -30,7 +30,7 @@ Results: The HDVD group (N = 29) lost  **1.5% BMD at the total hip vs. 4.1%** fo
 
 And **1.7% BMD at the femoral neck vs. 4.4%**  in the low-dose group (p = .06).
 
- Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level <27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p < .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p < .01), osteoprotegerin (p < 0.01), N-terminal telopeptide of type 1 collagen (p < 0.01) and C-terminal telopeptide of type 1 collagen (p < 0.01). No difference in adverse events or toxicity was noted between the groups.
+Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level <27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p < .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p < .01), osteoprotegerin (p < 0.01), N-terminal telopeptide of type 1 collagen (p < 0.01) and C-terminal telopeptide of type 1 collagen (p < 0.01). No difference in adverse events or toxicity was noted between the groups.
 
 Conclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.
 
@@ -217,9 +217,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -250,7 +250,7 @@ Results: The HDVD group (N = 29) lost  **1.5% BMD at the total hip vs. 4.1%** fo
 
 And **1.7% BMD at the femoral neck vs. 4.4%**  in the low-dose group (p = .06).
 
- Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.
+Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.
 
 Conclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.
 
@@ -437,9 +437,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -489,10 +489,10 @@ AST Structure:
 │   inner_content: ` 1.7% BMD at the femoral neck vs. 4.4%`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` 1.7% BMD at the femoral neck vs. 4.4%`
-│   │   inner_content: ` 1.7% BMD at the femoral neck vs. 4.4%`├── TextNode
-│   full_match: ` in the low-dose group (p = .06).\n Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.\n\nConclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.`
-│   inner_content: ` in the low-dose group (p = .06).\n Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.\n\nConclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.`├── HorizontalRuleNode
+│   │   full_match: `1.7% BMD at the femoral neck vs. 4.4%`
+│   │   inner_content: `1.7% BMD at the femoral neck vs. 4.4%`├── TextNode
+│   full_match: ` in the low-dose group (p = .06).\nStratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.\n\nConclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.`
+│   inner_content: ` in the low-dose group (p = .06).\nStratified analyses showed that, for those with baseline 25-hydroxyvitamin D level &lt;27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p &lt; .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p &lt; .01), osteoprotegerin (p &lt; 0.01), N-terminal telopeptide of type 1 collagen (p &lt; 0.01) and C-terminal telopeptide of type 1 collagen (p &lt; 0.01). No difference in adverse events or toxicity was noted between the groups.\n\nConclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!64 References`
@@ -1434,9 +1434,6 @@ AST Structure:
 │   full_match: `__ ((Overview Prostate Cancer and Vitamin D)) contains:__`
 │   inner_content: ` ((Overview Prostate Cancer and Vitamin D)) contains:`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Prostate Cancer and Vitamin D))`
 │   │   inner_content: `Overview Prostate Cancer and Vitamin D`
@@ -1628,14 +1625,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;6&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

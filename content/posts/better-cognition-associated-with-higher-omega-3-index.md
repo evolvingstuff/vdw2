@@ -28,7 +28,7 @@ Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Gra
 
 * School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
 
-  *  Correspondence: gracelee@llu.edu
+  * Correspondence: gracelee@llu.edu
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -53,8 +53,6 @@ This list is automatically updated
 ---
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
-
- 
 
 ---
 
@@ -86,7 +84,7 @@ Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Gra
 
 * School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
 
-  *  Correspondence: gracelee@llu.edu
+  * Correspondence: gracelee@llu.edu
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -111,8 +109,6 @@ This list is automatically updated
 ---
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
-
- 
 
 ---
 
@@ -181,8 +177,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Correspondence: gracelee@llu.edu`
-│   │   inner_content: ` Correspondence: gracelee@llu.edu`├── TextNode
+│   │   full_match: `Correspondence: gracelee@llu.edu`
+│   │   inner_content: `Correspondence: gracelee@llu.edu`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20329&quot; width=&quot;600&quot;}`
@@ -309,8 +305,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`
 │   │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:

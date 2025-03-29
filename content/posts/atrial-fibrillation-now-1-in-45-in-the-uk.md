@@ -37,7 +37,7 @@ categories:
 
 #### US historical AFIB prevelance: 1 in 620+ (CDC)
 
- **[ 0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
+ **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
 
 ---
 
@@ -107,7 +107,7 @@ Markdown:
 
 #### US historical AFIB prevelance: 1 in 620+ (CDC)
 
- **[ 0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&amp;text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
+ **[0.5 million hospitalizations from population of 320 million](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&amp;text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.)** 
 
 ---
 
@@ -259,8 +259,8 @@ AST Structure:
 │   │   url: `https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=More%20than%20454%2C000%20hospitalizations%20with,year%20in%20the%20United%20States.&amp;text=The%20condition%20contributes%20to%20about%20158%2C000%20deaths%20each%20year.`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 0.5 million hospitalizations from population of 320 million`
-│   │   │   inner_content: ` 0.5 million hospitalizations from population of 320 million`├── HorizontalRuleNode
+│   │   │   full_match: `0.5 million hospitalizations from population of 320 million`
+│   │   │   inner_content: `0.5 million hospitalizations from population of 320 million`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)`

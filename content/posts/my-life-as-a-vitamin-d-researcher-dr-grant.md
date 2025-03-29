@@ -291,24 +291,24 @@ AST Structure:
 │   inner_content: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `
-│   │   inner_content: ` (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `
+│   │   inner_content: `(alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `
-│   │   inner_content: ` (alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `
+│   │   inner_content: `(alias(My Life as A Vitamin D Reascher – Dr. Grant Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
-│   │   inner_content: ` (alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
+│   │   full_match: `(alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
+│   │   inner_content: `(alias(My Life as A Vitamin D Researcher – Dr. Grant Feb 2023)) `
 
 Original Tiki:
 -------------

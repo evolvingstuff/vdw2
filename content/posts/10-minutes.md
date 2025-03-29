@@ -19,27 +19,26 @@ categories:
 
 *  **<span style="color:orange;">AND</span>**  young (seniors 4X longer)
 
-*   **<span style="color:orange;">AND</span>**  not obese ( need 3X longer)
+*  **<span style="color:orange;">AND</span>**  not obese ( need 3X longer)
 
-*    **<span style="color:orange;">AND</span>**  have light skin (Dark Skin need 4X longer)
+*  **<span style="color:orange;">AND</span>**  have light skin (Dark Skin need 4X longer)
 
-*     **<span style="color:orange;">AND</span>**  it is summer
+*  **<span style="color:orange;">AND</span>**  it is summer
 
-*      **<span style="color:orange;">AND</span>**  it is the middle of the day
+*  **<span style="color:orange;">AND</span>**  it is the middle of the day
 
-*       **<span style="color:orange;">AND</span>**  you have lots of skin exposed to the sun
+*  **<span style="color:orange;">AND</span>**  you have lots of skin exposed to the sun
 
-*        **<span style="color:orange;">AND</span>**  you are lying down
+*  **<span style="color:orange;">AND</span>**  you are lying down
 
-*         **<span style="color:orange;">AND</span>**  you are not wearing sunscreen
+*  **<span style="color:orange;">AND</span>**  you are not wearing sunscreen
 
-*          **<span style="color:orange;">AND</span>**  you have a healthy <a href="/posts/liver-and-overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D">Kidney</a>
+*  **<span style="color:orange;">AND</span>**  you have a healthy <a href="/posts/liver-and-overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D">Kidney</a>
 
-*           **<span style="color:orange;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D">air pollution</a>
+*  **<span style="color:orange;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D">air pollution</a>
 
-*            **<span style="color:orange;">AND</span>**  you have a good response to sunshine (4X variation between individuals)
+*  **<span style="color:orange;">AND</span>**  you have a good response to sunshine (4X variation between individuals)
 
- 
 <!-- ~tc~ end ~/tc~ -->
 
 <!-- ~tc~ (alias(Test 10 minutes)) ~/tc~ -->
@@ -58,27 +57,26 @@ Markdown:
 
 *  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  young (seniors 4X longer)
 
-*   **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  not obese ( need 3X longer)
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  not obese ( need 3X longer)
 
-*    **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  have light skin (Dark Skin need 4X longer)
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  have light skin (Dark Skin need 4X longer)
 
-*     **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is summer
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is summer
 
-*      **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is the middle of the day
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is the middle of the day
 
-*       **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have lots of skin exposed to the sun
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have lots of skin exposed to the sun
 
-*        **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are lying down
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are lying down
 
-*         **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
 
-*          **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy &lt;a href=&quot;/posts/liver-and-overview-kidney-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D&quot;&gt;Kidney&lt;/a&gt;
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy &lt;a href=&quot;/posts/liver-and-overview-kidney-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D&quot;&gt;Kidney&lt;/a&gt;
 
-*           **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D&quot;&gt;air pollution&lt;/a&gt;
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D&quot;&gt;air pollution&lt;/a&gt;
 
-*            **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
+*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
 
- 
 &lt;!-- ~tc~ end ~/tc~ --&gt;
 
 &lt;!-- ~tc~ (alias(Test 10 minutes)) ~/tc~ --&gt;
@@ -91,8 +89,8 @@ AST Structure:
 │   inner_content: ` start `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` start `
-│   │   inner_content: ` start `├── TextNode
+│   │   full_match: `start `
+│   │   inner_content: `start `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__5-10 minutes of sun provides ONLY 1,000 IU ~~#00F:ONLY IF~~ __`
@@ -150,9 +148,6 @@ AST Structure:
 │   inner_content: ` __~~#00F:AND~~__ not obese ( need 3X longer)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -175,9 +170,6 @@ AST Structure:
 │   inner_content: `  __~~#00F:AND~~__ have light skin (Dark Skin need 4X longer)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `  `
-│   │   inner_content: `  `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -200,9 +192,6 @@ AST Structure:
 │   inner_content: `   __~~#00F:AND~~__ it is summer`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `   `
-│   │   inner_content: `   `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -225,9 +214,6 @@ AST Structure:
 │   inner_content: `    __~~#00F:AND~~__ it is the middle of the day`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `    `
-│   │   inner_content: `    `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -250,9 +236,6 @@ AST Structure:
 │   inner_content: `     __~~#00F:AND~~__ you have lots of skin exposed to the sun`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `     `
-│   │   inner_content: `     `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -275,9 +258,6 @@ AST Structure:
 │   inner_content: `      __~~#00F:AND~~__ you are lying down`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `      `
-│   │   inner_content: `      `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -300,9 +280,6 @@ AST Structure:
 │   inner_content: `       __~~#00F:AND~~__ you are not wearing sunscreen`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `       `
-│   │   inner_content: `       `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -325,9 +302,6 @@ AST Structure:
 │   inner_content: `        __~~#00F:AND~~__ you have a healthy ((Liver)) and ((Overview Kidney and vitamin D|Kidney))`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `        `
-│   │   inner_content: `        `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -358,9 +332,6 @@ AST Structure:
 │   inner_content: `         __~~#00F:AND~~__ there are no clouds nor ((Air Pollution reduces Vitamin D|air pollution))`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `         `
-│   │   inner_content: `         `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -391,9 +362,6 @@ AST Structure:
 │   inner_content: `          __~~#00F:AND~~__ you have a good response to sunshine (4X variation between individuals)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: `          `
-│   │   inner_content: `          `
 │   ├── BoldNode
 │   │   full_match: `__~~#00F:AND~~__`
 │   │   inner_content: `~~#00F:AND~~`
@@ -410,22 +378,22 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` you have a good response to sunshine (4X variation between individuals)`
 │   │   inner_content: ` you have a good response to sunshine (4X variation between individuals)`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── TikiCommentNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ end ~/tc~`
 │   inner_content: ` end `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` end `
-│   │   inner_content: ` end `├── TextNode
+│   │   full_match: `end `
+│   │   inner_content: `end `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Test 10 minutes)) ~/tc~`
 │   inner_content: ` (alias(Test 10 minutes)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Test 10 minutes)) `
-│   │   inner_content: ` (alias(Test 10 minutes)) `
+│   │   full_match: `(alias(Test 10 minutes)) `
+│   │   inner_content: `(alias(Test 10 minutes)) `
 
 Original Tiki:
 -------------

@@ -16,7 +16,7 @@ date: 2024-04-02
 
 #### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals?utm_source=substack&utm_medium=email)
 
-*  Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
+* Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
 
 * Johnson & Johnson had 88 convictions for $24.5 billion in penalties, 
 
@@ -42,7 +42,7 @@ Markdown:
 
 #### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals?utm_source=substack&amp;utm_medium=email)
 
-*  Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
+* Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.
 
 * Johnson &amp; Johnson had 88 convictions for $24.5 billion in penalties, 
 
@@ -110,8 +110,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.`
-│   │   inner_content: ` Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.`├── TextNode
+│   │   full_match: `Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.`
+│   │   inner_content: `Pfizer has 98 criminal convictions so far and has paid more than US$10.9 billion in penalties.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Johnson &amp; Johnson had 88 convictions for $24.5 billion in penalties, `

@@ -380,8 +380,8 @@ AST Structure:
 │   inner_content: ` 36 references `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` 36 references `
-│   │   inner_content: ` 36 references `├── HorizontalRuleNode
+│   │   full_match: `36 references `
+│   │   inner_content: `36 references `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Loading Dose of Vitamin D)) category contains:`

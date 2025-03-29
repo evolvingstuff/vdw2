@@ -31,8 +31,6 @@ Results: Preoperative 25(OH)D screening and subsequent selective 25(OH)D supplem
 
  <span style="color:orange;"> **$24 per procedure (just those who were deficient)** </span>
 
- 
-
  **Nonselective 25(OH)D supplementation**  of all arthroscopic RCR patients was calculated to result in a mean cost-savings of $11,584,742 (range: $2,492,401 - $20,677,085) per 250,000 primary arthroscopic RCR cases. Univariate adjustment projects that selective supplementation is a cost-effective strategy in clinical contexts where the cost of revision RCR exceeds $14,824.69 and prevalence of 25(OH)D deficiency exceeds 6.67%. Additionally, nonselective supplementation is a cost-effective strategy in clinical scenarios where revision RCR cost ≥ $4,216.06 and prevalence of 25(OH)D deficiency ≥ 1.93%.
 
  <span style="color:orange;"> **$46 per procedure (Vitamin D given to everyone, no testing)** </span>
@@ -41,7 +39,7 @@ Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)
 
 ---
 
-#####  <span style="color:orange;"> The reduced pain and returning to work/life sooner is probably worth much more than $46</span>
+#####  <span style="color:orange;">The reduced pain and returning to work/life sooner is probably worth much more than $46</span>
 
 ---
 
@@ -55,9 +53,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -135,8 +133,6 @@ Results: Preoperative 25(OH)D screening and subsequent selective 25(OH)D supplem
 
  &lt;span style=&quot;color:orange;&quot;&gt; **$24 per procedure (just those who were deficient)** &lt;/span&gt;
 
- 
-
  **Nonselective 25(OH)D supplementation**  of all arthroscopic RCR patients was calculated to result in a mean cost-savings of $11,584,742 (range: $2,492,401 - $20,677,085) per 250,000 primary arthroscopic RCR cases. Univariate adjustment projects that selective supplementation is a cost-effective strategy in clinical contexts where the cost of revision RCR exceeds $14,824.69 and prevalence of 25(OH)D deficiency exceeds 6.67%. Additionally, nonselective supplementation is a cost-effective strategy in clinical scenarios where revision RCR cost ≥ $4,216.06 and prevalence of 25(OH)D deficiency ≥ 1.93%.
 
  &lt;span style=&quot;color:orange;&quot;&gt; **$46 per procedure (Vitamin D given to everyone, no testing)** &lt;/span&gt;
@@ -145,7 +141,7 @@ Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt; The reduced pain and returning to work/life sooner is probably worth much more than $46&lt;/span&gt;
+#####  &lt;span style=&quot;color:orange;&quot;&gt;The reduced pain and returning to work/life sooner is probably worth much more than $46&lt;/span&gt;
 
 ---
 
@@ -159,9 +155,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -292,8 +288,8 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `$24 per procedure (just those who were deficient)`
 │   │   │   │   inner_content: `$24 per procedure (just those who were deficient)`├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── BoldNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
 │   full_match: `__Nonselective 25(OH)D supplementation__`
 │   inner_content: `Nonselective 25(OH)D supplementation`
 │   children:
@@ -333,8 +329,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` The reduced pain and returning to work/life sooner is probably worth much more than $46`
-│   │   │   inner_content: ` The reduced pain and returning to work/life sooner is probably worth much more than $46`├── HorizontalRuleNode
+│   │   │   full_match: `The reduced pain and returning to work/life sooner is probably worth much more than $46`
+│   │   │   inner_content: `The reduced pain and returning to work/life sooner is probably worth much more than $46`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:5+~~  VitaminDWiki pages having ROTATOR CUFF in title`
@@ -363,14 +359,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;ROTATOR CUFF\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__Note__`

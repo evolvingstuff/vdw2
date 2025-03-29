@@ -23,10 +23,10 @@ Close Associations
 
 <!-- {CUSTOMSEARCH(wiki="category_report_search_template" callbackscript="category_report_search_callbackscript" autosearchdelay="0" searchfadediv="customsearch_0_results" recalllastsearch="0" searchonload="0" requireinput="0" customsearchjs="0" searchfadediv="search_fade_div")}
 {LIST()}
-    {filter categories="82"}
-    {filter type="wiki page"}
-	{OUTPUT(tplwiki="page_category_report_tpl" pagination="y")}{options main_category="82" page_minimum="4" blacklist_123="y"}{OUTPUT}
-	{pagination max="10000"}
+{filter categories="82"}
+{filter type="wiki page"}
+{OUTPUT(tplwiki="page_category_report_tpl" pagination="y")}{options main_category="82" page_minimum="4" blacklist_123="y"}{OUTPUT}
+{pagination max="10000"}
 {LIST}
 {CUSTOMSEARCH} -->
 
@@ -37,7 +37,7 @@ Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
 ^p^t^p    ==>  ~~#F06: 
-   be sure that there is a space after the :
+be sure that there is a space after the :
 ^p     ==>    ~~; ~hs~
 Highlight Vtamin D in Atlantis
 Delete all instances of  it and other words and before and after
@@ -63,10 +63,10 @@ Close Associations
 
 &lt;!-- {CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}
 {LIST()}
-    {filter categories=&quot;82&quot;}
-    {filter type=&quot;wiki page&quot;}
-	{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}
-	{pagination max=&quot;10000&quot;}
+{filter categories=&quot;82&quot;}
+{filter type=&quot;wiki page&quot;}
+{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}
+{pagination max=&quot;10000&quot;}
 {LIST}
 {CUSTOMSEARCH} --&gt;
 
@@ -77,7 +77,7 @@ Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
 ^p^t^p    ==&gt;  ~~#F06: 
-   be sure that there is a space after the :
+be sure that there is a space after the :
 ^p     ==&gt;    ~~; ~hs~
 Highlight Vtamin D in Atlantis
 Delete all instances of  it and other words and before and after
@@ -875,8 +875,8 @@ AST Structure:
 │   │   inner_content: ``├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(class=&quot;customsearch_plugin_div&quot;)}\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n{DIV}`
-│   inner_content: `\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n`
+│   full_match: `{DIV(class=&quot;customsearch_plugin_div&quot;)}\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n{DIV}`
+│   inner_content: `\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n`
 │   attrs_dict:
 │   │   raw_content: (class=&quot;customsearch_plugin_div&quot;)
 │   │   class: customsearch_plugin_div
@@ -885,8 +885,8 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── CustomSearchNode
-│   │   full_match: `{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}`
-│   │   inner_content: `\n{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
+│   │   full_match: `{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}`
+│   │   inner_content: `\n{LIST()}\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n`
 │   │   attrs_dict:
 │   │   │   raw_content: wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;
 │   │   │   wiki: category_report_search_template
@@ -902,14 +902,14 @@ AST Structure:
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
 │   │   ├── ListNode
-│   │   │   full_match: `{LIST()}\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}`
-│   │   │   inner_content: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   full_match: `{LIST()}\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}`
+│   │   │   inner_content: `\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
 │   │   │   attrs_dict:
 │   │   │   │   raw_content: 
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
-│   │   │   │   inner_content: `\n    {filter categories=&quot;82&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   full_match: `\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   inner_content: `\n{filter categories=&quot;82&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;82&quot; page_minimum=&quot;4&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
 │   │   ├── TextNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -918,12 +918,12 @@ AST Structure:
 │   │   inner_content: `\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
-│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
+│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
+│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
-│   │   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
 │   ├── ItalixNode
 │   │   full_match: `^p^`
 │   │   inner_content: `p`
@@ -932,8 +932,8 @@ AST Structure:
 │   │   │   full_match: `p`
 │   │   │   inner_content: `p`
 │   ├── TextNode
-│   │   full_match: `t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; `
-│   │   inner_content: `t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; `
+│   │   full_match: `t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; `
+│   │   inner_content: `t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~`
 │   │   inner_content: ``

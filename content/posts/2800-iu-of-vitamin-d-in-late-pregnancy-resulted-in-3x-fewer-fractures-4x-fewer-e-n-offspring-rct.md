@@ -299,9 +299,6 @@ AST Structure:
 │   full_match: `__ {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 12  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Pregnancy and Infant-Child__`
 │   inner_content: ` {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 12  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Pregnancy and Infant-Child`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── SqlNode
 │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 12  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
 │   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 12  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`

@@ -39,7 +39,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF "There is evidence that about <span style="color:orange;"> 66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
+ **Clipped from PDF "There is evidence that about <span style="color:orange;">66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -77,13 +77,13 @@ This list is automatically updated
 
 <!-- {LIST()}
 {list max="100"}
-  {filter type="wiki page"}
-  {filter field="title" content="children AND monthly"}
-  {sort mode="modification_date_major_desc"}
+{filter type="wiki page"}
+{filter field="title" content="children AND monthly"}
+{sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -99,9 +99,9 @@ This list is automatically updated
 
 <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU capsules from 18+ Amazon suppliers</a>
 
- &nbsp;&nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
+&nbsp;&nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
 
-  &nbsp;&nbsp; &nbsp;&nbsp; Note Both Obese children and adults need to take it twice as often
+&nbsp;&nbsp; &nbsp;&nbsp; Note Both Obese children and adults need to take it twice as often
 
  **Alternatives If the child does not want to swallow a pill** 
 
@@ -140,7 +140,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt; 66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
+ **Clipped from PDF &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt;66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -178,13 +178,13 @@ This list is automatically updated
 
 &lt;!-- {LIST()}
 {list max=&quot;100&quot;}
-  {filter type=&quot;wiki page&quot;}
-  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}
-  {sort mode=&quot;modification_date_major_desc&quot;}
+{filter type=&quot;wiki page&quot;}
+{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -200,9 +200,9 @@ This list is automatically updated
 
 &lt;a href=&quot;/posts/50000-iu-vitamin-d-weekly-is-often-recommended&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended&quot;&gt;50,000 IU capsules from 18+ Amazon suppliers&lt;/a&gt;
 
- &amp;nbsp;&amp;nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
+&amp;nbsp;&amp;nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
 
-  &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; Note Both Obese children and adults need to take it twice as often
+&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; Note Both Obese children and adults need to take it twice as often
 
  **Alternatives If the child does not want to swallow a pill** 
 
@@ -317,8 +317,8 @@ AST Structure:
 │   inner_content: ` vitamin D deficiency in the pediatric fracture population can be as high as 75%`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` vitamin D deficiency in the pediatric fracture population can be as high as 75%`
-│   │   inner_content: ` vitamin D deficiency in the pediatric fracture population can be as high as 75%`├── TextNode
+│   │   full_match: `vitamin D deficiency in the pediatric fracture population can be as high as 75%`
+│   │   inner_content: `vitamin D deficiency in the pediatric fracture population can be as high as 75%`├── TextNode
 │   full_match: ` and 61% of the pediatric population has been determined to have vitamin D insufficiency. The pediatric orthopaedist also often is the first to diagnose nutritional rickets as these patients can present solely for complaints of limb deformity. Knowledge of appropriate evaluation, vitamin D supplementation, and indications for pediatric endocrinology referral is vital for treatment of these patients.\n\nIn the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.\n\n`
 │   inner_content: ` and 61% of the pediatric population has been determined to have vitamin D insufficiency. The pediatric orthopaedist also often is the first to diagnose nutritional rickets as these patients can present solely for complaints of limb deformity. Knowledge of appropriate evaluation, vitamin D supplementation, and indications for pediatric endocrinology referral is vital for treatment of these patients.\n\nIn the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.\n\n`├── BoldNode
 │   full_match: `__Clipped from PDF%%% &quot;There is evidence that about~~#00F: 66% of all pediatric fractures occur in children who fracture on more than one occasion~~,...__`
@@ -340,8 +340,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 66% of all pediatric fractures occur in children who fracture on more than one occasion`
-│   │   │   inner_content: ` 66% of all pediatric fractures occur in children who fracture on more than one occasion`
+│   │   │   full_match: `66% of all pediatric fractures occur in children who fracture on more than one occasion`
+│   │   │   inner_content: `66% of all pediatric fractures occur in children who fracture on more than one occasion`
 │   ├── TextNode
 │   │   full_match: `,...`
 │   │   inner_content: `,...`├── TextNode
@@ -495,9 +495,6 @@ AST Structure:
 │   │   full_match: `__ ~~#00F:Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs~~hs~~hs~ If not, nothing can be said about vitamin D level~~ __`
 │   │   inner_content: ` ~~#00F:Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs~~hs~~hs~ If not, nothing can be said about vitamin D level~~ `
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#00F:Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs~~`
 │   │   │   inner_content: `Summary: %%%If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng %%% ~hs`
@@ -565,14 +562,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;100&quot;}\n  {filter type=&quot;wiki page&quot;}\n  {filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;children AND monthly&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── BoldNode
 │   full_match: `__See also ((Better than Daily))__`
@@ -607,13 +604,13 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `50,000 IU Vitamin D weekly is often recommended|50,000 IU capsules from 18+ Amazon suppliers`
 │   │   inner_content: `50,000 IU Vitamin D weekly is often recommended|50,000 IU capsules from 18+ Amazon suppliers`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── HorizontalSpaceNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
-│   full_match: ` Note adults should take 50,000 IU of vitamin D at least twice a month\n  `
-│   inner_content: ` Note adults should take 50,000 IU of vitamin D at least twice a month\n  `├── HorizontalSpaceNode
+│   full_match: ` Note adults should take 50,000 IU of vitamin D at least twice a month\n`
+│   inner_content: ` Note adults should take 50,000 IU of vitamin D at least twice a month\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
 │   repetitions: `2`├── TextNode

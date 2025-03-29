@@ -228,8 +228,8 @@ AST Structure:
 │   inner_content: ` (alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) `
-│   │   inner_content: ` (alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) `
+│   │   full_match: `(alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) `
+│   │   inner_content: `(alias(Critically ill trauma patients - viraully none had even 30 ng of Vitamin D - Dec 2023)) `
 
 Original Tiki:
 -------------

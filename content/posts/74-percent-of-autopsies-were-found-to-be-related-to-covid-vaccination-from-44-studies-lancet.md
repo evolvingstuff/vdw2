@@ -2010,8 +2010,8 @@ AST Structure:
 │   inner_content: ` (alias(Autopsy Lancet)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Autopsy Lancet)) `
-│   │   inner_content: ` (alias(Autopsy Lancet)) `
+│   │   full_match: `(alias(Autopsy Lancet)) `
+│   │   inner_content: `(alias(Autopsy Lancet)) `
 
 Original Tiki:
 -------------

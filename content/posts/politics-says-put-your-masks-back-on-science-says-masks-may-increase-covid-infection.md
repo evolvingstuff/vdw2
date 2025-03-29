@@ -493,8 +493,8 @@ AST Structure:
 │   inner_content: ` Given the lack of unequivocal scientific proof that masks have any effect on reducing transmission, together with the evident harms to people and the environment through the use of masks, it is our opinion that the mandatory use of face masks in the general population is unjustifiable and must be abandoned in future pandemic countermeasures policies.\n{FONT(size=&quot;20&quot;)}`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Given the lack of unequivocal scientific proof that masks have any effect on reducing transmission, together with the evident harms to people and the environment through the use of masks, it is our opinion that the mandatory use of face masks in the general population is unjustifiable and must be abandoned in future pandemic countermeasures policies.\n{FONT(size=&quot;20&quot;)}`
-│   │   inner_content: ` Given the lack of unequivocal scientific proof that masks have any effect on reducing transmission, together with the evident harms to people and the environment through the use of masks, it is our opinion that the mandatory use of face masks in the general population is unjustifiable and must be abandoned in future pandemic countermeasures policies.\n{FONT(size=&quot;20&quot;)}`├── AttachNode
+│   │   full_match: `Given the lack of unequivocal scientific proof that masks have any effect on reducing transmission, together with the evident harms to people and the environment through the use of masks, it is our opinion that the mandatory use of face masks in the general population is unjustifiable and must be abandoned in future pandemic countermeasures policies.\n{FONT(size=&quot;20&quot;)}`
+│   │   inner_content: `Given the lack of unequivocal scientific proof that masks have any effect on reducing transmission, together with the evident harms to people and the environment through the use of masks, it is our opinion that the mandatory use of face masks in the general population is unjustifiable and must be abandoned in future pandemic countermeasures policies.\n{FONT(size=&quot;20&quot;)}`├── AttachNode
 │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20014&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
 │   inner_content: `Download the PDF from VitaminDWiki `
 │   attrs_dict:
@@ -539,8 +539,8 @@ AST Structure:
 │   inner_content: ` (alias(Politics — Not Science or Health — Behind Return of Mask Mandates - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Politics — Not Science or Health — Behind Return of Mask Mandates - Aug 2023)) `
-│   │   inner_content: ` (alias(Politics — Not Science or Health — Behind Return of Mask Mandates - Aug 2023)) `
+│   │   full_match: `(alias(Politics — Not Science or Health — Behind Return of Mask Mandates - Aug 2023)) `
+│   │   inner_content: `(alias(Politics — Not Science or Health — Behind Return of Mask Mandates - Aug 2023)) `
 
 Original Tiki:
 -------------

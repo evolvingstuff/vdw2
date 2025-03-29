@@ -248,16 +248,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) `
-│   │   inner_content: ` (alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) `
+│   │   inner_content: `(alias(Vitamin D can have a number of benefits for your skin - Generative AI Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D can have a number of benefits for your skin)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D can have a number of benefits for your skin)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D can have a number of benefits for your skin)) `
-│   │   inner_content: ` (alias(Vitamin D can have a number of benefits for your skin)) `
+│   │   full_match: `(alias(Vitamin D can have a number of benefits for your skin)) `
+│   │   inner_content: `(alias(Vitamin D can have a number of benefits for your skin)) `
 
 Original Tiki:
 -------------

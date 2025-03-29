@@ -251,8 +251,8 @@ AST Structure:
 │   inner_content: ` (alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) `
-│   │   inner_content: ` (alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) `
+│   │   full_match: `(alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) `
+│   │   inner_content: `(alias(Mortality in seniors 5.4 more likely if Vitamin D less than 15 ng (Mexico) – Aug 2023)) `
 
 Original Tiki:
 -------------

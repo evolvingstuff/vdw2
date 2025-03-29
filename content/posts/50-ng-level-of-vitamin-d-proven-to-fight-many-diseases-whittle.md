@@ -2701,16 +2701,16 @@ AST Structure:
 │   inner_content: ` (alias(Robin Brownstone)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Robin Brownstone)) `
-│   │   inner_content: ` (alias(Robin Brownstone)) `├── TextNode
+│   │   full_match: `(alias(Robin Brownstone)) `
+│   │   inner_content: `(alias(Robin Brownstone)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) `
-│   │   inner_content: ` (alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) `
+│   │   full_match: `(alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) `
+│   │   inner_content: `(alias(Vitamin D: Everything You Need to Know - Whittle May 2023)) `
 
 Original Tiki:
 -------------

@@ -86,8 +86,8 @@ AST Structure:
 │   inner_content: ` (alias(title)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(title)) `
-│   │   inner_content: ` (alias(title)) `
+│   │   full_match: `(alias(title)) `
+│   │   inner_content: `(alias(title)) `
 
 Original Tiki:
 -------------

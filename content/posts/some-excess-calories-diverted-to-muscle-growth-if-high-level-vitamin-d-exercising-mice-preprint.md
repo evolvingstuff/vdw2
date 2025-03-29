@@ -30,7 +30,7 @@ tCo-first Authors.
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- - - - - - - - - - 
+- - - - - - - - - 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -70,7 +70,7 @@ tCo-first Authors.
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- - - - - - - - - - 
+- - - - - - - - - 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -130,8 +130,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 19629
 │   │   width: 600├── TextNode
-│   full_match: `\n - - - - - - - - - \n`
-│   inner_content: `\n - - - - - - - - - \n`├── ImgNode
+│   full_match: `\n- - - - - - - - - \n`
+│   inner_content: `\n- - - - - - - - - \n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19630&quot; width=&quot;500&quot;}`
 │   inner_content: ``
 │   attrs_dict:

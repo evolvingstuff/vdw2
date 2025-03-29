@@ -217,8 +217,8 @@ AST Structure:
 │   inner_content: ` (alias(Bone loss reduced by vitamin D supplementations - Meta-analysis Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Bone loss reduced by vitamin D supplementations - Meta-analysis Jan 2024)) `
-│   │   inner_content: ` (alias(Bone loss reduced by vitamin D supplementations - Meta-analysis Jan 2024)) `
+│   │   full_match: `(alias(Bone loss reduced by vitamin D supplementations - Meta-analysis Jan 2024)) `
+│   │   inner_content: `(alias(Bone loss reduced by vitamin D supplementations - Meta-analysis Jan 2024)) `
 
 Original Tiki:
 -------------

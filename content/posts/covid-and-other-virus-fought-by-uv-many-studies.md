@@ -232,8 +232,8 @@ AST Structure:
 │   inner_content: ` (alias(Virus fought by UV - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Virus fought by UV - many studies)) `
-│   │   inner_content: ` (alias(Virus fought by UV - many studies)) `
+│   │   full_match: `(alias(Virus fought by UV - many studies)) `
+│   │   inner_content: `(alias(Virus fought by UV - many studies)) `
 
 Original Tiki:
 -------------

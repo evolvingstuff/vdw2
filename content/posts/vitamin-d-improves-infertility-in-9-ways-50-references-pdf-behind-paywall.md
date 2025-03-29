@@ -46,7 +46,7 @@ Recent findings: There have been recent publications showing that in infertile w
 
 * lowered testosterone, AMH and insulin levels in women with PCOS.
 
- In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.
+In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.
 
 Summary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.
 
@@ -201,7 +201,7 @@ Recent findings: There have been recent publications showing that in infertile w
 
 * lowered testosterone, AMH and insulin levels in women with PCOS.
 
- In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.
+In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.
 
 Summary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.
 
@@ -436,8 +436,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `lowered testosterone, AMH and insulin levels in women with PCOS.`
 │   │   inner_content: `lowered testosterone, AMH and insulin levels in women with PCOS.`├── TextNode
-│   full_match: `\n In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.\n\nSummary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.\n`
-│   inner_content: `\n In infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.\n\nSummary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.\n`├── HeadingNode
+│   full_match: `\nIn infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.\n\nSummary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.\n`
+│   inner_content: `\nIn infertile men, sperm parameters, especially motility, are positively correlated with vitamin D serum levels.\n\nSummary: Vitamin D status appears to be relevant to reproductive physiology, and to physiological processes underlying common gynaecological disorders as well as for reproductive success.\n`├── HeadingNode
 │   full_match: `\n!!!!!References`
 │   inner_content: `References`
 │   level: `5`
@@ -1448,8 +1448,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
-│   │   inner_content: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
+│   │   full_match: `(alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
+│   │   inner_content: `(alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
 
 Original Tiki:
 -------------

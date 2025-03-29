@@ -311,8 +311,8 @@ AST Structure:
 │   inner_content: ` (alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) `
-│   │   inner_content: ` (alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) `
+│   │   full_match: `(alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) `
+│   │   inner_content: `(alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) `
 
 Original Tiki:
 -------------

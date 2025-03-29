@@ -151,8 +151,8 @@ AST Structure:
 │   inner_content: ` (alias(Leishmaniasis (from sand flea) probably fought by vitamin D - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Leishmaniasis (from sand flea) probably fought by vitamin D - several studies)) `
-│   │   inner_content: ` (alias(Leishmaniasis (from sand flea) probably fought by vitamin D - several studies)) `
+│   │   full_match: `(alias(Leishmaniasis (from sand flea) probably fought by vitamin D - several studies)) `
+│   │   inner_content: `(alias(Leishmaniasis (from sand flea) probably fought by vitamin D - several studies)) `
 
 Original Tiki:
 -------------

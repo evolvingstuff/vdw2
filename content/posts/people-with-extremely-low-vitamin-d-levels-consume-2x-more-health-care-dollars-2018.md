@@ -27,7 +27,7 @@ A. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J
 | ng/ml | % increase in<br> total health care $$  |
 | 5 ng | 211% |
 | 10 ng | 42% |
-| 20 ng |  14% |
+| 20 ng | 14% |
 | 30 ng | reference |
 
 Background & aims
@@ -64,7 +64,7 @@ We found a relation between lower 25OHD concentrations and increased inpatient h
 
 #### VitaminDWiki - <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA found less testing for vitamin D resulted in increased health costs – Jan 2012">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
 
-	<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 
 
@@ -89,7 +89,7 @@ A. Hannemann a, H. Wallaschofski a, M. Nauck a, P. Marschall b, S. Flessa b, H.J
 | ng/ml | % increase in&lt;br&gt; total health care $$  |
 | 5 ng | 211% |
 | 10 ng | 42% |
-| 20 ng |  14% |
+| 20 ng | 14% |
 | 30 ng | reference |
 
 Background &amp; aims
@@ -126,7 +126,7 @@ We found a relation between lower 25OHD concentrations and increased inpatient h
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VA found less testing for vitamin D resulted in increased health costs – Jan 2012&quot;&gt;VA found less testing for vitamin D resulted in increased health costs – Jan 2012&lt;/a&gt;
 
-	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 
 
@@ -237,8 +237,8 @@ AST Structure:
 │   │   │   inner_content: ` 14%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 14%`
-│   │   │   │   inner_content: ` 14%`
+│   │   │   │   full_match: `14%`
+│   │   │   │   inner_content: `14%`
 │   ├── TableRowNode
 │   │   full_match: `30 ng|reference`
 │   │   inner_content: `30 ng|reference`
@@ -372,8 +372,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `VA found less testing for vitamin D resulted in increased health costs – Jan 2012`
 │   │   │   inner_content: `VA found less testing for vitamin D resulted in increased health costs – Jan 2012`├── TextNode
-│   full_match: `\n\t`
-│   inner_content: `\n\t`├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img fileId=3161}`
 │   inner_content: ``
 │   attrs_dict:

@@ -679,24 +679,24 @@ AST Structure:
 │   inner_content: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT DEC2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT DEC2023)) `
-│   │   inner_content: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT DEC2023)) `├── TextNode
+│   │   full_match: `(alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT DEC2023)) `
+│   │   inner_content: `(alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT DEC2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) `
-│   │   inner_content: ` (alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) `
+│   │   inner_content: `(alias(Compare liposomal and nanoemulsion vitamin D - Chat-GPT Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) `
-│   │   inner_content: ` (alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) `
+│   │   full_match: `(alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) `
+│   │   inner_content: `(alias(Compare liposomal and nanoemulsion forms of Vitamin D - Chat-GPT Dec 2023)) `
 
 Original Tiki:
 -------------

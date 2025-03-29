@@ -80,8 +80,8 @@ AST Structure:
 │   inner_content: ` (alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) `
-│   │   inner_content: ` (alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) `
+│   │   full_match: `(alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) `
+│   │   inner_content: `(alias(UTI reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023)) `
 
 Original Tiki:
 -------------

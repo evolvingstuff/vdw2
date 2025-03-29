@@ -196,8 +196,8 @@ AST Structure:
 │   inner_content: ` (alias(Dental Cares 2.2 X more likely if low vitamin D (NHANES) – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dental Cares 2.2 X more likely if low vitamin D (NHANES) – Feb 2024)) `
-│   │   inner_content: ` (alias(Dental Cares 2.2 X more likely if low vitamin D (NHANES) – Feb 2024)) `
+│   │   full_match: `(alias(Dental Cares 2.2 X more likely if low vitamin D (NHANES) – Feb 2024)) `
+│   │   inner_content: `(alias(Dental Cares 2.2 X more likely if low vitamin D (NHANES) – Feb 2024)) `
 
 Original Tiki:
 -------------

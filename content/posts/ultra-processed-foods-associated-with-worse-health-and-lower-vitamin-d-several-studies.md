@@ -118,7 +118,7 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 *  **[Ultra-Processed People: The Science Behind Food That Isn't Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref=sr_1_1?ots=1&tag=thneyo0f-20&linkCode=w50&crid=2XGI3CJ6IC3QC&keywords=ultra-processed%20people&qid=1690209933&s=books&sprefix=ultra-processed%20pe,stripbooks,902&sr=1-1) $15 Kindle  June 2023** 
 
-*  **[ Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn't Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&dib_tag=se&keywords=ultra-processed&qid=1709296795&s=books&sprefix=ultra-processed%2Cstripbooks%2C145&sr=1-25) $3 Kindle June 2023** 
+*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn't Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&dib_tag=se&keywords=ultra-processed&qid=1709296795&s=books&sprefix=ultra-processed%2Cstripbooks%2C145&sr=1-25) $3 Kindle June 2023** 
 
 ---
 
@@ -359,7 +359,7 @@ Greater exposure to ultra-processed food was associated with a higher risk of ad
 
 *  **[Ultra-Processed People: The Science Behind Food That Isn&#39;t Food](https://www.amazon.com/Ultra-Processed-People-Science-Behind-Food/dp/1324036729/ref=sr_1_1?ots=1&amp;tag=thneyo0f-20&amp;linkCode=w50&amp;crid=2XGI3CJ6IC3QC&amp;keywords=ultra-processed%20people&amp;qid=1690209933&amp;s=books&amp;sprefix=ultra-processed%20pe,stripbooks,902&amp;sr=1-1) $15 Kindle  June 2023** 
 
-*  **[ Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&amp;dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&amp;dib_tag=se&amp;keywords=ultra-processed&amp;qid=1709296795&amp;s=books&amp;sprefix=ultra-processed%2Cstripbooks%2C145&amp;sr=1-25) $3 Kindle June 2023** 
+*  **[Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food](https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&amp;dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&amp;dib_tag=se&amp;keywords=ultra-processed&amp;qid=1709296795&amp;s=books&amp;sprefix=ultra-processed%2Cstripbooks%2C145&amp;sr=1-25) $3 Kindle June 2023** 
 
 ---
 
@@ -827,8 +827,8 @@ AST Structure:
 │   │   │   url: `https://www.amazon.com/Summary-Ultra-Processed-People-Tullekens-Science-ebook/dp/B0C9QWD5NP/ref=sr_1_25?crid=1F8O1SURWSADY&amp;dib=eyJ2IjoiMSJ9.K3Tk9Ok20yDul_VcL5D7thgqChWii6efVsNZ4A-w224qGOPhvtAM7l5xewEYVgcGG5sfbNd_UrWhpcXtFM-QWd201Qr5-_M5Q7PYMo9uFBcaJSLEsDThe9WY6ay6Ft8T2T-AVmTMsASIpBf_w-UOIb0vGxOFeMt6zUa-ekGNijp5rfCkGzlNpTT6Qv5nrblD.HVu677MMj5wzszCdJSlJYnGB98woWT_wqYEp-b89T2c&amp;dib_tag=se&amp;keywords=ultra-processed&amp;qid=1709296795&amp;s=books&amp;sprefix=ultra-processed%2Cstripbooks%2C145&amp;sr=1-25`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food`
-│   │   │   │   inner_content: ` Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food`
+│   │   │   │   full_match: `Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food`
+│   │   │   │   inner_content: `Summary of Ultra-Processed People: A guide to Chris van Tulleken’s book: The Science Behind the Food That Isn&#39;t Food`
 │   │   ├── TextNode
 │   │   │   full_match: ` $3 Kindle June 2023`
 │   │   │   inner_content: ` $3 Kindle June 2023`├── HorizontalRuleNode

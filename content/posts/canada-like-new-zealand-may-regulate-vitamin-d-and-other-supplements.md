@@ -303,8 +303,8 @@ AST Structure:
 │   inner_content: ` (alias(Nanada, like New Zealand is considering regulating Vitamin D and other supplements - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Nanada, like New Zealand is considering regulating Vitamin D and other supplements - March 2023)) `
-│   │   inner_content: ` (alias(Nanada, like New Zealand is considering regulating Vitamin D and other supplements - March 2023)) `
+│   │   full_match: `(alias(Nanada, like New Zealand is considering regulating Vitamin D and other supplements - March 2023)) `
+│   │   inner_content: `(alias(Nanada, like New Zealand is considering regulating Vitamin D and other supplements - March 2023)) `
 
 Original Tiki:
 -------------

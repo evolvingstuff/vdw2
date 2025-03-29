@@ -2565,8 +2565,8 @@ AST Structure:
 │   inner_content: ` (alias(Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.) – Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.) – Jan 2023)) `
-│   │   inner_content: ` (alias(Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.) – Jan 2023)) `
+│   │   full_match: `(alias(Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.) – Jan 2023)) `
+│   │   inner_content: `(alias(Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.) – Jan 2023)) `
 
 Original Tiki:
 -------------

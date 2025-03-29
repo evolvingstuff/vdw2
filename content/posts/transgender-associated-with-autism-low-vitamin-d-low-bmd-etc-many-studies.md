@@ -198,13 +198,13 @@ This study suggests that people who don’t identify with their assigned sex at 
 
 1. Warrier V. et al. Nat. Commun.  **11** , 3959 (2020) [PubMed](https://pubmed.ncbi.nlm.nih.gov/32770077/)
 
-1. Walsh R.J. et al. J. Autism Dev. Disord.  **48** , 4070-4078 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/30062396/)
+1. Walsh R.J. et al. J. Autism Dev. Disord.  **48** , 4070-4078 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/30062396/)
 
-1. Strang J.F. et al. J. Am. Acad. Child Adolesc. Psychiatry  **57** , 885-887 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/30392631/)
+1. Strang J.F. et al. J. Am. Acad. Child Adolesc. Psychiatry  **57** , 885-887 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/30392631/)
 
-1. George R. and M.A. Stokes J. Autism Dev. Disord.  **48** , 2052-2063 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/29362955/)
+1. George R. and M.A. Stokes J. Autism Dev. Disord.  **48** , 2052-2063 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/29362955/)
 
-1. Strang J.F. et al. J. Autism Dev Disord,  **48** , 4039-4055 (2018) [PubMed](https://pubmed.ncbi.nlm.nih.gov/30140984/)
+1. Strang J.F. et al. J.Autism Dev Disord,  **48** , 4039-4055 (2018) [PubMed](https://pubmed.ncbi.nlm.nih.gov/30140984/)
 
 ---
 
@@ -572,13 +572,13 @@ This study suggests that people who don’t identify with their assigned sex at 
 
 1. Warrier V. et al. Nat. Commun.  **11** , 3959 (2020) [PubMed](https://pubmed.ncbi.nlm.nih.gov/32770077/)
 
-1. Walsh R.J. et al. J. Autism Dev. Disord.  **48** , 4070-4078 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/30062396/)
+1. Walsh R.J. et al. J. Autism Dev. Disord.  **48** , 4070-4078 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/30062396/)
 
-1. Strang J.F. et al. J. Am. Acad. Child Adolesc. Psychiatry  **57** , 885-887 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/30392631/)
+1. Strang J.F. et al. J. Am. Acad. Child Adolesc. Psychiatry  **57** , 885-887 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/30392631/)
 
-1. George R. and M.A. Stokes J. Autism Dev. Disord.  **48** , 2052-2063 (2018)[ PubMed](https://pubmed.ncbi.nlm.nih.gov/29362955/)
+1. George R. and M.A. Stokes J. Autism Dev. Disord.  **48** , 2052-2063 (2018)[PubMed](https://pubmed.ncbi.nlm.nih.gov/29362955/)
 
-1. Strang J.F. et al. J. Autism Dev Disord,  **48** , 4039-4055 (2018) [PubMed](https://pubmed.ncbi.nlm.nih.gov/30140984/)
+1. Strang J.F. et al. J.Autism Dev Disord,  **48** , 4039-4055 (2018) [PubMed](https://pubmed.ncbi.nlm.nih.gov/30140984/)
 
 ---
 
@@ -1373,8 +1373,8 @@ AST Structure:
 │   │   url: `https://pubmed.ncbi.nlm.nih.gov/30062396/`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` PubMed`
-│   │   │   inner_content: ` PubMed`├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Strang J.F. &#39;&#39;et al. J. Am. Acad. Child Adolesc. Psychiatry &#39;&#39;__57__, 885-887 (2018)[https://pubmed.ncbi.nlm.nih.gov/30392631/| PubMed]`
@@ -1407,8 +1407,8 @@ AST Structure:
 │   │   url: `https://pubmed.ncbi.nlm.nih.gov/30392631/`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` PubMed`
-│   │   │   inner_content: ` PubMed`├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#George R. and M.A. Stokes &#39;&#39;J. Autism Dev. Disord. &#39;&#39;__48__, 2052-2063 (2018)[https://pubmed.ncbi.nlm.nih.gov/29362955/| PubMed]`
@@ -1441,8 +1441,8 @@ AST Structure:
 │   │   url: `https://pubmed.ncbi.nlm.nih.gov/29362955/`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` PubMed`
-│   │   │   inner_content: ` PubMed`├── TextNode
+│   │   │   full_match: `PubMed`
+│   │   │   inner_content: `PubMed`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Strang J.F. &#39;&#39;et al. J&#39;&#39;&#39;&#39;.&#39;&#39;&#39;&#39; Autism Dev Disord, &#39;&#39;__48__, 4039-4055 (2018) [https://pubmed.ncbi.nlm.nih.gov/30140984/|PubMed]`
@@ -1471,8 +1471,8 @@ AST Structure:
 │   │   inner_content: ` Autism Dev Disord, `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Autism Dev Disord, `
-│   │   │   inner_content: ` Autism Dev Disord, `
+│   │   │   full_match: `Autism Dev Disord, `
+│   │   │   inner_content: `Autism Dev Disord, `
 │   ├── BoldNode
 │   │   full_match: `__48__`
 │   │   inner_content: `48`

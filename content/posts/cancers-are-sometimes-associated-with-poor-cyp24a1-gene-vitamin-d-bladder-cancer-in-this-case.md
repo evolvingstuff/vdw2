@@ -35,7 +35,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 | --- | --- |
 |  **Proper activation**  | makes sure that Vitamin D does not accumulate in the body |
 |  **Too much activation**  | Less vitamin D actually gets to cells |
-|  **Too little activation**  |  Vitamin D accumulates to toxic levels ( <1 in 10,000 people) |
+|  **Too little activation**  | Vitamin D accumulates to toxic levels ( <1 in 10,000 people) |
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
@@ -74,7 +74,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 | --- | --- |
 |  **Proper activation**  | makes sure that Vitamin D does not accumulate in the body |
 |  **Too much activation**  | Less vitamin D actually gets to cells |
-|  **Too little activation**  |  Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people) |
+|  **Too little activation**  | Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people) |
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
@@ -214,8 +214,8 @@ AST Structure:
 │   │   │   inner_content: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
-│   │   │   │   inner_content: ` Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`├── TextNode
+│   │   │   │   full_match: `Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`
+│   │   │   │   inner_content: `Vitamin D accumulates to toxic levels ( &lt;1 in 10,000 people)`├── TextNode
 │   full_match: `\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`
 │   inner_content: `\nBlood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells\n`├── ImgNode
 │   full_match: `{img fileId=&quot;3239&quot; width =&quot;400&quot; link=&quot;Genetics&quot;}`

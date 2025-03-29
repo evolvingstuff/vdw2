@@ -146,8 +146,8 @@ AST Structure:
 │   inner_content: ` (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) `
-│   │   inner_content: ` (alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) `
+│   │   full_match: `(alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) `
+│   │   inner_content: `(alias(Sc Disease ( dry ey, dry mouth) associated with low vitamin D - Feb 2023)) `
 
 Original Tiki:
 -------------

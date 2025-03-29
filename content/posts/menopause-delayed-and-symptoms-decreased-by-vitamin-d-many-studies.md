@@ -26,9 +26,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -108,9 +108,9 @@ Women are a vital part of the global workforce and economy. This study identifie
 
 * C.L. Kracht et al. It just seems like people are talking about menopause, but nobody has a solution": a qualitative exploration of menopause experiences and preferences for weight management among Black women Maturitas (2022)
 
-*  N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women's lives Am J Med (2005)
+* N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women's lives Am J Med (2005)
 
-*  M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)
+* M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)
 
 E.B. Gold et al.
 
@@ -242,7 +242,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 * Relationship between vitamin D levels and age of menopause and reproductive lifespan: Analysis based on the National health and nutrition examination survey (NHANES) 2001–2018 - Oct 2023 [https://doi.org/10.1016/j.ejogrb.2023.09.003](https://doi.org/10.1016/j.ejogrb.2023.09.003)
 
-* Determinants and Effects of Vitamin D Supplementation in Postmenopausal Women: A Systematic Review - Jan 2023 [ https://doi.org/10.3390/nu15030685]( https://doi.org/10.3390/nu15030685) FREE PDF
+* Determinants and Effects of Vitamin D Supplementation in Postmenopausal Women: A Systematic Review - Jan 2023 [https://doi.org/10.3390/nu15030685]( https://doi.org/10.3390/nu15030685) FREE PDF
 
 * The role of vitamin D in menopausal women’s health - June 2023 https://doi.org/10.3389/fphys.2023.1211896 FREE PDF
 
@@ -264,7 +264,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 * Some studies have shown vitamin D can also help stabilise your emotions and moods and it is widely considered to be the most important vitamin for menopausal women. [URL](https://www.balance-menopause.com/menopause-library/vitamin-d/#:~:text=Vitamin%20D%20is%20one%20of,important%20vitamin%20for%20menopausal%20women.)
 
-* Benefits of Vitamin D for Women in Menopause - Dec 2022 [ URL](https://www.verywellhealth.com/vitamin-d-your-prevention-ally-2322660) mainly decrease health problems while aging
+* Benefits of Vitamin D for Women in Menopause - Dec 2022 [URL](https://www.verywellhealth.com/vitamin-d-your-prevention-ally-2322660) mainly decrease health problems while aging
 
 * Vitamin D Deficiency: Widespread Effects in Postmenopausal Women - Feb, 2023 [URL](https://www.pharmacytimes.com/view/vitamin-d-deficiency-widespread-effects-in-postmenopausal-women)
 
@@ -272,7 +272,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14800{SQL} -->
 </span> visits to this page
 
@@ -304,9 +304,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -386,9 +386,9 @@ Women are a vital part of the global workforce and economy. This study identifie
 
 * C.L. Kracht et al. It just seems like people are talking about menopause, but nobody has a solution&quot;: a qualitative exploration of menopause experiences and preferences for weight management among Black women Maturitas (2022)
 
-*  N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)
+* N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)
 
-*  M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)
+* M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)
 
 E.B. Gold et al.
 
@@ -520,7 +520,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 * Relationship between vitamin D levels and age of menopause and reproductive lifespan: Analysis based on the National health and nutrition examination survey (NHANES) 2001–2018 - Oct 2023 [https://doi.org/10.1016/j.ejogrb.2023.09.003](https://doi.org/10.1016/j.ejogrb.2023.09.003)
 
-* Determinants and Effects of Vitamin D Supplementation in Postmenopausal Women: A Systematic Review - Jan 2023 [ https://doi.org/10.3390/nu15030685]( https://doi.org/10.3390/nu15030685) FREE PDF
+* Determinants and Effects of Vitamin D Supplementation in Postmenopausal Women: A Systematic Review - Jan 2023 [https://doi.org/10.3390/nu15030685]( https://doi.org/10.3390/nu15030685) FREE PDF
 
 * The role of vitamin D in menopausal women’s health - June 2023 https://doi.org/10.3389/fphys.2023.1211896 FREE PDF
 
@@ -542,7 +542,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 * Some studies have shown vitamin D can also help stabilise your emotions and moods and it is widely considered to be the most important vitamin for menopausal women. [URL](https://www.balance-menopause.com/menopause-library/vitamin-d/#:~:text=Vitamin%20D%20is%20one%20of,important%20vitamin%20for%20menopausal%20women.)
 
-* Benefits of Vitamin D for Women in Menopause - Dec 2022 [ URL](https://www.verywellhealth.com/vitamin-d-your-prevention-ally-2322660) mainly decrease health problems while aging
+* Benefits of Vitamin D for Women in Menopause - Dec 2022 [URL](https://www.verywellhealth.com/vitamin-d-your-prevention-ally-2322660) mainly decrease health problems while aging
 
 * Vitamin D Deficiency: Widespread Effects in Postmenopausal Women - Feb, 2023 [URL](https://www.pharmacytimes.com/view/vitamin-d-deficiency-widespread-effects-in-postmenopausal-women)
 
@@ -550,7 +550,7 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14800{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -606,14 +606,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;MENOPAUSE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 5  OR categId = 115 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies for Senior Women`
@@ -875,8 +875,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)`
-│   │   inner_content: ` N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)`├── TextNode
+│   │   full_match: `N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)`
+│   │   inner_content: `N.F. Woods et al. Symptoms during the perimenopause: prevalence, severity, trajectory, and significance in women&#39;s lives Am J Med (2005)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)`
@@ -884,8 +884,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)`
-│   │   inner_content: ` M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)`├── TextNode
+│   │   full_match: `M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)`
+│   │   inner_content: `M. Rees et al. Global consensus recommendations on menopause in the workplace: a European Menopause and Andropause Society (EMAS) position statement Maturitas (2021)`├── TextNode
 │   full_match: `\nE.B. Gold et al.\nFactors related to age at natural menopause: longitudinal analyses from SWAN\nAm J Epidemiol\n(2013)\nWorld Population Prospects 2019. Population by broad age groups—female, 2019. United Nations website\nN.F. Woods et al.\nQuality of life, menopause, and hormone therapy: an update and recommendations for future research `
 │   inner_content: `\nE.B. Gold et al.\nFactors related to age at natural menopause: longitudinal analyses from SWAN\nAm J Epidemiol\n(2013)\nWorld Population Prospects 2019. Population by broad age groups—female, 2019. United Nations website\nN.F. Woods et al.\nQuality of life, menopause, and hormone therapy: an update and recommendations for future research `├── LinkNode
 │   full_match: `[editorial]`
@@ -1021,8 +1021,8 @@ AST Structure:
 │   │   url: ` https://doi.org/10.3390/nu15030685`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` https://doi.org/10.3390/nu15030685`
-│   │   │   inner_content: ` https://doi.org/10.3390/nu15030685`
+│   │   │   full_match: `https://doi.org/10.3390/nu15030685`
+│   │   │   inner_content: `https://doi.org/10.3390/nu15030685`
 │   ├── TextNode
 │   │   full_match: ` FREE PDF`
 │   │   inner_content: ` FREE PDF`├── TextNode
@@ -1138,8 +1138,8 @@ AST Structure:
 │   │   url: `https://www.verywellhealth.com/vitamin-d-your-prevention-ally-2322660`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` URL`
-│   │   │   inner_content: ` URL`
+│   │   │   full_match: `URL`
+│   │   │   inner_content: `URL`
 │   ├── TextNode
 │   │   full_match: ` mainly decrease health problems while aging`
 │   │   inner_content: ` mainly decrease health problems while aging`├── TextNode
@@ -1192,9 +1192,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14800{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14800`
@@ -1210,32 +1207,32 @@ AST Structure:
 │   inner_content: ` (alias(Menopause  symtoms reduced by Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Menopause  symtoms reduced by Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Menopause  symtoms reduced by Vitamin D - many studies)) `├── TextNode
+│   │   full_match: `(alias(Menopause  symtoms reduced by Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Menopause  symtoms reduced by Vitamin D - many studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Menopause  symptoms reduced by Vitamin D - many studies)) ~/tc~`
 │   inner_content: ` (alias(Menopause  symptoms reduced by Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Menopause  symptoms reduced by Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Menopause  symptoms reduced by Vitamin D - many studies)) `├── TextNode
+│   │   full_match: `(alias(Menopause  symptoms reduced by Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Menopause  symptoms reduced by Vitamin D - many studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Menopause symptoms reduced by Vitamin D - many studies)) ~/tc~`
 │   inner_content: ` (alias(Menopause symptoms reduced by Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Menopause symptoms reduced by Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Menopause symptoms reduced by Vitamin D - many studies)) `├── TextNode
+│   │   full_match: `(alias(Menopause symptoms reduced by Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Menopause symptoms reduced by Vitamin D - many studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Menopause and Vitamin D - many studies)) ~/tc~`
 │   inner_content: ` (alias(Menopause and Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Menopause and Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Menopause and Vitamin D - many studies)) `
+│   │   full_match: `(alias(Menopause and Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Menopause and Vitamin D - many studies)) `
 
 Original Tiki:
 -------------

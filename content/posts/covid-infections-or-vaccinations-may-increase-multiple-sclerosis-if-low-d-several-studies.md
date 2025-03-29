@@ -884,8 +884,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID infections or vaccinations may increase Multiple Sclerois - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID infections or vaccinations may increase Multiple Sclerois - several studies)) `
-│   │   inner_content: ` (alias(COVID infections or vaccinations may increase Multiple Sclerois - several studies)) `
+│   │   full_match: `(alias(COVID infections or vaccinations may increase Multiple Sclerois - several studies)) `
+│   │   inner_content: `(alias(COVID infections or vaccinations may increase Multiple Sclerois - several studies)) `
 
 Original Tiki:
 -------------

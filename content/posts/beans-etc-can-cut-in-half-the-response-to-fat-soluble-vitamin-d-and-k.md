@@ -75,7 +75,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14919{SQL} -->
 </span> visits to this page
 
@@ -155,7 +155,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14919{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -427,9 +427,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14919{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14919`
@@ -445,24 +442,24 @@ AST Structure:
 │   inner_content: ` (alias(Phytates (beans, cereals) can reduce Vitamin D and Vitamin K by half - June 2019)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Phytates (beans, cereals) can reduce Vitamin D and Vitamin K by half - June 2019)) `
-│   │   inner_content: ` (alias(Phytates (beans, cereals) can reduce Vitamin D and Vitamin K by half - June 2019)) `├── TextNode
+│   │   full_match: `(alias(Phytates (beans, cereals) can reduce Vitamin D and Vitamin K by half - June 2019)) `
+│   │   inner_content: `(alias(Phytates (beans, cereals) can reduce Vitamin D and Vitamin K by half - June 2019)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) ~/tc~`
 │   inner_content: ` (alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) `
-│   │   inner_content: ` (alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) `├── TextNode
+│   │   full_match: `(alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) `
+│   │   inner_content: `(alias(Pulses (e.g. beans) can reduce gut aborption of Vitamin D and Vitamin K by half - June 2019)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) ~/tc~`
 │   inner_content: ` (alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) `
-│   │   inner_content: ` (alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) `
+│   │   full_match: `(alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) `
+│   │   inner_content: `(alias(Beans etc, can cut in half the response to fat soluable Vitamin D and K - June 2019)) `
 
 Original Tiki:
 -------------

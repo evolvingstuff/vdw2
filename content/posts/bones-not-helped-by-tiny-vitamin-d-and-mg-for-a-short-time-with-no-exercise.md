@@ -143,8 +143,8 @@ AST Structure:
 │   inner_content: ` (alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) `
-│   │   inner_content: ` (alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) `
+│   │   full_match: `(alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) `
+│   │   inner_content: `(alias(Bones not helped by a small amount of Vitamin D, Mg, and no exercise - Feb 2023)) `
 
 Original Tiki:
 -------------

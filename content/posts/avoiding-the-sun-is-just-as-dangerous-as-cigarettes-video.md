@@ -17,7 +17,7 @@ categories:
 
 #### Dr. Berg 4 minute video
 
- **[ 4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&ab_channel=Dr.EricBergDC)** 
+ **[4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&ab_channel=Dr.EricBergDC)** 
 
 ---
 
@@ -41,7 +41,7 @@ Markdown:
 
 #### Dr. Berg 4 minute video
 
- **[ 4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&amp;ab_channel=Dr.EricBergDC)** 
+ **[4 minute video](https://www.youtube.com/watch?v=rDeLISqGgfs&amp;ab_channel=Dr.EricBergDC)** 
 
 ---
 
@@ -89,8 +89,8 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=rDeLISqGgfs&amp;ab_channel=Dr.EricBergDC`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 4 minute video`
-│   │   │   inner_content: ` 4 minute video`├── HorizontalRuleNode
+│   │   │   full_match: `4 minute video`
+│   │   │   inner_content: `4 minute video`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Low Vitamin D is worse for your health than smoking)) contains:`
@@ -163,8 +163,8 @@ AST Structure:
 │   inner_content: ` (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
-│   │   inner_content: ` (alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
+│   │   full_match: `(alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
+│   │   inner_content: `(alias(Avoiding the Sun is Just as Dangerous as Cigarettes - March 2024)) `
 
 Original Tiki:
 -------------

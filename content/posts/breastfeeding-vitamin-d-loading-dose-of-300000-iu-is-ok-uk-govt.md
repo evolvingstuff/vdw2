@@ -633,8 +633,8 @@ AST Structure:
 │   inner_content: ` maternal dose of 6400 units`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` maternal dose of 6400 units`
-│   │   inner_content: ` maternal dose of 6400 units`├── TextNode
+│   │   full_match: `maternal dose of 6400 units`
+│   │   inner_content: `maternal dose of 6400 units`├── TextNode
 │   full_match: ` daily has resulted in a milk level of `
 │   inner_content: ` daily has resulted in a milk level of `├── BoldNode
 │   full_match: `__873 units/litre__`
@@ -938,16 +938,16 @@ AST Structure:
 │   inner_content: ` (alias(Breastfeeding  needs large Vitamin D loading doses if very deficient - UK govt. Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Breastfeeding  needs large Vitamin D loading doses if very deficient - UK govt. Dec 2023)) `
-│   │   inner_content: ` (alias(Breastfeeding  needs large Vitamin D loading doses if very deficient - UK govt. Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Breastfeeding  needs large Vitamin D loading doses if very deficient - UK govt. Dec 2023)) `
+│   │   inner_content: `(alias(Breastfeeding  needs large Vitamin D loading doses if very deficient - UK govt. Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) `
-│   │   inner_content: ` (alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) `
+│   │   full_match: `(alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) `
+│   │   inner_content: `(alias(Breastfeeding loading dose of 300,000 IU is OK - UK govt. Dec 2023)) `
 
 Original Tiki:
 -------------

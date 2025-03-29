@@ -73,14 +73,14 @@ categories:
 
  **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">cofactors</a>, [non-daily dose](/categories/better-than-daily)** 
 
- **<span style="color:orange;"> Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
+ **<span style="color:orange;">Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
 
 | | |
 | --- | --- |
-| Goal: for <br>95% of people |  Annual Cost (guess) <br>for normal weight<br>& no health problems |
-| > 30 - 50 ng |  $5/year |
-| > 40 - 60 ng |  $30/year |
-| > 80 - 100 ng |  $150/year <br>(includes Vit. D test |
+| Goal: for <br>95% of people | Annual Cost (guess) <br>for normal weight<br>& no health problems |
+| > 30 - 50 ng | $5/year |
+| > 40 - 60 ng | $30/year |
+| > 80 - 100 ng | $150/year <br>(includes Vit. D test |
 
  **The higher goals require** 
 
@@ -512,7 +512,7 @@ In the last few decades, vitamin D has undeniably been one of the most studied n
 
 1. Uwitonze, A.M.; Razzaque, M.S. Role of Magnesium in Vitamin D Activation and Function. J. Am. Osteopath. Assoc. 2018, 118, 181-189. https://doi.org/10.7556/jaoa.2018.037.
 
-1.  aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.
+1. aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.
 
 1. van Ballegooijen, A.J.; Pilz, S.; Tomaschite, A.; Grübler, M.R.; Verheyen, N. The Synergistic Interplay between Vitamins D and K for Bone and Cardiovascular Health:	A Narrative Review. Int. J. Endocrinol. 2017,	2017,	7454376. https://doi.org/10.1155/2017/7454376.
 
@@ -688,14 +688,14 @@ Markdown:
 
  **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;cofactors&lt;/a&gt;, [non-daily dose](/categories/better-than-daily)** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt; Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
 
 | | |
 | --- | --- |
-| Goal: for &lt;br&gt;95% of people |  Annual Cost (guess) &lt;br&gt;for normal weight&lt;br&gt;&amp; no health problems |
-| &gt; 30 - 50 ng |  $5/year |
-| &gt; 40 - 60 ng |  $30/year |
-| &gt; 80 - 100 ng |  $150/year &lt;br&gt;(includes Vit. D test |
+| Goal: for &lt;br&gt;95% of people | Annual Cost (guess) &lt;br&gt;for normal weight&lt;br&gt;&amp; no health problems |
+| &gt; 30 - 50 ng | $5/year |
+| &gt; 40 - 60 ng | $30/year |
+| &gt; 80 - 100 ng | $150/year &lt;br&gt;(includes Vit. D test |
 
  **The higher goals require** 
 
@@ -1127,7 +1127,7 @@ In the last few decades, vitamin D has undeniably been one of the most studied n
 
 1. Uwitonze, A.M.; Razzaque, M.S. Role of Magnesium in Vitamin D Activation and Function. J. Am. Osteopath. Assoc. 2018, 118, 181-189. https://doi.org/10.7556/jaoa.2018.037.
 
-1.  aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.
+1. aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.
 
 1. van Ballegooijen, A.J.; Pilz, S.; Tomaschite, A.; Grübler, M.R.; Verheyen, N. The Synergistic Interplay between Vitamins D and K for Bone and Cardiovascular Health:	A Narrative Review. Int. J. Endocrinol. 2017,	2017,	7454376. https://doi.org/10.1155/2017/7454376.
 
@@ -1668,8 +1668,8 @@ AST Structure:
 │   │   url: `Vitamin D in the gut is slow to get to the blood - must go thru the lymph system`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` poor lymph system`
-│   │   │   inner_content: ` poor lymph system`
+│   │   │   full_match: `poor lymph system`
+│   │   │   inner_content: `poor lymph system`
 │   ├── TextNode
 │   │   full_match: ` (required to get Vitamin D in the intestine into the blood)`
 │   │   inner_content: ` (required to get Vitamin D in the intestine into the blood)`├── TextNode
@@ -1764,8 +1764,8 @@ AST Structure:
 │   │   │   │   raw_content: #00F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations `
-│   │   │   │   inner_content: ` Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations `├── TextNode
+│   │   │   │   full_match: `Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations `
+│   │   │   │   inner_content: `Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(style=&quot;font-size:18px;&quot;)}\n||Goal: for %%%95% of people| Annual Cost (guess) %%%for normal weight%%%&amp; no health problems\n&gt; 30 - 50 ng| $5/year\n&gt; 40 - 60 ng| $30/year\n&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test||\n__The higher goals require __\n*More Vitamin D, \n*30% getting a different form of vitamin D ( ((Gut-Friendly Vitamin D|gut friendly)), ((Topical Vitamin D|topical)), UV, etc)\n*personalized ((Vitamin D Cofactors in a nutshell|co-factors))\n{DIV}`
@@ -1803,8 +1803,8 @@ AST Structure:
 │   │   │   │   inner_content: ` Annual Cost (guess) %%%for normal weight%%%&amp; no health problems`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` Annual Cost (guess) `
-│   │   │   │   │   inner_content: ` Annual Cost (guess) `
+│   │   │   │   │   full_match: `Annual Cost (guess) `
+│   │   │   │   │   inner_content: `Annual Cost (guess) `
 │   │   │   │   ├── NewlineNode
 │   │   │   │   │   full_match: `%%%`
 │   │   │   │   │   inner_content: ``
@@ -1833,8 +1833,8 @@ AST Structure:
 │   │   │   │   inner_content: ` $5/year`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` $5/year`
-│   │   │   │   │   inner_content: ` $5/year`
+│   │   │   │   │   full_match: `$5/year`
+│   │   │   │   │   inner_content: `$5/year`
 │   │   ├── TableRowNode
 │   │   │   full_match: `&gt; 40 - 60 ng| $30/year`
 │   │   │   inner_content: `&gt; 40 - 60 ng| $30/year`
@@ -1851,8 +1851,8 @@ AST Structure:
 │   │   │   │   inner_content: ` $30/year`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` $30/year`
-│   │   │   │   │   inner_content: ` $30/year`
+│   │   │   │   │   full_match: `$30/year`
+│   │   │   │   │   inner_content: `$30/year`
 │   │   ├── TableRowNode
 │   │   │   full_match: `&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test`
 │   │   │   inner_content: `&gt; 80 - 100 ng| $150/year %%%(includes Vit. D test`
@@ -1869,8 +1869,8 @@ AST Structure:
 │   │   │   │   inner_content: ` $150/year %%%(includes Vit. D test`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` $150/year `
-│   │   │   │   │   inner_content: ` $150/year `
+│   │   │   │   │   full_match: `$150/year `
+│   │   │   │   │   inner_content: `$150/year `
 │   │   │   │   ├── NewlineNode
 │   │   │   │   │   full_match: `%%%`
 │   │   │   │   │   inner_content: ``
@@ -3782,8 +3782,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.`
-│   │   inner_content: ` aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.`├── TextNode
+│   │   full_match: `aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.`
+│   │   inner_content: `aykara, B.; Öztürk, G.; Mutlu, H.H.; Arslan, E. Relationship Between Vitamin D, Calcium, and Phosphorus Levels. J. Acad. Res. Med. 2020, 10, 252-257. https://doi.org/10.4274/jarem.galenos.2020.3351.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#van Ballegooijen, A.J.; Pilz, S.; Tomaschite, A.; Grübler, M.R.; Verheyen, N. The Synergistic Interplay between Vitamins D and K for Bone and Cardiovascular Health:\tA Narrative Review. Int. J. Endocrinol. 2017,\t2017,\t7454376. https://doi.org/10.1155/2017/7454376.`
@@ -4107,8 +4107,8 @@ AST Structure:
 │   inner_content: ` (alias(Factors for personalization of Vitamin D treatment)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Factors for personalization of Vitamin D treatment)) `
-│   │   inner_content: ` (alias(Factors for personalization of Vitamin D treatment)) `
+│   │   full_match: `(alias(Factors for personalization of Vitamin D treatment)) `
+│   │   inner_content: `(alias(Factors for personalization of Vitamin D treatment)) `
 
 Original Tiki:
 -------------

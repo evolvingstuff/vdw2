@@ -57,7 +57,7 @@ The Vitamin D Receptor (VDR) mediates the actions of 1,25-Dihydroxvitamin D3 (1,
 
 * “VDR methylation AND Adrenocortical carcinoma”,
 
-*  “VDR methylation AND Hepatocellular carcinoma”, 
+* “VDR methylation AND Hepatocellular carcinoma”, 
 
 * “VDR methylation AND Parathyroid adenomas”, 
 
@@ -65,7 +65,7 @@ The Vitamin D Receptor (VDR) mediates the actions of 1,25-Dihydroxvitamin D3 (1,
 
 * “VDR methylation AND Osteoporosis”,
 
-*  “VDR methylation AND Male infertility”, 
+* “VDR methylation AND Male infertility”, 
 
 * “VDR methylation AND Recurrent Kidney stone formation”,
 
@@ -140,7 +140,7 @@ The Vitamin D Receptor (VDR) mediates the actions of 1,25-Dihydroxvitamin D3 (1,
 
 * “VDR methylation AND Adrenocortical carcinoma”,
 
-*  “VDR methylation AND Hepatocellular carcinoma”, 
+* “VDR methylation AND Hepatocellular carcinoma”, 
 
 * “VDR methylation AND Parathyroid adenomas”, 
 
@@ -148,7 +148,7 @@ The Vitamin D Receptor (VDR) mediates the actions of 1,25-Dihydroxvitamin D3 (1,
 
 * “VDR methylation AND Osteoporosis”,
 
-*  “VDR methylation AND Male infertility”, 
+* “VDR methylation AND Male infertility”, 
 
 * “VDR methylation AND Recurrent Kidney stone formation”,
 
@@ -346,8 +346,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` “VDR methylation AND Hepatocellular carcinoma”, `
-│   │   inner_content: ` “VDR methylation AND Hepatocellular carcinoma”, `├── TextNode
+│   │   full_match: `“VDR methylation AND Hepatocellular carcinoma”, `
+│   │   inner_content: `“VDR methylation AND Hepatocellular carcinoma”, `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*“VDR methylation AND Parathyroid adenomas”, `
@@ -382,8 +382,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` “VDR methylation AND Male infertility”, `
-│   │   inner_content: ` “VDR methylation AND Male infertility”, `├── TextNode
+│   │   full_match: `“VDR methylation AND Male infertility”, `
+│   │   inner_content: `“VDR methylation AND Male infertility”, `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*“VDR methylation AND Recurrent Kidney stone formation”,`

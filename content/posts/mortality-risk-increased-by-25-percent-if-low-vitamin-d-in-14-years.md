@@ -161,8 +161,8 @@ AST Structure:
 │   inner_content: ` (alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) `
-│   │   inner_content: ` (alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) `
+│   │   full_match: `(alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) `
+│   │   inner_content: `(alias(Mortality Risk in 14 years increased by 25% if low vitamin D – Nov 2022)) `
 
 Original Tiki:
 -------------

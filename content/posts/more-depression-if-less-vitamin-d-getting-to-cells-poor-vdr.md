@@ -30,8 +30,6 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- 
-
 #### VitaminDWiki -  
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
        studies in both categories Vitamin D Receptor and Depression
@@ -74,8 +72,6 @@ Caption: The variable in green and with the “►” symbol was the exposure va
 Mental disorders are intricate and multifaceted and encompass social, economic, environmental, and biological factors. This study aimed to explore the potential association between vitamin D deficiency and anxiety and depression symptoms in adults, considering the role of the vitamin D receptor gene polymorphism FokI (rs2228570). This was a population-based cross-sectional study with stratified and cluster sampling, evaluating anxiety symptoms (AS) and depression symptoms (DS) in 1637 adults. Vitamin D levels were measured using electrochemiluminescence and were considered deficient when &lt; 20 ng/mL in a healthy population or &lt; 30 ng/mL in at-risk groups. Genotyping was performed using real-time polymerase chain reaction with TaqMan probes. The prevalence rates of AS, DS, and vitamin D deficiency were 23.5%, 15.8%, and 30.9%, respectively. No direct association was observed between vitamin D deficiency and AS or DS. However, interaction analysis revealed a combined effect of vitamin D deficiency and FokI for DS but not for AS. Individuals with vitamin deficiency and one or two copies of the altered allele of the FokI exhibited a higher prevalence of DS than individuals homozygous for the wild-type allele and vitamin D sufficiency. The interaction between vitamin D deficiency and the FokI polymorphism was associated with DS.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
-
- 
 
 #### VitaminDWiki -  
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
@@ -158,9 +154,9 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Download the PDF from VitaminDWiki `
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
 │   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
 │   level: `4`
 │   children:

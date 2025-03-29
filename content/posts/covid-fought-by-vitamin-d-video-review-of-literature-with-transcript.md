@@ -945,8 +945,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) `
-│   │   inner_content: ` (alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) `
+│   │   full_match: `(alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) `
+│   │   inner_content: `(alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) `
 
 Original Tiki:
 -------------

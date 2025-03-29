@@ -47,7 +47,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * Anesthesia (medical, dental, veterinary),    Surgical disinfectant,    Treatment (migraines, trigeminal neuralgia),    Pharmaceutical   manufacturing,  
 
-  *   *** Common current uses.** 
+  *  *** Common current uses.** 
 
  **Workplace exposure** 
 
@@ -130,7 +130,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * Anesthesia (medical, dental, veterinary),    Surgical disinfectant,    Treatment (migraines, trigeminal neuralgia),    Pharmaceutical   manufacturing,  
 
-  *   *** Common current uses.** 
+  *  *** Common current uses.** 
 
  **Workplace exposure** 
 
@@ -305,9 +305,6 @@ AST Structure:
 │   inner_content: ` __*Common current uses.__`
 │   depth: `2`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__*Common current uses.__`
 │   │   inner_content: `*Common current uses.`
@@ -514,32 +511,32 @@ AST Structure:
 │   inner_content: ` (alias(Parkinson&#39;sDiseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Parkinson&#39;sDiseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
-│   │   inner_content: ` (alias(Parkinson&#39;sDiseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Parkinson&#39;sDiseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
+│   │   inner_content: `(alias(Parkinson&#39;sDiseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
-│   │   inner_content: ` (alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
+│   │   inner_content: `(alias(Parkinson&#39;s Diseases 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
-│   │   inner_content: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `
+│   │   inner_content: `(alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (perhaps lower D) - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) `
-│   │   inner_content: ` (alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) `
+│   │   full_match: `(alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) `
+│   │   inner_content: `(alias(Parkinson&#39;s Disease 5X more likely if Trichloroethylene (wonder about Vit D) - March 2023)) `
 
 Original Tiki:
 -------------

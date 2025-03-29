@@ -23,9 +23,9 @@ This list is automatically updated
 {filter field="title" content="NOT \"How vitamins A\""}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -37,13 +37,13 @@ This list is automatically updated
 
 | | |
 | --- | --- |
-|  Drug agency |  % income from businesses |
-| European Medicines Agency |  89% |
-| Therapeutic Goods Administration<br>Australia |  96% |
-| FDA US |  56% |
-| Medicines and Healthcare Products <br>Regulatory Agency - UK |  86%  |
-| PDMA Japan |  85% |
-| Health Canada |  50.5% |
+| Drug agency | % income from businesses |
+| European Medicines Agency | 89% |
+| Therapeutic Goods Administration<br>Australia | 96% |
+| FDA US | 56% |
+| Medicines and Healthcare Products <br>Regulatory Agency - UK | 86%  |
+| PDMA Japan | 85% |
+| Health Canada | 50.5% |
 
 ---
 
@@ -70,9 +70,9 @@ This list is automatically updated
 {filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -84,13 +84,13 @@ This list is automatically updated
 
 | | |
 | --- | --- |
-|  Drug agency |  % income from businesses |
-| European Medicines Agency |  89% |
-| Therapeutic Goods Administration&lt;br&gt;Australia |  96% |
-| FDA US |  56% |
-| Medicines and Healthcare Products &lt;br&gt;Regulatory Agency - UK |  86%  |
-| PDMA Japan |  85% |
-| Health Canada |  50.5% |
+| Drug agency | % income from businesses |
+| European Medicines Agency | 89% |
+| Therapeutic Goods Administration&lt;br&gt;Australia | 96% |
+| FDA US | 56% |
+| Medicines and Healthcare Products &lt;br&gt;Regulatory Agency - UK | 86%  |
+| PDMA Japan | 85% |
+| Health Canada | 50.5% |
 
 ---
 
@@ -141,14 +141,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{filter field=&quot;title&quot; content=&quot;\&quot;FDA\&quot; OR \&quot;F.D.A.\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;How vitamins A\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Many drug agencies get most of thier operating funds from businesses`
@@ -172,15 +172,15 @@ AST Structure:
 │   │   │   inner_content: ` Drug agency`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Drug agency`
-│   │   │   │   inner_content: ` Drug agency`
+│   │   │   │   full_match: `Drug agency`
+│   │   │   │   inner_content: `Drug agency`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` % income from businesses`
 │   │   │   inner_content: ` % income from businesses`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` % income from businesses`
-│   │   │   │   inner_content: ` % income from businesses`
+│   │   │   │   full_match: `% income from businesses`
+│   │   │   │   inner_content: `% income from businesses`
 │   ├── TableRowNode
 │   │   full_match: `European Medicines Agency| 89%`
 │   │   inner_content: `European Medicines Agency| 89%`
@@ -197,8 +197,8 @@ AST Structure:
 │   │   │   inner_content: ` 89%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 89%`
-│   │   │   │   inner_content: ` 89%`
+│   │   │   │   full_match: `89%`
+│   │   │   │   inner_content: `89%`
 │   ├── TableRowNode
 │   │   full_match: `Therapeutic Goods Administration%%%Australia| 96%`
 │   │   inner_content: `Therapeutic Goods Administration%%%Australia| 96%`
@@ -221,8 +221,8 @@ AST Structure:
 │   │   │   inner_content: ` 96%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 96%`
-│   │   │   │   inner_content: ` 96%`
+│   │   │   │   full_match: `96%`
+│   │   │   │   inner_content: `96%`
 │   ├── TableRowNode
 │   │   full_match: `FDA US| 56%`
 │   │   inner_content: `FDA US| 56%`
@@ -239,8 +239,8 @@ AST Structure:
 │   │   │   inner_content: ` 56%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 56%`
-│   │   │   │   inner_content: ` 56%`
+│   │   │   │   full_match: `56%`
+│   │   │   │   inner_content: `56%`
 │   ├── TableRowNode
 │   │   full_match: `Medicines and Healthcare Products %%%Regulatory Agency - UK| 86% `
 │   │   inner_content: `Medicines and Healthcare Products %%%Regulatory Agency - UK| 86% `
@@ -263,8 +263,8 @@ AST Structure:
 │   │   │   inner_content: ` 86% `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 86% `
-│   │   │   │   inner_content: ` 86% `
+│   │   │   │   full_match: `86% `
+│   │   │   │   inner_content: `86% `
 │   ├── TableRowNode
 │   │   full_match: `PDMA Japan| 85%`
 │   │   inner_content: `PDMA Japan| 85%`
@@ -281,8 +281,8 @@ AST Structure:
 │   │   │   inner_content: ` 85%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 85%`
-│   │   │   │   inner_content: ` 85%`
+│   │   │   │   full_match: `85%`
+│   │   │   │   inner_content: `85%`
 │   ├── TableRowNode
 │   │   full_match: `Health Canada| 50.5%`
 │   │   inner_content: `Health Canada| 50.5%`
@@ -299,8 +299,8 @@ AST Structure:
 │   │   │   inner_content: ` 50.5%`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 50.5%`
-│   │   │   │   inner_content: ` 50.5%`├── HorizontalRuleNode
+│   │   │   │   full_match: `50.5%`
+│   │   │   │   inner_content: `50.5%`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!See also ((Extremely Big Pharma - many studies))`

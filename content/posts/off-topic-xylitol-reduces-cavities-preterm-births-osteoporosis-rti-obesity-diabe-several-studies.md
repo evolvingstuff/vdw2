@@ -83,7 +83,7 @@ This gum was superior to any other gum (p < 0.01). The xylitol-sorbitol mixtures
 
 #### Health benefits of xylitol - July 2020
 
- Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)
+Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)
 
 Asma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida & Geir Bjørklund 
 
@@ -143,13 +143,13 @@ However, it can produce some side effects such as irritable bowel syndrome, diar
 
  **Key Points** 
 
-*  The health benefits of xylitol are not limited to oral hygiene.
+* The health benefits of xylitol are not limited to oral hygiene.
 
-*  Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.
+* Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.
 
-*  Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.
+* Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.
 
-*  Xylitol treats diseases that cannot be cured through antibiotics or by surgery.
+* Xylitol treats diseases that cannot be cured through antibiotics or by surgery.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -283,7 +283,7 @@ This gum was superior to any other gum (p &lt; 0.01). The xylitol-sorbitol mixtu
 
 #### Health benefits of xylitol - July 2020
 
- Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)
+Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)
 
 Asma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida &amp; Geir Bjørklund 
 
@@ -343,13 +343,13 @@ However, it can produce some side effects such as irritable bowel syndrome, diar
 
  **Key Points** 
 
-*  The health benefits of xylitol are not limited to oral hygiene.
+* The health benefits of xylitol are not limited to oral hygiene.
 
-*  Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.
+* Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.
 
-*  Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.
+* Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.
 
-*  Xylitol treats diseases that cannot be cured through antibiotics or by surgery.
+* Xylitol treats diseases that cannot be cured through antibiotics or by surgery.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -487,8 +487,8 @@ AST Structure:
 │   │   inner_content: ` through age 5 years.`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` through age 5 years.`
-│   │   │   inner_content: ` through age 5 years.`
+│   │   │   full_match: `through age 5 years.`
+│   │   │   inner_content: `through age 5 years.`
 │   ├── TextNode
 │   │   full_match: ` &quot;`
 │   │   inner_content: ` &quot;`├── TextNode
@@ -620,8 +620,8 @@ AST Structure:
 │   │   inner_content: ` 0.27`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 0.27`
-│   │   │   inner_content: ` 0.27`
+│   │   │   full_match: `0.27`
+│   │   │   inner_content: `0.27`
 │   ├── TextNode
 │   │   full_match: `; 95% confidence interval, 0.20 to 0.36; p = 0.0001). `
 │   │   inner_content: `; 95% confidence interval, 0.20 to 0.36; p = 0.0001). `├── TextNode
@@ -658,8 +658,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Health benefits of xylitol - July 2020`
 │   │   inner_content: `Health benefits of xylitol - July 2020`├── TextNode
-│   full_match: `\n Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)\nAsma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida &amp; Geir Bjørklund \n\n`
-│   inner_content: `\n Applied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)\nAsma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida &amp; Geir Bjørklund \n\n`├── BoldNode
+│   full_match: `\nApplied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)\nAsma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida &amp; Geir Bjørklund \n\n`
+│   inner_content: `\nApplied Microbiology and BiotechnologyVolume 104, pages 7225–7237, (2020)\nAsma Gasmi Benahmed, Amin Gasmi, Maria Arshad, Mariia Shanaida, Roman Lysiuk, Massimiliano Peana, Irena Pshyk-Titko, Stepan Adamiv, Yurii Shanaida &amp; Geir Bjørklund \n\n`├── BoldNode
 │   full_match: `__Table of Content__`
 │   inner_content: `Table of Content`
 │   children:
@@ -816,8 +816,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` The health benefits of xylitol are not limited to oral hygiene.`
-│   │   inner_content: ` The health benefits of xylitol are not limited to oral hygiene.`├── TextNode
+│   │   full_match: `The health benefits of xylitol are not limited to oral hygiene.`
+│   │   inner_content: `The health benefits of xylitol are not limited to oral hygiene.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.`
@@ -825,8 +825,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.`
-│   │   inner_content: ` Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.`├── TextNode
+│   │   full_match: `Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.`
+│   │   inner_content: `Xylitol efficiently stimulates the immune system, digestion, lipid and bone metabolism.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.`
@@ -834,8 +834,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.`
-│   │   inner_content: ` Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.`├── TextNode
+│   │   full_match: `Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.`
+│   │   inner_content: `Xylitol helps in glycemic and obesity control; reduces ear and respiratory infections.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* Xylitol treats diseases that cannot be cured through antibiotics or by surgery.`
@@ -843,8 +843,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Xylitol treats diseases that cannot be cured through antibiotics or by surgery.`
-│   │   inner_content: ` Xylitol treats diseases that cannot be cured through antibiotics or by surgery.`├── TextNode
+│   │   full_match: `Xylitol treats diseases that cannot be cured through antibiotics or by surgery.`
+│   │   inner_content: `Xylitol treats diseases that cannot be cured through antibiotics or by surgery.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20573&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
@@ -1087,8 +1087,8 @@ AST Structure:
 │   inner_content: ` (alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) `
-│   │   inner_content: ` (alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) `
+│   │   full_match: `(alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) `
+│   │   inner_content: `(alias(Off Topic: Xylitol reduces cavities, preterm births, etc.- several studies)) `
 
 Original Tiki:
 -------------

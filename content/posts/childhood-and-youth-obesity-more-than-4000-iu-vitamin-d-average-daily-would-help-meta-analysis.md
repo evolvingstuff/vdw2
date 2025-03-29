@@ -36,7 +36,7 @@ ubgroup-analysis showed no significant difference in the increase of 25-(OH)-D b
 
 High daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.
 
-   Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.
+Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.
 
 ---
 
@@ -170,7 +170,7 @@ ubgroup-analysis showed no significant difference in the increase of 25-(OH)-D b
 
 High daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.
 
-   Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.
+Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.
 
 ---
 
@@ -319,8 +319,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `WMD = 6.973, 95%CI (3.072, 10.873)`
 │   │   inner_content: `WMD = 6.973, 95%CI (3.072, 10.873)`├── TextNode
-│   full_match: `. \nHigh daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.\n\n   Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.`
-│   inner_content: `. \nHigh daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.\n\n   Conclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.`├── HorizontalRuleNode
+│   full_match: `. \nHigh daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.\n\nConclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.`
+│   inner_content: `. \nHigh daily dose (= 4000 IU/d) of Vit-D might decrease CRP and increase HDL levels.\n\nConclusion: High dose of Vit-D supplementation (over 4000 IU/d) would reduce several cardiometabolic risk indicators and improve insulin resistance. More high-quality and large-scale RCTs are needed to provide more robust evidence.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Vitamin D dose size is strongly a function of both weight and obesity`

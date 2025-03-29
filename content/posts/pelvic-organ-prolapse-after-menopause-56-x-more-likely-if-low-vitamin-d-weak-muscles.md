@@ -375,8 +375,8 @@ AST Structure:
 │   inner_content: ` (alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) `
-│   │   inner_content: ` (alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) `
+│   │   full_match: `(alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) `
+│   │   inner_content: `(alias(Pelvic Organ Prolapse after menopause 5X more likely if low vitamin ‘D (weak muscles) – Oct 2023)) `
 
 Original Tiki:
 -------------

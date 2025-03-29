@@ -10,7 +10,7 @@ categories:
 ---
 
 
- 
+
 <!-- {maketoc Title=""} -->
 
 ---
@@ -19,7 +19,7 @@ categories:
 
  **[TrialSiteNews](https://www.trialsitenews.com/a/vitamin-d-and-covid-19-is-there-a-need-to-re-evaluate-supplementation-standards-2a28b6b6)** 
 
-The COVID-19 pandemic exposed the need for proper strengthening of the immune system. One recent focus to do this has been maintaining a normal vitamin D level. Scientists like Dr. [Paul Marik](https://twitter.com/drpaulmarik1?lang=en) suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, [researchers question](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e) how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health ([NIH](https://www.nih.gov/)) does not endorse this idea. TrialSite [followed](https://www.trialsitenews.com/a/does-vitamin-d-help-fight-covid-19-severity-istanbul-university-cerrahpasa-led-study-suggests-so#:~:text=The research team found that vitamin D supplementation not only shorted hospital stay for the COVID-19 patients but also decreased mortality, even with those identified with comorbidities.) a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH's stance on vitamin D for COVID-19 and discusses other published work on this matter.
+The COVID-19 pandemic exposed the need for proper strengthening of the immune system. One recent focus to do this has been maintaining a normal vitamin D level. Scientists like Dr. [Paul Marik](https://twitter.com/drpaulmarik1?lang=en)suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, [researchers question](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e)how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health ([NIH](https://www.nih.gov/)) does not endorse this idea. TrialSite [followed](https://www.trialsitenews.com/a/does-vitamin-d-help-fight-covid-19-severity-istanbul-university-cerrahpasa-led-study-suggests-so#:~:text=The research team found that vitamin D supplementation not only shorted hospital stay for the COVID-19 patients but also decreased mortality, even with those identified with comorbidities.)a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH's stance on vitamin D for COVID-19 and discusses other published work on this matter.
 
 Vitamin D has [gained significant attention](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e) in recent years, with much research showing its potential health benefits in diseases like cancer and inflammatory diseases. Since the pandemic, some research on vitamin D has also claimed it can help treat or prevent COVID-19 infections. However, the role of vitamin D in COVID-19 is still being debated among experts. 
 
@@ -137,9 +137,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -162,9 +162,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -177,7 +177,7 @@ This list is automatically updated
 <code class="language-text">
 Markdown:
 --------
- 
+
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
 ---
@@ -186,7 +186,7 @@ Markdown:
 
  **[TrialSiteNews](https://www.trialsitenews.com/a/vitamin-d-and-covid-19-is-there-a-need-to-re-evaluate-supplementation-standards-2a28b6b6)** 
 
-The COVID-19 pandemic exposed the need for proper strengthening of the immune system. One recent focus to do this has been maintaining a normal vitamin D level. Scientists like Dr. [Paul Marik](https://twitter.com/drpaulmarik1?lang=en) suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, [researchers question](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e) how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health ([NIH](https://www.nih.gov/)) does not endorse this idea. TrialSite [followed](https://www.trialsitenews.com/a/does-vitamin-d-help-fight-covid-19-severity-istanbul-university-cerrahpasa-led-study-suggests-so#:~:text=The research team found that vitamin D supplementation not only shorted hospital stay for the COVID-19 patients but also decreased mortality, even with those identified with comorbidities.) a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.
+The COVID-19 pandemic exposed the need for proper strengthening of the immune system. One recent focus to do this has been maintaining a normal vitamin D level. Scientists like Dr. [Paul Marik](https://twitter.com/drpaulmarik1?lang=en)suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, [researchers question](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e)how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health ([NIH](https://www.nih.gov/)) does not endorse this idea. TrialSite [followed](https://www.trialsitenews.com/a/does-vitamin-d-help-fight-covid-19-severity-istanbul-university-cerrahpasa-led-study-suggests-so#:~:text=The research team found that vitamin D supplementation not only shorted hospital stay for the COVID-19 patients but also decreased mortality, even with those identified with comorbidities.)a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.
 
 Vitamin D has [gained significant attention](https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e) in recent years, with much research showing its potential health benefits in diseases like cancer and inflammatory diseases. Since the pandemic, some research on vitamin D has also claimed it can help treat or prevent COVID-19 infections. However, the role of vitamin D in COVID-19 is still being debated among experts. 
 
@@ -304,9 +304,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -329,9 +329,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -342,9 +342,7 @@ This list is automatically updated
 
 AST Structure:
 -------------
-├── TextNode
-│   full_match: ` `
-│   inner_content: ` `├── DivNode
+├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
 │   inner_content: `{maketoc Title=&quot;&quot;}`
 │   attrs_dict:
@@ -402,8 +400,8 @@ AST Structure:
 │   inner_content: ` suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, `
-│   │   inner_content: ` suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, `├── LinkNode
+│   │   full_match: `suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, `
+│   │   inner_content: `suggest that the average person should have vitamin D levels higher than 50 ng/mL. However, `├── LinkNode
 │   full_match: `[https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e|&#39;&#39;researchers question&#39;&#39;]`
 │   inner_content: `&#39;&#39;researchers question&#39;&#39;`
 │   url: `https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e`
@@ -419,8 +417,8 @@ AST Structure:
 │   inner_content: ` how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health (`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health (`
-│   │   inner_content: ` how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health (`├── LinkNode
+│   │   full_match: `how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health (`
+│   │   inner_content: `how much is truly enough. This discussion is coming due to the growing evidence that vitamin D may help improve the severity of COVID-19 cases. However, the National Institutes of Health (`├── LinkNode
 │   full_match: `[https://www.nih.gov/|&#39;&#39;NIH&#39;&#39;]`
 │   inner_content: `&#39;&#39;NIH&#39;&#39;`
 │   url: `https://www.nih.gov/`
@@ -453,8 +451,8 @@ AST Structure:
 │   inner_content: ` a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.`
-│   │   inner_content: ` a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.`├── TextNode
+│   │   full_match: `a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.`
+│   │   inner_content: `a study suggesting that vitamin D supplementation shortened hospital stays for COVID-19 patients and decreased mortality rates. This article dives into the NIH&#39;s stance on vitamin D for COVID-19 and discusses other published work on this matter.`├── TextNode
 │   full_match: `\n\nVitamin D has `
 │   inner_content: `\n\nVitamin D has `├── LinkNode
 │   full_match: `[https://www.trialsitenews.com/a/decoding-vitamin-d-claims-of-dr.-sten-anders-ekberg-838d809e|gained significant attention]`
@@ -1274,14 +1272,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;50 ng&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; hammer\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!75+ pages have 50 ng in VitaminDWiki title`
@@ -1301,22 +1299,22 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;50 ng\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 26\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 32\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; staph\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; chinese\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; RCT Nov 2013\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
-│   │   inner_content: ` (alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
+│   │   full_match: `(alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
+│   │   inner_content: `(alias(Is 50 ng of vitamin D enough to fight COVID - Jan 2024)) `
 
 Original Tiki:
 -------------

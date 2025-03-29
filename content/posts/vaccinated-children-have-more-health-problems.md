@@ -19,9 +19,9 @@ categories:
 
 Journal of Translational Science June 2021 DOI: 10.15761/JTS.1000459
 
- Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA
+Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA
 
- Neil Z. Miller" Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA
+Neil Z. Miller" Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -79,9 +79,9 @@ Markdown:
 
 Journal of Translational Science June 2021 DOI: 10.15761/JTS.1000459
 
- Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA
+Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA
 
- Neil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA
+Neil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -150,8 +150,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Health effects in vaccinated versus unvaccinated children, with covariates for breastfeeding status and type of birth - June 2021`
 │   │   inner_content: `Health effects in vaccinated versus unvaccinated children, with covariates for breastfeeding status and type of birth - June 2021`├── TextNode
-│   full_match: `\nJournal of Translational Science June 2021 DOI: 10.15761/JTS.1000459\n Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA\n Neil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA\n\n`
-│   inner_content: `\nJournal of Translational Science June 2021 DOI: 10.15761/JTS.1000459\n Brian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA\n Neil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA\n\n`├── ImgNode
+│   full_match: `\nJournal of Translational Science June 2021 DOI: 10.15761/JTS.1000459\nBrian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA\nNeil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA\n\n`
+│   inner_content: `\nJournal of Translational Science June 2021 DOI: 10.15761/JTS.1000459\nBrian S. Hooker: Department of Sciences and Mathematics, Simpson University, Redding, California 96003 USA\nNeil Z. Miller&quot; Institute of Medical and Scientific Inquiry, Santa Fe, New Mexico 87506 USA\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20053&quot; width=&quot;800&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -284,8 +284,8 @@ AST Structure:
 │   inner_content: ` Increased Office Visits after vaccination start about day 500`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Increased Office Visits after vaccination start about day 500`
-│   │   inner_content: ` Increased Office Visits after vaccination start about day 500`├── TextNode
+│   │   full_match: `Increased Office Visits after vaccination start about day 500`
+│   │   inner_content: `Increased Office Visits after vaccination start about day 500`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;14730&quot; width=&quot;1100&quot;}`
@@ -318,8 +318,8 @@ AST Structure:
 │   inner_content: ` (alias(Vaccinated children have more health problems (16th study) )) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vaccinated children have more health problems (16th study) )) `
-│   │   inner_content: ` (alias(Vaccinated children have more health problems (16th study) )) `
+│   │   full_match: `(alias(Vaccinated children have more health problems (16th study) )) `
+│   │   inner_content: `(alias(Vaccinated children have more health problems (16th study) )) `
 
 Original Tiki:
 -------------

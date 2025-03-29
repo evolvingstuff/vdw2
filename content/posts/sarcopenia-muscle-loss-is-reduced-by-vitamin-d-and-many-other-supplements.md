@@ -50,7 +50,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 * polyphenols 
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; in the management of sarcopenia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the management of sarcopenia.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -60,7 +60,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14563{SQL} -->
 </span> visits to this page
 
@@ -113,7 +113,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 * polyphenols 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; in the management of sarcopenia.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; in the management of sarcopenia.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -123,7 +123,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14563{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -299,9 +299,6 @@ AST Structure:
 │   inner_content: ` ~hs~ in the management of sarcopenia.`
 │   level: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~`
 │   │   inner_content: ``
@@ -381,9 +378,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14563{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14563`
@@ -399,8 +393,8 @@ AST Structure:
 │   inner_content: ` (alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) `
-│   │   inner_content: ` (alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) `
+│   │   full_match: `(alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) `
+│   │   inner_content: `(alias(Sarcopenia (muscle loss) is reduced by  vitamin D and many other supplements - July 2023)) `
 
 Original Tiki:
 -------------

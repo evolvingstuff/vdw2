@@ -127,8 +127,8 @@ AST Structure:
 │   inner_content: ` (alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) `
-│   │   inner_content: ` (alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) `
+│   │   full_match: `(alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) `
+│   │   inner_content: `(alias(Higher vitamin D level in mother results in higher level in infant -Feb 2023)) `
 
 Original Tiki:
 -------------

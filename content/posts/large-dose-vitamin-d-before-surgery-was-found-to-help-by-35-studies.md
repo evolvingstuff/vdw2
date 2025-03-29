@@ -33,9 +33,9 @@ Melika Hajimohammadebrahim-Ketabforoush b,
 
 Zahra Vahdat Shariatpanahi b
 
-*  a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+* a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran
 
-*  b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+* b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran
 
 Background and aims
 
@@ -135,9 +135,9 @@ Melika Hajimohammadebrahim-Ketabforoush b,
 
 Zahra Vahdat Shariatpanahi b
 
-*  a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+* a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran
 
-*  b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+* b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran
 
 Background and aims
 
@@ -227,9 +227,6 @@ AST Structure:
 │   │   full_match: `__ ~~#00F:This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)~~__`
 │   │   inner_content: ` ~~#00F:This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)~~`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#00F:This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)~~`
 │   │   │   inner_content: `This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)`
@@ -271,8 +268,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran`
-│   │   inner_content: ` a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran`├── TextNode
+│   │   full_match: `a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran`
+│   │   inner_content: `a Functional Neurosurgery Research Center, Shohada Tajrish Comprehensive Neurosurgical Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran`
@@ -280,8 +277,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran`
-│   │   inner_content: ` b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran`├── TextNode
+│   │   full_match: `b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran`
+│   │   inner_content: `b Department of Clinical Nutrition and Dietetics, Faculty of Nutrition Sciences and Food Technology, National Nutrition and Food Technology Research Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran`├── TextNode
 │   full_match: `\n\nBackground and aims\nSurvival from diagnosis of brain malignancies is often very short. Craniotomy in turn may be associated with morbidity and even post-operative mortality. Vitamin D and calcium were known as protective factors on all-cause mortality. However, their role is not well-understood in post-surgery survival of brain malignant patients.\n\nMethods\nTotally, 56 patients completed the present quasi-experimental study, comprising the intervention group (n = 19) under intramuscular administration of 300 000 IU vitamin D3, the control group (n = 21), and the group of patients with optimal vitamin D status at admission (n = 16).\n\nResults\nThe mean ± SD of preoperative 25(OH)D levels in the control, intervention, and optimal vitamin D status groups were 15.15 ± 3.63 ng/mL, 16.61 ± 2.56 ng/mL, and 40.03 ± 10.56 ng/mL, respectively (P &lt; 0.001). \nCrude survival was significantly greater in the optimal vitamin D status group than those in another two groups (P = 0.005). \nAlso, Cox proportional hazard model showed that the risk of mortality was higher in the control group and the intervention group than in the group of patients with optimal vitamin D status at admission (P-trend = 0.03). \nHowever, this correlation weakened in the full-adjusted models. Preoperative total calcium had an inverse significant correlation with mortality risk `
 │   inner_content: `\n\nBackground and aims\nSurvival from diagnosis of brain malignancies is often very short. Craniotomy in turn may be associated with morbidity and even post-operative mortality. Vitamin D and calcium were known as protective factors on all-cause mortality. However, their role is not well-understood in post-surgery survival of brain malignant patients.\n\nMethods\nTotally, 56 patients completed the present quasi-experimental study, comprising the intervention group (n = 19) under intramuscular administration of 300 000 IU vitamin D3, the control group (n = 21), and the group of patients with optimal vitamin D status at admission (n = 16).\n\nResults\nThe mean ± SD of preoperative 25(OH)D levels in the control, intervention, and optimal vitamin D status groups were 15.15 ± 3.63 ng/mL, 16.61 ± 2.56 ng/mL, and 40.03 ± 10.56 ng/mL, respectively (P &lt; 0.001). \nCrude survival was significantly greater in the optimal vitamin D status group than those in another two groups (P = 0.005). \nAlso, Cox proportional hazard model showed that the risk of mortality was higher in the control group and the intervention group than in the group of patients with optimal vitamin D status at admission (P-trend = 0.03). \nHowever, this correlation weakened in the full-adjusted models. Preoperative total calcium had an inverse significant correlation with mortality risk `├── LinkNode
 │   full_match: `[HR value 0.25, (95%, CI: 0.09–0.66), P = 0.005]`
@@ -571,24 +568,24 @@ AST Structure:
 │   inner_content: ` (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `
-│   │   inner_content: ` (alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `├── TextNode
+│   │   full_match: `(alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `
+│   │   inner_content: `(alias(300,000 IU of Vitamin D before brain surgery improved survival – June 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) ~/tc~`
 │   inner_content: ` (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `
-│   │   inner_content: ` (alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `├── TextNode
+│   │   full_match: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `
+│   │   inner_content: `(alias(Large dose Vitamin D helps before 30 types of surgeries (brain in this case))) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Large dose Vitamin D helps before surgery, 35 studies)) ~/tc~`
 │   inner_content: ` (alias(Large dose Vitamin D helps before surgery, 35 studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Large dose Vitamin D helps before surgery, 35 studies)) `
-│   │   inner_content: ` (alias(Large dose Vitamin D helps before surgery, 35 studies)) `
+│   │   full_match: `(alias(Large dose Vitamin D helps before surgery, 35 studies)) `
+│   │   inner_content: `(alias(Large dose Vitamin D helps before surgery, 35 studies)) `
 
 Original Tiki:
 -------------

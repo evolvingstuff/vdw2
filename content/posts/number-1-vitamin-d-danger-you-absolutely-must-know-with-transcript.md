@@ -16,13 +16,13 @@ categories:
 
 ---
 
-### [ Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&ab_channel=Dr.StenEkberg)
+### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&ab_channel=Dr.StenEkberg)
 
 There is more to Vitamin D supplements than taking a pill. 
 
 Most Doctor's recommendations do not account for how 
 
- Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&index=1&t=0s)
+Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&index=1&t=0s)
 
 Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch?v=WRXVUxdOAUI&list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&index=1&t=0s)
 
@@ -150,9 +150,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -181,13 +181,13 @@ Markdown:
 
 ---
 
-### [ Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&amp;ab_channel=Dr.StenEkberg)
+### [Dr. Ekberg, YouTube 26 minutes](https://www.youtube.com/watch?v=oz7u92mifPI&amp;ab_channel=Dr.StenEkberg)
 
 There is more to Vitamin D supplements than taking a pill. 
 
 Most Doctor&#39;s recommendations do not account for how 
 
- Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s)
+Vitamin D Foods [https://www.youtube.com/watch?v=uyUoK...](https://www.youtube.com/watch?v=uyUoK71uATU&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s)
 
 Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://www.youtube.com/watch?v=WRXVUxdOAUI&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s)
 
@@ -315,9 +315,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -372,10 +372,10 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=oz7u92mifPI&amp;ab_channel=Dr.StenEkberg`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Dr. Ekberg, YouTube 26 minutes`
-│   │   │   inner_content: ` Dr. Ekberg, YouTube 26 minutes`├── TextNode
-│   full_match: `\nThere is more to Vitamin D supplements than taking a pill. \nMost Doctor&#39;s recommendations do not account for how \n Vitamin D Foods `
-│   inner_content: `\nThere is more to Vitamin D supplements than taking a pill. \nMost Doctor&#39;s recommendations do not account for how \n Vitamin D Foods `├── LinkNode
+│   │   │   full_match: `Dr. Ekberg, YouTube 26 minutes`
+│   │   │   inner_content: `Dr. Ekberg, YouTube 26 minutes`├── TextNode
+│   full_match: `\nThere is more to Vitamin D supplements than taking a pill. \nMost Doctor&#39;s recommendations do not account for how \nVitamin D Foods `
+│   inner_content: `\nThere is more to Vitamin D supplements than taking a pill. \nMost Doctor&#39;s recommendations do not account for how \nVitamin D Foods `├── LinkNode
 │   full_match: `[https://www.youtube.com/watch?v=uyUoK71uATU&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s|https://www.youtube.com/watch?v=uyUoK...]`
 │   inner_content: `https://www.youtube.com/watch?v=uyUoK...`
 │   url: `https://www.youtube.com/watch?v=uyUoK71uATU&amp;list=PLpTTF6wMDLR6OEJRLHPo6bLLCdT7tIRfx&amp;index=1&amp;t=0s`
@@ -464,8 +464,8 @@ AST Structure:
 │   inner_content: ` number one deficiency in the world`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` number one deficiency in the world`
-│   │   inner_content: ` number one deficiency in the world`├── TextNode
+│   │   full_match: `number one deficiency in the world`
+│   │   inner_content: `number one deficiency in the world`├── TextNode
 │   full_match: `. And not only that, but it&#39;s of critical importance and we&#39;re only just learning just how important it is. In fact, some people have said that it&#39;s a `
 │   inner_content: `. And not only that, but it&#39;s of critical importance and we&#39;re only just learning just how important it is. In fact, some people have said that it&#39;s a `├── BoldNode
 │   full_match: `__biomarker of chronic disease and frailty__`
@@ -1348,14 +1348,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;120&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!20 recently changed items in ((Books, videos on Vitamin D)) category`
@@ -1410,16 +1410,16 @@ AST Structure:
 │   inner_content: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - Nov 2023)) `
-│   │   inner_content: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - Nov 2023)) `├── TextNode
+│   │   full_match: `(alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - Nov 2023)) `
+│   │   inner_content: `(alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - Nov 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) ~/tc~`
 │   inner_content: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) `
-│   │   inner_content: ` (alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) `
+│   │   full_match: `(alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) `
+│   │   inner_content: `(alias(Number 1 Vitamin D DANGER You Absolutely Must Know! - with transcrip Nov 2023)) `
 
 Original Tiki:
 -------------

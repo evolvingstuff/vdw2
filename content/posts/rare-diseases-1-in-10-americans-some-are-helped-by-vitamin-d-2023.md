@@ -109,16 +109,16 @@ AST Structure:
 │   inner_content: ` (alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) `
-│   │   inner_content: ` (alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) `├── TextNode
+│   │   full_match: `(alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) `
+│   │   inner_content: `(alias(Rare diseaes: 1 in 10 Americans (some might be helped by Vitamin D) -  2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) ~/tc~`
 │   inner_content: ` (alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) `
-│   │   inner_content: ` (alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) `
+│   │   full_match: `(alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) `
+│   │   inner_content: `(alias(Rare diseases: 1 in 10 Americans (some are helped by Vitamin D) -  2023)) `
 
 Original Tiki:
 -------------

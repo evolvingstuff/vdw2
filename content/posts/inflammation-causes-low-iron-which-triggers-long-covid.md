@@ -233,8 +233,8 @@ AST Structure:
 │   inner_content: ` (alias(Infection causes low iron, which triggers long-COVID – April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Infection causes low iron, which triggers long-COVID – April 2024)) `
-│   │   inner_content: ` (alias(Infection causes low iron, which triggers long-COVID – April 2024)) `
+│   │   full_match: `(alias(Infection causes low iron, which triggers long-COVID – April 2024)) `
+│   │   inner_content: `(alias(Infection causes low iron, which triggers long-COVID – April 2024)) `
 
 Original Tiki:
 -------------

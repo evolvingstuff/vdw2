@@ -26,7 +26,7 @@ categories:
 
 #### Those with PD have 7X higher/lower amounts of certain gut bacteria - Nov 2022
 
- **[ Parkinson's Disease May Start in the Gut and Spread to the Brain](https://www.trialsitenews.com/a/parkinsons-disease-may-start-in-the-gut-and-spread-to-the-brain-f3c8de42) Trial Site News** 
+ **[Parkinson's Disease May Start in the Gut and Spread to the Brain](https://www.trialsitenews.com/a/parkinsons-disease-may-start-in-the-gut-and-spread-to-the-brain-f3c8de42) Trial Site News** 
 
 * "For example, the bacterial species (Bifidobacterium dentium), which is known to cause anaerobic infections such as brain abscesses, were found to be elevated seven-fold in those with Parkinson's and a 7.5-fold reduction in the bacteria such as Roseburia intestinalis which is known to be inhabitant of healthy colons (constipation is a recognized symptom of Parkinson's) was also detected
 
@@ -153,7 +153,7 @@ Markdown:
 
 #### Those with PD have 7X higher/lower amounts of certain gut bacteria - Nov 2022
 
- **[ Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain](https://www.trialsitenews.com/a/parkinsons-disease-may-start-in-the-gut-and-spread-to-the-brain-f3c8de42) Trial Site News** 
+ **[Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain](https://www.trialsitenews.com/a/parkinsons-disease-may-start-in-the-gut-and-spread-to-the-brain-f3c8de42) Trial Site News** 
 
 * &quot;For example, the bacterial species (Bifidobacterium dentium), which is known to cause anaerobic infections such as brain abscesses, were found to be elevated seven-fold in those with Parkinson&#39;s and a 7.5-fold reduction in the bacteria such as Roseburia intestinalis which is known to be inhabitant of healthy colons (constipation is a recognized symptom of Parkinson&#39;s) was also detected
 
@@ -341,8 +341,8 @@ AST Structure:
 │   │   url: `https://www.trialsitenews.com/a/parkinsons-disease-may-start-in-the-gut-and-spread-to-the-brain-f3c8de42`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain`
-│   │   │   inner_content: ` Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain`
+│   │   │   full_match: `Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain`
+│   │   │   inner_content: `Parkinson&#39;s Disease May Start in the Gut and Spread to the Brain`
 │   ├── TextNode
 │   │   full_match: ` Trial Site News`
 │   │   inner_content: ` Trial Site News`├── TextNode

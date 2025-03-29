@@ -28,17 +28,17 @@ categories:
 
 #### 6 ways which might decrease Calcium Hazards
 
-1.  Take more Magnesium - Increase the <a href="/posts/calcium-to-magnesium-ratio-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies">Magnesium/Calcium Ratio</a>
+1. Take more Magnesium - Increase the <a href="/posts/calcium-to-magnesium-ratio-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies">Magnesium/Calcium Ratio</a>
 
-1.  Use <a href="/posts/plant-based-calcium-probably-better-than-rock-based" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based">Plant-based Calcium</a>
+1. Use <a href="/posts/plant-based-calcium-probably-better-than-rock-based" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based">Plant-based Calcium</a>
 
-1.  Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
+1. Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
 
-1.  Use Calcium from processed dairy products (cheese, Yogurt)
+1. Use Calcium from processed dairy products (cheese, Yogurt)
 
-1.  if take milk, use high-fat type of milk
+1. if take milk, use high-fat type of milk
 
-1.  Drink lots of water
+1. Drink lots of water
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -62,17 +62,17 @@ Markdown:
 
 #### 6 ways which might decrease Calcium Hazards
 
-1.  Take more Magnesium - Increase the &lt;a href=&quot;/posts/calcium-to-magnesium-ratio-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcium to Magnesium Ratio - many studies&quot;&gt;Magnesium/Calcium Ratio&lt;/a&gt;
+1. Take more Magnesium - Increase the &lt;a href=&quot;/posts/calcium-to-magnesium-ratio-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcium to Magnesium Ratio - many studies&quot;&gt;Magnesium/Calcium Ratio&lt;/a&gt;
 
-1.  Use &lt;a href=&quot;/posts/plant-based-calcium-probably-better-than-rock-based&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Plant-based Calcium probably better than rock-based&quot;&gt;Plant-based Calcium&lt;/a&gt;
+1. Use &lt;a href=&quot;/posts/plant-based-calcium-probably-better-than-rock-based&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Plant-based Calcium probably better than rock-based&quot;&gt;Plant-based Calcium&lt;/a&gt;
 
-1.  Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
+1. Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
 
-1.  Use Calcium from processed dairy products (cheese, Yogurt)
+1. Use Calcium from processed dairy products (cheese, Yogurt)
 
-1.  if take milk, use high-fat type of milk
+1. if take milk, use high-fat type of milk
 
-1.  Drink lots of water
+1. Drink lots of water
 
 AST Structure:
 -------------
@@ -157,8 +157,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Take more Magnesium - Increase the `
-│   │   inner_content: ` Take more Magnesium - Increase the `
+│   │   full_match: `Take more Magnesium - Increase the `
+│   │   inner_content: `Take more Magnesium - Increase the `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio))`
 │   │   inner_content: `Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio`
@@ -174,8 +174,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Use `
-│   │   inner_content: ` Use `
+│   │   full_match: `Use `
+│   │   inner_content: `Use `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Plant-based Calcium probably better than rock-based|Plant-based Calcium))`
 │   │   inner_content: `Plant-based Calcium probably better than rock-based|Plant-based Calcium`
@@ -191,8 +191,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Increase `
-│   │   inner_content: ` Increase `
+│   │   full_match: `Increase `
+│   │   inner_content: `Increase `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues))`
 │   │   inner_content: `Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues`
@@ -208,8 +208,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Use Calcium from processed dairy products (cheese, Yogurt)`
-│   │   inner_content: ` Use Calcium from processed dairy products (cheese, Yogurt)`├── TextNode
+│   │   full_match: `Use Calcium from processed dairy products (cheese, Yogurt)`
+│   │   inner_content: `Use Calcium from processed dairy products (cheese, Yogurt)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# if take milk, use high-fat type of milk`
@@ -217,8 +217,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` if take milk, use high-fat type of milk`
-│   │   inner_content: ` if take milk, use high-fat type of milk`├── TextNode
+│   │   full_match: `if take milk, use high-fat type of milk`
+│   │   inner_content: `if take milk, use high-fat type of milk`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Drink lots of water`
@@ -226,8 +226,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Drink lots of water`
-│   │   inner_content: ` Drink lots of water`
+│   │   full_match: `Drink lots of water`
+│   │   inner_content: `Drink lots of water`
 
 Original Tiki:
 -------------

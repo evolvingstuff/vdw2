@@ -92,7 +92,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14395{SQL} -->
 </span> visits to this page
 
@@ -191,7 +191,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14395{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -577,9 +577,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14395{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14395`
@@ -595,32 +592,32 @@ AST Structure:
 │   inner_content: ` (alias(Response to monthly Vitamin D not statistically different in smokers – RCT July 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Response to monthly Vitamin D not statistically different in smokers – RCT July 2020)) `
-│   │   inner_content: ` (alias(Response to monthly Vitamin D not statistically different in smokers – RCT July 2020)) `├── TextNode
+│   │   full_match: `(alias(Response to monthly Vitamin D not statistically different in smokers – RCT July 2020)) `
+│   │   inner_content: `(alias(Response to monthly Vitamin D not statistically different in smokers – RCT July 2020)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) ~/tc~`
 │   inner_content: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
-│   │   inner_content: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `├── TextNode
+│   │   full_match: `(alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
+│   │   inner_content: `(alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) ~/tc~`
 │   inner_content: ` (alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) `
-│   │   inner_content: ` (alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) `├── TextNode
+│   │   full_match: `(alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) `
+│   │   inner_content: `(alias(Smoking does not decrease Vitamin D taken monthly – RCT July 2020)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) ~/tc~`
 │   inner_content: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
-│   │   inner_content: ` (alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
+│   │   full_match: `(alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
+│   │   inner_content: `(alias(Smoking does not decrease Vitamin D if taken monthly – RCT July 2020)) `
 
 Original Tiki:
 -------------

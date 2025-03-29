@@ -187,8 +187,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) `
-│   │   inner_content: ` (alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) `
+│   │   full_match: `(alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) `
+│   │   inner_content: `(alias(COVID 3X less likely if inhale Xyilotol (prescription) 3X per day – RCT Dec 2022)) `
 
 Original Tiki:
 -------------

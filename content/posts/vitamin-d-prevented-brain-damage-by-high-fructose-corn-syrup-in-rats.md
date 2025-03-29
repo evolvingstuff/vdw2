@@ -52,7 +52,7 @@ A diet containing HFCS leads to adverse health effects such as
 
 * contribute to the spread of obesity <sup>[7]</sup>.
 
- In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance <sup>[9]</sup>. It has also been shown to cause depression-like behavioral changes in adolescent rats with increased oxidative stress and physiological changes <sup>[10]</sup>.
+In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance <sup>[9]</sup>. It has also been shown to cause depression-like behavioral changes in adolescent rats with increased oxidative stress and physiological changes <sup>[10]</sup>.
 
 Oxidative stress has been associated with the onset or progression of various neurodegenerative disorders. In addition, oxidative stress also triggers an inflammatory response <sup>[11]</sup>. HFCS diet is linked to inflammation and oxidative stress <sup>[12]</sup>. Excessive consumption of HFCS and sugar during adolescence, a critical period of development, is associated with cognitive impairment, learning and memory disorders, anxiety and depression <sup>[13]</sup>, <sup>[14]</sup>.
 
@@ -90,7 +90,7 @@ oxidative stress,
 
 * neurobehavioral,
 
-*  histological and immunological abnormalities, and 
+* histological and immunological abnormalities, and 
 
 * memory deficits in adolescent rats, 
 
@@ -297,7 +297,7 @@ A diet containing HFCS leads to adverse health effects such as
 
 * contribute to the spread of obesity &lt;sup&gt;[7]&lt;/sup&gt;.
 
- In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance &lt;sup&gt;[9]&lt;/sup&gt;. It has also been shown to cause depression-like behavioral changes in adolescent rats with increased oxidative stress and physiological changes &lt;sup&gt;[10]&lt;/sup&gt;.
+In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance &lt;sup&gt;[9]&lt;/sup&gt;. It has also been shown to cause depression-like behavioral changes in adolescent rats with increased oxidative stress and physiological changes &lt;sup&gt;[10]&lt;/sup&gt;.
 
 Oxidative stress has been associated with the onset or progression of various neurodegenerative disorders. In addition, oxidative stress also triggers an inflammatory response &lt;sup&gt;[11]&lt;/sup&gt;. HFCS diet is linked to inflammation and oxidative stress &lt;sup&gt;[12]&lt;/sup&gt;. Excessive consumption of HFCS and sugar during adolescence, a critical period of development, is associated with cognitive impairment, learning and memory disorders, anxiety and depression &lt;sup&gt;[13]&lt;/sup&gt;, &lt;sup&gt;[14]&lt;/sup&gt;.
 
@@ -335,7 +335,7 @@ oxidative stress,
 
 * neurobehavioral,
 
-*  histological and immunological abnormalities, and 
+* histological and immunological abnormalities, and 
 
 * memory deficits in adolescent rats, 
 
@@ -653,8 +653,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `.`
 │   │   inner_content: `.`├── TextNode
-│   full_match: `\n In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance `
-│   inner_content: `\n In addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance `├── LinkNode
+│   full_match: `\nIn addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance `
+│   inner_content: `\nIn addition, in a study conducted on adolescents, it was pointed out that HFCS may cause detrimental health outcomes such as elevated plasma triglycerides and insulin resistance `├── LinkNode
 │   full_match: `[9]`
 │   inner_content: `9`
 │   url: `9`
@@ -794,8 +794,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` histological and immunological abnormalities, and `
-│   │   inner_content: ` histological and immunological abnormalities, and `├── TextNode
+│   │   full_match: `histological and immunological abnormalities, and `
+│   │   inner_content: `histological and immunological abnormalities, and `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*memory deficits in adolescent rats, `

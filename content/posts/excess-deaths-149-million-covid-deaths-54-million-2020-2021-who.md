@@ -143,8 +143,8 @@ AST Structure:
 │   inner_content: ` (alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) `
-│   │   inner_content: ` (alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) `
+│   │   full_match: `(alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) `
+│   │   inner_content: `(alias(Excess deaths 14.9 million, COVID Deaths 5.4 million ( (2020-2021) - WHO May 2023)) `
 
 Original Tiki:
 -------------

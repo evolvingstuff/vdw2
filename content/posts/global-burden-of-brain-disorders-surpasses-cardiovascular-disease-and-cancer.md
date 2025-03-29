@@ -146,7 +146,7 @@ There are many positive observational studies of Vitamin D and ADHD
 
 ADHD shares risk factors with Autism and many other diseases:
 
-   Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)
+Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)
 
 ADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc
 
@@ -312,7 +312,7 @@ There are many positive observational studies of Vitamin D and ADHD
 
 ADHD shares risk factors with Autism and many other diseases:
 
-   Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)
+Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)
 
 ADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc
 
@@ -720,8 +720,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder`
 │   │   │   inner_content: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder`├── TextNode
-│   full_match: `\nADHD and Vitamin D Deficiency category listing has 44 items\nADHD children have much lower levels of vitamin D\nADHD is more likely if low vitamin D in early pregnancy\nLess sun is associated with more ADHD (season and latitude)\nThe ADHD rate has increased a lot in the past few decades - especially for adults\nVitamin D levels have dropped a lot in the past few decades\nThere are many positive observational studies of Vitamin D and ADHD\nADHD shares risk factors with Autism and many other diseases:\n   Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)\nADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc`
-│   inner_content: `\nADHD and Vitamin D Deficiency category listing has 44 items\nADHD children have much lower levels of vitamin D\nADHD is more likely if low vitamin D in early pregnancy\nLess sun is associated with more ADHD (season and latitude)\nThe ADHD rate has increased a lot in the past few decades - especially for adults\nVitamin D levels have dropped a lot in the past few decades\nThere are many positive observational studies of Vitamin D and ADHD\nADHD shares risk factors with Autism and many other diseases:\n   Low Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)\nADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc`├── HorizontalRuleNode
+│   full_match: `\nADHD and Vitamin D Deficiency category listing has 44 items\nADHD children have much lower levels of vitamin D\nADHD is more likely if low vitamin D in early pregnancy\nLess sun is associated with more ADHD (season and latitude)\nThe ADHD rate has increased a lot in the past few decades - especially for adults\nVitamin D levels have dropped a lot in the past few decades\nThere are many positive observational studies of Vitamin D and ADHD\nADHD shares risk factors with Autism and many other diseases:\nLow Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)\nADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc`
+│   inner_content: `\nADHD and Vitamin D Deficiency category listing has 44 items\nADHD children have much lower levels of vitamin D\nADHD is more likely if low vitamin D in early pregnancy\nLess sun is associated with more ADHD (season and latitude)\nThe ADHD rate has increased a lot in the past few decades - especially for adults\nVitamin D levels have dropped a lot in the past few decades\nThere are many positive observational studies of Vitamin D and ADHD\nADHD shares risk factors with Autism and many other diseases:\nLow Vitamin D, Low Omega-3, Low Magnesium, Low UVB (= high latitude or winter)\nADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!VitaminDWiki - ((ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items))`

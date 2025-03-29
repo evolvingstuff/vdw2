@@ -33,7 +33,7 @@ Results: A total of 332 different drugs were discontinued in 119 patients (avera
 
 * but only 21% in the study group (P < 0.001, chi-square test).
 
- The patients' annual  **referral rate to acute care facilities**  was
+The patients' annual  **referral rate to acute care facilities**  was
 
 * 30% in the control group but only 
 
@@ -96,7 +96,7 @@ Results: A total of 332 different drugs were discontinued in 119 patients (avera
 
 * but only 21% in the study group (P &lt; 0.001, chi-square test).
 
- The patients&#39; annual  **referral rate to acute care facilities**  was
+The patients&#39; annual  **referral rate to acute care facilities**  was
 
 * 30% in the control group but only 
 
@@ -174,8 +174,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `but only 21% in the study group (P &lt; 0.001, chi-square test).`
 │   │   inner_content: `but only 21% in the study group (P &lt; 0.001, chi-square test).`├── TextNode
-│   full_match: `\n The patients&#39; annual `
-│   inner_content: `\n The patients&#39; annual `├── BoldNode
+│   full_match: `\nThe patients&#39; annual `
+│   inner_content: `\nThe patients&#39; annual `├── BoldNode
 │   full_match: `__referral rate to acute care facilities__`
 │   inner_content: `referral rate to acute care facilities`
 │   children:

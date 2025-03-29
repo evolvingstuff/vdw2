@@ -17,7 +17,7 @@ categories:
 
 #### 1. 1 Selling Drug in the World: 27 Billion Dollars - Dr. Berg
 
- **[ 5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&ab_channel=Dr.EricBergDC)** 
+ **[5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&ab_channel=Dr.EricBergDC)** 
 
 0:00 Introduction: The number 1 selling drug in the world
 
@@ -36,8 +36,6 @@ Keytruda helps your immune system find and kill cancer cells. Keytruda is also u
 Keytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.
 
 Immunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.
-
- 
 
 There are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.
 
@@ -128,7 +126,7 @@ Markdown:
 
 #### 1. 1 Selling Drug in the World: 27 Billion Dollars - Dr. Berg
 
- **[ 5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&amp;ab_channel=Dr.EricBergDC)** 
+ **[5 minute video](https://www.youtube.com/watch?v=QKeCwKDdWyM&amp;ab_channel=Dr.EricBergDC)** 
 
 0:00 Introduction: The number 1 selling drug in the world
 
@@ -147,8 +145,6 @@ Keytruda helps your immune system find and kill cancer cells. Keytruda is also u
 Keytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.
 
 Immunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.
-
- 
 
 There are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.
 
@@ -268,10 +264,10 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=QKeCwKDdWyM&amp;ab_channel=Dr.EricBergDC`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 5 minute video`
-│   │   │   inner_content: ` 5 minute video`├── TextNode
-│   full_match: `\n0:00 Introduction: The number 1 selling drug in the world\n0:35 Cancer drugs \n1:09 What is Keytruda?\n1:56 Immunomodulators and their side effects \n3:12 Natural immunomodulators\n\nIn this video, we’re going to talk about the best-selling drug in the world: Keytruda.\n\nKeytruda helps your immune system find and kill cancer cells. Keytruda is also used for autoimmune diseases and certain infections. Unlike chemotherapy, Keytruda helps kill cancer cells without killing your immune system.  \n\nKeytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.\n\nImmunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.\n \nThere are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.\n\nThe following are natural immunomodulators:\n• Astragalus \n• Reishi mushrooms and other types of mushrooms\n• `
-│   inner_content: `\n0:00 Introduction: The number 1 selling drug in the world\n0:35 Cancer drugs \n1:09 What is Keytruda?\n1:56 Immunomodulators and their side effects \n3:12 Natural immunomodulators\n\nIn this video, we’re going to talk about the best-selling drug in the world: Keytruda.\n\nKeytruda helps your immune system find and kill cancer cells. Keytruda is also used for autoimmune diseases and certain infections. Unlike chemotherapy, Keytruda helps kill cancer cells without killing your immune system.  \n\nKeytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.\n\nImmunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.\n \nThere are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.\n\nThe following are natural immunomodulators:\n• Astragalus \n• Reishi mushrooms and other types of mushrooms\n• `├── BoldNode
+│   │   │   full_match: `5 minute video`
+│   │   │   inner_content: `5 minute video`├── TextNode
+│   full_match: `\n0:00 Introduction: The number 1 selling drug in the world\n0:35 Cancer drugs \n1:09 What is Keytruda?\n1:56 Immunomodulators and their side effects \n3:12 Natural immunomodulators\n\nIn this video, we’re going to talk about the best-selling drug in the world: Keytruda.\n\nKeytruda helps your immune system find and kill cancer cells. Keytruda is also used for autoimmune diseases and certain infections. Unlike chemotherapy, Keytruda helps kill cancer cells without killing your immune system.  \n\nKeytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.\n\nImmunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.\n\nThere are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.\n\nThe following are natural immunomodulators:\n• Astragalus \n• Reishi mushrooms and other types of mushrooms\n• `
+│   inner_content: `\n0:00 Introduction: The number 1 selling drug in the world\n0:35 Cancer drugs \n1:09 What is Keytruda?\n1:56 Immunomodulators and their side effects \n3:12 Natural immunomodulators\n\nIn this video, we’re going to talk about the best-selling drug in the world: Keytruda.\n\nKeytruda helps your immune system find and kill cancer cells. Keytruda is also used for autoimmune diseases and certain infections. Unlike chemotherapy, Keytruda helps kill cancer cells without killing your immune system.  \n\nKeytruda works through immunomodulation. Immunomodulators increase, decrease, or block your immune system.\n\nImmunomodulator drugs have many side effects and don’t work on all types of cancer. Some cancers can become resistant to immunotherapy and stronger with treatment, a phenomenon similar to antibiotic resistance. Immunomodulator drugs don’t target the fuel for cancer or the raw materials necessary to build cancer cells.\n\nThere are many natural immunomodulators. In fact, drug companies use research on plant chemicals to develop over 50% of medications.\n\nThe following are natural immunomodulators:\n• Astragalus \n• Reishi mushrooms and other types of mushrooms\n• `├── BoldNode
 │   full_match: `__Vitamin D__`
 │   inner_content: `Vitamin D`
 │   children:
@@ -397,8 +393,8 @@ AST Structure:
 │   │   inner_content: ` This suggests that vitamin D supplementation could be beneficial for patients undergoing anti-PD-1 immunotherapy, such as Keytruda/`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` This suggests that vitamin D supplementation could be beneficial for patients undergoing anti-PD-1 immunotherapy, such as Keytruda/`
-│   │   │   inner_content: ` This suggests that vitamin D supplementation could be beneficial for patients undergoing anti-PD-1 immunotherapy, such as Keytruda/`├── TextNode
+│   │   │   full_match: `This suggests that vitamin D supplementation could be beneficial for patients undergoing anti-PD-1 immunotherapy, such as Keytruda/`
+│   │   │   inner_content: `This suggests that vitamin D supplementation could be beneficial for patients undergoing anti-PD-1 immunotherapy, such as Keytruda/`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Prevention of Immunotherapy-Induced Colitis: Vitamin D supplementation may help prevent a common side effect of anti-cancer immunotherapy, specifically immune checkpoint inhibitor-induced colitis. __Studies have shown that patients who took vitamin D supplements had significantly lower odds of developing colitis, a severe adverse event associated with treatments like Keytruda__`

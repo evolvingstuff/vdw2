@@ -14,7 +14,7 @@ categories:
 
 #### Association of Hypovitaminosis D with Sleep Parameters in Rotating Shift Worker Drivers
 
- Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748
+Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748
 
 Luiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do 
 
@@ -60,7 +60,7 @@ Markdown:
 
 #### Association of Hypovitaminosis D with Sleep Parameters in Rotating Shift Worker Drivers
 
- Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748
+Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748
 
 Luiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do 
 
@@ -109,8 +109,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Association of Hypovitaminosis D with Sleep Parameters in Rotating Shift Worker Drivers`
 │   │   inner_content: `Association of Hypovitaminosis D with Sleep Parameters in Rotating Shift Worker Drivers`├── TextNode
-│   full_match: `\n Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748\n\nLuiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do \nNascimento Neto , Sílvia Nascimento de Freitas , Fernando Luiz Pereira Oliveira , Fausto Aloísio Pedrosa Pimenta , George Luiz Lins Machado-Coelho , Adriana Lúcia Meireles\n\nObjective To evaluate the association between sleep parameters and hypovitaminosis D in rotating shift drivers.\n\nMaterial and Methods We conducted a cross-sectional study on 82 male rotating shift workers (24–57 years old) with at least one cardiovascular risk factor (such as hyperglycemia, dyslipidemia, abdominal obesity, physical inactivity, hypertension, and smoking). Polysomnography was used to evaluate sleep parameters. Logistic regression was used to model the association between hypovitaminosis D and sleep parameters after adjustment for relevant covariates.\n\nResults Hypovitaminosis D (&lt; 20 ng/mL) was seen in 30.5% of the workers.\nShift workers with hypovitaminosis D had \n`
-│   inner_content: `\n Sleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748\n\nLuiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do \nNascimento Neto , Sílvia Nascimento de Freitas , Fernando Luiz Pereira Oliveira , Fausto Aloísio Pedrosa Pimenta , George Luiz Lins Machado-Coelho , Adriana Lúcia Meireles\n\nObjective To evaluate the association between sleep parameters and hypovitaminosis D in rotating shift drivers.\n\nMaterial and Methods We conducted a cross-sectional study on 82 male rotating shift workers (24–57 years old) with at least one cardiovascular risk factor (such as hyperglycemia, dyslipidemia, abdominal obesity, physical inactivity, hypertension, and smoking). Polysomnography was used to evaluate sleep parameters. Logistic regression was used to model the association between hypovitaminosis D and sleep parameters after adjustment for relevant covariates.\n\nResults Hypovitaminosis D (&lt; 20 ng/mL) was seen in 30.5% of the workers.\nShift workers with hypovitaminosis D had \n`├── ListItemNode
+│   full_match: `\nSleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748\n\nLuiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do \nNascimento Neto , Sílvia Nascimento de Freitas , Fernando Luiz Pereira Oliveira , Fausto Aloísio Pedrosa Pimenta , George Luiz Lins Machado-Coelho , Adriana Lúcia Meireles\n\nObjective To evaluate the association between sleep parameters and hypovitaminosis D in rotating shift drivers.\n\nMaterial and Methods We conducted a cross-sectional study on 82 male rotating shift workers (24–57 years old) with at least one cardiovascular risk factor (such as hyperglycemia, dyslipidemia, abdominal obesity, physical inactivity, hypertension, and smoking). Polysomnography was used to evaluate sleep parameters. Logistic regression was used to model the association between hypovitaminosis D and sleep parameters after adjustment for relevant covariates.\n\nResults Hypovitaminosis D (&lt; 20 ng/mL) was seen in 30.5% of the workers.\nShift workers with hypovitaminosis D had \n`
+│   inner_content: `\nSleep Sci 2023; 16(01): 084-091 DOI: 10.1055/s-0043-1767748\n\nLuiz Antônio Alves de Menezes-Júnior , Virgínia Capistrano Fajardo , Raimundo Marques do \nNascimento Neto , Sílvia Nascimento de Freitas , Fernando Luiz Pereira Oliveira , Fausto Aloísio Pedrosa Pimenta , George Luiz Lins Machado-Coelho , Adriana Lúcia Meireles\n\nObjective To evaluate the association between sleep parameters and hypovitaminosis D in rotating shift drivers.\n\nMaterial and Methods We conducted a cross-sectional study on 82 male rotating shift workers (24–57 years old) with at least one cardiovascular risk factor (such as hyperglycemia, dyslipidemia, abdominal obesity, physical inactivity, hypertension, and smoking). Polysomnography was used to evaluate sleep parameters. Logistic regression was used to model the association between hypovitaminosis D and sleep parameters after adjustment for relevant covariates.\n\nResults Hypovitaminosis D (&lt; 20 ng/mL) was seen in 30.5% of the workers.\nShift workers with hypovitaminosis D had \n`├── ListItemNode
 │   full_match: `*lower sleep efficiency (odds ratio [OR]: 3.68; 95% confidence interval [CI]: 1.95–5.53),`
 │   inner_content: `lower sleep efficiency (odds ratio [OR]: 3.68; 95% confidence interval [CI]: 1.95–5.53),`
 │   depth: `1`
@@ -271,8 +271,8 @@ AST Structure:
 │   inner_content: ` (alias(Rotating shift workers have sleep problems and low vitamin D - April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Rotating shift workers have sleep problems and low vitamin D - April 2023)) `
-│   │   inner_content: ` (alias(Rotating shift workers have sleep problems and low vitamin D - April 2023)) `
+│   │   full_match: `(alias(Rotating shift workers have sleep problems and low vitamin D - April 2023)) `
+│   │   inner_content: `(alias(Rotating shift workers have sleep problems and low vitamin D - April 2023)) `
 
 Original Tiki:
 -------------

@@ -19,13 +19,13 @@ categories:
 
  **Some questions in #1** 
 
-1.  Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?
+1. Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?
 
-1.  Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?
+1. Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?
 
-1.  What about justice for the un-jabbed who chose not to expose themselves to known & possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a "consequence" of this "choice"?
+1. What about justice for the un-jabbed who chose not to expose themselves to known & possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a "consequence" of this "choice"?
 
-1.  Given the massive Covid-19 waves post mass administration of vaccines, and thousands who've been compensated for vaccine injury, has there been a tremendous toll on life, limb & tax payer's money? What would've the impact been in the absence of any vaccination campaign?
+1. Given the massive Covid-19 waves post mass administration of vaccines, and thousands who've been compensated for vaccine injury, has there been a tremendous toll on life, limb & tax payer's money? What would've the impact been in the absence of any vaccination campaign?
 
 ---
 
@@ -73,13 +73,13 @@ Markdown:
 
  **Some questions in #1** 
 
-1.  Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?
+1. Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?
 
-1.  Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?
+1. Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?
 
-1.  What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?
+1. What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?
 
-1.  Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?
+1. Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?
 
 ---
 
@@ -179,8 +179,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?`
-│   │   inner_content: ` Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?`├── TextNode
+│   │   full_match: `Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?`
+│   │   inner_content: `Does it make sense to have a compensation system, from the tax-payer to the tax-payer, for harms caused by a product produced by a profit making private entity?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?`
@@ -188,8 +188,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?`
-│   │   inner_content: ` Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?`├── TextNode
+│   │   full_match: `Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?`
+│   │   inner_content: `Is financial compensation a just response to post-vaccination adverse events if proper informed consent was never disseminated, and people were misinformed, misled or even coerced to get jabbed?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?`
@@ -197,8 +197,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?`
-│   │   inner_content: ` What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?`├── TextNode
+│   │   full_match: `What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?`
+│   │   inner_content: `What about justice for the un-jabbed who chose not to expose themselves to known &amp; possibly unknown adverse effects of a novel medical product, and were unfairly discriminated against as a &quot;consequence&quot; of this &quot;choice&quot;?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?`
@@ -206,8 +206,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?`
-│   │   inner_content: ` Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?`├── HorizontalRuleNode
+│   │   full_match: `Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?`
+│   │   inner_content: `Given the massive Covid-19 waves post mass administration of vaccines, and thousands who&#39;ve been compensated for vaccine injury, has there been a tremendous toll on life, limb &amp; tax payer&#39;s money? What would&#39;ve the impact been in the absence of any vaccination campaign?`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!10 of the vaccine problem studies in VitaminDWiki`
@@ -380,16 +380,16 @@ AST Structure:
 │   inner_content: ` (alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
-│   │   inner_content: ` (alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `├── TextNode
+│   │   full_match: `(alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
+│   │   inner_content: `(alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) ~/tc~`
 │   inner_content: ` (alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
-│   │   inner_content: ` (alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
+│   │   full_match: `(alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
+│   │   inner_content: `(alias(All deaths within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) `
 
 Original Tiki:
 -------------

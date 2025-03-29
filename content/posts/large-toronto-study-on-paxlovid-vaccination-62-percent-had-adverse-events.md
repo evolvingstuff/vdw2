@@ -112,8 +112,8 @@ AST Structure:
 │   inner_content: ` (alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) `
-│   │   inner_content: ` (alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) `
+│   │   full_match: `(alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) `
+│   │   inner_content: `(alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) `
 
 Original Tiki:
 -------------

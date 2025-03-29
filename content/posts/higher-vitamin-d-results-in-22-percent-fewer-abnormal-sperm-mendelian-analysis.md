@@ -154,16 +154,16 @@ AST Structure:
 │   inner_content: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – April 2024)) `
-│   │   inner_content: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – April 2024)) `├── TextNode
+│   │   full_match: `(alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – April 2024)) `
+│   │   inner_content: `(alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – April 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) ~/tc~`
 │   inner_content: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) `
-│   │   inner_content: ` (alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) `
+│   │   full_match: `(alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) `
+│   │   inner_content: `(alias(Higher vitamin D results in 22% fewer abnormal sperm  (Mendelian analysis) – May 2024)) `
 
 Original Tiki:
 -------------

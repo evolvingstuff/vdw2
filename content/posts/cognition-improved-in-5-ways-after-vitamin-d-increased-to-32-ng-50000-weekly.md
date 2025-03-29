@@ -36,11 +36,11 @@ Results: Mean age was 63 ± 6.7 years and baseline vitamin D level was 7.8 ± 2.
 
 1. perseveration scores of the Verbal Memory Processes Test (P = 0.005),
 
-1.  topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
+1. topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
 
 1. spontaneous self-correction of an error in the Boston Naming Test (P = 0.003)
 
- scores increased significantly, while the 
+scores increased significantly, while the 
 
 * delayed recall score in the Verbal Memory Processes Test (P = 0.03), 
 
@@ -192,11 +192,11 @@ Results: Mean age was 63 ± 6.7 years and baseline vitamin D level was 7.8 ± 2.
 
 1. perseveration scores of the Verbal Memory Processes Test (P = 0.005),
 
-1.  topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
+1. topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
 
 1. spontaneous self-correction of an error in the Boston Naming Test (P = 0.003)
 
- scores increased significantly, while the 
+scores increased significantly, while the 
 
 * delayed recall score in the Verbal Memory Processes Test (P = 0.03), 
 
@@ -407,8 +407,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `
-│   │   inner_content: ` topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `├── TextNode
+│   │   full_match: `topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `
+│   │   inner_content: `topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#spontaneous self-correction of an error in the Boston Naming Test (P = 0.003)`
@@ -418,8 +418,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `spontaneous self-correction of an error in the Boston Naming Test (P = 0.003)`
 │   │   inner_content: `spontaneous self-correction of an error in the Boston Naming Test (P = 0.003)`├── TextNode
-│   full_match: `\n scores increased significantly, while the \n`
-│   inner_content: `\n scores increased significantly, while the \n`├── ListItemNode
+│   full_match: `\nscores increased significantly, while the \n`
+│   inner_content: `\nscores increased significantly, while the \n`├── ListItemNode
 │   full_match: `*delayed recall score in the Verbal Memory Processes Test (P = 0.03), `
 │   inner_content: `delayed recall score in the Verbal Memory Processes Test (P = 0.03), `
 │   depth: `1`

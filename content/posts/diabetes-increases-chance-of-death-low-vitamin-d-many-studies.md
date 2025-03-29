@@ -160,8 +160,8 @@ AST Structure:
 │   inner_content: ` (alias(Diabetes increases chance of death (low vitamin D))) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Diabetes increases chance of death (low vitamin D))) `
-│   │   inner_content: ` (alias(Diabetes increases chance of death (low vitamin D))) `
+│   │   full_match: `(alias(Diabetes increases chance of death (low vitamin D))) `
+│   │   inner_content: `(alias(Diabetes increases chance of death (low vitamin D))) `
 
 Original Tiki:
 -------------

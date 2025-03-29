@@ -275,8 +275,8 @@ AST Structure:
 │   inner_content: ` (alias(79% increase in early-onset cancer in 30 years - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(79% increase in early-onset cancer in 30 years - Sept 2023)) `
-│   │   inner_content: ` (alias(79% increase in early-onset cancer in 30 years - Sept 2023)) `
+│   │   full_match: `(alias(79% increase in early-onset cancer in 30 years - Sept 2023)) `
+│   │   inner_content: `(alias(79% increase in early-onset cancer in 30 years - Sept 2023)) `
 
 Original Tiki:
 -------------

@@ -172,24 +172,24 @@ AST Structure:
 │   inner_content: ` (alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) `
-│   │   inner_content: ` (alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) `├── TextNode
+│   │   full_match: `(alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) `
+│   │   inner_content: `(alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) ~/tc~`
 │   inner_content: ` (alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) `
-│   │   inner_content: ` (alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) `├── TextNode
+│   │   full_match: `(alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) `
+│   │   inner_content: `(alias(Benign Cancers of a portion of the Brain increased 4X after vaccines were available - March 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) ~/tc~`
 │   inner_content: ` (alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) `
-│   │   inner_content: ` (alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) `
+│   │   full_match: `(alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) `
+│   │   inner_content: `(alias(Benign Cancers of a portion of the Brain increased 1.8 X after vaccines were available - March 2024)) `
 
 Original Tiki:
 -------------

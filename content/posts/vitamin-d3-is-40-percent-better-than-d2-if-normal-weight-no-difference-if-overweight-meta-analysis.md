@@ -60,7 +60,7 @@ Previous meta-analyses suggest that vitamin D3 may be more potent in increasing 
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14770{SQL} -->
 </span> visits to this page
 
@@ -120,7 +120,7 @@ Previous meta-analyses suggest that vitamin D3 may be more potent in increasing 
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14770{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -282,9 +282,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14770{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14770`
@@ -300,8 +297,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) `
-│   │   inner_content: ` (alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) `
+│   │   full_match: `(alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) `
+│   │   inner_content: `(alias(Vitamin D3 is 40% better than D2 if normal weight, no difference if overweight –  October 2023)) `
 
 Original Tiki:
 -------------

@@ -308,16 +308,16 @@ AST Structure:
 │   inner_content: ` (alias(High-dose vitamin D for obese children reduces inflammation and and insuline resistance - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(High-dose vitamin D for obese children reduces inflammation and and insuline resistance - Dec 2023)) `
-│   │   inner_content: ` (alias(High-dose vitamin D for obese children reduces inflammation and and insuline resistance - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(High-dose vitamin D for obese children reduces inflammation and and insuline resistance - Dec 2023)) `
+│   │   inner_content: `(alias(High-dose vitamin D for obese children reduces inflammation and and insuline resistance - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) `
-│   │   inner_content: ` (alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) `
+│   │   full_match: `(alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) `
+│   │   inner_content: `(alias(High-dose Vitamin D reduced inflammation and insuline resistance (obese children) - Dec 2023)) `
 
 Original Tiki:
 -------------

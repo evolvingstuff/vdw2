@@ -1346,8 +1346,8 @@ AST Structure:
 │   │   inner_content: ` Sometimes a drug reduces Vitamin D levels in the blood%%%Scores of times Vitamin D will improve the a drug efficacy%%%~~#F06:Warning:~~ ((Chemotherapy might be amplified by vitamin D)) and become deadly%%%In rare cases Vitamin D reduces the benefit of a drug`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Sometimes a drug reduces Vitamin D levels in the blood`
-│   │   │   inner_content: ` Sometimes a drug reduces Vitamin D levels in the blood`
+│   │   │   full_match: `Sometimes a drug reduces Vitamin D levels in the blood`
+│   │   │   inner_content: `Sometimes a drug reduces Vitamin D levels in the blood`
 │   │   ├── NewlineNode
 │   │   │   full_match: `%%%`
 │   │   │   inner_content: ``

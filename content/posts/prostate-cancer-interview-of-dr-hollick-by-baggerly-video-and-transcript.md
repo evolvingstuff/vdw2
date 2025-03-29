@@ -294,7 +294,7 @@ More recently:
 
 1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains
 
- "PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. "
+"PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. "
 
 2) [Preventive Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)
 
@@ -310,9 +310,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -330,9 +330,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -351,9 +351,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -371,9 +371,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -381,7 +381,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14981{SQL} -->
 </span> visits to this page
 
@@ -676,7 +676,7 @@ More recently:
 
 1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains
 
- &quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;
+&quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;
 
 2) [Preventive Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)
 
@@ -692,9 +692,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -712,9 +712,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -733,9 +733,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -753,9 +753,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -763,7 +763,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14981{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -956,48 +956,48 @@ AST Structure:
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: ` Well, what&#39;s going on here is that often by this time men can have respiratory issues, they may have more serious complications from the surgery than what the surgery is worth.\n0:10:54.0 Carol: Oh okay.\n0:10:54.6 `
 │   inner_content: ` Well, what&#39;s going on here is that often by this time men can have respiratory issues, they may have more serious complications from the surgery than what the surgery is worth.\n0:10:54.0 Carol: Oh okay.\n0:10:54.6 `├── BoldNode
 │   full_match: `__ MH:__`
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: `  And so and that they have a much harder time recovering. And they have severe incontinence and a lot of other issues including severe erectile dysfunction. So as a result typically they don&#39;t do surgery after 70 years but they were willing to do it for me. And then I met my oncologist. And what was really amazing and she was my good friend at Boston Medical Center, as soon as I entered her office she looks at me and she says, &quot;Holick, this is curable.&quot; Now I was pretty sure that it&#39;s not, okay? But to hear that was just such a relief, right? And then I met and then I went over to Dana-Farber because I was a Boston medical center doc so it was probably not appropriate to be at my medical center. And I went to Dana-Farber which is a superb cancer center. And Alicia Morgans is my oncologist. And it turns out that she&#39;s published in this area.\n0:12:04.3 `
 │   inner_content: `  And so and that they have a much harder time recovering. And they have severe incontinence and a lot of other issues including severe erectile dysfunction. So as a result typically they don&#39;t do surgery after 70 years but they were willing to do it for me. And then I met my oncologist. And what was really amazing and she was my good friend at Boston Medical Center, as soon as I entered her office she looks at me and she says, &quot;Holick, this is curable.&quot; Now I was pretty sure that it&#39;s not, okay? But to hear that was just such a relief, right? And then I met and then I went over to Dana-Farber because I was a Boston medical center doc so it was probably not appropriate to be at my medical center. And I went to Dana-Farber which is a superb cancer center. And Alicia Morgans is my oncologist. And it turns out that she&#39;s published in this area.\n0:12:04.3 `├── BoldNode
 │   full_match: `__ MH:__`
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: `  And she of course provided me with all the literature on what the consequences are of the surgery when you have stage three and the medication that you&#39;re gonna be on. I already knew that since it was not contained within my prostate, if they took my prostate out, I&#39;m still gonna have cancer in the nerve bundle and maybe in my lymph nodes. So even if they took it out, I would still have to get radiation therapy and chemotherapy. So I decided that to me what made the most sense is to go the route of having androgen deprivation therapy which I&#39;ll explain in a minute along with radiation therapy and then what we call brachytherapy. B-R-A-C-H-Y therapy. And I&#39;ll explain in a minute a little bit about this. And by the way for your listeners if you want more information on my Facebook just Dr. Michael Holick. I&#39;m now sharing my journey from the day I received this diagnosis and how I&#39;ve been dealing with all of the issues.\n0:13:19.8 `
 │   inner_content: `  And she of course provided me with all the literature on what the consequences are of the surgery when you have stage three and the medication that you&#39;re gonna be on. I already knew that since it was not contained within my prostate, if they took my prostate out, I&#39;m still gonna have cancer in the nerve bundle and maybe in my lymph nodes. So even if they took it out, I would still have to get radiation therapy and chemotherapy. So I decided that to me what made the most sense is to go the route of having androgen deprivation therapy which I&#39;ll explain in a minute along with radiation therapy and then what we call brachytherapy. B-R-A-C-H-Y therapy. And I&#39;ll explain in a minute a little bit about this. And by the way for your listeners if you want more information on my Facebook just Dr. Michael Holick. I&#39;m now sharing my journey from the day I received this diagnosis and how I&#39;ve been dealing with all of the issues.\n0:13:19.8 `├── BoldNode
 │   full_match: `__ MH:__`
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: ` And so I&#39;m right now at the chapter 15 and chapter 16 will be on probably by tomorrow. And so I knew I&#39;m in trouble because I knew that what&#39;s gonna happen is they&#39;re gonna put me on medications that prevent me from making testosterone. And my oncologist told me and I knew what the consequence was because I had seen a lot of men with prostate cancer to help them for their bone health which we can talk about a little while later and what the consequences are of having no testosterone. Because I&#39;m an endocrinologist. I saw a lot of men with hypogonadism, right? Low testosterone. Well, when you have no testosterone your muscles begin to just become flabby. You become very kind of weak. You wind up becoming listless, meaning that you really just get up in the morning and you really don&#39;t wanna do anything.\n0:14:21.6 `
 │   inner_content: ` And so I&#39;m right now at the chapter 15 and chapter 16 will be on probably by tomorrow. And so I knew I&#39;m in trouble because I knew that what&#39;s gonna happen is they&#39;re gonna put me on medications that prevent me from making testosterone. And my oncologist told me and I knew what the consequence was because I had seen a lot of men with prostate cancer to help them for their bone health which we can talk about a little while later and what the consequences are of having no testosterone. Because I&#39;m an endocrinologist. I saw a lot of men with hypogonadism, right? Low testosterone. Well, when you have no testosterone your muscles begin to just become flabby. You become very kind of weak. You wind up becoming listless, meaning that you really just get up in the morning and you really don&#39;t wanna do anything.\n0:14:21.6 `├── BoldNode
 │   full_match: `__ MH:__`
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: ` You wanna become a couch potato. Basically it changes your body habitus so that you wind up with a big fat belly. You wind up with gynecomastia, so that you actually develop breast. But for a male there&#39;s something else that happens which is absolutely devastating. And I was told this but I already knew the answer which was, &quot;Holick, when you&#39;re on androgen deprivation therapy,&quot; meaning you have no ability to make testosterone or androgens in your adrenal glands and I&#39;ll explain some of the medications for this in a minute is that your testes will become pea-sized by the time you complete your treatment. No male wants to hear that. And that there&#39;s a good chance that your penis is gonna shrink in size. Again not something any male wants to hear about and of course severe erectile dysfunction. So January 1, 2022 as I&#39;m gonna be seeing my oncologist in two weeks I immediately start to intervene. &#39;Cause when you have no testosterone you don&#39;t just wake up one day fat and flabby, right? That happens over time. And so I decided to intervene and I intervened by making my New Year&#39;s resolution for 2023 is to walk five miles every day and to increase my personal training, weight training, from once a week to twice a week.\n0:16:11.9 `
 │   inner_content: ` You wanna become a couch potato. Basically it changes your body habitus so that you wind up with a big fat belly. You wind up with gynecomastia, so that you actually develop breast. But for a male there&#39;s something else that happens which is absolutely devastating. And I was told this but I already knew the answer which was, &quot;Holick, when you&#39;re on androgen deprivation therapy,&quot; meaning you have no ability to make testosterone or androgens in your adrenal glands and I&#39;ll explain some of the medications for this in a minute is that your testes will become pea-sized by the time you complete your treatment. No male wants to hear that. And that there&#39;s a good chance that your penis is gonna shrink in size. Again not something any male wants to hear about and of course severe erectile dysfunction. So January 1, 2022 as I&#39;m gonna be seeing my oncologist in two weeks I immediately start to intervene. &#39;Cause when you have no testosterone you don&#39;t just wake up one day fat and flabby, right? That happens over time. And so I decided to intervene and I intervened by making my New Year&#39;s resolution for 2023 is to walk five miles every day and to increase my personal training, weight training, from once a week to twice a week.\n0:16:11.9 `├── BoldNode
 │   full_match: `__ MH:__`
 │   inner_content: ` MH:`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` MH:`
-│   │   inner_content: ` MH:`├── TextNode
+│   │   full_match: `MH:`
+│   │   inner_content: `MH:`├── TextNode
 │   full_match: `  And then I wound up seeing my oncologist and gave me Lupron. Lupron is a drug that actually initially stimulates the brain to make FSH and LH to actually increase the production of testosterone. But when it&#39;s around for a long time, it was learned a long time ago, that Lupron will then cause the brain basically, your hypothalamus to say I&#39;ve seen enough of you and I don&#39;t wanna see any more of you. And so as a result you become resistant to its positive effect and now it has a negative effect and it shuts down the ability of your pituitary gland to make follicle stimulating hormone and luteinizing hormone. These are hormones that are critically important for maintaining estrogen production in women and testosterone production in men. But my oncologist told me that something else you have to be concerned about which is that your adrenal glands which make cortisol, that if you get stressed you make more cortisol to help make you feel better, it gets your liver to make some released glucose and it keeps you going saying that you can&#39;t have your adrenal glands making androgens because it&#39;ll feed your prostate cancer cells in your body. And so they put me on a medication called Abiraterone. And this medication is supposed to directly inhibit androgen production in your adrenal glands but not have any effects...\n0:18:17.8 `
 │   inner_content: `  And then I wound up seeing my oncologist and gave me Lupron. Lupron is a drug that actually initially stimulates the brain to make FSH and LH to actually increase the production of testosterone. But when it&#39;s around for a long time, it was learned a long time ago, that Lupron will then cause the brain basically, your hypothalamus to say I&#39;ve seen enough of you and I don&#39;t wanna see any more of you. And so as a result you become resistant to its positive effect and now it has a negative effect and it shuts down the ability of your pituitary gland to make follicle stimulating hormone and luteinizing hormone. These are hormones that are critically important for maintaining estrogen production in women and testosterone production in men. But my oncologist told me that something else you have to be concerned about which is that your adrenal glands which make cortisol, that if you get stressed you make more cortisol to help make you feel better, it gets your liver to make some released glucose and it keeps you going saying that you can&#39;t have your adrenal glands making androgens because it&#39;ll feed your prostate cancer cells in your body. And so they put me on a medication called Abiraterone. And this medication is supposed to directly inhibit androgen production in your adrenal glands but not have any effects...\n0:18:17.8 `├── BoldNode
 │   full_match: `__MH:__`
@@ -1756,7 +1756,7 @@ AST Structure:
 │   │   inner_content: `Carole:`├── TextNode
 │   full_match: ` Bye-bye.`
 │   inner_content: ` Bye-bye.`├── HorizontalRuleNode
-│   full_match: `\n ---\n`
+│   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!His ongoing diary on [https://www.facebook.com/search/top?q=holick%20prostate%20cancer|Facebook]`
 │   inner_content: `His ongoing diary on [https://www.facebook.com/search/top?q=holick%20prostate%20cancer|Facebook]`
@@ -1865,8 +1865,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `The Great Prostate Hoax`
 │   │   inner_content: `The Great Prostate Hoax`├── TextNode
-│   full_match: `: How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster&quot; March 2014\n\nMore recently: \n1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains\n &quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;\n2) `
-│   inner_content: `: How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster&quot; March 2014\n\nMore recently: \n1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains\n &quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;\n2) `├── LinkNode
+│   full_match: `: How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster&quot; March 2014\n\nMore recently: \n1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains\n&quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;\n2) `
+│   inner_content: `: How Big Medicine Hijacked the PSA Test and Caused a Public Health Disaster&quot; March 2014\n\nMore recently: \n1) The Rise and Fall of the Prostate Cancer Scam - 2020 contains\n&quot;PSA screening was found by the Preventive Task Force of the U.S. Federal government to cause more harm than good. &quot;\n2) `├── LinkNode
 │   full_match: `[https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening|Preventive Task Force]`
 │   inner_content: `Preventive Task Force`
 │   url: `https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening`
@@ -1902,14 +1902,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;holick&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F00:39+~~ VitaminDWiki pages have Baggerly OR GRH OR GRASSROOTS in the title`
@@ -1938,14 +1938,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;baggerly OR GRH OR grassroots&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:10~~ pages in Cancer - after diagnosis have RADIATION in the title`
@@ -1974,14 +1974,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;74&quot;}\n{filter field=&quot;title&quot; content=&quot;RADIATION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F00:65+~~ VitaminDWiki pages have TRANSCRIPT in the title`
@@ -2010,14 +2010,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14981{SQL}~~ visits to this page `
@@ -2033,9 +2033,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14981{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14981`
@@ -2051,8 +2048,8 @@ AST Structure:
 │   inner_content: ` (alias(Prostate Cancer Diagnosis - interview of Dr. Hollick by Baggerly - vidoe and transcript Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Prostate Cancer Diagnosis - interview of Dr. Hollick by Baggerly - vidoe and transcript Jan 2024)) `
-│   │   inner_content: ` (alias(Prostate Cancer Diagnosis - interview of Dr. Hollick by Baggerly - vidoe and transcript Jan 2024)) `├── TextNode
+│   │   full_match: `(alias(Prostate Cancer Diagnosis - interview of Dr. Hollick by Baggerly - vidoe and transcript Jan 2024)) `
+│   │   inner_content: `(alias(Prostate Cancer Diagnosis - interview of Dr. Hollick by Baggerly - vidoe and transcript Jan 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

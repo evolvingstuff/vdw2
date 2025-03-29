@@ -175,8 +175,8 @@ AST Structure:
 │   inner_content: ` (alias(Parkinson&#39;s disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Parkinson&#39;s disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) `
-│   │   inner_content: ` (alias(Parkinson&#39;s disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) `
+│   │   full_match: `(alias(Parkinson&#39;s disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) `
+│   │   inner_content: `(alias(Parkinson&#39;s disease prevented by Vitamin D, but small amounts of Vitamin D do not treat it - Aug 2023)) `
 
 Original Tiki:
 -------------

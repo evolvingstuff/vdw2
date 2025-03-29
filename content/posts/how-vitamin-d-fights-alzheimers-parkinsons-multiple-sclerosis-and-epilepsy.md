@@ -445,8 +445,8 @@ AST Structure:
 │   inner_content: ` (alias(How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – April 2023)) `
-│   │   inner_content: ` (alias(How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – April 2023)) `
+│   │   full_match: `(alias(How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – April 2023)) `
+│   │   inner_content: `(alias(How Vitamin D fights Alzheimer’s, Parkinson’s, Multiple Sclerosis and Epilepsy – April 2023)) `
 
 Original Tiki:
 -------------

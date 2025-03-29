@@ -357,8 +357,8 @@ AST Structure:
 │   inner_content: ` (alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) `
-│   │   inner_content: ` (alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) `
+│   │   full_match: `(alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) `
+│   │   inner_content: `(alias(Metabolic Sydromes fought by Vitamin D in 6 ways – Oct 2023)) `
 
 Original Tiki:
 -------------

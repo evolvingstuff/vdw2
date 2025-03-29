@@ -38,15 +38,15 @@ Conclusion: Pregnant women with severe vitamin D deficiency show the greatest 25
 
 #### 5 ways to reduce asthma risk even more:
 
-1.  Higher dose
+1. Higher dose
 
-1.  Start before 9th week
+1. Start before 9th week
 
-1.  Use a loading dose
+1. Use a loading dose
 
-1.  Use weekly dosing in place of daily
+1. Use weekly dosing in place of daily
 
-1.  Also use [Vitamin D Receptor](/categories/vitamin-d-receptor) Activator
+1. Also use [Vitamin D Receptor](/categories/vitamin-d-receptor) Activator
 
 ---
 
@@ -79,9 +79,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -120,15 +120,15 @@ Conclusion: Pregnant women with severe vitamin D deficiency show the greatest 25
 
 #### 5 ways to reduce asthma risk even more:
 
-1.  Higher dose
+1. Higher dose
 
-1.  Start before 9th week
+1. Start before 9th week
 
-1.  Use a loading dose
+1. Use a loading dose
 
-1.  Use weekly dosing in place of daily
+1. Use weekly dosing in place of daily
 
-1.  Also use [Vitamin D Receptor](/categories/vitamin-d-receptor) Activator
+1. Also use [Vitamin D Receptor](/categories/vitamin-d-receptor) Activator
 
 ---
 
@@ -161,9 +161,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -243,8 +243,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Higher dose`
-│   │   │   inner_content: ` Higher dose`
+│   │   │   full_match: `Higher dose`
+│   │   │   inner_content: `Higher dose`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
@@ -254,8 +254,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Start before 9th week`
-│   │   │   inner_content: ` Start before 9th week`
+│   │   │   full_match: `Start before 9th week`
+│   │   │   inner_content: `Start before 9th week`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
@@ -265,8 +265,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Use a loading dose`
-│   │   │   inner_content: ` Use a loading dose`
+│   │   │   full_match: `Use a loading dose`
+│   │   │   inner_content: `Use a loading dose`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
@@ -276,8 +276,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Use weekly dosing in place of daily`
-│   │   │   inner_content: ` Use weekly dosing in place of daily`
+│   │   │   full_match: `Use weekly dosing in place of daily`
+│   │   │   inner_content: `Use weekly dosing in place of daily`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
@@ -287,8 +287,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Also use `
-│   │   │   inner_content: ` Also use `
+│   │   │   full_match: `Also use `
+│   │   │   inner_content: `Also use `
 │   │   ├── LocalLinkNode
 │   │   │   full_match: `((Vitamin D Receptor))`
 │   │   │   inner_content: `Vitamin D Receptor`
@@ -414,22 +414,22 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;97&quot;}\n{filter field=&quot;title&quot; content=&quot;ASTHMA&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) ~/tc~`
 │   inner_content: ` (alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) `
-│   │   inner_content: ` (alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) `
+│   │   full_match: `(alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) `
+│   │   inner_content: `(alias(Resulting childhood Asthma cut in half if 4,400 IU Vitamin D daily from 9th week– RCT April 2023)) `
 
 Original Tiki:
 -------------

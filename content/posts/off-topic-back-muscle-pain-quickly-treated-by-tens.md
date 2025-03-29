@@ -220,16 +220,16 @@ AST Structure:
 │   inner_content: ` (alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) `
-│   │   inner_content: ` (alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) `├── TextNode
+│   │   full_match: `(alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) `
+│   │   inner_content: `(alias(Off topic : brain pain quickly treated by TENS - Jan 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) ~/tc~`
 │   inner_content: ` (alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) `
-│   │   inner_content: ` (alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) `
+│   │   full_match: `(alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) `
+│   │   inner_content: `(alias(Off topic : brain muscle pain quickly treated by TENS - Jan 2023)) `
 
 Original Tiki:
 -------------

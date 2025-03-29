@@ -1635,8 +1635,8 @@ AST Structure:
 │   inner_content: ` (alias(Feldman and Pike’s Vitamin D - 5th Edition Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Feldman and Pike’s Vitamin D - 5th Edition Oct 2023)) `
-│   │   inner_content: ` (alias(Feldman and Pike’s Vitamin D - 5th Edition Oct 2023)) `
+│   │   full_match: `(alias(Feldman and Pike’s Vitamin D - 5th Edition Oct 2023)) `
+│   │   inner_content: `(alias(Feldman and Pike’s Vitamin D - 5th Edition Oct 2023)) `
 
 Original Tiki:
 -------------

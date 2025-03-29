@@ -29,7 +29,7 @@ Materials and methods: The database of PubMed, Web of Science, Cochrane, Embase 
 
 Results: 501 articles were retrieved from the electronic databases; 11 studies were finally included in systematic review, 10 studies of which were submitted to meta-analysis. The 25(OH)D levels in the ECC group were statistically significantly lower compared with that in the caries-free group (WMD = -13.96, 95% CI: <span>[-19.88,-8.03]</span>, p < 0.001), especially in regard to the association between S-ECC and vitamin D (WMD = -18.64, 95% CI: <span>[-20.06,-17.22]</span>, p < 0.001).
 
- The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l ( **OR = 1.42** , 95% CI: <span>[1.26,1.60]</span>, p < 0.001), with data from Asia and Europe combined for analysis 
+The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l ( **OR = 1.42** , 95% CI: <span>[1.26,1.60]</span>, p < 0.001), with data from Asia and Europe combined for analysis 
 
 Conclusions: The level of vitamin D was lower in children with ECC than in caries-free children, and the correlation between S-ECC and vitamin D was even stronger. The optimal 25(OH)D level for preventing occurrence and development of ECC was ≥ 75 nmol/l. Thus, clinicians should view the development of early caries also from a systemic perspective.
 
@@ -60,7 +60,7 @@ Materials and methods: The database of PubMed, Web of Science, Cochrane, Embase 
 
 Results: 501 articles were retrieved from the electronic databases; 11 studies were finally included in systematic review, 10 studies of which were submitted to meta-analysis. The 25(OH)D levels in the ECC group were statistically significantly lower compared with that in the caries-free group (WMD = -13.96, 95% CI: &lt;span&gt;[-19.88,-8.03]&lt;/span&gt;, p &lt; 0.001), especially in regard to the association between S-ECC and vitamin D (WMD = -18.64, 95% CI: &lt;span&gt;[-20.06,-17.22]&lt;/span&gt;, p &lt; 0.001).
 
- The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l ( **OR = 1.42** , 95% CI: &lt;span&gt;[1.26,1.60]&lt;/span&gt;, p &lt; 0.001), with data from Asia and Europe combined for analysis 
+The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l ( **OR = 1.42** , 95% CI: &lt;span&gt;[1.26,1.60]&lt;/span&gt;, p &lt; 0.001), with data from Asia and Europe combined for analysis 
 
 Conclusions: The level of vitamin D was lower in children with ECC than in caries-free children, and the correlation between S-ECC and vitamin D was even stronger. The optimal 25(OH)D level for preventing occurrence and development of ECC was ≥ 75 nmol/l. Thus, clinicians should view the development of early caries also from a systemic perspective.
 
@@ -116,8 +116,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `-20.06,-17.22`
 │   │   inner_content: `-20.06,-17.22`├── TextNode
-│   full_match: `, p &lt; 0.001).\n The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l (`
-│   inner_content: `, p &lt; 0.001).\n The subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l (`├── BoldNode
+│   full_match: `, p &lt; 0.001).\nThe subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l (`
+│   inner_content: `, p &lt; 0.001).\nThe subgroup analyses in terms of geographical region demonstrated that children with a level of 25(OH)D of 50-75 nmol/l were more likely to have ECC than those with over 75 nmol/l (`├── BoldNode
 │   full_match: `__OR = 1.42__`
 │   inner_content: `OR = 1.42`
 │   children:

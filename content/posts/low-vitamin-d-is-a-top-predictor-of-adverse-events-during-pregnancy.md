@@ -36,8 +36,6 @@ Conclusion: This study provides evidence that maternal vitamin D changes during 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- 
-
 #### VitaminDWiki -  
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101  OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
        studies in both categories Hypertensin and Pregnancy
@@ -82,8 +80,6 @@ Results: The results showed that women who remained deficient (35.2%) or who wor
 Conclusion: This study provides evidence that maternal vitamin D changes during pregnancy have a significant impact on MAE. Our findings suggest that monitoring and treatment of vitamin D deficiency during pregnancy may be a potential preventive strategy for reducing the risk of MAE. The presented RF model had a moderate to high performance for predicting MAE.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
-
- 
 
 #### VitaminDWiki -  
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101  OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
@@ -171,9 +167,9 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Download the PDF from VitaminDWiki `
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101  OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Hypertensin and Pregnancy`
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101  OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Hypertensin and Pregnancy`
 │   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101  OR categId = 12 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Hypertensin and Pregnancy`
 │   level: `4`
 │   children:

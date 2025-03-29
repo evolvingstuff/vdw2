@@ -26,9 +26,9 @@ categories:
 
 | | | |
 | --- | --- | --- |
-| SYMPTOM | 1. after COVIDVaccination |  definition |
+| SYMPTOM | 1. after COVIDVaccination | definition |
 | ACUTE RESPIRATORY FAILURE | 5971 |  |
-| HYPOPHAGIA | 1463 |  Reduced ingestion of food |
+| HYPOPHAGIA | 1463 | Reduced ingestion of food |
 | HYPONATRAEMIA | 823 | low sodium |
 | HYPERGLYCAEMIA | 639 | sugar too high |
 | HYPOKALAEMIA | 604 | low potassium |
@@ -79,9 +79,9 @@ Markdown:
 
 | | | |
 | --- | --- | --- |
-| SYMPTOM | 1. after COVIDVaccination |  definition |
+| SYMPTOM | 1. after COVIDVaccination | definition |
 | ACUTE RESPIRATORY FAILURE | 5971 |  |
-| HYPOPHAGIA | 1463 |  Reduced ingestion of food |
+| HYPOPHAGIA | 1463 | Reduced ingestion of food |
 | HYPONATRAEMIA | 823 | low sodium |
 | HYPERGLYCAEMIA | 639 | sugar too high |
 | HYPOKALAEMIA | 604 | low potassium |
@@ -271,8 +271,8 @@ AST Structure:
 │   │   │   inner_content: ` definition`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` definition`
-│   │   │   │   inner_content: ` definition`
+│   │   │   │   full_match: `definition`
+│   │   │   │   inner_content: `definition`
 │   ├── TableRowNode
 │   │   full_match: `ACUTE RESPIRATORY FAILURE|5971|`
 │   │   inner_content: `ACUTE RESPIRATORY FAILURE|5971|`
@@ -317,8 +317,8 @@ AST Structure:
 │   │   │   inner_content: ` Reduced ingestion of food`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Reduced ingestion of food`
-│   │   │   │   inner_content: ` Reduced ingestion of food`
+│   │   │   │   full_match: `Reduced ingestion of food`
+│   │   │   │   inner_content: `Reduced ingestion of food`
 │   ├── TableRowNode
 │   │   full_match: `HYPONATRAEMIA|823|low sodium`
 │   │   inner_content: `HYPONATRAEMIA|823|low sodium`

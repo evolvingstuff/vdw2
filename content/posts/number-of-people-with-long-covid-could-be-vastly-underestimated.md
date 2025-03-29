@@ -23,8 +23,6 @@ However, [new research](https://nn.neurology.org/content/10/6/e200159) suggest
 
 “We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.
 
- 
-
 He noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.
 
 Patients with long COVID symptoms but without laboratory evidence of prior infection, “who have often been rejected and stigmatized, should feel vindicated by the results of our study,” Dr. Koralnik said.
@@ -76,8 +74,6 @@ It’s been estimated that up to one-third of people who survive acute SARS-CoV-
 However, [new research](https://nn.neurology.org/content/10/6/e200159) suggests that may be an underestimate and that far more people may be suffering from long COVID without ever having tested positive for the virus. Researchers found a significant proportion of patients in their small study who had never tested positive for COVID-19 but who were having symptoms of long COVID nevertheless showed evidence of immune responses consistent with previous exposure.
 
 “We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.
-
- 
 
 He noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.
 
@@ -159,8 +155,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `new research`
 │   │   inner_content: `new research`├── TextNode
-│   full_match: ` suggests that may be an underestimate and that far more people may be suffering from long COVID without ever having tested positive for the virus. Researchers found a significant proportion of patients in their small study who had never tested positive for COVID-19 but who were having symptoms of long COVID nevertheless showed evidence of immune responses consistent with previous exposure.\n\n“We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.\n \nHe noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.\n\nPatients with long COVID symptoms but without laboratory evidence of prior infection, “who have often been rejected and stigmatized, should feel vindicated by the results of our study,” Dr. Koralnik said.\n\n“We think that those patients deserve the same clinical care as those with a positive test, as well as inclusion in research studies. This is what we are doing at Northwestern Medicine’s Comprehensive COVID`
-│   inner_content: ` suggests that may be an underestimate and that far more people may be suffering from long COVID without ever having tested positive for the virus. Researchers found a significant proportion of patients in their small study who had never tested positive for COVID-19 but who were having symptoms of long COVID nevertheless showed evidence of immune responses consistent with previous exposure.\n\n“We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.\n \nHe noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.\n\nPatients with long COVID symptoms but without laboratory evidence of prior infection, “who have often been rejected and stigmatized, should feel vindicated by the results of our study,” Dr. Koralnik said.\n\n“We think that those patients deserve the same clinical care as those with a positive test, as well as inclusion in research studies. This is what we are doing at Northwestern Medicine’s Comprehensive COVID`├── LinkNode
+│   full_match: ` suggests that may be an underestimate and that far more people may be suffering from long COVID without ever having tested positive for the virus. Researchers found a significant proportion of patients in their small study who had never tested positive for COVID-19 but who were having symptoms of long COVID nevertheless showed evidence of immune responses consistent with previous exposure.\n\n“We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.\n\nHe noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.\n\nPatients with long COVID symptoms but without laboratory evidence of prior infection, “who have often been rejected and stigmatized, should feel vindicated by the results of our study,” Dr. Koralnik said.\n\n“We think that those patients deserve the same clinical care as those with a positive test, as well as inclusion in research studies. This is what we are doing at Northwestern Medicine’s Comprehensive COVID`
+│   inner_content: ` suggests that may be an underestimate and that far more people may be suffering from long COVID without ever having tested positive for the virus. Researchers found a significant proportion of patients in their small study who had never tested positive for COVID-19 but who were having symptoms of long COVID nevertheless showed evidence of immune responses consistent with previous exposure.\n\n“We estimate that millions of people got COVID in the U.S. during the first year of the pandemic and then developed long COVID, yet they did not get a positive COVID diagnosis because of testing limitations,” Igor J. Koralnik, MD, of Northwestern Medicine Comprehensive COVID-19 Center in Chicago, said in an interview.\n\nHe noted that many post-COVID-19 clinics in the United States don’t accept people with long COVID symptoms who do not have a positive test result.\n\nPatients with long COVID symptoms but without laboratory evidence of prior infection, “who have often been rejected and stigmatized, should feel vindicated by the results of our study,” Dr. Koralnik said.\n\n“We think that those patients deserve the same clinical care as those with a positive test, as well as inclusion in research studies. This is what we are doing at Northwestern Medicine’s Comprehensive COVID`├── LinkNode
 │   full_match: `[-19]`
 │   inner_content: `-19`
 │   url: `-19`
@@ -223,8 +219,8 @@ AST Structure:
 │   inner_content: ` (alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) `
-│   │   inner_content: ` (alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) `
+│   │   full_match: `(alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) `
+│   │   inner_content: `(alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) `
 
 Original Tiki:
 -------------

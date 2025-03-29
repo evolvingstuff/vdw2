@@ -837,8 +837,8 @@ AST Structure:
 │   inner_content: ` (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) `
-│   │   inner_content: ` (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) `
+│   │   full_match: `(alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) `
+│   │   inner_content: `(alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) `
 
 Original Tiki:
 -------------

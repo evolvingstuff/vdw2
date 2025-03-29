@@ -240,8 +240,8 @@ AST Structure:
 │   inner_content: ` (alias(Better survival of many cancers if higher level of vitamin D - 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Better survival of many cancers if higher level of vitamin D - 2020)) `
-│   │   inner_content: ` (alias(Better survival of many cancers if higher level of vitamin D - 2020)) `
+│   │   full_match: `(alias(Better survival of many cancers if higher level of vitamin D - 2020)) `
+│   │   inner_content: `(alias(Better survival of many cancers if higher level of vitamin D - 2020)) `
 
 Original Tiki:
 -------------

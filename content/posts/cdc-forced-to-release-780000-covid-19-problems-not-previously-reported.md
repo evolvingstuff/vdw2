@@ -137,8 +137,8 @@ AST Structure:
 │   inner_content: ` (alias(CDC forced to release 700,000 COVID-19 problems not previously reported - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(CDC forced to release 700,000 COVID-19 problems not previously reported - April 2024)) `
-│   │   inner_content: ` (alias(CDC forced to release 700,000 COVID-19 problems not previously reported - April 2024)) `
+│   │   full_match: `(alias(CDC forced to release 700,000 COVID-19 problems not previously reported - April 2024)) `
+│   │   inner_content: `(alias(CDC forced to release 700,000 COVID-19 problems not previously reported - April 2024)) `
 
 Original Tiki:
 -------------

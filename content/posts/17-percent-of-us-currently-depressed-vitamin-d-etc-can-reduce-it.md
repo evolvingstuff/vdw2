@@ -329,16 +329,16 @@ AST Structure:
 │   inner_content: ` (alias(17% of US is currently depressed (Vitamin D, Omega-3, and Mg can reduce it) – May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(17% of US is currently depressed (Vitamin D, Omega-3, and Mg can reduce it) – May 2023)) `
-│   │   inner_content: ` (alias(17% of US is currently depressed (Vitamin D, Omega-3, and Mg can reduce it) – May 2023)) `├── TextNode
+│   │   full_match: `(alias(17% of US is currently depressed (Vitamin D, Omega-3, and Mg can reduce it) – May 2023)) `
+│   │   inner_content: `(alias(17% of US is currently depressed (Vitamin D, Omega-3, and Mg can reduce it) – May 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) ~/tc~`
 │   inner_content: ` (alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) `
-│   │   inner_content: ` (alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) `
+│   │   full_match: `(alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) `
+│   │   inner_content: `(alias(17% of US currently depressed (Vitamin D, Omega-3, and Mg can each reduce it) – May 2023)) `
 
 Original Tiki:
 -------------

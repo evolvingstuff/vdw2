@@ -93,8 +93,8 @@ AST Structure:
 │   inner_content: ` (alias(Next COVID Litigation conference - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Next COVID Litigation conference - March 2024)) `
-│   │   inner_content: ` (alias(Next COVID Litigation conference - March 2024)) `
+│   │   full_match: `(alias(Next COVID Litigation conference - March 2024)) `
+│   │   inner_content: `(alias(Next COVID Litigation conference - March 2024)) `
 
 Original Tiki:
 -------------

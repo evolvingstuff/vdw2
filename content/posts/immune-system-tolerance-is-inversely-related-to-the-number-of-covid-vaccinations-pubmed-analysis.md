@@ -2196,8 +2196,8 @@ AST Structure:
 │   inner_content: ` (alias(immune system)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(immune system)) `
-│   │   inner_content: ` (alias(immune system)) `
+│   │   full_match: `(alias(immune system)) `
+│   │   inner_content: `(alias(immune system)) `
 
 Original Tiki:
 -------------

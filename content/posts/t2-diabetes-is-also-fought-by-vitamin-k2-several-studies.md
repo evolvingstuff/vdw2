@@ -455,8 +455,8 @@ AST Structure:
 │   inner_content: ` (alias(T2 Diabetes is fought by Vitamin K2 – several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(T2 Diabetes is fought by Vitamin K2 – several studies)) `
-│   │   inner_content: ` (alias(T2 Diabetes is fought by Vitamin K2 – several studies)) `
+│   │   full_match: `(alias(T2 Diabetes is fought by Vitamin K2 – several studies)) `
+│   │   inner_content: `(alias(T2 Diabetes is fought by Vitamin K2 – several studies)) `
 
 Original Tiki:
 -------------

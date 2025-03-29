@@ -38,7 +38,7 @@ After adjusting for the main risk factors (maternal age, socioeconomic level, mo
 
 * <a href="/posts/pregnancy-needs-at-least-40-ng-of-vitamin-d-achieved-by-at-least-4000-iu-hollis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancy needs at least 40 ng of vitamin D, achieved by at least 4,000 IU – Hollis Aug 2017">Pregnancy needs at least 40 ng of vitamin D, achieved by at least 4,000 IU – Hollis Aug 2017</a>
 
-  *  >120,000 monthly
+  * >120,000 monthly
 
 ---
 
@@ -80,7 +80,7 @@ After adjusting for the main risk factors (maternal age, socioeconomic level, mo
 
 * &lt;a href=&quot;/posts/pregnancy-needs-at-least-40-ng-of-vitamin-d-achieved-by-at-least-4000-iu-hollis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pregnancy needs at least 40 ng of vitamin D, achieved by at least 4,000 IU – Hollis Aug 2017&quot;&gt;Pregnancy needs at least 40 ng of vitamin D, achieved by at least 4,000 IU – Hollis Aug 2017&lt;/a&gt;
 
-  *  &gt;120,000 monthly
+  * &gt;120,000 monthly
 
 ---
 
@@ -208,8 +208,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` &gt;120,000 monthly`
-│   │   inner_content: ` &gt;120,000 monthly`├── HorizontalRuleNode
+│   │   full_match: `&gt;120,000 monthly`
+│   │   inner_content: `&gt;120,000 monthly`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Pregnancy)) category contains`

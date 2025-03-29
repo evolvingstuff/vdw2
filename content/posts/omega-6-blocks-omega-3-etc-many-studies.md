@@ -43,9 +43,9 @@ Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are cruc
 
 1.  **Prevention of Atherosclerotic Cardiovascular Disease** : Observational studies support the use of long-chain omega-3 polyunsaturated fatty acids (PUFAs) in the primary prevention of atherosclerotic cardiovascular disease. However, randomized controlled trials have often reported neutral findings, suggesting a more complex relationship between these fatty acids and heart health [ **URL** ](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30148-0/fulltext#:~:text=,have%20often%20reported%20neutral%20findings)
 
-1.   **Dietary Imbalance and Health Effects** : There has been a significant change in our diets, with an increase in consumption of vegetable oils rich in omega-6 and a depletion of omega-3 fatty acids, leading to an imbalance. This dietary shift has important implications for health, particularly in relation to glucose metabolism and possibly other metabolic processes [ **URL** ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10301273/#:~:text=,6)
+1.  **Dietary Imbalance and Health Effects** : There has been a significant change in our diets, with an increase in consumption of vegetable oils rich in omega-6 and a depletion of omega-3 fatty acids, leading to an imbalance. This dietary shift has important implications for health, particularly in relation to glucose metabolism and possibly other metabolic processes [ **URL** ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10301273/#:~:text=,6)
 
-1.   **Cancer Risk** : The relationship between long-chain omega-3, alpha-linolenic acid (ALA), omega-6, and total polyunsaturated fatty acid (PUFA) intakes and cancer risk is still unclear. More research is needed to fully understand how these fatty acids might influence cancer development and progression [ **URL** ](https://www.nature.com/articles/s41416-020-0761-6#:~:text=%23%20%E3%80%904%E2%80%A0Omega,We%20searched%20Medline%2C%20Embase)
+1.  **Cancer Risk** : The relationship between long-chain omega-3, alpha-linolenic acid (ALA), omega-6, and total polyunsaturated fatty acid (PUFA) intakes and cancer risk is still unclear. More research is needed to fully understand how these fatty acids might influence cancer development and progression [ **URL** ](https://www.nature.com/articles/s41416-020-0761-6#:~:text=%23%20%E3%80%904%E2%80%A0Omega,We%20searched%20Medline%2C%20Embase)
 
 In summary, both omega-6 and omega-3 fatty acids are vital for health, but their balance is critical. High consumption of omega-6, relative to omega-3, can lead to adverse health outcomes due to competitive metabolism, inflammatory balance, and altered cell
 
@@ -93,9 +93,9 @@ This list is automatically updated
 {filter field="title" content="NOT \" 6 to 7 \""}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -153,7 +153,7 @@ by Joseph Mercola 1,* and Christopher R. D’Adamo 2ORCID
 
 Linoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.
 
- While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.
+While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.
 
 The standard American diet comprises  **14 to 25 times more omega-6 than omega-3 fatty acids** , with most omega-6 intake coming from LA. As LA consumption increases, the potential for OXLAM formation also increases. OXLAMs have been associated with various illnesses, including cardiovascular disease, cancer, and Alzheimer’s disease, among others. Lowering dietary LA intake can help reduce the production and accumulation of OXLAMs implicated in chronic diseases. 
 
@@ -187,11 +187,11 @@ While there are other problematic components in the standard American diet, the 
 
 * do not confuse LA with CLA (conjugated linoleic acid). Although CLA is an omega-6 fat, and most think CLA and LA are interchangeable, they're not. CLA has many potent health benefits and will not cause the problems that LA does.
 
-*  up to 50% or more of the overall calories in most processed foods come from seed oils.1
+* up to 50% or more of the overall calories in most processed foods come from seed oils.1
 
 * You have about 40 quadrillion to 100 quadrillion mitochondria throughout your body's cells. 
 
-  *  In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
+  * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
 
  **ALEs and OXLAMs can also:** 
 
@@ -213,13 +213,9 @@ While there are other problematic components in the standard American diet, the 
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
- 
-
 ---
 
 #### VitaminDWiki – [Vitamin D and Omega-3](/categories/vitamin-d-and-omega-3)  highlights:
-
- 
 
 
 
@@ -259,9 +255,9 @@ Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are cruc
 
 1.  **Prevention of Atherosclerotic Cardiovascular Disease** : Observational studies support the use of long-chain omega-3 polyunsaturated fatty acids (PUFAs) in the primary prevention of atherosclerotic cardiovascular disease. However, randomized controlled trials have often reported neutral findings, suggesting a more complex relationship between these fatty acids and heart health [ **URL** ](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30148-0/fulltext#:~:text=,have%20often%20reported%20neutral%20findings)
 
-1.   **Dietary Imbalance and Health Effects** : There has been a significant change in our diets, with an increase in consumption of vegetable oils rich in omega-6 and a depletion of omega-3 fatty acids, leading to an imbalance. This dietary shift has important implications for health, particularly in relation to glucose metabolism and possibly other metabolic processes [ **URL** ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10301273/#:~:text=,6)
+1.  **Dietary Imbalance and Health Effects** : There has been a significant change in our diets, with an increase in consumption of vegetable oils rich in omega-6 and a depletion of omega-3 fatty acids, leading to an imbalance. This dietary shift has important implications for health, particularly in relation to glucose metabolism and possibly other metabolic processes [ **URL** ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10301273/#:~:text=,6)
 
-1.   **Cancer Risk** : The relationship between long-chain omega-3, alpha-linolenic acid (ALA), omega-6, and total polyunsaturated fatty acid (PUFA) intakes and cancer risk is still unclear. More research is needed to fully understand how these fatty acids might influence cancer development and progression [ **URL** ](https://www.nature.com/articles/s41416-020-0761-6#:~:text=%23%20%E3%80%904%E2%80%A0Omega,We%20searched%20Medline%2C%20Embase)
+1.  **Cancer Risk** : The relationship between long-chain omega-3, alpha-linolenic acid (ALA), omega-6, and total polyunsaturated fatty acid (PUFA) intakes and cancer risk is still unclear. More research is needed to fully understand how these fatty acids might influence cancer development and progression [ **URL** ](https://www.nature.com/articles/s41416-020-0761-6#:~:text=%23%20%E3%80%904%E2%80%A0Omega,We%20searched%20Medline%2C%20Embase)
 
 In summary, both omega-6 and omega-3 fatty acids are vital for health, but their balance is critical. High consumption of omega-6, relative to omega-3, can lead to adverse health outcomes due to competitive metabolism, inflammatory balance, and altered cell
 
@@ -309,9 +305,9 @@ This list is automatically updated
 {filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -369,7 +365,7 @@ by Joseph Mercola 1,* and Christopher R. D’Adamo 2ORCID
 
 Linoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.
 
- While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.
+While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.
 
 The standard American diet comprises  **14 to 25 times more omega-6 than omega-3 fatty acids** , with most omega-6 intake coming from LA. As LA consumption increases, the potential for OXLAM formation also increases. OXLAMs have been associated with various illnesses, including cardiovascular disease, cancer, and Alzheimer’s disease, among others. Lowering dietary LA intake can help reduce the production and accumulation of OXLAMs implicated in chronic diseases. 
 
@@ -403,11 +399,11 @@ While there are other problematic components in the standard American diet, the 
 
 * do not confuse LA with CLA (conjugated linoleic acid). Although CLA is an omega-6 fat, and most think CLA and LA are interchangeable, they&#39;re not. CLA has many potent health benefits and will not cause the problems that LA does.
 
-*  up to 50% or more of the overall calories in most processed foods come from seed oils.1
+* up to 50% or more of the overall calories in most processed foods come from seed oils.1
 
 * You have about 40 quadrillion to 100 quadrillion mitochondria throughout your body&#39;s cells. 
 
-  *  In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
+  * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
 
  **ALEs and OXLAMs can also:** 
 
@@ -429,13 +425,9 @@ While there are other problematic components in the standard American diet, the 
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
- 
-
 ---
 
 #### VitaminDWiki – [Vitamin D and Omega-3](/categories/vitamin-d-and-omega-3)  highlights:
-
- 
 
 
 
@@ -662,9 +654,6 @@ AST Structure:
 │   inner_content: ` __Dietary Imbalance and Health Effects__: There has been a significant change in our diets, with an increase in consumption of vegetable oils rich in omega-6 and a depletion of omega-3 fatty acids, leading to an imbalance. This dietary shift has important implications for health, particularly in relation to glucose metabolism and possibly other metabolic processes [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10301273/#:~:text=,6|__URL__]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Dietary Imbalance and Health Effects__`
 │   │   inner_content: `Dietary Imbalance and Health Effects`
@@ -693,9 +682,6 @@ AST Structure:
 │   inner_content: ` __Cancer Risk__: The relationship between long-chain omega-3, alpha-linolenic acid (ALA), omega-6, and total polyunsaturated fatty acid (PUFA) intakes and cancer risk is still unclear. More research is needed to fully understand how these fatty acids might influence cancer development and progression [https://www.nature.com/articles/s41416-020-0761-6#:~:text=%23%20%E3%80%904%E2%80%A0Omega,We%20searched%20Medline%2C%20Embase|__URL__]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Cancer Risk__`
 │   │   inner_content: `Cancer Risk`
@@ -799,14 +785,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;Omega-6&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 month\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 percent\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 week\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6x reduction\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot;Jan 6, 2021\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; 6 to 7 \&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!The Simplest Way to Balance the Omega-6 to Omega-3 Ratio - video Dec 2022`
@@ -938,8 +924,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 19816
 │   │   width: 300├── TextNode
-│   full_match: `\n\nLinoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.\n While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.\nThe standard American diet comprises `
-│   inner_content: `\n\nLinoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.\n While LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.\nThe standard American diet comprises `├── BoldNode
+│   full_match: `\n\nLinoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.\nWhile LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.\nThe standard American diet comprises `
+│   inner_content: `\n\nLinoleic acid (LA) intake has increased dramatically in the standard American diet. LA is generally promoted as supporting human health, but there exists controversy regarding whether the amount of LA currently consumed in the standard American diet supports human health. The goal of this narrative review is to explore the mechanisms that underlie the hypothesis that excessive LA intake may harm human health.\nWhile LA is considered to be an essential fatty acid and supports health when consumed in modest amounts, an excessive intake of LA leads to the formation of oxidized linoleic acid metabolites (OXLAMs), impairments in mitochondrial function through suboptimal cardiolipin composition. It likely contributes to many chronic diseases that became an epidemic in the 20th century and whose prevalence continues to increase.\nThe standard American diet comprises `├── BoldNode
 │   full_match: `__14 to 25 times more omega-6 than omega-3 fatty acids__`
 │   inner_content: `14 to 25 times more omega-6 than omega-3 fatty acids`
 │   children:
@@ -1095,8 +1081,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` up to 50% or more of the overall calories in most processed foods come from seed oils.1`
-│   │   inner_content: ` up to 50% or more of the overall calories in most processed foods come from seed oils.1`├── TextNode
+│   │   full_match: `up to 50% or more of the overall calories in most processed foods come from seed oils.1`
+│   │   inner_content: `up to 50% or more of the overall calories in most processed foods come from seed oils.1`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*You have about 40 quadrillion to 100 quadrillion mitochondria throughout your body&#39;s cells. `
@@ -1117,8 +1103,8 @@ AST Structure:
 │   │   inner_content: ` In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.`
-│   │   │   inner_content: ` In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.`├── TextNode
+│   │   │   full_match: `In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.`
+│   │   │   inner_content: `In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__ALEs and OXLAMs can also:__`
@@ -1207,8 +1193,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`
 │   │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1240,8 +1226,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `  highlights:`
 │   │   inner_content: `  highlights:`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ startlist ~/tc~&quot; stop=&quot;~tc~ endlist ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:

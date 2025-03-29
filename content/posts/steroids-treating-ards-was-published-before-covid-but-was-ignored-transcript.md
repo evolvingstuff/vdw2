@@ -79,9 +79,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -163,9 +163,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -339,16 +339,16 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `. There is no drug company that educate university or doctors on the proper use of `
 │   inner_content: `. There is no drug company that educate university or doctors on the proper use of `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `, so the guidelines did, okay? And the guidelines provide the rationale in how to use it correctly. `
 │   inner_content: `, so the guidelines did, okay? And the guidelines provide the rationale in how to use it correctly. `├── BoldNode
 │   full_match: `__And one of the important thing was tapering__`
@@ -363,24 +363,24 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` at the end once the disease is resolved. Okay. Why? Because when you give `
 │   inner_content: ` at the end once the disease is resolved. Okay. Why? Because when you give `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` the hypothalamic-pituitary axis with the adrenal going say, &quot;Hey, `
 │   inner_content: ` the hypothalamic-pituitary axis with the adrenal going say, &quot;Hey, `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` are high, I don&#39;t need to produce them.&quot; So they go to sleep. `
 │   inner_content: ` are high, I don&#39;t need to produce them.&quot; So they go to sleep. `├── BoldNode
 │   full_match: `__So it takes about one week to 10 days to wake up and go back to normal__`
@@ -395,8 +395,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` instead of affected, did not have a correct protocol. Okay? \n\n0:05:00.4 `
 │   inner_content: ` instead of affected, did not have a correct protocol. Okay? \n\n0:05:00.4 `├── BoldNode
 │   full_match: `__Weinstein:__`
@@ -467,16 +467,16 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `, that if you don&#39;t do that, you&#39;re creating a health problem of your own. Because the body has a mechanism for assessing the amount of steroid in presumably the blood. And at the point that you have added `
 │   inner_content: `, that if you don&#39;t do that, you&#39;re creating a health problem of your own. Because the body has a mechanism for assessing the amount of steroid in presumably the blood. And at the point that you have added `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` from the outside, it is not producing them endogenously. And if you suddenly cut the supply from outside, then you have a sudden drop, which is not beneficial to health.\n\n0:08:06.4 `
 │   inner_content: ` from the outside, it is not producing them endogenously. And if you suddenly cut the supply from outside, then you have a sudden drop, which is not beneficial to health.\n\n0:08:06.4 `├── BoldNode
 │   full_match: `__Meduri:__`
@@ -499,8 +499,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` into the system from outside. `
 │   inner_content: ` into the system from outside. `├── BoldNode
 │   full_match: `__You need to slow down that system of externally added __`
@@ -515,24 +515,24 @@ AST Structure:
 │   inner_content: ` so the body can ratchet up its internally generated `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` so the body can ratchet up its internally generated `
-│   │   inner_content: ` so the body can ratchet up its internally generated `├── TextNode
+│   │   full_match: `so the body can ratchet up its internally generated `
+│   │   inner_content: `so the body can ratchet up its internally generated `├── TextNode
 │   full_match: ` steroids`
 │   inner_content: ` steroids`├── BoldNode
 │   full_match: `__ in order to maintain health__`
 │   inner_content: ` in order to maintain health`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` in order to maintain health`
-│   │   inner_content: ` in order to maintain health`├── TextNode
+│   │   full_match: `in order to maintain health`
+│   │   inner_content: `in order to maintain health`├── TextNode
 │   full_match: `. Now, but what you&#39;re describing is a system in which the underlying biology of `
 │   inner_content: `. Now, but what you&#39;re describing is a system in which the underlying biology of `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` in the body gives PhRMA a gift. `
 │   inner_content: ` in the body gives PhRMA a gift. `├── BoldNode
 │   full_match: `__If they wish to make steroids look dangerous, all they have to do is use a dosage protocol that does not involve tapering__`
@@ -563,8 +563,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `, and then two, because the attack on a drug in which there is no profit. In order to create a market for drugs where there is profit, but also great danger and much less effectiveness, that pattern seems to be generic. You have to get rid of hydroxychloroquine, well rig a study by putting so much drug into patients that they are sick from hydroxychloroquine, in the case of Ivermectin, underdose the people who are threatened by COVID so that the drug looks ineffective. And in the case of `
 │   inner_content: `, and then two, because the attack on a drug in which there is no profit. In order to create a market for drugs where there is profit, but also great danger and much less effectiveness, that pattern seems to be generic. You have to get rid of hydroxychloroquine, well rig a study by putting so much drug into patients that they are sick from hydroxychloroquine, in the case of Ivermectin, underdose the people who are threatened by COVID so that the drug looks ineffective. And in the case of `├── BoldNode
 │   full_match: `__corticosteroids__`
@@ -587,16 +587,16 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` are dangerous and they don&#39;t work. That&#39;s the result. But when we reanalyze the data, what we found, number one, they are highly effective. During treatment there was a 9.5 days reduction duration of mechanical ventilation. The ARDS Network has never achieved any of this. The study they only achieved something was a two days reduction in duration of mechanical ventilation, this is five times that, number one. Number two, they found a reduction in shock. They found a reduction in pneumonia. They found a significant reduction in inflammation during treatment, increasing surfactant, and a lot of other positive things, none shown. Okay? We dig them all out. They just cursory went on that and they said, we recommend not to use `
 │   inner_content: ` are dangerous and they don&#39;t work. That&#39;s the result. But when we reanalyze the data, what we found, number one, they are highly effective. During treatment there was a 9.5 days reduction duration of mechanical ventilation. The ARDS Network has never achieved any of this. The study they only achieved something was a two days reduction in duration of mechanical ventilation, this is five times that, number one. Number two, they found a reduction in shock. They found a reduction in pneumonia. They found a significant reduction in inflammation during treatment, increasing surfactant, and a lot of other positive things, none shown. Okay? We dig them all out. They just cursory went on that and they said, we recommend not to use `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `.\n\n0:11:56.6 `
 │   inner_content: `.\n\n0:11:56.6 `├── BoldNode
 │   full_match: `__Meduri:__`
@@ -611,8 +611,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `. There was no information to the patient of a risk. They had no information to the physician how to act if that happened. What you have to understand is that the `
 │   inner_content: `. There was no information to the patient of a risk. They had no information to the physician how to act if that happened. What you have to understand is that the `├── BoldNode
 │   full_match: `__FDA has a big warning sign for steroids. You must taper__`
@@ -627,8 +627,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `. And then I&#39;ll go back to what happened before that, which is fascinating.\n\n0:12:47.8 `
 │   inner_content: `. And then I&#39;ll go back to what happened before that, which is fascinating.\n\n0:12:47.8 `├── BoldNode
 │   full_match: `__Weinstein:__`
@@ -643,8 +643,8 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: ` were important? Would they have reduced the number of people who went on ventilators? Would the number of people who died from ventilators have gone down? Am I right that that&#39;s the picture that&#39;s being painted? \n\n0:13:29.6 `
 │   inner_content: ` were important? Would they have reduced the number of people who went on ventilators? Would the number of people who died from ventilators have gone down? Am I right that that&#39;s the picture that&#39;s being painted? \n\n0:13:29.6 `├── BoldNode
 │   full_match: `__Paul Marik:__`
@@ -683,16 +683,16 @@ AST Structure:
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `. And so unfortunately, doctors particularly in the COVID era, are lemmings, they don&#39;t use independent thought process. They&#39;re too scared to go against the narrative. They just follow blindly like lemmings. And so, until the recovery study was published, patients just simply didn&#39;t get `
 │   inner_content: `. And so unfortunately, doctors particularly in the COVID era, are lemmings, they don&#39;t use independent thought process. They&#39;re too scared to go against the narrative. They just follow blindly like lemmings. And so, until the recovery study was published, patients just simply didn&#39;t get `├── BoldNode
 │   full_match: `__ steroids__`
 │   inner_content: ` steroids`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` steroids`
-│   │   inner_content: ` steroids`├── TextNode
+│   │   full_match: `steroids`
+│   │   inner_content: `steroids`├── TextNode
 │   full_match: `. And patients died needlessly, let me say that again, patients died needlessly because they were denied an effective safe therapy once they had lung involvement from SARS-COVID-2.`
 │   inner_content: `. And patients died needlessly, let me say that again, patients died needlessly because they were denied an effective safe therapy once they had lung involvement from SARS-COVID-2.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -826,22 +826,22 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT OR VIDEO&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) ~/tc~`
 │   inner_content: ` (alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) `
-│   │   inner_content: ` (alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) `
+│   │   full_match: `(alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) `
+│   │   inner_content: `(alias(Corticosteroids to treat ARDS was published before COVID, but was rejected – Aug 20, 2023)) `
 
 Original Tiki:
 -------------

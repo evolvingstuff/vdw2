@@ -310,8 +310,8 @@ AST Structure:
 │   inner_content: ` (alias(TB not prevented again by a small amount of Vitamin D – RCT Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(TB not prevented again by a small amount of Vitamin D – RCT Aug 2023)) `
-│   │   inner_content: ` (alias(TB not prevented again by a small amount of Vitamin D – RCT Aug 2023)) `
+│   │   full_match: `(alias(TB not prevented again by a small amount of Vitamin D – RCT Aug 2023)) `
+│   │   inner_content: `(alias(TB not prevented again by a small amount of Vitamin D – RCT Aug 2023)) `
 
 Original Tiki:
 -------------

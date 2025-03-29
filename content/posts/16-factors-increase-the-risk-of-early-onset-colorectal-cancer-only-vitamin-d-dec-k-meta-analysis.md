@@ -35,7 +35,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. a family history of CRC ( **OR=5.90** ; 95% CI, 3.67-9.48),
 
-  *  diet, genetics, poor vitamin D genes?  <a href="/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021">30X increase if poor Vitamin D Receptor</a>
+  * diet, genetics, poor vitamin D genes?  <a href="/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021">30X increase if poor Vitamin D Receptor</a>
 
 1. inflammatory bowel disease (OR=4.43; 95% CI, 4.05-4.84), 
 
@@ -43,7 +43,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. overweight (OR=1.18; 95% CI, 1.12-1.25),
 
-1.  triglycerides (OR=1.12; 95% CI, 1, 08-1.18), 
+1. triglycerides (OR=1.12; 95% CI, 1, 08-1.18), 
 
 1. hypertension (OR=1.16; 95% CI, 1.12-1.21), 
 
@@ -63,11 +63,11 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. sugar-sweetened beverages (OR=1.55; 95% CI, 1.23-1.95).
 
- However, no statistical differences were found for hyperlipidemia and hyperglycemia.
+However, no statistical differences were found for hyperlipidemia and hyperglycemia.
 
-*  Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).
+* Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).
 
- There was considerable heterogeneity among studies (I2>60%).
+There was considerable heterogeneity among studies (I2>60%).
 
 Conclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.
 
@@ -95,9 +95,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -133,7 +133,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. a family history of CRC ( **OR=5.90** ; 95% CI, 3.67-9.48),
 
-  *  diet, genetics, poor vitamin D genes?  &lt;a href=&quot;/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021&quot;&gt;30X increase if poor Vitamin D Receptor&lt;/a&gt;
+  * diet, genetics, poor vitamin D genes?  &lt;a href=&quot;/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021&quot;&gt;30X increase if poor Vitamin D Receptor&lt;/a&gt;
 
 1. inflammatory bowel disease (OR=4.43; 95% CI, 4.05-4.84), 
 
@@ -141,7 +141,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. overweight (OR=1.18; 95% CI, 1.12-1.25),
 
-1.  triglycerides (OR=1.12; 95% CI, 1, 08-1.18), 
+1. triglycerides (OR=1.12; 95% CI, 1, 08-1.18), 
 
 1. hypertension (OR=1.16; 95% CI, 1.12-1.21), 
 
@@ -161,11 +161,11 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. sugar-sweetened beverages (OR=1.55; 95% CI, 1.23-1.95).
 
- However, no statistical differences were found for hyperlipidemia and hyperglycemia.
+However, no statistical differences were found for hyperlipidemia and hyperglycemia.
 
-*  Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).
+* Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).
 
- There was considerable heterogeneity among studies (I2&gt;60%).
+There was considerable heterogeneity among studies (I2&gt;60%).
 
 Conclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.
 
@@ -193,9 +193,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -285,8 +285,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` diet, genetics, poor vitamin D genes?  `
-│   │   inner_content: ` diet, genetics, poor vitamin D genes?  `
+│   │   full_match: `diet, genetics, poor vitamin D genes?  `
+│   │   inner_content: `diet, genetics, poor vitamin D genes?  `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021|30X increase if poor Vitamin D Receptor))`
 │   │   inner_content: `Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021|30X increase if poor Vitamin D Receptor`
@@ -329,8 +329,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` triglycerides (OR=1.12; 95% CI, 1, 08-1.18), `
-│   │   inner_content: ` triglycerides (OR=1.12; 95% CI, 1, 08-1.18), `├── TextNode
+│   │   full_match: `triglycerides (OR=1.12; 95% CI, 1, 08-1.18), `
+│   │   inner_content: `triglycerides (OR=1.12; 95% CI, 1, 08-1.18), `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#hypertension (OR=1.16; 95% CI, 1.12-1.21), `
@@ -412,17 +412,17 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `sugar-sweetened beverages (OR=1.55; 95% CI, 1.23-1.95).`
 │   │   inner_content: `sugar-sweetened beverages (OR=1.55; 95% CI, 1.23-1.95).`├── TextNode
-│   full_match: `\n However, no statistical differences were found for hyperlipidemia and hyperglycemia.\n`
-│   inner_content: `\n However, no statistical differences were found for hyperlipidemia and hyperglycemia.\n`├── ListItemNode
+│   full_match: `\nHowever, no statistical differences were found for hyperlipidemia and hyperglycemia.\n`
+│   inner_content: `\nHowever, no statistical differences were found for hyperlipidemia and hyperglycemia.\n`├── ListItemNode
 │   full_match: `* Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`
 │   inner_content: ` Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`
-│   │   inner_content: ` Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`├── TextNode
-│   full_match: `\n There was considerable heterogeneity among studies (I2&gt;60%).\n\nConclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.\n`
-│   inner_content: `\n There was considerable heterogeneity among studies (I2&gt;60%).\n\nConclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.\n`├── FontNode
+│   │   full_match: `Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`
+│   │   inner_content: `Vitamin D may be a protective factor (OR=0.72; 95% CI, 0.56-0.92).`├── TextNode
+│   full_match: `\nThere was considerable heterogeneity among studies (I2&gt;60%).\n\nConclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.\n`
+│   inner_content: `\nThere was considerable heterogeneity among studies (I2&gt;60%).\n\nConclusions: The study provides an overview of the etiology and risk factors of EOCRC. Current evidence can provide baseline data for risk prediction models specific to EOCRC and risk-tailored screening strategies.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19583&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19583&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:
@@ -542,14 +542,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;80&quot;}\n{filter field=&quot;title&quot; content=&quot;RISK  AND FACTOR&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

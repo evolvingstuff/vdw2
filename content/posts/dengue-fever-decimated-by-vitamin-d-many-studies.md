@@ -28,9 +28,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -42,7 +42,7 @@ This list is automatically updated
 
  **[Google Scholar](https://scholar.google.com/scholar?as_q=dengue&as_epq=%22vitamin+d%22&as_oq=&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C48)** 
 
-*  Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
+* Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
 
 * Effectiveness of vitamin d in prevention of dengue haemorrhagic fever and dengue shock syndrome - 2017
 
@@ -202,7 +202,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### VitaminDWiki - <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011">Vitamin D inhibits enveloped virus - Corona, Dengue, etc - 2011</a>
 
- **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope ) &nbsp;  <span style="color:orange;">Coronavirus</span>, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A & B & C, Zika, HIV,  <span style="color:orange;"> Dengue,</span> Yellow fever, Measles, Mumps, smallpox,   <span style="color:orange;">monkeypox</span>, ebola,  rabies, influenza A & B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
+ **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope ) &nbsp;  <span style="color:orange;">Coronavirus</span>, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A & B & C, Zika, HIV,  <span style="color:orange;">Dengue,</span> Yellow fever, Measles, Mumps, smallpox,   <span style="color:orange;">monkeypox</span>, ebola,  rabies, influenza A & B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
 
 ---
 
@@ -268,7 +268,7 @@ Infections with the mosquito-transmitted dengue virus (DENV) are a pressing publ
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14221{SQL} -->
 </span> visits to this page
 
@@ -298,9 +298,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -312,7 +312,7 @@ This list is automatically updated
 
  **[Google Scholar](https://scholar.google.com/scholar?as_q=dengue&amp;as_epq=%22vitamin+d%22&amp;as_oq=&amp;as_eq=&amp;as_occt=title&amp;as_sauthors=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;hl=en&amp;as_sdt=0%2C48)** 
 
-*  Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
+* Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF
 
 * Effectiveness of vitamin d in prevention of dengue haemorrhagic fever and dengue shock syndrome - 2017
 
@@ -472,7 +472,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011&quot;&gt;Vitamin D inhibits enveloped virus - Corona, Dengue, etc - 2011&lt;/a&gt;
 
- **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope ) &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Coronavirus&lt;/span&gt;, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A &amp; B &amp; C, Zika, HIV,  &lt;span style=&quot;color:orange;&quot;&gt; Dengue,&lt;/span&gt; Yellow fever, Measles, Mumps, smallpox,   &lt;span style=&quot;color:orange;&quot;&gt;monkeypox&lt;/span&gt;, ebola,  rabies, influenza A &amp; B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
+ **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope ) &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Coronavirus&lt;/span&gt;, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A &amp; B &amp; C, Zika, HIV,  &lt;span style=&quot;color:orange;&quot;&gt;Dengue,&lt;/span&gt; Yellow fever, Measles, Mumps, smallpox,   &lt;span style=&quot;color:orange;&quot;&gt;monkeypox&lt;/span&gt;, ebola,  rabies, influenza A &amp; B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
 
 ---
 
@@ -538,7 +538,7 @@ Infections with the mosquito-transmitted dengue virus (DENV) are a pressing publ
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14221{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -561,8 +561,8 @@ AST Structure:
 │   │   inner_content: ` What am I missing?%%%Dengue is increasing%%%Vitamin D fights Dengue and many other viruses. %%% ~hs~~hs~ Is Vitamin D ignored because it is not a vaccine?`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` What am I missing?`
-│   │   │   inner_content: ` What am I missing?`
+│   │   │   full_match: `What am I missing?`
+│   │   │   inner_content: `What am I missing?`
 │   │   ├── NewlineNode
 │   │   │   full_match: `%%%`
 │   │   │   inner_content: ``
@@ -623,14 +623,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;dengue&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!46 studies had both Dengue and Vitamin D in their title as of March 2024`
@@ -660,8 +660,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF`
-│   │   inner_content: ` Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF`├── TextNode
+│   │   full_match: `Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF`
+│   │   inner_content: `Activity of vitamin D receptor agonists against dengue virus - July 2020 FREE PDF`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Effectiveness of vitamin d in prevention of dengue haemorrhagic fever and dengue shock syndrome - 2017`
@@ -1313,8 +1313,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Dengue,`
-│   │   │   inner_content: ` Dengue,`
+│   │   │   full_match: `Dengue,`
+│   │   │   inner_content: `Dengue,`
 │   ├── TextNode
 │   │   full_match: ` Yellow fever, Measles, Mumps, smallpox,  `
 │   │   inner_content: ` Yellow fever, Measles, Mumps, smallpox,  `
@@ -1560,9 +1560,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14221{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14221`
@@ -1578,16 +1575,16 @@ AST Structure:
 │   inner_content: ` (alias(Dengue Fever and Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dengue Fever and Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Dengue Fever and Vitamin D - many studies)) `├── TextNode
+│   │   full_match: `(alias(Dengue Fever and Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Dengue Fever and Vitamin D - many studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Dengue Fever reduced by Vitamin D - many studies)) ~/tc~`
 │   inner_content: ` (alias(Dengue Fever reduced by Vitamin D - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dengue Fever reduced by Vitamin D - many studies)) `
-│   │   inner_content: ` (alias(Dengue Fever reduced by Vitamin D - many studies)) `
+│   │   full_match: `(alias(Dengue Fever reduced by Vitamin D - many studies)) `
+│   │   inner_content: `(alias(Dengue Fever reduced by Vitamin D - many studies)) `
 
 Original Tiki:
 -------------

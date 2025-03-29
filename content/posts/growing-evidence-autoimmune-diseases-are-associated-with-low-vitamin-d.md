@@ -707,8 +707,8 @@ AST Structure:
 │   inner_content: ` type 1 diabetes`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` type 1 diabetes`
-│   │   inner_content: ` type 1 diabetes`├── TextNode
+│   │   full_match: `type 1 diabetes`
+│   │   inner_content: `type 1 diabetes`├── TextNode
 │   full_match: `, inadequate 25(OH)D3 serum concentrations have been identified as a major risk factor for the development of the disease, together with specific polymorphisms of the VDR (FokI-FF, Bsml-B, and Apal-A alleles) in a South Indian population `
 │   inner_content: `, inadequate 25(OH)D3 serum concentrations have been identified as a major risk factor for the development of the disease, together with specific polymorphisms of the VDR (FokI-FF, Bsml-B, and Apal-A alleles) in a South Indian population `├── LinkNode
 │   full_match: `[20]`

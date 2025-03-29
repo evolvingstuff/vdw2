@@ -370,8 +370,8 @@ AST Structure:
 │   inner_content: ` (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) `
-│   │   inner_content: ` (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) `
+│   │   full_match: `(alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) `
+│   │   inner_content: `(alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) `
 
 Original Tiki:
 -------------

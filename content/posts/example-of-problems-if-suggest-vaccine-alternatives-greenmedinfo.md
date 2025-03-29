@@ -87,8 +87,8 @@ AST Structure:
 │   inner_content: ` for exercising protected speech, and especially for telling `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` for exercising protected speech, and especially for telling `
-│   │   inner_content: ` for exercising protected speech, and especially for telling `├── LinkNode
+│   │   full_match: `for exercising protected speech, and especially for telling `
+│   │   inner_content: `for exercising protected speech, and especially for telling `├── LinkNode
 │   full_match: `[https://unite.ontralink.com/c/s/66Hh/WJUvD/s/6aMk/jNn/6XE0Yt/vfE8lo92uu/P/P/r5|the truth about the mRNA jabs]`
 │   inner_content: `the truth about the mRNA jabs`
 │   url: `https://unite.ontralink.com/c/s/66Hh/WJUvD/s/6aMk/jNn/6XE0Yt/vfE8lo92uu/P/P/r5`
@@ -109,9 +109,6 @@ AST Structure:
 │   full_match: `__ %%%  %%% __`
 │   inner_content: ` %%%  %%% `
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── NewlineNode
 │   │   full_match: `%%%`
 │   │   inner_content: ``
@@ -152,24 +149,24 @@ AST Structure:
 │   inner_content: ` by numerous organizations and institutions, `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` by numerous organizations and institutions, `
-│   │   inner_content: ` by numerous organizations and institutions, `├── TextNode
+│   │   full_match: `by numerous organizations and institutions, `
+│   │   inner_content: `by numerous organizations and institutions, `├── TextNode
 │   full_match: `the primary thing`
 │   inner_content: `the primary thing`├── BoldNode
 │   full_match: `__ that has kept me and my projects going is __`
 │   inner_content: ` that has kept me and my projects going is `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` that has kept me and my projects going is `
-│   │   inner_content: ` that has kept me and my projects going is `├── TextNode
+│   │   full_match: `that has kept me and my projects going is `
+│   │   inner_content: `that has kept me and my projects going is `├── TextNode
 │   full_match: `knowing that the more people like you`
 │   inner_content: `knowing that the more people like you`├── BoldNode
 │   full_match: `__ who are interested in learning and willing to share the truth, __`
 │   inner_content: ` who are interested in learning and willing to share the truth, `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` who are interested in learning and willing to share the truth, `
-│   │   inner_content: ` who are interested in learning and willing to share the truth, `├── TextNode
+│   │   full_match: `who are interested in learning and willing to share the truth, `
+│   │   inner_content: `who are interested in learning and willing to share the truth, `├── TextNode
 │   full_match: `the more likely this dark agenda will come to an end. `
 │   inner_content: `the more likely this dark agenda will come to an end. `├── NewlineNode
 │   full_match: `%%%`
@@ -209,8 +206,8 @@ AST Structure:
 │   inner_content: ` and `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` and `
-│   │   inner_content: ` and `├── LinkNode
+│   │   full_match: `and `
+│   │   inner_content: `and `├── LinkNode
 │   full_match: `[https://unite.ontralink.com/c/s/66Hh/WJUvD/j/dvc/jNn/6XE0Yt/s1BIsgXyM4/P/P/r5|Stand For Health Freedom]`
 │   inner_content: `Stand For Health Freedom`
 │   url: `https://unite.ontralink.com/c/s/66Hh/WJUvD/j/dvc/jNn/6XE0Yt/s1BIsgXyM4/P/P/r5`
@@ -244,9 +241,6 @@ AST Structure:
 │   full_match: `__ %%%  %%% __`
 │   inner_content: ` %%%  %%% `
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── NewlineNode
 │   │   full_match: `%%%`
 │   │   inner_content: ``
@@ -272,8 +266,8 @@ AST Structure:
 │   inner_content: ` so many have been asking: namely, `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` so many have been asking: namely, `
-│   │   inner_content: ` so many have been asking: namely, `├── TextNode
+│   │   full_match: `so many have been asking: namely, `
+│   │   inner_content: `so many have been asking: namely, `├── TextNode
 │   full_match: `who is funding the Censorship Industrial Complex? `
 │   inner_content: `who is funding the Censorship Industrial Complex? `├── BoldNode
 │   full_match: `__From __`
@@ -293,8 +287,8 @@ AST Structure:
 │   inner_content: ` to `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` to `
-│   │   inner_content: ` to `├── LinkNode
+│   │   full_match: `to `
+│   │   inner_content: `to `├── LinkNode
 │   full_match: `[https://unite.ontralink.com/c/s/66Hh/WJUvD/e/6lKX/jNn/6XE0Yt/vXHp9DusmA/P/P/r5|Elon Musk]`
 │   inner_content: `Elon Musk`
 │   url: `https://unite.ontralink.com/c/s/66Hh/WJUvD/e/6lKX/jNn/6XE0Yt/vXHp9DusmA/P/P/r5`
@@ -308,8 +302,8 @@ AST Structure:
 │   inner_content: ` from journalists like Matt Taibbi and Paul Thacker, to senators like `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` from journalists like Matt Taibbi and Paul Thacker, to senators like `
-│   │   inner_content: ` from journalists like Matt Taibbi and Paul Thacker, to senators like `├── LinkNode
+│   │   full_match: `from journalists like Matt Taibbi and Paul Thacker, to senators like `
+│   │   inner_content: `from journalists like Matt Taibbi and Paul Thacker, to senators like `├── LinkNode
 │   full_match: `[https://unite.ontralink.com/c/s/66Hh/WJUvD/3/zWr/jNn/6XE0Yt/60WmbXJE3d/P/P/r5|Senator Josh Hawley]`
 │   inner_content: `Senator Josh Hawley`
 │   url: `https://unite.ontralink.com/c/s/66Hh/WJUvD/3/zWr/jNn/6XE0Yt/60WmbXJE3d/P/P/r5`
@@ -377,9 +371,6 @@ AST Structure:
 │   full_match: `__ %%%  %%% __`
 │   inner_content: ` %%%  %%% `
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── NewlineNode
 │   │   full_match: `%%%`
 │   │   inner_content: ``
@@ -398,8 +389,8 @@ AST Structure:
 │   inner_content: ` &quot;`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` &quot;`
-│   │   inner_content: ` &quot;`├── LinkNode
+│   │   full_match: `&quot;`
+│   │   inner_content: `&quot;`├── LinkNode
 │   full_match: `[https://unite.ontralink.com/c/s/66Hh/WJUvD/S/6lXB/jNn/6XE0Yt/jy54Dguye/P/P/r5|Covid Censorship Proved to Be Deadly: Government and Social Media Colluded to Stifle Dissenters ]`
 │   inner_content: `Covid Censorship Proved to Be Deadly: Government and Social Media Colluded to Stifle Dissenters `
 │   url: `https://unite.ontralink.com/c/s/66Hh/WJUvD/S/6lXB/jNn/6XE0Yt/jy54Dguye/P/P/r5`
@@ -471,8 +462,8 @@ AST Structure:
 │   inner_content: ` |\n\n{img type=&quot;attId&quot; attId=&quot;19877&quot; width=&quot;600&quot;}\n{FONT(size=&quot;18&quot;)}`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` |\n\n`
-│   │   inner_content: ` |\n\n`
+│   │   full_match: `|\n\n`
+│   │   inner_content: `|\n\n`
 │   ├── ImgNode
 │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19877&quot; width=&quot;600&quot;}`
 │   │   inner_content: ``
@@ -547,9 +538,6 @@ AST Structure:
 │   full_match: `__ %%%  \n*__`
 │   inner_content: ` %%%  \n*`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── NewlineNode
 │   │   full_match: `%%%`
 │   │   inner_content: ``
@@ -647,8 +635,8 @@ AST Structure:
 │   inner_content: ` (alias(greenmed)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(greenmed)) `
-│   │   inner_content: ` (alias(greenmed)) `
+│   │   full_match: `(alias(greenmed)) `
+│   │   inner_content: `(alias(greenmed)) `
 
 Original Tiki:
 -------------

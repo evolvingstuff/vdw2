@@ -137,8 +137,6 @@ date: 2024-01-03
 
 #### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
 
- 
-
 ---
 
 #### VitaminDWiki – <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium and Vitamin D</a> contains
@@ -280,8 +278,6 @@ Markdown:
 ---
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D&lt;/a&gt;
-
- 
 
 ---
 
@@ -1723,8 +1719,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Overview: Omega-3 many benefits include helping vitamin D&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1775,16 +1771,16 @@ AST Structure:
 │   inner_content: ` (alias(10 recommended supplements: Vitamin D, Omega-3, Ashwaganda, Berberine, etc. - Mercola Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(10 recommended supplements: Vitamin D, Omega-3, Ashwaganda, Berberine, etc. - Mercola Jan 2024)) `
-│   │   inner_content: ` (alias(10 recommended supplements: Vitamin D, Omega-3, Ashwaganda, Berberine, etc. - Mercola Jan 2024)) `├── TextNode
+│   │   full_match: `(alias(10 recommended supplements: Vitamin D, Omega-3, Ashwaganda, Berberine, etc. - Mercola Jan 2024)) `
+│   │   inner_content: `(alias(10 recommended supplements: Vitamin D, Omega-3, Ashwaganda, Berberine, etc. - Mercola Jan 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) `
-│   │   inner_content: ` (alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) `
+│   │   full_match: `(alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) `
+│   │   inner_content: `(alias(10 top supplements: Vitamin D, Omega-3, B-12, Berberine, etc. - Mercola Jan 2024)) `
 
 Original Tiki:
 -------------

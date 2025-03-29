@@ -594,8 +594,8 @@ AST Structure:
 │   inner_content: ` (alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) `
-│   │   inner_content: ` (alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) `
+│   │   full_match: `(alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) `
+│   │   inner_content: `(alias(Many COVID vaccination health problems are associated with low vitamin D – many studies)) `
 
 Original Tiki:
 -------------

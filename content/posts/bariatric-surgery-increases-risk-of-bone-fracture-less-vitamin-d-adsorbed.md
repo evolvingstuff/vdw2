@@ -137,8 +137,8 @@ AST Structure:
 │   │   inner_content: ` vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` vitamin D`
-│   │   │   inner_content: ` vitamin D`
+│   │   │   full_match: `vitamin D`
+│   │   │   inner_content: `vitamin D`
 │   ├── TextNode
 │   │   full_match: ` critical for bone mineralization, and alterations in certain hormones that impact bone health. &quot;`
 │   │   inner_content: ` critical for bone mineralization, and alterations in certain hormones that impact bone health. &quot;`├── HorizontalRuleNode

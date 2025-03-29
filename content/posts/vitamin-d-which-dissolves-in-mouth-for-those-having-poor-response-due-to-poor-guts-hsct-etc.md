@@ -61,7 +61,7 @@ Vitamin D deficiency is common in childhood, pervasive before and after bone mar
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14475{SQL} -->
 </span> visits to this page
 
@@ -120,7 +120,7 @@ Vitamin D deficiency is common in childhood, pervasive before and after bone mar
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14475{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -329,9 +329,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14475{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14475`

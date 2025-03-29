@@ -183,8 +183,8 @@ AST Structure:
 │   inner_content: ` (alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) `
-│   │   inner_content: ` (alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) `
+│   │   full_match: `(alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) `
+│   │   inner_content: `(alias(Multisystem Inflammatory Syndrome of COVID  in Children 3X more likely if low Vitamin D – Feb 2023)) `
 
 Original Tiki:
 -------------

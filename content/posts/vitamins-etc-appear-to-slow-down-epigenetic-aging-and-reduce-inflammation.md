@@ -900,8 +900,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) `
-│   │   inner_content: ` (alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) `
+│   │   full_match: `(alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) `
+│   │   inner_content: `(alias(Vitamins, etc, appear to slow down epigenetic aging and reduce inflammation – March 2024)) `
 
 Original Tiki:
 -------------

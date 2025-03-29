@@ -692,8 +692,8 @@ AST Structure:
 │   inner_content: ` (alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) `
-│   │   inner_content: ` (alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) `
+│   │   full_match: `(alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) `
+│   │   inner_content: `(alias(FDA hired a person to study flu vaccine effectiveness, he found problems and was fired)) `
 
 Original Tiki:
 -------------

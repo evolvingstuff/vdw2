@@ -30,7 +30,7 @@ The goal of this systematic review is to summarise the latest evidence on the im
 
 The review only included literature published from 2012 until 2022, and  **33 eligible studies**  met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).
 
- According to our findings, vitamin D deficiency or insufficiency is associated with 
+According to our findings, vitamin D deficiency or insufficiency is associated with 
 
 * mental health status, 
 
@@ -93,7 +93,7 @@ The goal of this systematic review is to summarise the latest evidence on the im
 
 The review only included literature published from 2012 until 2022, and  **33 eligible studies**  met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).
 
- According to our findings, vitamin D deficiency or insufficiency is associated with 
+According to our findings, vitamin D deficiency or insufficiency is associated with 
 
 * mental health status, 
 
@@ -175,8 +175,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `33 eligible studies`
 │   │   inner_content: `33 eligible studies`├── TextNode
-│   full_match: ` met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).\n According to our findings, vitamin D deficiency or insufficiency is associated with \n`
-│   inner_content: ` met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).\n According to our findings, vitamin D deficiency or insufficiency is associated with \n`├── ListItemNode
+│   full_match: ` met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).\nAccording to our findings, vitamin D deficiency or insufficiency is associated with \n`
+│   inner_content: ` met the inclusion criteria for this review. The included articles were critically appraised using the Mixed Method Appraisal Tool (MMAT).\nAccording to our findings, vitamin D deficiency or insufficiency is associated with \n`├── ListItemNode
 │   full_match: `*mental health status, `
 │   inner_content: `mental health status, `
 │   depth: `1`
@@ -382,8 +382,8 @@ AST Structure:
 │   inner_content: ` (alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) `
-│   │   inner_content: ` (alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) `
+│   │   full_match: `(alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) `
+│   │   inner_content: `(alias(Many Diabetes problems are associated with low Vitamin D – review May 2023)) `
 
 Original Tiki:
 -------------

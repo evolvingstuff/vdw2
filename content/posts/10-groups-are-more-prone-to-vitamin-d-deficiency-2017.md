@@ -45,7 +45,7 @@ Lots of details in the article
 
 1. People who suffer from chronic [Headache](/categories/headache)
 
-  *  Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
+  * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
 
 ---
 
@@ -69,7 +69,7 @@ Lots of details in the article
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14326{SQL} -->
 </span> visits to this page
 
@@ -116,7 +116,7 @@ Lots of details in the article
 
 1. People who suffer from chronic [Headache](/categories/headache)
 
-  *  Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
+  * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
 
 ---
 
@@ -140,7 +140,7 @@ Lots of details in the article
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14326{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -325,8 +325,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697`
-│   │   inner_content: ` Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697`├── HorizontalRuleNode
+│   │   full_match: `Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697`
+│   │   inner_content: `Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Deficiency of Vitamin D)) category contains`
@@ -473,9 +473,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14326{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14326`
@@ -491,16 +488,16 @@ AST Structure:
 │   inner_content: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2016)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2016)) `
-│   │   inner_content: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2016)) `├── TextNode
+│   │   full_match: `(alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2016)) `
+│   │   inner_content: `(alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2016)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) ~/tc~`
 │   inner_content: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) `
-│   │   inner_content: ` (alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) `
+│   │   full_match: `(alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) `
+│   │   inner_content: `(alias(10 Groups  Are More Prone To Vitamin D Deficiency - 2017)) `
 
 Original Tiki:
 -------------

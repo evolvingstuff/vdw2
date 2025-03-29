@@ -231,8 +231,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D Deficiency in South America - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D Deficiency in South America - March 2023)) `
-│   │   inner_content: ` (alias(Vitamin D Deficiency in South America - March 2023)) `
+│   │   full_match: `(alias(Vitamin D Deficiency in South America - March 2023)) `
+│   │   inner_content: `(alias(Vitamin D Deficiency in South America - March 2023)) `
 
 Original Tiki:
 -------------

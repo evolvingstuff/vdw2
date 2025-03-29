@@ -2404,8 +2404,8 @@ AST Structure:
 │   inner_content: ` (alias(End of Alzheimer&#39;s video, transcript, and much more - June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(End of Alzheimer&#39;s video, transcript, and much more - June 2023)) `
-│   │   inner_content: ` (alias(End of Alzheimer&#39;s video, transcript, and much more - June 2023)) `
+│   │   full_match: `(alias(End of Alzheimer&#39;s video, transcript, and much more - June 2023)) `
+│   │   inner_content: `(alias(End of Alzheimer&#39;s video, transcript, and much more - June 2023)) `
 
 Original Tiki:
 -------------

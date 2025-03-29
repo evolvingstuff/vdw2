@@ -46,7 +46,7 @@ higher concentrations of sugar in the blood increase excretion of magnesium in u
 
 stomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)
 
-  **5. People with excessive or uncontrolled stress** 
+ **5. People with excessive or uncontrolled stress** 
 
 stress hormones eat up magnesium and can deplete magnesium stores
 
@@ -121,7 +121,7 @@ higher concentrations of sugar in the blood increase excretion of magnesium in u
 
 stomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)
 
-  **5. People with excessive or uncontrolled stress** 
+ **5. People with excessive or uncontrolled stress** 
 
 stress hormones eat up magnesium and can deplete magnesium stores
 
@@ -305,8 +305,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `4. Those taking certain medications`
 │   │   inner_content: `4. Those taking certain medications`├── TextNode
-│   full_match: `\nstomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)\n `
-│   inner_content: `\nstomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)\n `├── BoldNode
+│   full_match: `\nstomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)\n`
+│   inner_content: `\nstomach acid reducers (such as Nexium, Prevacid, Prilosec, Pepcid, Tums)\n`├── BoldNode
 │   full_match: `__5. People with excessive or uncontrolled stress__`
 │   inner_content: `5. People with excessive or uncontrolled stress`
 │   children:

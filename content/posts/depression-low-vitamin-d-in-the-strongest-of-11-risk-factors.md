@@ -334,8 +334,8 @@ AST Structure:
 │   inner_content: ` (alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) `
-│   │   inner_content: ` (alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) `
+│   │   full_match: `(alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) `
+│   │   inner_content: `(alias(Depression: Low vitamin D in the strongest risk factor – Jan 2023)) `
 
 Original Tiki:
 -------------

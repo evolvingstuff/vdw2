@@ -169,9 +169,6 @@ AST Structure:
 │   │   full_match: `__ ~~#00F:Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D ~~__`
 │   │   inner_content: ` ~~#00F:Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D ~~`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#00F:Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D ~~`
 │   │   │   inner_content: `Note: The survey did not ask about vitamin D supplementation. %%%People on a plant-based diet have less diabetes and may also supplement with Vitamin D `

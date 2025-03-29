@@ -385,8 +385,8 @@ AST Structure:
 │   inner_content: ` (alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) `
-│   │   inner_content: ` (alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) `
+│   │   full_match: `(alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) `
+│   │   inner_content: `(alias(Metabolic Syndrome prevented by Vitamin D and Phytochemicals - Feb 2023)) `
 
 Original Tiki:
 -------------

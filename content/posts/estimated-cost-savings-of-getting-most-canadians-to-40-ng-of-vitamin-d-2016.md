@@ -91,7 +91,7 @@ Bone Fractures, [Cardiovascular](/posts/vitamin-k-cardiovascular-health-and-stro
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14637{SQL} -->
 </span> visits to this page
 
@@ -185,7 +185,7 @@ Bone Fractures, [Cardiovascular](/posts/vitamin-k-cardiovascular-health-and-stro
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14637{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -201,8 +201,8 @@ AST Structure:
 │   inner_content: ` start `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` start `
-│   │   inner_content: ` start `├── TextNode
+│   │   full_match: `start `
+│   │   inner_content: `start `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -223,8 +223,8 @@ AST Structure:
 │   inner_content: ` end`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` end`
-│   │   inner_content: ` end`├── HorizontalRuleNode
+│   │   full_match: `end`
+│   │   inner_content: `end`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Considering: ((Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016))`
@@ -489,9 +489,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14637{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14637`
@@ -507,16 +504,16 @@ AST Structure:
 │   inner_content: ` (alias(Estimated cost savings of getting most people to 60 ng of Vitamin D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Estimated cost savings of getting most people to 60 ng of Vitamin D)) `
-│   │   inner_content: ` (alias(Estimated cost savings of getting most people to 60 ng of Vitamin D)) `├── TextNode
+│   │   full_match: `(alias(Estimated cost savings of getting most people to 60 ng of Vitamin D)) `
+│   │   inner_content: `(alias(Estimated cost savings of getting most people to 60 ng of Vitamin D)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) ~/tc~`
 │   inner_content: ` (alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) `
-│   │   inner_content: ` (alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) `
+│   │   full_match: `(alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) `
+│   │   inner_content: `(alias(Estimated cost savings of getting most Canadian to 40 ng of Vitamin D - 2016)) `
 
 Original Tiki:
 -------------

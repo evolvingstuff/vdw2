@@ -36,7 +36,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[ Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&ab_channel=Dr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&ab_channel=Dr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 
@@ -118,45 +118,45 @@ The Kindle address of your device is under the settings
 
 [Virus](/categories/virus)  **(1240+)** 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11703]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13008]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13008]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13586]</span> (11+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13586]</span> (11+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14221]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14221]</span> (13+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13346]</span> (20+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13346]</span> (20+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13434]</span> (23+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13434]</span> (23+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=7698]</span> (29+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=7698]</span> (29+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14086]</span> (13+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14086]</span> (13+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12259]</span> (35+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12259]</span> (35+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13765]</span> (72+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13765]</span> (72+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14052]</span> (60+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14052]</span> (60+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12472]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12472]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12896]</span> (14+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12896]</span> (14+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11825]</span> (12+) 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=11825]</span> (12+) 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14292]</span> (16+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14292]</span> (16+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13851]</span> (198+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13851]</span> (198+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13335]</span> (650+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=13335]</span> (650+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14371]</span> (31+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14371]</span> (31+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id==11703]</span> 
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id==11703]</span> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14074]</span> (32+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=14074]</span> (32+)
 
 ---
 
@@ -178,7 +178,7 @@ which has links to books and videos on COVID and Vitamin D
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14696{SQL} -->
 </span> visits to this page
 
@@ -216,7 +216,7 @@ a British gastro-enterologist, first studied D-deficiency in the Asian populatio
 
 #### Interview of author Dr. Anderson by Dr. Campbell Nov 2023 and Feb 2024
 
- **[ Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&amp;ab_channel=Dr.JohnCampbell)** 
+ **[Nov 2023 - 73 minute](https://www.youtube.com/watch?v=rLl-SilwQ4g&amp;ab_channel=Dr.JohnCampbell)** 
 
  **[Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024](/posts/vitamin-d-deficiency-pandemic-campbell-and-anderson-video)** 
 
@@ -298,45 +298,45 @@ The Kindle address of your device is under the settings
 
 [Virus](/categories/virus)  **(1240+)** 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+)
 
 ---
 
@@ -358,7 +358,7 @@ which has links to books and videos on COVID and Vitamin D
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14696{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -447,8 +447,8 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=rLl-SilwQ4g&amp;ab_channel=Dr.JohnCampbell`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Nov 2023 - 73 minute`
-│   │   │   inner_content: ` Nov 2023 - 73 minute`├── TextNode
+│   │   │   full_match: `Nov 2023 - 73 minute`
+│   │   │   inner_content: `Nov 2023 - 73 minute`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__((Vitamin D Deficiency Pandemic – Campbell and Anderson video – Feb 2024))__`
@@ -810,9 +810,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -839,9 +836,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -868,9 +862,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -897,9 +888,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -926,9 +914,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -955,9 +940,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -984,9 +966,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1013,9 +992,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1042,9 +1018,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1071,9 +1044,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1100,9 +1070,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1129,9 +1096,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1158,9 +1122,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1187,9 +1148,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1216,9 +1174,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1245,9 +1200,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1274,9 +1226,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1303,9 +1252,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1332,9 +1278,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1361,9 +1304,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -1476,9 +1416,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14696{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14696`
@@ -1494,16 +1431,16 @@ AST Structure:
 │   inner_content: ` (alias(Book on COVID and Vitamin D - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Book on COVID and Vitamin D - Sept 2023)) `
-│   │   inner_content: ` (alias(Book on COVID and Vitamin D - Sept 2023)) `├── TextNode
+│   │   full_match: `(alias(Book on COVID and Vitamin D - Sept 2023)) `
+│   │   inner_content: `(alias(Book on COVID and Vitamin D - Sept 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) ~/tc~`
 │   inner_content: ` (alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) `
-│   │   inner_content: ` (alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) `
+│   │   full_match: `(alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) `
+│   │   inner_content: `(alias(Book by Anderson and Grimes on COVID and Vitamin D - Sept 2023)) `
 
 Original Tiki:
 -------------

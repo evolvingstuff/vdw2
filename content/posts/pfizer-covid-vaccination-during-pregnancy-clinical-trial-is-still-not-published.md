@@ -11,7 +11,7 @@ categories:
 ---
 
 
- 
+
 <!-- {maketoc} -->
  
 
@@ -21,7 +21,7 @@ categories:
 
  **[Substack - Feb 23](https://maryannedemasi.substack.com/p/exclusive-whatever-happened-to-pfizers)** 
 
-Trial with **<span style="color:orange;"> pregnant rats</span>:** 
+Trial with **<span style="color:orange;">pregnant rats</span>:** 
 
 ""The study found the vaccine led to a  **statistically significant  <span style="color:orange;">doubling</span> in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
 
@@ -58,7 +58,7 @@ This list is automatically updated
 <code class="language-text">
 Markdown:
 --------
- 
+
 &lt;!-- {maketoc} --&gt;
  
 
@@ -68,7 +68,7 @@ Markdown:
 
  **[Substack - Feb 23](https://maryannedemasi.substack.com/p/exclusive-whatever-happened-to-pfizers)** 
 
-Trial with **&lt;span style=&quot;color:orange;&quot;&gt; pregnant rats&lt;/span&gt;:** 
+Trial with **&lt;span style=&quot;color:orange;&quot;&gt;pregnant rats&lt;/span&gt;:** 
 
 &quot;&quot;The study found the vaccine led to a  **statistically significant  &lt;span style=&quot;color:orange;&quot;&gt;doubling&lt;/span&gt; in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
 
@@ -103,9 +103,7 @@ This list is automatically updated
 
 AST Structure:
 -------------
-├── TextNode
-│   full_match: ` `
-│   inner_content: ` `├── DivNode
+├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV}`
 │   inner_content: `{maketoc}`
 │   attrs_dict:
@@ -153,8 +151,8 @@ AST Structure:
 │   │   │   raw_content: #F00
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` pregnant rats`
-│   │   │   inner_content: ` pregnant rats`
+│   │   │   full_match: `pregnant rats`
+│   │   │   inner_content: `pregnant rats`
 │   ├── TextNode
 │   │   full_match: `:`
 │   │   inner_content: `:`├── TextNode
@@ -288,24 +286,24 @@ AST Structure:
 │   inner_content: ` (alias(Pfizer had a clinical trial for COVID vaccination during pregnancy - still to reveal the results - Feb 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pfizer had a clinical trial for COVID vaccination during pregnancy - still to reveal the results - Feb 2022)) `
-│   │   inner_content: ` (alias(Pfizer had a clinical trial for COVID vaccination during pregnancy - still to reveal the results - Feb 2022)) `├── TextNode
+│   │   full_match: `(alias(Pfizer had a clinical trial for COVID vaccination during pregnancy - still to reveal the results - Feb 2022)) `
+│   │   inner_content: `(alias(Pfizer had a clinical trial for COVID vaccination during pregnancy - still to reveal the results - Feb 2022)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) ~/tc~`
 │   inner_content: ` (alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) `
-│   │   inner_content: ` (alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) `├── TextNode
+│   │   full_match: `(alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) `
+│   │   inner_content: `(alias(Pfizer clinical trial - COVID vaccination during pregnancy is still not published - Feb 2022)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) ~/tc~`
 │   inner_content: ` (alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) `
-│   │   inner_content: ` (alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) `
+│   │   full_match: `(alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) `
+│   │   inner_content: `(alias(Pfizer COVID vaccination during pregnan cyclinical trial is still not published - Feb 2022)) `
 
 Original Tiki:
 -------------

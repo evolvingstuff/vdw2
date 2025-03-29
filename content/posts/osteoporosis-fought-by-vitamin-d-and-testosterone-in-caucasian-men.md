@@ -587,8 +587,8 @@ AST Structure:
 │   inner_content: ` (alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) `
-│   │   inner_content: ` (alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) `
+│   │   full_match: `(alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) `
+│   │   inner_content: `(alias(Osteoporosis synergistically fought by Vitamin D and Testosterone – March 2023)) `
 
 Original Tiki:
 -------------

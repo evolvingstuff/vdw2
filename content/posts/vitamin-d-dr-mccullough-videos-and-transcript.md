@@ -254,7 +254,7 @@ My protocol was 10,000 units a day. I get them on that, and leave them on that, 
 
 * <a href="/posts/transcripts-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Transcripts in VitaminDWiki">Transcripts in VitaminDWiki</a>
 
-* <a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Does Less Sun mean More Disease</a> <span style="color:orange;"> a 5 minute video by VitaminDWiki</span>
+* <a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Does Less Sun mean More Disease</a> <span style="color:orange;">a 5 minute video by VitaminDWiki</span>
 
 * <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
 
@@ -521,7 +521,7 @@ My protocol was 10,000 units a day. I get them on that, and leave them on that, 
 
 * &lt;a href=&quot;/posts/transcripts-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Transcripts in VitaminDWiki&quot;&gt;Transcripts in VitaminDWiki&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Does Less Sun mean More Disease&lt;/a&gt; &lt;span style=&quot;color:orange;&quot;&gt; a 5 minute video by VitaminDWiki&lt;/span&gt;
+* &lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Does Less Sun mean More Disease&lt;/a&gt; &lt;span style=&quot;color:orange;&quot;&gt;a 5 minute video by VitaminDWiki&lt;/span&gt;
 
 * &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;Diseases that may be related via low vitamin D&lt;/a&gt;
 
@@ -1940,8 +1940,8 @@ AST Structure:
 │   │   │   raw_content: #F00
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` a 5 minute video by VitaminDWiki`
-│   │   │   inner_content: ` a 5 minute video by VitaminDWiki`├── TextNode
+│   │   │   full_match: `a 5 minute video by VitaminDWiki`
+│   │   │   inner_content: `a 5 minute video by VitaminDWiki`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*((Diseases that may be related via low vitamin D))`
@@ -2043,8 +2043,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) `
-│   │   inner_content: ` (alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) `
+│   │   full_match: `(alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) `
+│   │   inner_content: `(alias(Vitamin D experience Dr. McCullough - transcript Aug 2023)) `
 
 Original Tiki:
 -------------

@@ -65,9 +65,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -87,7 +87,7 @@ This list is automatically updated
 
 1. Popkin BM, Corvalan C, Grummer-Strawn LM. Dynamics of the double burden of malnutrition and the changing nutrition reality. Lancet. 2020;395(10217):65-74.
 
-1.  Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to  **bariatric**  surgery. Nutr Clin Pract. 2017;32(4):463-9.
+1. Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to  **bariatric**  surgery. Nutr Clin Pract. 2017;32(4):463-9.
 
 1. Ernst B, Thurnheer M, Schmid SM, Schultes B. Evidence for the necessity to systemati­cally assess micronutrient status prior to  **bariatric**  surgery. Obes Surg. 2009;19(1): 66-73.
 
@@ -163,7 +163,7 @@ This list is automatically updated
 
 1. Navarro JF, Mora C, Jiménez A, Torres A, Macía M, García J. Relationship between serum magnesium and parathyroid hor­mone levels in hemodialysis patients. Am J Kidney Dis. 1999;34(1):43-8.
 
-1.  Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in  **morbid** ly obese patients after  **bariatric**  surgery: a meta-analysis. Obes Surg. 2016;26(1):91-7.
+1. Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in  **morbid** ly obese patients after  **bariatric**  surgery: a meta-analysis. Obes Surg. 2016;26(1):91-7.
 
 1. Moher D, Liberati A, Prisma Group.; Tetzlaff J, Altman DG, PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097.
 
@@ -484,9 +484,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -506,7 +506,7 @@ This list is automatically updated
 
 1. Popkin BM, Corvalan C, Grummer-Strawn LM. Dynamics of the double burden of malnutrition and the changing nutrition reality. Lancet. 2020;395(10217):65-74.
 
-1.  Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to  **bariatric**  surgery. Nutr Clin Pract. 2017;32(4):463-9.
+1. Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to  **bariatric**  surgery. Nutr Clin Pract. 2017;32(4):463-9.
 
 1. Ernst B, Thurnheer M, Schmid SM, Schultes B. Evidence for the necessity to systemati­cally assess micronutrient status prior to  **bariatric**  surgery. Obes Surg. 2009;19(1): 66-73.
 
@@ -582,7 +582,7 @@ This list is automatically updated
 
 1. Navarro JF, Mora C, Jiménez A, Torres A, Macía M, García J. Relationship between serum magnesium and parathyroid hor­mone levels in hemodialysis patients. Am J Kidney Dis. 1999;34(1):43-8.
 
-1.  Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in  **morbid** ly obese patients after  **bariatric**  surgery: a meta-analysis. Obes Surg. 2016;26(1):91-7.
+1. Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in  **morbid** ly obese patients after  **bariatric**  surgery: a meta-analysis. Obes Surg. 2016;26(1):91-7.
 
 1. Moher D, Liberati A, Prisma Group.; Tetzlaff J, Altman DG, PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097.
 
@@ -1138,14 +1138,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;GASTRIC BYPASS\&quot; OR “\&quot;BARIATRIC SURGERY\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!References`
@@ -1247,8 +1247,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to `
-│   │   inner_content: ` Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to `
+│   │   full_match: `Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to `
+│   │   inner_content: `Frame-Peterson LA, Megill RD, Carobrese S, Schweitzer M. Nutrient deficiencies are common prior to `
 │   ├── BoldNode
 │   │   full_match: `__bariatric__`
 │   │   inner_content: `bariatric`
@@ -1789,8 +1789,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in `
-│   │   inner_content: ` Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in `
+│   │   full_match: `Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in `
+│   │   inner_content: `Liu C, Wu D, Zhang JF, Xu D, Xu WF, Chen Y, et al. Changes in bone metabolism in `
 │   ├── BoldNode
 │   │   full_match: `__morbid__`
 │   │   inner_content: `morbid`

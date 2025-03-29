@@ -51,7 +51,7 @@ Conclusion: The rate of VD deficiency is higher in RSA patients. VD deficiency m
 
 #### VitaminDWiki – <a href="/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception">Ensure a healthy pregnancy and baby - take Vitamin D before conception</a>
 
- <img src="/attachments/d3.mock.jpg" alt="image" width="400">
+<img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
 <!-- ~tc~ (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) ~/tc~ -->
 
@@ -101,7 +101,7 @@ Conclusion: The rate of VD deficiency is higher in RSA patients. VD deficiency m
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception&quot;&gt;Ensure a healthy pregnancy and baby - take Vitamin D before conception&lt;/a&gt;
 
- &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
 &lt;!-- ~tc~ (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) ~/tc~ --&gt;
 
@@ -266,8 +266,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Ensure a healthy pregnancy and baby - take Vitamin D before conception`
 │   │   │   inner_content: `Ensure a healthy pregnancy and baby - take Vitamin D before conception`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;fileId&quot; fileId=&quot;3271&quot; width=&quot;400&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -281,8 +281,8 @@ AST Structure:
 │   inner_content: ` (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) `
-│   │   inner_content: ` (alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) `
+│   │   full_match: `(alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) `
+│   │   inner_content: `(alias(Recurrent stillbirths greatly decreased by increased Vitamin D levels - Jan 2024)) `
 
 Original Tiki:
 -------------

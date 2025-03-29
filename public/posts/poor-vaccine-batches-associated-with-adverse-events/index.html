@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Poor vaccine batches associated with adverse events</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743272143">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743272143">
+    <link rel="stylesheet" href="/css/main.css?v=1743273642">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743273642">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743272143"></script>
+    <script src="/js/search.js?v=1743273642"></script>
 </head>
 <body>
     <div class="container">
@@ -408,9 +408,9 @@
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -453,8 +453,6 @@ Dots = Denmark batches during 2021
 Max Schmeling, Vibeke Manniche, Peter Riis Hansen
 
 European Journal of Clinical InvestigationEarly View e13998 https://doi.org/10.1111/eci.13998
-
- 
 
 To the Editor,
 
@@ -547,9 +545,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -567,7 +565,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14378{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -591,9 +589,6 @@ AST Structure:
 │   │   full_match: `__ ~~#00F:Blue~~ batches were suspected of many more adverse events than green or yellow batches__`
 │   │   inner_content: ` ~~#00F:Blue~~ batches were suspected of many more adverse events than green or yellow batches`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#00F:Blue~~`
 │   │   │   inner_content: `Blue`
@@ -640,8 +635,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Batch-dependent safety of the BNT162b2 mRNA COVID-19 vaccine`
 │   │   inner_content: `Batch-dependent safety of the BNT162b2 mRNA COVID-19 vaccine`├── TextNode
-│   full_match: `\nMax Schmeling, Vibeke Manniche, Peter Riis Hansen\nEuropean Journal of Clinical InvestigationEarly View e13998 https://doi.org/10.1111/eci.13998\n \nTo the Editor,\nVaccination has been widely implemented for mitigation of coronavirus disease-2019 (Covid-19), and by 11 November 2022, 701 million doses of the BNT162b2 mRNA vaccine (Pfizer-BioNTech) had been administered and linked with 971,021 reports of suspected adverse effects (SAEs) in the European Union/European Economic Area (EU/EEA).1 Vaccine vials with individual doses are supplied in batches with stringent quality control to ensure batch and dose uniformity.2 Clinical data on individual vaccine batch levels have not been reported and batch-dependent variation in the clinical efficacy and safety of authorized vaccines would appear to be highly unlikely. However, not least in view of the emergency use market authorization and rapid implementation of large-scale vaccination programs, the possibility of batch-dependent variation appears worthy of investigation. We therefore examined rates of SAEs between different BNT162b2 vaccine batches administered in Denmark (population 5.8 million) from 27 December 2020 to 11 January 2022.\n\nData on all SAE cases with corresponding vaccine batch labels reported to the Danish Medical Agency (DKMA) and classified by the DKMA according to SAE seriousness, and numbers of BNT162b2 doses in individual vaccine batches registered by the Danish Serum Institute, respectively, are publicly available and were retrieved upon request. The DKMA-managed spontaneous SAE reporting system accepts reports of SAEs from any source, for example healthcare providers, patients and other members of the public. SAEs are assigned Medical Dictionary for Regulatory Activities (MedDRA) terms that do not necessarily correspond to verified medical diagnoses, and more than 1 SAE may be assigned to a report. SAE seriousness was classified as non-serious, serious (hospitalization or prolongation of existing hospitalization, life-threatening illness, permanent disability or congenital malformation) or SAE-related death respectively. The study relied exclusively on the secondary use of these anonymized data and was thus exempt from research ethics board review. SAEs were counted on a batch level by linking individual SAEs to the batch label(s) of BNT162b dose(s) that the subject had received. The total number of SAEs associated with each batch was divided by the number of doses in the batch to obtain the rate of SAEs per 1000 doses. Since the observed relationship between the numbers of SAEs and BNT162b2 vaccine doses was highly heterogeneous, conventional regression statistics were not considered to be applicable. Therefore, heterogeneity in the relationship between the numbers of SAEs and doses per vaccine batch was assessed by log-transformation followed by non-hierarchical cluster analysis and general linear model (GLM) test for differences in SAE rates between batches. Reporting of the study conforms to broad EQUATOR guidelines.3\n\nA total of 7,835,280 doses were administered to 3,748,215 persons with the use of 52 different BNT162b2 vaccine batches (2340–814,320 doses per batch) and 43,496 SAEs were registered in 13,635 persons, equaling 3.19 ± 0.03 (mean ± SEM) SAEs per person. In each person, individual SAEs were associated with vaccine doses from 1.531 ± 0.004 batches resulting in a total of 66,587 SAEs distributed between the 52 batches. Batch labels were incompletely registered or missing for 7.11% of SAEs, leaving 61,847 batch-identifiable SAEs for further analysis of which 14,509 (23.5%) were classified as severe SAEs and 579 (0.9%) were SAE-related deaths. Unexpectedly, rates of SAEs per 1000 doses varied considerably between vaccine batches with 2.32 (0.09–3.59) (median `
-│   inner_content: `\nMax Schmeling, Vibeke Manniche, Peter Riis Hansen\nEuropean Journal of Clinical InvestigationEarly View e13998 https://doi.org/10.1111/eci.13998\n \nTo the Editor,\nVaccination has been widely implemented for mitigation of coronavirus disease-2019 (Covid-19), and by 11 November 2022, 701 million doses of the BNT162b2 mRNA vaccine (Pfizer-BioNTech) had been administered and linked with 971,021 reports of suspected adverse effects (SAEs) in the European Union/European Economic Area (EU/EEA).1 Vaccine vials with individual doses are supplied in batches with stringent quality control to ensure batch and dose uniformity.2 Clinical data on individual vaccine batch levels have not been reported and batch-dependent variation in the clinical efficacy and safety of authorized vaccines would appear to be highly unlikely. However, not least in view of the emergency use market authorization and rapid implementation of large-scale vaccination programs, the possibility of batch-dependent variation appears worthy of investigation. We therefore examined rates of SAEs between different BNT162b2 vaccine batches administered in Denmark (population 5.8 million) from 27 December 2020 to 11 January 2022.\n\nData on all SAE cases with corresponding vaccine batch labels reported to the Danish Medical Agency (DKMA) and classified by the DKMA according to SAE seriousness, and numbers of BNT162b2 doses in individual vaccine batches registered by the Danish Serum Institute, respectively, are publicly available and were retrieved upon request. The DKMA-managed spontaneous SAE reporting system accepts reports of SAEs from any source, for example healthcare providers, patients and other members of the public. SAEs are assigned Medical Dictionary for Regulatory Activities (MedDRA) terms that do not necessarily correspond to verified medical diagnoses, and more than 1 SAE may be assigned to a report. SAE seriousness was classified as non-serious, serious (hospitalization or prolongation of existing hospitalization, life-threatening illness, permanent disability or congenital malformation) or SAE-related death respectively. The study relied exclusively on the secondary use of these anonymized data and was thus exempt from research ethics board review. SAEs were counted on a batch level by linking individual SAEs to the batch label(s) of BNT162b dose(s) that the subject had received. The total number of SAEs associated with each batch was divided by the number of doses in the batch to obtain the rate of SAEs per 1000 doses. Since the observed relationship between the numbers of SAEs and BNT162b2 vaccine doses was highly heterogeneous, conventional regression statistics were not considered to be applicable. Therefore, heterogeneity in the relationship between the numbers of SAEs and doses per vaccine batch was assessed by log-transformation followed by non-hierarchical cluster analysis and general linear model (GLM) test for differences in SAE rates between batches. Reporting of the study conforms to broad EQUATOR guidelines.3\n\nA total of 7,835,280 doses were administered to 3,748,215 persons with the use of 52 different BNT162b2 vaccine batches (2340–814,320 doses per batch) and 43,496 SAEs were registered in 13,635 persons, equaling 3.19 ± 0.03 (mean ± SEM) SAEs per person. In each person, individual SAEs were associated with vaccine doses from 1.531 ± 0.004 batches resulting in a total of 66,587 SAEs distributed between the 52 batches. Batch labels were incompletely registered or missing for 7.11% of SAEs, leaving 61,847 batch-identifiable SAEs for further analysis of which 14,509 (23.5%) were classified as severe SAEs and 579 (0.9%) were SAE-related deaths. Unexpectedly, rates of SAEs per 1000 doses varied considerably between vaccine batches with 2.32 (0.09–3.59) (median `├── LinkNode
+│   full_match: `\nMax Schmeling, Vibeke Manniche, Peter Riis Hansen\nEuropean Journal of Clinical InvestigationEarly View e13998 https://doi.org/10.1111/eci.13998\n\nTo the Editor,\nVaccination has been widely implemented for mitigation of coronavirus disease-2019 (Covid-19), and by 11 November 2022, 701 million doses of the BNT162b2 mRNA vaccine (Pfizer-BioNTech) had been administered and linked with 971,021 reports of suspected adverse effects (SAEs) in the European Union/European Economic Area (EU/EEA).1 Vaccine vials with individual doses are supplied in batches with stringent quality control to ensure batch and dose uniformity.2 Clinical data on individual vaccine batch levels have not been reported and batch-dependent variation in the clinical efficacy and safety of authorized vaccines would appear to be highly unlikely. However, not least in view of the emergency use market authorization and rapid implementation of large-scale vaccination programs, the possibility of batch-dependent variation appears worthy of investigation. We therefore examined rates of SAEs between different BNT162b2 vaccine batches administered in Denmark (population 5.8 million) from 27 December 2020 to 11 January 2022.\n\nData on all SAE cases with corresponding vaccine batch labels reported to the Danish Medical Agency (DKMA) and classified by the DKMA according to SAE seriousness, and numbers of BNT162b2 doses in individual vaccine batches registered by the Danish Serum Institute, respectively, are publicly available and were retrieved upon request. The DKMA-managed spontaneous SAE reporting system accepts reports of SAEs from any source, for example healthcare providers, patients and other members of the public. SAEs are assigned Medical Dictionary for Regulatory Activities (MedDRA) terms that do not necessarily correspond to verified medical diagnoses, and more than 1 SAE may be assigned to a report. SAE seriousness was classified as non-serious, serious (hospitalization or prolongation of existing hospitalization, life-threatening illness, permanent disability or congenital malformation) or SAE-related death respectively. The study relied exclusively on the secondary use of these anonymized data and was thus exempt from research ethics board review. SAEs were counted on a batch level by linking individual SAEs to the batch label(s) of BNT162b dose(s) that the subject had received. The total number of SAEs associated with each batch was divided by the number of doses in the batch to obtain the rate of SAEs per 1000 doses. Since the observed relationship between the numbers of SAEs and BNT162b2 vaccine doses was highly heterogeneous, conventional regression statistics were not considered to be applicable. Therefore, heterogeneity in the relationship between the numbers of SAEs and doses per vaccine batch was assessed by log-transformation followed by non-hierarchical cluster analysis and general linear model (GLM) test for differences in SAE rates between batches. Reporting of the study conforms to broad EQUATOR guidelines.3\n\nA total of 7,835,280 doses were administered to 3,748,215 persons with the use of 52 different BNT162b2 vaccine batches (2340–814,320 doses per batch) and 43,496 SAEs were registered in 13,635 persons, equaling 3.19 ± 0.03 (mean ± SEM) SAEs per person. In each person, individual SAEs were associated with vaccine doses from 1.531 ± 0.004 batches resulting in a total of 66,587 SAEs distributed between the 52 batches. Batch labels were incompletely registered or missing for 7.11% of SAEs, leaving 61,847 batch-identifiable SAEs for further analysis of which 14,509 (23.5%) were classified as severe SAEs and 579 (0.9%) were SAE-related deaths. Unexpectedly, rates of SAEs per 1000 doses varied considerably between vaccine batches with 2.32 (0.09–3.59) (median `
+│   inner_content: `\nMax Schmeling, Vibeke Manniche, Peter Riis Hansen\nEuropean Journal of Clinical InvestigationEarly View e13998 https://doi.org/10.1111/eci.13998\n\nTo the Editor,\nVaccination has been widely implemented for mitigation of coronavirus disease-2019 (Covid-19), and by 11 November 2022, 701 million doses of the BNT162b2 mRNA vaccine (Pfizer-BioNTech) had been administered and linked with 971,021 reports of suspected adverse effects (SAEs) in the European Union/European Economic Area (EU/EEA).1 Vaccine vials with individual doses are supplied in batches with stringent quality control to ensure batch and dose uniformity.2 Clinical data on individual vaccine batch levels have not been reported and batch-dependent variation in the clinical efficacy and safety of authorized vaccines would appear to be highly unlikely. However, not least in view of the emergency use market authorization and rapid implementation of large-scale vaccination programs, the possibility of batch-dependent variation appears worthy of investigation. We therefore examined rates of SAEs between different BNT162b2 vaccine batches administered in Denmark (population 5.8 million) from 27 December 2020 to 11 January 2022.\n\nData on all SAE cases with corresponding vaccine batch labels reported to the Danish Medical Agency (DKMA) and classified by the DKMA according to SAE seriousness, and numbers of BNT162b2 doses in individual vaccine batches registered by the Danish Serum Institute, respectively, are publicly available and were retrieved upon request. The DKMA-managed spontaneous SAE reporting system accepts reports of SAEs from any source, for example healthcare providers, patients and other members of the public. SAEs are assigned Medical Dictionary for Regulatory Activities (MedDRA) terms that do not necessarily correspond to verified medical diagnoses, and more than 1 SAE may be assigned to a report. SAE seriousness was classified as non-serious, serious (hospitalization or prolongation of existing hospitalization, life-threatening illness, permanent disability or congenital malformation) or SAE-related death respectively. The study relied exclusively on the secondary use of these anonymized data and was thus exempt from research ethics board review. SAEs were counted on a batch level by linking individual SAEs to the batch label(s) of BNT162b dose(s) that the subject had received. The total number of SAEs associated with each batch was divided by the number of doses in the batch to obtain the rate of SAEs per 1000 doses. Since the observed relationship between the numbers of SAEs and BNT162b2 vaccine doses was highly heterogeneous, conventional regression statistics were not considered to be applicable. Therefore, heterogeneity in the relationship between the numbers of SAEs and doses per vaccine batch was assessed by log-transformation followed by non-hierarchical cluster analysis and general linear model (GLM) test for differences in SAE rates between batches. Reporting of the study conforms to broad EQUATOR guidelines.3\n\nA total of 7,835,280 doses were administered to 3,748,215 persons with the use of 52 different BNT162b2 vaccine batches (2340–814,320 doses per batch) and 43,496 SAEs were registered in 13,635 persons, equaling 3.19 ± 0.03 (mean ± SEM) SAEs per person. In each person, individual SAEs were associated with vaccine doses from 1.531 ± 0.004 batches resulting in a total of 66,587 SAEs distributed between the 52 batches. Batch labels were incompletely registered or missing for 7.11% of SAEs, leaving 61,847 batch-identifiable SAEs for further analysis of which 14,509 (23.5%) were classified as severe SAEs and 579 (0.9%) were SAE-related deaths. Unexpectedly, rates of SAEs per 1000 doses varied considerably between vaccine batches with 2.32 (0.09–3.59) (median `├── LinkNode
 │   full_match: `[interquartile range]`
 │   inner_content: `interquartile range`
 │   url: `interquartile range`
@@ -941,14 +936,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;155&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;adverse or vaers&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!22,000 studies describe the problems of not aspirating while vaccinating`
@@ -1012,9 +1007,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14378{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14378`
@@ -1030,24 +1022,24 @@ AST Structure:
 │   inner_content: ` (alias(Some Pfizer batches of COVID vaccines had far more problems - April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Some Pfizer batches of COVID vaccines had far more problems - April 2023)) `
-│   │   inner_content: ` (alias(Some Pfizer batches of COVID vaccines had far more problems - April 2023)) `├── TextNode
+│   │   full_match: `(alias(Some Pfizer batches of COVID vaccines had far more problems - April 2023)) `
+│   │   inner_content: `(alias(Some Pfizer batches of COVID vaccines had far more problems - April 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) `
-│   │   inner_content: ` (alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) `
+│   │   inner_content: `(alias(Some Pfizer batches of COVID vaccines had far more adverse events - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Poor vaccine quality associated with adverse events - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Poor vaccine quality associated with adverse events - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Poor vaccine quality associated with adverse events - March 2023)) `
-│   │   inner_content: ` (alias(Poor vaccine quality associated with adverse events - March 2023)) `
+│   │   full_match: `(alias(Poor vaccine quality associated with adverse events - March 2023)) `
+│   │   inner_content: `(alias(Poor vaccine quality associated with adverse events - March 2023)) `
 
 Original Tiki:
 -------------
@@ -1139,7 +1131,7 @@ __[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=aspirate+vacci
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743272143"></script>
+    <script src="/js/lightspa.js?v=1743273642"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1149,8 +1141,8 @@ __[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0,48&amp;q=aspirate+vacci
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743272143',
-            indexUrl: '\/search\/search_index.json.gz?v=1743272143'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743273642',
+            indexUrl: '\/search\/search_index.json.gz?v=1743273642'
         });
     </script>
 </body>

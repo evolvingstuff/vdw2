@@ -386,8 +386,8 @@ AST Structure:
 │   inner_content: ` (alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) `
-│   │   inner_content: ` (alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) `
+│   │   full_match: `(alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) `
+│   │   inner_content: `(alias(Off Topic: 40 billion gigabytes  of DNA data finally being used to detect diseases - June 2023)) `
 
 Original Tiki:
 -------------

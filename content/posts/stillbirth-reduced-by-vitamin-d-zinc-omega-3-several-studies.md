@@ -28,9 +28,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -54,7 +54,7 @@ This list is automatically updated
 
 * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
-* <a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022"> After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a> has the following
+* <a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a> has the following
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -72,7 +72,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- - - - - - - - 
+- - - - - - - 
 
  **<span style="color:orange;">The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoking</a> and <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">obesity</a> decrease levels of Vitamin D</span>** 
 
@@ -157,9 +157,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -183,7 +183,7 @@ This list is automatically updated
 
 * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
-* &lt;a href=&quot;/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022&quot;&gt; After years of adding vitamin D, Finland now has 38 ng levels - March 2022&lt;/a&gt; has the following
+* &lt;a href=&quot;/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022&quot;&gt;After years of adding vitamin D, Finland now has 38 ng levels - March 2022&lt;/a&gt; has the following
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -201,7 +201,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- - - - - - - - 
+- - - - - - - 
 
  **&lt;span style=&quot;color:orange;&quot;&gt;The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;smoking&lt;/a&gt; and &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;obesity&lt;/a&gt; decrease levels of Vitamin D&lt;/span&gt;** 
 
@@ -309,14 +309,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;STILLBIRTH&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; studies\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Omega-3 reduces stillbirth by 4X– Meta-analysis -March 2015`
@@ -402,8 +402,8 @@ AST Structure:
 │   │   page: ` After years of adding vitamin D, Finland now has 38 ng levels - March 2022`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` After years of adding vitamin D, Finland now has 38 ng levels - March 2022`
-│   │   │   inner_content: ` After years of adding vitamin D, Finland now has 38 ng levels - March 2022`
+│   │   │   full_match: `After years of adding vitamin D, Finland now has 38 ng levels - March 2022`
+│   │   │   inner_content: `After years of adding vitamin D, Finland now has 38 ng levels - March 2022`
 │   ├── TextNode
 │   │   full_match: ` has the following`
 │   │   inner_content: ` has the following`├── TextNode
@@ -454,8 +454,8 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Download the PDF from VitaminDWiki `
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
-│   full_match: `\n - - - - - - - \n`
-│   inner_content: `\n - - - - - - - \n`├── BoldNode
+│   full_match: `\n- - - - - - - \n`
+│   inner_content: `\n- - - - - - - \n`├── BoldNode
 │   full_match: `__&#39;&#39;~~#00F:The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both ((Smoking reduces vitamin D - many studies|smoking)) and ((Overview Obesity and Vitamin D|obesity)) decrease levels of Vitamin D~~&#39;&#39;__`
 │   inner_content: `&#39;&#39;~~#00F:The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both ((Smoking reduces vitamin D - many studies|smoking)) and ((Overview Obesity and Vitamin D|obesity)) decrease levels of Vitamin D~~&#39;&#39;`
 │   children:
@@ -705,8 +705,8 @@ AST Structure:
 │   inner_content: ` (alias(Stillbirth - Zinc, Omega-3, Vitamin D  - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Stillbirth - Zinc, Omega-3, Vitamin D  - several studies)) `
-│   │   inner_content: ` (alias(Stillbirth - Zinc, Omega-3, Vitamin D  - several studies)) `
+│   │   full_match: `(alias(Stillbirth - Zinc, Omega-3, Vitamin D  - several studies)) `
+│   │   inner_content: `(alias(Stillbirth - Zinc, Omega-3, Vitamin D  - several studies)) `
 
 Original Tiki:
 -------------

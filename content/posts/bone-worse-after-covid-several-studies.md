@@ -177,7 +177,7 @@ Conclusions: Significant COVID-19 pandemic effects on bone tissue were determine
 
 #### Long-term implications of COVID-19 on bone health: pathophysiology and therapeutics - July 2022
 
- Inflammation Research  volume 71, pages1025–1040 (2022)
+Inflammation Research  volume 71, pages1025–1040 (2022)
 
 Leena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra & Rupesh K. Srivastava 
 
@@ -407,7 +407,7 @@ Conclusions: Significant COVID-19 pandemic effects on bone tissue were determine
 
 #### Long-term implications of COVID-19 on bone health: pathophysiology and therapeutics - July 2022
 
- Inflammation Research  volume 71, pages1025–1040 (2022)
+Inflammation Research  volume 71, pages1025–1040 (2022)
 
 Leena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra &amp; Rupesh K. Srivastava 
 
@@ -1469,8 +1469,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Long-term implications of COVID-19 on bone health: pathophysiology and therapeutics - July 2022`
 │   │   inner_content: `Long-term implications of COVID-19 on bone health: pathophysiology and therapeutics - July 2022`├── TextNode
-│   full_match: `\n Inflammation Research  volume 71, pages1025–1040 (2022)\nLeena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra &amp; Rupesh K. Srivastava \n\n`
-│   inner_content: `\n Inflammation Research  volume 71, pages1025–1040 (2022)\nLeena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra &amp; Rupesh K. Srivastava \n\n`├── ImgNode
+│   full_match: `\nInflammation Research  volume 71, pages1025–1040 (2022)\nLeena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra &amp; Rupesh K. Srivastava \n\n`
+│   inner_content: `\nInflammation Research  volume 71, pages1025–1040 (2022)\nLeena Sapra, Chaman Saini, Bhavuk Garg, Ranjan Gupta, Bhupendra Verma, Pradyumna K. Mishra &amp; Rupesh K. Srivastava \n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20387&quot; width=&quot;600&quot;}`
 │   inner_content: ``
 │   attrs_dict:

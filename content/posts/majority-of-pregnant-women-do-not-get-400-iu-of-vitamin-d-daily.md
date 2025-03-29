@@ -292,8 +292,8 @@ AST Structure:
 │   inner_content: ` (alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) `
-│   │   inner_content: ` (alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) `
+│   │   full_match: `(alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) `
+│   │   inner_content: `(alias(Most pregnant women do not get 400 IU of Vitamin D daily – July 2023)) `
 
 Original Tiki:
 -------------

@@ -385,7 +385,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **FLCCC = Front Line COVID-19 Critical Care Alliance** 
 
- **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above <span style="color:orange;"> 50 ng/mL</span>** 
+ **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above <span style="color:orange;">50 ng/mL</span>** 
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -792,7 +792,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **FLCCC = Front Line COVID-19 Critical Care Alliance** 
 
- **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above &lt;span style=&quot;color:orange;&quot;&gt; 50 ng/mL&lt;/span&gt;** 
+ **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above &lt;span style=&quot;color:orange;&quot;&gt;50 ng/mL&lt;/span&gt;** 
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -4340,8 +4340,8 @@ AST Structure:
 │   │   │   raw_content: #F06
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 50 ng/mL`
-│   │   │   inner_content: ` 50 ng/mL`├── TextNode
+│   │   │   full_match: `50 ng/mL`
+│   │   │   inner_content: `50 ng/mL`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TableNode
 │   full_match: `||__Body Weight %%% ~hs~ (lbs)__|__Body Weight %%% ~hs~ (kgs)__|__Calcifediol%%% ~hs~ (mg)__|__Equivalent%%% in IU__|__If Calcifediol is not available%%% a bolus of Vitamin D3__\n15-21|7-10|0.1|16,000|20,000\n22-30|10-14|0.15|24,000|35,000\n31-40|15-18|0.2|32,000|50,000\n41-50|19-23|0.3|48,000|60,000\n61-70|28-32|0.5|80,000|100,000\n71-86|33-39|0.6|96,000|150,000\n86-100|40-45|0.7|112,000|200,000\n101-150|46-68|0.8|128,000|250,000\n151-200|69-90|1.0|160,000|300,000\n201-300|91-136|1.15|240,000|400,000\n&gt;300|&gt;137|2.0|320,000|500,000||`

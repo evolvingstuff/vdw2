@@ -74,13 +74,9 @@ This list is automatically updated
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
- 
-
 ---
 
 #### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Overview: Omega-3 many benefits include helping vitamin D</a>
-
- 
 
 ---
 
@@ -159,13 +155,9 @@ This list is automatically updated
 
 #### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
- 
-
 ---
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D&lt;/a&gt;
-
- 
 
 ---
 
@@ -284,8 +276,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`
 │   │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Vitamin D and Omega-3&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -314,8 +306,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Overview: Omega-3 many benefits include helping vitamin D&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:

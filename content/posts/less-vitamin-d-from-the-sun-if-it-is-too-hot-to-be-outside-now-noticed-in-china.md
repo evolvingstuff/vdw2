@@ -42,7 +42,7 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14332{SQL} -->
 </span> visits to this page
 
@@ -87,7 +87,7 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14332{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -243,9 +243,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14332{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14332`
@@ -261,16 +258,16 @@ AST Structure:
 │   inner_content: ` (alias(Less vitamn D from the sun when it is too hot be be outside (now noticed in China) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Less vitamn D from the sun when it is too hot be be outside (now noticed in China) - March 2023)) `
-│   │   inner_content: ` (alias(Less vitamn D from the sun when it is too hot be be outside (now noticed in China) - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Less vitamn D from the sun when it is too hot be be outside (now noticed in China) - March 2023)) `
+│   │   inner_content: `(alias(Less vitamn D from the sun when it is too hot be be outside (now noticed in China) - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) `
-│   │   inner_content: ` (alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) `
+│   │   full_match: `(alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) `
+│   │   inner_content: `(alias(Less vitamn D from the sun if it is too hot to be outside (now noticed in China) - March 2023)) `
 
 Original Tiki:
 -------------

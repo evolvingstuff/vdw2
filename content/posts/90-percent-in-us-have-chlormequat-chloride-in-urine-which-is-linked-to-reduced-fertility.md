@@ -24,7 +24,7 @@ categories:
 | --- | --- |
 | Date | % |
 | 2017 | 69% |
-| 2018-2022 |  74% |
+| 2018-2022 | 74% |
 | 2023 | 90% |
 
 ---
@@ -61,7 +61,7 @@ Markdown:
 | --- | --- |
 | Date | % |
 | 2017 | 69% |
-| 2018-2022 |  74% |
+| 2018-2022 | 74% |
 | 2023 | 90% |
 
 ---
@@ -198,8 +198,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 74%`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 74%`
-│   │   │   │   │   inner_content: ` 74%`
+│   │   │   │   │   full_match: `74%`
+│   │   │   │   │   inner_content: `74%`
 │   │   ├── TableRowNode
 │   │   │   full_match: `2023|90%`
 │   │   │   inner_content: `2023|90%`
@@ -294,16 +294,16 @@ AST Structure:
 │   inner_content: ` (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `
-│   │   inner_content: ` (alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `├── TextNode
+│   │   full_match: `(alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `
+│   │   inner_content: `(alias(80% of US have chlormequat chloride in blood – which is linked to reduced fertility – Feb 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) ~/tc~`
 │   inner_content: ` (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
-│   │   inner_content: ` (alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│   │   full_match: `(alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
+│   │   inner_content: `(alias(80% of US have chlormequat chloride in urine – which is linked to reduced fertility – Feb 2024)) `
 
 Original Tiki:
 -------------

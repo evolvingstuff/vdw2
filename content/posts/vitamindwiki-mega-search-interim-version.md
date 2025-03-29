@@ -10,7 +10,7 @@ date: 2023-08-07
 
 This is an interim version of searching for words or phrases in VitaminDWiki
 
- &nbsp; As you type, it shows the number of lines that match
+&nbsp; As you type, it shows the number of lines that match
 
 Only highlights the results that match your search, but shows the rest
 
@@ -18,7 +18,7 @@ Right-clicking on an item opens the link in a new tab
 
 * It will find the words only in the same order as entered
 
-  *  Example: It will find Breast Cancer, but not Cancer Breast
+  * Example: It will find Breast Cancer, but not Cancer Breast
 
 <!-- ~tc~
 *Example searches: Acne, Antibiotics, 50,000, K2, Magnesium, topical, hair loss, weight loss, chronic pain, 80 ng, high risk, Australia, Myths, Facts, NCAA, FDA, Presenteeism, math mistake, hormone, debunked, sun better than  UV better than vitamin D, Loading dose 
@@ -102,25 +102,25 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>Autism
 
-*  <span>[tiki-index.php?page_id=7508]</span> (14+) 
+* <span>[tiki-index.php?page_id=7508]</span> (14+) 
 
 * [Autoimmune](/categories/autoimmune) (188+)
 
-*  <span>[tiki-index.php?page_id=8916]</span> (10+) 
+* <span>[tiki-index.php?page_id=8916]</span> (10+) 
 
 * [Back Pain](/categories/back-pain) (41+) chronic pain 
 
-*  <span>[tiki-index.php?page_id=8916]</span> (14+) back pain 
+* <span>[tiki-index.php?page_id=8916]</span> (14+) back pain 
 
 * <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D">Bipolar Disorder</a> (16+) genetics  
 
 * [Bone - Health](/categories/bone---health) (300+) 
 
-*  <span>[tiki-index.php?page_id=14377]</span> (28+) BMD  
+* <span>[tiki-index.php?page_id=14377]</span> (28+) BMD  
 
 * [Breathing](/categories/breathing) (435+) see also asthma 
 
-*  <span>[tiki-index.php?page_id=1324]</span> (50+) breathing
+* <span>[tiki-index.php?page_id=1324]</span> (50+) breathing
 
 * <span>[tiki-index.php?page_id=6048]</span> (30+)
 
@@ -136,11 +136,11 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Breast](/categories/cancer---breast) (246+) 
 
-*  <a href="/posts/overview-breast-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Breast Cancer and Vitamin D">Overview Breast Cancer and Vitamin D</a>Breast Cancer
+* <a href="/posts/overview-breast-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Breast Cancer and Vitamin D">Overview Breast Cancer and Vitamin D</a>Breast Cancer
 
 * [Colon](/categories/cancer---colon) (137+) 
 
-*  <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>Colon Cancer
+* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>Colon Cancer
 
 * <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric</a> Cancer (9+)
 
@@ -178,15 +178,15 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a> cardiovascular 
 
-*  <span>[tiki-index.php?page_id=14509]</span> (56+)
+* <span>[tiki-index.php?page_id=14509]</span> (56+)
 
-*  <span>[tiki-index.php?page_id=12919]</span> (20+)
+* <span>[tiki-index.php?page_id=12919]</span> (20+)
 
-*  <span>[tiki-index.php?page_id=3399]</span> (42+)
+* <span>[tiki-index.php?page_id=3399]</span> (42+)
 
-*  <span>[tiki-index.php?page_id=5867]</span> (10+) Heart rate Variability 
+* <span>[tiki-index.php?page_id=5867]</span> (10+) Heart rate Variability 
 
-*  <span>[tiki-index.php?page_id=444]</span> (80+) cardiovascular
+* <span>[tiki-index.php?page_id=444]</span> (80+) cardiovascular
 
 * <a href="/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies">Carpal Tunnel Syndrome</a> (12+)
 
@@ -196,7 +196,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D</a>  statins cholesterol
 
- - - - - -  stopped HP addition of keywords - - - - -
+- - - - -  stopped HP addition of keywords - - - - -
 
 * <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Chronic Fatigue</a> (7) 
 
@@ -206,15 +206,15 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
 
-*  [Anesthesia ==> Cog](/tiki-index.php?page_id=10105) cognitive 
+* [Anesthesia ==> Cog](/tiki-index.php?page_id=10105) cognitive 
 
-*  [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
+* [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
 
-*  [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
+* [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
 
-*  <span>[tiki-index.php?page_id=9810]</span> (50+) cognitive 
+* <span>[tiki-index.php?page_id=9810]</span> (50+) cognitive 
 
-*  <span>[tiki-index.php?page_id=7180]</span> (10+) cognitive 
+* <span>[tiki-index.php?page_id=7180]</span> (10+) cognitive 
 
 * <a href="/posts/overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D">Colds/flu Overview</a>  
 
@@ -230,33 +230,33 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Depression](/categories/depression) (254+)
 
-*  [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
 
-*  <span>[tiki-index.php?page_id=7681]</span> (29) depression
+* <span>[tiki-index.php?page_id=7681]</span> (29) depression
 
 * [Diabetes](/categories/diabetes) (526+) 
 
 * <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14217]</span> (41+) diabetes 
+* <span>[tiki-index.php?page_id=14217]</span> (41+) diabetes 
 
-*  <span>[tiki-index.php?page_id=14001]</span> (27+) diabetes  
+* <span>[tiki-index.php?page_id=14001]</span> (27+) diabetes  
 
-*  <span>[tiki-index.php?page_id=14208]</span>  * <span>[tiki-index.php?page_id=11123]</span> (15+) 
+* <span>[tiki-index.php?page_id=14208]</span>  * <span>[tiki-index.php?page_id=11123]</span> (15+) 
 
-*  <span>[tiki-index.php?page_id=3405]</span>  (30+)
+* <span>[tiki-index.php?page_id=3405]</span>  (30+)
 
-*  <span>[tiki-index.php?page_id=14001]</span> (4+) diabetes  * <span>[tiki-index.php?page_id=13592]</span> (8+) 
+* <span>[tiki-index.php?page_id=14001]</span> (4+) diabetes  * <span>[tiki-index.php?page_id=13592]</span> (8+) 
 
-*  <span>[tiki-index.php?page_id=3405]</span>  (46+) T1D
+* <span>[tiki-index.php?page_id=3405]</span>  (46+) T1D
 
-*  <span>[tiki-index.php?page_id=14400]</span>  (23+)
+* <span>[tiki-index.php?page_id=14400]</span>  (23+)
 
 * <span>[tiki-browse_categories.php?parentId=27&sort_mode=created_desc]</span> (93+) 
 
 * [Ear](/categories/ear) (17+)
 
-*  <span>[tiki-index.php?page_id=4133]</span>  (10+)ear
+* <span>[tiki-index.php?page_id=4133]</span>  (10+)ear
 
 * <a href="/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies">Endometriosis</a> (8+)
 
@@ -272,9 +272,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
-*  [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
+* [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
 
-*  [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
+* [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
 
 * <span>[tiki-index.php?page_id=383]</span> 
 
@@ -284,31 +284,31 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=11217]</span>  (16+) fracture 
+* <span>[tiki-index.php?page_id=11217]</span>  (16+) fracture 
 
-*  <span>[tiki-index.php?page_id=974]</span> 
+* <span>[tiki-index.php?page_id=974]</span> 
 
-*  <span>[tiki-index.php?page_id=14377]</span> (28+) BMD fracture 
+* <span>[tiki-index.php?page_id=14377]</span> (28+) BMD fracture 
 
-*  <span>[tiki-index.php?page_id=14251]</span>  (16+) bone  fracture
+* <span>[tiki-index.php?page_id=14251]</span>  (16+) bone  fracture
 
-*  <span>[tiki-index.php?page_id=3406]</span>  (68+)
+* <span>[tiki-index.php?page_id=3406]</span>  (68+)
 
 * <a href="/posts/frailty-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D - many studies">Frailty</a> (16+)
 
 * [Genetics](/categories/genetics) (324+) genes fraility 
 
-*  [CYP24A1](/categories/genetics) (31+)
+* [CYP24A1](/categories/genetics) (31+)
 
-*  <span>[tiki-index.php?page_id=14254]</span> (25+) 
+* <span>[tiki-index.php?page_id=14254]</span> (25+) 
 
-*  [CYP27B1](/categories/cyp27b1) (57+)
+* [CYP27B1](/categories/cyp27b1) (57+)
 
-*  <span>[tiki-index.php?page_id=14555]</span> (12+) 
+* <span>[tiki-index.php?page_id=14555]</span> (12+) 
 
-*  <a href="/posts/vitamin-d-binding-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Binding Protein">Vit D Binding</a> (172+)
+* <a href="/posts/vitamin-d-binding-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Binding Protein">Vit D Binding</a> (172+)
 
-*  [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
+* [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
 
 * &nbsp;&nbsp;&nbsp;<span>[tiki-index.php?page_id=8643]</span> (79+)
 
@@ -404,13 +404,13 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=13359]</span> (10+) 
+* <span>[tiki-index.php?page_id=13359]</span> (10+) 
 
-*  <span>[tiki-index.php?page_id=13359]</span> (16+) 
+* <span>[tiki-index.php?page_id=13359]</span> (16+) 
 
 * <span>[tiki-index.php?page_id=4274]</span> (113+) 
 
-*  <span>[tiki-index.php?page_id=3451]</span> (30+) 
+* <span>[tiki-index.php?page_id=3451]</span> (30+) 
 
 * <span>[tiki-index.php?page_id=11075]</span> (9+) 
 
@@ -420,11 +420,11 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14205]</span> (60+) obesity 
+* <span>[tiki-index.php?page_id=14205]</span> (60+) obesity 
 
-*  <span>[tiki-index.php?page_id=14049]</span> (25+) 
+* <span>[tiki-index.php?page_id=14049]</span> (25+) 
 
-*  <span>[tiki-index.php?page_id=7990]</span> (67+)  obesity 
+* <span>[tiki-index.php?page_id=7990]</span> (67+)  obesity 
 
 * <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">GLP-1, Ozempic, Wegovy</a>
 
@@ -432,21 +432,21 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14170]</span> (26+) Osteoarthritis 
+* <span>[tiki-index.php?page_id=14170]</span> (26+) Osteoarthritis 
 
 * [Osteoporosis](/categories/osteoporosis) (208+) 
 
 * <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14325]</span> (26+) Osteoporosis 
+* <span>[tiki-index.php?page_id=14325]</span> (26+) Osteoporosis 
 
- – – – – –  add words to here as of Sept 26 – – – – – 
+– – – – –  add words to here as of Sept 26 – – – – – 
 
 * [Pain - chronic](/categories/pain---chronic) (152+) 
 
 * <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and vitamin D">Overview Pain and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=13571]</span> (13+) 
+* <span>[tiki-index.php?page_id=13571]</span> (13+) 
 
 * <span>[tiki-index.php?page_id=7691]</span>  (10+)  
 
@@ -462,33 +462,33 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14642]</span> (38+) 
+* <span>[tiki-index.php?page_id=14642]</span> (38+) 
 
-*  <span>[tiki-index.php?page_id=14357]</span> (21+) 
+* <span>[tiki-index.php?page_id=14357]</span> (21+) 
 
-*  <span>[tiki-index.php?page_id=1566]</span> (30+) {DIV}
+* <span>[tiki-index.php?page_id=1566]</span> (30+) {DIV}
 
-*  <span>[tiki-index.php?page_id=14350]</span> (49+) 
+* <span>[tiki-index.php?page_id=14350]</span> (49+) 
 
-*  [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
+* [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
 
-*  <span>[tiki-index.php?page_id=8202]</span> (21+) 
+* <span>[tiki-index.php?page_id=8202]</span> (21+) 
 
-*  <span>[tiki-index.php?page_id=6868]</span> (30+) 
+* <span>[tiki-index.php?page_id=6868]</span> (30+) 
 
-*  <span>[tiki-index.php?page_id=13211]</span> (31+) 
+* <span>[tiki-index.php?page_id=13211]</span> (31+) 
 
-*  <span>[tiki-index.php?page_id=7361]</span> (13+) 
+* <span>[tiki-index.php?page_id=7361]</span> (13+) 
 
-*  <span>[tiki-index.php?page_id=9951]</span> (49+) 
+* <span>[tiki-index.php?page_id=9951]</span> (49+) 
 
-*  <span>[tiki-index.php?page_id=3003]</span> (15+) 
+* <span>[tiki-index.php?page_id=3003]</span> (15+) 
 
-*  <span>[tiki-index.php?page_id=13028]</span> (55+) 
+* <span>[tiki-index.php?page_id=13028]</span> (55+) 
 
-*  <span>[tiki-index.php?page_id=14440]</span> (116+) 
+* <span>[tiki-index.php?page_id=14440]</span> (116+) 
 
-*  <span>[tiki-index.php?page_id=14030]</span> (13+) 
+* <span>[tiki-index.php?page_id=14030]</span> (13+) 
 
 * <span>[tiki-index.php?page_id=6680]</span> (16+) 
 
@@ -522,15 +522,15 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=13320]</span>
+* <span>[tiki-index.php?page_id=13320]</span>
 
-*  <span>[tiki-index.php?page_id=2027]</span>
+* <span>[tiki-index.php?page_id=2027]</span>
 
-*  <span>[tiki-index.php?page_id=5053]</span>
+* <span>[tiki-index.php?page_id=5053]</span>
 
 * [Sleep](/categories/sleep) (92+)
 
-*  <span>[tiki-index.php?page_id=14681]</span>
+* <span>[tiki-index.php?page_id=14681]</span>
 
 * <span>[tiki-index.php?page_id=341]</span> (83+)
 
@@ -544,7 +544,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=3413]</span> (9+)* <span>[tiki-index.php?page_id=10336]</span> (15+)
+* <span>[tiki-index.php?page_id=3413]</span> (9+)* <span>[tiki-index.php?page_id=10336]</span> (15+)
 
 * <a href="/posts/suicide-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Suicide associated with low vitamin D - many studies">Suicide</a> (16+)
 
@@ -552,21 +552,21 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=14180]</span> (34+) 
+* <span>[tiki-index.php?page_id=14180]</span> (34+) 
 
 * [Trauma/Surgery](/categories/trauma-and-surgery) (325+)
 
-*  <span>[tiki-index.php?page_id=14404]</span> (12+) 
+* <span>[tiki-index.php?page_id=14404]</span> (12+) 
 
-*  <span>[tiki-index.php?page_id=10669]</span> (23+) 
+* <span>[tiki-index.php?page_id=10669]</span> (23+) 
 
-*  <span>[tiki-index.php?page_id=14083]</span> (69+) 
+* <span>[tiki-index.php?page_id=14083]</span> (69+) 
 
-*  <span>[tiki-index.php?page_id=10669]</span> (69+) 
+* <span>[tiki-index.php?page_id=10669]</span> (69+) 
 
-*  <span>[tiki-index.php?page_id=1855]</span> (41+) 
+* <span>[tiki-index.php?page_id=1855]</span> (41+) 
 
-*  <span>[tiki-index.php?page_id=13791]</span> (22+) 
+* <span>[tiki-index.php?page_id=13791]</span> (22+) 
 
 * [Tuberculosis](/categories/tuberculosis) (119+) 
 
@@ -578,91 +578,91 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Virus](/categories/virus)  **(1240+)** 
 
-*  <span>[tiki-index.php?page_id=11703]</span> 
+* <span>[tiki-index.php?page_id=11703]</span> 
 
-*  <span>[tiki-index.php?page_id=13008]</span> 
+* <span>[tiki-index.php?page_id=13008]</span> 
 
-*  <span>[tiki-index.php?page_id=13586]</span> (11+) 
+* <span>[tiki-index.php?page_id=13586]</span> (11+) 
 
-*  <span>[tiki-index.php?page_id=14221]</span> (13+) 
+* <span>[tiki-index.php?page_id=14221]</span> (13+) 
 
-*  <span>[tiki-index.php?page_id=13346]</span> (20+)
+* <span>[tiki-index.php?page_id=13346]</span> (20+)
 
-*  <span>[tiki-index.php?page_id=13434]</span> (23+) 
+* <span>[tiki-index.php?page_id=13434]</span> (23+) 
 
-*  <span>[tiki-index.php?page_id=7698]</span> (29+) 
+* <span>[tiki-index.php?page_id=7698]</span> (29+) 
 
-*  <span>[tiki-index.php?page_id=14086]</span> (13+) 
+* <span>[tiki-index.php?page_id=14086]</span> (13+) 
 
-*  <span>[tiki-index.php?page_id=12259]</span> (35+) 
+* <span>[tiki-index.php?page_id=12259]</span> (35+) 
 
-*  <span>[tiki-index.php?page_id=13765]</span> (72+)
+* <span>[tiki-index.php?page_id=13765]</span> (72+)
 
-*  <span>[tiki-index.php?page_id=14052]</span> (60+)
+* <span>[tiki-index.php?page_id=14052]</span> (60+)
 
-*  <span>[tiki-index.php?page_id=14687]</span> (11+)
+* <span>[tiki-index.php?page_id=14687]</span> (11+)
 
-*  <span>[tiki-index.php?page_id=12472]</span> 
+* <span>[tiki-index.php?page_id=12472]</span> 
 
-*  <span>[tiki-index.php?page_id=12896]</span> (14+) 
+* <span>[tiki-index.php?page_id=12896]</span> (14+) 
 
-*  <span>[tiki-index.php?page_id=11825]</span> (12+) 
+* <span>[tiki-index.php?page_id=11825]</span> (12+) 
 
-*  <span>[tiki-index.php?page_id=14292]</span> (16+)
+* <span>[tiki-index.php?page_id=14292]</span> (16+)
 
-*  <span>[tiki-index.php?page_id=13851]</span> (198+)
+* <span>[tiki-index.php?page_id=13851]</span> (198+)
 
-*  <span>[tiki-index.php?page_id=13335]</span> (650+)
+* <span>[tiki-index.php?page_id=13335]</span> (650+)
 
-*  <span>[tiki-index.php?page_id=14371]</span> (31+)
+* <span>[tiki-index.php?page_id=14371]</span> (31+)
 
-*  <span>[tiki-index.php?page_id==11703]</span> 
+* <span>[tiki-index.php?page_id==11703]</span> 
 
-*  <span>[tiki-index.php?page_id=14074]</span> (32+)
+* <span>[tiki-index.php?page_id=14074]</span> (32+)
 
 * [Vision](/categories/vision) (94+)
 
-*  <span>[tiki-index.php?page_id=14381]</span> (12+)
+* <span>[tiki-index.php?page_id=14381]</span> (12+)
 
-*  <span>[tiki-index.php?page_id=9165]</span> (15+)
+* <span>[tiki-index.php?page_id=9165]</span> (15+)
 
-*  <span>[tiki-index.php?page_id=14697]</span> (8+)
+* <span>[tiki-index.php?page_id=14697]</span> (8+)
 
-*  <span>[tiki-index.php?page_id=12938]</span> (14+)
+* <span>[tiki-index.php?page_id=12938]</span> (14+)
 
-*  <span>[tiki-index.php?page_id=14515]</span> (20+)
+* <span>[tiki-index.php?page_id=14515]</span> (20+)
 
  <span style="color:orange;"> **People and Low Vitamin D** </span>
 
 * [Infant/Child](/categories/infant-child) (788+)
 
-*  <span>[tiki-index.php?page_id=14501]</span> (36+) 
+* <span>[tiki-index.php?page_id=14501]</span> (36+) 
 
-*  <span>[tiki-index.php?page_id=12600]</span> (13+) 
+* <span>[tiki-index.php?page_id=12600]</span> (13+) 
 
-*  <span>[tiki-index.php?page_id=9219]</span> (15+) 
+* <span>[tiki-index.php?page_id=9219]</span> (15+) 
 
-*  <span>[tiki-index.php?page_id=14251]</span> (10+) 
+* <span>[tiki-index.php?page_id=14251]</span> (10+) 
 
-*  <span>[tiki-index.php?page_id=1324]</span> (25+) 
+* <span>[tiki-index.php?page_id=1324]</span> (25+) 
 
-*  <span>[tiki-index.php?page_id=8865]</span> (21+) 
+* <span>[tiki-index.php?page_id=8865]</span> (21+) 
 
-*  <span>[tiki-index.php?page_id=3293]</span> (9+) 
+* <span>[tiki-index.php?page_id=3293]</span> (9+) 
 
-*  <span>[tiki-index.php?page_id=14521]</span> (21+) 
+* <span>[tiki-index.php?page_id=14521]</span> (21+) 
 
-*  <span>[tiki-index.php?page_id=11825]</span> (25+) 
+* <span>[tiki-index.php?page_id=11825]</span> (25+) 
 
-*  <span>[tiki-index.php?page_id=3722]</span> (9+) 
+* <span>[tiki-index.php?page_id=3722]</span> (9+) 
 
-*  <span>[tiki-index.php?page_id=13586]</span> (10+) 
+* <span>[tiki-index.php?page_id=13586]</span> (10+) 
 
-*  <span>[tiki-index.php?page_id=3433]</span> (42+) 
+* <span>[tiki-index.php?page_id=3433]</span> (42+) 
 
 * <span>[tiki-index.php?page_id=5149]</span> (27+) 
 
-*  <span>[tiki-index.php?page_id=14358]</span> (17+) 
+* <span>[tiki-index.php?page_id=14358]</span> (17+) 
 
 * <span>[tiki-index.php?page_id=14494]</span> (14+) 
 
@@ -670,17 +670,17 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
 
-*  <span>[tiki-index.php?page_id=2731]</span> 
+* <span>[tiki-index.php?page_id=2731]</span> 
 
-*  <span>[tiki-index.php?page_id=3308]</span> (20+) 
+* <span>[tiki-index.php?page_id=3308]</span> (20+) 
 
-*  <span>[tiki-index.php?page_id=14356]</span> (19+) 
+* <span>[tiki-index.php?page_id=14356]</span> (19+) 
 
-*  <span>[tiki-index.php?page_id=3451]</span> (25+) 
+* <span>[tiki-index.php?page_id=3451]</span> (25+) 
 
-*  <span>[tiki-index.php?page_id=114]</span> (15+) 
+* <span>[tiki-index.php?page_id=114]</span> (15+) 
 
-*  <span>[tiki-index.php?page_id=3460]</span> (22+) 
+* <span>[tiki-index.php?page_id=3460]</span> (22+) 
 
 * [Skin - Dark](/categories/skin---dark) (458+)
 
@@ -688,9 +688,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/sports" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sports">Sports</a> (267+) 
 
-*  <span>[tiki-index.php?page_id=1259]</span>  
+* <span>[tiki-index.php?page_id=1259]</span>  
 
-*  <span>[tiki-index.php?page_id=14367]</span> (68+) 
+* <span>[tiki-index.php?page_id=14367]</span> (68+) 
 
 * [Women](/categories/women) (184+) 
 
@@ -714,9 +714,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Youth](/categories/youth) (171+)
 
-*  <span>[tiki-index.php?page_id=3293]</span> (15+) 
+* <span>[tiki-index.php?page_id=3293]</span> (15+) 
 
-&nbsp;&nbsp;1.  of studies as of  Aug 7, 2023
+&nbsp;&nbsp;1. of studies as of  Aug 7, 2023
 
 ---
 
@@ -3816,7 +3816,7 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * <a href="/posts/acute-rehab-patients-23x-more-likely-to-have-musculoskeletal-pain-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acute Rehab. patients 2.3X more likely to have musculoskeletal pain if low vitamin D – Oct 2014">Acute Rehab. patients 2.3X more likely to have musculoskeletal pain if low vitamin D – Oct 2014</a>
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14592{SQL} -->
 </span> visits to this page
 
@@ -3832,7 +3832,7 @@ Markdown:
 --------
 This is an interim version of searching for words or phrases in VitaminDWiki
 
- &amp;nbsp; As you type, it shows the number of lines that match
+&amp;nbsp; As you type, it shows the number of lines that match
 
 Only highlights the results that match your search, but shows the rest
 
@@ -3840,7 +3840,7 @@ Right-clicking on an item opens the link in a new tab
 
 * It will find the words only in the same order as entered
 
-  *  Example: It will find Breast Cancer, but not Cancer Breast
+  * Example: It will find Breast Cancer, but not Cancer Breast
 
 &lt;!-- ~tc~
 *Example searches: Acne, Antibiotics, 50,000, K2, Magnesium, topical, hair loss, weight loss, chronic pain, 80 ng, high risk, Australia, Myths, Facts, NCAA, FDA, Presenteeism, math mistake, hormone, debunked, sun better than  UV better than vitamin D, Loading dose 
@@ -3924,25 +3924,25 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-autism-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Autism and vitamin D&quot;&gt;Overview Autism and vitamin D&lt;/a&gt;Autism
 
-*  &lt;span&gt;[tiki-index.php?page_id=7508]&lt;/span&gt; (14+) 
+* &lt;span&gt;[tiki-index.php?page_id=7508]&lt;/span&gt; (14+) 
 
 * [Autoimmune](/categories/autoimmune) (188+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=8916]&lt;/span&gt; (10+) 
+* &lt;span&gt;[tiki-index.php?page_id=8916]&lt;/span&gt; (10+) 
 
 * [Back Pain](/categories/back-pain) (41+) chronic pain 
 
-*  &lt;span&gt;[tiki-index.php?page_id=8916]&lt;/span&gt; (14+) back pain 
+* &lt;span&gt;[tiki-index.php?page_id=8916]&lt;/span&gt; (14+) back pain 
 
 * &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D&quot;&gt;Bipolar Disorder&lt;/a&gt; (16+) genetics  
 
 * [Bone - Health](/categories/bone---health) (300+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14377]&lt;/span&gt; (28+) BMD  
+* &lt;span&gt;[tiki-index.php?page_id=14377]&lt;/span&gt; (28+) BMD  
 
 * [Breathing](/categories/breathing) (435+) see also asthma 
 
-*  &lt;span&gt;[tiki-index.php?page_id=1324]&lt;/span&gt; (50+) breathing
+* &lt;span&gt;[tiki-index.php?page_id=1324]&lt;/span&gt; (50+) breathing
 
 * &lt;span&gt;[tiki-index.php?page_id=6048]&lt;/span&gt; (30+)
 
@@ -3958,11 +3958,11 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Breast](/categories/cancer---breast) (246+) 
 
-*  &lt;a href=&quot;/posts/overview-breast-cancer-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Breast Cancer and Vitamin D&quot;&gt;Overview Breast Cancer and Vitamin D&lt;/a&gt;Breast Cancer
+* &lt;a href=&quot;/posts/overview-breast-cancer-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Breast Cancer and Vitamin D&quot;&gt;Overview Breast Cancer and Vitamin D&lt;/a&gt;Breast Cancer
 
 * [Colon](/categories/cancer---colon) (137+) 
 
-*  &lt;a href=&quot;/posts/overview-cancer-colon-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cancer-Colon and vitamin D&quot;&gt;Overview Cancer-Colon and vitamin D&lt;/a&gt;Colon Cancer
+* &lt;a href=&quot;/posts/overview-cancer-colon-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cancer-Colon and vitamin D&quot;&gt;Overview Cancer-Colon and vitamin D&lt;/a&gt;Colon Cancer
 
 * &lt;a href=&quot;/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies&quot;&gt;Gastric&lt;/a&gt; Cancer (9+)
 
@@ -4000,15 +4000,15 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-cardiovascular-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cardiovascular and vitamin D&quot;&gt;Overview Cardiovascular and vitamin D&lt;/a&gt; cardiovascular 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14509]&lt;/span&gt; (56+)
+* &lt;span&gt;[tiki-index.php?page_id=14509]&lt;/span&gt; (56+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=12919]&lt;/span&gt; (20+)
+* &lt;span&gt;[tiki-index.php?page_id=12919]&lt;/span&gt; (20+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=3399]&lt;/span&gt; (42+)
+* &lt;span&gt;[tiki-index.php?page_id=3399]&lt;/span&gt; (42+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=5867]&lt;/span&gt; (10+) Heart rate Variability 
+* &lt;span&gt;[tiki-index.php?page_id=5867]&lt;/span&gt; (10+) Heart rate Variability 
 
-*  &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+) cardiovascular
+* &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+) cardiovascular
 
 * &lt;a href=&quot;/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies&quot;&gt;Carpal Tunnel Syndrome&lt;/a&gt; (12+)
 
@@ -4018,7 +4018,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-cholesterol-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cholesterol and vitamin D&quot;&gt;Overview Cholesterol and vitamin D&lt;/a&gt;  statins cholesterol
 
- - - - - -  stopped HP addition of keywords - - - - -
+- - - - -  stopped HP addition of keywords - - - - -
 
 * &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Chronic Fatigue&lt;/a&gt; (7) 
 
@@ -4028,15 +4028,15 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt;
 
-*  [Anesthesia ==&gt; Cog](/tiki-index.php?page_id=10105) cognitive 
+* [Anesthesia ==&gt; Cog](/tiki-index.php?page_id=10105) cognitive 
 
-*  [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
+* [Brain](/tiki-index.php?page_id=14019) (94+) cognitive 
 
-*  [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
+* [Delirium](/tiki-index.php?page_id=14250) (9+) cognitive 
 
-*  &lt;span&gt;[tiki-index.php?page_id=9810]&lt;/span&gt; (50+) cognitive 
+* &lt;span&gt;[tiki-index.php?page_id=9810]&lt;/span&gt; (50+) cognitive 
 
-*  &lt;span&gt;[tiki-index.php?page_id=7180]&lt;/span&gt; (10+) cognitive 
+* &lt;span&gt;[tiki-index.php?page_id=7180]&lt;/span&gt; (10+) cognitive 
 
 * &lt;a href=&quot;/posts/overview-colds-and-flu-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Colds and flu and Vitamin D&quot;&gt;Colds/flu Overview&lt;/a&gt;  
 
@@ -4052,33 +4052,33 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Depression](/categories/depression) (254+)
 
-*  [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
+* [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies) ( 11+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=7681]&lt;/span&gt; (29) depression
+* &lt;span&gt;[tiki-index.php?page_id=7681]&lt;/span&gt; (29) depression
 
 * [Diabetes](/categories/diabetes) (526+) 
 
 * &lt;a href=&quot;/posts/overview-diabetes-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Diabetes and vitamin D&quot;&gt;Overview Diabetes and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14217]&lt;/span&gt; (41+) diabetes 
+* &lt;span&gt;[tiki-index.php?page_id=14217]&lt;/span&gt; (41+) diabetes 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14001]&lt;/span&gt; (27+) diabetes  
+* &lt;span&gt;[tiki-index.php?page_id=14001]&lt;/span&gt; (27+) diabetes  
 
-*  &lt;span&gt;[tiki-index.php?page_id=14208]&lt;/span&gt;  * &lt;span&gt;[tiki-index.php?page_id=11123]&lt;/span&gt; (15+) 
+* &lt;span&gt;[tiki-index.php?page_id=14208]&lt;/span&gt;  * &lt;span&gt;[tiki-index.php?page_id=11123]&lt;/span&gt; (15+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3405]&lt;/span&gt;  (30+)
+* &lt;span&gt;[tiki-index.php?page_id=3405]&lt;/span&gt;  (30+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14001]&lt;/span&gt; (4+) diabetes  * &lt;span&gt;[tiki-index.php?page_id=13592]&lt;/span&gt; (8+) 
+* &lt;span&gt;[tiki-index.php?page_id=14001]&lt;/span&gt; (4+) diabetes  * &lt;span&gt;[tiki-index.php?page_id=13592]&lt;/span&gt; (8+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3405]&lt;/span&gt;  (46+) T1D
+* &lt;span&gt;[tiki-index.php?page_id=3405]&lt;/span&gt;  (46+) T1D
 
-*  &lt;span&gt;[tiki-index.php?page_id=14400]&lt;/span&gt;  (23+)
+* &lt;span&gt;[tiki-index.php?page_id=14400]&lt;/span&gt;  (23+)
 
 * &lt;span&gt;[tiki-browse_categories.php?parentId=27&amp;sort_mode=created_desc]&lt;/span&gt; (93+) 
 
 * [Ear](/categories/ear) (17+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=4133]&lt;/span&gt;  (10+)ear
+* &lt;span&gt;[tiki-index.php?page_id=4133]&lt;/span&gt;  (10+)ear
 
 * &lt;a href=&quot;/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies&quot;&gt;Endometriosis&lt;/a&gt; (8+)
 
@@ -4094,9 +4094,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
-*  [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
+* [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
 
-*  [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
+* [In Vitro Fertilization](/tiki-index.php?page_id=3277) (18+) IVF
 
 * &lt;span&gt;[tiki-index.php?page_id=383]&lt;/span&gt; 
 
@@ -4106,31 +4106,31 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-fractures-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fractures and vitamin D&quot;&gt;Overview Fractures and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=11217]&lt;/span&gt;  (16+) fracture 
+* &lt;span&gt;[tiki-index.php?page_id=11217]&lt;/span&gt;  (16+) fracture 
 
-*  &lt;span&gt;[tiki-index.php?page_id=974]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id=974]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14377]&lt;/span&gt; (28+) BMD fracture 
+* &lt;span&gt;[tiki-index.php?page_id=14377]&lt;/span&gt; (28+) BMD fracture 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14251]&lt;/span&gt;  (16+) bone  fracture
+* &lt;span&gt;[tiki-index.php?page_id=14251]&lt;/span&gt;  (16+) bone  fracture
 
-*  &lt;span&gt;[tiki-index.php?page_id=3406]&lt;/span&gt;  (68+)
+* &lt;span&gt;[tiki-index.php?page_id=3406]&lt;/span&gt;  (68+)
 
 * &lt;a href=&quot;/posts/frailty-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Frailty and Vitamin D - many studies&quot;&gt;Frailty&lt;/a&gt; (16+)
 
 * [Genetics](/categories/genetics) (324+) genes fraility 
 
-*  [CYP24A1](/categories/genetics) (31+)
+* [CYP24A1](/categories/genetics) (31+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14254]&lt;/span&gt; (25+) 
+* &lt;span&gt;[tiki-index.php?page_id=14254]&lt;/span&gt; (25+) 
 
-*  [CYP27B1](/categories/cyp27b1) (57+)
+* [CYP27B1](/categories/cyp27b1) (57+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14555]&lt;/span&gt; (12+) 
+* &lt;span&gt;[tiki-index.php?page_id=14555]&lt;/span&gt; (12+) 
 
-*  &lt;a href=&quot;/posts/vitamin-d-binding-protein&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Binding Protein&quot;&gt;Vit D Binding&lt;/a&gt; (172+)
+* &lt;a href=&quot;/posts/vitamin-d-binding-protein&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Binding Protein&quot;&gt;Vit D Binding&lt;/a&gt; (172+)
 
-*  [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
+* [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
 
 * &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span&gt;[tiki-index.php?page_id=8643]&lt;/span&gt; (79+)
 
@@ -4226,13 +4226,13 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-ms-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview MS and vitamin D&quot;&gt;Overview MS and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=13359]&lt;/span&gt; (10+) 
+* &lt;span&gt;[tiki-index.php?page_id=13359]&lt;/span&gt; (10+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13359]&lt;/span&gt; (16+) 
+* &lt;span&gt;[tiki-index.php?page_id=13359]&lt;/span&gt; (16+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=4274]&lt;/span&gt; (113+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3451]&lt;/span&gt; (30+) 
+* &lt;span&gt;[tiki-index.php?page_id=3451]&lt;/span&gt; (30+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=11075]&lt;/span&gt; (9+) 
 
@@ -4242,11 +4242,11 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;Overview Obesity and Vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14205]&lt;/span&gt; (60+) obesity 
+* &lt;span&gt;[tiki-index.php?page_id=14205]&lt;/span&gt; (60+) obesity 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14049]&lt;/span&gt; (25+) 
+* &lt;span&gt;[tiki-index.php?page_id=14049]&lt;/span&gt; (25+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=7990]&lt;/span&gt; (67+)  obesity 
+* &lt;span&gt;[tiki-index.php?page_id=7990]&lt;/span&gt; (67+)  obesity 
 
 * &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;GLP-1, Ozempic, Wegovy&lt;/a&gt;
 
@@ -4254,21 +4254,21 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-osteoarthritis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Osteoarthritis and Vitamin D&quot;&gt;Overview Osteoarthritis and Vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14170]&lt;/span&gt; (26+) Osteoarthritis 
+* &lt;span&gt;[tiki-index.php?page_id=14170]&lt;/span&gt; (26+) Osteoarthritis 
 
 * [Osteoporosis](/categories/osteoporosis) (208+) 
 
 * &lt;a href=&quot;/posts/overview-osteoporosis-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Osteoporosis and vitamin D&quot;&gt;Overview Osteoporosis and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14325]&lt;/span&gt; (26+) Osteoporosis 
+* &lt;span&gt;[tiki-index.php?page_id=14325]&lt;/span&gt; (26+) Osteoporosis 
 
- – – – – –  add words to here as of Sept 26 – – – – – 
+– – – – –  add words to here as of Sept 26 – – – – – 
 
 * [Pain - chronic](/categories/pain---chronic) (152+) 
 
 * &lt;a href=&quot;/posts/overview-pain-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Pain and vitamin D&quot;&gt;Overview Pain and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=13571]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=13571]&lt;/span&gt; (13+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=7691]&lt;/span&gt;  (10+)  
 
@@ -4284,33 +4284,33 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-pregnancy-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Pregnancy and vitamin D&quot;&gt;Overview Pregnancy and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14642]&lt;/span&gt; (38+) 
+* &lt;span&gt;[tiki-index.php?page_id=14642]&lt;/span&gt; (38+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14357]&lt;/span&gt; (21+) 
+* &lt;span&gt;[tiki-index.php?page_id=14357]&lt;/span&gt; (21+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=1566]&lt;/span&gt; (30+) {DIV}
+* &lt;span&gt;[tiki-index.php?page_id=1566]&lt;/span&gt; (30+) {DIV}
 
-*  &lt;span&gt;[tiki-index.php?page_id=14350]&lt;/span&gt; (49+) 
+* &lt;span&gt;[tiki-index.php?page_id=14350]&lt;/span&gt; (49+) 
 
-*  [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
+* [In Vitro Fert.](/tiki-index.php?page_id=3277) (18+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=8202]&lt;/span&gt; (21+) 
+* &lt;span&gt;[tiki-index.php?page_id=8202]&lt;/span&gt; (21+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=6868]&lt;/span&gt; (30+) 
+* &lt;span&gt;[tiki-index.php?page_id=6868]&lt;/span&gt; (30+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13211]&lt;/span&gt; (31+) 
+* &lt;span&gt;[tiki-index.php?page_id=13211]&lt;/span&gt; (31+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=7361]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=7361]&lt;/span&gt; (13+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=9951]&lt;/span&gt; (49+) 
+* &lt;span&gt;[tiki-index.php?page_id=9951]&lt;/span&gt; (49+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3003]&lt;/span&gt; (15+) 
+* &lt;span&gt;[tiki-index.php?page_id=3003]&lt;/span&gt; (15+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13028]&lt;/span&gt; (55+) 
+* &lt;span&gt;[tiki-index.php?page_id=13028]&lt;/span&gt; (55+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14440]&lt;/span&gt; (116+) 
+* &lt;span&gt;[tiki-index.php?page_id=14440]&lt;/span&gt; (116+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14030]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=14030]&lt;/span&gt; (13+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=6680]&lt;/span&gt; (16+) 
 
@@ -4344,15 +4344,15 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-skin-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Skin and vitamin D&quot;&gt;Overview Skin and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=13320]&lt;/span&gt;
+* &lt;span&gt;[tiki-index.php?page_id=13320]&lt;/span&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=2027]&lt;/span&gt;
+* &lt;span&gt;[tiki-index.php?page_id=2027]&lt;/span&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=5053]&lt;/span&gt;
+* &lt;span&gt;[tiki-index.php?page_id=5053]&lt;/span&gt;
 
 * [Sleep](/categories/sleep) (92+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14681]&lt;/span&gt;
+* &lt;span&gt;[tiki-index.php?page_id=14681]&lt;/span&gt;
 
 * &lt;span&gt;[tiki-index.php?page_id=341]&lt;/span&gt; (83+)
 
@@ -4366,7 +4366,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-stroke-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Stroke and vitamin D&quot;&gt;Overview Stroke and vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=3413]&lt;/span&gt; (9+)* &lt;span&gt;[tiki-index.php?page_id=10336]&lt;/span&gt; (15+)
+* &lt;span&gt;[tiki-index.php?page_id=3413]&lt;/span&gt; (9+)* &lt;span&gt;[tiki-index.php?page_id=10336]&lt;/span&gt; (15+)
 
 * &lt;a href=&quot;/posts/suicide-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Suicide associated with low vitamin D - many studies&quot;&gt;Suicide&lt;/a&gt; (16+)
 
@@ -4374,21 +4374,21 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-thyroid-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Thyroid and Vitamin D&quot;&gt;Overview Thyroid and Vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=14180]&lt;/span&gt; (34+) 
+* &lt;span&gt;[tiki-index.php?page_id=14180]&lt;/span&gt; (34+) 
 
 * [Trauma/Surgery](/categories/trauma-and-surgery) (325+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14404]&lt;/span&gt; (12+) 
+* &lt;span&gt;[tiki-index.php?page_id=14404]&lt;/span&gt; (12+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=10669]&lt;/span&gt; (23+) 
+* &lt;span&gt;[tiki-index.php?page_id=10669]&lt;/span&gt; (23+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14083]&lt;/span&gt; (69+) 
+* &lt;span&gt;[tiki-index.php?page_id=14083]&lt;/span&gt; (69+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=10669]&lt;/span&gt; (69+) 
+* &lt;span&gt;[tiki-index.php?page_id=10669]&lt;/span&gt; (69+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=1855]&lt;/span&gt; (41+) 
+* &lt;span&gt;[tiki-index.php?page_id=1855]&lt;/span&gt; (41+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13791]&lt;/span&gt; (22+) 
+* &lt;span&gt;[tiki-index.php?page_id=13791]&lt;/span&gt; (22+) 
 
 * [Tuberculosis](/categories/tuberculosis) (119+) 
 
@@ -4400,91 +4400,91 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Virus](/categories/virus)  **(1240+)** 
 
-*  &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id=11703]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id=13008]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
+* &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (11+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=14221]&lt;/span&gt; (13+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
+* &lt;span&gt;[tiki-index.php?page_id=13346]&lt;/span&gt; (20+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
+* &lt;span&gt;[tiki-index.php?page_id=13434]&lt;/span&gt; (23+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
+* &lt;span&gt;[tiki-index.php?page_id=7698]&lt;/span&gt; (29+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=14086]&lt;/span&gt; (13+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
+* &lt;span&gt;[tiki-index.php?page_id=12259]&lt;/span&gt; (35+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
+* &lt;span&gt;[tiki-index.php?page_id=13765]&lt;/span&gt; (72+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
+* &lt;span&gt;[tiki-index.php?page_id=14052]&lt;/span&gt; (60+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14687]&lt;/span&gt; (11+)
+* &lt;span&gt;[tiki-index.php?page_id=14687]&lt;/span&gt; (11+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id=12472]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
+* &lt;span&gt;[tiki-index.php?page_id=12896]&lt;/span&gt; (14+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
+* &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (12+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
+* &lt;span&gt;[tiki-index.php?page_id=14292]&lt;/span&gt; (16+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
+* &lt;span&gt;[tiki-index.php?page_id=13851]&lt;/span&gt; (198+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
+* &lt;span&gt;[tiki-index.php?page_id=13335]&lt;/span&gt; (650+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
+* &lt;span&gt;[tiki-index.php?page_id=14371]&lt;/span&gt; (31+)
 
-*  &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id==11703]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+)
+* &lt;span&gt;[tiki-index.php?page_id=14074]&lt;/span&gt; (32+)
 
 * [Vision](/categories/vision) (94+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14381]&lt;/span&gt; (12+)
+* &lt;span&gt;[tiki-index.php?page_id=14381]&lt;/span&gt; (12+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=9165]&lt;/span&gt; (15+)
+* &lt;span&gt;[tiki-index.php?page_id=9165]&lt;/span&gt; (15+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14697]&lt;/span&gt; (8+)
+* &lt;span&gt;[tiki-index.php?page_id=14697]&lt;/span&gt; (8+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=12938]&lt;/span&gt; (14+)
+* &lt;span&gt;[tiki-index.php?page_id=12938]&lt;/span&gt; (14+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14515]&lt;/span&gt; (20+)
+* &lt;span&gt;[tiki-index.php?page_id=14515]&lt;/span&gt; (20+)
 
  &lt;span style=&quot;color:orange;&quot;&gt; **People and Low Vitamin D** &lt;/span&gt;
 
 * [Infant/Child](/categories/infant-child) (788+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=14501]&lt;/span&gt; (36+) 
+* &lt;span&gt;[tiki-index.php?page_id=14501]&lt;/span&gt; (36+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=12600]&lt;/span&gt; (13+) 
+* &lt;span&gt;[tiki-index.php?page_id=12600]&lt;/span&gt; (13+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=9219]&lt;/span&gt; (15+) 
+* &lt;span&gt;[tiki-index.php?page_id=9219]&lt;/span&gt; (15+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14251]&lt;/span&gt; (10+) 
+* &lt;span&gt;[tiki-index.php?page_id=14251]&lt;/span&gt; (10+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=1324]&lt;/span&gt; (25+) 
+* &lt;span&gt;[tiki-index.php?page_id=1324]&lt;/span&gt; (25+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=8865]&lt;/span&gt; (21+) 
+* &lt;span&gt;[tiki-index.php?page_id=8865]&lt;/span&gt; (21+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3293]&lt;/span&gt; (9+) 
+* &lt;span&gt;[tiki-index.php?page_id=3293]&lt;/span&gt; (9+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14521]&lt;/span&gt; (21+) 
+* &lt;span&gt;[tiki-index.php?page_id=14521]&lt;/span&gt; (21+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (25+) 
+* &lt;span&gt;[tiki-index.php?page_id=11825]&lt;/span&gt; (25+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3722]&lt;/span&gt; (9+) 
+* &lt;span&gt;[tiki-index.php?page_id=3722]&lt;/span&gt; (9+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (10+) 
+* &lt;span&gt;[tiki-index.php?page_id=13586]&lt;/span&gt; (10+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3433]&lt;/span&gt; (42+) 
+* &lt;span&gt;[tiki-index.php?page_id=3433]&lt;/span&gt; (42+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=5149]&lt;/span&gt; (27+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14358]&lt;/span&gt; (17+) 
+* &lt;span&gt;[tiki-index.php?page_id=14358]&lt;/span&gt; (17+) 
 
 * &lt;span&gt;[tiki-index.php?page_id=14494]&lt;/span&gt; (14+) 
 
@@ -4492,17 +4492,17 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-seniors-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Seniors and Vitamin D&quot;&gt;Overview Seniors and Vitamin D&lt;/a&gt;
 
-*  &lt;span&gt;[tiki-index.php?page_id=2731]&lt;/span&gt; 
+* &lt;span&gt;[tiki-index.php?page_id=2731]&lt;/span&gt; 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3308]&lt;/span&gt; (20+) 
+* &lt;span&gt;[tiki-index.php?page_id=3308]&lt;/span&gt; (20+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=14356]&lt;/span&gt; (19+) 
+* &lt;span&gt;[tiki-index.php?page_id=14356]&lt;/span&gt; (19+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3451]&lt;/span&gt; (25+) 
+* &lt;span&gt;[tiki-index.php?page_id=3451]&lt;/span&gt; (25+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=114]&lt;/span&gt; (15+) 
+* &lt;span&gt;[tiki-index.php?page_id=114]&lt;/span&gt; (15+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=3460]&lt;/span&gt; (22+) 
+* &lt;span&gt;[tiki-index.php?page_id=3460]&lt;/span&gt; (22+) 
 
 * [Skin - Dark](/categories/skin---dark) (458+)
 
@@ -4510,9 +4510,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/sports&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sports&quot;&gt;Sports&lt;/a&gt; (267+) 
 
-*  &lt;span&gt;[tiki-index.php?page_id=1259]&lt;/span&gt;  
+* &lt;span&gt;[tiki-index.php?page_id=1259]&lt;/span&gt;  
 
-*  &lt;span&gt;[tiki-index.php?page_id=14367]&lt;/span&gt; (68+) 
+* &lt;span&gt;[tiki-index.php?page_id=14367]&lt;/span&gt; (68+) 
 
 * [Women](/categories/women) (184+) 
 
@@ -4536,9 +4536,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Youth](/categories/youth) (171+)
 
-*  &lt;span&gt;[tiki-index.php?page_id=3293]&lt;/span&gt; (15+) 
+* &lt;span&gt;[tiki-index.php?page_id=3293]&lt;/span&gt; (15+) 
 
-&amp;nbsp;&amp;nbsp;1.  of studies as of  Aug 7, 2023
+&amp;nbsp;&amp;nbsp;1. of studies as of  Aug 7, 2023
 
 ---
 
@@ -7638,7 +7638,7 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 
 * &lt;a href=&quot;/posts/acute-rehab-patients-23x-more-likely-to-have-musculoskeletal-pain-if-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Acute Rehab. patients 2.3X more likely to have musculoskeletal pain if low vitamin D – Oct 2014&quot;&gt;Acute Rehab. patients 2.3X more likely to have musculoskeletal pain if low vitamin D – Oct 2014&lt;/a&gt;
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14592{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -7651,8 +7651,8 @@ Cofactors: Magnesium, Vitamin K2, Omega-3, Boron, Calcium
 AST Structure:
 -------------
 ├── TextNode
-│   full_match: `This is an interim version of searching for words or phrases in VitaminDWiki\n `
-│   inner_content: `This is an interim version of searching for words or phrases in VitaminDWiki\n `├── HorizontalSpaceNode
+│   full_match: `This is an interim version of searching for words or phrases in VitaminDWiki\n`
+│   inner_content: `This is an interim version of searching for words or phrases in VitaminDWiki\n`├── HorizontalSpaceNode
 │   full_match: `~hs~`
 │   inner_content: ``
 │   repetitions: `1`├── TextNode
@@ -7672,8 +7672,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Example: It will find Breast Cancer, but not Cancer Breast`
-│   │   inner_content: ` Example: It will find Breast Cancer, but not Cancer Breast`├── TextNode
+│   │   full_match: `Example: It will find Breast Cancer, but not Cancer Breast`
+│   │   inner_content: `Example: It will find Breast Cancer, but not Cancer Breast`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~\n*Example searches: Acne, Antibiotics, 50,000, K2, Magnesium, topical, hair loss, weight loss, chronic pain, 80 ng, high risk, Australia, Myths, Facts, NCAA, FDA, Presenteeism, math mistake, hormone, debunked, sun better than  UV better than vitamin D, Loading dose \n~/tc~`
@@ -8067,9 +8067,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7508|Vit. D Receptor] (14+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7508|Vit. D Receptor]`
 │   │   inner_content: `Vit. D Receptor`
@@ -8104,9 +8101,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=8916|Systemic Sclerosis] (10+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=8916|Systemic Sclerosis]`
 │   │   inner_content: `Systemic Sclerosis`
@@ -8141,9 +8135,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=8916|Lumbar Degeneration] (14+) back pain `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=8916|Lumbar Degeneration]`
 │   │   inner_content: `Lumbar Degeneration`
@@ -8195,9 +8186,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14377|Bone Mineral Density] (28+) BMD  `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14377|Bone Mineral Density]`
 │   │   inner_content: `Bone Mineral Density`
@@ -8232,9 +8220,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=1324|Pneumonia] (50+) breathing`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=1324|Pneumonia]`
 │   │   inner_content: `Pneumonia`
@@ -8371,9 +8356,6 @@ AST Structure:
 │   inner_content: ` ((Overview Breast Cancer and Vitamin D))Breast Cancer`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Breast Cancer and Vitamin D))`
 │   │   inner_content: `Overview Breast Cancer and Vitamin D`
@@ -8408,9 +8390,6 @@ AST Structure:
 │   inner_content: ` ((Overview Cancer-Colon and vitamin D))Colon Cancer`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((Overview Cancer-Colon and vitamin D))`
 │   │   inner_content: `Overview Cancer-Colon and vitamin D`
@@ -8734,9 +8713,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14509|Atherosclerosis] (56+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14509|Atherosclerosis]`
 │   │   inner_content: `Atherosclerosis`
@@ -8754,9 +8730,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12919|Atrial Fibrillation] (20+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12919|Atrial Fibrillation]`
 │   │   inner_content: `Atrial Fibrillation`
@@ -8774,9 +8747,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3399|Heart Failure] (42+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3399|Heart Failure]`
 │   │   inner_content: `Heart Failure`
@@ -8794,9 +8764,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=5867|HRV] (10+) Heart rate Variability `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=5867|HRV]`
 │   │   inner_content: `HRV`
@@ -8814,9 +8781,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=444|Statins] (80+) cardiovascular`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=444|Statins]`
 │   │   inner_content: `Statins`
@@ -8896,8 +8860,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `  statins cholesterol`
 │   │   inner_content: `  statins cholesterol`├── TextNode
-│   full_match: `\n - - - - -  stopped HP addition of keywords - - - - -\n`
-│   inner_content: `\n - - - - -  stopped HP addition of keywords - - - - -\n`├── ListItemNode
+│   full_match: `\n- - - - -  stopped HP addition of keywords - - - - -\n`
+│   inner_content: `\n- - - - -  stopped HP addition of keywords - - - - -\n`├── ListItemNode
 │   full_match: `*((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue)) (7) `
 │   inner_content: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue)) (7) `
 │   depth: `1`
@@ -8967,9 +8931,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=10105|Anesthesia ==&gt; Cog] cognitive `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=10105|Anesthesia ==&gt; Cog]`
 │   │   inner_content: `Anesthesia ==&gt; Cog`
@@ -8987,9 +8948,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=14019|Brain] (94+) cognitive `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=14019|Brain]`
 │   │   inner_content: `Brain`
@@ -9007,9 +8965,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=14250|Delirium] (9+) cognitive `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=14250|Delirium]`
 │   │   inner_content: `Delirium`
@@ -9027,9 +8982,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=9810|Dementia] (50+) cognitive `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=9810|Dementia]`
 │   │   inner_content: `Dementia`
@@ -9047,9 +8999,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7180|Mental Stress] (10+) cognitive `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7180|Mental Stress]`
 │   │   inner_content: `Mental Stress`
@@ -9193,9 +9142,6 @@ AST Structure:
 │   inner_content: ` [https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety] ( 11+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://vitamindwiki.com/Depression#Anxiety_studies|Anxiety]`
 │   │   inner_content: `Anxiety`
@@ -9213,9 +9159,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7681|Omega-3] (29) depression`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7681|Omega-3]`
 │   │   inner_content: `Omega-3`
@@ -9264,9 +9207,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14217|Hemodialysis] (41+) diabetes `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14217|Hemodialysis]`
 │   │   inner_content: `Hemodialysis`
@@ -9284,9 +9224,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14001|Magnesium] (27+) diabetes  `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14001|Magnesium]`
 │   │   inner_content: `Magnesium`
@@ -9304,9 +9241,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14208|Metabolic Syndrome + Mg]  * [tiki-index.php?page_id=11123|Neuropathy] (15+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14208|Metabolic Syndrome + Mg]`
 │   │   inner_content: `Metabolic Syndrome + Mg`
@@ -9335,9 +9269,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3405|Prediabetes]  (30+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3405|Prediabetes]`
 │   │   inner_content: `Prediabetes`
@@ -9355,9 +9286,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14001|Red Meat] (4+) diabetes  * [tiki-index.php?page_id=13592|Retinopathy] (8+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14001|Red Meat]`
 │   │   inner_content: `Red Meat`
@@ -9386,9 +9314,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3405|Type 1 Diabetes]  (46+) T1D`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3405|Type 1 Diabetes]`
 │   │   inner_content: `Type 1 Diabetes`
@@ -9406,9 +9331,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14400|Vitamin D Receptor]  (23+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14400|Vitamin D Receptor]`
 │   │   inner_content: `Vitamin D Receptor`
@@ -9460,9 +9382,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=4133|Otitis Media]  (10+)ear`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=4133|Otitis Media]`
 │   │   inner_content: `Otitis Media`
@@ -9596,9 +9515,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=5686|Erectile Dysfunction] (12+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=5686|Erectile Dysfunction]`
 │   │   inner_content: `Erectile Dysfunction`
@@ -9616,9 +9532,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=3277|In Vitro Fertilization] (18+) IVF`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=3277|In Vitro Fertilization]`
 │   │   inner_content: `In Vitro Fertilization`
@@ -9701,9 +9614,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=11217|Ankle]  (16+) fracture `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=11217|Ankle]`
 │   │   inner_content: `Ankle`
@@ -9721,9 +9631,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=974|Bone &amp; Stress Fractures] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=974|Bone &amp; Stress Fractures]`
 │   │   inner_content: `Bone &amp; Stress Fractures`
@@ -9741,9 +9648,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14377|Bone Mineral Density] (28+) BMD fracture `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14377|Bone Mineral Density]`
 │   │   inner_content: `Bone Mineral Density`
@@ -9761,9 +9665,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14251|Children]  (16+) bone  fracture`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14251|Children]`
 │   │   inner_content: `Children`
@@ -9781,9 +9682,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3406|Hip Fractures]  (68+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3406|Hip Fractures]`
 │   │   inner_content: `Hip Fractures`
@@ -9835,9 +9733,6 @@ AST Structure:
 │   inner_content: ` ((Genetics|CYP24A1)) (31+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics|CYP24A1))`
 │   │   inner_content: `Genetics|CYP24A1`
@@ -9855,9 +9750,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14254|CYP24R1] (25+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14254|CYP24R1]`
 │   │   inner_content: `CYP24R1`
@@ -9875,9 +9767,6 @@ AST Structure:
 │   inner_content: ` ((CYP27B1)) (57+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((CYP27B1))`
 │   │   inner_content: `CYP27B1`
@@ -9895,9 +9784,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14555|Telomere] (12+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14555|Telomere]`
 │   │   inner_content: `Telomere`
@@ -9915,9 +9801,6 @@ AST Structure:
 │   inner_content: ` ((Vitamin D Binding Protein| Vit D Binding)) (172+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Binding Protein| Vit D Binding))`
 │   │   inner_content: `Vitamin D Binding Protein|Vit D Binding`
@@ -9935,9 +9818,6 @@ AST Structure:
 │   inner_content: ` ((Vitamin D Receptor| Vit D Receptor)) (487+) VDR`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Receptor| Vit D Receptor))`
 │   │   inner_content: `Vitamin D Receptor|Vit D Receptor`
@@ -10149,8 +10029,8 @@ AST Structure:
 │   │   url: `tiki-index.php?page_id=5222`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Alopecia Areata`
-│   │   │   inner_content: ` Alopecia Areata`
+│   │   │   full_match: `Alopecia Areata`
+│   │   │   inner_content: `Alopecia Areata`
 │   ├── TextNode
 │   │   full_match: ` (8+) `
 │   │   inner_content: ` (8+) `├── TextNode
@@ -10692,8 +10572,8 @@ AST Structure:
 │   │   url: `tiki-browse_categories.php?parentId=30&amp;sort_mode=created_desc`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Mortality`
-│   │   │   inner_content: ` Mortality`
+│   │   │   full_match: `Mortality`
+│   │   │   inner_content: `Mortality`
 │   ├── TextNode
 │   │   full_match: ` (293+) `
 │   │   inner_content: ` (293+) `├── TextNode
@@ -10734,9 +10614,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13359|MS and Herpes] (10+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13359|MS and Herpes]`
 │   │   inner_content: `MS and Herpes`
@@ -10754,9 +10631,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13359|MS and Virus] (16+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13359|MS and Virus]`
 │   │   inner_content: `MS and Virus`
@@ -10791,9 +10665,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3451|Sarcopenia] (30+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3451|Sarcopenia]`
 │   │   inner_content: `Sarcopenia`
@@ -10851,8 +10722,8 @@ AST Structure:
 │   │   url: `tiki-browse_categories.php?parentId=19&amp;sort_mode=created_desc`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Obesity`
-│   │   │   inner_content: ` Obesity`
+│   │   │   full_match: `Obesity`
+│   │   │   inner_content: `Obesity`
 │   ├── TextNode
 │   │   full_match: `  (404+) BMI `
 │   │   inner_content: `  (404+) BMI `├── TextNode
@@ -10876,9 +10747,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14205|Child &amp; Youth] (60+) obesity `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14205|Child &amp; Youth]`
 │   │   inner_content: `Child &amp; Youth`
@@ -10896,9 +10764,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14049|Virus and Obesity] (25+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14049|Virus and Obesity]`
 │   │   inner_content: `Virus and Obesity`
@@ -10916,9 +10781,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7990|Weight] (67+)  obesity `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7990|Weight]`
 │   │   inner_content: `Weight`
@@ -10981,9 +10843,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14170|Knee] (26+) Osteoarthritis `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14170|Knee]`
 │   │   inner_content: `Knee`
@@ -11032,9 +10891,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14325|BMD] (26+) Osteoporosis `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14325|BMD]`
 │   │   inner_content: `BMD`
@@ -11046,8 +10902,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` (26+) Osteoporosis `
 │   │   inner_content: ` (26+) Osteoporosis `├── TextNode
-│   full_match: `\n – – – – –  add words to here as of Sept 26 – – – – – \n`
-│   inner_content: `\n – – – – –  add words to here as of Sept 26 – – – – – \n`├── ListItemNode
+│   full_match: `\n– – – – –  add words to here as of Sept 26 – – – – – \n`
+│   inner_content: `\n– – – – –  add words to here as of Sept 26 – – – – – \n`├── ListItemNode
 │   full_match: `*((Pain - chronic)) (152+) `
 │   inner_content: `((Pain - chronic)) (152+) `
 │   depth: `1`
@@ -11083,9 +10939,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13571|Magnesium] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13571|Magnesium]`
 │   │   inner_content: `Magnesium`
@@ -11219,9 +11072,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14642|Breastfed] (38+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14642|Breastfed]`
 │   │   inner_content: `Breastfed`
@@ -11239,9 +11089,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14357|Depression] (21+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14357|Depression]`
 │   │   inner_content: `Depression`
@@ -11259,9 +11106,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=1566|Dark Skin] (30+) {DIV}`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=1566|Dark Skin]`
 │   │   inner_content: `Dark Skin`
@@ -11279,9 +11123,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14350|Gestational Diabetes] (49+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14350|Gestational Diabetes]`
 │   │   inner_content: `Gestational Diabetes`
@@ -11299,9 +11140,6 @@ AST Structure:
 │   inner_content: ` [/tiki-index.php?page_id=3277|In Vitro Fert.] (18+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[/tiki-index.php?page_id=3277|In Vitro Fert.]`
 │   │   inner_content: `In Vitro Fert.`
@@ -11319,9 +11157,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=8202|Iodine] (21+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=8202|Iodine]`
 │   │   inner_content: `Iodine`
@@ -11339,9 +11174,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=6868|Magnesium] (30+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=6868|Magnesium]`
 │   │   inner_content: `Magnesium`
@@ -11359,9 +11191,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13211|Miscarriage] (31+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13211|Miscarriage]`
 │   │   inner_content: `Miscarriage`
@@ -11379,9 +11208,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7361|Multiple Sclerosis] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7361|Multiple Sclerosis]`
 │   │   inner_content: `Multiple Sclerosis`
@@ -11399,9 +11225,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=9951|Omega-3 before and during] (49+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=9951|Omega-3 before and during]`
 │   │   inner_content: `Omega-3 before and during`
@@ -11419,9 +11242,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3003|PCOS] (15+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3003|PCOS]`
 │   │   inner_content: `PCOS`
@@ -11439,9 +11259,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13028|Preeclampsia] (55+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13028|Preeclampsia]`
 │   │   inner_content: `Preeclampsia`
@@ -11459,9 +11276,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14440|Preterm] (116+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14440|Preterm]`
 │   │   inner_content: `Preterm`
@@ -11479,9 +11293,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14030|Preterm - Omega-3] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14030|Preterm - Omega-3]`
 │   │   inner_content: `Preterm - Omega-3`
@@ -11769,9 +11580,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13320|Aging ]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13320|Aging ]`
 │   │   inner_content: `Aging `
@@ -11786,9 +11594,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=2027|Atopic Dermatitis ]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=2027|Atopic Dermatitis ]`
 │   │   inner_content: `Atopic Dermatitis `
@@ -11803,9 +11608,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=5053|Hives ]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=5053|Hives ]`
 │   │   inner_content: `Hives `
@@ -11837,9 +11639,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14681|Sleep Apnea (12+)]`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14681|Sleep Apnea (12+)]`
 │   │   inner_content: `Sleep Apnea (12+)`
@@ -11953,9 +11752,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3413|Depression] (9+)* [tiki-index.php?page_id=10336|Cognitive Impairment] (15+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3413|Depression]`
 │   │   inner_content: `Depression`
@@ -12032,9 +11828,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14180|PTH] (34+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14180|PTH]`
 │   │   inner_content: `PTH`
@@ -12069,9 +11862,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14404|Bariatric surgery] (12+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14404|Bariatric surgery]`
 │   │   inner_content: `Bariatric surgery`
@@ -12089,9 +11879,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=10669|Bone surgery] (23+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=10669|Bone surgery]`
 │   │   inner_content: `Bone surgery`
@@ -12109,9 +11896,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14083|Need Vit D] (69+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14083|Need Vit D]`
 │   │   inner_content: `Need Vit D`
@@ -12129,9 +11913,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=10669|Ortho. &amp; Hip] (69+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=10669|Ortho. &amp; Hip]`
 │   │   inner_content: `Ortho. &amp; Hip`
@@ -12149,9 +11930,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=1855|Sepsis] (41+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=1855|Sepsis]`
 │   │   inner_content: `Sepsis`
@@ -12169,9 +11947,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13791|TBI] (22+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13791|TBI]`
 │   │   inner_content: `TBI`
@@ -12278,9 +12053,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=11703|Air pollution] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=11703|Air pollution]`
 │   │   inner_content: `Air pollution`
@@ -12298,9 +12070,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13008|Bird Flu] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13008|Bird Flu]`
 │   │   inner_content: `Bird Flu`
@@ -12318,9 +12087,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13586|Child - years after VAX] (11+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13586|Child - years after VAX]`
 │   │   inner_content: `Child - years after VAX`
@@ -12338,9 +12104,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14221|Dengue] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14221|Dengue]`
 │   │   inner_content: `Dengue`
@@ -12358,9 +12121,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13346|Epstein-Barr Virus] (20+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13346|Epstein-Barr Virus]`
 │   │   inner_content: `Epstein-Barr Virus`
@@ -12378,9 +12138,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13434|Excess Deaths] (23+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13434|Excess Deaths]`
 │   │   inner_content: `Excess Deaths`
@@ -12398,9 +12155,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=7698|Hepatitis] (29+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=7698|Hepatitis]`
 │   │   inner_content: `Hepatitis`
@@ -12418,9 +12172,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14086|Herpes or Shingles] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14086|Herpes or Shingles]`
 │   │   inner_content: `Herpes or Shingles`
@@ -12438,9 +12189,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12259|Ivermectin] (35+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12259|Ivermectin]`
 │   │   inner_content: `Ivermectin`
@@ -12458,9 +12206,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13765|Long-COVID] (72+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13765|Long-COVID]`
 │   │   inner_content: `Long-COVID`
@@ -12478,9 +12223,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14052|Magnesium] (60+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14052|Magnesium]`
 │   │   inner_content: `Magnesium`
@@ -12498,9 +12240,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14687|Masks] (11+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14687|Masks]`
 │   │   inner_content: `Masks`
@@ -12518,9 +12257,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12472|Mononucleosis] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12472|Mononucleosis]`
 │   │   inner_content: `Mononucleosis`
@@ -12538,9 +12274,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12896|Omega-3] (14+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12896|Omega-3]`
 │   │   inner_content: `Omega-3`
@@ -12558,9 +12291,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=11825|RSV] (12+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=11825|RSV]`
 │   │   inner_content: `RSV`
@@ -12578,9 +12308,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14292|Ultraviolet light] (16+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14292|Ultraviolet light]`
 │   │   inner_content: `Ultraviolet light`
@@ -12598,9 +12325,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13851|Vaccination] (198+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13851|Vaccination]`
 │   │   inner_content: `Vaccination`
@@ -12618,9 +12342,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13335|Vitamin D] (650+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13335|Vitamin D]`
 │   │   inner_content: `Vitamin D`
@@ -12638,9 +12359,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14371|Vitamin D Receptor]`
 │   │   inner_content: `Vitamin D Receptor`
@@ -12658,9 +12376,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id==11703|Vitamin K] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id==11703|Vitamin K]`
 │   │   inner_content: `Vitamin K`
@@ -12678,9 +12393,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14074|Zinc] (32+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14074|Zinc]`
 │   │   inner_content: `Zinc`
@@ -12715,9 +12427,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14381|Cataracts] (12+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14381|Cataracts]`
 │   │   inner_content: `Cataracts`
@@ -12735,9 +12444,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=9165|Dry Eye] (15+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=9165|Dry Eye]`
 │   │   inner_content: `Dry Eye`
@@ -12755,9 +12461,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14697|Glaucoma] (8+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14697|Glaucoma]`
 │   │   inner_content: `Glaucoma`
@@ -12775,9 +12478,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12938|Macular Degneration] (14+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12938|Macular Degneration]`
 │   │   inner_content: `Macular Degneration`
@@ -12795,9 +12495,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14515|Myopia] (20+)`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14515|Myopia]`
 │   │   inner_content: `Myopia`
@@ -12846,9 +12543,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14501|Allergy] (36+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14501|Allergy]`
 │   │   inner_content: `Allergy`
@@ -12866,9 +12560,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=12600|Cancer] (13+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=12600|Cancer]`
 │   │   inner_content: `Cancer`
@@ -12886,9 +12577,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=9219|Cerebral Palsy ] (15+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=9219|Cerebral Palsy ]`
 │   │   inner_content: `Cerebral Palsy `
@@ -12906,9 +12594,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14251|Fracture, low energy ] (10+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14251|Fracture, low energy ]`
 │   │   inner_content: `Fracture, low energy `
@@ -12926,9 +12611,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=1324|Pneumonia] (25+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=1324|Pneumonia]`
 │   │   inner_content: `Pneumonia`
@@ -12946,9 +12628,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=8865|Preemie] (21+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=8865|Preemie]`
 │   │   inner_content: `Preemie`
@@ -12966,9 +12645,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3293|Puberty early if low D] (9+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3293|Puberty early if low D]`
 │   │   inner_content: `Puberty early if low D`
@@ -12986,9 +12662,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14521|Respiratory] (21+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14521|Respiratory]`
 │   │   inner_content: `Respiratory`
@@ -13006,9 +12679,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=11825|RSV] (25+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=11825|RSV]`
 │   │   inner_content: `RSV`
@@ -13026,9 +12696,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3722|Tonsils] (9+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3722|Tonsils]`
 │   │   inner_content: `Tonsils`
@@ -13046,9 +12713,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=13586|Vaccination] (10+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=13586|Vaccination]`
 │   │   inner_content: `Vaccination`
@@ -13066,9 +12730,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3433|Virus] (42+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3433|Virus]`
 │   │   inner_content: `Virus`
@@ -13103,9 +12764,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14358|Veterans] (17+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14358|Veterans]`
 │   │   inner_content: `Veterans`
@@ -13171,9 +12829,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=2731|Essential Tremor] `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=2731|Essential Tremor]`
 │   │   inner_content: `Essential Tremor`
@@ -13191,9 +12846,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3308|Fraility] (20+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3308|Fraility]`
 │   │   inner_content: `Fraility`
@@ -13211,9 +12863,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14356|Nursing Homes] (19+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14356|Nursing Homes]`
 │   │   inner_content: `Nursing Homes`
@@ -13231,9 +12880,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3451|Sarcopenia] (25+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3451|Sarcopenia]`
 │   │   inner_content: `Sarcopenia`
@@ -13251,9 +12897,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=114|Urinary incontinence] (15+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=114|Urinary incontinence]`
 │   │   inner_content: `Urinary incontinence`
@@ -13271,9 +12914,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3460|Vertigo] (22+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3460|Vertigo]`
 │   │   inner_content: `Vertigo`
@@ -13339,9 +12979,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=1259]  `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=1259]`
 │   │   inner_content: `tiki-index.php?page_id=1259`
@@ -13359,9 +12996,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=14367|Exercise] (68+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=14367|Exercise]`
 │   │   inner_content: `Exercise`
@@ -13563,9 +13197,6 @@ AST Structure:
 │   inner_content: ` [tiki-index.php?page_id=3293|Early Puberty] (15+) `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[tiki-index.php?page_id=3293|Early Puberty]`
 │   │   inner_content: `Early Puberty`
@@ -13591,8 +13222,8 @@ AST Structure:
 │   │   depth: `1`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` of studies as of  Aug 7, 2023`
-│   │   │   inner_content: ` of studies as of  Aug 7, 2023`├── HorizontalRuleNode
+│   │   │   full_match: `of studies as of  Aug 7, 2023`
+│   │   │   inner_content: `of studies as of  Aug 7, 2023`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── BoldNode
 │   full_match: `__Important__`
@@ -35437,9 +35068,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14592{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14592`
@@ -35455,16 +35083,16 @@ AST Structure:
 │   inner_content: ` (alias(Search all Health Issues, etc)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Search all Health Issues, etc)) `
-│   │   inner_content: ` (alias(Search all Health Issues, etc)) `├── TextNode
+│   │   full_match: `(alias(Search all Health Issues, etc)) `
+│   │   inner_content: `(alias(Search all Health Issues, etc)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(VitaminDWiki Mega-Search)) ~/tc~`
 │   inner_content: ` (alias(VitaminDWiki Mega-Search)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(VitaminDWiki Mega-Search)) `
-│   │   inner_content: ` (alias(VitaminDWiki Mega-Search)) `├── TextNode
+│   │   full_match: `(alias(VitaminDWiki Mega-Search)) `
+│   │   inner_content: `(alias(VitaminDWiki Mega-Search)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

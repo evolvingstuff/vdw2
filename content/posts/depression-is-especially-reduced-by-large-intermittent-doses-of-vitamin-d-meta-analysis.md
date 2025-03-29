@@ -275,8 +275,8 @@ AST Structure:
 │   inner_content: ` (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) `
-│   │   inner_content: ` (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) `
+│   │   full_match: `(alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) `
+│   │   inner_content: `(alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) `
 
 Original Tiki:
 -------------

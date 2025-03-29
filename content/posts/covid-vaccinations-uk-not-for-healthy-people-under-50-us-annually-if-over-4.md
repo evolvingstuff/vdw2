@@ -174,16 +174,16 @@ AST Structure:
 │   inner_content: ` (alias(COVID Vaccination policy: UK only if over age 50, US annually for age 5 and up - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccination policy: UK only if over age 50, US annually for age 5 and up - Jan 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccination policy: UK only if over age 50, US annually for age 5 and up - Jan 2023)) `├── TextNode
+│   │   full_match: `(alias(COVID Vaccination policy: UK only if over age 50, US annually for age 5 and up - Jan 2023)) `
+│   │   inner_content: `(alias(COVID Vaccination policy: UK only if over age 50, US annually for age 5 and up - Jan 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) ~/tc~`
 │   inner_content: ` (alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) `
+│   │   full_match: `(alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) `
+│   │   inner_content: `(alias(COVID Vaccinations: UK not for healthy people Under 50 , US annually for age 5 and up - Jan 2023)) `
 
 Original Tiki:
 -------------

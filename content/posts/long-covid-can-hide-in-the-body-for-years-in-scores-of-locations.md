@@ -75,7 +75,7 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Does a SARS-CoV-2 reservoir in PASC correlate with the disruption of microbiome composition or activity?
 
-  *  If so, is disruption a cause or consequence of PASC?
+  * If so, is disruption a cause or consequence of PASC?
 
 * Is a SARS-CoV-2 reservoir associated with host epithelial barrier breakdown in PASC? 
 
@@ -181,7 +181,7 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Does a SARS-CoV-2 reservoir in PASC correlate with the disruption of microbiome composition or activity?
 
-  *  If so, is disruption a cause or consequence of PASC?
+  * If so, is disruption a cause or consequence of PASC?
 
 * Is a SARS-CoV-2 reservoir associated with host epithelial barrier breakdown in PASC? 
 
@@ -482,8 +482,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` If so, is disruption a cause or consequence of PASC?`
-│   │   inner_content: ` If so, is disruption a cause or consequence of PASC?`├── TextNode
+│   │   full_match: `If so, is disruption a cause or consequence of PASC?`
+│   │   inner_content: `If so, is disruption a cause or consequence of PASC?`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Is a SARS-CoV-2 reservoir associated with host epithelial barrier breakdown in PASC? `
@@ -782,8 +782,8 @@ AST Structure:
 │   inner_content: ` (alias(Long-COVID can hide for years in hundreds of different places in the body – Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Long-COVID can hide for years in hundreds of different places in the body – Sept 2023)) `
-│   │   inner_content: ` (alias(Long-COVID can hide for years in hundreds of different places in the body – Sept 2023)) `
+│   │   full_match: `(alias(Long-COVID can hide for years in hundreds of different places in the body – Sept 2023)) `
+│   │   inner_content: `(alias(Long-COVID can hide for years in hundreds of different places in the body – Sept 2023)) `
 
 Original Tiki:
 -------------

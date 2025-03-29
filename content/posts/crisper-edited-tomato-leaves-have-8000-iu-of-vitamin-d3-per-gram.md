@@ -58,7 +58,7 @@ excellent reveiw of a decade of progress
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14233{SQL} -->
 </span> visits to this page
 
@@ -117,7 +117,7 @@ excellent reveiw of a decade of progress
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14233{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -301,9 +301,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14233{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14233`
@@ -319,8 +316,8 @@ AST Structure:
 │   inner_content: ` (alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) `
-│   │   inner_content: ` (alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) `
+│   │   full_match: `(alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) `
+│   │   inner_content: `(alias(CRISPER-edited tomatoe leaves have 8,000 IU of vitamin D3 per gram - May 2022)) `
 
 Original Tiki:
 -------------

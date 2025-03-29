@@ -108,9 +108,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -148,16 +148,16 @@ This list is automatically updated
 
 | | |
 | --- | --- |
-| Italy |  Jan 2023 |
-| Eqypt |  Dec 2022 |
+| Italy | Jan 2023 |
+| Eqypt | Dec 2022 |
 | Iran  | Sept 2022 |
 | Italy  | July 2022 |
-| India |  Jan 2022 |
+| India | Jan 2022 |
 | Italy  | Dec 2021 |
 | Sri Lanka  | Dec 2021 |
 | Greece | Dec 2021 |
 | Turkey | Oct 2021 |
-| Poland |  Oct 2021 |
+| Poland | Oct 2021 |
 | Italy | Oct 2021 |
 
  **Note: before vaccines there were many publications concerning Vitamin D and COVID** 
@@ -275,9 +275,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -315,16 +315,16 @@ This list is automatically updated
 
 | | |
 | --- | --- |
-| Italy |  Jan 2023 |
-| Eqypt |  Dec 2022 |
+| Italy | Jan 2023 |
+| Eqypt | Dec 2022 |
 | Iran  | Sept 2022 |
 | Italy  | July 2022 |
-| India |  Jan 2022 |
+| India | Jan 2022 |
 | Italy  | Dec 2021 |
 | Sri Lanka  | Dec 2021 |
 | Greece | Dec 2021 |
 | Turkey | Oct 2021 |
-| Poland |  Oct 2021 |
+| Poland | Oct 2021 |
 | Italy | Oct 2021 |
 
  **Note: before vaccines there were many publications concerning Vitamin D and COVID** 
@@ -467,8 +467,8 @@ AST Structure:
 │   inner_content: ` I&#39;m taking 4000 units of vitamin D a day`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` I&#39;m taking 4000 units of vitamin D a day`
-│   │   inner_content: ` I&#39;m taking 4000 units of vitamin D a day`├── TextNode
+│   │   full_match: `I&#39;m taking 4000 units of vitamin D a day`
+│   │   inner_content: `I&#39;m taking 4000 units of vitamin D a day`├── TextNode
 │   full_match: `. That&#39;s 100 micrograms, and I take that in combination with 100 micrograms of vitamin K2 as well.\n`
 │   inner_content: `. That&#39;s 100 micrograms, and I take that in combination with 100 micrograms of vitamin K2 as well.\n`├── HeadingNode
 │   full_match: `\n!!!!!Meta-analyses on Vitamin D and COVID - but not the US, UK, etc. - Why?`
@@ -670,14 +670,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;TRANSCRIPT&quot; OR &quot;TRANSCRIPTION&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!{SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 82  OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Virus meta-analyses on VitaminDWiki`
@@ -857,8 +857,8 @@ AST Structure:
 │   │   │   inner_content: ` Jan 2023`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Jan 2023`
-│   │   │   │   inner_content: ` Jan 2023`
+│   │   │   │   full_match: `Jan 2023`
+│   │   │   │   inner_content: `Jan 2023`
 │   ├── TableRowNode
 │   │   full_match: `Eqypt| Dec 2022`
 │   │   inner_content: `Eqypt| Dec 2022`
@@ -875,8 +875,8 @@ AST Structure:
 │   │   │   inner_content: ` Dec 2022`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Dec 2022`
-│   │   │   │   inner_content: ` Dec 2022`
+│   │   │   │   full_match: `Dec 2022`
+│   │   │   │   inner_content: `Dec 2022`
 │   ├── TableRowNode
 │   │   full_match: `Iran |Sept 2022`
 │   │   inner_content: `Iran |Sept 2022`
@@ -929,8 +929,8 @@ AST Structure:
 │   │   │   inner_content: ` Jan 2022`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Jan 2022`
-│   │   │   │   inner_content: ` Jan 2022`
+│   │   │   │   full_match: `Jan 2022`
+│   │   │   │   inner_content: `Jan 2022`
 │   ├── TableRowNode
 │   │   full_match: `Italy |Dec 2021`
 │   │   inner_content: `Italy |Dec 2021`
@@ -1019,8 +1019,8 @@ AST Structure:
 │   │   │   inner_content: ` Oct 2021`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Oct 2021`
-│   │   │   │   inner_content: ` Oct 2021`
+│   │   │   │   full_match: `Oct 2021`
+│   │   │   │   inner_content: `Oct 2021`
 │   ├── TableRowNode
 │   │   full_match: `Italy|Oct 2021`
 │   │   inner_content: `Italy|Oct 2021`

@@ -16,11 +16,11 @@ categories:
 
 | | |
 | --- | --- |
-| Low vitamin D |  (which can be fought by Vitamin D) |
-| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) |  (which can be fought by Vitamin D) |
+| Low vitamin D | (which can be fought by Vitamin D) |
+| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) | (which can be fought by Vitamin D) |
 | ((Ultra-processed foods associated with worse health and lower Vitamin D - several studies | Ultra-processed foods))  | (which can be fought by Vitamin D) |
-| ((Air Pollution reduces Vitamin D | Air pollution)) |  (which can be fought by Vitamin D) |
-| ((DDT and other pesticides decrease vitamin D | Pesticides))  |  (which can be fought by Vitamin D) |
+| ((Air Pollution reduces Vitamin D | Air pollution)) | (which can be fought by Vitamin D) |
+| ((DDT and other pesticides decrease vitamin D | Pesticides))  | (which can be fought by Vitamin D) |
 
 ---
 
@@ -38,9 +38,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -64,7 +64,7 @@ This list is automatically updated
 
   * See VitaminDWiki - <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
 
-*  No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D Crashing</a>
+* No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D Crashing</a>
 
 ---
 
@@ -88,11 +88,11 @@ Markdown:
 
 | | |
 | --- | --- |
-| Low vitamin D |  (which can be fought by Vitamin D) |
-| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) |  (which can be fought by Vitamin D) |
+| Low vitamin D | (which can be fought by Vitamin D) |
+| ((Microplastics now causing problems in most life forms - many studies | Microplastics)) | (which can be fought by Vitamin D) |
 | ((Ultra-processed foods associated with worse health and lower Vitamin D - several studies | Ultra-processed foods))  | (which can be fought by Vitamin D) |
-| ((Air Pollution reduces Vitamin D | Air pollution)) |  (which can be fought by Vitamin D) |
-| ((DDT and other pesticides decrease vitamin D | Pesticides))  |  (which can be fought by Vitamin D) |
+| ((Air Pollution reduces Vitamin D | Air pollution)) | (which can be fought by Vitamin D) |
+| ((DDT and other pesticides decrease vitamin D | Pesticides))  | (which can be fought by Vitamin D) |
 
 ---
 
@@ -110,9 +110,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -136,7 +136,7 @@ This list is automatically updated
 
   * See VitaminDWiki - &lt;a href=&quot;/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies&quot;&gt;Microplastics now causing problems in most life forms - many studies&lt;/a&gt;
 
-*  No mention of &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D Crashing&lt;/a&gt;
+* No mention of &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D Crashing&lt;/a&gt;
 
 ---
 
@@ -192,8 +192,8 @@ AST Structure:
 │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
-│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: `(which can be fought by Vitamin D)`
 │   │   ├── TableRowNode
 │   │   │   full_match: `((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)`
 │   │   │   inner_content: `((Microplastics now causing problems in most life forms - many studies|Microplastics))| (which can be fought by Vitamin D)`
@@ -217,8 +217,8 @@ AST Structure:
 │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
-│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: `(which can be fought by Vitamin D)`
 │   │   ├── TableRowNode
 │   │   │   full_match: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)`
 │   │   │   inner_content: `((Ultra-processed foods associated with worse health and lower Vitamin D - several studies|Ultra-processed foods)) |(which can be fought by Vitamin D)`
@@ -267,8 +267,8 @@ AST Structure:
 │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
-│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: `(which can be fought by Vitamin D)`
 │   │   ├── TableRowNode
 │   │   │   full_match: `((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)`
 │   │   │   inner_content: `((DDT and other pesticides decrease vitamin D|Pesticides)) | (which can be fought by Vitamin D)`
@@ -292,8 +292,8 @@ AST Structure:
 │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` (which can be fought by Vitamin D)`
-│   │   │   │   │   inner_content: ` (which can be fought by Vitamin D)`
+│   │   │   │   │   full_match: `(which can be fought by Vitamin D)`
+│   │   │   │   │   inner_content: `(which can be fought by Vitamin D)`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── HorizontalRuleNode
@@ -339,14 +339,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;EARLY-ONSET\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Why are so many young people getting cancer? - April 2024`
@@ -448,8 +448,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` No mention of `
-│   │   inner_content: ` No mention of `
+│   │   full_match: `No mention of `
+│   │   inner_content: `No mention of `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing))`
 │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing`

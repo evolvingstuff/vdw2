@@ -54,7 +54,7 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14401{SQL} -->
 </span> visits to this page
 
@@ -107,7 +107,7 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14401{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -321,9 +321,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14401{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14401`
@@ -339,8 +336,8 @@ AST Structure:
 │   inner_content: ` (alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) `
-│   │   inner_content: ` (alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) `
+│   │   full_match: `(alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) `
+│   │   inner_content: `(alias(Indoor athletes have 4.5 ng less Vitamin D  (Asia in this case) – meta-analysis April 2023)) `
 
 Original Tiki:
 -------------

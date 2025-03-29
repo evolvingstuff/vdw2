@@ -37,15 +37,15 @@ Sleep
 | --- | --- |
 | Book | Author |
 | Cancer as a Metabolic Disease | Professor Thomas Seyfried |
-| Metabolic Approach To Cancer |   Dr Nasha Winters and Jane Kelley |
-| Say No To Cancer |  Patrick Holford |
-| The Rainbow Diet |  Chris Woollams |
-| Eat To Beat Cancer |   Dr Rosy Daniel and Jane Sen |
+| Metabolic Approach To Cancer | Dr Nasha Winters and Jane Kelley |
+| Say No To Cancer | Patrick Holford |
+| The Rainbow Diet | Chris Woollams |
+| Eat To Beat Cancer | Dr Rosy Daniel and Jane Sen |
 | The Cancer Fighting Diet | Dr Johannes Coy and Maren Franz |
 | Natural Strategies <br>for Cancer Patients | Dr Russell L Blaylock |
-| Cancer Concerns |   Xandria Williams |
+| Cancer Concerns | Xandria Williams |
 | Knockout | Suzanne Somers |
-| The Topic of Cancer |   Jessica Richards |
+| The Topic of Cancer | Jessica Richards |
 
 ---
 
@@ -103,15 +103,15 @@ Sleep
 | --- | --- |
 | Book | Author |
 | Cancer as a Metabolic Disease | Professor Thomas Seyfried |
-| Metabolic Approach To Cancer |   Dr Nasha Winters and Jane Kelley |
-| Say No To Cancer |  Patrick Holford |
-| The Rainbow Diet |  Chris Woollams |
-| Eat To Beat Cancer |   Dr Rosy Daniel and Jane Sen |
+| Metabolic Approach To Cancer | Dr Nasha Winters and Jane Kelley |
+| Say No To Cancer | Patrick Holford |
+| The Rainbow Diet | Chris Woollams |
+| Eat To Beat Cancer | Dr Rosy Daniel and Jane Sen |
 | The Cancer Fighting Diet | Dr Johannes Coy and Maren Franz |
 | Natural Strategies &lt;br&gt;for Cancer Patients | Dr Russell L Blaylock |
-| Cancer Concerns |   Xandria Williams |
+| Cancer Concerns | Xandria Williams |
 | Knockout | Suzanne Somers |
-| The Topic of Cancer |   Jessica Richards |
+| The Topic of Cancer | Jessica Richards |
 
 ---
 
@@ -252,8 +252,8 @@ AST Structure:
 │   │   │   inner_content: `  Dr Nasha Winters and Jane Kelley`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `  Dr Nasha Winters and Jane Kelley`
-│   │   │   │   inner_content: `  Dr Nasha Winters and Jane Kelley`
+│   │   │   │   full_match: `Dr Nasha Winters and Jane Kelley`
+│   │   │   │   inner_content: `Dr Nasha Winters and Jane Kelley`
 │   ├── TableRowNode
 │   │   full_match: `Say No To Cancer| Patrick Holford`
 │   │   inner_content: `Say No To Cancer| Patrick Holford`
@@ -270,8 +270,8 @@ AST Structure:
 │   │   │   inner_content: ` Patrick Holford`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Patrick Holford`
-│   │   │   │   inner_content: ` Patrick Holford`
+│   │   │   │   full_match: `Patrick Holford`
+│   │   │   │   inner_content: `Patrick Holford`
 │   ├── TableRowNode
 │   │   full_match: `The Rainbow Diet| Chris Woollams`
 │   │   inner_content: `The Rainbow Diet| Chris Woollams`
@@ -288,8 +288,8 @@ AST Structure:
 │   │   │   inner_content: ` Chris Woollams`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Chris Woollams`
-│   │   │   │   inner_content: ` Chris Woollams`
+│   │   │   │   full_match: `Chris Woollams`
+│   │   │   │   inner_content: `Chris Woollams`
 │   ├── TableRowNode
 │   │   full_match: `Eat To Beat Cancer|  Dr Rosy Daniel and Jane Sen`
 │   │   inner_content: `Eat To Beat Cancer|  Dr Rosy Daniel and Jane Sen`
@@ -306,8 +306,8 @@ AST Structure:
 │   │   │   inner_content: `  Dr Rosy Daniel and Jane Sen`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `  Dr Rosy Daniel and Jane Sen`
-│   │   │   │   inner_content: `  Dr Rosy Daniel and Jane Sen`
+│   │   │   │   full_match: `Dr Rosy Daniel and Jane Sen`
+│   │   │   │   inner_content: `Dr Rosy Daniel and Jane Sen`
 │   ├── TableRowNode
 │   │   full_match: `The Cancer Fighting Diet|Dr Johannes Coy and Maren Franz`
 │   │   inner_content: `The Cancer Fighting Diet|Dr Johannes Coy and Maren Franz`
@@ -366,8 +366,8 @@ AST Structure:
 │   │   │   inner_content: `  Xandria Williams`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `  Xandria Williams`
-│   │   │   │   inner_content: `  Xandria Williams`
+│   │   │   │   full_match: `Xandria Williams`
+│   │   │   │   inner_content: `Xandria Williams`
 │   ├── TableRowNode
 │   │   full_match: `Knockout|Suzanne Somers`
 │   │   inner_content: `Knockout|Suzanne Somers`
@@ -402,8 +402,8 @@ AST Structure:
 │   │   │   inner_content: `  Jessica Richards`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `  Jessica Richards`
-│   │   │   │   inner_content: `  Jessica Richards`├── HorizontalRuleNode
+│   │   │   │   full_match: `Jessica Richards`
+│   │   │   │   inner_content: `Jessica Richards`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── TableNode
 │   full_match: `||Websites|Action\nwww.grassrootshealth.net  |[https://www.grassrootshealth.net/?s=cancer+call+for+action|Vitamin D for cancer – find “Call-To-Action”]\nwww.vitamindwiki.com |Search for cancer%%%((Cancer and Vitamin D - many studies))%%% ((Cancer - After diagnosis)) \nwww.canceractive.com    |Subscribe to newsletter &amp; search website\nhttps://yestolife.org.uk/     |Start with:  I’m New Here||`
@@ -612,8 +612,8 @@ AST Structure:
 │   inner_content: ` (alias(Diagnoses with Cancer - consider vitamin D - 2021)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Diagnoses with Cancer - consider vitamin D - 2021)) `
-│   │   inner_content: ` (alias(Diagnoses with Cancer - consider vitamin D - 2021)) `
+│   │   full_match: `(alias(Diagnoses with Cancer - consider vitamin D - 2021)) `
+│   │   inner_content: `(alias(Diagnoses with Cancer - consider vitamin D - 2021)) `
 
 Original Tiki:
 -------------

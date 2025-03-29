@@ -291,24 +291,24 @@ AST Structure:
 │   inner_content: ` (alias(Hospital cost of a fracture was 2000 dollars less if Vitamin D and Calcium were also used – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Hospital cost of a fracture was 2000 dollars less if Vitamin D and Calcium were also used – Feb 2023)) `
-│   │   inner_content: ` (alias(Hospital cost of a fracture was 2000 dollars less if Vitamin D and Calcium were also used – Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(Hospital cost of a fracture was 2000 dollars less if Vitamin D and Calcium were also used – Feb 2023)) `
+│   │   inner_content: `(alias(Hospital cost of a fracture was 2000 dollars less if Vitamin D and Calcium were also used – Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
-│   │   inner_content: ` (alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
+│   │   inner_content: `(alias(Fracture 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
-│   │   inner_content: ` (alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
+│   │   full_match: `(alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
+│   │   inner_content: `(alias(Fracture treatment 2000 dollars less expensive if Vitamin D and Calcium were also used – Feb 2023)) `
 
 Original Tiki:
 -------------

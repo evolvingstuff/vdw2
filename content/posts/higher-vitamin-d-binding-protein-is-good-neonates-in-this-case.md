@@ -2562,8 +2562,8 @@ AST Structure:
 │   inner_content: ` (alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) `
-│   │   inner_content: ` (alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) `
+│   │   full_match: `(alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) `
+│   │   inner_content: `(alias(Higher Vitamin D-binding protein in neonates is good – Feb 2023)) `
 
 Original Tiki:
 -------------

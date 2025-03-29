@@ -134,8 +134,8 @@ AST Structure:
 │   │   inner_content: ` Depression, Anxiety, or Stress`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Depression, Anxiety, or Stress`
-│   │   │   inner_content: ` Depression, Anxiety, or Stress`├── TextNode
+│   │   │   full_match: `Depression, Anxiety, or Stress`
+│   │   │   inner_content: `Depression, Anxiety, or Stress`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;21022&quot; width=&quot;250&quot;}`

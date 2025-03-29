@@ -27,7 +27,7 @@ by Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,F
 
 2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy
 
- * Author to whom correspondence should be addressed.
+* Author to whom correspondence should be addressed.
 
 ##### PDF Table of Contents
 
@@ -77,7 +77,7 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
   * reproduceability of measurements
 
-  *  weekly vs daily dosing
+  * weekly vs daily dosing
 
   * obesity, 
 
@@ -115,7 +115,7 @@ by Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,F
 
 2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy
 
- * Author to whom correspondence should be addressed.
+* Author to whom correspondence should be addressed.
 
 ##### PDF Table of Contents
 
@@ -165,7 +165,7 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
   * reproduceability of measurements
 
-  *  weekly vs daily dosing
+  * weekly vs daily dosing
 
   * obesity, 
 
@@ -208,8 +208,17 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D: An Overview of Gene Regulation, Ranging from Metabolism to Genomic Effects`
 │   │   inner_content: `Vitamin D: An Overview of Gene Regulation, Ranging from Metabolism to Genomic Effects`├── TextNode
-│   full_match: `\nGenes 2023, 14(9), 1691; https://doi.org/10.3390/genes14091691\nby Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,Filippo Ceccato 1,2,*ORCID andValentina Camozzi 1,2\n1 Department of Medicine (DIMED), University of Padova, Via Giustiniani 2, 35128 Padova, Italy\n2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy\n * Author to whom correspondence should be addressed.\n`
-│   inner_content: `\nGenes 2023, 14(9), 1691; https://doi.org/10.3390/genes14091691\nby Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,Filippo Ceccato 1,2,*ORCID andValentina Camozzi 1,2\n1 Department of Medicine (DIMED), University of Padova, Via Giustiniani 2, 35128 Padova, Italy\n2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy\n * Author to whom correspondence should be addressed.\n`├── HeadingNode
+│   full_match: `\nGenes 2023, 14(9), 1691; https://doi.org/10.3390/genes14091691\nby Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,Filippo Ceccato 1,2,*ORCID andValentina Camozzi 1,2\n1 Department of Medicine (DIMED), University of Padova, Via Giustiniani 2, 35128 Padova, Italy\n2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy\n`
+│   inner_content: `\nGenes 2023, 14(9), 1691; https://doi.org/10.3390/genes14091691\nby Giacomo Voltan 1,2ORCID,Michele Cannito 1,2ORCID,Michela Ferrarese 1,2ORCID,Filippo Ceccato 1,2,*ORCID andValentina Camozzi 1,2\n1 Department of Medicine (DIMED), University of Padova, Via Giustiniani 2, 35128 Padova, Italy\n2 Endocrinology Unit, Padova University Hospital, Via Ospedale Civile 105, 35128 Padova, Italy\n`├── ListItemNode
+│   full_match: `* Author to whom correspondence should be addressed.`
+│   inner_content: ` Author to whom correspondence should be addressed.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Author to whom correspondence should be addressed.`
+│   │   inner_content: `Author to whom correspondence should be addressed.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
 │   full_match: `!!!!!PDF Table of Contents`
 │   inner_content: `PDF Table of Contents`
 │   level: `5`
@@ -471,8 +480,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` weekly vs daily dosing`
-│   │   inner_content: ` weekly vs daily dosing`├── TextNode
+│   │   full_match: `weekly vs daily dosing`
+│   │   inner_content: `weekly vs daily dosing`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `**obesity, `

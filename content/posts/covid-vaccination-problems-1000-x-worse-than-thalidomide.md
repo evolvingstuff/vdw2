@@ -10,7 +10,7 @@ categories:
 ---
 
 
-  **~ 10 million deaths &nbsp; vs &nbsp; ~ 10 thousand birth defects** 
+ **~ 10 million deaths &nbsp; vs &nbsp; ~ 10 thousand birth defects** 
 
 <!-- {maketoc Title=""} -->
 
@@ -51,7 +51,7 @@ categories:
 <code class="language-text">
 Markdown:
 --------
-  **~ 10 million deaths &amp;nbsp; vs &amp;nbsp; ~ 10 thousand birth defects** 
+ **~ 10 million deaths &amp;nbsp; vs &amp;nbsp; ~ 10 thousand birth defects** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -97,9 +97,6 @@ AST Structure:
 │   │   raw_content: (style=&quot;font-size:24px;&quot;)
 │   │   style: font-size:24px;
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__~ 10 million deaths ~hs~ vs ~hs~ ~ 10 thousand birth defects__`
 │   │   inner_content: `~ 10 million deaths ~hs~ vs ~hs~ ~ 10 thousand birth defects`
@@ -280,16 +277,16 @@ AST Structure:
 │   inner_content: ` (alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) `
-│   │   inner_content: ` (alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) `
+│   │   inner_content: `(alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) `
-│   │   inner_content: ` (alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) `
+│   │   full_match: `(alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) `
+│   │   inner_content: `(alias(COViD vaccination problems 1000 X worse than Thalidomide - Dec 2023)) `
 
 Original Tiki:
 -------------

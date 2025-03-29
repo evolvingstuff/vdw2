@@ -287,8 +287,8 @@ AST Structure:
 │   inner_content: ` (alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) `
-│   │   inner_content: ` (alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) `
+│   │   full_match: `(alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) `
+│   │   inner_content: `(alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) `
 
 Original Tiki:
 -------------

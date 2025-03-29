@@ -465,8 +465,8 @@ AST Structure:
 │   inner_content: ` (alias(The Truth About Vitamin D and Warning Signs Your Body Is Deficient  - Dr. Hyman video Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The Truth About Vitamin D and Warning Signs Your Body Is Deficient  - Dr. Hyman video Dec 2023)) `
-│   │   inner_content: ` (alias(The Truth About Vitamin D and Warning Signs Your Body Is Deficient  - Dr. Hyman video Dec 2023)) `
+│   │   full_match: `(alias(The Truth About Vitamin D and Warning Signs Your Body Is Deficient  - Dr. Hyman video Dec 2023)) `
+│   │   inner_content: `(alias(The Truth About Vitamin D and Warning Signs Your Body Is Deficient  - Dr. Hyman video Dec 2023)) `
 
 Original Tiki:
 -------------

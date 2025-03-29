@@ -297,32 +297,32 @@ AST Structure:
 │   inner_content: ` (alias(COVID Vaccinations increased risk of male cardiac-death  by 9% (750,000 vaccinations) - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccinations increased risk of male cardiac-death  by 9% (750,000 vaccinations) - Aug 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccinations increased risk of male cardiac-death  by 9% (750,000 vaccinations) - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(COVID Vaccinations increased risk of male cardiac-death  by 9% (750,000 vaccinations) - Aug 2023)) `
+│   │   inner_content: `(alias(COVID Vaccinations increased risk of male cardiac-death  by 9% (750,000 vaccinations) - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) `
+│   │   inner_content: `(alias(COVID Vaccinations increased risk cardiac-death by 19% (450,000 people) - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) `
+│   │   inner_content: `(alias(COVID Vaccinations increased risk cardiac-deaths in youths by 19% - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) `
-│   │   inner_content: ` (alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) `
+│   │   full_match: `(alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) `
+│   │   inner_content: `(alias(COVID Vaccinations increased risk cardiac deaths in youths by 19% - Aug 2023)) `
 
 Original Tiki:
 -------------

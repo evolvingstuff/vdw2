@@ -299,8 +299,8 @@ AST Structure:
 │   inner_content: ` fluoxetine`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` fluoxetine`
-│   │   inner_content: ` fluoxetine`├── TextNode
+│   │   full_match: `fluoxetine`
+│   │   inner_content: `fluoxetine`├── TextNode
 │   full_match: `, and sertraline`
 │   inner_content: `, and sertraline`├── LinkNode
 │   full_match: `[https://dmd.aspetjournals.org/content/dmd/37/5/977.full.pdf?with-ds=yes|17]`

@@ -1596,16 +1596,16 @@ AST Structure:
 │   inner_content: ` (alias(People with Multiple Sclerosis have poor response to Vitamin D supplementation - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(People with Multiple Sclerosis have poor response to Vitamin D supplementation - Jan 2024)) `
-│   │   inner_content: ` (alias(People with Multiple Sclerosis have poor response to Vitamin D supplementation - Jan 2024)) `├── TextNode
+│   │   full_match: `(alias(People with Multiple Sclerosis have poor response to Vitamin D supplementation - Jan 2024)) `
+│   │   inner_content: `(alias(People with Multiple Sclerosis have poor response to Vitamin D supplementation - Jan 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) `
-│   │   inner_content: ` (alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) `
+│   │   full_match: `(alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) `
+│   │   inner_content: `(alias(People with Multiple Sclerosis have blunted response to Vitamin D supplementation - Jan 2024)) `
 
 Original Tiki:
 -------------

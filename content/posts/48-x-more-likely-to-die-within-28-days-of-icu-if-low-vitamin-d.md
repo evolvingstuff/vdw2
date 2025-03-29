@@ -193,8 +193,8 @@ __Study was reported on by [https://www.grassrootshealth.net/blog/icu-surgical-o
 │   inner_content: ` (alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) `
-│   │   inner_content: ` (alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) `
+│   │   full_match: `(alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) `
+│   │   inner_content: `(alias(4.8 X more likely to die within 30 days of ICU if low Vitamin Dn- Jan 2024)) `
 
 Original Tiki:
 -------------

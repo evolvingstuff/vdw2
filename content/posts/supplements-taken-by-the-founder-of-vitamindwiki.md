@@ -31,9 +31,9 @@ categories:
 
  **Daily** 
 
-*  Magnesium  **<span style="color:orange;">Co-Factor*</span>  <span style="color:orange;">VDR activate*</span>**   400 mg in water 
+* Magnesium  **<span style="color:orange;">Co-Factor*</span>  <span style="color:orange;">VDR activate*</span>**   400 mg in water 
 
-  *  need >100 mg average daily MgCl (bulk crystal, disolved in water)
+  * need >100 mg average daily MgCl (bulk crystal, disolved in water)
 
 * Omega-3  **<span style="color:orange;">Co-Factor*</span>**  - tend to take it the in morning,  (Coromega - tastes great)
 
@@ -41,7 +41,7 @@ categories:
 
  **Every 2 days** 
 
-* Vitamin K -  **<span style="color:orange;"> Co-Factor*</span>**  3 types in (Life Extension - Super K)
+* Vitamin K -  **<span style="color:orange;">Co-Factor*</span>**  3 types in (Life Extension - Super K)
 
 * Vitamin B100 8 types (Horbaach)
 
@@ -59,11 +59,11 @@ categories:
 
 * Quercetin  <span style="color:orange;">VDR activate*</span> (Jarrow 500 mg)
 
-* Boron  <span style="color:orange;"> Co-Factor*</span>  - for better teeth and bones (Swanson Triple 3mg)
+* Boron  <span style="color:orange;">Co-Factor*</span>  - for better teeth and bones (Swanson Triple 3mg)
 
 * Selenium (Piping Rock 200 mcg)
 
-*  Silicon - horsetail - for better teeth and bones 
+* Silicon - horsetail - for better teeth and bones 
 
  **Every 6 days** 
 
@@ -87,7 +87,7 @@ categories:
 
  <span style="color:orange;">Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium</span>
 
-  **<span style="color:orange;">VDR activate</span>** 
+ **<span style="color:orange;">VDR activate</span>** 
 
  <span style="color:orange;">Gets more Vitamin D from the blood actually into the cells</span>
 
@@ -144,9 +144,9 @@ Markdown:
 
  **Daily** 
 
-*  Magnesium  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt;**   400 mg in water 
+* Magnesium  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt;**   400 mg in water 
 
-  *  need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)
+  * need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)
 
 * Omega-3  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;**  - tend to take it the in morning,  (Coromega - tastes great)
 
@@ -154,7 +154,7 @@ Markdown:
 
  **Every 2 days** 
 
-* Vitamin K -  **&lt;span style=&quot;color:orange;&quot;&gt; Co-Factor*&lt;/span&gt;**  3 types in (Life Extension - Super K)
+* Vitamin K -  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;**  3 types in (Life Extension - Super K)
 
 * Vitamin B100 8 types (Horbaach)
 
@@ -172,11 +172,11 @@ Markdown:
 
 * Quercetin  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt; (Jarrow 500 mg)
 
-* Boron  &lt;span style=&quot;color:orange;&quot;&gt; Co-Factor*&lt;/span&gt;  - for better teeth and bones (Swanson Triple 3mg)
+* Boron  &lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;  - for better teeth and bones (Swanson Triple 3mg)
 
 * Selenium (Piping Rock 200 mcg)
 
-*  Silicon - horsetail - for better teeth and bones 
+* Silicon - horsetail - for better teeth and bones 
 
  **Every 6 days** 
 
@@ -200,7 +200,7 @@ Markdown:
 
  &lt;span style=&quot;color:orange;&quot;&gt;Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium&lt;/span&gt;
 
-  **&lt;span style=&quot;color:orange;&quot;&gt;VDR activate&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;VDR activate&lt;/span&gt;** 
 
  &lt;span style=&quot;color:orange;&quot;&gt;Gets more Vitamin D from the blood actually into the cells&lt;/span&gt;
 
@@ -289,8 +289,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Magnesium `
-│   │   inner_content: ` Magnesium `
+│   │   full_match: `Magnesium `
+│   │   inner_content: `Magnesium `
 │   ├── BoldNode
 │   │   full_match: `__~~#06F:Co-Factor*~~ ~~#F00:VDR activate*~~__`
 │   │   inner_content: `~~#06F:Co-Factor*~~ ~~#F00:VDR activate*~~`
@@ -326,8 +326,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)`
-│   │   inner_content: ` need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)`├── TextNode
+│   │   full_match: `need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)`
+│   │   inner_content: `need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Omega-3 __~~#06F:Co-Factor*~~__ - tend to take it the in morning,  (Coromega - tastes great)`
@@ -398,8 +398,8 @@ AST Structure:
 │   │   │   │   raw_content: #06F
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Co-Factor*`
-│   │   │   │   inner_content: ` Co-Factor*`
+│   │   │   │   full_match: `Co-Factor*`
+│   │   │   │   inner_content: `Co-Factor*`
 │   ├── TextNode
 │   │   full_match: ` 3 types in (Life Extension - Super K)`
 │   │   inner_content: ` 3 types in (Life Extension - Super K)`├── TextNode
@@ -525,8 +525,8 @@ AST Structure:
 │   │   │   raw_content: #06F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Co-Factor*`
-│   │   │   inner_content: ` Co-Factor*`
+│   │   │   full_match: `Co-Factor*`
+│   │   │   inner_content: `Co-Factor*`
 │   ├── TextNode
 │   │   full_match: `  - for better teeth and bones (Swanson Triple 3mg)`
 │   │   inner_content: `  - for better teeth and bones (Swanson Triple 3mg)`├── TextNode
@@ -546,8 +546,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Silicon - horsetail - for better teeth and bones `
-│   │   inner_content: ` Silicon - horsetail - for better teeth and bones `├── TextNode
+│   │   full_match: `Silicon - horsetail - for better teeth and bones `
+│   │   inner_content: `Silicon - horsetail - for better teeth and bones `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__Every 6 days__`
@@ -659,8 +659,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium`
 │   │   inner_content: `Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium`├── TextNode
-│   full_match: `\n\n `
-│   inner_content: `\n\n `├── BoldNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
 │   full_match: `__~~#F00:VDR activate~~__`
 │   inner_content: `~~#F00:VDR activate~~`
 │   children:
@@ -1038,8 +1038,8 @@ AST Structure:
 │   inner_content: ` (alias(Supplements taken by the Founder of VitaminDWiki)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Supplements taken by the Founder of VitaminDWiki)) `
-│   │   inner_content: ` (alias(Supplements taken by the Founder of VitaminDWiki)) `
+│   │   full_match: `(alias(Supplements taken by the Founder of VitaminDWiki)) `
+│   │   inner_content: `(alias(Supplements taken by the Founder of VitaminDWiki)) `
 
 Original Tiki:
 -------------

@@ -189,8 +189,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID asocated with half as much vitamin K2-7  - June 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID asocated with half as much vitamin K2-7  - June 2022)) `
-│   │   inner_content: ` (alias(COVID asocated with half as much vitamin K2-7  - June 2022)) `
+│   │   full_match: `(alias(COVID asocated with half as much vitamin K2-7  - June 2022)) `
+│   │   inner_content: `(alias(COVID asocated with half as much vitamin K2-7  - June 2022)) `
 
 Original Tiki:
 -------------

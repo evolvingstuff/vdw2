@@ -154,7 +154,7 @@ Conclusions: Monthly administration of oral cholecalciferol 25,000IU every 4 wee
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14652{SQL} -->
 </span> visits to this page
 
@@ -310,7 +310,7 @@ Conclusions: Monthly administration of oral cholecalciferol 25,000IU every 4 wee
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14652{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -975,9 +975,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14652{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14652`
@@ -993,16 +990,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D given daily, weekly, or monthly has similar results (116 RCTs) – meta-analysis Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D given daily, weekly, or monthly has similar results (116 RCTs) – meta-analysis Aug 2023)) `
-│   │   inner_content: ` (alias(Vitamin D given daily, weekly, or monthly has similar results (116 RCTs) – meta-analysis Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D given daily, weekly, or monthly has similar results (116 RCTs) – meta-analysis Aug 2023)) `
+│   │   inner_content: `(alias(Vitamin D given daily, weekly, or monthly has similar results (116 RCTs) – meta-analysis Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) `
-│   │   inner_content: ` (alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) `
+│   │   full_match: `(alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) `
+│   │   inner_content: `(alias(Vitamin D given daily, weekly, or monthly has response (116 RCTs) – meta-analysis Aug 2023)) `
 
 Original Tiki:
 -------------

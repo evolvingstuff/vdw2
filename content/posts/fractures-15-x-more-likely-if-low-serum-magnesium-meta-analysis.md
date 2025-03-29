@@ -337,8 +337,8 @@ AST Structure:
 │   inner_content: ` (alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) `
-│   │   inner_content: ` (alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) `
+│   │   full_match: `(alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) `
+│   │   inner_content: `(alias(Fractures 1.58 X more-likely if low serum Magnesium – meta-analysis March 2022)) `
 
 Original Tiki:
 -------------

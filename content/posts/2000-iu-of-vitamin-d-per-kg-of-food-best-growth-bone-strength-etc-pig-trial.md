@@ -27,7 +27,7 @@ Zeyu Zhang 1, Gang Zhang 1, Jindang Cao 2, Baoqin Qiu 2, Xiaoyu Qin 2, Jinbiao Z
 
 The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **<span style="color:orange;">0, 25, 50 and 75 µg/kg in the diet</span>**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p < 0.05) and body weight (p < 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
 
- Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p <; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p < 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p < 0.05). 
+Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p <; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p < 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p < 0.05). 
 
 The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking strength and bone stiffness in the tibia compared with the 0 µg/kg group (p < 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 improved the activities of superoxide dismutase (SOD) and catalase (CAT), and increased the messenger RNA (mRNA) expression of Cu/Zn SOD in the longissimus dorsi compared with the 0 µg/kg group (p < 0.05). Supplementing 50 µg/kg 25(OH)VD3 improved the mRNA expression of calcium-binding protein D9k (CaBP-D9k) and D28k (CaBP-D28K) in the liver compared with the 0 µg/kg 25(OH)D3 group (p < 0.05). In conclusion, a diet with an added dose of 50 µg/kg 25(OH)VD3 showed a greatest growth performance of growing-finishing pigs, and 25(OH)VD3 enhanced calcium deposition and antioxidant capacity in the longissimus dorsi, which may be associated with improved expression of calcium ion channel proteins.
 
@@ -45,7 +45,7 @@ The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking st
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14204{SQL} -->
 </span> visits to this page
 
@@ -72,7 +72,7 @@ Zeyu Zhang 1, Gang Zhang 1, Jindang Cao 2, Baoqin Qiu 2, Xiaoyu Qin 2, Jinbiao Z
 
 The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **&lt;span style=&quot;color:orange;&quot;&gt;0, 25, 50 and 75 µg/kg in the diet&lt;/span&gt;**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
 
- Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p &lt; 0.05). 
+Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p &lt; 0.05). 
 
 The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking strength and bone stiffness in the tibia compared with the 0 µg/kg group (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 improved the activities of superoxide dismutase (SOD) and catalase (CAT), and increased the messenger RNA (mRNA) expression of Cu/Zn SOD in the longissimus dorsi compared with the 0 µg/kg group (p &lt; 0.05). Supplementing 50 µg/kg 25(OH)VD3 improved the mRNA expression of calcium-binding protein D9k (CaBP-D9k) and D28k (CaBP-D28K) in the liver compared with the 0 µg/kg 25(OH)D3 group (p &lt; 0.05). In conclusion, a diet with an added dose of 50 µg/kg 25(OH)VD3 showed a greatest growth performance of growing-finishing pigs, and 25(OH)VD3 enhanced calcium deposition and antioxidant capacity in the longissimus dorsi, which may be associated with improved expression of calcium ion channel proteins.
 
@@ -90,7 +90,7 @@ The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking st
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14204{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -141,9 +141,6 @@ AST Structure:
 │   full_match: `__ ~~#00F:0, 25, 50 and 75 µg/kg in the diet~~__`
 │   inner_content: ` ~~#00F:0, 25, 50 and 75 µg/kg in the diet~~`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── ColorNode
 │   │   full_match: `~~#00F:0, 25, 50 and 75 µg/kg in the diet~~`
 │   │   inner_content: `0, 25, 50 and 75 µg/kg in the diet`
@@ -153,8 +150,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `0, 25, 50 and 75 µg/kg in the diet`
 │   │   │   inner_content: `0, 25, 50 and 75 µg/kg in the diet`├── TextNode
-│   full_match: ` on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.\n Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 `
-│   inner_content: ` on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.\n Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 `├── BoldNode
+│   full_match: ` on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.\nDietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 `
+│   inner_content: ` on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.\nDietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3 `├── BoldNode
 │   full_match: `__increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids__`
 │   inner_content: `increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids`
 │   children:
@@ -258,9 +255,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14204{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14204`
@@ -276,8 +270,8 @@ AST Structure:
 │   inner_content: ` (alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) `
-│   │   inner_content: ` (alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) `
+│   │   full_match: `(alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) `
+│   │   inner_content: `(alias(2,000 IU of Vitamin D per kg of food – best growth, bone strength, etc.  (pig trial) – Dec 2022)) `
 
 Original Tiki:
 -------------

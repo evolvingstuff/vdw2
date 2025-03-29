@@ -359,8 +359,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) `
-│   │   inner_content: ` (alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) `
+│   │   full_match: `(alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) `
+│   │   inner_content: `(alias(Vitamin D deficiency predicted with 91% accuracy using AI - April 2024)) `
 
 Original Tiki:
 -------------

@@ -49,7 +49,7 @@ Int J Mol Sci 2022 Dec 7;23(24):15480. [doi: 10.3390/ijms232415480.](https://doi
 
 ---
 
-#### Virus Hemagglutination - [ many studies](https://www.sciencedirect.com/topics/medicine-and-dentistry/virus-hemagglutination)
+#### Virus Hemagglutination - [many studies](https://www.sciencedirect.com/topics/medicine-and-dentistry/virus-hemagglutination)
 
 ---
 
@@ -105,7 +105,7 @@ Int J Mol Sci 2022 Dec 7;23(24):15480. [doi: 10.3390/ijms232415480.](https://doi
 
 ---
 
-#### Virus Hemagglutination - [ many studies](https://www.sciencedirect.com/topics/medicine-and-dentistry/virus-hemagglutination)
+#### Virus Hemagglutination - [many studies](https://www.sciencedirect.com/topics/medicine-and-dentistry/virus-hemagglutination)
 
 ---
 
@@ -259,8 +259,8 @@ AST Structure:
 │   │   url: `https://www.sciencedirect.com/topics/medicine-and-dentistry/virus-hemagglutination`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` many studies`
-│   │   │   inner_content: ` many studies`├── HorizontalRuleNode
+│   │   │   full_match: `many studies`
+│   │   │   inner_content: `many studies`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Ivermectin and COVID-19 - many studies))`
@@ -284,24 +284,24 @@ AST Structure:
 │   inner_content: ` (alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) `
-│   │   inner_content: ` (alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) `
+│   │   inner_content: `(alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) `
-│   │   inner_content: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) `
+│   │   inner_content: `(alias(Red blood cell clumping (Hemagglutination) - by both COVIDm vaccination (low blood O2) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) `
-│   │   inner_content: ` (alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) `
+│   │   full_match: `(alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) `
+│   │   inner_content: `(alias(Red blood cell clumping (Hemagglutination) - by both COVID and vaccination (low blood O2) - Dec 2023)) `
 
 Original Tiki:
 -------------

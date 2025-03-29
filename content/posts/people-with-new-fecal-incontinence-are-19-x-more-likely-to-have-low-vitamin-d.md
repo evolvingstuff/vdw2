@@ -123,7 +123,7 @@ Conclusion & inferences: Patients with FI had higher rates of vitamin-D deficien
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15033{SQL} -->
 </span> visits to this page
 
@@ -249,7 +249,7 @@ Conclusion &amp; inferences: Patients with FI had higher rates of vitamin-D defi
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15033{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -837,9 +837,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15033{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15033`
@@ -855,16 +852,16 @@ AST Structure:
 │   inner_content: ` (alias(New fecal incontinence 1.9 times more likely if low Vitamin D – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(New fecal incontinence 1.9 times more likely if low Vitamin D – Feb 2024)) `
-│   │   inner_content: ` (alias(New fecal incontinence 1.9 times more likely if low Vitamin D – Feb 2024)) `├── TextNode
+│   │   full_match: `(alias(New fecal incontinence 1.9 times more likely if low Vitamin D – Feb 2024)) `
+│   │   inner_content: `(alias(New fecal incontinence 1.9 times more likely if low Vitamin D – Feb 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) ~/tc~`
 │   inner_content: ` (alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) `
-│   │   inner_content: ` (alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) `
+│   │   full_match: `(alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) `
+│   │   inner_content: `(alias(People with new fecal incontinence are 1.9 X more likely to hve low Vitamin D – Feb 2024)) `
 
 Original Tiki:
 -------------

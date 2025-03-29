@@ -411,8 +411,8 @@ AST Structure:
 │   inner_content: ` (alias(CVD triangle)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(CVD triangle)) `
-│   │   inner_content: ` (alias(CVD triangle)) `
+│   │   full_match: `(alias(CVD triangle)) `
+│   │   inner_content: `(alias(CVD triangle)) `
 
 Original Tiki:
 -------------

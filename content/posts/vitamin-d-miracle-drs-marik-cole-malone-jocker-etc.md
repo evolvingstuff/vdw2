@@ -153,16 +153,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D Meracle: Dr.s Merik, Cole,  Malone, Jocker - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D Meracle: Dr.s Merik, Cole,  Malone, Jocker - Sept 2023)) `
-│   │   inner_content: ` (alias(Vitamin D Meracle: Dr.s Merik, Cole,  Malone, Jocker - Sept 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D Meracle: Dr.s Merik, Cole,  Malone, Jocker - Sept 2023)) `
+│   │   inner_content: `(alias(Vitamin D Meracle: Dr.s Merik, Cole,  Malone, Jocker - Sept 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) `
-│   │   inner_content: ` (alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) `
+│   │   full_match: `(alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) `
+│   │   inner_content: `(alias(Vitamin D Miracle: Dr.&#39;s Merik, Cole,  Malone, Jocker, etc. - Sept 2023)) `
 
 Original Tiki:
 -------------

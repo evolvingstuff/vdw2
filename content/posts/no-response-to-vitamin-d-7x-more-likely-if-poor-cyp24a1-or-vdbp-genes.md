@@ -587,16 +587,16 @@ AST Structure:
 │   inner_content: ` (alias(No response to vitamin D - 3 associated genes - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(No response to vitamin D - 3 associated genes - Feb 2023)) `
-│   │   inner_content: ` (alias(No response to vitamin D - 3 associated genes - Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(No response to vitamin D - 3 associated genes - Feb 2023)) `
+│   │   inner_content: `(alias(No response to vitamin D - 3 associated genes - Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) `
-│   │   inner_content: ` (alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) `
+│   │   full_match: `(alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) `
+│   │   inner_content: `(alias(No response to vitamin D - 3 associated genes (CYP24A1, VDBP) - Feb 2023)) `
 
 Original Tiki:
 -------------

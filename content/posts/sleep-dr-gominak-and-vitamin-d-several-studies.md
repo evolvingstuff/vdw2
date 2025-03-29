@@ -25,9 +25,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -45,7 +45,7 @@ This list is automatically updated
 
 ##### Three Simple Steps for Healthier Sleep: Dr. Stasha Gominak video - Oct 2023
 
- **[ YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&ab_channel=AmericanAcademyofCraniofacialPain)** 
+ **[YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&ab_channel=AmericanAcademyofCraniofacialPain)** 
 
  **Learning Objectives:** 
 
@@ -89,8 +89,6 @@ Dr. Gominak has the RightSleep® program that uses over-the-counter vitamins and
 
 Dr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.
 
- 
-
 Please join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.
 
 ---
@@ -123,7 +121,7 @@ To journal your observations as you go. Record how your body is responding, so y
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14769{SQL} -->
 </span> visits to this page
 
@@ -151,9 +149,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -171,7 +169,7 @@ This list is automatically updated
 
 ##### Three Simple Steps for Healthier Sleep: Dr. Stasha Gominak video - Oct 2023
 
- **[ YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&amp;ab_channel=AmericanAcademyofCraniofacialPain)** 
+ **[YouTube 64 minutes](https://www.youtube.com/watch?v=LbAXAvMEZX4&amp;ab_channel=AmericanAcademyofCraniofacialPain)** 
 
  **Learning Objectives:** 
 
@@ -215,8 +213,6 @@ Dr. Gominak has the RightSleep® program that uses over-the-counter vitamins and
 
 Dr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.
 
- 
-
 Please join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.
 
 ---
@@ -249,7 +245,7 @@ To journal your observations as you go. Record how your body is responding, so y
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14769{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -301,14 +297,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;GOMINAK&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!A sampling of her many videos`
@@ -360,8 +356,8 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=LbAXAvMEZX4&amp;ab_channel=AmericanAcademyofCraniofacialPain`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` YouTube 64 minutes`
-│   │   │   inner_content: ` YouTube 64 minutes`├── TextNode
+│   │   │   full_match: `YouTube 64 minutes`
+│   │   │   inner_content: `YouTube 64 minutes`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__Learning Objectives:__`
@@ -459,8 +455,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `51 minutes`
 │   │   │   inner_content: `51 minutes`├── TextNode
-│   full_match: `\nDo you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?\n\nWe discussed the relationships between vitamin D, brain neurotransmitters, the gut and sleep  for this week’s episode of the Weekend Wellness Hour Show with Harvard trained neurologist, Dr. Stasha Gominak. Dr. Gominak is recognized as a leader in the new field of neurotransmitter-based treatment of sleep disorders.\n\nDr. Gominak shared her journey into the world of sleep disorders after focusing on peripheral neuropathy for years.  She realized that those with headaches had disruptions in their sleep phases, specifically deep sleep which includes slow deep sleep and REM sleep.  \n\nWe then discussed how she stumbled on the relationship between vitamin D and poor sleep.  She stressed that vitamin D is a hormone produced by skin in response to sun. \n\nDr. Gominak mentioned the importance of vitamin D in all the body processes, including fertility, hibernation, gut health, bones and so much more.   In all her cases where people were not getting quality sleep, their blood vitamin D levels were low.  \n\nWe dove into the specifics of what are the ideal blood vitamin D levels for someone looking for quality sleep when they’ve had disruptions.  She explained that dosage does not equate to blood levels so if you begin a certain dose, you need to regularly check your blood vitamin D levels to see if it has responded appropriately to get you where you need for restful sleep.\n\nShe also mentioned the role of B vitamins and the gut microbiome and how both affect the sleep switch in the brain to help us sleep soundly.   She highlighted the effect of low vitamin D on the gut microbiome which impacts its ability to make all the B vitamins that impact the brain.\n\nDr. Gominak has the RightSleep® program that uses over-the-counter vitamins and changes in behavior to improve or normalize your sleep.  She works on restoring your proper brain chemistry, and your gut microbiome, so you can experience consistent healing through sleep. \n\nDr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.\n \nPlease join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.`
-│   inner_content: `\nDo you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?\n\nWe discussed the relationships between vitamin D, brain neurotransmitters, the gut and sleep  for this week’s episode of the Weekend Wellness Hour Show with Harvard trained neurologist, Dr. Stasha Gominak. Dr. Gominak is recognized as a leader in the new field of neurotransmitter-based treatment of sleep disorders.\n\nDr. Gominak shared her journey into the world of sleep disorders after focusing on peripheral neuropathy for years.  She realized that those with headaches had disruptions in their sleep phases, specifically deep sleep which includes slow deep sleep and REM sleep.  \n\nWe then discussed how she stumbled on the relationship between vitamin D and poor sleep.  She stressed that vitamin D is a hormone produced by skin in response to sun. \n\nDr. Gominak mentioned the importance of vitamin D in all the body processes, including fertility, hibernation, gut health, bones and so much more.   In all her cases where people were not getting quality sleep, their blood vitamin D levels were low.  \n\nWe dove into the specifics of what are the ideal blood vitamin D levels for someone looking for quality sleep when they’ve had disruptions.  She explained that dosage does not equate to blood levels so if you begin a certain dose, you need to regularly check your blood vitamin D levels to see if it has responded appropriately to get you where you need for restful sleep.\n\nShe also mentioned the role of B vitamins and the gut microbiome and how both affect the sleep switch in the brain to help us sleep soundly.   She highlighted the effect of low vitamin D on the gut microbiome which impacts its ability to make all the B vitamins that impact the brain.\n\nDr. Gominak has the RightSleep® program that uses over-the-counter vitamins and changes in behavior to improve or normalize your sleep.  She works on restoring your proper brain chemistry, and your gut microbiome, so you can experience consistent healing through sleep. \n\nDr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.\n \nPlease join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.`├── HorizontalRuleNode
+│   full_match: `\nDo you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?\n\nWe discussed the relationships between vitamin D, brain neurotransmitters, the gut and sleep  for this week’s episode of the Weekend Wellness Hour Show with Harvard trained neurologist, Dr. Stasha Gominak. Dr. Gominak is recognized as a leader in the new field of neurotransmitter-based treatment of sleep disorders.\n\nDr. Gominak shared her journey into the world of sleep disorders after focusing on peripheral neuropathy for years.  She realized that those with headaches had disruptions in their sleep phases, specifically deep sleep which includes slow deep sleep and REM sleep.  \n\nWe then discussed how she stumbled on the relationship between vitamin D and poor sleep.  She stressed that vitamin D is a hormone produced by skin in response to sun. \n\nDr. Gominak mentioned the importance of vitamin D in all the body processes, including fertility, hibernation, gut health, bones and so much more.   In all her cases where people were not getting quality sleep, their blood vitamin D levels were low.  \n\nWe dove into the specifics of what are the ideal blood vitamin D levels for someone looking for quality sleep when they’ve had disruptions.  She explained that dosage does not equate to blood levels so if you begin a certain dose, you need to regularly check your blood vitamin D levels to see if it has responded appropriately to get you where you need for restful sleep.\n\nShe also mentioned the role of B vitamins and the gut microbiome and how both affect the sleep switch in the brain to help us sleep soundly.   She highlighted the effect of low vitamin D on the gut microbiome which impacts its ability to make all the B vitamins that impact the brain.\n\nDr. Gominak has the RightSleep® program that uses over-the-counter vitamins and changes in behavior to improve or normalize your sleep.  She works on restoring your proper brain chemistry, and your gut microbiome, so you can experience consistent healing through sleep. \n\nDr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.\n\nPlease join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.`
+│   inner_content: `\nDo you have trouble sleeping or feeling rested after you wake up?  Did you know your vitamin D levels are related to sleep?\n\nWe discussed the relationships between vitamin D, brain neurotransmitters, the gut and sleep  for this week’s episode of the Weekend Wellness Hour Show with Harvard trained neurologist, Dr. Stasha Gominak. Dr. Gominak is recognized as a leader in the new field of neurotransmitter-based treatment of sleep disorders.\n\nDr. Gominak shared her journey into the world of sleep disorders after focusing on peripheral neuropathy for years.  She realized that those with headaches had disruptions in their sleep phases, specifically deep sleep which includes slow deep sleep and REM sleep.  \n\nWe then discussed how she stumbled on the relationship between vitamin D and poor sleep.  She stressed that vitamin D is a hormone produced by skin in response to sun. \n\nDr. Gominak mentioned the importance of vitamin D in all the body processes, including fertility, hibernation, gut health, bones and so much more.   In all her cases where people were not getting quality sleep, their blood vitamin D levels were low.  \n\nWe dove into the specifics of what are the ideal blood vitamin D levels for someone looking for quality sleep when they’ve had disruptions.  She explained that dosage does not equate to blood levels so if you begin a certain dose, you need to regularly check your blood vitamin D levels to see if it has responded appropriately to get you where you need for restful sleep.\n\nShe also mentioned the role of B vitamins and the gut microbiome and how both affect the sleep switch in the brain to help us sleep soundly.   She highlighted the effect of low vitamin D on the gut microbiome which impacts its ability to make all the B vitamins that impact the brain.\n\nDr. Gominak has the RightSleep® program that uses over-the-counter vitamins and changes in behavior to improve or normalize your sleep.  She works on restoring your proper brain chemistry, and your gut microbiome, so you can experience consistent healing through sleep. \n\nDr. Gominak practiced Neurology in the San Francisco Bay area from 1991-2004 and then began to dedicate more of her practice to the treatment of sleep and sleep disorders. In 2012 and 2016 she published two pivotal articles about the global struggle with worsening sleep, the possible causes and solutions, related to vitamin D deficiency and the intestinal microbiome.\n\nPlease join us to learn how your sleep can be affected by vitamin D deficiency and a disruption of your gut microbiome.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Getting Started With RightSleep® (her $99 program)`
@@ -570,9 +566,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14769{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14769`
@@ -588,16 +581,16 @@ AST Structure:
 │   inner_content: ` (alias(Sellp, Gominak  and Vitamin D - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Sellp, Gominak  and Vitamin D - several studies)) `
-│   │   inner_content: ` (alias(Sellp, Gominak  and Vitamin D - several studies)) `├── TextNode
+│   │   full_match: `(alias(Sellp, Gominak  and Vitamin D - several studies)) `
+│   │   inner_content: `(alias(Sellp, Gominak  and Vitamin D - several studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) ~/tc~`
 │   inner_content: ` (alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) `
-│   │   inner_content: ` (alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) `
+│   │   full_match: `(alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) `
+│   │   inner_content: `(alias(Sleep, Dr. Gominak  and Vitamin D - several studies)) `
 
 Original Tiki:
 -------------

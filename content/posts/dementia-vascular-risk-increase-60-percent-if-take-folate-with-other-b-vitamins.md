@@ -248,8 +248,8 @@ AST Structure:
 │   inner_content: ` (alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) `
-│   │   inner_content: ` (alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) `
+│   │   full_match: `(alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) `
+│   │   inner_content: `(alias(Dementia (vascular) risk increase 60% if take Folate with other B vitamins -  Dec 2023)) `
 
 Original Tiki:
 -------------

@@ -232,8 +232,8 @@ AST Structure:
 │   inner_content: ` (alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) `
-│   │   inner_content: ` (alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) `
+│   │   full_match: `(alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) `
+│   │   inner_content: `(alias(Obese asmatic children Vitamin D - 50,000 IU then 8,000 IU daily - RCT Jan 2024)) `
 
 Original Tiki:
 -------------

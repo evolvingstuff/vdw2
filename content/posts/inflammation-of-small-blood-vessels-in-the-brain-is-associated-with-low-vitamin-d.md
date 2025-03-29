@@ -21,7 +21,7 @@ categories:
 
 J Neuroimmunol . 2023 Apr 15;377:578057. [doi: 10.1016/j.jneuroim.2023.578057](https://doi.org/10.1016/j.jneuroim.2023.578057) 
 
- &nbsp; (behind a paywall), free access to citations
+&nbsp; (behind a paywall), free access to citations
 
 Manjunath Supriya 1, Rita Christopher 2, Puttachandra Prabhakar 1, Sadanandavalli Retnaswami Chandra 3
 
@@ -101,7 +101,7 @@ Markdown:
 
 J Neuroimmunol . 2023 Apr 15;377:578057. [doi: 10.1016/j.jneuroim.2023.578057](https://doi.org/10.1016/j.jneuroim.2023.578057) 
 
- &amp;nbsp; (behind a paywall), free access to citations
+&amp;nbsp; (behind a paywall), free access to citations
 
 Manjunath Supriya 1, Rita Christopher 2, Puttachandra Prabhakar 1, Sadanandavalli Retnaswami Chandra 3
 
@@ -197,8 +197,8 @@ AST Structure:
 │   inner_content: `\nJ Neuroimmunol . 2023 Apr 15;377:578057. `├── DoiLinkNode
 │   full_match: `doi: 10.1016/j.jneuroim.2023.578057`
 │   inner_content: `10.1016/j.jneuroim.2023.578057`├── TextNode
-│   full_match: ` \n `
-│   inner_content: ` \n `├── HorizontalSpaceNode
+│   full_match: ` \n`
+│   inner_content: ` \n`├── HorizontalSpaceNode
 │   full_match: `~hs~`
 │   inner_content: ``
 │   repetitions: `1`├── TextNode

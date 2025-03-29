@@ -48,7 +48,7 @@ This review updates discoveries of molecular mechanisms underlying biological fu
 
 * vascular dementia.
 
- Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.
+Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -111,7 +111,7 @@ This review updates discoveries of molecular mechanisms underlying biological fu
 
 * vascular dementia.
 
- Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.
+Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -240,8 +240,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `vascular dementia.`
 │   │   inner_content: `vascular dementia.`├── TextNode
-│   full_match: `\n Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.\n`
-│   inner_content: `\n Clinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.\n`├── FontNode
+│   full_match: `\nClinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.\n`
+│   inner_content: `\nClinical trials investigating the influence of vitamin D supplementation in patients with neurodegenerative diseases are also summarized. The synthesized information will probably provoke an enhanced understanding of the neuroprotective roles of vitamin D in the nervous system and provide therapeutic options for patients with neurodegenerative diseases in the future.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19088&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19088&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:
@@ -386,8 +386,8 @@ AST Structure:
 │   inner_content: ` (alias(How Vitamin D fights brain problems (Multiple Sclerosis, Alzheimer’s, Dementia, etc) – Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(How Vitamin D fights brain problems (Multiple Sclerosis, Alzheimer’s, Dementia, etc) – Jan 2023)) `
-│   │   inner_content: ` (alias(How Vitamin D fights brain problems (Multiple Sclerosis, Alzheimer’s, Dementia, etc) – Jan 2023)) `
+│   │   full_match: `(alias(How Vitamin D fights brain problems (Multiple Sclerosis, Alzheimer’s, Dementia, etc) – Jan 2023)) `
+│   │   inner_content: `(alias(How Vitamin D fights brain problems (Multiple Sclerosis, Alzheimer’s, Dementia, etc) – Jan 2023)) `
 
 Original Tiki:
 -------------

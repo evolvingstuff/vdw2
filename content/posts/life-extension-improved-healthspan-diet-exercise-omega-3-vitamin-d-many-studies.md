@@ -17,10 +17,10 @@ date: 2023-12-09
 
 | | | | |
 | --- | --- | --- | --- |
-|   | cost/year | years <br>extended | cost per year <br>/year extended |
+|  | cost/year | years <br>extended | cost per year <br>/year extended |
 | Good diet | $3000 | 10 years |  **$300/year**  |
-| Exercise | 1000 <br>hours |  5 years? |  **$2000/year** <br>assume $10/hour |
-| Omega-3 | $300 |  8 years? |  **$37/year**  |
+| Exercise | 1000 <br>hours | 5 years? |  **$2000/year** <br>assume $10/hour |
+| Omega-3 | $300 | 8 years? |  **$37/year**  |
 | Vitamin D | $20 | 3 years |  **$7/year**  |
 
 ---
@@ -97,9 +97,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -149,10 +149,10 @@ Markdown:
 
 | | | | |
 | --- | --- | --- | --- |
-|   | cost/year | years &lt;br&gt;extended | cost per year &lt;br&gt;/year extended |
+|  | cost/year | years &lt;br&gt;extended | cost per year &lt;br&gt;/year extended |
 | Good diet | $3000 | 10 years |  **$300/year**  |
-| Exercise | 1000 &lt;br&gt;hours |  5 years? |  **$2000/year** &lt;br&gt;assume $10/hour |
-| Omega-3 | $300 |  8 years? |  **$37/year**  |
+| Exercise | 1000 &lt;br&gt;hours | 5 years? |  **$2000/year** &lt;br&gt;assume $10/hour |
+| Omega-3 | $300 | 8 years? |  **$37/year**  |
 | Vitamin D | $20 | 3 years |  **$7/year**  |
 
 ---
@@ -229,9 +229,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -314,10 +314,6 @@ AST Structure:
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: ` `
 │   │   │   │   inner_content: ` `
-│   │   │   │   children:
-│   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` `
-│   │   │   │   │   inner_content: ` `
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `cost/year`
 │   │   │   │   inner_content: `cost/year`
@@ -416,8 +412,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 5 years?`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 5 years?`
-│   │   │   │   │   inner_content: ` 5 years?`
+│   │   │   │   │   full_match: `5 years?`
+│   │   │   │   │   inner_content: `5 years?`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__$2000/year__%%%assume $10/hour`
 │   │   │   │   inner_content: `__$2000/year__%%%assume $10/hour`
@@ -458,8 +454,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 8 years?`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 8 years?`
-│   │   │   │   │   inner_content: ` 8 years?`
+│   │   │   │   │   full_match: `8 years?`
+│   │   │   │   │   inner_content: `8 years?`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__$37/year__`
 │   │   │   │   inner_content: `__$37/year__`
@@ -880,14 +876,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;70&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;life-extension\&quot; OR “\&quot;extend life\&quot; OR “\&quot;years longer\&quot; OR “\&quot;longer life\&quot; OR “\&quot;life expectancy\&quot;  OR “\&quot;healthspan\&quot;  OR “\&quot;long life\&quot;  OR “\&quot;lifespan\&quot; OR “\&quot;longevity\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Exercise and Vitamin D are synergistic - many studies)) 66+`
@@ -1005,32 +1001,32 @@ AST Structure:
 │   inner_content: ` (alias(Good diet leads to longer and healthier life)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Good diet leads to longer and healthier life)) `
-│   │   inner_content: ` (alias(Good diet leads to longer and healthier life)) `├── TextNode
+│   │   full_match: `(alias(Good diet leads to longer and healthier life)) `
+│   │   inner_content: `(alias(Good diet leads to longer and healthier life)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Good diet leads to life-extension and improved healthspan)) ~/tc~`
 │   inner_content: ` (alias(Good diet leads to life-extension and improved healthspan)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Good diet leads to life-extension and improved healthspan)) `
-│   │   inner_content: ` (alias(Good diet leads to life-extension and improved healthspan)) `├── TextNode
+│   │   full_match: `(alias(Good diet leads to life-extension and improved healthspan)) `
+│   │   inner_content: `(alias(Good diet leads to life-extension and improved healthspan)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) ~/tc~`
 │   inner_content: ` (alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) `
-│   │   inner_content: ` (alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) `├── TextNode
+│   │   full_match: `(alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) `
+│   │   inner_content: `(alias(Life-extension, improved healthspan: Deit, Exercise, Omega-3, Vitamin  - many studiesD)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) ~/tc~`
 │   inner_content: ` (alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) `
-│   │   inner_content: ` (alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) `
+│   │   full_match: `(alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) `
+│   │   inner_content: `(alias(Life-extension, improved healthspan: Diet, Exercise, Omega-3, Vitamin  - many studies)) `
 
 Original Tiki:
 -------------

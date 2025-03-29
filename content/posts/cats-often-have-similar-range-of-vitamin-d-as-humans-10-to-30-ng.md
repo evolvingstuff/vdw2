@@ -222,8 +222,8 @@ AST Structure:
 │   inner_content: ` (alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) `
-│   │   inner_content: ` (alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) `
+│   │   full_match: `(alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) `
+│   │   inner_content: `(alias(Cats often have same Vitamin D levels as humans - 10 to 30 ng - Jan 2024)) `
 
 Original Tiki:
 -------------

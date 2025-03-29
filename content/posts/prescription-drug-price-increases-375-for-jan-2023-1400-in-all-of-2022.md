@@ -218,16 +218,16 @@ AST Structure:
 │   inner_content: ` (alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) `
-│   │   inner_content: ` (alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) `├── TextNode
+│   │   full_match: `(alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) `
+│   │   inner_content: `(alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) ~/tc~`
 │   inner_content: ` (alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) `
-│   │   inner_content: ` (alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) `
+│   │   full_match: `(alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) `
+│   │   inner_content: `(alias(Prescription drug price increases: 375 in Jan 2023, 1,400 in all of 2022)) `
 
 Original Tiki:
 -------------

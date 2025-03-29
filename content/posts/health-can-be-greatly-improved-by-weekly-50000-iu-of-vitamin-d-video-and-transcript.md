@@ -26,7 +26,7 @@ categories:
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 
-  **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Video in English</a> &nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&t=1321s)** 
+ **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Video in English</a> &nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&t=1321s)** 
 
 I started off with being an electronics engineer and after retiring, I got interested in being able to help people's health around the world. And the way I got started with that is I had back pains before and very severe back pain that would occasionally come along, but would make it so I was having a hard time walking. A person introduced me to vitamin D and I gave it a try, and he had a... This is a trial back in 2009, in which 85% of the people that had back pain, the back pain went away. So I was quite interested and it went away from me, and I went and studied a lot more. And now 12 years later, I've got 40,000 different studies on vitamin D and omega-3 and magnesium and a few other oxidants, and we put together a video that will play for you during the intermission time in which it talks about... The title is, Does Less Sun mean More Disease?
 
@@ -36,7 +36,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **[ Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there's very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I've spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I'm used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
@@ -66,10 +66,9 @@ I'm much more for... I'm interested in taking vitamin D for the rest of my life,
 
 ### (4) 3 forms of Vitamin D in the blood: the final form is a  <span style="color:orange;">Hormone</span>
 
- 
 | | |
 | --- | --- |
-| <img src="/attachments/d3.mock.jpg" alt="image" width="600"> |  <img src="/attachments/d3.mock.jpg" alt="image" width="600"> |
+| <img src="/attachments/d3.mock.jpg" alt="image" width="600"> | <img src="/attachments/d3.mock.jpg" alt="image" width="600"> |
 
 This is a complex pair of charts, but it's just mainly wants to show you that the fact that this is one of the few that I have in both English and in Icelandic, the Icelandic is probably too small for you to see, but it's just showing the at net, going from the top to the bottom, you're getting various sources of vitamin D, which goes down to the semi activated one, which is shown as a rectangle on there, and then goes down to a fully activated one which is the second rectangle, the second brown rectangle. And it's the fully activated one, which is the hormone that you've heard about. But there... Although for a long time people thought the hormone version was the only thing that was helping, it turns out that all of those different levels help in different places in the body.
 
@@ -79,9 +78,9 @@ This is a complex pair of charts, but it's just mainly wants to show you that th
 
 &nbsp;
 
-  **$10,000 higher annual VA hospital cost if have low Vitamin D** 
+ **$10,000 higher annual VA hospital cost if have low Vitamin D** 
 
- 	<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
  **click on chart for details** 
 
@@ -105,9 +104,9 @@ I've got many, many charts like this. This is just an example chart for pregnanc
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">   **Translates to Before,  <span style="color:orange;">After, Weekly</span>** 
 
-  **Even more Vitamin D needed if obese, etc** 
+ **Even more Vitamin D needed if obese, etc** 
 
-  **There are 4 ways to increase Low responses and Decrease High responses** 
+ **There are 4 ways to increase Low responses and Decrease High responses** 
 
 So this shows the vitamin D levels that people have generally is in the black curve there. But if you increase the vitamin D level by just taking that one pill per week, you get approximately that curve. Notice it's not just a single amount, it sort of hovers between 150 and 200 nanomoles for the central part that there is a lot of variability, study after study after study shows, due to many reasons, which I won't get into, it'll take about an hour just describing all the different reasons that there's about a four to one difference in the response that an individual will get to taking 50,000 IUs of vitamin D once a week. And that's kind of displayed there on that green curve. So as we talk about later on, you can... We're talking about... Oh, for instance, I was saying, most of the people will be getting above 100 nanomoles. There'll be a few underneath that 100 nanomole part, the little green section, but most of them will be much higher than that.
 
@@ -117,7 +116,7 @@ So this shows the vitamin D levels that people have generally is in the black cu
 
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-  **Diabetes &nbsp;&nbsp; Heart Failure &nbsp;&nbsp; Chronic Pain &nbsp;&nbsp; Depression &nbsp;&nbsp; Autism &nbsp;&nbsp; Breast Cancer &nbsp;&nbsp; Colon Cancer &nbsp;&nbsp; Prostate Cancer &nbsp;&nbsp; BPH (prostate) &nbsp;&nbsp; Preeclampsia &nbsp;&nbsp; Premature Birth &nbsp;&nbsp; Falls &nbsp;&nbsp; Cognitive Decline &nbsp;&nbsp; Respiratory Tract Infection &nbsp;&nbsp; Influenza &nbsp;&nbsp; Tuberculosis &nbsp;&nbsp; Chronic Obstructive Pulmonary Disease &nbsp;&nbsp; Lupus &nbsp;&nbsp; Inflammatory Bowel Syndrome &nbsp;&nbsp; Urinary Tract Infection &nbsp;&nbsp; Poor Sleep &nbsp;&nbsp; Growing Pain &nbsp;&nbsp; Multiple Sclerosis &nbsp;&nbsp; PMS &nbsp;&nbsp; Schizophrenia &nbsp;&nbsp; Endometriosis &nbsp;&nbsp; Smoking** 
+ **Diabetes &nbsp;&nbsp; Heart Failure &nbsp;&nbsp; Chronic Pain &nbsp;&nbsp; Depression &nbsp;&nbsp; Autism &nbsp;&nbsp; Breast Cancer &nbsp;&nbsp; Colon Cancer &nbsp;&nbsp; Prostate Cancer &nbsp;&nbsp; BPH (prostate) &nbsp;&nbsp; Preeclampsia &nbsp;&nbsp; Premature Birth &nbsp;&nbsp; Falls &nbsp;&nbsp; Cognitive Decline &nbsp;&nbsp; Respiratory Tract Infection &nbsp;&nbsp; Influenza &nbsp;&nbsp; Tuberculosis &nbsp;&nbsp; Chronic Obstructive Pulmonary Disease &nbsp;&nbsp; Lupus &nbsp;&nbsp; Inflammatory Bowel Syndrome &nbsp;&nbsp; Urinary Tract Infection &nbsp;&nbsp; Poor Sleep &nbsp;&nbsp; Growing Pain &nbsp;&nbsp; Multiple Sclerosis &nbsp;&nbsp; PMS &nbsp;&nbsp; Schizophrenia &nbsp;&nbsp; Endometriosis &nbsp;&nbsp; Smoking** 
 
 </div>
 
@@ -131,7 +130,7 @@ So here, I've got two different slides that I wanted to show to you to build up 
 
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-  **ADHD&nbsp;&nbsp;&nbsp;  Anxiety&nbsp;&nbsp;&nbsp;  Asthma&nbsp;&nbsp;&nbsp;  Autism&nbsp;&nbsp;&nbsp;  BPH (prostate)&nbsp;&nbsp;&nbsp;  Cancer - Breast&nbsp;&nbsp;&nbsp;  Cancer - Colon&nbsp;&nbsp;&nbsp;  Cancer - Prostate&nbsp;&nbsp;&nbsp;  Cardiovascular&nbsp;&nbsp;&nbsp;  Chronic Obstructive Pulmonary Disease&nbsp;&nbsp;&nbsp;  Cognitive Decline&nbsp;&nbsp;&nbsp;  Colds &nbsp;&nbsp;&nbsp;  Depression&nbsp;&nbsp;&nbsp;  Diabetes&nbsp;&nbsp;&nbsp;  Endometriosis&nbsp;&nbsp;&nbsp;  Falls&nbsp;&nbsp;&nbsp;  Fibromyalgia&nbsp;&nbsp;&nbsp;  Hashimoto's Thyroiditis&nbsp;&nbsp;&nbsp;  Hay Fever&nbsp;&nbsp;&nbsp;  Heart Failure&nbsp;&nbsp;&nbsp;  Hives &nbsp;&nbsp;&nbsp;  Hypertension – Pulmonary&nbsp;&nbsp;&nbsp;  Immune System&nbsp;&nbsp;&nbsp;  Infant&nbsp;&nbsp;&nbsp;  Inflammatory Bowel Syndrome&nbsp;&nbsp;&nbsp;  Influenza&nbsp;&nbsp;&nbsp;  Kidney Disease&nbsp;&nbsp;&nbsp;  Lupus&nbsp;&nbsp;&nbsp;  Migraine&nbsp;&nbsp;&nbsp;  Multiple Sclerosis&nbsp;&nbsp;&nbsp;  Obesity&nbsp;&nbsp;&nbsp;  Osteoarthritis – Knee Pain&nbsp;&nbsp;&nbsp;  Pain - Chronic&nbsp;&nbsp;&nbsp;  Pain - Growing&nbsp;&nbsp;&nbsp;  PMS&nbsp;&nbsp;&nbsp;  Preeclampsia&nbsp;&nbsp;&nbsp;  Premature Birth&nbsp;&nbsp;&nbsp;  Respiratory Tract Infection&nbsp;&nbsp;&nbsp;  Schizophrenia&nbsp;&nbsp;&nbsp;  Sleep - Poor&nbsp;&nbsp;&nbsp;  Sleep Apnea&nbsp;&nbsp;&nbsp;  Smoking&nbsp;&nbsp;&nbsp;  Sports Performance&nbsp;&nbsp;&nbsp;  Stroke&nbsp;&nbsp;&nbsp;  Surgery&nbsp;&nbsp;&nbsp;  Tuberculosis&nbsp;&nbsp;&nbsp;  Ulcerative Colitis&nbsp;&nbsp;&nbsp;  Ulcers – Venous&nbsp;&nbsp;&nbsp;  Urinary Tract Infection**    
+ **ADHD&nbsp;&nbsp;&nbsp;  Anxiety&nbsp;&nbsp;&nbsp;  Asthma&nbsp;&nbsp;&nbsp;  Autism&nbsp;&nbsp;&nbsp;  BPH (prostate)&nbsp;&nbsp;&nbsp;  Cancer - Breast&nbsp;&nbsp;&nbsp;  Cancer - Colon&nbsp;&nbsp;&nbsp;  Cancer - Prostate&nbsp;&nbsp;&nbsp;  Cardiovascular&nbsp;&nbsp;&nbsp;  Chronic Obstructive Pulmonary Disease&nbsp;&nbsp;&nbsp;  Cognitive Decline&nbsp;&nbsp;&nbsp;  Colds &nbsp;&nbsp;&nbsp;  Depression&nbsp;&nbsp;&nbsp;  Diabetes&nbsp;&nbsp;&nbsp;  Endometriosis&nbsp;&nbsp;&nbsp;  Falls&nbsp;&nbsp;&nbsp;  Fibromyalgia&nbsp;&nbsp;&nbsp;  Hashimoto's Thyroiditis&nbsp;&nbsp;&nbsp;  Hay Fever&nbsp;&nbsp;&nbsp;  Heart Failure&nbsp;&nbsp;&nbsp;  Hives &nbsp;&nbsp;&nbsp;  Hypertension – Pulmonary&nbsp;&nbsp;&nbsp;  Immune System&nbsp;&nbsp;&nbsp;  Infant&nbsp;&nbsp;&nbsp;  Inflammatory Bowel Syndrome&nbsp;&nbsp;&nbsp;  Influenza&nbsp;&nbsp;&nbsp;  Kidney Disease&nbsp;&nbsp;&nbsp;  Lupus&nbsp;&nbsp;&nbsp;  Migraine&nbsp;&nbsp;&nbsp;  Multiple Sclerosis&nbsp;&nbsp;&nbsp;  Obesity&nbsp;&nbsp;&nbsp;  Osteoarthritis – Knee Pain&nbsp;&nbsp;&nbsp;  Pain - Chronic&nbsp;&nbsp;&nbsp;  Pain - Growing&nbsp;&nbsp;&nbsp;  PMS&nbsp;&nbsp;&nbsp;  Preeclampsia&nbsp;&nbsp;&nbsp;  Premature Birth&nbsp;&nbsp;&nbsp;  Respiratory Tract Infection&nbsp;&nbsp;&nbsp;  Schizophrenia&nbsp;&nbsp;&nbsp;  Sleep - Poor&nbsp;&nbsp;&nbsp;  Sleep Apnea&nbsp;&nbsp;&nbsp;  Smoking&nbsp;&nbsp;&nbsp;  Sports Performance&nbsp;&nbsp;&nbsp;  Stroke&nbsp;&nbsp;&nbsp;  Surgery&nbsp;&nbsp;&nbsp;  Tuberculosis&nbsp;&nbsp;&nbsp;  Ulcerative Colitis&nbsp;&nbsp;&nbsp;  Ulcers – Venous&nbsp;&nbsp;&nbsp;  Urinary Tract Infection**    
 
 </div>
 
@@ -147,7 +146,7 @@ So you'll notice that the number of health problems being fought has increased s
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="450">
 
-  **None &nbsp;&nbsp;&nbsp;&nbsp; Monthly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bi-weekly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Weekly** 
+ **None &nbsp;&nbsp;&nbsp;&nbsp; Monthly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bi-weekly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Weekly** 
 
  **Details at [https://is.gd/VitD2weeks](https://is.gd/VitD2weeks)** 
 
@@ -157,7 +156,7 @@ This is just showing the number of health problems dealt with. Before I'd mentio
 
 ### (11) Health Problems fought quickly (months) or slowly (years)
 
-  **Examples of Quick Response** 
+ **Examples of Quick Response** 
 
 &nbsp;&nbsp;&nbsp;  **<span style="color:orange;">Pregnancy, Respiratory (Influenza, Colds, COVID)</span>** 
 
@@ -165,7 +164,7 @@ This is just showing the number of health problems dealt with. Before I'd mentio
 
 &nbsp;&nbsp;&nbsp; **<span style="color:orange;">Cancers</span>** 
 
-  **<span style="color:orange;">Vitamin D is not a miracle drug that acts instantly</span>** 
+ **<span style="color:orange;">Vitamin D is not a miracle drug that acts instantly</span>** 
 
 This is what I was mentioning about diseases being slow growth or slow developing diseases versus fast or health problems in which you can notice the problem very quickly such as back pain, knee pain, fibromyalgia, whole assortment of pains. Oh, by the way, on the website, there's on the left-hand side of the 14,000 pages that I have, on every one of them on the left-hand side is 174 different health problems so you can look up your concerned health problem and see if there's been some study or what the study has been on your particular case. Anyway, the quick response ones, that is to say something you notice fairly soon within a month or a couple of months, there's pregnancy, there's a whole bunch of different pregnancy problems that virtually go away with taking vitamin D once a week. It also helps with influenza and colds and COVID and quite a few other things and there's quite a few slow response ones that if you take the vitamin D, you will statistically in a few years or five years have less incidence of a whole bunch of 19 different cancers. You personally won't particularly notice that but statistically it's the case, just a slow growth thing, so I tend, as I said before, tend to be interested in the fast response and that I can feel something quickly and then if there's something else that is improved much later on, that's good.
 
@@ -185,7 +184,7 @@ The body has learned how to accumulate and store vitamin D very nicely. That's h
 
 ---
 
-### (13) Almost  <span style="color:orange;">2 months </span>to respond to 50K weekly unless start with  <span style="color:orange;"> loading dose</span>
+### (13) Almost  <span style="color:orange;">2 months </span>to respond to 50K weekly unless start with  <span style="color:orange;">loading dose</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -207,26 +206,29 @@ For most adults, just taking one of those pills per week is quite sufficient. Bu
 
 ### (15) Vitamin D dose varies with weight and obesity
 
-  
-| | | |
-| --- | --- | --- |
-|  **Adult**   | Normal weight | 50K  per week |
-|   | Obese | 100K per week |
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Adult**   | Normal weight | 50K  per week
 
-| | | |
-| --- | --- | --- |
-|  **Youth**  | Normal weight | 50K every other week |
-|   | Obese | 50K:  5 per month |
+ | Obese | 100K per week |
 
-| | | |
-| --- | --- | --- |
-|  **Child**   | Normal weight |  **<span style="color:orange;">10K</span>**  weekly |
-|   | Obese | 50K every other week  |
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Youth**  | Normal weight | 50K every other week
 
-| | | |
-| --- | --- | --- |
-|  **Infant**   | Normal weight |  <span style="color:orange;">10K</span>__ every other week |
-|   | Obese |  <span style="color:orange;">10K</span>__  5 per month |
+ | Obese | 50K:  5 per month |
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Child**   | Normal weight |  **<span style="color:orange;">10K</span>**  weekly
+
+ | Obese | 50K every other week  |
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Infant**   | Normal weight |  <span style="color:orange;">10K</span>__ every other week
+
+ | Obese |  <span style="color:orange;">10K</span>__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 
@@ -238,7 +240,7 @@ I had briefly mentioned before that the co-factors or the other things that go a
 
 ### (16) Cofactors that augment Vitamin D and/or prevent side effects
 
-  **Magnesium, Vitamin K2, Omega-3, etc.** 
+ **Magnesium, Vitamin K2, Omega-3, etc.** 
 
 <!-- ~tc~
 {include page="Supplements" start="~tc~ start ~/tc~ -->
@@ -256,7 +258,7 @@ I could discuss almost any of the 174 different health problems, but obesity is 
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
-  **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
 
  **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> &nbsp;&nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
 
@@ -326,7 +328,7 @@ Well, that's basically all I've got to say for the introduction, and I'm kind of
 
  **ShortURL: https://is.gd/50kweekly** 
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14301{SQL} -->
 </span> visits to this page
 
@@ -352,7 +354,7 @@ Markdown:
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 
-  **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Video in English&lt;/a&gt; &amp;nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&amp;t=1321s)** 
+ **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;Video in English&lt;/a&gt; &amp;nbsp;[video with Icelandic captions](https://www.youtube.com/watch?v=hscufeebcgQ&amp;t=1321s)** 
 
 I started off with being an electronics engineer and after retiring, I got interested in being able to help people&#39;s health around the world. And the way I got started with that is I had back pains before and very severe back pain that would occasionally come along, but would make it so I was having a hard time walking. A person introduced me to vitamin D and I gave it a try, and he had a... This is a trial back in 2009, in which 85% of the people that had back pain, the back pain went away. So I was quite interested and it went away from me, and I went and studied a lot more. And now 12 years later, I&#39;ve got 40,000 different studies on vitamin D and omega-3 and magnesium and a few other oxidants, and we put together a video that will play for you during the intermission time in which it talks about... The title is, Does Less Sun mean More Disease?
 
@@ -362,7 +364,7 @@ I started off with being an electronics engineer and after retiring, I got inter
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **[ Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
+ **[Source of chart](https://vitamindwiki.com/tiki-index.php?page_id=14133)** 
 
 And that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.
 
@@ -392,10 +394,9 @@ I&#39;m much more for... I&#39;m interested in taking vitamin D for the rest of 
 
 ### (4) 3 forms of Vitamin D in the blood: the final form is a  &lt;span style=&quot;color:orange;&quot;&gt;Hormone&lt;/span&gt;
 
- 
 | | |
 | --- | --- |
-| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; |  &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; |
+| &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; | &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt; |
 
 This is a complex pair of charts, but it&#39;s just mainly wants to show you that the fact that this is one of the few that I have in both English and in Icelandic, the Icelandic is probably too small for you to see, but it&#39;s just showing the at net, going from the top to the bottom, you&#39;re getting various sources of vitamin D, which goes down to the semi activated one, which is shown as a rectangle on there, and then goes down to a fully activated one which is the second rectangle, the second brown rectangle. And it&#39;s the fully activated one, which is the hormone that you&#39;ve heard about. But there... Although for a long time people thought the hormone version was the only thing that was helping, it turns out that all of those different levels help in different places in the body.
 
@@ -405,9 +406,9 @@ This is a complex pair of charts, but it&#39;s just mainly wants to show you tha
 
 &amp;nbsp;
 
-  **$10,000 higher annual VA hospital cost if have low Vitamin D** 
+ **$10,000 higher annual VA hospital cost if have low Vitamin D** 
 
- 	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
  **click on chart for details** 
 
@@ -431,9 +432,9 @@ I&#39;ve got many, many charts like this. This is just an example chart for preg
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;   **Translates to Before,  &lt;span style=&quot;color:orange;&quot;&gt;After, Weekly&lt;/span&gt;** 
 
-  **Even more Vitamin D needed if obese, etc** 
+ **Even more Vitamin D needed if obese, etc** 
 
-  **There are 4 ways to increase Low responses and Decrease High responses** 
+ **There are 4 ways to increase Low responses and Decrease High responses** 
 
 So this shows the vitamin D levels that people have generally is in the black curve there. But if you increase the vitamin D level by just taking that one pill per week, you get approximately that curve. Notice it&#39;s not just a single amount, it sort of hovers between 150 and 200 nanomoles for the central part that there is a lot of variability, study after study after study shows, due to many reasons, which I won&#39;t get into, it&#39;ll take about an hour just describing all the different reasons that there&#39;s about a four to one difference in the response that an individual will get to taking 50,000 IUs of vitamin D once a week. And that&#39;s kind of displayed there on that green curve. So as we talk about later on, you can... We&#39;re talking about... Oh, for instance, I was saying, most of the people will be getting above 100 nanomoles. There&#39;ll be a few underneath that 100 nanomole part, the little green section, but most of them will be much higher than that.
 
@@ -443,7 +444,7 @@ So this shows the vitamin D levels that people have generally is in the black cu
 
 &lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
 
-  **Diabetes &amp;nbsp;&amp;nbsp; Heart Failure &amp;nbsp;&amp;nbsp; Chronic Pain &amp;nbsp;&amp;nbsp; Depression &amp;nbsp;&amp;nbsp; Autism &amp;nbsp;&amp;nbsp; Breast Cancer &amp;nbsp;&amp;nbsp; Colon Cancer &amp;nbsp;&amp;nbsp; Prostate Cancer &amp;nbsp;&amp;nbsp; BPH (prostate) &amp;nbsp;&amp;nbsp; Preeclampsia &amp;nbsp;&amp;nbsp; Premature Birth &amp;nbsp;&amp;nbsp; Falls &amp;nbsp;&amp;nbsp; Cognitive Decline &amp;nbsp;&amp;nbsp; Respiratory Tract Infection &amp;nbsp;&amp;nbsp; Influenza &amp;nbsp;&amp;nbsp; Tuberculosis &amp;nbsp;&amp;nbsp; Chronic Obstructive Pulmonary Disease &amp;nbsp;&amp;nbsp; Lupus &amp;nbsp;&amp;nbsp; Inflammatory Bowel Syndrome &amp;nbsp;&amp;nbsp; Urinary Tract Infection &amp;nbsp;&amp;nbsp; Poor Sleep &amp;nbsp;&amp;nbsp; Growing Pain &amp;nbsp;&amp;nbsp; Multiple Sclerosis &amp;nbsp;&amp;nbsp; PMS &amp;nbsp;&amp;nbsp; Schizophrenia &amp;nbsp;&amp;nbsp; Endometriosis &amp;nbsp;&amp;nbsp; Smoking** 
+ **Diabetes &amp;nbsp;&amp;nbsp; Heart Failure &amp;nbsp;&amp;nbsp; Chronic Pain &amp;nbsp;&amp;nbsp; Depression &amp;nbsp;&amp;nbsp; Autism &amp;nbsp;&amp;nbsp; Breast Cancer &amp;nbsp;&amp;nbsp; Colon Cancer &amp;nbsp;&amp;nbsp; Prostate Cancer &amp;nbsp;&amp;nbsp; BPH (prostate) &amp;nbsp;&amp;nbsp; Preeclampsia &amp;nbsp;&amp;nbsp; Premature Birth &amp;nbsp;&amp;nbsp; Falls &amp;nbsp;&amp;nbsp; Cognitive Decline &amp;nbsp;&amp;nbsp; Respiratory Tract Infection &amp;nbsp;&amp;nbsp; Influenza &amp;nbsp;&amp;nbsp; Tuberculosis &amp;nbsp;&amp;nbsp; Chronic Obstructive Pulmonary Disease &amp;nbsp;&amp;nbsp; Lupus &amp;nbsp;&amp;nbsp; Inflammatory Bowel Syndrome &amp;nbsp;&amp;nbsp; Urinary Tract Infection &amp;nbsp;&amp;nbsp; Poor Sleep &amp;nbsp;&amp;nbsp; Growing Pain &amp;nbsp;&amp;nbsp; Multiple Sclerosis &amp;nbsp;&amp;nbsp; PMS &amp;nbsp;&amp;nbsp; Schizophrenia &amp;nbsp;&amp;nbsp; Endometriosis &amp;nbsp;&amp;nbsp; Smoking** 
 
 &lt;/div&gt;
 
@@ -457,7 +458,7 @@ So here, I&#39;ve got two different slides that I wanted to show to you to build
 
 &lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
 
-  **ADHD&amp;nbsp;&amp;nbsp;&amp;nbsp;  Anxiety&amp;nbsp;&amp;nbsp;&amp;nbsp;  Asthma&amp;nbsp;&amp;nbsp;&amp;nbsp;  Autism&amp;nbsp;&amp;nbsp;&amp;nbsp;  BPH (prostate)&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Breast&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Colon&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Prostate&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cardiovascular&amp;nbsp;&amp;nbsp;&amp;nbsp;  Chronic Obstructive Pulmonary Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cognitive Decline&amp;nbsp;&amp;nbsp;&amp;nbsp;  Colds &amp;nbsp;&amp;nbsp;&amp;nbsp;  Depression&amp;nbsp;&amp;nbsp;&amp;nbsp;  Diabetes&amp;nbsp;&amp;nbsp;&amp;nbsp;  Endometriosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Falls&amp;nbsp;&amp;nbsp;&amp;nbsp;  Fibromyalgia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hashimoto&#39;s Thyroiditis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hay Fever&amp;nbsp;&amp;nbsp;&amp;nbsp;  Heart Failure&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hives &amp;nbsp;&amp;nbsp;&amp;nbsp;  Hypertension – Pulmonary&amp;nbsp;&amp;nbsp;&amp;nbsp;  Immune System&amp;nbsp;&amp;nbsp;&amp;nbsp;  Infant&amp;nbsp;&amp;nbsp;&amp;nbsp;  Inflammatory Bowel Syndrome&amp;nbsp;&amp;nbsp;&amp;nbsp;  Influenza&amp;nbsp;&amp;nbsp;&amp;nbsp;  Kidney Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Lupus&amp;nbsp;&amp;nbsp;&amp;nbsp;  Migraine&amp;nbsp;&amp;nbsp;&amp;nbsp;  Multiple Sclerosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Obesity&amp;nbsp;&amp;nbsp;&amp;nbsp;  Osteoarthritis – Knee Pain&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Chronic&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Growing&amp;nbsp;&amp;nbsp;&amp;nbsp;  PMS&amp;nbsp;&amp;nbsp;&amp;nbsp;  Preeclampsia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Premature Birth&amp;nbsp;&amp;nbsp;&amp;nbsp;  Respiratory Tract Infection&amp;nbsp;&amp;nbsp;&amp;nbsp;  Schizophrenia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep - Poor&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep Apnea&amp;nbsp;&amp;nbsp;&amp;nbsp;  Smoking&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sports Performance&amp;nbsp;&amp;nbsp;&amp;nbsp;  Stroke&amp;nbsp;&amp;nbsp;&amp;nbsp;  Surgery&amp;nbsp;&amp;nbsp;&amp;nbsp;  Tuberculosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcerative Colitis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcers – Venous&amp;nbsp;&amp;nbsp;&amp;nbsp;  Urinary Tract Infection**    
+ **ADHD&amp;nbsp;&amp;nbsp;&amp;nbsp;  Anxiety&amp;nbsp;&amp;nbsp;&amp;nbsp;  Asthma&amp;nbsp;&amp;nbsp;&amp;nbsp;  Autism&amp;nbsp;&amp;nbsp;&amp;nbsp;  BPH (prostate)&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Breast&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Colon&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cancer - Prostate&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cardiovascular&amp;nbsp;&amp;nbsp;&amp;nbsp;  Chronic Obstructive Pulmonary Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Cognitive Decline&amp;nbsp;&amp;nbsp;&amp;nbsp;  Colds &amp;nbsp;&amp;nbsp;&amp;nbsp;  Depression&amp;nbsp;&amp;nbsp;&amp;nbsp;  Diabetes&amp;nbsp;&amp;nbsp;&amp;nbsp;  Endometriosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Falls&amp;nbsp;&amp;nbsp;&amp;nbsp;  Fibromyalgia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hashimoto&#39;s Thyroiditis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hay Fever&amp;nbsp;&amp;nbsp;&amp;nbsp;  Heart Failure&amp;nbsp;&amp;nbsp;&amp;nbsp;  Hives &amp;nbsp;&amp;nbsp;&amp;nbsp;  Hypertension – Pulmonary&amp;nbsp;&amp;nbsp;&amp;nbsp;  Immune System&amp;nbsp;&amp;nbsp;&amp;nbsp;  Infant&amp;nbsp;&amp;nbsp;&amp;nbsp;  Inflammatory Bowel Syndrome&amp;nbsp;&amp;nbsp;&amp;nbsp;  Influenza&amp;nbsp;&amp;nbsp;&amp;nbsp;  Kidney Disease&amp;nbsp;&amp;nbsp;&amp;nbsp;  Lupus&amp;nbsp;&amp;nbsp;&amp;nbsp;  Migraine&amp;nbsp;&amp;nbsp;&amp;nbsp;  Multiple Sclerosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Obesity&amp;nbsp;&amp;nbsp;&amp;nbsp;  Osteoarthritis – Knee Pain&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Chronic&amp;nbsp;&amp;nbsp;&amp;nbsp;  Pain - Growing&amp;nbsp;&amp;nbsp;&amp;nbsp;  PMS&amp;nbsp;&amp;nbsp;&amp;nbsp;  Preeclampsia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Premature Birth&amp;nbsp;&amp;nbsp;&amp;nbsp;  Respiratory Tract Infection&amp;nbsp;&amp;nbsp;&amp;nbsp;  Schizophrenia&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep - Poor&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sleep Apnea&amp;nbsp;&amp;nbsp;&amp;nbsp;  Smoking&amp;nbsp;&amp;nbsp;&amp;nbsp;  Sports Performance&amp;nbsp;&amp;nbsp;&amp;nbsp;  Stroke&amp;nbsp;&amp;nbsp;&amp;nbsp;  Surgery&amp;nbsp;&amp;nbsp;&amp;nbsp;  Tuberculosis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcerative Colitis&amp;nbsp;&amp;nbsp;&amp;nbsp;  Ulcers – Venous&amp;nbsp;&amp;nbsp;&amp;nbsp;  Urinary Tract Infection**    
 
 &lt;/div&gt;
 
@@ -473,7 +474,7 @@ So you&#39;ll notice that the number of health problems being fought has increas
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;450&quot;&gt;
 
-  **None &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bi-weekly&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Weekly** 
+ **None &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bi-weekly&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  Weekly** 
 
  **Details at [https://is.gd/VitD2weeks](https://is.gd/VitD2weeks)** 
 
@@ -483,7 +484,7 @@ This is just showing the number of health problems dealt with. Before I&#39;d me
 
 ### (11) Health Problems fought quickly (months) or slowly (years)
 
-  **Examples of Quick Response** 
+ **Examples of Quick Response** 
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;Pregnancy, Respiratory (Influenza, Colds, COVID)&lt;/span&gt;** 
 
@@ -491,7 +492,7 @@ This is just showing the number of health problems dealt with. Before I&#39;d me
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp; **&lt;span style=&quot;color:orange;&quot;&gt;Cancers&lt;/span&gt;** 
 
-  **&lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is not a miracle drug that acts instantly&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is not a miracle drug that acts instantly&lt;/span&gt;** 
 
 This is what I was mentioning about diseases being slow growth or slow developing diseases versus fast or health problems in which you can notice the problem very quickly such as back pain, knee pain, fibromyalgia, whole assortment of pains. Oh, by the way, on the website, there&#39;s on the left-hand side of the 14,000 pages that I have, on every one of them on the left-hand side is 174 different health problems so you can look up your concerned health problem and see if there&#39;s been some study or what the study has been on your particular case. Anyway, the quick response ones, that is to say something you notice fairly soon within a month or a couple of months, there&#39;s pregnancy, there&#39;s a whole bunch of different pregnancy problems that virtually go away with taking vitamin D once a week. It also helps with influenza and colds and COVID and quite a few other things and there&#39;s quite a few slow response ones that if you take the vitamin D, you will statistically in a few years or five years have less incidence of a whole bunch of 19 different cancers. You personally won&#39;t particularly notice that but statistically it&#39;s the case, just a slow growth thing, so I tend, as I said before, tend to be interested in the fast response and that I can feel something quickly and then if there&#39;s something else that is improved much later on, that&#39;s good.
 
@@ -511,7 +512,7 @@ The body has learned how to accumulate and store vitamin D very nicely. That&#39
 
 ---
 
-### (13) Almost  &lt;span style=&quot;color:orange;&quot;&gt;2 months &lt;/span&gt;to respond to 50K weekly unless start with  &lt;span style=&quot;color:orange;&quot;&gt; loading dose&lt;/span&gt;
+### (13) Almost  &lt;span style=&quot;color:orange;&quot;&gt;2 months &lt;/span&gt;to respond to 50K weekly unless start with  &lt;span style=&quot;color:orange;&quot;&gt;loading dose&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -533,26 +534,29 @@ For most adults, just taking one of those pills per week is quite sufficient. Bu
 
 ### (15) Vitamin D dose varies with weight and obesity
 
-  
-| | | |
-| --- | --- | --- |
-|  **Adult**   | Normal weight | 50K  per week |
-|   | Obese | 100K per week |
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Adult**   | Normal weight | 50K  per week
 
-| | | |
-| --- | --- | --- |
-|  **Youth**  | Normal weight | 50K every other week |
-|   | Obese | 50K:  5 per month |
+ | Obese | 100K per week |
 
-| | | |
-| --- | --- | --- |
-|  **Child**   | Normal weight |  **&lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**  weekly |
-|   | Obese | 50K every other week  |
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Youth**  | Normal weight | 50K every other week
 
-| | | |
-| --- | --- | --- |
-|  **Infant**   | Normal weight |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__ every other week |
-|   | Obese |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__  5 per month |
+ | Obese | 50K:  5 per month |
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Child**   | Normal weight |  **&lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**  weekly
+
+ | Obese | 50K every other week  |
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+|  **Infant**   | Normal weight |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__ every other week
+
+ | Obese |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 
@@ -564,7 +568,7 @@ I had briefly mentioned before that the co-factors or the other things that go a
 
 ### (16) Cofactors that augment Vitamin D and/or prevent side effects
 
-  **Magnesium, Vitamin K2, Omega-3, etc.** 
+ **Magnesium, Vitamin K2, Omega-3, etc.** 
 
 &lt;!-- ~tc~
 {include page=&quot;Supplements&quot; start=&quot;~tc~ start ~/tc~ --&gt;
@@ -582,7 +586,7 @@ I could discuss almost any of the 174 different health problems, but obesity is 
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
-  **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
 
  **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
 
@@ -652,7 +656,7 @@ Well, that&#39;s basically all I&#39;ve got to say for the introduction, and I&#
 
  **ShortURL: https://is.gd/50kweekly** 
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14301{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -762,8 +766,8 @@ AST Structure:
 │   │   raw_content:  attId=&quot;3841,19258,19252&quot; height=&quot;250&quot;
 │   │   attId: 3841,19258,19252
 │   │   height: 250├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;22&quot;)}__((Does Less Sun mean More Disease|Video in English)) ~hs~[https://www.youtube.com/watch?v=hscufeebcgQ&amp;t=1321s|video with Icelandic captions]__{FONT}`
 │   inner_content: `__((Does Less Sun mean More Disease|Video in English)) ~hs~[https://www.youtube.com/watch?v=hscufeebcgQ&amp;t=1321s|video with Icelandic captions]__`
 │   attrs_dict:
@@ -828,8 +832,8 @@ AST Structure:
 │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=14133`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Source of chart`
-│   │   │   inner_content: ` Source of chart`├── TextNode
+│   │   │   full_match: `Source of chart`
+│   │   │   inner_content: `Source of chart`├── TextNode
 │   full_match: `\nAnd that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.\n\nThis is some of the fear that the doctors who are aware of it fear that they&#39;ll also go out of business. Most doctors aren&#39;t that aware of what vitamin D does and its importance, but there is of a list of the reasons that people are concerned about that. Onto the next slide. This is just showing the... For the city, that it is the city, which has the longest number of days of winter in terms of vitamin D, there&#39;s different ways of describing winter, of course. And Iceland, Reykjavik has the longest or the least amount of sunshine coming to it of any capital in the entire world.`
 │   inner_content: `\nAnd that seems to be a very common thing and so somewhat appropriate to be here in Iceland, in which there&#39;s very little sunshine. One example that we have there in our video, just as a little clip of it, is that one doctor who I&#39;ve spoken with many times got all of his 2000 patients up to 200 nanomoles of vitamin D I&#39;m used to saying nanograms. I had to look to see what it was there. And his patients loaders were showing there had been four people per four visits per year on average, and went down to one visit per year on average, he went out of business.\n\nThis is some of the fear that the doctors who are aware of it fear that they&#39;ll also go out of business. Most doctors aren&#39;t that aware of what vitamin D does and its importance, but there is of a list of the reasons that people are concerned about that. Onto the next slide. This is just showing the... For the city, that it is the city, which has the longest number of days of winter in terms of vitamin D, there&#39;s different ways of describing winter, of course. And Iceland, Reykjavik has the longest or the least amount of sunshine coming to it of any capital in the entire world.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -872,8 +876,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Hormone`
 │   │   │   inner_content: `Hormone`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── TableNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
 │   full_match: `||{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}||`
 │   inner_content: `{img fileId=&quot;2696&quot; width =&quot;600&quot;}| {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
 │   children:
@@ -896,9 +900,6 @@ AST Structure:
 │   │   │   full_match: ` {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
 │   │   │   inner_content: ` {img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
 │   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   │   ├── ImgNode
 │   │   │   │   full_match: `{img type=&quot;attId&quot; attId=&quot;19098 &quot; width=&quot;600&quot;}`
 │   │   │   │   inner_content: ``
@@ -923,8 +924,8 @@ AST Structure:
 │   full_match: `~hs~`
 │   inner_content: ``
 │   repetitions: `1`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;22&quot;)}__$10,000 higher annual VA hospital cost if have low Vitamin D__{FONT}`
 │   inner_content: `__$10,000 higher annual VA hospital cost if have low Vitamin D__`
 │   attrs_dict:
@@ -938,8 +939,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `$10,000 higher annual VA hospital cost if have low Vitamin D`
 │   │   │   inner_content: `$10,000 higher annual VA hospital cost if have low Vitamin D`├── TextNode
-│   full_match: `\n \t`
-│   inner_content: `\n \t`├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img fileId=&quot;3161&quot; max=&quot;600&quot; link=&quot;VA showed increased vitamin D associated with lower health costs - Lancet May 2012&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1053,8 +1054,8 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `After, Weekly`
 │   │   │   │   inner_content: `After, Weekly`├── TextNode
-│   full_match: `\n\n `
-│   inner_content: `\n\n `├── FontNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── FontNode
 │   full_match: `{FONT(size=&quot;22&quot;)}__Even more Vitamin D needed if obese, etc__{FONT}`
 │   inner_content: `__Even more Vitamin D needed if obese, etc__`
 │   attrs_dict:
@@ -1068,8 +1069,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Even more Vitamin D needed if obese, etc`
 │   │   │   inner_content: `Even more Vitamin D needed if obese, etc`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=20)}__There are 4 ways to increase Low responses and Decrease High responses__{FONT}`
 │   inner_content: `__There are 4 ways to increase Low responses and Decrease High responses__`
 │   attrs_dict:
@@ -1108,8 +1109,8 @@ AST Structure:
 │   │   inner_content: ` Health problems fought by bi-weekly 50K Vitamin D`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(style=&quot;line-height:40px;&quot;)}\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}\n{DIV}`
-│   inner_content: `\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}\n`
+│   full_match: `{DIV(style=&quot;line-height:40px;&quot;)}\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}\n{DIV}`
+│   inner_content: `\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}\n`
 │   attrs_dict:
 │   │   raw_content: (style=&quot;line-height:40px;&quot;)
 │   │   style: line-height:40px;
@@ -1118,16 +1119,16 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── BoxNode
-│   │   full_match: `{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}`
-│   │   inner_content: `\n {FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n`
+│   │   full_match: `{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n{BOX}`
+│   │   inner_content: `\n{FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}\n`
 │   │   attrs_dict:
 │   │   │   raw_content:  bg=&gt;#FFFAE2,width= &quot;800px&quot;
 │   │   │   bg: &gt;#FFFAE2
 │   │   │   width: 800px
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `\n `
-│   │   │   inner_content: `\n `
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
 │   │   ├── FontNode
 │   │   │   full_match: `{FONT(size=&quot;18&quot;)}__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__{FONT}`
 │   │   │   inner_content: `__Diabetes ~hs~~hs~ Heart Failure ~hs~~hs~ Chronic Pain ~hs~~hs~ Depression ~hs~~hs~ Autism ~hs~~hs~ Breast Cancer ~hs~~hs~ Colon Cancer ~hs~~hs~ Prostate Cancer ~hs~~hs~ BPH (prostate) ~hs~~hs~ Preeclampsia ~hs~~hs~ Premature Birth ~hs~~hs~ Falls ~hs~~hs~ Cognitive Decline ~hs~~hs~ Respiratory Tract Infection ~hs~~hs~ Influenza ~hs~~hs~ Tuberculosis ~hs~~hs~ Chronic Obstructive Pulmonary Disease ~hs~~hs~ Lupus ~hs~~hs~ Inflammatory Bowel Syndrome ~hs~~hs~ Urinary Tract Infection ~hs~~hs~ Poor Sleep ~hs~~hs~ Growing Pain ~hs~~hs~ Multiple Sclerosis ~hs~~hs~ PMS ~hs~~hs~ Schizophrenia ~hs~~hs~ Endometriosis ~hs~~hs~ Smoking__`
@@ -1371,8 +1372,8 @@ AST Structure:
 │   │   inner_content: ` Health problems fought by weekly 50K Vitamin D`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(style=&quot;line-height:40px;&quot;)}\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n{DIV}`
-│   inner_content: `\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n`
+│   full_match: `{DIV(style=&quot;line-height:40px;&quot;)}\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n{DIV}`
+│   inner_content: `\n{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}\n`
 │   attrs_dict:
 │   │   raw_content: (style=&quot;line-height:40px;&quot;)
 │   │   style: line-height:40px;
@@ -1381,16 +1382,16 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── BoxNode
-│   │   full_match: `{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}`
-│   │   inner_content: `\n {FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n`
+│   │   full_match: `{BOX( bg=&gt;#FFFAE2,width= &quot;800px&quot;)}\n{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n{BOX}`
+│   │   inner_content: `\n{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}   \n`
 │   │   attrs_dict:
 │   │   │   raw_content:  bg=&gt;#FFFAE2,width= &quot;800px&quot;
 │   │   │   bg: &gt;#FFFAE2
 │   │   │   width: 800px
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `\n `
-│   │   │   inner_content: `\n `
+│   │   │   full_match: `\n`
+│   │   │   inner_content: `\n`
 │   │   ├── FontNode
 │   │   │   full_match: `{FONT(size=&quot;18&quot;)}__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__{FONT}`
 │   │   │   inner_content: `__ADHD~hs~~hs~~hs~  Anxiety~hs~~hs~~hs~  Asthma~hs~~hs~~hs~  Autism~hs~~hs~~hs~  BPH (prostate)~hs~~hs~~hs~  Cancer - Breast~hs~~hs~~hs~  Cancer - Colon~hs~~hs~~hs~  Cancer - Prostate~hs~~hs~~hs~  Cardiovascular~hs~~hs~~hs~  Chronic Obstructive Pulmonary Disease~hs~~hs~~hs~  Cognitive Decline~hs~~hs~~hs~  Colds ~hs~~hs~~hs~  Depression~hs~~hs~~hs~  Diabetes~hs~~hs~~hs~  Endometriosis~hs~~hs~~hs~  Falls~hs~~hs~~hs~  Fibromyalgia~hs~~hs~~hs~  Hashimoto&#39;s Thyroiditis~hs~~hs~~hs~  Hay Fever~hs~~hs~~hs~  Heart Failure~hs~~hs~~hs~  Hives ~hs~~hs~~hs~  Hypertension – Pulmonary~hs~~hs~~hs~  Immune System~hs~~hs~~hs~  Infant~hs~~hs~~hs~  Inflammatory Bowel Syndrome~hs~~hs~~hs~  Influenza~hs~~hs~~hs~  Kidney Disease~hs~~hs~~hs~  Lupus~hs~~hs~~hs~  Migraine~hs~~hs~~hs~  Multiple Sclerosis~hs~~hs~~hs~  Obesity~hs~~hs~~hs~  Osteoarthritis – Knee Pain~hs~~hs~~hs~  Pain - Chronic~hs~~hs~~hs~  Pain - Growing~hs~~hs~~hs~  PMS~hs~~hs~~hs~  Preeclampsia~hs~~hs~~hs~  Premature Birth~hs~~hs~~hs~  Respiratory Tract Infection~hs~~hs~~hs~  Schizophrenia~hs~~hs~~hs~  Sleep - Poor~hs~~hs~~hs~  Sleep Apnea~hs~~hs~~hs~  Smoking~hs~~hs~~hs~  Sports Performance~hs~~hs~~hs~  Stroke~hs~~hs~~hs~  Surgery~hs~~hs~~hs~  Tuberculosis~hs~~hs~~hs~  Ulcerative Colitis~hs~~hs~~hs~  Ulcers – Venous~hs~~hs~~hs~  Urinary Tract Infection__`
@@ -1783,8 +1784,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 19303
 │   │   width: 450├── TextNode
-│   full_match: `\n\n `
-│   inner_content: `\n\n `├── FontNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── FontNode
 │   full_match: `{FONT(size=20)}__None ~hs~~hs~~hs~~hs~ Monthly~hs~~hs~~hs~~hs~~hs~~hs~ Bi-weekly~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~  Weekly__{FONT}`
 │   inner_content: `__None ~hs~~hs~~hs~~hs~ Monthly~hs~~hs~~hs~~hs~~hs~~hs~ Bi-weekly~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~~hs~  Weekly__`
 │   attrs_dict:
@@ -1846,8 +1847,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `(11) Health Problems fought quickly (months) or slowly (years)`
 │   │   inner_content: `(11) Health Problems fought quickly (months) or slowly (years)`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=25)}__Examples of Quick Response__{FONT}`
 │   inner_content: `__Examples of Quick Response__`
 │   attrs_dict:
@@ -1926,8 +1927,8 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Cancers`
 │   │   │   │   inner_content: `Cancers`├── TextNode
-│   full_match: `\n\n `
-│   inner_content: `\n\n `├── FontNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── FontNode
 │   full_match: `{FONT(size=22)}__~~#00F:&#39;&#39;Vitamin D is not a miracle drug that acts instantly&#39;&#39;~~__{FONT}`
 │   inner_content: `__~~#00F:&#39;&#39;Vitamin D is not a miracle drug that acts instantly&#39;&#39;~~__`
 │   attrs_dict:
@@ -2028,8 +2029,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` loading dose`
-│   │   │   inner_content: ` loading dose`├── TextNode
+│   │   │   full_match: `loading dose`
+│   │   │   inner_content: `loading dose`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19305&quot; width=&quot;400&quot;}`
@@ -2103,22 +2104,19 @@ AST Structure:
 │   │   inner_content: `(15) Vitamin D dose varies with weight and obesity`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── FontNode
-│   full_match: `{FONT(size=&quot;20&quot;)}  ||__Adult__ |Normal weight|50K  per week\n |Obese|100K per week||\n||__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month||\n||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week ||\n||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month||{FONT}`
-│   inner_content: `  ||__Adult__ |Normal weight|50K  per week\n |Obese|100K per week||\n||__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month||\n||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week ||\n||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month||`
+│   full_match: `{FONT(size=&quot;20&quot;)}  ||__Adult__ |Normal weight|50K  per week\n|Obese|100K per week||\n||__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month||\n||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week ||\n||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month||{FONT}`
+│   inner_content: `  ||__Adult__ |Normal weight|50K  per week\n|Obese|100K per week||\n||__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month||\n||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week ||\n||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month||`
 │   attrs_dict:
 │   │   raw_content: size=&quot;20&quot;
 │   │   size: 20
 │   children:
-│   ├── TextNode
-│   │   full_match: `  `
-│   │   inner_content: `  `
 │   ├── TableNode
-│   │   full_match: `||__Adult__ |Normal weight|50K  per week\n |Obese|100K per week||`
-│   │   inner_content: `__Adult__ |Normal weight|50K  per week\n |Obese|100K per week`
+│   │   full_match: `||__Adult__ |Normal weight|50K  per week\n|Obese|100K per week||`
+│   │   inner_content: `__Adult__ |Normal weight|50K  per week\n|Obese|100K per week`
 │   │   children:
 │   │   ├── TableRowNode
-│   │   │   full_match: `__Adult__ |Normal weight|50K  per week`
-│   │   │   inner_content: `__Adult__ |Normal weight|50K  per week`
+│   │   │   full_match: `__Adult__ |Normal weight|50K  per week\n|Obese|100K per week`
+│   │   │   inner_content: `__Adult__ |Normal weight|50K  per week\n|Obese|100K per week`
 │   │   │   children:
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__Adult__ `
@@ -2142,23 +2140,12 @@ AST Structure:
 │   │   │   │   │   full_match: `Normal weight`
 │   │   │   │   │   inner_content: `Normal weight`
 │   │   │   ├── TableCellNode
-│   │   │   │   full_match: `50K  per week`
-│   │   │   │   inner_content: `50K  per week`
+│   │   │   │   full_match: `50K  per week\n`
+│   │   │   │   inner_content: `50K  per week\n`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: `50K  per week`
-│   │   │   │   │   inner_content: `50K  per week`
-│   │   ├── TableRowNode
-│   │   │   full_match: ` |Obese|100K per week`
-│   │   │   inner_content: ` |Obese|100K per week`
-│   │   │   children:
-│   │   │   ├── TableCellNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
-│   │   │   │   children:
-│   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` `
-│   │   │   │   │   inner_content: ` `
+│   │   │   │   │   full_match: `50K  per week\n`
+│   │   │   │   │   inner_content: `50K  per week\n`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `Obese`
 │   │   │   │   inner_content: `Obese`
@@ -2177,12 +2164,12 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── TableNode
-│   │   full_match: `||__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month||`
-│   │   inner_content: `__Youth__|Normal weight|50K every other week\n |Obese|50K:  5 per month`
+│   │   full_match: `||__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month||`
+│   │   inner_content: `__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month`
 │   │   children:
 │   │   ├── TableRowNode
-│   │   │   full_match: `__Youth__|Normal weight|50K every other week`
-│   │   │   inner_content: `__Youth__|Normal weight|50K every other week`
+│   │   │   full_match: `__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month`
+│   │   │   inner_content: `__Youth__|Normal weight|50K every other week\n|Obese|50K:  5 per month`
 │   │   │   children:
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__Youth__`
@@ -2203,23 +2190,12 @@ AST Structure:
 │   │   │   │   │   full_match: `Normal weight`
 │   │   │   │   │   inner_content: `Normal weight`
 │   │   │   ├── TableCellNode
-│   │   │   │   full_match: `50K every other week`
-│   │   │   │   inner_content: `50K every other week`
+│   │   │   │   full_match: `50K every other week\n`
+│   │   │   │   inner_content: `50K every other week\n`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: `50K every other week`
-│   │   │   │   │   inner_content: `50K every other week`
-│   │   ├── TableRowNode
-│   │   │   full_match: ` |Obese|50K:  5 per month`
-│   │   │   inner_content: ` |Obese|50K:  5 per month`
-│   │   │   children:
-│   │   │   ├── TableCellNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
-│   │   │   │   children:
-│   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` `
-│   │   │   │   │   inner_content: ` `
+│   │   │   │   │   full_match: `50K every other week\n`
+│   │   │   │   │   inner_content: `50K every other week\n`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `Obese`
 │   │   │   │   inner_content: `Obese`
@@ -2238,12 +2214,12 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── TableNode
-│   │   full_match: `||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week ||`
-│   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n |Obese|50K every other week `
+│   │   full_match: `||__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week ||`
+│   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week `
 │   │   children:
 │   │   ├── TableRowNode
-│   │   │   full_match: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly`
-│   │   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly`
+│   │   │   full_match: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week `
+│   │   │   inner_content: `__Child__ |Normal weight|__~~#00F:10K~~__ weekly\n|Obese|50K every other week `
 │   │   │   children:
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__Child__ `
@@ -2267,8 +2243,8 @@ AST Structure:
 │   │   │   │   │   full_match: `Normal weight`
 │   │   │   │   │   inner_content: `Normal weight`
 │   │   │   ├── TableCellNode
-│   │   │   │   full_match: `__~~#00F:10K~~__ weekly`
-│   │   │   │   inner_content: `__~~#00F:10K~~__ weekly`
+│   │   │   │   full_match: `__~~#00F:10K~~__ weekly\n`
+│   │   │   │   inner_content: `__~~#00F:10K~~__ weekly\n`
 │   │   │   │   children:
 │   │   │   │   ├── BoldNode
 │   │   │   │   │   full_match: `__~~#00F:10K~~__`
@@ -2284,19 +2260,8 @@ AST Structure:
 │   │   │   │   │   │   │   full_match: `10K`
 │   │   │   │   │   │   │   inner_content: `10K`
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` weekly`
-│   │   │   │   │   inner_content: ` weekly`
-│   │   ├── TableRowNode
-│   │   │   full_match: ` |Obese|50K every other week `
-│   │   │   inner_content: ` |Obese|50K every other week `
-│   │   │   children:
-│   │   │   ├── TableCellNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
-│   │   │   │   children:
-│   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` `
-│   │   │   │   │   inner_content: ` `
+│   │   │   │   │   full_match: ` weekly\n`
+│   │   │   │   │   inner_content: ` weekly\n`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `Obese`
 │   │   │   │   inner_content: `Obese`
@@ -2315,12 +2280,12 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── TableNode
-│   │   full_match: `||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month||`
-│   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n |Obese|~~#00F:10K~~__  5 per month`
+│   │   full_match: `||__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month||`
+│   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month`
 │   │   children:
 │   │   ├── TableRowNode
-│   │   │   full_match: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week`
-│   │   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week`
+│   │   │   full_match: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month`
+│   │   │   inner_content: `__Infant__ |Normal weight|~~#00F:10K~~__ every other week\n|Obese|~~#00F:10K~~__  5 per month`
 │   │   │   children:
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `__Infant__ `
@@ -2344,8 +2309,8 @@ AST Structure:
 │   │   │   │   │   full_match: `Normal weight`
 │   │   │   │   │   inner_content: `Normal weight`
 │   │   │   ├── TableCellNode
-│   │   │   │   full_match: `~~#00F:10K~~__ every other week`
-│   │   │   │   inner_content: `~~#00F:10K~~__ every other week`
+│   │   │   │   full_match: `~~#00F:10K~~__ every other week\n`
+│   │   │   │   inner_content: `~~#00F:10K~~__ every other week\n`
 │   │   │   │   children:
 │   │   │   │   ├── ColorNode
 │   │   │   │   │   full_match: `~~#00F:10K~~`
@@ -2357,19 +2322,8 @@ AST Structure:
 │   │   │   │   │   │   full_match: `10K`
 │   │   │   │   │   │   inner_content: `10K`
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: `__ every other week`
-│   │   │   │   │   inner_content: `__ every other week`
-│   │   ├── TableRowNode
-│   │   │   full_match: ` |Obese|~~#00F:10K~~__  5 per month`
-│   │   │   inner_content: ` |Obese|~~#00F:10K~~__  5 per month`
-│   │   │   children:
-│   │   │   ├── TableCellNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
-│   │   │   │   children:
-│   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` `
-│   │   │   │   │   inner_content: ` `
+│   │   │   │   │   full_match: `__ every other week\n`
+│   │   │   │   │   inner_content: `__ every other week\n`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `Obese`
 │   │   │   │   inner_content: `Obese`
@@ -2406,8 +2360,8 @@ AST Structure:
 │   │   inner_content: ` The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity`
-│   │   │   inner_content: ` The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity`├── TextNode
+│   │   │   full_match: `The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity`
+│   │   │   inner_content: `The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity`├── TextNode
 │   full_match: `\nA little bit higher than that, but just in terms of the vitamin D pills, that&#39;s a convenient level to do it. Then the youth is less than child and an infant is less still. And it&#39;s got all the details as to what&#39;s involved there. Most of them are 50,000 IUs once a week or once every two weeks. Sometimes it&#39;s down for the infants, it&#39;s 10,000 IUs every other week or obese infants more often or higher dose.\n\nI had briefly mentioned before that the co-factors or the other things that go along with vitamin D, they are involved in two ways. One is that they actually increase the amount of vitamin D that gets to your blood, which is a good thing, and they also... They&#39;ll prevent some side effects for instance, if you&#39;re taking the 50,000 IUs once a week. There is a side effect that happens in about one in 300 people if they don&#39;t have vitamin K &#39;cause what happens there is the vitamin K... The vitamin D makes the body much better at taking in calcium. Now, some people deal with this problem and I say, &quot;Oh, just decrease my calcium intake, that works nicely.&quot; But for doctors who are trying to prescribe something, they will say, &quot;Let&#39;s get some vitamin K in there also so we don&#39;t have the... They wanna have hardening of the bones rather than the hardening of the arteries.&quot; And so that helps keep it in the right spot.`
 │   inner_content: `\nA little bit higher than that, but just in terms of the vitamin D pills, that&#39;s a convenient level to do it. Then the youth is less than child and an infant is less still. And it&#39;s got all the details as to what&#39;s involved there. Most of them are 50,000 IUs once a week or once every two weeks. Sometimes it&#39;s down for the infants, it&#39;s 10,000 IUs every other week or obese infants more often or higher dose.\n\nI had briefly mentioned before that the co-factors or the other things that go along with vitamin D, they are involved in two ways. One is that they actually increase the amount of vitamin D that gets to your blood, which is a good thing, and they also... They&#39;ll prevent some side effects for instance, if you&#39;re taking the 50,000 IUs once a week. There is a side effect that happens in about one in 300 people if they don&#39;t have vitamin K &#39;cause what happens there is the vitamin K... The vitamin D makes the body much better at taking in calcium. Now, some people deal with this problem and I say, &quot;Oh, just decrease my calcium intake, that works nicely.&quot; But for doctors who are trying to prescribe something, they will say, &quot;Let&#39;s get some vitamin K in there also so we don&#39;t have the... They wanna have hardening of the bones rather than the hardening of the arteries.&quot; And so that helps keep it in the right spot.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -2419,8 +2373,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `(16) Cofactors that augment Vitamin D and/or prevent side effects`
 │   │   inner_content: `(16) Cofactors that augment Vitamin D and/or prevent side effects`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;30&quot;)}__Magnesium, Vitamin K2, Omega-3, etc.__{FONT}`
 │   inner_content: `__Magnesium, Vitamin K2, Omega-3, etc.__`
 │   attrs_dict:
@@ -2448,8 +2402,8 @@ AST Structure:
 │   inner_content: ` end `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` end `
-│   │   inner_content: ` end `├── TextNode
+│   │   full_match: `end `
+│   │   inner_content: `end `├── TextNode
 │   full_match: `&quot;}\n~/tc~\n`
 │   inner_content: `&quot;}\n~/tc~\n`├── BoldNode
 │   full_match: `__See ((Vitamin D Cofactors in a nutshell)) for more details__`
@@ -2480,8 +2434,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `(17) Vitamin D helps you lose weight when you stress your body`
 │   │   inner_content: `(17) Vitamin D helps you lose weight when you stress your body`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting__{FONT}`
 │   inner_content: `__After your vitamin D level has plateaued%%%You will experience fat/weight loss if you stress your body by:%%%1) Exercise%%%2) Calorie restrictive diet%%%3) Intermitant fasting%%% 4) Water-only fasting__`
 │   attrs_dict:
@@ -2878,9 +2832,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14301{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14301`
@@ -2896,8 +2847,8 @@ AST Structure:
 │   inner_content: ` (alias(50,000 IU of Vitamin D weekly could greatly improve Icelandic health - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(50,000 IU of Vitamin D weekly could greatly improve Icelandic health - March 2023)) `
-│   │   inner_content: ` (alias(50,000 IU of Vitamin D weekly could greatly improve Icelandic health - March 2023)) `
+│   │   full_match: `(alias(50,000 IU of Vitamin D weekly could greatly improve Icelandic health - March 2023)) `
+│   │   inner_content: `(alias(50,000 IU of Vitamin D weekly could greatly improve Icelandic health - March 2023)) `
 
 Original Tiki:
 -------------

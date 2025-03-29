@@ -275,8 +275,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID and Long-COVID and Vitamin D in children - Review April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID and Long-COVID and Vitamin D in children - Review April 2023)) `
-│   │   inner_content: ` (alias(COVID and Long-COVID and Vitamin D in children - Review April 2023)) `
+│   │   full_match: `(alias(COVID and Long-COVID and Vitamin D in children - Review April 2023)) `
+│   │   inner_content: `(alias(COVID and Long-COVID and Vitamin D in children - Review April 2023)) `
 
 Original Tiki:
 -------------

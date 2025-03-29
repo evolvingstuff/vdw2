@@ -44,7 +44,6 @@ categories:
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 
- 
 | | |
 | --- | --- |
 | Deaths | Year |
@@ -108,7 +107,6 @@ Markdown:
 
  **Age-standardized Canadian mortality rate/100,000 population** 
 
- 
 | | |
 | --- | --- |
 | Deaths | Year |
@@ -307,15 +305,15 @@ AST Structure:
 │   │   inner_content: `Age-standardized Canadian mortality rate/100,000 population`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(style=&quot;font-size:22px;&quot;)}\n ||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| {DIV}`
-│   inner_content: `\n ||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| `
+│   full_match: `{DIV(style=&quot;font-size:22px;&quot;)}\n||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| {DIV}`
+│   inner_content: `\n||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019|| `
 │   attrs_dict:
 │   │   raw_content: (style=&quot;font-size:22px;&quot;)
 │   │   style: font-size:22px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n `
-│   │   inner_content: `\n `
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
 │   ├── TableNode
 │   │   full_match: `||Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019||`
 │   │   inner_content: `Deaths|Year\n972.5 |2022\n907.2 |2021\n830.5 |&lt;2019`
@@ -485,8 +483,8 @@ AST Structure:
 │   inner_content: ` (alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) `
-│   │   inner_content: ` (alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) `
+│   │   full_match: `(alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) `
+│   │   inner_content: `(alias(3X increase in suspecified causes of Deaths (Canada 2019-2022) - Dec 2023)) `
 
 Original Tiki:
 -------------

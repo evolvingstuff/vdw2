@@ -1926,16 +1926,16 @@ AST Structure:
 │   inner_content: ` (alias(Berberine: antioxident and activates the Vitamin D Receptor - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Berberine: antioxident and activates the Vitamin D Receptor - many studies)) `
-│   │   inner_content: ` (alias(Berberine: antioxident and activates the Vitamin D Receptor - many studies)) `├── TextNode
+│   │   full_match: `(alias(Berberine: antioxident and activates the Vitamin D Receptor - many studies)) `
+│   │   inner_content: `(alias(Berberine: antioxident and activates the Vitamin D Receptor - many studies)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) ~/tc~`
 │   inner_content: ` (alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) `
-│   │   inner_content: ` (alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) `
+│   │   full_match: `(alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) `
+│   │   inner_content: `(alias(Berberine: an antioxident that activates the Vitamin D Receptor - many studies)) `
 
 Original Tiki:
 -------------

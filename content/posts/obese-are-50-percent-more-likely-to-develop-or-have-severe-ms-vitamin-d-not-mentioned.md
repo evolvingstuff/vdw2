@@ -193,8 +193,8 @@ AST Structure:
 │   inner_content: ` (alias(Obese are 50% more likely to develope or have severe MS (Vitamin D not mentioned) - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Obese are 50% more likely to develope or have severe MS (Vitamin D not mentioned) - Oct 2023)) `
-│   │   inner_content: ` (alias(Obese are 50% more likely to develope or have severe MS (Vitamin D not mentioned) - Oct 2023)) `
+│   │   full_match: `(alias(Obese are 50% more likely to develope or have severe MS (Vitamin D not mentioned) - Oct 2023)) `
+│   │   inner_content: `(alias(Obese are 50% more likely to develope or have severe MS (Vitamin D not mentioned) - Oct 2023)) `
 
 Original Tiki:
 -------------

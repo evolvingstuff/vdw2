@@ -558,8 +558,8 @@ AST Structure:
 │   inner_content: ` (alias(Prolonged sitting might be worsse than smoking - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Prolonged sitting might be worsse than smoking - Jan 2024)) `
-│   │   inner_content: ` (alias(Prolonged sitting might be worsse than smoking - Jan 2024)) `
+│   │   full_match: `(alias(Prolonged sitting might be worsse than smoking - Jan 2024)) `
+│   │   inner_content: `(alias(Prolonged sitting might be worsse than smoking - Jan 2024)) `
 
 Original Tiki:
 -------------

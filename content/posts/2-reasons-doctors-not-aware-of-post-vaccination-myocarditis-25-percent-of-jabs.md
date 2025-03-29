@@ -99,8 +99,8 @@ AST Structure:
 │   │   inner_content: ` 1) Doctor unaware of the death%%%2) Patient left his doctor who recommended the vaccine`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 1) Doctor unaware of the death`
-│   │   │   inner_content: ` 1) Doctor unaware of the death`
+│   │   │   full_match: `1) Doctor unaware of the death`
+│   │   │   inner_content: `1) Doctor unaware of the death`
 │   │   ├── NewlineNode
 │   │   │   full_match: `%%%`
 │   │   │   inner_content: ``
@@ -178,8 +178,8 @@ AST Structure:
 │   inner_content: ` (alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) `
-│   │   inner_content: ` (alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) `
+│   │   full_match: `(alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) `
+│   │   inner_content: `(alias(2 reasons doctor is not aware of post-vaccination myocarditis (2.5% of jabs) - Nov 2023)) `
 
 Original Tiki:
 -------------

@@ -160,8 +160,8 @@ AST Structure:
 │   inner_content: ` (alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) `
-│   │   inner_content: ` (alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) `
+│   │   full_match: `(alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) `
+│   │   inner_content: `(alias(Stroke 4X more likely to be associated with low Vitamin D - Nov 2023)) `
 
 Original Tiki:
 -------------

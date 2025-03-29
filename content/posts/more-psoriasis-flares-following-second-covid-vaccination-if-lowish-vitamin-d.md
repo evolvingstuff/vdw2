@@ -53,8 +53,6 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
-  
-
 ---
 
 #### See also VitaminDWiki
@@ -110,8 +108,6 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 ---
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
-
-  
 
 ---
 
@@ -309,8 +305,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID infections and vaccinations decrease Vitamin D – many studies`
 │   │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}`
 │   inner_content: ``
 │   attrs_dict:

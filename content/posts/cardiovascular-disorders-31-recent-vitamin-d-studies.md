@@ -11,7 +11,7 @@ date: 2023-05-31
 
 #### Recent Advances in Association Between Vitamin D Levels and Cardiovascular Disorders
 
- Curr Hypertens Rep . [doi: 10.1007/s11906-023-01246-4](https://doi.org/10.1007/s11906-023-01246-4)
+Curr Hypertens Rep . [doi: 10.1007/s11906-023-01246-4](https://doi.org/10.1007/s11906-023-01246-4)
 
 Pahel Agarwal 1, Yash Agarwal 2, Maha Hameed 3
 
@@ -59,11 +59,11 @@ has been documented in the literature. Although most studies have been reported 
 
 {DIV(class="categorylink")} &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12919]</span> (20+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=3399]</span> (42+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=3399]</span> (42+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=5867]</span> (10+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=5867]</span> (10+)
 
- &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=444]</span> (80+)
+&nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=444]</span> (80+)
 
 ---
 
@@ -79,7 +79,7 @@ Markdown:
 
 #### Recent Advances in Association Between Vitamin D Levels and Cardiovascular Disorders
 
- Curr Hypertens Rep . [doi: 10.1007/s11906-023-01246-4](https://doi.org/10.1007/s11906-023-01246-4)
+Curr Hypertens Rep . [doi: 10.1007/s11906-023-01246-4](https://doi.org/10.1007/s11906-023-01246-4)
 
 Pahel Agarwal 1, Yash Agarwal 2, Maha Hameed 3
 
@@ -127,11 +127,11 @@ has been documented in the literature. Although most studies have been reported 
 
 {DIV(class=&quot;categorylink&quot;)} &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12919]&lt;/span&gt; (20+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=3399]&lt;/span&gt; (42+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=3399]&lt;/span&gt; (42+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=5867]&lt;/span&gt; (10+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=5867]&lt;/span&gt; (10+)
 
- &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+)
 
 ---
 
@@ -150,8 +150,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Recent Advances in Association Between Vitamin D Levels and Cardiovascular Disorders`
 │   │   inner_content: `Recent Advances in Association Between Vitamin D Levels and Cardiovascular Disorders`├── TextNode
-│   full_match: `\n Curr Hypertens Rep . `
-│   inner_content: `\n Curr Hypertens Rep . `├── DoiLinkNode
+│   full_match: `\nCurr Hypertens Rep . `
+│   inner_content: `\nCurr Hypertens Rep . `├── DoiLinkNode
 │   full_match: `doi: 10.1007/s11906-023-01246-4`
 │   inner_content: `10.1007/s11906-023-01246-4`├── TextNode
 │   full_match: `\nPahel Agarwal 1, Yash Agarwal 2, Maha Hameed 3\n\n`
@@ -360,9 +360,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -389,9 +386,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -418,9 +412,6 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~~hs~`
 │   │   inner_content: ``
@@ -478,8 +469,8 @@ AST Structure:
 │   inner_content: ` (alias(Cardiovascular Disorders – many recent vitamin D studies – May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cardiovascular Disorders – many recent vitamin D studies – May 2023)) `
-│   │   inner_content: ` (alias(Cardiovascular Disorders – many recent vitamin D studies – May 2023)) `
+│   │   full_match: `(alias(Cardiovascular Disorders – many recent vitamin D studies – May 2023)) `
+│   │   inner_content: `(alias(Cardiovascular Disorders – many recent vitamin D studies – May 2023)) `
 
 Original Tiki:
 -------------

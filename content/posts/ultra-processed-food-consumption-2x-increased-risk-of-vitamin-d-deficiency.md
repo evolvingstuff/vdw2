@@ -31,7 +31,7 @@ Although studies show that the intake of ultra-processed products (UPP) has a ne
 
 #### 4 of the many many possible pathways that could result in this observation
 
-1.  People eating UPP have lower income, and cannot afford  foods that have more vitamin D
+1. People eating UPP have lower income, and cannot afford  foods that have more vitamin D
 
 1. People eating UPP have inflammation, which consumes vitamin D
 
@@ -69,7 +69,7 @@ Although studies show that the intake of ultra-processed products (UPP) has a ne
 
 #### 4 of the many many possible pathways that could result in this observation
 
-1.  People eating UPP have lower income, and cannot afford  foods that have more vitamin D
+1. People eating UPP have lower income, and cannot afford  foods that have more vitamin D
 
 1. People eating UPP have inflammation, which consumes vitamin D
 
@@ -153,8 +153,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` People eating UPP have lower income, and cannot afford  foods that have more vitamin D`
-│   │   inner_content: ` People eating UPP have lower income, and cannot afford  foods that have more vitamin D`├── TextNode
+│   │   full_match: `People eating UPP have lower income, and cannot afford  foods that have more vitamin D`
+│   │   inner_content: `People eating UPP have lower income, and cannot afford  foods that have more vitamin D`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#People eating UPP have inflammation, which consumes vitamin D`

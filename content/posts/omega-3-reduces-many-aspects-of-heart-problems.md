@@ -128,7 +128,7 @@ Conclusion: Omega-3 supplementation could benefit heart disease treatment, poten
 
 1. Wurm R, Schrutka L, Hammer A, et al. Polyunsaturated fatty acids sup­plementation impairs anti-oxidant high-density lipoprotein function in heart failure. Eur J Clin Invest. 2018;48:e12998.
 
-1.  Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.
+1. Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.
 
 1. Calder PC. n-3 Polyunsaturated fatty acids, inflammation, and inflam­matory diseases. Am J Clin Nutr. 2006;83:1505S-19S.
 
@@ -352,7 +352,7 @@ Conclusion: Omega-3 supplementation could benefit heart disease treatment, poten
 
 1. Wurm R, Schrutka L, Hammer A, et al. Polyunsaturated fatty acids sup­plementation impairs anti-oxidant high-density lipoprotein function in heart failure. Eur J Clin Invest. 2018;48:e12998.
 
-1.  Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.
+1. Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.
 
 1. Calder PC. n-3 Polyunsaturated fatty acids, inflammation, and inflam­matory diseases. Am J Clin Nutr. 2006;83:1505S-19S.
 
@@ -915,8 +915,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.`
-│   │   inner_content: ` Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.`├── TextNode
+│   │   full_match: `Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.`
+│   │   inner_content: `Selvaraj S, Bhatt DL, Steg PG, et al. Impact of icosapent ethyl on cardio­vascular risk reduction in patients with heart failure in REDUCE-IT. J Am Heart Assoc. 2022;11:e024999.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Calder PC. n-3 Polyunsaturated fatty acids, inflammation, and inflam­matory diseases. Am J Clin Nutr. 2006;83:1505S-19S.`
@@ -1109,8 +1109,8 @@ AST Structure:
 │   │   url: ` 66`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 66`
-│   │   │   inner_content: ` 66`
+│   │   │   full_match: `66`
+│   │   │   inner_content: `66`
 │   ├── TextNode
 │   │   full_match: ` Aronow WS, Shamliyan TA. Exercise for preventing hospitalization and readmission in adults with congestive heart failure. Cardiol Rev. 2019;27:41-8.`
 │   │   inner_content: ` Aronow WS, Shamliyan TA. Exercise for preventing hospitalization and readmission in adults with congestive heart failure. Cardiol Rev. 2019;27:41-8.`├── TextNode
@@ -1306,8 +1306,8 @@ AST Structure:
 │   │   url: ` 87`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` 87`
-│   │   │   inner_content: ` 87`
+│   │   │   full_match: `87`
+│   │   │   inner_content: `87`
 │   ├── TextNode
 │   │   full_match: ` Olenik A, Mahillo-Fernandez I, Alejandre-Alba N, et al. Benefits of omega-3 fatty acid dietary supplementation on health-related quality of life in patients with meibomian gland dysfunction. Clin Ophthalmol (Auckland, NZ). 2014;8:831-6.`
 │   │   inner_content: ` Olenik A, Mahillo-Fernandez I, Alejandre-Alba N, et al. Benefits of omega-3 fatty acid dietary supplementation on health-related quality of life in patients with meibomian gland dysfunction. Clin Ophthalmol (Auckland, NZ). 2014;8:831-6.`├── TextNode

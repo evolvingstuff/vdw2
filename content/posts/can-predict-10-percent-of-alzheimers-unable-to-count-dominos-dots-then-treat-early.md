@@ -316,8 +316,8 @@ AST Structure:
 │   inner_content: ` (alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) `
-│   │   inner_content: ` (alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) `
+│   │   full_match: `(alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) `
+│   │   inner_content: `(alias(Can predict 10% of Alzheimer’s – unable to distinguish white dots on dominos (then treat early) – Jan 2024)) `
 
 Original Tiki:
 -------------

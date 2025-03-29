@@ -206,24 +206,24 @@ AST Structure:
 │   inner_content: ` (alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) `
-│   │   inner_content: ` (alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) `├── TextNode
+│   │   full_match: `(alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) `
+│   │   inner_content: `(alias(50 ng of Vitamin D - from 100 hours of sun or 3 dollars of supplements you need at least 90 minutes of sun daily for months)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) ~/tc~`
 │   inner_content: ` (alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) `
-│   │   inner_content: ` (alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) `├── TextNode
+│   │   full_match: `(alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) `
+│   │   inner_content: `(alias(50 ng of Vitamin D - from 100 sun hours or 3 dollars of supplements)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) ~/tc~`
 │   inner_content: ` (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) `
-│   │   inner_content: ` (alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) `
+│   │   full_match: `(alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) `
+│   │   inner_content: `(alias(50 ng of Vitamin D - 100 hours of noon sunbathing or 3 dollars of Vit D)) `
 
 Original Tiki:
 -------------

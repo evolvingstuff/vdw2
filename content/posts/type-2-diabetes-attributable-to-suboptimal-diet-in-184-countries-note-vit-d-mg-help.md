@@ -48,7 +48,7 @@ Excess intake of six harmful dietary factors jointly
 
  **(refined rice and wheat, processed meats, unprocessed red meat, SSBs, potatoes, fruit juice)** 
 
- contributed a larger proportion of the total global diet-attributable burden  **(60.8%)**  than insufficient intake of five protective dietary factors
+contributed a larger proportion of the total global diet-attributable burden  **(60.8%)**  than insufficient intake of five protective dietary factors
 
  **(whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)** . These proportions were generally similar across world regions in 2018 and globally and across world regions in 1990.
 
@@ -64,7 +64,7 @@ Among individual dietary factors in 2018,
 
 were associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).
 
- Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).
+Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -140,7 +140,7 @@ Excess intake of six harmful dietary factors jointly
 
  **(refined rice and wheat, processed meats, unprocessed red meat, SSBs, potatoes, fruit juice)** 
 
- contributed a larger proportion of the total global diet-attributable burden  **(60.8%)**  than insufficient intake of five protective dietary factors
+contributed a larger proportion of the total global diet-attributable burden  **(60.8%)**  than insufficient intake of five protective dietary factors
 
  **(whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)** . These proportions were generally similar across world regions in 2018 and globally and across world regions in 1990.
 
@@ -156,7 +156,7 @@ Among individual dietary factors in 2018,
 
 were associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).
 
- Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).
+Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -295,8 +295,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `(refined rice and wheat, processed meats, unprocessed red meat, SSBs, potatoes, fruit juice)`
 │   │   inner_content: `(refined rice and wheat, processed meats, unprocessed red meat, SSBs, potatoes, fruit juice)`├── TextNode
-│   full_match: `\n contributed a larger proportion of the total global diet-attributable burden `
-│   inner_content: `\n contributed a larger proportion of the total global diet-attributable burden `├── BoldNode
+│   full_match: `\ncontributed a larger proportion of the total global diet-attributable burden `
+│   inner_content: `\ncontributed a larger proportion of the total global diet-attributable burden `├── BoldNode
 │   full_match: `__(60.8%) __`
 │   inner_content: `(60.8%) `
 │   children:
@@ -309,8 +309,8 @@ AST Structure:
 │   inner_content: ` (whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)`
-│   │   inner_content: ` (whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)`├── TextNode
+│   │   full_match: `(whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)`
+│   │   inner_content: `(whole grains, yogurt, fruits, non-starchy vegetables, nuts and seeds) (39.2%) (Supplementary Table 4)`├── TextNode
 │   full_match: `. These proportions were generally similar across world regions in 2018 and globally and across world regions in 1990.\nAmong individual dietary factors in 2018, \n`
 │   inner_content: `. These proportions were generally similar across world regions in 2018 and globally and across world regions in 1990.\nAmong individual dietary factors in 2018, \n`├── ListItemNode
 │   full_match: `*insufficient whole grains (26.1% (25.0-27.1%)), `
@@ -347,8 +347,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `excess unprocessed red meats (20.1% (19.0-21.2%)) `
 │   │   inner_content: `excess unprocessed red meats (20.1% (19.0-21.2%)) `├── TextNode
-│   full_match: `\nwere associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).\n Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).\n`
-│   inner_content: `\nwere associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).\n Lowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).\n`├── FontNode
+│   full_match: `\nwere associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).\nLowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).\n`
+│   inner_content: `\nwere associated with the highest estimated attributable burden of T2D incidence globally (Fig. 1).\nLowest burdens were attributable to dietary factors having only BMI-mediated effects, such as excess fruit juice (0.09% (0.09-0.1%)), insufficient non-starchy vegetables (0.9% (0.9-1.0%)) and insufficient nuts and seeds (1.1% (1.1-1.2%)).\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19492&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19492&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:

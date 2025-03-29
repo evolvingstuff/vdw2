@@ -312,8 +312,8 @@ AST Structure:
 │   inner_content: ` (alias(different patient groups)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(different patient groups)) `
-│   │   inner_content: ` (alias(different patient groups)) `
+│   │   full_match: `(alias(different patient groups)) `
+│   │   inner_content: `(alias(different patient groups)) `
 
 Original Tiki:
 -------------

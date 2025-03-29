@@ -30,9 +30,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -70,7 +70,7 @@ This list is automatically updated
 
 #### VitaminDWiki - <a href="/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-rs-a-year-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016">Getting all Canadians to 40 ng would save about $12 billion annually</a>
 
- ||::Outcome:: |Reduction due to improving vitamin D status
+||::Outcome:: |Reduction due to improving vitamin D status
 
 Cancer|15 %
 
@@ -98,10 +98,10 @@ Close Associations
 
 <!-- {CUSTOMSEARCH(wiki="category_report_search_template" callbackscript="category_report_search_callbackscript" autosearchdelay="0" searchfadediv="customsearch_0_results" recalllastsearch="0" searchonload="0" requireinput="0" customsearchjs="0" searchfadediv="search_fade_div")}
 {LIST()}
-    {filter categories="87"}
-    {filter type="wiki page"}
-	{OUTPUT(tplwiki="page_category_report_tpl" pagination="y")}{options main_category="87" page_minimum="1" blacklist_123="y"}{OUTPUT}
-	{pagination max="10000"}
+{filter categories="87"}
+{filter type="wiki page"}
+{OUTPUT(tplwiki="page_category_report_tpl" pagination="y")}{options main_category="87" page_minimum="1" blacklist_123="y"}{OUTPUT}
+{pagination max="10000"}
 {LIST}
 {CUSTOMSEARCH} -->
 
@@ -112,7 +112,7 @@ Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
 ^p^t^p    ==>  ~~#F06: 
-   be sure that there is a space after the :
+be sure that there is a space after the :
 ^p     ==>    ~~; ~hs~
 Highlight Vtamin D in Atlantis
 Delete all instances of  it and other words and before and after
@@ -147,9 +147,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -187,7 +187,7 @@ This list is automatically updated
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-rs-a-year-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016&quot;&gt;Getting all Canadians to 40 ng would save about $12 billion annually&lt;/a&gt;
 
- ||::Outcome:: |Reduction due to improving vitamin D status
+||::Outcome:: |Reduction due to improving vitamin D status
 
 Cancer|15 %
 
@@ -215,10 +215,10 @@ Close Associations
 
 &lt;!-- {CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}
 {LIST()}
-    {filter categories=&quot;87&quot;}
-    {filter type=&quot;wiki page&quot;}
-	{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}
-	{pagination max=&quot;10000&quot;}
+{filter categories=&quot;87&quot;}
+{filter type=&quot;wiki page&quot;}
+{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}
+{pagination max=&quot;10000&quot;}
 {LIST}
 {CUSTOMSEARCH} --&gt;
 
@@ -229,7 +229,7 @@ Search callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814
 Atlantis Process to convert Association list to single line with red numbers
 no ^t in copy paste May 2023
 ^p^t^p    ==&gt;  ~~#F06: 
-   be sure that there is a space after the :
+be sure that there is a space after the :
 ^p     ==&gt;    ~~; ~hs~
 Highlight Vtamin D in Atlantis
 Delete all instances of  it and other words and before and after
@@ -285,14 +285,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;\&quot;COST-EFFECTIVE\&quot; OR \&quot;COST EFFECTIVE\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Many studies\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Magnesium Chloride\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; Zika\&quot;&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; old\&quot;&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - ((Cost savings with Vitamin D)) contains`
@@ -452,8 +452,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually`
 │   │   │   inner_content: `Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016|Getting all Canadians to 40 ng would save about $12 billion annually`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── FontNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
 │   full_match: `{FONT(size=&quot;16&quot;)}||::Outcome:: |Reduction due to %%%improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %{FONT}`
 │   inner_content: `||::Outcome:: |Reduction due to %%%improving vitamin D status\nCancer|15 %\nCardiovascular Disease |14 %\nDementia |7 %\nDiabetes Mellitus| 18 %\nMultiple Sclerosis|40 %\nOsteoporosis (hip fractures)| 22 %\nRespiratory infections|25 %\n::Average Reduction:: |16 %`
 │   attrs_dict:
@@ -517,8 +517,8 @@ AST Structure:
 │   │   inner_content: ``├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
-│   full_match: `{DIV(class=&quot;customsearch_plugin_div&quot;)}\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n{DIV}`
-│   inner_content: `\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n`
+│   full_match: `{DIV(class=&quot;customsearch_plugin_div&quot;)}\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n{DIV}`
+│   inner_content: `\n{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}\n`
 │   attrs_dict:
 │   │   raw_content: (class=&quot;customsearch_plugin_div&quot;)
 │   │   class: customsearch_plugin_div
@@ -527,8 +527,8 @@ AST Structure:
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
 │   ├── CustomSearchNode
-│   │   full_match: `{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}`
-│   │   inner_content: `\n{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}\n`
+│   │   full_match: `{CUSTOMSEARCH(wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;)}\n{LIST()}\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n{CUSTOMSEARCH}`
+│   │   inner_content: `\n{LIST()}\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}\n`
 │   │   attrs_dict:
 │   │   │   raw_content: wiki=&quot;category_report_search_template&quot; callbackscript=&quot;category_report_search_callbackscript&quot; autosearchdelay=&quot;0&quot; searchfadediv=&quot;customsearch_0_results&quot; recalllastsearch=&quot;0&quot; searchonload=&quot;0&quot; requireinput=&quot;0&quot; customsearchjs=&quot;0&quot; searchfadediv=&quot;search_fade_div&quot;
 │   │   │   wiki: category_report_search_template
@@ -544,14 +544,14 @@ AST Structure:
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
 │   │   ├── ListNode
-│   │   │   full_match: `{LIST()}\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n{LIST}`
-│   │   │   inner_content: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   full_match: `{LIST()}\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n{LIST}`
+│   │   │   inner_content: `\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
 │   │   │   attrs_dict:
 │   │   │   │   raw_content: 
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
-│   │   │   │   inner_content: `\n    {filter categories=&quot;87&quot;}\n    {filter type=&quot;wiki page&quot;}\n\t{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n\t{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   full_match: `\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
+│   │   │   │   inner_content: `\n{filter categories=&quot;87&quot;}\n{filter type=&quot;wiki page&quot;}\n{OUTPUT(tplwiki=&quot;page_category_report_tpl&quot; pagination=&quot;y&quot;)}{options main_category=&quot;87&quot; page_minimum=&quot;1&quot; blacklist_123=&quot;y&quot;}{OUTPUT}\n{pagination max=&quot;10000&quot;}\n`
 │   │   ├── TextNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -560,12 +560,12 @@ AST Structure:
 │   │   inner_content: `\n`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
-│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
-│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
+│   full_match: `~tc~ NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n~/tc~`
+│   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n^p^t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; ~hs~\nHighlight Vtamin D in Atlantis\nDelete all instances of  it and other words and before and after\n\nAdd to end~hs~~hs~~hs~~hs~ As of May 2023~hs~~hs~~hs~~hs~~hs~~hs~ Click below to see detailed associations\nCopy and paste results just after the Associations heading\n`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
-│   │   inner_content: ` NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   full_match: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
+│   │   inner_content: `NOTE: This Search function uses this search template: \nSearch template: https://vitamindwiki.com/tiki-index.php?page_id=13813\nSearch callbackscript: https://vitamindwiki.com/tiki-index.php?page_id=13814 \n\nAtlantis Process to convert Association list to single line with red numbers\nno ^t in copy paste May 2023\n`
 │   ├── ItalixNode
 │   │   full_match: `^p^`
 │   │   inner_content: `p`
@@ -574,8 +574,8 @@ AST Structure:
 │   │   │   full_match: `p`
 │   │   │   inner_content: `p`
 │   ├── TextNode
-│   │   full_match: `t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; `
-│   │   inner_content: `t^p    ==&gt;  ~~#F06: \n   be sure that there is a space after the :\n^p     ==&gt;    ~~; `
+│   │   full_match: `t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; `
+│   │   inner_content: `t^p    ==&gt;  ~~#F06: \nbe sure that there is a space after the :\n^p     ==&gt;    ~~; `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~`
 │   │   inner_content: ``

@@ -56,7 +56,7 @@ Supplementary Table 2. Common Interventions and Dosages
 | | | | |
 | --- | --- | --- | --- |
 | Supplement Name | Ingredients | Amount | Typical dose range |
-| FOUNDATIONAL <br>(prior to individualization<br>)Nootropic Supplement |   | per 7 capsuels | 3-7 capsules daily
+| FOUNDATIONAL <br>(prior to individualization<br>)Nootropic Supplement |  | per 7 capsuels | 3-7 capsules daily
 
  | Vitamin C (as ascorbic acid) | 100 mg | 
 
@@ -113,32 +113,32 @@ Supplementary Table 2. Common Interventions and Dosages
  | Pyrroloquinoline Quinone disodium | 10 mg | 
 
  | Huperzia serrata Leaf Extract (7% Huperzine A) | 5 mg |  |
-| Omega 3's |   | per 1 capsule | 2-6 capsules daily
+| Omega 3's |  | per 1 capsule | 2-6 capsules daily
 
  | EPA (eicosapentaenoic acid) | 860 mg | 
 
  | DHA (docosahexaenoic acid) | 600 mg |  |
-| Vitamin D |   | per 1 capsule | 1 capsule daily
+| Vitamin D |  | per 1 capsule | 1 capsule daily
 
  |  **Vitamin D3**  (cholecalciferol) | 5,000 IU | 
 
  | Vitamin K2 (menaquinone-7) | 90 mcg |  |
-| Probiotic |   | per 1 capsule | 1 capsule daily
+| Probiotic |  | per 1 capsule | 1 capsule daily
 
  | Proprietary Blend | 409 mg (50 Billion CFU) | 
 
- | Lactobacillus acidophilus La-14 |   | 
+ | Lactobacillus acidophilus La-14 |  | 
 
- | Bifidobacterium longum Bl-05 |   | 
+ | Bifidobacterium longum Bl-05 |  | 
 
- | Lactobacillus plantarum Lp-115 |   | 
+ | Lactobacillus plantarum Lp-115 |  | 
 
  | Bifidobacterium lactis HN019 | 167 mg (50 Billion CFU) |  |
-| Cognitive Support |   | per 1 capsule | 1 capsule daily
+| Cognitive Support |  | per 1 capsule | 1 capsule daily
 
  | Apoaequorin | 40 mg |  |
 | __ | Vitamin D3__ | 2,000 IU |  |
-| ENVIRONMENTAL EXPOSURE<br>Detox Support Formula |   | per 2 capsules | 2-4 capsules daily
+| ENVIRONMENTAL EXPOSURE<br>Detox Support Formula |  | per 2 capsules | 2-4 capsules daily
 
  | Vitamin A (as 69% beta carotene and retinyl palmitate) | 2,167 mcg | 
 
@@ -164,7 +164,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Choline (as choline bitartrate) | 66 mg | 
 
- | "Magnesium (as magnesium oxide |  citrate |  malate)" | 88 mg | 
+ | "Magnesium (as magnesium oxide | citrate | malate)" | 88 mg | 
 
  | Zinc (as Zinc Picolinate) | 10 mg | 
 
@@ -192,7 +192,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Taurine | 66 mg | 
 
- | "Broccoli (Brassica oleracea L. var. italica) Seed |  Sprout |  Floret) (contains 0.4% sulforaphane)" | 33 mg | 
+ | "Broccoli (Brassica oleracea L. var. italica) Seed | Sprout | Floret) (contains 0.4% sulforaphane)" | 33 mg | 
 
  | Inositol | 33 mg | 
 
@@ -200,7 +200,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | L-Carnitine (as L-carnitine tartrate) | 16 mg | 
 
- | "L-Glutathione |  (reduced)" | 16 mg | 
+ | "L-Glutathione | (reduced)" | 16 mg | 
 
  | L-Histidine | 16 mg | 
 
@@ -214,28 +214,28 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Green Tea (Camellia sinensis) Leaf Extract (standardized to contain 90% polyphenols and 80% catechin) | 8.3 mg | 
 
- | "Grape (Vitis vinifera) Seed Extract (standardized to contain 95% polyphenols |  including procyanidolic oligomers)" | 3.4 mg | 
+ | "Grape (Vitis vinifera) Seed Extract (standardized to contain 95% polyphenols | including procyanidolic oligomers)" | 3.4 mg | 
 
  | Catalase | 16 mcg |  |
-| Liposomal Glutathione |   | 425 mg per teaspoon | 1-3 tsp daily |
-| Detox Binder | Proprietary Blend |   | 1-3 capsules daily
+| Liposomal Glutathione |  | 425 mg per teaspoon | 1-3 tsp daily |
+| Detox Binder | Proprietary Blend |  | 1-3 capsules daily
 
- | Zeolite clay |   | 
+ | Zeolite clay |  | 
 
- | Activated charcoal |   | 
+ | Activated charcoal |  | 
 
- | Silica |   | 
+ | Silica |  | 
 
- | Apple pectin |   | 
+ | Apple pectin |  | 
 
- | Humic powder |   | 
+ | Humic powder |  | 
 
- | Aloe vera |   |  |
-| Chlorella Pyrenoidosa |   | 250 mg per tablet | 2-15 tablets daily |
-| Cholesteramine Resin Powder (Rx) |   |   | 1/16th - 1/2 tsp daily |
-| Calcium EDTA |   |   | 1500 - 3000 mg by IV |
-| Thiol-functionalized silica |   | 100 mg per 1/8th tsp (scoop provided) | 1/8 th tsp daily |
-| NUTRIENTSDigestive Enzymes |   | per 1 capsule | 1-6 capsules with each meal
+ | Aloe vera |  |  |
+| Chlorella Pyrenoidosa |  | 250 mg per tablet | 2-15 tablets daily |
+| Cholesteramine Resin Powder (Rx) |  |  | 1/16th - 1/2 tsp daily |
+| Calcium EDTA |  |  | 1500 - 3000 mg by IV |
+| Thiol-functionalized silica |  | 100 mg per 1/8th tsp (scoop provided) | 1/8 th tsp daily |
+| NUTRIENTSDigestive Enzymes |  | per 1 capsule | 1-6 capsules with each meal
 
  | amylase | 12,000 DU | 
 
@@ -264,15 +264,15 @@ Supplementary Table 2. Common Interventions and Dosages
  | hemicellulase | 100 HCU | 
 
  | Betaine HCl  | 250 mg |  |
-| Theracurmin |   | 300 mg per 1 capsule | 2-6 capsules daily |
-| Proresolvins |   | 500 mg per 1 capsule | 2-14 capsules daily |
-| Colostrum |   | per 1 tablespoon | 1-3 tablespoons daily
+| Theracurmin |  | 300 mg per 1 capsule | 2-6 capsules daily |
+| Proresolvins |  | 500 mg per 1 capsule | 2-14 capsules daily |
+| Colostrum |  | per 1 tablespoon | 1-3 tablespoons daily
 
  | Colostral whey peptides (bovine-derived immunoglobulin concentrate) | 5 gm | 
 
  | Immunoglobulin G (IgG) | 1 gm |  |
-| Vitamin A |   | variable capsules or liquid drops | 5,000 - 15,0000 IU daily |
-| GlutAloeMine |   | per 5.8 gm scoop (scoop provided) | 1 scoop daily
+| Vitamin A |  | variable capsules or liquid drops | 5,000 - 15,0000 IU daily |
+| GlutAloeMine |  | per 5.8 gm scoop (scoop provided) | 1 scoop daily
 
  | L-Glutamine | 3 gm | 
 
@@ -281,9 +281,9 @@ Supplementary Table 2. Common Interventions and Dosages
  | Deglycyrrhizinated Licorice 10:1 Aqueous Extract (Glycyrrhiza glabra)(root) | 500 mg | 
 
  | Aloe vera 200:1 Aqueous Extract (Aloe barbadensis)(leaf gel) | 100 mg |  |
-| Nitazoxanide (Rx) |   | 500 mg | 1 tablet twice daily for 14-30 days |
-| Oregano Oil |   | 50 mg per 1 tablet | 1-6 tablets daily |
-| B-Complex Plus |   | per 1 capsule | 1-2 capsules daily
+| Nitazoxanide (Rx) |  | 500 mg | 1 tablet twice daily for 14-30 days |
+| Oregano Oil |  | 50 mg per 1 tablet | 1-6 tablets daily |
+| B-Complex Plus |  | per 1 capsule | 1-2 capsules daily
 
  | Vitamin B1 (thiamin HCl) | 100 mg | 
 
@@ -303,12 +303,12 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Biotin | 400 mcg | 
 
- | Vitamin C (ascorbyl palmitate |   |  |
+ | Vitamin C (ascorbyl palmitate |  |  |
 | Vitamin C | as ascorbic acid | 400 mg per 1 tablet | 1-4 capsules daily |
 | Alpha-lipoic acid | oral capsule | 300 mg per capsule | 1-3 capsules daily |
-| SLEEPProgesterone (Rx) | oral capsule |   | 50 - 300 mg nightly |
-| Melatonin |   |   | 0.5 - 5 mg nightly |
-| Sleep Support Formula |   | per 3 gm (scoop provided) | 1-4 scoops daily
+| SLEEPProgesterone (Rx) | oral capsule |  | 50 - 300 mg nightly |
+| Melatonin |  |  | 0.5 - 5 mg nightly |
+| Sleep Support Formula |  | per 3 gm (scoop provided) | 1-4 scoops daily
 
  | Magnesium (as di-magnesium malate) | 75 mg | 
 
@@ -319,65 +319,65 @@ Supplementary Table 2. Common Interventions and Dosages
  | GABA (gamma-aminobutyric acid) | 100 mg | 
 
  | L-Theanine | 50 mg |  |
-| Magnesium |   | per 2.5 gm scoop (scoop provided) | 1-4 scoops daily
+| Magnesium |  | per 2.5 gm scoop (scoop provided) | 1-4 scoops daily
 
  | Magnesium L-threonate | 1 gm | 
 
- | "di-magnesium malate |  magnesium L-threonate |  and magnesium lysinate glycinate chelate" | 200 mg |  |
+ | "di-magnesium malate | magnesium L-threonate | and magnesium lysinate glycinate chelate" | 200 mg |  |
 | TBIPhosphytidyl Choline | Phospholipid complex | 650 mg mg per softgel | 4 caps daily |
-| Phosphytidyl Serine |   | 100 mg per softgel | 4 caps daily |
-| MethylB12 | sublingual tablet |   | 10,000 mcg daily |
-| NAD+ | IV |   | 1 gm - 3 gm over 3 days |
-| HORMONESProgesterone | topical cream or oral |   | 100 - 300 mg per day |
-| Topical Estriol (women) | topical cream |   | 2 - 7.5 mg daily |
-| Topical Estridiol (women) | topical cream |   | 0.5 - 2.5 mg daily |
-| Testosterone (women) | topical cream |   | 0.5 - 2.5 mg daily |
-| Testosterone (men) | topical cream |   | 50 - 150 mg daily |
-| DHEA | capsule |   | 10 - 25 mg daily |
-| Pregnenalone | capsule |   | 50 mg daily |
-| USP Thryoid | tablet |   | 15 - 120 mg daily |
-| INFECTIONSLysine |   |   | 500 mg - 3 gm daily |
-| Valacylovir |   |   | 500 mg - 2000 mg daily |
-| Acyclovir |   |   | 800 - 1200 mg daily |
-| Immune Tincture | Proprietary Herbal Blend |   | 5 - 30 drops daily
+| Phosphytidyl Serine |  | 100 mg per softgel | 4 caps daily |
+| MethylB12 | sublingual tablet |  | 10,000 mcg daily |
+| NAD+ | IV |  | 1 gm - 3 gm over 3 days |
+| HORMONESProgesterone | topical cream or oral |  | 100 - 300 mg per day |
+| Topical Estriol (women) | topical cream |  | 2 - 7.5 mg daily |
+| Topical Estridiol (women) | topical cream |  | 0.5 - 2.5 mg daily |
+| Testosterone (women) | topical cream |  | 0.5 - 2.5 mg daily |
+| Testosterone (men) | topical cream |  | 50 - 150 mg daily |
+| DHEA | capsule |  | 10 - 25 mg daily |
+| Pregnenalone | capsule |  | 50 mg daily |
+| USP Thryoid | tablet |  | 15 - 120 mg daily |
+| INFECTIONSLysine |  |  | 500 mg - 3 gm daily |
+| Valacylovir |  |  | 500 mg - 2000 mg daily |
+| Acyclovir |  |  | 800 - 1200 mg daily |
+| Immune Tincture | Proprietary Herbal Blend |  | 5 - 30 drops daily
 
- | Bilberry fruit extract |   | 
+ | Bilberry fruit extract |  | 
 
- | Grape seed extract |   | 
+ | Grape seed extract |  | 
 
- | Shiitake mushroom extract |   | 
+ | Shiitake mushroom extract |  | 
 
- | Golden Seal root |   | 
+ | Golden Seal root |  | 
 
- | Noni fruit extract |   | 
+ | Noni fruit extract |  | 
 
- | Garlic bulb |   | 
+ | Garlic bulb |  | 
 
- | White Willow bark |   | 
+ | White Willow bark |  | 
 
- | Milk Thistle seed |   | 
+ | Milk Thistle seed |  | 
 
- | Raspberry fruit |   | 
+ | Raspberry fruit |  | 
 
- | Echinacea Purpurea plant extract |   | 
+ | Echinacea Purpurea plant extract |  | 
 
- | Echinacea Angustifolia root |   | 
+ | Echinacea Angustifolia root |  | 
 
- | Black Walnut hull |   | 
+ | Black Walnut hull |  | 
 
- | Black Walnut leaf |   | 
+ | Black Walnut leaf |  | 
 
- | Lavender oil |   | 
+ | Lavender oil |  | 
 
- | Oregano oil |   | 
+ | Oregano oil |  | 
 
- | Galbanum oil |   | 
+ | Galbanum oil |  | 
 
- | Tea Tree oil |   | 
+ | Tea Tree oil |  | 
 
- | Fumitory aerial parts extract |   | 
+ | Fumitory aerial parts extract |  | 
 
- | Gentian Lutea root |   |   |
+ | Gentian Lutea root |  |  |
 
 ---
 
@@ -436,7 +436,7 @@ Supplementary Table 2. Common Interventions and Dosages
 | | | | |
 | --- | --- | --- | --- |
 | Supplement Name | Ingredients | Amount | Typical dose range |
-| FOUNDATIONAL &lt;br&gt;(prior to individualization&lt;br&gt;)Nootropic Supplement |   | per 7 capsuels | 3-7 capsules daily
+| FOUNDATIONAL &lt;br&gt;(prior to individualization&lt;br&gt;)Nootropic Supplement |  | per 7 capsuels | 3-7 capsules daily
 
  | Vitamin C (as ascorbic acid) | 100 mg | 
 
@@ -493,32 +493,32 @@ Supplementary Table 2. Common Interventions and Dosages
  | Pyrroloquinoline Quinone disodium | 10 mg | 
 
  | Huperzia serrata Leaf Extract (7% Huperzine A) | 5 mg |  |
-| Omega 3&#39;s |   | per 1 capsule | 2-6 capsules daily
+| Omega 3&#39;s |  | per 1 capsule | 2-6 capsules daily
 
  | EPA (eicosapentaenoic acid) | 860 mg | 
 
  | DHA (docosahexaenoic acid) | 600 mg |  |
-| Vitamin D |   | per 1 capsule | 1 capsule daily
+| Vitamin D |  | per 1 capsule | 1 capsule daily
 
  |  **Vitamin D3**  (cholecalciferol) | 5,000 IU | 
 
  | Vitamin K2 (menaquinone-7) | 90 mcg |  |
-| Probiotic |   | per 1 capsule | 1 capsule daily
+| Probiotic |  | per 1 capsule | 1 capsule daily
 
  | Proprietary Blend | 409 mg (50 Billion CFU) | 
 
- | Lactobacillus acidophilus La-14 |   | 
+ | Lactobacillus acidophilus La-14 |  | 
 
- | Bifidobacterium longum Bl-05 |   | 
+ | Bifidobacterium longum Bl-05 |  | 
 
- | Lactobacillus plantarum Lp-115 |   | 
+ | Lactobacillus plantarum Lp-115 |  | 
 
  | Bifidobacterium lactis HN019 | 167 mg (50 Billion CFU) |  |
-| Cognitive Support |   | per 1 capsule | 1 capsule daily
+| Cognitive Support |  | per 1 capsule | 1 capsule daily
 
  | Apoaequorin | 40 mg |  |
 | __ | Vitamin D3__ | 2,000 IU |  |
-| ENVIRONMENTAL EXPOSURE&lt;br&gt;Detox Support Formula |   | per 2 capsules | 2-4 capsules daily
+| ENVIRONMENTAL EXPOSURE&lt;br&gt;Detox Support Formula |  | per 2 capsules | 2-4 capsules daily
 
  | Vitamin A (as 69% beta carotene and retinyl palmitate) | 2,167 mcg | 
 
@@ -544,7 +544,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Choline (as choline bitartrate) | 66 mg | 
 
- | &quot;Magnesium (as magnesium oxide |  citrate |  malate)&quot; | 88 mg | 
+ | &quot;Magnesium (as magnesium oxide | citrate | malate)&quot; | 88 mg | 
 
  | Zinc (as Zinc Picolinate) | 10 mg | 
 
@@ -572,7 +572,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Taurine | 66 mg | 
 
- | &quot;Broccoli (Brassica oleracea L. var. italica) Seed |  Sprout |  Floret) (contains 0.4% sulforaphane)&quot; | 33 mg | 
+ | &quot;Broccoli (Brassica oleracea L. var. italica) Seed | Sprout | Floret) (contains 0.4% sulforaphane)&quot; | 33 mg | 
 
  | Inositol | 33 mg | 
 
@@ -580,7 +580,7 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | L-Carnitine (as L-carnitine tartrate) | 16 mg | 
 
- | &quot;L-Glutathione |  (reduced)&quot; | 16 mg | 
+ | &quot;L-Glutathione | (reduced)&quot; | 16 mg | 
 
  | L-Histidine | 16 mg | 
 
@@ -594,28 +594,28 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Green Tea (Camellia sinensis) Leaf Extract (standardized to contain 90% polyphenols and 80% catechin) | 8.3 mg | 
 
- | &quot;Grape (Vitis vinifera) Seed Extract (standardized to contain 95% polyphenols |  including procyanidolic oligomers)&quot; | 3.4 mg | 
+ | &quot;Grape (Vitis vinifera) Seed Extract (standardized to contain 95% polyphenols | including procyanidolic oligomers)&quot; | 3.4 mg | 
 
  | Catalase | 16 mcg |  |
-| Liposomal Glutathione |   | 425 mg per teaspoon | 1-3 tsp daily |
-| Detox Binder | Proprietary Blend |   | 1-3 capsules daily
+| Liposomal Glutathione |  | 425 mg per teaspoon | 1-3 tsp daily |
+| Detox Binder | Proprietary Blend |  | 1-3 capsules daily
 
- | Zeolite clay |   | 
+ | Zeolite clay |  | 
 
- | Activated charcoal |   | 
+ | Activated charcoal |  | 
 
- | Silica |   | 
+ | Silica |  | 
 
- | Apple pectin |   | 
+ | Apple pectin |  | 
 
- | Humic powder |   | 
+ | Humic powder |  | 
 
- | Aloe vera |   |  |
-| Chlorella Pyrenoidosa |   | 250 mg per tablet | 2-15 tablets daily |
-| Cholesteramine Resin Powder (Rx) |   |   | 1/16th - 1/2 tsp daily |
-| Calcium EDTA |   |   | 1500 - 3000 mg by IV |
-| Thiol-functionalized silica |   | 100 mg per 1/8th tsp (scoop provided) | 1/8 th tsp daily |
-| NUTRIENTSDigestive Enzymes |   | per 1 capsule | 1-6 capsules with each meal
+ | Aloe vera |  |  |
+| Chlorella Pyrenoidosa |  | 250 mg per tablet | 2-15 tablets daily |
+| Cholesteramine Resin Powder (Rx) |  |  | 1/16th - 1/2 tsp daily |
+| Calcium EDTA |  |  | 1500 - 3000 mg by IV |
+| Thiol-functionalized silica |  | 100 mg per 1/8th tsp (scoop provided) | 1/8 th tsp daily |
+| NUTRIENTSDigestive Enzymes |  | per 1 capsule | 1-6 capsules with each meal
 
  | amylase | 12,000 DU | 
 
@@ -644,15 +644,15 @@ Supplementary Table 2. Common Interventions and Dosages
  | hemicellulase | 100 HCU | 
 
  | Betaine HCl  | 250 mg |  |
-| Theracurmin |   | 300 mg per 1 capsule | 2-6 capsules daily |
-| Proresolvins |   | 500 mg per 1 capsule | 2-14 capsules daily |
-| Colostrum |   | per 1 tablespoon | 1-3 tablespoons daily
+| Theracurmin |  | 300 mg per 1 capsule | 2-6 capsules daily |
+| Proresolvins |  | 500 mg per 1 capsule | 2-14 capsules daily |
+| Colostrum |  | per 1 tablespoon | 1-3 tablespoons daily
 
  | Colostral whey peptides (bovine-derived immunoglobulin concentrate) | 5 gm | 
 
  | Immunoglobulin G (IgG) | 1 gm |  |
-| Vitamin A |   | variable capsules or liquid drops | 5,000 - 15,0000 IU daily |
-| GlutAloeMine |   | per 5.8 gm scoop (scoop provided) | 1 scoop daily
+| Vitamin A |  | variable capsules or liquid drops | 5,000 - 15,0000 IU daily |
+| GlutAloeMine |  | per 5.8 gm scoop (scoop provided) | 1 scoop daily
 
  | L-Glutamine | 3 gm | 
 
@@ -661,9 +661,9 @@ Supplementary Table 2. Common Interventions and Dosages
  | Deglycyrrhizinated Licorice 10:1 Aqueous Extract (Glycyrrhiza glabra)(root) | 500 mg | 
 
  | Aloe vera 200:1 Aqueous Extract (Aloe barbadensis)(leaf gel) | 100 mg |  |
-| Nitazoxanide (Rx) |   | 500 mg | 1 tablet twice daily for 14-30 days |
-| Oregano Oil |   | 50 mg per 1 tablet | 1-6 tablets daily |
-| B-Complex Plus |   | per 1 capsule | 1-2 capsules daily
+| Nitazoxanide (Rx) |  | 500 mg | 1 tablet twice daily for 14-30 days |
+| Oregano Oil |  | 50 mg per 1 tablet | 1-6 tablets daily |
+| B-Complex Plus |  | per 1 capsule | 1-2 capsules daily
 
  | Vitamin B1 (thiamin HCl) | 100 mg | 
 
@@ -683,12 +683,12 @@ Supplementary Table 2. Common Interventions and Dosages
 
  | Biotin | 400 mcg | 
 
- | Vitamin C (ascorbyl palmitate |   |  |
+ | Vitamin C (ascorbyl palmitate |  |  |
 | Vitamin C | as ascorbic acid | 400 mg per 1 tablet | 1-4 capsules daily |
 | Alpha-lipoic acid | oral capsule | 300 mg per capsule | 1-3 capsules daily |
-| SLEEPProgesterone (Rx) | oral capsule |   | 50 - 300 mg nightly |
-| Melatonin |   |   | 0.5 - 5 mg nightly |
-| Sleep Support Formula |   | per 3 gm (scoop provided) | 1-4 scoops daily
+| SLEEPProgesterone (Rx) | oral capsule |  | 50 - 300 mg nightly |
+| Melatonin |  |  | 0.5 - 5 mg nightly |
+| Sleep Support Formula |  | per 3 gm (scoop provided) | 1-4 scoops daily
 
  | Magnesium (as di-magnesium malate) | 75 mg | 
 
@@ -699,65 +699,65 @@ Supplementary Table 2. Common Interventions and Dosages
  | GABA (gamma-aminobutyric acid) | 100 mg | 
 
  | L-Theanine | 50 mg |  |
-| Magnesium |   | per 2.5 gm scoop (scoop provided) | 1-4 scoops daily
+| Magnesium |  | per 2.5 gm scoop (scoop provided) | 1-4 scoops daily
 
  | Magnesium L-threonate | 1 gm | 
 
- | &quot;di-magnesium malate |  magnesium L-threonate |  and magnesium lysinate glycinate chelate&quot; | 200 mg |  |
+ | &quot;di-magnesium malate | magnesium L-threonate | and magnesium lysinate glycinate chelate&quot; | 200 mg |  |
 | TBIPhosphytidyl Choline | Phospholipid complex | 650 mg mg per softgel | 4 caps daily |
-| Phosphytidyl Serine |   | 100 mg per softgel | 4 caps daily |
-| MethylB12 | sublingual tablet |   | 10,000 mcg daily |
-| NAD+ | IV |   | 1 gm - 3 gm over 3 days |
-| HORMONESProgesterone | topical cream or oral |   | 100 - 300 mg per day |
-| Topical Estriol (women) | topical cream |   | 2 - 7.5 mg daily |
-| Topical Estridiol (women) | topical cream |   | 0.5 - 2.5 mg daily |
-| Testosterone (women) | topical cream |   | 0.5 - 2.5 mg daily |
-| Testosterone (men) | topical cream |   | 50 - 150 mg daily |
-| DHEA | capsule |   | 10 - 25 mg daily |
-| Pregnenalone | capsule |   | 50 mg daily |
-| USP Thryoid | tablet |   | 15 - 120 mg daily |
-| INFECTIONSLysine |   |   | 500 mg - 3 gm daily |
-| Valacylovir |   |   | 500 mg - 2000 mg daily |
-| Acyclovir |   |   | 800 - 1200 mg daily |
-| Immune Tincture | Proprietary Herbal Blend |   | 5 - 30 drops daily
+| Phosphytidyl Serine |  | 100 mg per softgel | 4 caps daily |
+| MethylB12 | sublingual tablet |  | 10,000 mcg daily |
+| NAD+ | IV |  | 1 gm - 3 gm over 3 days |
+| HORMONESProgesterone | topical cream or oral |  | 100 - 300 mg per day |
+| Topical Estriol (women) | topical cream |  | 2 - 7.5 mg daily |
+| Topical Estridiol (women) | topical cream |  | 0.5 - 2.5 mg daily |
+| Testosterone (women) | topical cream |  | 0.5 - 2.5 mg daily |
+| Testosterone (men) | topical cream |  | 50 - 150 mg daily |
+| DHEA | capsule |  | 10 - 25 mg daily |
+| Pregnenalone | capsule |  | 50 mg daily |
+| USP Thryoid | tablet |  | 15 - 120 mg daily |
+| INFECTIONSLysine |  |  | 500 mg - 3 gm daily |
+| Valacylovir |  |  | 500 mg - 2000 mg daily |
+| Acyclovir |  |  | 800 - 1200 mg daily |
+| Immune Tincture | Proprietary Herbal Blend |  | 5 - 30 drops daily
 
- | Bilberry fruit extract |   | 
+ | Bilberry fruit extract |  | 
 
- | Grape seed extract |   | 
+ | Grape seed extract |  | 
 
- | Shiitake mushroom extract |   | 
+ | Shiitake mushroom extract |  | 
 
- | Golden Seal root |   | 
+ | Golden Seal root |  | 
 
- | Noni fruit extract |   | 
+ | Noni fruit extract |  | 
 
- | Garlic bulb |   | 
+ | Garlic bulb |  | 
 
- | White Willow bark |   | 
+ | White Willow bark |  | 
 
- | Milk Thistle seed |   | 
+ | Milk Thistle seed |  | 
 
- | Raspberry fruit |   | 
+ | Raspberry fruit |  | 
 
- | Echinacea Purpurea plant extract |   | 
+ | Echinacea Purpurea plant extract |  | 
 
- | Echinacea Angustifolia root |   | 
+ | Echinacea Angustifolia root |  | 
 
- | Black Walnut hull |   | 
+ | Black Walnut hull |  | 
 
- | Black Walnut leaf |   | 
+ | Black Walnut leaf |  | 
 
- | Lavender oil |   | 
+ | Lavender oil |  | 
 
- | Oregano oil |   | 
+ | Oregano oil |  | 
 
- | Galbanum oil |   | 
+ | Galbanum oil |  | 
 
- | Tea Tree oil |   | 
+ | Tea Tree oil |  | 
 
- | Fumitory aerial parts extract |   | 
+ | Fumitory aerial parts extract |  | 
 
- | Gentian Lutea root |   |   |
+ | Gentian Lutea root |  |  |
 
 ---
 
@@ -939,10 +939,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 7 capsuels`
 │   │   │   inner_content: `per 7 capsuels`
@@ -1555,10 +1551,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -1625,10 +1617,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -1702,10 +1690,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -1751,10 +1735,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -1772,10 +1752,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -1793,10 +1769,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -1835,10 +1807,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -1918,10 +1886,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 2 capsules`
 │   │   │   inner_content: `per 2 capsules`
@@ -2200,15 +2164,15 @@ AST Structure:
 │   │   │   inner_content: ` citrate`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` citrate`
-│   │   │   │   inner_content: ` citrate`
+│   │   │   │   full_match: `citrate`
+│   │   │   │   inner_content: `citrate`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` malate)&quot;`
 │   │   │   inner_content: ` malate)&quot;`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` malate)&quot;`
-│   │   │   │   inner_content: ` malate)&quot;`
+│   │   │   │   full_match: `malate)&quot;`
+│   │   │   │   inner_content: `malate)&quot;`
 │   │   ├── TableCellNode
 │   │   │   full_match: `88 mg`
 │   │   │   inner_content: `88 mg`
@@ -2508,15 +2472,15 @@ AST Structure:
 │   │   │   inner_content: ` Sprout`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Sprout`
-│   │   │   │   inner_content: ` Sprout`
+│   │   │   │   full_match: `Sprout`
+│   │   │   │   inner_content: `Sprout`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` Floret) (contains 0.4% sulforaphane)&quot;`
 │   │   │   inner_content: ` Floret) (contains 0.4% sulforaphane)&quot;`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Floret) (contains 0.4% sulforaphane)&quot;`
-│   │   │   │   inner_content: ` Floret) (contains 0.4% sulforaphane)&quot;`
+│   │   │   │   full_match: `Floret) (contains 0.4% sulforaphane)&quot;`
+│   │   │   │   inner_content: `Floret) (contains 0.4% sulforaphane)&quot;`
 │   │   ├── TableCellNode
 │   │   │   full_match: `33 mg`
 │   │   │   inner_content: `33 mg`
@@ -2606,8 +2570,8 @@ AST Structure:
 │   │   │   inner_content: ` (reduced)&quot;`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` (reduced)&quot;`
-│   │   │   │   inner_content: ` (reduced)&quot;`
+│   │   │   │   full_match: `(reduced)&quot;`
+│   │   │   │   inner_content: `(reduced)&quot;`
 │   │   ├── TableCellNode
 │   │   │   full_match: `16 mg`
 │   │   │   inner_content: `16 mg`
@@ -2760,8 +2724,8 @@ AST Structure:
 │   │   │   inner_content: ` including procyanidolic oligomers)&quot;`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` including procyanidolic oligomers)&quot;`
-│   │   │   │   inner_content: ` including procyanidolic oligomers)&quot;`
+│   │   │   │   full_match: `including procyanidolic oligomers)&quot;`
+│   │   │   │   inner_content: `including procyanidolic oligomers)&quot;`
 │   │   ├── TableCellNode
 │   │   │   full_match: `3.4 mg`
 │   │   │   inner_content: `3.4 mg`
@@ -2807,10 +2771,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `425 mg per teaspoon`
 │   │   │   inner_content: `425 mg per teaspoon`
@@ -2846,10 +2806,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `1-3 capsules daily\n`
 │   │   │   inner_content: `1-3 capsules daily\n`
@@ -2867,10 +2823,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -2888,10 +2840,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -2909,10 +2857,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -2930,10 +2874,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -2951,10 +2891,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -2972,10 +2908,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ``
 │   │   │   inner_content: ``
@@ -2993,10 +2925,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `250 mg per tablet`
 │   │   │   inner_content: `250 mg per tablet`
@@ -3025,17 +2953,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `1/16th - 1/2 tsp daily`
 │   │   │   inner_content: `1/16th - 1/2 tsp daily`
@@ -3057,17 +2977,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `1500 - 3000 mg by IV`
 │   │   │   inner_content: `1500 - 3000 mg by IV`
@@ -3089,10 +3001,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 mg per 1/8th tsp (scoop provided)`
 │   │   │   inner_content: `100 mg per 1/8th tsp (scoop provided)`
@@ -3121,10 +3029,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -3443,10 +3347,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `300 mg per 1 capsule`
 │   │   │   inner_content: `300 mg per 1 capsule`
@@ -3475,10 +3375,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `500 mg per 1 capsule`
 │   │   │   inner_content: `500 mg per 1 capsule`
@@ -3507,10 +3403,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 tablespoon`
 │   │   │   inner_content: `per 1 tablespoon`
@@ -3577,10 +3469,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `variable capsules or liquid drops`
 │   │   │   inner_content: `variable capsules or liquid drops`
@@ -3609,10 +3497,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 5.8 gm scoop (scoop provided)`
 │   │   │   inner_content: `per 5.8 gm scoop (scoop provided)`
@@ -3721,10 +3605,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `500 mg`
 │   │   │   inner_content: `500 mg`
@@ -3753,10 +3633,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `50 mg per 1 tablet`
 │   │   │   inner_content: `50 mg per 1 tablet`
@@ -3785,10 +3661,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 1 capsule`
 │   │   │   inner_content: `per 1 capsule`
@@ -4002,10 +3874,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ``
 │   │   │   inner_content: ``
@@ -4094,10 +3962,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `50 - 300 mg nightly`
 │   │   │   inner_content: `50 - 300 mg nightly`
@@ -4119,17 +3983,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `0.5 - 5 mg nightly`
 │   │   │   inner_content: `0.5 - 5 mg nightly`
@@ -4151,10 +4007,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 3 gm (scoop provided)`
 │   │   │   inner_content: `per 3 gm (scoop provided)`
@@ -4284,10 +4136,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `per 2.5 gm scoop (scoop provided)`
 │   │   │   inner_content: `per 2.5 gm scoop (scoop provided)`
@@ -4335,15 +4183,15 @@ AST Structure:
 │   │   │   inner_content: ` magnesium L-threonate`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` magnesium L-threonate`
-│   │   │   │   inner_content: ` magnesium L-threonate`
+│   │   │   │   full_match: `magnesium L-threonate`
+│   │   │   │   inner_content: `magnesium L-threonate`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` and magnesium lysinate glycinate chelate&quot;`
 │   │   │   inner_content: ` and magnesium lysinate glycinate chelate&quot;`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` and magnesium lysinate glycinate chelate&quot;`
-│   │   │   │   inner_content: ` and magnesium lysinate glycinate chelate&quot;`
+│   │   │   │   full_match: `and magnesium lysinate glycinate chelate&quot;`
+│   │   │   │   inner_content: `and magnesium lysinate glycinate chelate&quot;`
 │   │   ├── TableCellNode
 │   │   │   full_match: `200 mg`
 │   │   │   inner_content: `200 mg`
@@ -4400,10 +4248,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 mg per softgel`
 │   │   │   inner_content: `100 mg per softgel`
@@ -4439,10 +4283,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `10,000 mcg daily`
 │   │   │   inner_content: `10,000 mcg daily`
@@ -4471,10 +4311,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `1 gm - 3 gm over 3 days`
 │   │   │   inner_content: `1 gm - 3 gm over 3 days`
@@ -4503,10 +4339,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `100 - 300 mg per day`
 │   │   │   inner_content: `100 - 300 mg per day`
@@ -4535,10 +4367,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `2 - 7.5 mg daily`
 │   │   │   inner_content: `2 - 7.5 mg daily`
@@ -4567,10 +4395,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `0.5 - 2.5 mg daily`
 │   │   │   inner_content: `0.5 - 2.5 mg daily`
@@ -4599,10 +4423,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `0.5 - 2.5 mg daily`
 │   │   │   inner_content: `0.5 - 2.5 mg daily`
@@ -4631,10 +4451,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `50 - 150 mg daily`
 │   │   │   inner_content: `50 - 150 mg daily`
@@ -4663,10 +4479,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `10 - 25 mg daily`
 │   │   │   inner_content: `10 - 25 mg daily`
@@ -4695,10 +4507,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `50 mg daily`
 │   │   │   inner_content: `50 mg daily`
@@ -4727,10 +4535,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `15 - 120 mg daily`
 │   │   │   inner_content: `15 - 120 mg daily`
@@ -4752,17 +4556,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `500 mg - 3 gm daily`
 │   │   │   inner_content: `500 mg - 3 gm daily`
@@ -4784,17 +4580,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `500 mg - 2000 mg daily`
 │   │   │   inner_content: `500 mg - 2000 mg daily`
@@ -4816,17 +4604,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `800 - 1200 mg daily`
 │   │   │   inner_content: `800 - 1200 mg daily`
@@ -4855,10 +4635,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `5 - 30 drops daily\n`
 │   │   │   inner_content: `5 - 30 drops daily\n`
@@ -4876,10 +4652,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -4897,10 +4669,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -4918,10 +4686,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -4939,10 +4703,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -4960,10 +4720,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -4981,10 +4737,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5002,10 +4754,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5023,10 +4771,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5044,10 +4788,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5065,10 +4805,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5086,10 +4822,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5107,10 +4839,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5128,10 +4856,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5149,10 +4873,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5170,10 +4890,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5191,10 +4907,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5212,10 +4924,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5233,10 +4941,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: `\n`
 │   │   │   inner_content: `\n`
@@ -5254,17 +4958,9 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `├── HorizontalRuleNode
+│   │   │   inner_content: ` `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Overview Alzheimer&#39;s-Cognition and Vitamin D)) contains`
@@ -5304,8 +5000,8 @@ AST Structure:
 │   inner_content: ` (alias(Personalized Lifestyle Intervention reduced cognitive decline - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Personalized Lifestyle Intervention reduced cognitive decline - Aug 2023)) `
-│   │   inner_content: ` (alias(Personalized Lifestyle Intervention reduced cognitive decline - Aug 2023)) `
+│   │   full_match: `(alias(Personalized Lifestyle Intervention reduced cognitive decline - Aug 2023)) `
+│   │   inner_content: `(alias(Personalized Lifestyle Intervention reduced cognitive decline - Aug 2023)) `
 
 Original Tiki:
 -------------

@@ -259,8 +259,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D during pregnancy increased child’s bone density – mata-analysis April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D during pregnancy increased child’s bone density – mata-analysis April 2023)) `
-│   │   inner_content: ` (alias(Vitamin D during pregnancy increased child’s bone density – mata-analysis April 2023)) `
+│   │   full_match: `(alias(Vitamin D during pregnancy increased child’s bone density – mata-analysis April 2023)) `
+│   │   inner_content: `(alias(Vitamin D during pregnancy increased child’s bone density – mata-analysis April 2023)) `
 
 Original Tiki:
 -------------

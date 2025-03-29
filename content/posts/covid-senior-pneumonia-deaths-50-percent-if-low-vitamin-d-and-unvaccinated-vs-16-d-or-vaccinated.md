@@ -25,9 +25,9 @@ by Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul 
 
 SARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (>70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).
 
- Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (<30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).
+Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (<30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).
 
- In multivariate analyses, D30 was independently associated with 
+In multivariate analyses, D30 was independently associated with 
 
 * ICU admission (OR: 6.87 (95% CI: 1.13–41.85) (p = 0.036)) and 
 
@@ -65,9 +65,9 @@ by Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul 
 
 SARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (&gt;70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).
 
- Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).
+Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).
 
- In multivariate analyses, D30 was independently associated with 
+In multivariate analyses, D30 was independently associated with 
 
 * ICU admission (OR: 6.87 (95% CI: 1.13–41.85) (p = 0.036)) and 
 
@@ -120,8 +120,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Hospital Outcomes in Patients Hospitalized for COVID-19 Pneumonia: The Effect of SARS-CoV-2 Vaccination and Vitamin D Status`
 │   │   inner_content: `Hospital Outcomes in Patients Hospitalized for COVID-19 Pneumonia: The Effect of SARS-CoV-2 Vaccination and Vitamin D Status`├── TextNode
-│   full_match: `\nNutrients 2023, 15(13), 2976; https://doi.org/10.3390/nu15132976\nby Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul Qadeer 2,Julia Ioana 2,Alya Aldoresi 2,Syed I. Shah 2,Abdul Al Lawati 2,Joseph Feely 3,William P. Tormey 3,Eoghan O’Neill 4,Liam J. Cormican 2,Eoin P. Judge 2,Daniel M. A. McCartney 1 andJohn L. Faul 2,5,6,*ORCID\n\nSARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (&gt;70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).\n Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).\n In multivariate analyses, D30 was independently associated with \n`
-│   inner_content: `\nNutrients 2023, 15(13), 2976; https://doi.org/10.3390/nu15132976\nby Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul Qadeer 2,Julia Ioana 2,Alya Aldoresi 2,Syed I. Shah 2,Abdul Al Lawati 2,Joseph Feely 3,William P. Tormey 3,Eoghan O’Neill 4,Liam J. Cormican 2,Eoin P. Judge 2,Daniel M. A. McCartney 1 andJohn L. Faul 2,5,6,*ORCID\n\nSARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (&gt;70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).\n Outcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).\n In multivariate analyses, D30 was independently associated with \n`├── ListItemNode
+│   full_match: `\nNutrients 2023, 15(13), 2976; https://doi.org/10.3390/nu15132976\nby Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul Qadeer 2,Julia Ioana 2,Alya Aldoresi 2,Syed I. Shah 2,Abdul Al Lawati 2,Joseph Feely 3,William P. Tormey 3,Eoghan O’Neill 4,Liam J. Cormican 2,Eoin P. Judge 2,Daniel M. A. McCartney 1 andJohn L. Faul 2,5,6,*ORCID\n\nSARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (&gt;70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).\nOutcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).\nIn multivariate analyses, D30 was independently associated with \n`
+│   inner_content: `\nNutrients 2023, 15(13), 2976; https://doi.org/10.3390/nu15132976\nby Martyna Sanecka 1,Modar Youssef 2,Mohammad Abdulsalam 2,Syed F. Raza 2,Abdul Qadeer 2,Julia Ioana 2,Alya Aldoresi 2,Syed I. Shah 2,Abdul Al Lawati 2,Joseph Feely 3,William P. Tormey 3,Eoghan O’Neill 4,Liam J. Cormican 2,Eoin P. Judge 2,Daniel M. A. McCartney 1 andJohn L. Faul 2,5,6,*ORCID\n\nSARS-CoV-2 vaccination promises to improve outcomes for patients with COVID-19 pneumonia (most notably those with advanced age and at high risk for severe disease). Here, we examine serum 25-Hydroxyvitamin D (25(OH)D) status and outcomes in both old (&gt;70 years) and young vaccinated (n = 80) and unvaccinated (n = 91) subjects, who were hospitalized due to COVID-19 pneumonia in a single center (Connolly Hospital Dublin).\nOutcomes included ICU admission and mortality. Serum 25(OH)D levels were categorized as D30 (&lt;30 nmol/L), D40 (30–49.99 nmol/L) and D50 (≥50 nmol/L).\nIn multivariate analyses, D30 was independently associated with \n`├── ListItemNode
 │   full_match: `*ICU admission (OR: 6.87 (95% CI: 1.13–41.85) (p = 0.036)) and `
 │   inner_content: `ICU admission (OR: 6.87 (95% CI: 1.13–41.85) (p = 0.036)) and `
 │   depth: `1`

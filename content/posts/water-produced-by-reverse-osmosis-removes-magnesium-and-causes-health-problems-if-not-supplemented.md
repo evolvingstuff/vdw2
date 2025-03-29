@@ -60,7 +60,7 @@ Conclusion: This study suggested that drinking very low-mineral water may increa
 
 #### Magnesium appears essential for the processing of Vitamin D at 8 locations - see chart below
 
-	<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 From <a href="/posts/magnesium-increases-vitamin-d-and-decreases-mortality-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium increases Vitamin D and decreases mortality - 2013">Magnesium increases Vitamin D and decreases mortality - 2013</a>
 
@@ -126,7 +126,7 @@ Conclusion: This study suggested that drinking very low-mineral water may increa
 
 #### Magnesium appears essential for the processing of Vitamin D at 8 locations - see chart below
 
-	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 From &lt;a href=&quot;/posts/magnesium-increases-vitamin-d-and-decreases-mortality-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium increases Vitamin D and decreases mortality - 2013&quot;&gt;Magnesium increases Vitamin D and decreases mortality - 2013&lt;/a&gt;
 
@@ -302,8 +302,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Magnesium appears essential for the processing of Vitamin D at 8 locations - see chart below`
 │   │   inner_content: `Magnesium appears essential for the processing of Vitamin D at 8 locations - see chart below`├── TextNode
-│   full_match: `\n\t`
-│   inner_content: `\n\t`├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img fileId=3149}`
 │   inner_content: ``
 │   attrs_dict:

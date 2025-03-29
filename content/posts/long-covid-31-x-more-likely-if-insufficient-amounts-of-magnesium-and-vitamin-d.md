@@ -212,8 +212,8 @@ AST Structure:
 │   inner_content: ` (alias(Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vitamin D – Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vitamin D – Sept 2023)) `
-│   │   inner_content: ` (alias(Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vitamin D – Sept 2023)) `
+│   │   full_match: `(alias(Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vitamin D – Sept 2023)) `
+│   │   inner_content: `(alias(Long-COVID 3.1 X more likely if insufficient amounts of Magnesium and Vitamin D – Sept 2023)) `
 
 Original Tiki:
 -------------

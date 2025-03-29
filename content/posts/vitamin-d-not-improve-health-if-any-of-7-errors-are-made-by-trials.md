@@ -17,12 +17,12 @@ categories:
 
 | | |
 | --- | --- |
-|  1) Too small of a dose  | as low as 400 IU in one study |
+| 1) Too small of a dose  | as low as 400 IU in one study |
 | 2) Too infrequent  | dosing up to 8 weeks, should be less than 2 weeks |
 | 3) Used D2 not D3  | D2 has a half-life of only a few days |
 | 4) Too short of a trial period  | as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose |
 | 5) Any amount of vitamin D supplementation was allowed | including only 200 IU |
-| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones |  many health problems need 50 to 150 ng |
+| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones | many health problems need 50 to 150 ng |
 | 7) Assume that only vitamin D is needed | Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed |
 
 ---
@@ -75,12 +75,12 @@ Markdown:
 
 | | |
 | --- | --- |
-|  1) Too small of a dose  | as low as 400 IU in one study |
+| 1) Too small of a dose  | as low as 400 IU in one study |
 | 2) Too infrequent  | dosing up to 8 weeks, should be less than 2 weeks |
 | 3) Used D2 not D3  | D2 has a half-life of only a few days |
 | 4) Too short of a trial period  | as short as 4 weeks - It takes 8 to 30 weeks to be effective without a loading dose |
 | 5) Any amount of vitamin D supplementation was allowed | including only 200 IU |
-| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones |  many health problems need 50 to 150 ng |
+| 6) Assume that 30 ng level of vitamin D is enough - Which might be enough for bones | many health problems need 50 to 150 ng |
 | 7) Assume that only vitamin D is needed | Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed |
 
 ---
@@ -148,8 +148,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 1) Too small of a dose `
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 1) Too small of a dose `
-│   │   │   │   │   inner_content: ` 1) Too small of a dose `
+│   │   │   │   │   full_match: `1) Too small of a dose `
+│   │   │   │   │   inner_content: `1) Too small of a dose `
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `as low as 400 IU in one study`
 │   │   │   │   inner_content: `as low as 400 IU in one study`
@@ -245,8 +245,8 @@ AST Structure:
 │   │   │   │   inner_content: ` many health problems need 50 to 150 ng`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` many health problems need 50 to 150 ng`
-│   │   │   │   │   inner_content: ` many health problems need 50 to 150 ng`
+│   │   │   │   │   full_match: `many health problems need 50 to 150 ng`
+│   │   │   │   │   inner_content: `many health problems need 50 to 150 ng`
 │   │   ├── TableRowNode
 │   │   │   full_match: `7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
 │   │   │   inner_content: `7) Assume that only vitamin D is needed|Omega-3, Magnesium. Vitamin K2, etc as well as exercise are often needed`
@@ -356,16 +356,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D not improve health if any of 5 errors are made by RCT – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D not improve health if any of 5 errors are made by RCT – April 2023)) `
-│   │   inner_content: ` (alias(Vitamin D not improve health if any of 5 errors are made by RCT – April 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D not improve health if any of 5 errors are made by RCT – April 2023)) `
+│   │   inner_content: `(alias(Vitamin D not improve health if any of 5 errors are made by RCT – April 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) `
-│   │   inner_content: ` (alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) `
+│   │   full_match: `(alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) `
+│   │   inner_content: `(alias(Vitamin D not improve health if any of 7 errors are made by RCT – April 2023)) `
 
 Original Tiki:
 -------------

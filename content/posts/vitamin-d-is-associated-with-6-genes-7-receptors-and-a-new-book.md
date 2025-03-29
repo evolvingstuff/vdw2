@@ -656,16 +656,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D has 6 genes and 6 receptors - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D has 6 genes and 6 receptors - Oct 2023)) `
-│   │   inner_content: ` (alias(Vitamin D has 6 genes and 6 receptors - Oct 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D has 6 genes and 6 receptors - Oct 2023)) `
+│   │   inner_content: `(alias(Vitamin D has 6 genes and 6 receptors - Oct 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) `
-│   │   inner_content: ` (alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) `
+│   │   full_match: `(alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) `
+│   │   inner_content: `(alias(Vitamin D is associated with 6 genes and 7 receptors - Oct 2023)) `
 
 Original Tiki:
 -------------

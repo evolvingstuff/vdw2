@@ -29,8 +29,6 @@ categories:
 
 Today, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.
 
- 
-
 Magnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. 
 
  **The top  <span style="color:orange;">causes</span> of magnesium deficiency include:** 
@@ -59,7 +57,7 @@ Diabetes, high blood pressure, arthritis, osteoporosis, and cardiovascular disea
 
 The best sources of magnesium are leafy greens, almonds, and dark chocolate, but some of these foods contain oxalates. Oxalates block the absorption of magnesium. Meat, cheese, and shellfish contain magnesium and do not contain oxalates. 
 
- **Here are 22 surprising <span style="color:orange;"> signs</span> of magnesium deficiency:** 
+ **Here are 22 surprising <span style="color:orange;">signs</span> of magnesium deficiency:** 
 
 • Anxiety
 
@@ -136,8 +134,6 @@ Markdown:
 
 Today, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.
 
- 
-
 Magnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. 
 
  **The top  &lt;span style=&quot;color:orange;&quot;&gt;causes&lt;/span&gt; of magnesium deficiency include:** 
@@ -166,7 +162,7 @@ Diabetes, high blood pressure, arthritis, osteoporosis, and cardiovascular disea
 
 The best sources of magnesium are leafy greens, almonds, and dark chocolate, but some of these foods contain oxalates. Oxalates block the absorption of magnesium. Meat, cheese, and shellfish contain magnesium and do not contain oxalates. 
 
- **Here are 22 surprising &lt;span style=&quot;color:orange;&quot;&gt; signs&lt;/span&gt; of magnesium deficiency:** 
+ **Here are 22 surprising &lt;span style=&quot;color:orange;&quot;&gt;signs&lt;/span&gt; of magnesium deficiency:** 
 
 • Anxiety
 
@@ -252,8 +248,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 20984
 │   │   width: 150├── TextNode
-│   full_match: `\n\n0:00 Introduction: Important signs and symptoms of magnesium deficiency  \n0:59 What causes magnesium deficiency?\n2:10 Foods high in magnesium\n3:56 Signs of a magnesium deficiency\n4:59 The earliest sign of a magnesium deficiency \n\nToday, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.\n \nMagnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. \n\n`
-│   inner_content: `\n\n0:00 Introduction: Important signs and symptoms of magnesium deficiency  \n0:59 What causes magnesium deficiency?\n2:10 Foods high in magnesium\n3:56 Signs of a magnesium deficiency\n4:59 The earliest sign of a magnesium deficiency \n\nToday, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.\n \nMagnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. \n\n`├── BoldNode
+│   full_match: `\n\n0:00 Introduction: Important signs and symptoms of magnesium deficiency  \n0:59 What causes magnesium deficiency?\n2:10 Foods high in magnesium\n3:56 Signs of a magnesium deficiency\n4:59 The earliest sign of a magnesium deficiency \n\nToday, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.\n\nMagnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. \n\n`
+│   inner_content: `\n\n0:00 Introduction: Important signs and symptoms of magnesium deficiency  \n0:59 What causes magnesium deficiency?\n2:10 Foods high in magnesium\n3:56 Signs of a magnesium deficiency\n4:59 The earliest sign of a magnesium deficiency \n\nToday, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of magnesium is in the bone, 20% is in the muscle, 19% is in the soft tissue, and 1% is in the blood.\n\nMagnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. \n\n`├── BoldNode
 │   full_match: `__The top ~~#00F:causes~~ of magnesium deficiency include: __`
 │   inner_content: `The top ~~#00F:causes~~ of magnesium deficiency include: `
 │   children:
@@ -287,8 +283,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` signs`
-│   │   │   inner_content: ` signs`
+│   │   │   full_match: `signs`
+│   │   │   inner_content: `signs`
 │   ├── TextNode
 │   │   full_match: ` of magnesium deficiency:`
 │   │   inner_content: ` of magnesium deficiency:`├── TextNode

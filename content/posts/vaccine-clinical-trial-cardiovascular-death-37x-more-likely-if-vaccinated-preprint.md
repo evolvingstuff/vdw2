@@ -249,8 +249,8 @@ AST Structure:
 │   inner_content: ` (alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) `
-│   │   inner_content: ` (alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) `
+│   │   full_match: `(alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) `
+│   │   inner_content: `(alias(Vaccine Clinical Trial - 3.7X ore likely to die if Vaccinated - preprint Sept 2023)) `
 
 Original Tiki:
 -------------

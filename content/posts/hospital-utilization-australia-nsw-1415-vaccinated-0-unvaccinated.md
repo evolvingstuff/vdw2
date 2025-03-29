@@ -37,8 +37,6 @@ Includes > 100 items, such items as
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
-  
-
 <!-- ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~ -->
 
 
@@ -72,8 +70,6 @@ Includes &gt; 100 items, such items as
 ---
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
-
-  
 
 &lt;!-- ~tc~ (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) ~/tc~ --&gt;
 
@@ -178,8 +174,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID infections and vaccinations decrease Vitamin D – many studies`
 │   │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -195,8 +191,8 @@ AST Structure:
 │   inner_content: ` (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) `
-│   │   inner_content: ` (alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) `
+│   │   full_match: `(alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) `
+│   │   inner_content: `(alias(Hosptial utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022)) `
 
 Original Tiki:
 -------------

@@ -372,8 +372,8 @@ AST Structure:
 │   inner_content: ` (alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) `
-│   │   inner_content: ` (alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) `
+│   │   full_match: `(alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) `
+│   │   inner_content: `(alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) `
 
 Original Tiki:
 -------------

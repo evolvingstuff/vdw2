@@ -35,8 +35,6 @@ Blood profiling data in athletic populations and their respective responses to S
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
-  
-
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -66,8 +64,6 @@ Blood profiling data in athletic populations and their respective responses to S
 ---
 
 #### VitaminDwiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
-
-  
 
 
 
@@ -169,8 +165,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID infections and vaccinations decrease Vitamin D – many studies`
 │   │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}`
 │   inner_content: ``
 │   attrs_dict:

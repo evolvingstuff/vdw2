@@ -282,8 +282,8 @@ AST Structure:
 │   inner_content: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
-│   │   inner_content: ` (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
+│   │   full_match: `(alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
+│   │   inner_content: `(alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) `
 
 Original Tiki:
 -------------

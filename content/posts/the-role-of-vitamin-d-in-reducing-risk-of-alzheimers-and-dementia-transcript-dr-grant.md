@@ -1209,8 +1209,8 @@ AST Structure:
 │   inner_content: ` (alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) `
-│   │   inner_content: ` (alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) `
+│   │   full_match: `(alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) `
+│   │   inner_content: `(alias(The Role of Vitamin D in Reducing Risk of Alzheimer’sand Dementia - interview Grant March 2023)) `
 
 Original Tiki:
 -------------

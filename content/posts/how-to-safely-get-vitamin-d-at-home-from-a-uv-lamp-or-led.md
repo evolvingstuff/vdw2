@@ -89,8 +89,8 @@ AST Structure:
 │   inner_content: ` start `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` start `
-│   │   inner_content: ` start `├── TextNode
+│   │   full_match: `start `
+│   │   inner_content: `start `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
@@ -111,8 +111,8 @@ AST Structure:
 │   inner_content: ` end `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` end `
-│   │   inner_content: ` end `├── HorizontalRuleNode
+│   │   full_match: `end `
+│   │   inner_content: `end `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!UV for health references`
@@ -202,8 +202,8 @@ AST Structure:
 │   inner_content: ` (alias(How to get enough UV (vitamin D) from a lamp or LED)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(How to get enough UV (vitamin D) from a lamp or LED)) `
-│   │   inner_content: ` (alias(How to get enough UV (vitamin D) from a lamp or LED)) `
+│   │   full_match: `(alias(How to get enough UV (vitamin D) from a lamp or LED)) `
+│   │   inner_content: `(alias(How to get enough UV (vitamin D) from a lamp or LED)) `
 
 Original Tiki:
 -------------

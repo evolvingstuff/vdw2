@@ -72,15 +72,15 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 
 ##### Key points
 
-*  Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a 'broken' ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).
+* Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a 'broken' ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).
 
 * The activation of vitamin D3 is accomplished by sequential hydroxylations that produce 25(OH)D3 (calcidiol) in the liver and then the active metabolite 1,25(OH)2D3 (calcitriol) in the kidney and at extra-renal sites (including immune cells).
 
-*  1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.
+* 1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.
 
-*  Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.
+* Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.
 
-*  Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.
+* Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.
 
 * 1,25(OH)2D3 downregulates both the early viral phase of COVID-19, through the enhancement of innate antiviral effector mechanisms, and the later cytokine-mediated hyperinflammatory phase.
 
@@ -179,15 +179,15 @@ Evidence supporting the extra-skeletal role of vitamin D in modulating immune re
 
 ##### Key points
 
-*  Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).
+* Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).
 
 * The activation of vitamin D3 is accomplished by sequential hydroxylations that produce 25(OH)D3 (calcidiol) in the liver and then the active metabolite 1,25(OH)2D3 (calcitriol) in the kidney and at extra-renal sites (including immune cells).
 
-*  1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.
+* 1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.
 
-*  Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.
+* Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.
 
-*  Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.
+* Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.
 
 * 1,25(OH)2D3 downregulates both the early viral phase of COVID-19, through the enhancement of innate antiviral effector mechanisms, and the later cytokine-mediated hyperinflammatory phase.
 
@@ -291,8 +291,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).`
-│   │   inner_content: ` Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).`├── TextNode
+│   │   full_match: `Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).`
+│   │   inner_content: `Vitamin D3 (cholecalciferol) is a prototypical secosteroid, a type of steroid with a &#39;broken&#39; ring, which originates from cholesterol, as do all steroid hormones (including glucocorticoids, mineralocorticoids and sex hormones).`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*The activation of vitamin D3 is accomplished by sequential hydroxylations that produce 25(OH)D3 (calcidiol) in the liver and then the active metabolite 1,25(OH)2D3 (calcitriol) in the kidney and at extra-renal sites (including immune cells).`
@@ -309,8 +309,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` 1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.`
-│   │   inner_content: ` 1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.`├── TextNode
+│   │   full_match: `1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.`
+│   │   inner_content: `1,25(OH)2D3 modulates the innate immune response against pathogens and invading microorganisms, downregulates the inflammatory response and supports the adaptive arm of the immune system.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.`
@@ -318,8 +318,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.`
-│   │   inner_content: ` Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.`├── TextNode
+│   │   full_match: `Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.`
+│   │   inner_content: `Reduced serum concentrations of 25(OH)D3 are detected in autoimmune rheumatic diseases such as rheumatoid, systemic lupus erythematosus and systemic sclerosis; vitamin D supplementation seems to improve at least the prognosis.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.`
@@ -327,8 +327,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.`
-│   │   inner_content: ` Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.`├── TextNode
+│   │   full_match: `Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.`
+│   │   inner_content: `Serum concentrations of vitamin D fluctuate seasonally (being lowest in winter) and correlate negatively with the activation of the immune system and with the incidence and severity of autoimmune rheumatic diseases.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*1,25(OH)2D3 downregulates both the early viral phase of COVID-19, through the enhancement of innate antiviral effector mechanisms, and the later cytokine-mediated hyperinflammatory phase.`
@@ -549,8 +549,8 @@ AST Structure:
 │   inner_content: ` (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) `
-│   │   inner_content: ` (alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) `
+│   │   full_match: `(alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) `
+│   │   inner_content: `(alias(Autoimmune RA, SLE. SSC and Vitamin D – March 2023)) `
 
 Original Tiki:
 -------------

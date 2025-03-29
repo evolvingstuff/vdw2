@@ -50,7 +50,7 @@ TREATMENT OF VITAMIN D DEFICIENCY
 
 Vitamin D supplements
 
-Dosing **<span style="color:orange;"> (incorrectly considers >20 ng to be enough)</span>** 
+Dosing **<span style="color:orange;">(incorrectly considers >20 ng to be enough)</span>** 
 
 Do I need other vitamins or minerals?
 
@@ -163,7 +163,7 @@ TREATMENT OF VITAMIN D DEFICIENCY
 
 Vitamin D supplements
 
-Dosing **&lt;span style=&quot;color:orange;&quot;&gt; (incorrectly considers &gt;20 ng to be enough)&lt;/span&gt;** 
+Dosing **&lt;span style=&quot;color:orange;&quot;&gt;(incorrectly considers &gt;20 ng to be enough)&lt;/span&gt;** 
 
 Do I need other vitamins or minerals?
 
@@ -320,8 +320,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` (incorrectly considers &gt;20 ng to be enough)`
-│   │   │   inner_content: ` (incorrectly considers &gt;20 ng to be enough)`├── TextNode
+│   │   │   full_match: `(incorrectly considers &gt;20 ng to be enough)`
+│   │   │   inner_content: `(incorrectly considers &gt;20 ng to be enough)`├── TextNode
 │   full_match: `\nDo I need other vitamins or minerals?\nMonitoring\nSide effects\nPREVENTION OF VITAMIN D DEFICIENCY\nWHERE TO GET MORE INFORMATION`
 │   inner_content: `\nDo I need other vitamins or minerals?\nMonitoring\nSide effects\nPREVENTION OF VITAMIN D DEFICIENCY\nWHERE TO GET MORE INFORMATION`├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -347,16 +347,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D Deficiency - Beyond the Basics)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D Deficiency - Beyond the Basics)) `
-│   │   inner_content: ` (alias(Vitamin D Deficiency - Beyond the Basics)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D Deficiency - Beyond the Basics)) `
+│   │   inner_content: `(alias(Vitamin D Deficiency - Beyond the Basics)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) `
-│   │   inner_content: ` (alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) `
+│   │   full_match: `(alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) `
+│   │   inner_content: `(alias(Vitamin D Deficiency - Patient education - Beyond the Basics)) `
 
 Original Tiki:
 -------------

@@ -778,8 +778,8 @@ AST Structure:
 │   inner_content: ` (alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) `
-│   │   inner_content: ` (alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) `
+│   │   full_match: `(alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) `
+│   │   inner_content: `(alias(Fat accumulates in legs or arms if low vitamin D - Dec 2023)) `
 
 Original Tiki:
 -------------

@@ -37,7 +37,7 @@ categories:
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14636{SQL} -->
 </span> visits to this page
 
@@ -75,7 +75,7 @@ Markdown:
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14636{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -227,9 +227,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14636{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14636`
@@ -245,8 +242,8 @@ AST Structure:
 │   inner_content: ` (alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) `
-│   │   inner_content: ` (alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) `
+│   │   full_match: `(alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) `
+│   │   inner_content: `(alias(Breast Cancer increased 2.3 X with high phosate in diet if not increase vitamin D - Aug 2023)) `
 
 Original Tiki:
 -------------

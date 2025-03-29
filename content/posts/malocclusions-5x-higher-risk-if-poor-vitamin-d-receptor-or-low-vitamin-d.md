@@ -76,7 +76,7 @@ This list is automatically updated
 
 #### Dr. Price found a connection between dental problems and low Vitamin D and/or vitamin K in the 1930's
 
- **[ On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
+ **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
 
 See also: <a href="/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitamin-k-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010">Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010</a>
 
@@ -154,7 +154,7 @@ This list is automatically updated
 
 #### Dr. Price found a connection between dental problems and low Vitamin D and/or vitamin K in the 1930&#39;s
 
- **[ On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
+ **[On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved](https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0) - Feb 2008** 
 
 See also: &lt;a href=&quot;/posts/price-and-masterjohn-on-vitamin-a-vitamin-d-and-vitamin-k-2010&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010&quot;&gt;Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010&lt;/a&gt;
 
@@ -227,8 +227,8 @@ AST Structure:
 │   inner_content: ` 8.46 and OR = 6.92`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` 8.46 and OR = 6.92`
-│   │   inner_content: ` 8.46 and OR = 6.92`├── TextNode
+│   │   full_match: `8.46 and OR = 6.92`
+│   │   inner_content: `8.46 and OR = 6.92`├── TextNode
 │   full_match: `, respectively).\n\nConclusions: The association of individual polymorphisms with specific malocclusions should be carefully assessed, especially since some trends have been indicated.`
 │   inner_content: `, respectively).\n\nConclusions: The association of individual polymorphisms with specific malocclusions should be carefully assessed, especially since some trends have been indicated.`├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -384,8 +384,8 @@ AST Structure:
 │   │   url: `https://www.westonaprice.org/health-topics/abcs-of-nutrition/on-the-trail-of-the-elusive-x-factor-a-sixty-two-year-old-mystery-finally-solved/#gsc.tab=0`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved`
-│   │   │   inner_content: ` On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved`
+│   │   │   full_match: `On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved`
+│   │   │   inner_content: `On the Trail of the Elusive X-Factor: A Sixty-Two-Year-Old Mystery Finally Solved`
 │   ├── TextNode
 │   │   full_match: ` - Feb 2008`
 │   │   inner_content: ` - Feb 2008`├── TextNode
@@ -404,16 +404,16 @@ AST Structure:
 │   inner_content: ` (alias(Maloclusion 5X higher risk if poor Vitamin D Receptor)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Maloclusion 5X higher risk if poor Vitamin D Receptor)) `
-│   │   inner_content: ` (alias(Maloclusion 5X higher risk if poor Vitamin D Receptor)) `├── TextNode
+│   │   full_match: `(alias(Maloclusion 5X higher risk if poor Vitamin D Receptor)) `
+│   │   inner_content: `(alias(Maloclusion 5X higher risk if poor Vitamin D Receptor)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) ~/tc~`
 │   inner_content: ` (alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) `
-│   │   inner_content: ` (alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) `
+│   │   full_match: `(alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) `
+│   │   inner_content: `(alias(Malocclusions 5X higher risk if poor Vitamin D Receptor - Feb 2024)) `
 
 Original Tiki:
 -------------

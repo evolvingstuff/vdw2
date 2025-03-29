@@ -48,7 +48,7 @@ Gynecological cancer and atherosclerosis are two of the most frequent medical en
 
 * increased telomere length
 
- constitute common ground between these two afflictions, which this article aims to analyze.
+constitute common ground between these two afflictions, which this article aims to analyze.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -81,8 +81,6 @@ Gynecological cancer and atherosclerosis are two of the most frequent medical en
 ---
 
 #### VitaminDWiki - [Cancer - Ovarian](/categories/cancer---ovarian)
-
-  
 
 <!-- ~tc~ (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) ~/tc~ -->
 
@@ -128,7 +126,7 @@ Gynecological cancer and atherosclerosis are two of the most frequent medical en
 
 * increased telomere length
 
- constitute common ground between these two afflictions, which this article aims to analyze.
+constitute common ground between these two afflictions, which this article aims to analyze.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -161,8 +159,6 @@ Gynecological cancer and atherosclerosis are two of the most frequent medical en
 ---
 
 #### VitaminDWiki - [Cancer - Ovarian](/categories/cancer---ovarian)
-
-  
 
 &lt;!-- ~tc~ (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) ~/tc~ --&gt;
 
@@ -285,8 +281,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `increased telomere length`
 │   │   inner_content: `increased telomere length`├── TextNode
-│   full_match: `\n constitute common ground between these two afflictions, which this article aims to analyze.\n`
-│   inner_content: `\n constitute common ground between these two afflictions, which this article aims to analyze.\n`├── FontNode
+│   full_match: `\nconstitute common ground between these two afflictions, which this article aims to analyze.\n`
+│   inner_content: `\nconstitute common ground between these two afflictions, which this article aims to analyze.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20717&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20717&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:
@@ -458,8 +454,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer - Ovarian`
 │   │   │   inner_content: `Cancer - Ovarian`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Cancer - Ovarian&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -475,8 +471,8 @@ AST Structure:
 │   inner_content: ` (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) `
-│   │   inner_content: ` (alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) `
+│   │   full_match: `(alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) `
+│   │   inner_content: `(alias(Gynecological cancer and atherosclerosis (perhaps a Vitamin D association) - Dec 2023)) `
 
 Original Tiki:
 -------------

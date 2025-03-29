@@ -27,7 +27,7 @@ by Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,At
 
 3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary
 
- * Author to whom correspondence should be addressed.
+* Author to whom correspondence should be addressed.
 
  **PDF table of contents** 
 
@@ -101,7 +101,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14646{SQL} -->
 </span> visits to this page
 
@@ -131,7 +131,7 @@ by Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,At
 
 3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary
 
- * Author to whom correspondence should be addressed.
+* Author to whom correspondence should be addressed.
 
  **PDF table of contents** 
 
@@ -205,7 +205,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14646{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -238,8 +238,17 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Fortification of Staple Foods for Household Use with Vitamin D: An Overview of Systematic Reviews`
 │   │   inner_content: `Fortification of Staple Foods for Household Use with Vitamin D: An Overview of Systematic Reviews`├── TextNode
-│   full_match: `\nNutrients 2023, 15(17), 3742; https://doi.org/10.3390/nu15173742\nby Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,Attila Kovács 3,Luca Járomi 1ORCID, Afshin Z and 1 and Szimonetta Lohner 1,3,*ORCID\n1 Department of Public Health Medicine, Medical School, University of Pécs, 7624 Pécs, Hungary\n2 Doctoral School of Health Sciences, Faculty of Health Sciences, University of Pécs, 7621 Pécs, Hungary\n3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary\n * Author to whom correspondence should be addressed.\n\n`
-│   inner_content: `\nNutrients 2023, 15(17), 3742; https://doi.org/10.3390/nu15173742\nby Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,Attila Kovács 3,Luca Járomi 1ORCID, Afshin Z and 1 and Szimonetta Lohner 1,3,*ORCID\n1 Department of Public Health Medicine, Medical School, University of Pécs, 7624 Pécs, Hungary\n2 Doctoral School of Health Sciences, Faculty of Health Sciences, University of Pécs, 7621 Pécs, Hungary\n3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary\n * Author to whom correspondence should be addressed.\n\n`├── BoldNode
+│   full_match: `\nNutrients 2023, 15(17), 3742; https://doi.org/10.3390/nu15173742\nby Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,Attila Kovács 3,Luca Járomi 1ORCID, Afshin Z and 1 and Szimonetta Lohner 1,3,*ORCID\n1 Department of Public Health Medicine, Medical School, University of Pécs, 7624 Pécs, Hungary\n2 Doctoral School of Health Sciences, Faculty of Health Sciences, University of Pécs, 7621 Pécs, Hungary\n3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary\n`
+│   inner_content: `\nNutrients 2023, 15(17), 3742; https://doi.org/10.3390/nu15173742\nby Patrick Nyamemba Nyakundi 1,2,†ORCID ,Zsuzsanna Némethné Kontár 1,†,Attila Kovács 3,Luca Járomi 1ORCID, Afshin Z and 1 and Szimonetta Lohner 1,3,*ORCID\n1 Department of Public Health Medicine, Medical School, University of Pécs, 7624 Pécs, Hungary\n2 Doctoral School of Health Sciences, Faculty of Health Sciences, University of Pécs, 7621 Pécs, Hungary\n3 Cochrane Hungary, Clinical Center of the University of Pécs, Medical School, University of Pécs, 7623 Pécs, Hungary\n`├── ListItemNode
+│   full_match: `* Author to whom correspondence should be addressed.`
+│   inner_content: ` Author to whom correspondence should be addressed.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Author to whom correspondence should be addressed.`
+│   │   inner_content: `Author to whom correspondence should be addressed.`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
 │   full_match: `__PDF table of contents__`
 │   inner_content: `PDF table of contents`
 │   children:
@@ -680,9 +689,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14646{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14646`
@@ -698,16 +704,16 @@ AST Structure:
 │   inner_content: ` (alias(Response to Vitamin D fortification varies from 1 to 10nmol  per 100 IU daily – review Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Response to Vitamin D fortification varies from 1 to 10nmol  per 100 IU daily – review Aug 2023)) `
-│   │   inner_content: ` (alias(Response to Vitamin D fortification varies from 1 to 10nmol  per 100 IU daily – review Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Response to Vitamin D fortification varies from 1 to 10nmol  per 100 IU daily – review Aug 2023)) `
+│   │   inner_content: `(alias(Response to Vitamin D fortification varies from 1 to 10nmol  per 100 IU daily – review Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) `
-│   │   inner_content: ` (alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) `
+│   │   full_match: `(alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) `
+│   │   inner_content: `(alias(Response to Vitamin D fortification varies from 1 to 10 nmol  per 100 IU daily – review Aug 2023)) `
 
 Original Tiki:
 -------------

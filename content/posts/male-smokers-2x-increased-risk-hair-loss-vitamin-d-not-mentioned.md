@@ -22,7 +22,7 @@ Smoking ==> reduces Vitamin D ==> increases hair loss
 
  **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men?ecd=WNL_EVE_240119_mdedge)** 
 
- Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
+Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
 
 [https://doi.org/10.1111/jocd.16132](https://doi.org/10.1111/jocd.16132) FREE PDF
 
@@ -53,7 +53,7 @@ Smoking ==&gt; reduces Vitamin D ==&gt; increases hair loss
 
  **[MD Edge](https://www.mdedge.com/dermatology/article/267460/hair-nails/smoking-associated-increased-risk-hair-loss-among-men?ecd=WNL_EVE_240119_mdedge)** 
 
- Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
+Reporting on  **A meta-analysis study on the association between smoking and male pattern hair loss** 
 
 [https://doi.org/10.1111/jocd.16132](https://doi.org/10.1111/jocd.16132) FREE PDF
 
@@ -114,8 +114,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `MD Edge`
 │   │   │   inner_content: `MD Edge`├── TextNode
-│   full_match: `\n\n Reporting on `
-│   inner_content: `\n\n Reporting on `├── BoldNode
+│   full_match: `\n\nReporting on `
+│   inner_content: `\n\nReporting on `├── BoldNode
 │   full_match: `__A meta-analysis study on the association between smoking and male pattern hair loss__`
 │   inner_content: `A meta-analysis study on the association between smoking and male pattern hair loss`
 │   children:

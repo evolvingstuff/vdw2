@@ -572,24 +572,24 @@ AST Structure:
 │   inner_content: ` (alias(Nano forms of Resveratrol (an activator of the Vitamin D receptor) – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Nano forms of Resveratrol (an activator of the Vitamin D receptor) – Feb 2023)) `
-│   │   inner_content: ` (alias(Nano forms of Resveratrol (an activator of the Vitamin D receptor) – Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(Nano forms of Resveratrol (an activator of the Vitamin D receptor) – Feb 2023)) `
+│   │   inner_content: `(alias(Nano forms of Resveratrol (an activator of the Vitamin D receptor) – Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Resveratrol - liposomal form may be best - Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(Resveratrol - liposomal form may be best - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Resveratrol - liposomal form may be best - Feb 2023)) `
-│   │   inner_content: ` (alias(Resveratrol - liposomal form may be best - Feb 2023)) `├── TextNode
+│   │   full_match: `(alias(Resveratrol - liposomal form may be best - Feb 2023)) `
+│   │   inner_content: `(alias(Resveratrol - liposomal form may be best - Feb 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) ~/tc~`
 │   inner_content: ` (alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) `
-│   │   inner_content: ` (alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) `
+│   │   full_match: `(alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) `
+│   │   inner_content: `(alias(Resveratrol - liposomal form may be best to increase cellular Vitamin D - Feb 2023)) `
 
 Original Tiki:
 -------------

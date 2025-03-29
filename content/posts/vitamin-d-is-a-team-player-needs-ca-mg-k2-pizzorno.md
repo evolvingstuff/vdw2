@@ -139,8 +139,6 @@ The Endocrine Society’s weight-based recommendations for supplemental vitamin 
 
 Table 3. Response to Vitamin D Supplementation Depends Upon BMI
 
- 
-
 ##### Vitamin D Dose IU/d
 
 Lara (one of the authors) requires approximately 6000 IU/d—even taking 2000 IU of this amount sublingually to bypass problems maintaining adequate vitamin D due to common hydroxylase enzyme SNPs she carries. (The hydroxylase enzymes both activate and catabolize vitamin D.) Other commonly found SNPs affecting vitamin D efficacy include at least 4 VDR variants, and SNPs in vitamin D binding protein. For individuals who are carriers of any of these SNPs, 2000 IU would not be adequate. A study of Iranian women with osteoporosis found that over half of them had one or more SNPs impairing vitamin D metabolism.36
@@ -267,7 +265,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 * <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015">Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015</a> in VitaminDWiki
 
-  *  PDF title = Nothing Boring about Boron
+  * PDF title = Nothing Boring about Boron
 
 * [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O'Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&ab_channel=theDr.com ) 1 hour YouTube 2022
 
@@ -415,8 +413,6 @@ The Endocrine Society’s weight-based recommendations for supplemental vitamin 
 
 Table 3. Response to Vitamin D Supplementation Depends Upon BMI
 
- 
-
 ##### Vitamin D Dose IU/d
 
 Lara (one of the authors) requires approximately 6000 IU/d—even taking 2000 IU of this amount sublingually to bypass problems maintaining adequate vitamin D due to common hydroxylase enzyme SNPs she carries. (The hydroxylase enzymes both activate and catabolize vitamin D.) Other commonly found SNPs affecting vitamin D efficacy include at least 4 VDR variants, and SNPs in vitamin D binding protein. For individuals who are carriers of any of these SNPs, 2000 IU would not be adequate. A study of Iranian women with osteoporosis found that over half of them had one or more SNPs impairing vitamin D metabolism.36
@@ -543,7 +539,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 * &lt;a href=&quot;/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&quot;&gt;Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&lt;/a&gt; in VitaminDWiki
 
-  *  PDF title = Nothing Boring about Boron
+  * PDF title = Nothing Boring about Boron
 
 * [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O&#39;Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&amp;ab_channel=theDr.com ) 1 hour YouTube 2022
 
@@ -822,9 +818,9 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D Dosage Obesity`
 │   │   inner_content: `Vitamin D Dosage Obesity`├── TextNode
-│   full_match: `\nIn addition to failure to consider any of the above factors affecting vitamin D efficacy, the dosage of vitamin D3 used was 2000 IU per day. This dose is inadequate for anyone who is obese, most who are overweight, and many who are of normal weight, a large number of whom, including these authors, require 4000 - 6000 IU/d.\nIndividuals who are significantly overweight or obese require far more vitamin D than normal weight individuals. A high BMI doubles or even triples vitamin D needs. A review of 94 studies was conducted to determine how much supplemental vitamin D people of different body weights needed in order to bring their serum 25(OH)D levels into adequate range. A person weighing 110 pounds (50 kg) required 1680 IU/d of D3 to achieve a 25(OH)D level of 30 ng/mL. A person weighing 165 lbs (75 kg) required 2500 IU/d, and someone weighing 220 lbs (100 kg) needed 3360 IU/d.\nA meta-analysis looking at the research identifying the prevalence of vitamin D deficiency in the obese identified 15 studies involving 3867 obese subjects and 9342 normal weight controls. Obese individuals who were European or American had a 370% increased risk of vitamin D deficiency. Obese Asian individuals had a 343% increased likelihood of being vitamin D deficient. In other words, regardless of the latitude where an individual lives, his or her age or nationality, if obese, that individual is almost certainly vitamin D deficient.31,32\nThe Endocrine Society’s weight-based recommendations for supplemental vitamin D3 are that vitamin D supplementation should be 1.5 times higher for overweight subjects, and 2 to 3 times higher for obese subjects compared to normal weight subjects. Table 3 provides the specific body weight recommendations to achieve 25(OH)D targets. We believe optimal levels of 25(OH)D are 60-80 ng/mL.33,34\n\nTable 3. Response to Vitamin D Supplementation Depends Upon BMI\n \n`
-│   inner_content: `\nIn addition to failure to consider any of the above factors affecting vitamin D efficacy, the dosage of vitamin D3 used was 2000 IU per day. This dose is inadequate for anyone who is obese, most who are overweight, and many who are of normal weight, a large number of whom, including these authors, require 4000 - 6000 IU/d.\nIndividuals who are significantly overweight or obese require far more vitamin D than normal weight individuals. A high BMI doubles or even triples vitamin D needs. A review of 94 studies was conducted to determine how much supplemental vitamin D people of different body weights needed in order to bring their serum 25(OH)D levels into adequate range. A person weighing 110 pounds (50 kg) required 1680 IU/d of D3 to achieve a 25(OH)D level of 30 ng/mL. A person weighing 165 lbs (75 kg) required 2500 IU/d, and someone weighing 220 lbs (100 kg) needed 3360 IU/d.\nA meta-analysis looking at the research identifying the prevalence of vitamin D deficiency in the obese identified 15 studies involving 3867 obese subjects and 9342 normal weight controls. Obese individuals who were European or American had a 370% increased risk of vitamin D deficiency. Obese Asian individuals had a 343% increased likelihood of being vitamin D deficient. In other words, regardless of the latitude where an individual lives, his or her age or nationality, if obese, that individual is almost certainly vitamin D deficient.31,32\nThe Endocrine Society’s weight-based recommendations for supplemental vitamin D3 are that vitamin D supplementation should be 1.5 times higher for overweight subjects, and 2 to 3 times higher for obese subjects compared to normal weight subjects. Table 3 provides the specific body weight recommendations to achieve 25(OH)D targets. We believe optimal levels of 25(OH)D are 60-80 ng/mL.33,34\n\nTable 3. Response to Vitamin D Supplementation Depends Upon BMI\n \n`├── HeadingNode
-│   full_match: `!!!!!Vitamin D Dose IU/d`
+│   full_match: `\nIn addition to failure to consider any of the above factors affecting vitamin D efficacy, the dosage of vitamin D3 used was 2000 IU per day. This dose is inadequate for anyone who is obese, most who are overweight, and many who are of normal weight, a large number of whom, including these authors, require 4000 - 6000 IU/d.\nIndividuals who are significantly overweight or obese require far more vitamin D than normal weight individuals. A high BMI doubles or even triples vitamin D needs. A review of 94 studies was conducted to determine how much supplemental vitamin D people of different body weights needed in order to bring their serum 25(OH)D levels into adequate range. A person weighing 110 pounds (50 kg) required 1680 IU/d of D3 to achieve a 25(OH)D level of 30 ng/mL. A person weighing 165 lbs (75 kg) required 2500 IU/d, and someone weighing 220 lbs (100 kg) needed 3360 IU/d.\nA meta-analysis looking at the research identifying the prevalence of vitamin D deficiency in the obese identified 15 studies involving 3867 obese subjects and 9342 normal weight controls. Obese individuals who were European or American had a 370% increased risk of vitamin D deficiency. Obese Asian individuals had a 343% increased likelihood of being vitamin D deficient. In other words, regardless of the latitude where an individual lives, his or her age or nationality, if obese, that individual is almost certainly vitamin D deficient.31,32\nThe Endocrine Society’s weight-based recommendations for supplemental vitamin D3 are that vitamin D supplementation should be 1.5 times higher for overweight subjects, and 2 to 3 times higher for obese subjects compared to normal weight subjects. Table 3 provides the specific body weight recommendations to achieve 25(OH)D targets. We believe optimal levels of 25(OH)D are 60-80 ng/mL.33,34\n\nTable 3. Response to Vitamin D Supplementation Depends Upon BMI\n`
+│   inner_content: `\nIn addition to failure to consider any of the above factors affecting vitamin D efficacy, the dosage of vitamin D3 used was 2000 IU per day. This dose is inadequate for anyone who is obese, most who are overweight, and many who are of normal weight, a large number of whom, including these authors, require 4000 - 6000 IU/d.\nIndividuals who are significantly overweight or obese require far more vitamin D than normal weight individuals. A high BMI doubles or even triples vitamin D needs. A review of 94 studies was conducted to determine how much supplemental vitamin D people of different body weights needed in order to bring their serum 25(OH)D levels into adequate range. A person weighing 110 pounds (50 kg) required 1680 IU/d of D3 to achieve a 25(OH)D level of 30 ng/mL. A person weighing 165 lbs (75 kg) required 2500 IU/d, and someone weighing 220 lbs (100 kg) needed 3360 IU/d.\nA meta-analysis looking at the research identifying the prevalence of vitamin D deficiency in the obese identified 15 studies involving 3867 obese subjects and 9342 normal weight controls. Obese individuals who were European or American had a 370% increased risk of vitamin D deficiency. Obese Asian individuals had a 343% increased likelihood of being vitamin D deficient. In other words, regardless of the latitude where an individual lives, his or her age or nationality, if obese, that individual is almost certainly vitamin D deficient.31,32\nThe Endocrine Society’s weight-based recommendations for supplemental vitamin D3 are that vitamin D supplementation should be 1.5 times higher for overweight subjects, and 2 to 3 times higher for obese subjects compared to normal weight subjects. Table 3 provides the specific body weight recommendations to achieve 25(OH)D targets. We believe optimal levels of 25(OH)D are 60-80 ng/mL.33,34\n\nTable 3. Response to Vitamin D Supplementation Depends Upon BMI\n`├── HeadingNode
+│   full_match: `\n!!!!!Vitamin D Dose IU/d`
 │   inner_content: `Vitamin D Dose IU/d`
 │   level: `5`
 │   children:
@@ -1360,8 +1356,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` PDF title = Nothing Boring about Boron`
-│   │   inner_content: ` PDF title = Nothing Boring about Boron`├── TextNode
+│   │   full_match: `PDF title = Nothing Boring about Boron`
+│   │   inner_content: `PDF title = Nothing Boring about Boron`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*[https://www.youtube.com/watch?v=bsR0lx7hFX0&amp;ab_channel=theDr.com |Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O&#39;Bryan] 1 hour YouTube 2022`
@@ -1429,8 +1425,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) `
-│   │   inner_content: ` (alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) `
+│   │   full_match: `(alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) `
+│   │   inner_content: `(alias(Vitamin D is a team player – needs Ca, Mg, K2 - Pizzorno Sept 2023)) `
 
 Original Tiki:
 -------------

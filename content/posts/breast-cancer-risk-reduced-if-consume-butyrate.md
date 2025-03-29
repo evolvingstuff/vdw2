@@ -46,7 +46,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14953{SQL} -->
 </span> visits to this page
 
@@ -96,7 +96,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14953{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -369,9 +369,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14953{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14953`
@@ -387,24 +384,24 @@ AST Structure:
 │   inner_content: ` (alias(Less Breast cancer if good VDR in intestine and added butyrate (mice) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Less Breast cancer if good VDR in intestine and added butyrate (mice) - Dec 2023)) `
-│   │   inner_content: ` (alias(Less Breast cancer if good VDR in intestine and added butyrate (mice) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Less Breast cancer if good VDR in intestine and added butyrate (mice) - Dec 2023)) `
+│   │   inner_content: `(alias(Less Breast cancer if good VDR in intestine and added butyrate (mice) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) `
-│   │   inner_content: ` (alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) `
+│   │   inner_content: `(alias(Less Breast Cancer if good VDR in intestine, or add butyrate (mice) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) `
-│   │   inner_content: ` (alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) `
+│   │   full_match: `(alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) `
+│   │   inner_content: `(alias(Breast Cancer risk reduces if add butyrate in intestine - Dec 2023)) `
 
 Original Tiki:
 -------------

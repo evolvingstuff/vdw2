@@ -59,7 +59,7 @@ categories:
 
 #### VitaminDWiki - <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a>
 
- **Vitamin D is the lowest-cost way to improve health**   **<span style="color:orange;"> (thin line, large circle)</span>** 
+ **Vitamin D is the lowest-cost way to improve health**   **<span style="color:orange;">(thin line, large circle)</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -159,7 +159,7 @@ Markdown:
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/ways-to-improve-health&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ways to improve health&quot;&gt;Ways to improve health&lt;/a&gt;
 
- **Vitamin D is the lowest-cost way to improve health**   **&lt;span style=&quot;color:orange;&quot;&gt; (thin line, large circle)&lt;/span&gt;** 
+ **Vitamin D is the lowest-cost way to improve health**   **&lt;span style=&quot;color:orange;&quot;&gt;(thin line, large circle)&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -490,8 +490,8 @@ AST Structure:
 │   │   │   raw_content: #006
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` (thin line, large circle)`
-│   │   │   inner_content: ` (thin line, large circle)`├── TextNode
+│   │   │   full_match: `(thin line, large circle)`
+│   │   │   inner_content: `(thin line, large circle)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;fileId&quot; fileId=&quot;3287&quot; width=&quot;500&quot;}`
@@ -794,8 +794,8 @@ AST Structure:
 │   inner_content: ` (alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) `
-│   │   inner_content: ` (alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) `
+│   │   full_match: `(alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) `
+│   │   inner_content: `(alias(An apple a day keeps the doctor away (reduces all-cause mortality by 40%) – July 2023)) `
 
 Original Tiki:
 -------------

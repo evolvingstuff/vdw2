@@ -338,8 +338,8 @@ AST Structure:
 │   inner_content: ` (alias(Slovakia raised COVID Vitamin D levels, more survivors, less CKD – Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Slovakia raised COVID Vitamin D levels, more survivors, less CKD – Feb 2023)) `
-│   │   inner_content: ` (alias(Slovakia raised COVID Vitamin D levels, more survivors, less CKD – Feb 2023)) `
+│   │   full_match: `(alias(Slovakia raised COVID Vitamin D levels, more survivors, less CKD – Feb 2023)) `
+│   │   inner_content: `(alias(Slovakia raised COVID Vitamin D levels, more survivors, less CKD – Feb 2023)) `
 
 Original Tiki:
 -------------

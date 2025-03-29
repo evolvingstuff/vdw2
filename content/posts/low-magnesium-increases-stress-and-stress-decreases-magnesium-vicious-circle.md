@@ -19,7 +19,7 @@ categories:
 
 Nutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672
 
- Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID
+Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID
 
  **Similar symptoms** 
 
@@ -85,9 +85,9 @@ Reduce stress and anxiety with Magnesium - 100-page ebook June 2017
 
 Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023
 
- <a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a> chart
+<a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a> chart
 
-	<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 * Symptoms of magnesium deficiency can be similar to those of vitamin D deficiency.
 
@@ -103,7 +103,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15162{SQL} -->
 </span> visits to this page
 
@@ -123,7 +123,7 @@ Markdown:
 
 Nutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672
 
- Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID
+Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID
 
  **Similar symptoms** 
 
@@ -189,9 +189,9 @@ Reduce stress and anxiety with Magnesium - 100-page ebook June 2017
 
 Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023
 
- &lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt; chart
+&lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt; chart
 
-	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 * Symptoms of magnesium deficiency can be similar to those of vitamin D deficiency.
 
@@ -207,7 +207,7 @@ Excellent review of Magnesium Supplementation and Benefits at Consumer Labs - up
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15162{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -238,8 +238,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Magnesium Status and Stress: The Vicious Circle Concept Revisited`
 │   │   inner_content: `Magnesium Status and Stress: The Vicious Circle Concept Revisited`├── TextNode
-│   full_match: `\nNutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672\n Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID\n\n`
-│   inner_content: `\nNutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672\n Gisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID\n\n`├── BoldNode
+│   full_match: `\nNutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672\nGisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID\n\n`
+│   inner_content: `\nNutrients 2020, 12(12), 3672; https://doi.org/10.3390/nu12123672\nGisèle Pickering 1,André Mazur 2,Marion Trousselard 3ORCID,Przemyslaw Bienkowski 4,Natalia Yaltsewa 5,Mohamed Amessou 6ORCID,Lionel Noah 6,* and Etienne Pouteau 6ORCID\n\n`├── BoldNode
 │   full_match: `__Similar symptoms__`
 │   inner_content: `Similar symptoms`
 │   children:
@@ -480,8 +480,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` sections include:`
 │   │   inner_content: ` sections include:`├── TextNode
-│   full_match: `\nMagnesium by itself helps with various health problems\nMagnesium supplements\nMagnesium in the diet\nMagnesium Deficiency\nHow much Magnesium\nMagnesium and Vitamin D - similarities and differences\nThe only difference between chlorophyll and hemoglobin is that Magnesium is in the center instead of Iron\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n `
-│   inner_content: `\nMagnesium by itself helps with various health problems\nMagnesium supplements\nMagnesium in the diet\nMagnesium Deficiency\nHow much Magnesium\nMagnesium and Vitamin D - similarities and differences\nThe only difference between chlorophyll and hemoglobin is that Magnesium is in the center instead of Iron\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n `├── LocalLinkNode
+│   full_match: `\nMagnesium by itself helps with various health problems\nMagnesium supplements\nMagnesium in the diet\nMagnesium Deficiency\nHow much Magnesium\nMagnesium and Vitamin D - similarities and differences\nThe only difference between chlorophyll and hemoglobin is that Magnesium is in the center instead of Iron\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n`
+│   inner_content: `\nMagnesium by itself helps with various health problems\nMagnesium supplements\nMagnesium in the diet\nMagnesium Deficiency\nHow much Magnesium\nMagnesium and Vitamin D - similarities and differences\nThe only difference between chlorophyll and hemoglobin is that Magnesium is in the center instead of Iron\nReduce stress and anxiety with Magnesium - 100-page ebook June 2017\nExcellent review of Magnesium Supplementation and Benefits at Consumer Labs - updated Feb 2023\n`├── LocalLinkNode
 │   full_match: `((Magnesium is needed by Vitamin D in 8 places - 2013))`
 │   inner_content: `Magnesium is needed by Vitamin D in 8 places - 2013`
 │   page: `Magnesium is needed by Vitamin D in 8 places - 2013`
@@ -489,8 +489,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Magnesium is needed by Vitamin D in 8 places - 2013`
 │   │   inner_content: `Magnesium is needed by Vitamin D in 8 places - 2013`├── TextNode
-│   full_match: ` chart\n\t`
-│   inner_content: ` chart\n\t`├── ImgNode
+│   full_match: ` chart\n`
+│   inner_content: ` chart\n`├── ImgNode
 │   full_match: `{img fileId=3149}`
 │   inner_content: ``
 │   attrs_dict:
@@ -560,9 +560,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15162{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15162`
@@ -578,8 +575,8 @@ AST Structure:
 │   inner_content: ` (alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) `
-│   │   inner_content: ` (alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) `
+│   │   full_match: `(alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) `
+│   │   inner_content: `(alias(Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) –  Nov 2020)) `
 
 Original Tiki:
 -------------

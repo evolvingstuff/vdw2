@@ -282,8 +282,8 @@ AST Structure:
 │   inner_content: ` (alias(International Adolescent Anxiety and death rates - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(International Adolescent Anxiety and death rates - April 2024)) `
-│   │   inner_content: ` (alias(International Adolescent Anxiety and death rates - April 2024)) `
+│   │   full_match: `(alias(International Adolescent Anxiety and death rates - April 2024)) `
+│   │   inner_content: `(alias(International Adolescent Anxiety and death rates - April 2024)) `
 
 Original Tiki:
 -------------

@@ -29,8 +29,6 @@ Hopefully the symptoms have not changed with the
 
 * number of infections
 
- 
-
 | | |
 | --- | --- |
 | 8 points | Loss of smell or taste |
@@ -38,7 +36,7 @@ Hopefully the symptoms have not changed with the
 | 4 points  | Chronic cough |
 | 3 points | Brain fog |
 | 3 points | Thirst |
-| 2 points |  Heart palpitations:  |
+| 2 points | Heart palpitations:  |
 | 2 points | Chest pain |
 | 1 point | Fatigue |
 | 1 point | Dizziness |
@@ -78,8 +76,6 @@ Hopefully the symptoms have not changed with the
 
 * number of infections
 
- 
-
 | | |
 | --- | --- |
 | 8 points | Loss of smell or taste |
@@ -87,7 +83,7 @@ Hopefully the symptoms have not changed with the
 | 4 points  | Chronic cough |
 | 3 points | Brain fog |
 | 3 points | Thirst |
-| 2 points |  Heart palpitations:  |
+| 2 points | Heart palpitations:  |
 | 2 points | Chest pain |
 | 1 point | Fatigue |
 | 1 point | Dizziness |
@@ -195,8 +191,8 @@ AST Structure:
 │   │   size: 20
 │   children:
 │   ├── TextNode
-│   │   full_match: ` \n`
-│   │   inner_content: ` \n`
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
 │   ├── TableNode
 │   │   full_match: `||8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)||`
 │   │   inner_content: `8 points|Loss of smell or taste\n7 points |Post-exertional malaise\n4 points |Chronic cough\n3 points|Brain fog\n3 points|Thirst\n2 points| Heart palpitations: \n2 points|Chest pain\n1 point|Fatigue\n1 point|Dizziness\n1 point|Gastrointestinal symptoms\n1 point|Issues with sexual desire or capacity\n1 point|Abnormal movements (including tremors, %%%slowed movements, rigidity, or %%%sudden, unintended and uncontrollable jerky movements)`
@@ -307,8 +303,8 @@ AST Structure:
 │   │   │   │   inner_content: ` Heart palpitations: `
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` Heart palpitations: `
-│   │   │   │   │   inner_content: ` Heart palpitations: `
+│   │   │   │   │   full_match: `Heart palpitations: `
+│   │   │   │   │   inner_content: `Heart palpitations: `
 │   │   ├── TableRowNode
 │   │   │   full_match: `2 points|Chest pain`
 │   │   │   inner_content: `2 points|Chest pain`
@@ -464,8 +460,8 @@ AST Structure:
 │   inner_content: ` (alias(You have long-COVID if you have more than 12 points - May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(You have long-COVID if you have more than 12 points - May 2023)) `
-│   │   inner_content: ` (alias(You have long-COVID if you have more than 12 points - May 2023)) `
+│   │   full_match: `(alias(You have long-COVID if you have more than 12 points - May 2023)) `
+│   │   inner_content: `(alias(You have long-COVID if you have more than 12 points - May 2023)) `
 
 Original Tiki:
 -------------

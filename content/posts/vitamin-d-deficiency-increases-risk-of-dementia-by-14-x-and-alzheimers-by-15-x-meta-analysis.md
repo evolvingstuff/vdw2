@@ -19,7 +19,7 @@ categories:
 
 Journal: Journal of Alzheimer's Disease,  March 2024 DOI: 10.3233/JAD-231381
 
- Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *
+Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -29,7 +29,7 @@ Background: Emerging evidence suggests the potential relationship between vitami
 
 Methods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.
 
- Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). 
+Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). 
 
 * Vitamin D deficiency exhibited a  **1.42**  times risk for dementia (95% confidence interval (CI) = 1.21–1.65) and a 
 
@@ -55,27 +55,27 @@ Conclusions: Vitamin D deficiency was a risk factor for dementia, AD, and cognit
 
 Which as of March 2024 contained
 
-                Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023
+Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023
 
-                57+ Vitamin D pages containing "Dementia" in title
+57+ Vitamin D pages containing "Dementia" in title
 
-                VitaminDWiki - Overview Alzheimer's-Cognition and Vitamin D
+VitaminDWiki - Overview Alzheimer's-Cognition and Vitamin D
 
-                Dementia 1.8X more likely if low Vitamin D - April 2022
+Dementia 1.8X more likely if low Vitamin D - April 2022
 
-                Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017
+Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017
 
-                Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018
+Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018
 
-                VITAMIN D AND DEMENTIA - 2016
+VITAMIN D AND DEMENTIA - 2016
 
-                How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D
+How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D
 
-                Dementia is also associated with Magnesium
+Dementia is also associated with Magnesium
 
-                Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023
+Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023
 
-                32,000 hits for the search: dementia (latitude OR sunshine)
+32,000 hits for the search: dementia (latitude OR sunshine)
 
 ---
 
@@ -98,7 +98,7 @@ Markdown:
 
 Journal: Journal of Alzheimer&#39;s Disease,  March 2024 DOI: 10.3233/JAD-231381
 
- Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *
+Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -108,7 +108,7 @@ Background: Emerging evidence suggests the potential relationship between vitami
 
 Methods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.
 
- Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). 
+Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). 
 
 * Vitamin D deficiency exhibited a  **1.42**  times risk for dementia (95% confidence interval (CI) = 1.21–1.65) and a 
 
@@ -134,27 +134,27 @@ Conclusions: Vitamin D deficiency was a risk factor for dementia, AD, and cognit
 
 Which as of March 2024 contained
 
-                Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023
+Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023
 
-                57+ Vitamin D pages containing &quot;Dementia&quot; in title
+57+ Vitamin D pages containing &quot;Dementia&quot; in title
 
-                VitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D
+VitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D
 
-                Dementia 1.8X more likely if low Vitamin D - April 2022
+Dementia 1.8X more likely if low Vitamin D - April 2022
 
-                Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017
+Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017
 
-                Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018
+Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018
 
-                VITAMIN D AND DEMENTIA - 2016
+VITAMIN D AND DEMENTIA - 2016
 
-                How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D
+How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D
 
-                Dementia is also associated with Magnesium
+Dementia is also associated with Magnesium
 
-                Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023
+Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023
 
-                32,000 hits for the search: dementia (latitude OR sunshine)
+32,000 hits for the search: dementia (latitude OR sunshine)
 
 ---
 
@@ -188,8 +188,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Association of Vitamin D Levels with Risk of Cognitive Impairment and Dementia: A Systematic Review and Meta-Analysis of Prospective Studies`
 │   │   inner_content: `Association of Vitamin D Levels with Risk of Cognitive Impairment and Dementia: A Systematic Review and Meta-Analysis of Prospective Studies`├── TextNode
-│   full_match: `\nJournal: Journal of Alzheimer&#39;s Disease,  March 2024 DOI: 10.3233/JAD-231381\n Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *\n\n`
-│   inner_content: `\nJournal: Journal of Alzheimer&#39;s Disease,  March 2024 DOI: 10.3233/JAD-231381\n Zhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *\n\n`├── ImgNode
+│   full_match: `\nJournal: Journal of Alzheimer&#39;s Disease,  March 2024 DOI: 10.3233/JAD-231381\nZhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *\n\n`
+│   inner_content: `\nJournal: Journal of Alzheimer&#39;s Disease,  March 2024 DOI: 10.3233/JAD-231381\nZhang, Xiao-Xuea; b | Wang, He-Ranb | Hu, Ya-Zhuob | Sun, Hong-Meia; b | Feng, Yu-Xina; b | Jia, Jian-Juna; b; *\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20943&quot; width=&quot;700&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -206,8 +206,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 20944
 │   │   width: 700├── TextNode
-│   full_match: `\nBackground: Emerging evidence suggests the potential relationship between vitamin D deficiency and risk of cognitive impairment or dementia. To what extent the excess risk of dementia conferred by vitamin D deficiency is less clear. Objective: We summarized the current evidence from several aspects and further quantified these associations. \n\nMethods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.\n\n Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). \n`
-│   inner_content: `\nBackground: Emerging evidence suggests the potential relationship between vitamin D deficiency and risk of cognitive impairment or dementia. To what extent the excess risk of dementia conferred by vitamin D deficiency is less clear. Objective: We summarized the current evidence from several aspects and further quantified these associations. \n\nMethods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.\n\n Results: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). \n`├── ListItemNode
+│   full_match: `\nBackground: Emerging evidence suggests the potential relationship between vitamin D deficiency and risk of cognitive impairment or dementia. To what extent the excess risk of dementia conferred by vitamin D deficiency is less clear. Objective: We summarized the current evidence from several aspects and further quantified these associations. \n\nMethods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.\n\nResults: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). \n`
+│   inner_content: `\nBackground: Emerging evidence suggests the potential relationship between vitamin D deficiency and risk of cognitive impairment or dementia. To what extent the excess risk of dementia conferred by vitamin D deficiency is less clear. Objective: We summarized the current evidence from several aspects and further quantified these associations. \n\nMethods: We collected relevant prospective cohort studies by searching PubMed, Embase and Cochrane up to July 2023. The pooled relative risks (RR) were evaluated by random-effects models. Dose-response analyses were conducted by the method of two-stage generalized least squares regression.\n\nResults: Of 9,267 identified literatures, 23 were eligible for inclusion in the meta-analyses, among which 9 and 4 literatures were included in the dose-response analyses for the risk of dementia and Alzheimer’s disease (AD). \n`├── ListItemNode
 │   full_match: `*Vitamin D deficiency exhibited a __1.42__ times risk for dementia (95% confidence interval (CI) = 1.21–1.65) and a `
 │   inner_content: `Vitamin D deficiency exhibited a __1.42__ times risk for dementia (95% confidence interval (CI) = 1.21–1.65) and a `
 │   depth: `1`
@@ -357,8 +357,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Dementia is associated with low vitamin D - many studies`
 │   │   │   inner_content: `Dementia is associated with low vitamin D - many studies`├── TextNode
-│   full_match: `\nWhich as of March 2024 contained\n                Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023\n                57+ Vitamin D pages containing &quot;Dementia&quot; in title\n                VitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D\n                Dementia 1.8X more likely if low Vitamin D - April 2022\n                Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017\n                Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018\n                VITAMIN D AND DEMENTIA - 2016\n                How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D\n                Dementia is also associated with Magnesium\n                Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023\n                32,000 hits for the search: dementia (latitude OR sunshine)`
-│   inner_content: `\nWhich as of March 2024 contained\n                Vitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023\n                57+ Vitamin D pages containing &quot;Dementia&quot; in title\n                VitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D\n                Dementia 1.8X more likely if low Vitamin D - April 2022\n                Vitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017\n                Quality assessment of systematic reviews of vitamin D, cognition and dementia - 2018\n                VITAMIN D AND DEMENTIA - 2016\n                How to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D\n                Dementia is also associated with Magnesium\n                Dementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023\n                32,000 hits for the search: dementia (latitude OR sunshine)`├── HorizontalRuleNode
+│   full_match: `\nWhich as of March 2024 contained\nVitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023\n57+ Vitamin D pages containing &quot;Dementia&quot; in title\nVitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D\nDementia 1.8X more likely if low Vitamin D - April 2022\nVitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017\nQuality assessment of systematic reviews of vitamin D, cognition and dementia - 2018\nVITAMIN D AND DEMENTIA - 2016\nHow to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D\nDementia is also associated with Magnesium\nDementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023\n32,000 hits for the search: dementia (latitude OR sunshine)`
+│   inner_content: `\nWhich as of March 2024 contained\nVitamin D reduced Dementia in VA by 40% - Dr. Campbell March 2023\n57+ Vitamin D pages containing &quot;Dementia&quot; in title\nVitaminDWiki - Overview Alzheimer&#39;s-Cognition and Vitamin D\nDementia 1.8X more likely if low Vitamin D - April 2022\nVitamin D deficiency as a risk factor for dementia: a systematic review and meta-analysis - 2017\nQuality assessment of systematic reviews of vitamin D, cognition and dementia - 2018\nVITAMIN D AND DEMENTIA - 2016\nHow to Communicate With People Suffering From Dementia - April 2022 - nothing about Vitamin D\nDementia is also associated with Magnesium\nDementia risk increased 1.5X to 1.9X: depends on type of laxative used - Feb 2023\n32,000 hits for the search: dementia (latitude OR sunshine)`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Grassrootshealth report and chart on the study March 2024`

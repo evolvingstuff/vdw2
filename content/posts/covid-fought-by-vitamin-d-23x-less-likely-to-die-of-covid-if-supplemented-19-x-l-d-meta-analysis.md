@@ -128,8 +128,8 @@ AST Structure:
 │   inner_content: ` Six hundred and seven`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Six hundred and seven`
-│   │   inner_content: ` Six hundred and seven`├── TextNode
+│   │   full_match: `Six hundred and seven`
+│   │   inner_content: `Six hundred and seven`├── TextNode
 │   full_match: ` studies were retrieved, and four hundred and three remained after duplication removal; of them eighty-three full texts were screened, and of them, only sixteen (prospective, randomized controlled trials, and retrospective studies) were included in the final meta-analysis.\n\n\nResults: `
 │   inner_content: ` studies were retrieved, and four hundred and three remained after duplication removal; of them eighty-three full texts were screened, and of them, only sixteen (prospective, randomized controlled trials, and retrospective studies) were included in the final meta-analysis.\n\n\nResults: `├── BoldNode
 │   full_match: `__Sixteen observational studies__`

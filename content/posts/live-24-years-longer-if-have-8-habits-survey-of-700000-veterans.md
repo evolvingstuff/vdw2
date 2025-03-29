@@ -320,24 +320,24 @@ AST Structure:
 │   inner_content: ` (alias(Live 24 years longer if have 5 habits (curvey of 700,000 veterans) - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Live 24 years longer if have 5 habits (curvey of 700,000 veterans) - Oct 2023)) `
-│   │   inner_content: ` (alias(Live 24 years longer if have 5 habits (curvey of 700,000 veterans) - Oct 2023)) `├── TextNode
+│   │   full_match: `(alias(Live 24 years longer if have 5 habits (curvey of 700,000 veterans) - Oct 2023)) `
+│   │   inner_content: `(alias(Live 24 years longer if have 5 habits (curvey of 700,000 veterans) - Oct 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) ~/tc~`
 │   inner_content: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) `
-│   │   inner_content: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) `├── TextNode
+│   │   full_match: `(alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) `
+│   │   inner_content: `(alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - Oct 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) ~/tc~`
 │   inner_content: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) `
-│   │   inner_content: ` (alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) `
+│   │   full_match: `(alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) `
+│   │   inner_content: `(alias(Live 24 years longer if have 5 habits (survey of 700,000 veterans) - July 2023)) `
 
 Original Tiki:
 -------------

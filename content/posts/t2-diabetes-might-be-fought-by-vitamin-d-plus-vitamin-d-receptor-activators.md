@@ -29,7 +29,7 @@ Jie Wu 1 , Annette Atkins 2, Michael Downes * and Zong Wei 1,3,*
 
 1. Division of Endocrinology, Mayo Clinic Arizona, Scottsdale, AZ 85259, USA 
 
- * Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)
+* Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -120,7 +120,7 @@ Jie Wu 1 , Annette Atkins 2, Michael Downes * and Zong Wei 1,3,*
 
 1. Division of Endocrinology, Mayo Clinic Arizona, Scottsdale, AZ 85259, USA 
 
- * Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)
+* Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -242,8 +242,17 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Division of Endocrinology, Mayo Clinic Arizona, Scottsdale, AZ 85259, USA `
 │   │   inner_content: `Division of Endocrinology, Mayo Clinic Arizona, Scottsdale, AZ 85259, USA `├── TextNode
-│   full_match: `\n * Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)\n\n`
-│   inner_content: `\n * Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)\n\n`├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)`
+│   inner_content: ` Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)`
+│   │   inner_content: `Correspondence: downes@salk.edu (M.D.); wei.zong@mayo.edu (Z.W.)`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19518&quot; width=&quot;800&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -692,8 +701,8 @@ AST Structure:
 │   inner_content: ` (alias(Diabetes might be fought by Vitamin D plus Vitamin D Receptor activators – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Diabetes might be fought by Vitamin D plus Vitamin D Receptor activators – April 2023)) `
-│   │   inner_content: ` (alias(Diabetes might be fought by Vitamin D plus Vitamin D Receptor activators – April 2023)) `
+│   │   full_match: `(alias(Diabetes might be fought by Vitamin D plus Vitamin D Receptor activators – April 2023)) `
+│   │   inner_content: `(alias(Diabetes might be fought by Vitamin D plus Vitamin D Receptor activators – April 2023)) `
 
 Original Tiki:
 -------------

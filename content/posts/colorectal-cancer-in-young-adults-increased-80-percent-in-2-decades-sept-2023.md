@@ -246,16 +246,16 @@ AST Structure:
 │   inner_content: ` (alias(Colorectal cancer in yiund adults increaed 80% in 2 decades - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Colorectal cancer in yiund adults increaed 80% in 2 decades - Oct 2023)) `
-│   │   inner_content: ` (alias(Colorectal cancer in yiund adults increaed 80% in 2 decades - Oct 2023)) `├── TextNode
+│   │   full_match: `(alias(Colorectal cancer in yiund adults increaed 80% in 2 decades - Oct 2023)) `
+│   │   inner_content: `(alias(Colorectal cancer in yiund adults increaed 80% in 2 decades - Oct 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) ~/tc~`
 │   inner_content: ` (alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) `
-│   │   inner_content: ` (alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) `
+│   │   full_match: `(alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) `
+│   │   inner_content: `(alias(Colorectal cancer in young adults increased 80% in 2 decades - Oct 2023)) `
 
 Original Tiki:
 -------------

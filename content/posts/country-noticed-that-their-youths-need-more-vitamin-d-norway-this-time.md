@@ -524,8 +524,8 @@ AST Structure:
 │   inner_content: ` (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) `
-│   │   inner_content: ` (alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) `
+│   │   full_match: `(alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) `
+│   │   inner_content: `(alias(Country noticed that their children need Vitamin D supplementation (Norway this time) – Feb 2024)) `
 
 Original Tiki:
 -------------

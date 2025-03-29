@@ -262,8 +262,8 @@ AST Structure:
 │   inner_content: ` (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) `
-│   │   inner_content: ` (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) `
+│   │   full_match: `(alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) `
+│   │   inner_content: `(alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) `
 
 Original Tiki:
 -------------

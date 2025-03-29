@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>More depression if less vitamin D getting to cells (poor VDR)</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743272143">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743272143">
+    <link rel="stylesheet" href="/css/main.css?v=1743273642">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743273642">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743272143"></script>
+    <script src="/js/search.js?v=1743273642"></script>
 </head>
 <body>
     <div class="container">
@@ -346,8 +346,6 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- 
-
 #### VitaminDWiki -  
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
        studies in both categories Vitamin D Receptor and Depression
@@ -429,9 +427,9 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Download the PDF from VitaminDWiki `
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
 │   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 48  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Vitamin D Receptor and Depression`
 │   level: `4`
 │   children:
@@ -601,7 +599,7 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743272143"></script>
+    <script src="/js/lightspa.js?v=1743273642"></script>
     <script>
         
         const spa = new LightSPA({
@@ -611,8 +609,8 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743272143',
-            indexUrl: '\/search\/search_index.json.gz?v=1743272143'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743273642',
+            indexUrl: '\/search\/search_index.json.gz?v=1743273642'
         });
     </script>
 </body>

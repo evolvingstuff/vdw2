@@ -43,7 +43,7 @@ Participants with vitamin D deficiency (n = 78) had similar NPI-R score (17.
 
 * higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)
 
- than those without vitamin D deficiency (n = 194). 
+than those without vitamin D deficiency (n = 194). 
 
 In multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).
 
@@ -112,7 +112,7 @@ Participants with vitamin D deficiency (n = 78) had similar NPI-R score (17.
 
 * higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)
 
- than those without vitamin D deficiency (n = 194). 
+than those without vitamin D deficiency (n = 194). 
 
 In multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).
 
@@ -202,8 +202,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)`
 │   │   inner_content: `higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)`├── TextNode
-│   full_match: `\n than those without vitamin D deficiency (n = 194). \nIn multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).\n\nConclusion\nVitamin D deficiency was associated with more severe subscores of agitation and aggressiveness and of disinhibition among older adults. This provides a scientific basis to test the efficacy of vitamin D supplementation on behavioral disorders in older patients with vitamin D deficiency.\n`
-│   inner_content: `\n than those without vitamin D deficiency (n = 194). \nIn multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).\n\nConclusion\nVitamin D deficiency was associated with more severe subscores of agitation and aggressiveness and of disinhibition among older adults. This provides a scientific basis to test the efficacy of vitamin D supplementation on behavioral disorders in older patients with vitamin D deficiency.\n`├── FontNode
+│   full_match: `\nthan those without vitamin D deficiency (n = 194). \nIn multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).\n\nConclusion\nVitamin D deficiency was associated with more severe subscores of agitation and aggressiveness and of disinhibition among older adults. This provides a scientific basis to test the efficacy of vitamin D supplementation on behavioral disorders in older patients with vitamin D deficiency.\n`
+│   inner_content: `\nthan those without vitamin D deficiency (n = 194). \nIn multiple linear regressions, vitamin D deficiency was inversely associated with the subscore of agitation and aggressiveness (β = 1.37, p = 0.005) and with the subscore of disinhibition (β = 0.96, p = 0.008).\n\nConclusion\nVitamin D deficiency was associated with more severe subscores of agitation and aggressiveness and of disinhibition among older adults. This provides a scientific basis to test the efficacy of vitamin D supplementation on behavioral disorders in older patients with vitamin D deficiency.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20945&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20945&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:

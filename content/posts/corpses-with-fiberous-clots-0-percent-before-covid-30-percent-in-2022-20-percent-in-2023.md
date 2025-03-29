@@ -203,8 +203,8 @@ AST Structure:
 │   inner_content: ` (alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) `
-│   │   inner_content: ` (alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) `
+│   │   full_match: `(alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) `
+│   │   inner_content: `(alias(Embalmers finding fiberous clots: 0% before COVID,  30% in 2022, 20% in 2023)) `
 
 Original Tiki:
 -------------

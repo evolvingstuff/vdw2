@@ -17,7 +17,7 @@ categories:
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
-##### Top 10 chronic conditions (before COVID and Long-COVID)
+##### Top 10 chronic conditions(before COVID and Long-COVID)
 
 1. arthritis, 
 
@@ -61,7 +61,7 @@ Markdown:
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
-##### Top 10 chronic conditions (before COVID and Long-COVID)
+##### Top 10 chronic conditions(before COVID and Long-COVID)
 
 1. arthritis, 
 
@@ -155,8 +155,8 @@ AST Structure:
 │   │   inner_content: ` (before COVID and Long-COVID)`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` (before COVID and Long-COVID)`
-│   │   │   inner_content: ` (before COVID and Long-COVID)`├── TextNode
+│   │   │   full_match: `(before COVID and Long-COVID)`
+│   │   │   inner_content: `(before COVID and Long-COVID)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#arthritis, `
@@ -292,16 +292,16 @@ AST Structure:
 │   inner_content: ` (alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) `
-│   │   inner_content: ` (alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) `├── TextNode
+│   │   full_match: `(alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) `
+│   │   inner_content: `(alias(Chronic Health Condition:  27% of Americans have more than 1 - CDC 2018)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) ~/tc~`
 │   inner_content: ` (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) `
-│   │   inner_content: ` (alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) `
+│   │   full_match: `(alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) `
+│   │   inner_content: `(alias(Chronic Health Conditions:  27% of Americans have more than 1 of the top 10 - CDC 2018)) `
 
 Original Tiki:
 -------------

@@ -750,8 +750,8 @@ AST Structure:
 │   inner_content: ` PDF costs $10`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` PDF costs $10`
-│   │   inner_content: ` PDF costs $10`├── TextNode
+│   │   full_match: `PDF costs $10`
+│   │   inner_content: `PDF costs $10`├── TextNode
 │   full_match: `\nRadomir M. Slominski , Jake Y. Chen,  Chander Raman, and Andrzej T. Slominski, aslominski@uabmc.edu\n\n`
 │   inner_content: `\nRadomir M. Slominski , Jake Y. Chen,  Chander Raman, and Andrzej T. Slominski, aslominski@uabmc.edu\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20970&quot; width=&quot;250&quot;}`
@@ -913,8 +913,8 @@ AST Structure:
 │   │   inner_content: ` FREE PDF`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` FREE PDF`
-│   │   │   inner_content: ` FREE PDF`├── TextNode
+│   │   │   full_match: `FREE PDF`
+│   │   │   inner_content: `FREE PDF`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#A. R. Young, Chromophores in human skin. Phys. Med. Biol. 42, 789 (1997).`

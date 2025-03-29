@@ -121,8 +121,8 @@ AST Structure:
 │   inner_content: ` start `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` start `
-│   │   inner_content: ` start `├── TextNode
+│   │   full_match: `start `
+│   │   inner_content: `start `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__This quickly posted page has minimal formatting, links, etc.__`
@@ -147,8 +147,8 @@ AST Structure:
 │   │   inner_content: ` end`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` end`
-│   │   │   inner_content: ` end`
+│   │   │   full_match: `end`
+│   │   │   inner_content: `end`
 │   ├── TextNode
 │   │   full_match: `\nFertil Steril . 2023 Dec 23:S0015-0282(23)02094-0. `
 │   │   inner_content: `\nFertil Steril . 2023 Dec 23:S0015-0282(23)02094-0. `
@@ -254,16 +254,16 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
-│   │   inner_content: ` (alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `
+│   │   inner_content: `(alias(Vitamin D improves Infertility in 9 ways (50 references, no PDF) – May 2023)) `├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(More fertile associated with higher vitamin D - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(More fertile associated with higher vitamin D - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(More fertile associated with higher vitamin D - Dec 2023)) `
-│   │   inner_content: ` (alias(More fertile associated with higher vitamin D - Dec 2023)) `
+│   │   full_match: `(alias(More fertile associated with higher vitamin D - Dec 2023)) `
+│   │   inner_content: `(alias(More fertile associated with higher vitamin D - Dec 2023)) `
 
 Original Tiki:
 -------------

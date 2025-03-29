@@ -42,7 +42,7 @@ categories:
 
 * ([23:09](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=1389s)) The effect of stress on magnesium balance 
 
-  *  See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
+  * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
 
 * ([26:53](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=1613s)) Why the energy demands of workouts affect magnesium balance 
 
@@ -62,7 +62,7 @@ categories:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2410s)) Magnesium's potential for managing migraines 
 
-  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2599s)) The role of magnesium in aging 
 
@@ -70,7 +70,7 @@ categories:
 
 * ([45:51](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2751s)) Magnesium's role in cancer prevention 
 
-  *  See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
+  * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
 
 * ([47:52](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2872s)) Why magnesium is intertwined in genomic stability 
 
@@ -102,7 +102,7 @@ categories:
 
 #### VitaminDWiki - <a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a> chart
 
-	<img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 ---
 
@@ -149,7 +149,7 @@ Markdown:
 
 * ([23:09](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=1389s)) The effect of stress on magnesium balance 
 
-  *  See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
+  * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
 
 * ([26:53](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=1613s)) Why the energy demands of workouts affect magnesium balance 
 
@@ -169,7 +169,7 @@ Markdown:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2410s)) Magnesium&#39;s potential for managing migraines 
 
-  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2599s)) The role of magnesium in aging 
 
@@ -177,7 +177,7 @@ Markdown:
 
 * ([45:51](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2751s)) Magnesium&#39;s role in cancer prevention 
 
-  *  See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
+  * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
 
 * ([47:52](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2872s)) Why magnesium is intertwined in genomic stability 
 
@@ -209,7 +209,7 @@ Markdown:
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt; chart
 
-	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 ---
 
@@ -500,8 +500,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` See also `
-│   │   inner_content: ` See also `
+│   │   full_match: `See also `
+│   │   inner_content: `See also `
 │   ├── LocalLinkNode
 │   │   full_match: `((Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020))`
 │   │   inner_content: `Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020`
@@ -686,8 +686,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` See also `
-│   │   inner_content: ` See also `
+│   │   full_match: `See also `
+│   │   inner_content: `See also `
 │   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
 │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
@@ -763,8 +763,8 @@ AST Structure:
 │   depth: `2`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` See also `
-│   │   inner_content: ` See also `
+│   │   full_match: `See also `
+│   │   inner_content: `See also `
 │   ├── LocalLinkNode
 │   │   full_match: `((Mangesium and Cancer - many studies))`
 │   │   inner_content: `Mangesium and Cancer - many studies`
@@ -1020,8 +1020,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` chart`
 │   │   inner_content: ` chart`├── TextNode
-│   full_match: `\n\t`
-│   inner_content: `\n\t`├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img fileId=3149}`
 │   inner_content: ``
 │   attrs_dict:

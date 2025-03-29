@@ -486,8 +486,8 @@ AST Structure:
 │   inner_content: ` (alias(Child Obesity and Vitamin D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Child Obesity and Vitamin D)) `
-│   │   inner_content: ` (alias(Child Obesity and Vitamin D)) `
+│   │   full_match: `(alias(Child Obesity and Vitamin D)) `
+│   │   inner_content: `(alias(Child Obesity and Vitamin D)) `
 
 Original Tiki:
 -------------

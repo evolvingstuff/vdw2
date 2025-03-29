@@ -55,7 +55,7 @@ ADDED VALUE OF THIS STUDY: This is the first RCT to investigate effects of vitam
 
 IMPLICATIONS OF ALL THE AVAILABLE EVIDENCE: Taken together with null findings from another recently-completed phase 3 RCT of weekly oral vitamin D supplementation conducted in South African schoolchildren, our findings do not support a role for vitamin D supplementation to reduce fracture risk or increase BMD in primary schoolchildren.
 
- **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF](/attachments/d3.mock.pdf)**  &nbsp;   **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i> Preprint ](/attachments/d3.mock.pdf)** 
+ **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF](/attachments/d3.mock.pdf)**  &nbsp;   **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Preprint ](/attachments/d3.mock.pdf)** 
 
 ---
 
@@ -107,7 +107,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14476{SQL} -->
 </span> visits to this page
 
@@ -159,7 +159,7 @@ ADDED VALUE OF THIS STUDY: This is the first RCT to investigate effects of vitam
 
 IMPLICATIONS OF ALL THE AVAILABLE EVIDENCE: Taken together with null findings from another recently-completed phase 3 RCT of weekly oral vitamin D supplementation conducted in South African schoolchildren, our findings do not support a role for vitamin D supplementation to reduce fracture risk or increase BMD in primary schoolchildren.
 
- **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF](/attachments/d3.mock.pdf)**  &amp;nbsp;   **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt; Preprint ](/attachments/d3.mock.pdf)** 
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF](/attachments/d3.mock.pdf)**  &amp;nbsp;   **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Preprint ](/attachments/d3.mock.pdf)** 
 
 ---
 
@@ -211,7 +211,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14476{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -363,8 +363,8 @@ AST Structure:
 │   │   │   │   icon: 1
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Preprint `
-│   │   │   │   inner_content: ` Preprint `├── HorizontalRuleNode
+│   │   │   │   full_match: `Preprint `
+│   │   │   │   inner_content: `Preprint `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!See also in VitaminDWiki `
@@ -682,9 +682,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14476{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14476`
@@ -700,8 +697,8 @@ AST Structure:
 │   inner_content: ` (alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) `
-│   │   inner_content: ` (alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) `
+│   │   full_match: `(alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) `
+│   │   inner_content: `(alias(Bone fractures of children not reduced if given little vitamin D, no Calcium  etc. – RCT May 2023)) `
 
 Original Tiki:
 -------------

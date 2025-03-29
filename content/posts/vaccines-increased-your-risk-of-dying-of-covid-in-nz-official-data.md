@@ -252,8 +252,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID vaccines increased your risk of dying in NZ - official data - Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID vaccines increased your risk of dying in NZ - official data - Feb 2024)) `
-│   │   inner_content: ` (alias(COVID vaccines increased your risk of dying in NZ - official data - Feb 2024)) `
+│   │   full_match: `(alias(COVID vaccines increased your risk of dying in NZ - official data - Feb 2024)) `
+│   │   inner_content: `(alias(COVID vaccines increased your risk of dying in NZ - official data - Feb 2024)) `
 
 Original Tiki:
 -------------

@@ -42,7 +42,7 @@ Compelling evidence indicates that Epstein Barr virus (EBV) infection is a prere
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14602{SQL} -->
 </span> visits to this page
 
@@ -86,7 +86,7 @@ Compelling evidence indicates that Epstein Barr virus (EBV) infection is a prere
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14602{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -229,9 +229,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14602{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14602`
@@ -247,16 +244,16 @@ AST Structure:
 │   inner_content: ` (alias(EBV)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(EBV)) `
-│   │   inner_content: ` (alias(EBV)) `├── TextNode
+│   │   full_match: `(alias(EBV)) `
+│   │   inner_content: `(alias(EBV)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) ~/tc~`
 │   inner_content: ` (alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) `
-│   │   inner_content: ` (alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) `
+│   │   full_match: `(alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) `
+│   │   inner_content: `(alias(Epstein-Barr Virus may be a prerequiste for Multiple Sclerosis - July 2023)) `
 
 Original Tiki:
 -------------

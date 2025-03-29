@@ -343,16 +343,16 @@ AST Structure:
 │   inner_content: ` (alias(Alzheimer&#39;s)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alzheimer&#39;s)) `
-│   │   inner_content: ` (alias(Alzheimer&#39;s)) `├── TextNode
+│   │   full_match: `(alias(Alzheimer&#39;s)) `
+│   │   inner_content: `(alias(Alzheimer&#39;s)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) ~/tc~`
 │   inner_content: ` (alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) `
-│   │   inner_content: ` (alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) `
+│   │   full_match: `(alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) `
+│   │   inner_content: `(alias(Seniors taking vitamin D were 40% less likely to get dementia - jan 2023)) `
 
 Original Tiki:
 -------------

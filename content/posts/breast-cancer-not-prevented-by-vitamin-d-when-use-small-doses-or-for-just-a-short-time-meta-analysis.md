@@ -106,9 +106,6 @@ AST Structure:
 │   │   full_match: `__ ~~#00F:The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?~~__`
 │   │   inner_content: ` ~~#00F:The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?~~`
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── ColorNode
 │   │   │   full_match: `~~#00F:The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?~~`
 │   │   │   inner_content: `The study looked at &gt;2,000 studies. %%%Wonder how much they were paid to find the 10 studies that did not find a benefit?`

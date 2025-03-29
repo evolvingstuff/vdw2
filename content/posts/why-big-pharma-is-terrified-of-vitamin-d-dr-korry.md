@@ -85,7 +85,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [ (left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
+#### Health Problems and D [(left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
 
 ---
 
@@ -174,7 +174,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 ---
 
-#### Health Problems and D [ (left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
+#### Health Problems and D [(left hand column of every page)](https://vitamindwiki.com/tiki-index.php?page_id=3381)
 
 ---
 
@@ -470,8 +470,8 @@ AST Structure:
 │   │   url: `https://vitamindwiki.com/tiki-index.php?page_id=3381`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` (left hand column of every page)`
-│   │   │   inner_content: ` (left hand column of every page)`├── HorizontalRuleNode
+│   │   │   full_match: `(left hand column of every page)`
+│   │   │   inner_content: `(left hand column of every page)`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Cancer)) category contains:`

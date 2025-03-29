@@ -60,9 +60,9 @@ However, spontaneous resolution can be time-consuming and may take months to res
 
 #### Example pregnancy mask images
 
- <img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
- <img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
 <!-- ~tc~ (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) ~/tc~ -->
 
@@ -120,9 +120,9 @@ However, spontaneous resolution can be time-consuming and may take months to res
 
 #### Example pregnancy mask images
 
- &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
 
- &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
 
 &lt;!-- ~tc~ (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) ~/tc~ --&gt;
 
@@ -282,8 +282,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Example pregnancy mask images`
 │   │   inner_content: `Example pregnancy mask images`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20714&quot; width=&quot;300&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -291,8 +291,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 20714
 │   │   width: 300├── TextNode
-│   full_match: `\n\n `
-│   inner_content: `\n\n `├── ImgNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20715&quot; width=&quot;300&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -306,8 +306,8 @@ AST Structure:
 │   inner_content: ` (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) `
-│   │   inner_content: ` (alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) `
+│   │   full_match: `(alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) `
+│   │   inner_content: `(alias(Wounds and pregnancy mask treated by topical Vitamin D - Jan 2024)) `
 
 Original Tiki:
 -------------

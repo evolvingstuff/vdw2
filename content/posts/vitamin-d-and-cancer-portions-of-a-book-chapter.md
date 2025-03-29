@@ -980,8 +980,8 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D and Cancer (book chapter) - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D and Cancer (book chapter) - Jan 2024)) `
-│   │   inner_content: ` (alias(Vitamin D and Cancer (book chapter) - Jan 2024)) `
+│   │   full_match: `(alias(Vitamin D and Cancer (book chapter) - Jan 2024)) `
+│   │   inner_content: `(alias(Vitamin D and Cancer (book chapter) - Jan 2024)) `
 
 Original Tiki:
 -------------

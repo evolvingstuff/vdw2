@@ -38,7 +38,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 #### 4 Other pesticide and Vitamin D studies in VitaminDWiki
 
-*  <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+* <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
 
 * <a href="/posts/ddt-38-x-more-prevalent-with-alzheimer-disease-no-mention-that-ddt-decreases-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT 3.8 X more prevalent with Alzheimer disease (no mention that DDT decreases vitamin D) – Jan 2014">DDT 3.8 X more prevalent with Alzheimer disease (no mention that DDT decreases vitamin D) – Jan 2014</a>
 
@@ -70,7 +70,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14680{SQL} -->
 </span> visits to this page
 
@@ -110,7 +110,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 #### 4 Other pesticide and Vitamin D studies in VitaminDWiki
 
-*  &lt;a href=&quot;/posts/ddt-and-other-pesticides-decrease-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT and other pesticides decrease vitamin D&quot;&gt;DDT and other pesticides decrease vitamin D&lt;/a&gt;
+* &lt;a href=&quot;/posts/ddt-and-other-pesticides-decrease-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT and other pesticides decrease vitamin D&quot;&gt;DDT and other pesticides decrease vitamin D&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/ddt-38-x-more-prevalent-with-alzheimer-disease-no-mention-that-ddt-decreases-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT 3.8 X more prevalent with Alzheimer disease (no mention that DDT decreases vitamin D) – Jan 2014&quot;&gt;DDT 3.8 X more prevalent with Alzheimer disease (no mention that DDT decreases vitamin D) – Jan 2014&lt;/a&gt;
 
@@ -142,7 +142,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14680{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -228,9 +228,6 @@ AST Structure:
 │   inner_content: ` ((DDT and other pesticides decrease vitamin D))`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((DDT and other pesticides decrease vitamin D))`
 │   │   inner_content: `DDT and other pesticides decrease vitamin D`
@@ -405,9 +402,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14680{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14680`
@@ -423,16 +417,16 @@ AST Structure:
 │   inner_content: ` (alias(Pesticides 11X more likely to result in female infertility if low vitamin D – Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pesticides 11X more likely to result in female infertility if low vitamin D – Sept 2023)) `
-│   │   inner_content: ` (alias(Pesticides 11X more likely to result in female infertility if low vitamin D – Sept 2023)) `├── TextNode
+│   │   full_match: `(alias(Pesticides 11X more likely to result in female infertility if low vitamin D – Sept 2023)) `
+│   │   inner_content: `(alias(Pesticides 11X more likely to result in female infertility if low vitamin D – Sept 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) ~/tc~`
 │   inner_content: ` (alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) `
-│   │   inner_content: ` (alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) `
+│   │   full_match: `(alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) `
+│   │   inner_content: `(alias(Pesticides 8 X more likely to result in female infertility if low vitamin D – Sept 2023)) `
 
 Original Tiki:
 -------------

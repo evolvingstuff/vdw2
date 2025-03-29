@@ -437,16 +437,16 @@ AST Structure:
 │   inner_content: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `
-│   │   inner_content: ` (alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `├── TextNode
+│   │   full_match: `(alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `
+│   │   inner_content: `(alias(Severe asthama assocatied with vry low vitamin D - Oct 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) ~/tc~`
 │   inner_content: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
-│   │   inner_content: ` (alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
+│   │   full_match: `(alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
+│   │   inner_content: `(alias(Severe asthma assocatied with vry low vitamin D - Oct 2023)) `
 
 Original Tiki:
 -------------

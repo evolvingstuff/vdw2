@@ -39,7 +39,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 | | |
 | --- | --- |
 | Daily | Monthly bolus |
-| 2,000 IU |  60,000 IU |
+| 2,000 IU | 60,000 IU |
 | 194 ng | 154 ng |
 
  **<span style="color:orange;">Not mentioned: Infant age, BMI, breastfeeding or mother's supplementation</span>** 
@@ -203,7 +203,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 | | |
 | --- | --- |
 | Daily | Monthly bolus |
-| 2,000 IU |  60,000 IU |
+| 2,000 IU | 60,000 IU |
 | 194 ng | 154 ng |
 
  **&lt;span style=&quot;color:orange;&quot;&gt;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&lt;/span&gt;** 
@@ -460,8 +460,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 60,000 IU`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 60,000 IU`
-│   │   │   │   │   inner_content: ` 60,000 IU`
+│   │   │   │   │   full_match: `60,000 IU`
+│   │   │   │   │   inner_content: `60,000 IU`
 │   │   ├── TableRowNode
 │   │   │   full_match: `194 ng|154 ng`
 │   │   │   inner_content: `194 ng|154 ng`

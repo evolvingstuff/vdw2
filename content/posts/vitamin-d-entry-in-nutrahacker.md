@@ -3118,24 +3118,24 @@ AST Structure:
 │   inner_content: ` (alias(junk4)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(junk4)) `
-│   │   inner_content: ` (alias(junk4)) `├── TextNode
+│   │   full_match: `(alias(junk4)) `
+│   │   inner_content: `(alias(junk4)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D entry in Nutihacker - Feb 2014)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D entry in Nutihacker - Feb 2014)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D entry in Nutihacker - Feb 2014)) `
-│   │   inner_content: ` (alias(Vitamin D entry in Nutihacker - Feb 2014)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D entry in Nutihacker - Feb 2014)) `
+│   │   inner_content: `(alias(Vitamin D entry in Nutihacker - Feb 2014)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Vitamin D entry in Nutrahacker - Feb 2014)) ~/tc~`
 │   inner_content: ` (alias(Vitamin D entry in Nutrahacker - Feb 2014)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D entry in Nutrahacker - Feb 2014)) `
-│   │   inner_content: ` (alias(Vitamin D entry in Nutrahacker - Feb 2014)) `
+│   │   full_match: `(alias(Vitamin D entry in Nutrahacker - Feb 2014)) `
+│   │   inner_content: `(alias(Vitamin D entry in Nutrahacker - Feb 2014)) `
 
 Original Tiki:
 -------------

@@ -104,7 +104,7 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14928{SQL} -->
 </span> visits to this page
 
@@ -214,7 +214,7 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14928{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -636,9 +636,6 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14928{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14928`
@@ -654,32 +651,32 @@ J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 │   inner_content: ` (alias(Shorter lifespan amoung the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Shorter lifespan amoung the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
-│   │   inner_content: ` (alias(Shorter lifespan amoung the poor (low Vitamin D is one of the reasons) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Shorter lifespan amoung the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
+│   │   inner_content: `(alias(Shorter lifespan amoung the poor (low Vitamin D is one of the reasons) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
-│   │   inner_content: ` (alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) `
+│   │   inner_content: `(alias(Shorter lifespan among the poor (low Vitamin D is one of the reasons) - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
-│   │   inner_content: ` (alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `├── TextNode
+│   │   full_match: `(alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
+│   │   inner_content: `(alias(:ow Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) ~/tc~`
 │   inner_content: ` (alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
-│   │   inner_content: ` (alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
+│   │   full_match: `(alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
+│   │   inner_content: `(alias(Low Vitamin D is one reason for shorter lifespan amoun the poor - Dec 2023)) `
 
 Original Tiki:
 -------------

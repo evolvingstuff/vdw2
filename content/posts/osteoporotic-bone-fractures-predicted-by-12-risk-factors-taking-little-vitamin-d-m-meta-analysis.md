@@ -30,17 +30,17 @@ Our results suggested that
 
 | | |
 | --- | --- |
-| Factor |  VitaminDWiki observation |
-| age |  associated with low Vitamin D |
-| BMI |  associated with low Vitamin D |
-| senior high school and above |   |
-| parity ≥ 3 |  associated with low Vitamin D |
-| history of hypertension |  associated with low Vitamin D |
-| history of diabetes mellitus |  associated with low Vitamin D |
-| history of alcohol intake |  associated with low Vitamin D |
-| age at menarche ≥ 15 |   |
-| age at menopause  < 40 |   |
-| age at menopause  > 50 |   |
+| Factor | VitaminDWiki observation |
+| age | associated with low Vitamin D |
+| BMI | associated with low Vitamin D |
+| senior high school and above |  |
+| parity ≥ 3 | associated with low Vitamin D |
+| history of hypertension | associated with low Vitamin D |
+| history of diabetes mellitus | associated with low Vitamin D |
+| history of alcohol intake | associated with low Vitamin D |
+| age at menarche ≥ 15 |  |
+| age at menopause  < 40 |  |
+| age at menopause  > 50 |  |
 | estrogen use and  |  |
 |  **vitamin D supplements**  | People rarely supplement with enough |
 
@@ -96,17 +96,17 @@ Our results suggested that
 
 | | |
 | --- | --- |
-| Factor |  VitaminDWiki observation |
-| age |  associated with low Vitamin D |
-| BMI |  associated with low Vitamin D |
-| senior high school and above |   |
-| parity ≥ 3 |  associated with low Vitamin D |
-| history of hypertension |  associated with low Vitamin D |
-| history of diabetes mellitus |  associated with low Vitamin D |
-| history of alcohol intake |  associated with low Vitamin D |
-| age at menarche ≥ 15 |   |
-| age at menopause  &lt; 40 |   |
-| age at menopause  &gt; 50 |   |
+| Factor | VitaminDWiki observation |
+| age | associated with low Vitamin D |
+| BMI | associated with low Vitamin D |
+| senior high school and above |  |
+| parity ≥ 3 | associated with low Vitamin D |
+| history of hypertension | associated with low Vitamin D |
+| history of diabetes mellitus | associated with low Vitamin D |
+| history of alcohol intake | associated with low Vitamin D |
+| age at menarche ≥ 15 |  |
+| age at menopause  &lt; 40 |  |
+| age at menopause  &gt; 50 |  |
 | estrogen use and  |  |
 |  **vitamin D supplements**  | People rarely supplement with enough |
 
@@ -196,8 +196,8 @@ AST Structure:
 │   │   │   inner_content: ` VitaminDWiki observation`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` VitaminDWiki observation`
-│   │   │   │   inner_content: ` VitaminDWiki observation`
+│   │   │   │   full_match: `VitaminDWiki observation`
+│   │   │   │   inner_content: `VitaminDWiki observation`
 │   ├── TableRowNode
 │   │   full_match: `age| associated with low Vitamin D`
 │   │   inner_content: `age| associated with low Vitamin D`
@@ -214,8 +214,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `BMI| associated with low Vitamin D`
 │   │   inner_content: `BMI| associated with low Vitamin D`
@@ -232,8 +232,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `senior high school and above| `
 │   │   inner_content: `senior high school and above| `
@@ -248,10 +248,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   ├── TableRowNode
 │   │   full_match: `parity ≥ 3| associated with low Vitamin D`
 │   │   inner_content: `parity ≥ 3| associated with low Vitamin D`
@@ -268,8 +264,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `history of hypertension| associated with low Vitamin D`
 │   │   inner_content: `history of hypertension| associated with low Vitamin D`
@@ -286,8 +282,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `history of diabetes mellitus| associated with low Vitamin D`
 │   │   inner_content: `history of diabetes mellitus| associated with low Vitamin D`
@@ -304,8 +300,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `history of alcohol intake| associated with low Vitamin D`
 │   │   inner_content: `history of alcohol intake| associated with low Vitamin D`
@@ -322,8 +318,8 @@ AST Structure:
 │   │   │   inner_content: ` associated with low Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` associated with low Vitamin D`
-│   │   │   │   inner_content: ` associated with low Vitamin D`
+│   │   │   │   full_match: `associated with low Vitamin D`
+│   │   │   │   inner_content: `associated with low Vitamin D`
 │   ├── TableRowNode
 │   │   full_match: `age at menarche ≥ 15| `
 │   │   inner_content: `age at menarche ≥ 15| `
@@ -338,10 +334,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   ├── TableRowNode
 │   │   full_match: `age at menopause  &lt; 40| `
 │   │   inner_content: `age at menopause  &lt; 40| `
@@ -356,10 +348,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   ├── TableRowNode
 │   │   full_match: `age at menopause  &gt; 50| `
 │   │   inner_content: `age at menopause  &gt; 50| `
@@ -374,10 +362,6 @@ AST Structure:
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `
 │   ├── TableRowNode
 │   │   full_match: `estrogen use and |`
 │   │   inner_content: `estrogen use and |`

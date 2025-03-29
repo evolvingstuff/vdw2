@@ -429,16 +429,16 @@ AST Structure:
 │   inner_content: ` (alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) `
-│   │   inner_content: ` (alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) `├── TextNode
+│   │   full_match: `(alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) `
+│   │   inner_content: `(alias(Alzheimer&#39;s 40 percent less likely in those eating diets with free leafy veggies - March 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) `
-│   │   inner_content: ` (alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) `
+│   │   full_match: `(alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) `
+│   │   inner_content: `(alias(Alzheimer&#39;s 40 percent less likely if leafy veggy diet - March 2023)) `
 
 Original Tiki:
 -------------

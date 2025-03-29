@@ -162,8 +162,8 @@ AST Structure:
 │   inner_content: ` (alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) `
-│   │   inner_content: ` (alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) `
+│   │   full_match: `(alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) `
+│   │   inner_content: `(alias(Calcium  - Kale has 5X Calcium than skim milk, and is more bioavailable - Jan 2024and more)) `
 
 Original Tiki:
 -------------

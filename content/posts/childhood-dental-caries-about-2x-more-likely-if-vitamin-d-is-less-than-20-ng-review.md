@@ -197,8 +197,8 @@ AST Structure:
 │   inner_content: ` (alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) `
-│   │   inner_content: ` (alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) `
+│   │   full_match: `(alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) `
+│   │   inner_content: `(alias(Childhood Dental caries about 2X more likely if Vitamin D is less than 20 ng – review April 2024)) `
 
 Original Tiki:
 -------------

@@ -171,8 +171,8 @@ AST Structure:
 │   inner_content: ` boron could help maintain higher levels of Vitamin D by limiting the breakdown of the hormone itself`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` boron could help maintain higher levels of Vitamin D by limiting the breakdown of the hormone itself`
-│   │   inner_content: ` boron could help maintain higher levels of Vitamin D by limiting the breakdown of the hormone itself`├── TextNode
+│   │   full_match: `boron could help maintain higher levels of Vitamin D by limiting the breakdown of the hormone itself`
+│   │   inner_content: `boron could help maintain higher levels of Vitamin D by limiting the breakdown of the hormone itself`├── TextNode
 │   full_match: `. The interplay of these mechanisms underscores the multifaceted nature of boron&#39;s role in supporting Vitamin D levels, making it a valuable nutrient in combating Vitamin D deficiency.They stated: `
 │   inner_content: `. The interplay of these mechanisms underscores the multifaceted nature of boron&#39;s role in supporting Vitamin D levels, making it a valuable nutrient in combating Vitamin D deficiency.They stated: `├── EmphasisNode
 │   full_match: `&#39;&#39;Boron readily forms covalent complexes with cis-vicinal dihydroxy compounds. Thus, it is conceivable that it can form such a complex with 24,25-dihydroxyvitamin D, the end product of the reaction of 25(OH)D3 with 24-hydroxylase. This postulated complex might either act as a competitive inhibitor of the 24-hydroxylase reaction, or alternatively, perhaps could act to down-regulate expression of the enzyme. Another possibility is that boron is a direct inhibitor of the enzyme at very modest concentrations; indeed, boron can inhibit numerous enzymes …&#39;&#39;`

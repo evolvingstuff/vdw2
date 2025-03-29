@@ -51,7 +51,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14391{SQL} -->
 </span> visits to this page
 
@@ -102,7 +102,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14391{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -286,9 +286,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14391{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14391`
@@ -304,16 +301,16 @@ AST Structure:
 │   inner_content: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR de-activation) - April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR de-activation) - April 2023)) `
-│   │   inner_content: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR de-activation) - April 2023)) `├── TextNode
+│   │   full_match: `(alias(Diabetes 3X more likely if had COVID ICU (VDR de-activation) - April 2023)) `
+│   │   inner_content: `(alias(Diabetes 3X more likely if had COVID ICU (VDR de-activation) - April 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) ~/tc~`
 │   inner_content: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) `
-│   │   inner_content: ` (alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) `
+│   │   full_match: `(alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) `
+│   │   inner_content: `(alias(Diabetes 3X more likely if had COVID ICU (VDR was de-activated) - April 2023)) `
 
 Original Tiki:
 -------------

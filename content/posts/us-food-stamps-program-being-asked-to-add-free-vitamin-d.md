@@ -144,8 +144,8 @@ AST Structure:
 │   inner_content: ` (alias(US Food stamps program - request to add free Vitamin D - June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(US Food stamps program - request to add free Vitamin D - June 2023)) `
-│   │   inner_content: ` (alias(US Food stamps program - request to add free Vitamin D - June 2023)) `
+│   │   full_match: `(alias(US Food stamps program - request to add free Vitamin D - June 2023)) `
+│   │   inner_content: `(alias(US Food stamps program - request to add free Vitamin D - June 2023)) `
 
 Original Tiki:
 -------------

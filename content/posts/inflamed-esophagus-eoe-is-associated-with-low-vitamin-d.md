@@ -460,8 +460,8 @@ AST Structure:
 │   inner_content: ` (alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) `
-│   │   inner_content: ` (alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) `
+│   │   full_match: `(alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) `
+│   │   inner_content: `(alias(Inflamed Esophagus (EoE – wheat, milk, pollen, not GERD)  is associated with low Vitamin D – Jan 2024)) `
 
 Original Tiki:
 -------------

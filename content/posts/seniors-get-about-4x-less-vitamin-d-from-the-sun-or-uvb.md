@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15069{SQL} -->
 </span> visits to this page
 
@@ -150,7 +150,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15069{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -329,9 +329,6 @@ AST Structure:
 │   full_match: `__ ((Topical Vitamin D)) category contains;__`
 │   inner_content: ` ((Topical Vitamin D)) category contains;`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── LocalLinkNode
 │   │   full_match: `((Topical Vitamin D))`
 │   │   inner_content: `Topical Vitamin D`
@@ -520,9 +517,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=15069{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=15069`
@@ -538,8 +532,8 @@ AST Structure:
 │   inner_content: ` (alias(Seniors get about 4X less vitamin D from the sun)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Seniors get about 4X less vitamin D from the sun)) `
-│   │   inner_content: ` (alias(Seniors get about 4X less vitamin D from the sun)) `
+│   │   full_match: `(alias(Seniors get about 4X less vitamin D from the sun)) `
+│   │   inner_content: `(alias(Seniors get about 4X less vitamin D from the sun)) `
 
 Original Tiki:
 -------------

@@ -229,16 +229,16 @@ AST Structure:
 │   inner_content: ` (alias(13 Vitamin D genes – Sept 2021)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(13 Vitamin D genes – Sept 2021)) `
-│   │   inner_content: ` (alias(13 Vitamin D genes – Sept 2021)) `├── TextNode
+│   │   full_match: `(alias(13 Vitamin D genes – Sept 2021)) `
+│   │   inner_content: `(alias(13 Vitamin D genes – Sept 2021)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(12 Vitamin D genes – Sept 2021)) ~/tc~`
 │   inner_content: ` (alias(12 Vitamin D genes – Sept 2021)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(12 Vitamin D genes – Sept 2021)) `
-│   │   inner_content: ` (alias(12 Vitamin D genes – Sept 2021)) `
+│   │   full_match: `(alias(12 Vitamin D genes – Sept 2021)) `
+│   │   inner_content: `(alias(12 Vitamin D genes – Sept 2021)) `
 
 Original Tiki:
 -------------

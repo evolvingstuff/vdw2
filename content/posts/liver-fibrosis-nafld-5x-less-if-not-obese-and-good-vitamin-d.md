@@ -180,8 +180,8 @@ AST Structure:
 │   inner_content: ` (alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) `
-│   │   inner_content: ` (alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) `
+│   │   full_match: `(alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) `
+│   │   inner_content: `(alias(Liver Vibrosis (NAFLD) 2X less if good level of Vitamin D - Oct 2023)) `
 
 Original Tiki:
 -------------

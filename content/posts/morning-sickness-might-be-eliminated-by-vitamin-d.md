@@ -330,8 +330,8 @@ AST Structure:
 │   inner_content: ` prevalence rates are higher in women of Asian and Middle Eastern ethnicities, as high as about 10 %`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` prevalence rates are higher in women of Asian and Middle Eastern ethnicities, as high as about 10 %`
-│   │   inner_content: ` prevalence rates are higher in women of Asian and Middle Eastern ethnicities, as high as about 10 %`├── TextNode
+│   │   full_match: `prevalence rates are higher in women of Asian and Middle Eastern ethnicities, as high as about 10 %`
+│   │   inner_content: `prevalence rates are higher in women of Asian and Middle Eastern ethnicities, as high as about 10 %`├── TextNode
 │   full_match: ` in a study of a Chinese population `
 │   inner_content: ` in a study of a Chinese population `├── LinkNode
 │   full_match: `[2]`

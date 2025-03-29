@@ -228,8 +228,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID 20X lower death rate in nursing homes if had Ivermectin etc. early (Columbia) - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID 20X lower death rate in nursing homes if had Ivermectin etc. early (Columbia) - April 2024)) `
-│   │   inner_content: ` (alias(COVID 20X lower death rate in nursing homes if had Ivermectin etc. early (Columbia) - April 2024)) `
+│   │   full_match: `(alias(COVID 20X lower death rate in nursing homes if had Ivermectin etc. early (Columbia) - April 2024)) `
+│   │   inner_content: `(alias(COVID 20X lower death rate in nursing homes if had Ivermectin etc. early (Columbia) - April 2024)) `
 
 Original Tiki:
 -------------

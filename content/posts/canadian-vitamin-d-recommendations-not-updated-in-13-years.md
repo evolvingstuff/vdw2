@@ -431,16 +431,16 @@ AST Structure:
 │   inner_content: ` (alias(Canadian DRI forVitamin D not updated since 2010)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Canadian DRI forVitamin D not updated since 2010)) `
-│   │   inner_content: ` (alias(Canadian DRI forVitamin D not updated since 2010)) `├── TextNode
+│   │   full_match: `(alias(Canadian DRI forVitamin D not updated since 2010)) `
+│   │   inner_content: `(alias(Canadian DRI forVitamin D not updated since 2010)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) ~/tc~`
 │   inner_content: ` (alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) `
-│   │   inner_content: ` (alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) `
+│   │   full_match: `(alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) `
+│   │   inner_content: `(alias(Canadian Vitamin D DRI not updated in 13 years - March 2023)) `
 
 Original Tiki:
 -------------

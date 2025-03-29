@@ -229,16 +229,16 @@ AST Structure:
 │   inner_content: ` (alias(TB not treated by Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(TB not treated by Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
-│   │   inner_content: ` (alias(TB not treated by Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `├── TextNode
+│   │   full_match: `(alias(TB not treated by Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
+│   │   inner_content: `(alias(TB not treated by Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) ~/tc~`
 │   inner_content: ` (alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
-│   │   inner_content: ` (alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
+│   │   full_match: `(alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
+│   │   inner_content: `(alias(TB treatment hardly helped by addition of Vitamin D (100,000 IU bi-weekly) – RCT April 2024)) `
 
 Original Tiki:
 -------------

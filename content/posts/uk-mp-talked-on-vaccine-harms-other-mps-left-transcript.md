@@ -180,7 +180,7 @@ The MPs much thicker political mud associated with being part of the nationalist
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14320{SQL} -->
 </span> visits to this page
 
@@ -361,7 +361,7 @@ The MPs much thicker political mud associated with being part of the nationalist
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14320{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -616,8 +616,8 @@ AST Structure:
 │   inner_content: ` why was the booster rollout not halted last October given the clear lack of efficacy and the evidence of risks being greater than the benefit to all age groups, except possibly the over 70s with underlying health conditions where the risk was absolutely identical? `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` why was the booster rollout not halted last October given the clear lack of efficacy and the evidence of risks being greater than the benefit to all age groups, except possibly the over 70s with underlying health conditions where the risk was absolutely identical? `
-│   │   inner_content: ` why was the booster rollout not halted last October given the clear lack of efficacy and the evidence of risks being greater than the benefit to all age groups, except possibly the over 70s with underlying health conditions where the risk was absolutely identical? `├── TextNode
+│   │   full_match: `why was the booster rollout not halted last October given the clear lack of efficacy and the evidence of risks being greater than the benefit to all age groups, except possibly the over 70s with underlying health conditions where the risk was absolutely identical? `
+│   │   inner_content: `why was the booster rollout not halted last October given the clear lack of efficacy and the evidence of risks being greater than the benefit to all age groups, except possibly the over 70s with underlying health conditions where the risk was absolutely identical? `├── TextNode
 │   full_match: `\nWas the data presented to the JCVI passed to the the MHRA?\n\n`
 │   inner_content: `\nWas the data presented to the JCVI passed to the the MHRA?\n\n`├── ListItemNode
 │   full_match: `*If so, when?`
@@ -1046,9 +1046,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14320{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14320`
@@ -1064,8 +1061,8 @@ AST Structure:
 │   inner_content: ` (alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) `
-│   │   inner_content: ` (alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) `
+│   │   full_match: `(alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) `
+│   │   inner_content: `(alias(UK MP talked on vaccine harms, other MPs left  – transcript Mar 17, 2023)) `
 
 Original Tiki:
 -------------

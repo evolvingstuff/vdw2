@@ -31,8 +31,8 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 | | | |
 | --- | --- | --- |
-| Health problem |  Singapore | Australia |
-| Food allergy |  1.1%  | 15% |
+| Health problem | Singapore | Australia |
+| Food allergy | 1.1%  | 15% |
 | Eczema–  early onset | 8% | 30% |
 
 ---
@@ -49,7 +49,7 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14547{SQL} -->
 </span> visits to this page
 
@@ -78,8 +78,8 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 | | | |
 | --- | --- | --- |
-| Health problem |  Singapore | Australia |
-| Food allergy |  1.1%  | 15% |
+| Health problem | Singapore | Australia |
+| Food allergy | 1.1%  | 15% |
 | Eczema–  early onset | 8% | 30% |
 
 ---
@@ -96,7 +96,7 @@ The allergy epidemic has been attributed to environmental influences related to 
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14547{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -185,8 +185,8 @@ AST Structure:
 │   │   │   inner_content: ` Singapore`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` Singapore`
-│   │   │   │   inner_content: ` Singapore`
+│   │   │   │   full_match: `Singapore`
+│   │   │   │   inner_content: `Singapore`
 │   │   ├── TableCellNode
 │   │   │   full_match: `Australia`
 │   │   │   inner_content: `Australia`
@@ -210,8 +210,8 @@ AST Structure:
 │   │   │   inner_content: ` 1.1% `
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: ` 1.1% `
-│   │   │   │   inner_content: ` 1.1% `
+│   │   │   │   full_match: `1.1% `
+│   │   │   │   inner_content: `1.1% `
 │   │   ├── TableCellNode
 │   │   │   full_match: `15%`
 │   │   │   inner_content: `15%`
@@ -310,9 +310,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14547{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14547`

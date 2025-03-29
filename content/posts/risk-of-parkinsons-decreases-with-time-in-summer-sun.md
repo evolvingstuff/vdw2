@@ -265,16 +265,16 @@ AST Structure:
 │   inner_content: ` (alias(isk of Parkinson’s disease decreases with time outdoors in the summer - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(isk of Parkinson’s disease decreases with time outdoors in the summer - Jan 2024)) `
-│   │   inner_content: ` (alias(isk of Parkinson’s disease decreases with time outdoors in the summer - Jan 2024)) `├── TextNode
+│   │   full_match: `(alias(isk of Parkinson’s disease decreases with time outdoors in the summer - Jan 2024)) `
+│   │   inner_content: `(alias(isk of Parkinson’s disease decreases with time outdoors in the summer - Jan 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) ~/tc~`
 │   inner_content: ` (alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) `
-│   │   inner_content: ` (alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) `
+│   │   full_match: `(alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) `
+│   │   inner_content: `(alias(Risk of Parkinson’s disease decreases with time in summer sun - Jan 2024)) `
 
 Original Tiki:
 -------------

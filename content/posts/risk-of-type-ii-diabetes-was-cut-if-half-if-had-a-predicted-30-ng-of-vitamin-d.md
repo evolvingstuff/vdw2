@@ -19,7 +19,7 @@ categories:
 
 AJ Endocrinol Invest. 2024 Mar 8. [doi: 10.1007/s40618-024-02324-3](https://doi.org/10.1007/s40618-024-02324-3)
 
- Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9
+Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9
 
  **As much as 10X reduction in T2D before data adjustment** 
 
@@ -66,7 +66,7 @@ Markdown:
 
 AJ Endocrinol Invest. 2024 Mar 8. [doi: 10.1007/s40618-024-02324-3](https://doi.org/10.1007/s40618-024-02324-3)
 
- Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9
+Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9
 
  **As much as 10X reduction in T2D before data adjustment** 
 
@@ -128,8 +128,8 @@ AST Structure:
 │   inner_content: `\nAJ Endocrinol Invest. 2024 Mar 8. `├── DoiLinkNode
 │   full_match: `doi: 10.1007/s40618-024-02324-3`
 │   inner_content: `10.1007/s40618-024-02324-3`├── TextNode
-│   full_match: `\n Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9\n\n`
-│   inner_content: `\n Valer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9\n\n`├── BoldNode
+│   full_match: `\nValer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9\n\n`
+│   inner_content: `\nValer-Martinez 1 2, C Sayon-Orea 3 4 5 6, J A Martinez 7 8, F J Basterra-Gortari 1 9 10, M A Martinez-Gonzalez 1 11 9 12, M Bes-Rastrollo 1 11 9\n\n`├── BoldNode
 │   full_match: `__As much as 10X reduction in T2D before data adjustment__`
 │   inner_content: `As much as 10X reduction in T2D before data adjustment`
 │   children:

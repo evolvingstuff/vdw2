@@ -11,7 +11,7 @@ categories:
 ---
 
 
- 
+
 
  **[Dr. Berg YouTube - 8 minutes](https://www.youtube.com/watch?v=N2DGrgMIcsE)** 
 
@@ -95,13 +95,13 @@ It’s almost impossible to get vitamin D from your diet, so you need to take ce
 
 * 7. Most vitamin D3 supplements in Europe (and possibly around the world) contain corn syrup.
 
- 
+
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- 
+
 
  **[Dr. Berg YouTube - 8 minutes](https://www.youtube.com/watch?v=N2DGrgMIcsE)** 
 
@@ -185,13 +185,13 @@ It’s almost impossible to get vitamin D from your diet, so you need to take ce
 
 * 7. Most vitamin D3 supplements in Europe (and possibly around the world) contain corn syrup.
 
- 
+
 
 AST Structure:
 -------------
 ├── TextNode
-│   full_match: ` \n`
-│   inner_content: ` \n`├── BoldNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
 │   full_match: `__[https://www.youtube.com/watch?v=N2DGrgMIcsE|Dr. Berg YouTube - 8 minutes]__`
 │   inner_content: `[https://www.youtube.com/watch?v=N2DGrgMIcsE|Dr. Berg YouTube - 8 minutes]`
 │   children:
@@ -534,8 +534,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `7. Most vitamin D3 supplements in Europe (and possibly around the world) contain corn syrup.`
 │   │   inner_content: `7. Most vitamin D3 supplements in Europe (and possibly around the world) contain corn syrup.`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `
+│   full_match: `\n`
+│   inner_content: `\n`
 
 Original Tiki:
 -------------

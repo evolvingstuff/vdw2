@@ -33,7 +33,7 @@ which was reporting on
 
 #### VitaminDWiki – <a href="/posts/vitamin-d-math-mistakes-made-by-the-iom-in-2010-k-baggerly-2016-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D math mistakes made by the IoM in 2010 – K Baggerly 2016-2017">Vitamin D math mistakes made by the IoM in 2010 – K Baggerly 2016-2017</a>
 
- The US Institute of Medicine made 4 math mistakes in 2010
+The US Institute of Medicine made 4 math mistakes in 2010
 
 They admitted their mistakes in 2016, but refused to change their public statement
 
@@ -72,7 +72,7 @@ which was reporting on
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/vitamin-d-math-mistakes-made-by-the-iom-in-2010-k-baggerly-2016-2017&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D math mistakes made by the IoM in 2010 – K Baggerly 2016-2017&quot;&gt;Vitamin D math mistakes made by the IoM in 2010 – K Baggerly 2016-2017&lt;/a&gt;
 
- The US Institute of Medicine made 4 math mistakes in 2010
+The US Institute of Medicine made 4 math mistakes in 2010
 
 They admitted their mistakes in 2016, but refused to change their public statement
 
@@ -180,8 +180,8 @@ AST Structure:
 │   │   style: font-size:20px;
 │   children:
 │   ├── TextNode
-│   │   full_match: ` The US Institute of Medicine made 4 math mistakes in 2010\nThey admitted their mistakes in 2016, but refused to change their public statement\nSo, the US and 100&#39;s of other countries now have RDA = 600 IU which is at least 5X to low for health `
-│   │   inner_content: ` The US Institute of Medicine made 4 math mistakes in 2010\nThey admitted their mistakes in 2016, but refused to change their public statement\nSo, the US and 100&#39;s of other countries now have RDA = 600 IU which is at least 5X to low for health `├── HorizontalRuleNode
+│   │   full_match: `The US Institute of Medicine made 4 math mistakes in 2010\nThey admitted their mistakes in 2016, but refused to change their public statement\nSo, the US and 100&#39;s of other countries now have RDA = 600 IU which is at least 5X to low for health `
+│   │   inner_content: `The US Institute of Medicine made 4 math mistakes in 2010\nThey admitted their mistakes in 2016, but refused to change their public statement\nSo, the US and 100&#39;s of other countries now have RDA = 600 IU which is at least 5X to low for health `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Cardiovascular)) category:`

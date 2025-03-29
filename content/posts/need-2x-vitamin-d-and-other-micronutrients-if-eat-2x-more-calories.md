@@ -245,8 +245,8 @@ AST Structure:
 │   inner_content: ` (alias(Need more Vitamin D and other micronutrients if eat more calories – Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Need more Vitamin D and other micronutrients if eat more calories – Jan 2024)) `
-│   │   inner_content: ` (alias(Need more Vitamin D and other micronutrients if eat more calories – Jan 2024)) `
+│   │   full_match: `(alias(Need more Vitamin D and other micronutrients if eat more calories – Jan 2024)) `
+│   │   inner_content: `(alias(Need more Vitamin D and other micronutrients if eat more calories – Jan 2024)) `
 
 Original Tiki:
 -------------

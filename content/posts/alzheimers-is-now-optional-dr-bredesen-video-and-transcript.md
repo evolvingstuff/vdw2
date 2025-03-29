@@ -17,7 +17,7 @@ categories:
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen, M.D.
 
- **[ YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&t=5273s&ab_channel=TheRealTruthAboutHealth) 114 minutes** 
+ **[YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&t=5273s&ab_channel=TheRealTruthAboutHealth) 114 minutes** 
 
 ---
 
@@ -89,7 +89,7 @@ No amount of pharmaceutical duct tape is going to save it,
 
 00:02:22  **Dr. Bredesen** 
 
- that's.
+that's.
 
 00:02:23  **Dr. Bredesen** 
 
@@ -157,7 +157,7 @@ And this has been the claim for years and years and years. And of course now, wi
 
 00:06:35  **Dr. Bredesen** 
 
- You can literally stop the problem with the current generation if.
+You can literally stop the problem with the current generation if.
 
 00:06:40  **Dr. Bredesen** 
 
@@ -2356,7 +2356,7 @@ Markdown:
 
 #### Alzheimer’s Is Now Optional: Here’s Why And How - Dale Bredesen, M.D.
 
- **[ YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=5273s&amp;ab_channel=TheRealTruthAboutHealth) 114 minutes** 
+ **[YouTube](https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=5273s&amp;ab_channel=TheRealTruthAboutHealth) 114 minutes** 
 
 ---
 
@@ -2428,7 +2428,7 @@ No amount of pharmaceutical duct tape is going to save it,
 
 00:02:22  **Dr. Bredesen** 
 
- that&#39;s.
+that&#39;s.
 
 00:02:23  **Dr. Bredesen** 
 
@@ -2496,7 +2496,7 @@ And this has been the claim for years and years and years. And of course now, wi
 
 00:06:35  **Dr. Bredesen** 
 
- You can literally stop the problem with the current generation if.
+You can literally stop the problem with the current generation if.
 
 00:06:40  **Dr. Bredesen** 
 
@@ -4719,8 +4719,8 @@ AST Structure:
 │   │   url: `https://www.youtube.com/watch?v=lh0eyYZCECc&amp;t=5273s&amp;ab_channel=TheRealTruthAboutHealth`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` YouTube`
-│   │   │   inner_content: ` YouTube`
+│   │   │   full_match: `YouTube`
+│   │   │   inner_content: `YouTube`
 │   ├── TextNode
 │   │   full_match: ` 114 minutes`
 │   │   inner_content: ` 114 minutes`├── HorizontalRuleNode
@@ -5126,8 +5126,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Dr. Bredesen`
 │   │   inner_content: `Dr. Bredesen`├── TextNode
-│   full_match: `\n that&#39;s.\n00:02:23 `
-│   inner_content: `\n that&#39;s.\n00:02:23 `├── BoldNode
+│   full_match: `\nthat&#39;s.\n00:02:23 `
+│   inner_content: `\nthat&#39;s.\n00:02:23 `├── BoldNode
 │   full_match: `__Dr. Bredesen__`
 │   inner_content: `Dr. Bredesen`
 │   children:
@@ -5270,8 +5270,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Dr. Bredesen`
 │   │   inner_content: `Dr. Bredesen`├── TextNode
-│   full_match: `\n You can literally stop the problem with the current generation if.\n00:06:40 `
-│   inner_content: `\n You can literally stop the problem with the current generation if.\n00:06:40 `├── BoldNode
+│   full_match: `\nYou can literally stop the problem with the current generation if.\n00:06:40 `
+│   inner_content: `\nYou can literally stop the problem with the current generation if.\n00:06:40 `├── BoldNode
 │   full_match: `__Dr. Bredesen__`
 │   inner_content: `Dr. Bredesen`
 │   children:

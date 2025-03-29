@@ -33,8 +33,6 @@ Conclusion: We found a significant association between dietary vitamin D intake 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- 
-
 #### VitaminDWiki – [Sleep](/categories/sleep) category contains
 
 ---
@@ -69,8 +67,6 @@ Results: No significant association was found between vitamin D dietary intake a
 Conclusion: We found a significant association between dietary vitamin D intake and reduced risk of anxiety and sleep disorders, but not with depression, in this study. Further prospective studies are recommended for future investigations.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
-
- 
 
 #### VitaminDWiki – [Sleep](/categories/sleep) category contains
 
@@ -147,9 +143,9 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Download the PDF from VitaminDWiki `
 │   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
-│   full_match: `\n \n`
-│   inner_content: `\n \n`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki – ((Sleep)) category contains     `
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!!!VitaminDWiki – ((Sleep)) category contains     `
 │   inner_content: `VitaminDWiki – ((Sleep)) category contains`
 │   level: `4`
 │   children:

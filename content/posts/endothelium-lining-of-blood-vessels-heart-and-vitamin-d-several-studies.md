@@ -41,7 +41,7 @@ Vitamin D is known to elicit a vasoprotective effect, while vitamin D deficiency
 
 #### Beneficial Role of Vitamin D on Endothelial Progenitor Cells (EPCs) in Cardiovascular Diseases - April 2022
 
- J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  [doi: 10.12997/jla.2022.11.3.229](https://doi.org/10.12997/jla.2022.11.3.229)
+J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  [doi: 10.12997/jla.2022.11.3.229](https://doi.org/10.12997/jla.2022.11.3.229)
 
 Atanu Sen,1 Vinnyfred Vincent,2 Himani Thakkar,2 Ransi Abraham,1 and Lakshmy Ramakrishnan corresponding author1
 
@@ -57,7 +57,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death in the world. Endo
 
 Nutrients  Volume 15  Issue 2  10.3390/nu15020334 
 
- Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID
+Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID
 
 1
 
@@ -191,7 +191,7 @@ Vitamin D is known to elicit a vasoprotective effect, while vitamin D deficiency
 
 #### Beneficial Role of Vitamin D on Endothelial Progenitor Cells (EPCs) in Cardiovascular Diseases - April 2022
 
- J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  [doi: 10.12997/jla.2022.11.3.229](https://doi.org/10.12997/jla.2022.11.3.229)
+J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  [doi: 10.12997/jla.2022.11.3.229](https://doi.org/10.12997/jla.2022.11.3.229)
 
 Atanu Sen,1 Vinnyfred Vincent,2 Himani Thakkar,2 Ransi Abraham,1 and Lakshmy Ramakrishnan corresponding author1
 
@@ -207,7 +207,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death in the world. Endo
 
 Nutrients  Volume 15  Issue 2  10.3390/nu15020334 
 
- Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID
+Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID
 
 1
 
@@ -417,8 +417,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Beneficial Role of Vitamin D on Endothelial Progenitor Cells (EPCs) in Cardiovascular Diseases - April 2022`
 │   │   inner_content: `Beneficial Role of Vitamin D on Endothelial Progenitor Cells (EPCs) in Cardiovascular Diseases - April 2022`├── TextNode
-│   full_match: `\n J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  `
-│   inner_content: `\n J Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  `├── DoiLinkNode
+│   full_match: `\nJ Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  `
+│   inner_content: `\nJ Lipid Atheroscler  v.11(3); 2022 Sep  PMC9515729  `├── DoiLinkNode
 │   full_match: `doi: 10.12997/jla.2022.11.3.229`
 │   inner_content: `10.12997/jla.2022.11.3.229`├── TextNode
 │   full_match: `\nAtanu Sen,1 Vinnyfred Vincent,2 Himani Thakkar,2 Ransi Abraham,1 and Lakshmy Ramakrishnan corresponding author1\n\n`
@@ -463,8 +463,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Role of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases - Jan 2023`
 │   │   inner_content: `Role of Vitamin D Deficiency in the Pathogenesis of Cardiovascular and Cerebrovascular Diseases - Jan 2023`├── TextNode
-│   full_match: `\nNutrients  Volume 15  Issue 2  10.3390/nu15020334 \n Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID\n1\n\n`
-│   inner_content: `\nNutrients  Volume 15  Issue 2  10.3390/nu15020334 \n Éva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID\n1\n\n`├── ImgNode
+│   full_match: `\nNutrients  Volume 15  Issue 2  10.3390/nu15020334 \nÉva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID\n1\n\n`
+│   inner_content: `\nNutrients  Volume 15  Issue 2  10.3390/nu15020334 \nÉva Pál 1,2,*ORCID,Zoltán Ungvári 3,4,5,6,Zoltán Benyó 1,2,†ORCID andSzabolcs Várbíró 7,8,†ORCID\n1\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20170&quot; width=&quot;600&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -952,8 +952,8 @@ AST Structure:
 │   inner_content: ` (alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) `
-│   │   inner_content: ` (alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) `
+│   │   full_match: `(alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) `
+│   │   inner_content: `(alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) `
 
 Original Tiki:
 -------------

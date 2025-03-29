@@ -1190,8 +1190,8 @@ AST Structure:
 │   inner_content: ` (alias(Natural activators of the Vitamin D Receptor - some immune cells - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Natural activators of the Vitamin D Receptor - some immune cells - Jan 2023)) `
-│   │   inner_content: ` (alias(Natural activators of the Vitamin D Receptor - some immune cells - Jan 2023)) `
+│   │   full_match: `(alias(Natural activators of the Vitamin D Receptor - some immune cells - Jan 2023)) `
+│   │   inner_content: `(alias(Natural activators of the Vitamin D Receptor - some immune cells - Jan 2023)) `
 
 Original Tiki:
 -------------

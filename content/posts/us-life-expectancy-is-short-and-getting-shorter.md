@@ -8,7 +8,7 @@ date: 2023-03-27
 ---
 
 
- 
+
 
 ---
 
@@ -28,7 +28,7 @@ date: 2023-03-27
 
 * ""If you add up the excess deaths that have occurred in the United States because of this unfolding problem, it dwarfs what happened during COVID-19,..."
 
-*  However, "the United States has higher survival after age 75 than do peer countries,..."
+* However, "the United States has higher survival after age 75 than do peer countries,..."
 
  **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
 
@@ -63,7 +63,7 @@ date: 2023-03-27
 | UK | 80.9 |  |
 | US | 77.3 |  |
 | Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
-| World | 73.3 |   |
+| World | 73.3 |  |
 
 
 
@@ -71,7 +71,7 @@ date: 2023-03-27
 <code class="language-text">
 Markdown:
 --------
- 
+
 
 ---
 
@@ -91,7 +91,7 @@ Markdown:
 
 * &quot;&quot;If you add up the excess deaths that have occurred in the United States because of this unfolding problem, it dwarfs what happened during COVID-19,...&quot;
 
-*  However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;
+* However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;
 
  **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
 
@@ -126,15 +126,15 @@ Markdown:
 | UK | 80.9 |  |
 | US | 77.3 |  |
 | Saudi Arabia | 76.6 | [https://vitamindwiki.com/tiki-index.php?page_id=13764 | $1bn/year funding to increase it] |
-| World | 73.3 |   |
+| World | 73.3 |  |
 
 
 
 AST Structure:
 -------------
 ├── TextNode
-│   full_match: ` \n`
-│   inner_content: ` \n`├── HorizontalRuleNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!&#39;Live free and die?&#39; The sad state of U.S. life expectancy - NPR`
@@ -298,8 +298,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;`
-│   │   inner_content: ` However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;`├── TextNode
+│   │   full_match: `However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;`
+│   │   inner_content: `However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
 │   full_match: `__Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. %%%In many other countries a new drug must be more cost-effective than the existing drug.__`
@@ -586,11 +586,7 @@ AST Structure:
 │   │   │   │   inner_content: `73.3`
 │   │   ├── TableCellNode
 │   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: ` `
-│   │   │   │   inner_content: ` `├── TextNode
+│   │   │   inner_content: ` `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

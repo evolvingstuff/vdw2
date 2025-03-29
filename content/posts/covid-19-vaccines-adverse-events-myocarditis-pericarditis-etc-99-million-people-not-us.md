@@ -27,7 +27,7 @@ K. Faksova a, D. Walsh b c, Y. Jiang b c, J. Griffin c, A. Phillips d, A. Gentil
 
 Major color groups used for different pharmas: 
 
- &nbsp;&nbsp;  <span style="color:orange;">Red = Moderna</span>,  <span style="color:orange;">Blue = Pfizer,</span>  <span style="color:orange;">Amber = AstraZeneca</span>
+&nbsp;&nbsp;  <span style="color:orange;">Red = Moderna</span>,  <span style="color:orange;">Blue = Pfizer,</span>  <span style="color:orange;">Amber = AstraZeneca</span>
 
 Shades within the groups related to different doses of the particular pharma's "vaccine"
 
@@ -75,8 +75,6 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 #### VitaminDWiki - [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 
-  
-
 ---
 
 #### VitaminDWiki: 273+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
@@ -104,7 +102,7 @@ K. Faksova a, D. Walsh b c, Y. Jiang b c, J. Griffin c, A. Phillips d, A. Gentil
 
 Major color groups used for different pharmas: 
 
- &amp;nbsp;&amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Red = Moderna&lt;/span&gt;,  &lt;span style=&quot;color:orange;&quot;&gt;Blue = Pfizer,&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;Amber = AstraZeneca&lt;/span&gt;
+&amp;nbsp;&amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Red = Moderna&lt;/span&gt;,  &lt;span style=&quot;color:orange;&quot;&gt;Blue = Pfizer,&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;Amber = AstraZeneca&lt;/span&gt;
 
 Shades within the groups related to different doses of the particular pharma&#39;s &quot;vaccine&quot;
 
@@ -151,8 +149,6 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 ---
 
 #### VitaminDWiki - [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
-
-  
 
 ---
 
@@ -201,8 +197,8 @@ AST Structure:
 │   │   type: attId
 │   │   attId: 20953
 │   │   width: 300├── TextNode
-│   full_match: `\nMajor color groups used for different pharmas: \n `
-│   inner_content: `\nMajor color groups used for different pharmas: \n `├── HorizontalSpaceNode
+│   full_match: `\nMajor color groups used for different pharmas: \n`
+│   inner_content: `\nMajor color groups used for different pharmas: \n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
@@ -408,8 +404,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID infections and vaccinations decrease Vitamin D – many studies`
 │   │   │   inner_content: `COVID infections and vaccinations decrease Vitamin D – many studies`├── TextNode
-│   full_match: `\n  `
-│   inner_content: `\n  `├── IncludeNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;COVID infections and vaccinations decrease Vitamin D – many studies&quot;}`
 │   inner_content: ``
 │   attrs_dict:

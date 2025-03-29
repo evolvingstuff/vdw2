@@ -350,8 +350,8 @@ AST Structure:
 │   inner_content: ` chylomicrons, containing vitamin D`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` chylomicrons, containing vitamin D`
-│   │   inner_content: ` chylomicrons, containing vitamin D`├── TextNode
+│   │   full_match: `chylomicrons, containing vitamin D`
+│   │   inner_content: `chylomicrons, containing vitamin D`├── TextNode
 │   full_match: `, are then secreted into the lymphatic system, bypassing the portal circulation initially. From the lymphatics, they eventually enter the bloodstream, where vitamin D can be transported to various tissues, including the liver for further metabolism\n\n.However, it&#39;s also been shown that certain metabolites of vitamin D, such as `
 │   inner_content: `, are then secreted into the lymphatic system, bypassing the portal circulation initially. From the lymphatics, they eventually enter the bloodstream, where vitamin D can be transported to various tissues, including the liver for further metabolism\n\n.However, it&#39;s also been shown that certain metabolites of vitamin D, such as `├── BoldNode
 │   full_match: `__25-hydroxyvitamin D3, can be absorbed directly into the portal blood__`
@@ -672,24 +672,24 @@ AST Structure:
 │   inner_content: ` (alias(Vitamin D in gut goes thru slow lymph system to get to the blood)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Vitamin D in gut goes thru slow lymph system to get to the blood)) `
-│   │   inner_content: ` (alias(Vitamin D in gut goes thru slow lymph system to get to the blood)) `├── TextNode
+│   │   full_match: `(alias(Vitamin D in gut goes thru slow lymph system to get to the blood)) `
+│   │   inner_content: `(alias(Vitamin D in gut goes thru slow lymph system to get to the blood)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) ~/tc~`
 │   inner_content: ` (alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) `
-│   │   inner_content: ` (alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) `├── TextNode
+│   │   full_match: `(alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) `
+│   │   inner_content: `(alias(Some forms of Vitamin D in gut must go thru the slow lymph system)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Fat soluble Vitamins go thru the slow lymph system)) ~/tc~`
 │   inner_content: ` (alias(Fat soluble Vitamins go thru the slow lymph system)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fat soluble Vitamins go thru the slow lymph system)) `
-│   │   inner_content: ` (alias(Fat soluble Vitamins go thru the slow lymph system)) `
+│   │   full_match: `(alias(Fat soluble Vitamins go thru the slow lymph system)) `
+│   │   inner_content: `(alias(Fat soluble Vitamins go thru the slow lymph system)) `
 
 Original Tiki:
 -------------

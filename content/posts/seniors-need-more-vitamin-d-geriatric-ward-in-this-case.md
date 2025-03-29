@@ -44,7 +44,7 @@ The logistic regression model demonstrated that obese patients had over two time
 
 #### VitaminDWiki – <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Elderly often trapped in vitamin D vicious circles">Elderly often trapped in vitamin D vicious circles</a>
 
- <img src="/attachments/d3.mock.jpg" alt="image">
+<img src="/attachments/d3.mock.jpg" alt="image">
 
 <!-- ~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~ -->
 
@@ -86,7 +86,7 @@ The logistic regression model demonstrated that obese patients had over two time
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/elderly-often-trapped-in-vitamin-d-vicious-circles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Elderly often trapped in vitamin D vicious circles&quot;&gt;Elderly often trapped in vitamin D vicious circles&lt;/a&gt;
 
- &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
 &lt;!-- ~tc~ (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) ~/tc~ --&gt;
 
@@ -199,8 +199,8 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Elderly often trapped in vitamin D vicious circles`
 │   │   │   inner_content: `Elderly often trapped in vitamin D vicious circles`├── TextNode
-│   full_match: `\n `
-│   inner_content: `\n `├── ImgNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
 │   full_match: `{img fileId=1461}`
 │   inner_content: ``
 │   attrs_dict:
@@ -212,8 +212,8 @@ AST Structure:
 │   inner_content: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
-│   │   inner_content: ` (alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
+│   │   full_match: `(alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
+│   │   inner_content: `(alias(Geriatric Ward patients need more Vitamin D - Jan 2024)) `
 
 Original Tiki:
 -------------

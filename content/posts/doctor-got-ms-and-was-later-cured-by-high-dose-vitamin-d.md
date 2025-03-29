@@ -770,9 +770,6 @@ AST Structure:
 │   full_match: `__ ~~#F06:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 18  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}~~ studies in both categories MS and Vitamin D Receptor__`
 │   inner_content: ` ~~#F06:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 18  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}~~ studies in both categories MS and Vitamin D Receptor`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── ColorNode
 │   │   full_match: `~~#F06:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 18  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}~~`
 │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 18  OR categId = 142 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
@@ -988,8 +985,8 @@ AST Structure:
 │   inner_content: ` (alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) `
-│   │   inner_content: ` (alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) `
+│   │   full_match: `(alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) `
+│   │   inner_content: `(alias(Dr. got MS,  and was later cured by high-dose vitamin D - Aug 2023)) `
 
 Original Tiki:
 -------------

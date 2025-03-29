@@ -1596,8 +1596,8 @@ AST Structure:
 │   inner_content: ` (alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) `
-│   │   inner_content: ` (alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) `
+│   │   full_match: `(alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) `
+│   │   inner_content: `(alias(Fall prevention - Vitamin D is one of the ways - umbrela review Jan 2024)) `
 
 Original Tiki:
 -------------

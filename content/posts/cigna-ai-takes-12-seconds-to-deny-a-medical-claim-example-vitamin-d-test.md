@@ -109,24 +109,24 @@ AST Structure:
 │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim, such as paying for a Vitamin D test - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim, such as paying for a Vitamin D test - Aug 2023)) `
-│   │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim, such as paying for a Vitamin D test - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Cigna AI takes 1.2 seconds to denie a medical claim, such as paying for a Vitamin D test - Aug 2023)) `
+│   │   inner_content: `(alias(Cigna AI takes 1.2 seconds to denie a medical claim, such as paying for a Vitamin D test - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) `
-│   │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) `├── TextNode
+│   │   full_match: `(alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) `
+│   │   inner_content: `(alias(Cigna AI takes 1.2 seconds to denie a medical claim (example:  Vitamin D test) - Aug 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) ~/tc~`
 │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) `
-│   │   inner_content: ` (alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) `
+│   │   full_match: `(alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) `
+│   │   inner_content: `(alias(Cigna AI takes 1.2 seconds to deny a medical claim (example:  Vitamin D test) - Aug 2023)) `
 
 Original Tiki:
 -------------

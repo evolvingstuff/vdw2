@@ -1124,8 +1124,8 @@ AST Structure:
 │   inner_content: ` (alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) `
-│   │   inner_content: ` (alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) `
+│   │   full_match: `(alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) `
+│   │   inner_content: `(alias(Liver transplant frillaure 2.7X more-likely if low vitamin D - Nov 2023)) `
 
 Original Tiki:
 -------------

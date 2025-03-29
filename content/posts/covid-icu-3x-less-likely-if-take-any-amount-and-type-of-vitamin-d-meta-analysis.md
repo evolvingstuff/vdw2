@@ -31,7 +31,7 @@ Di Cristina e Benfratelli, 90127 Palermo, Italy
 
 Dipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza "G. D'Alessandro", PROMISE, University of Palermo, 90127 Palermo, Italy
 
- * Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167
+* Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167
 
 Background: The COVID-19 pandemic represents one of the world's most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. 
 
@@ -63,7 +63,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14225{SQL} -->
 </span> visits to this page
 
@@ -93,7 +93,7 @@ Di Cristina e Benfratelli, 90127 Palermo, Italy
 
 Dipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza &quot;G. D&#39;Alessandro&quot;, PROMISE, University of Palermo, 90127 Palermo, Italy
 
- * Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167
+* Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167
 
 Background: The COVID-19 pandemic represents one of the world&#39;s most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. 
 
@@ -125,7 +125,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14225{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -156,14 +156,23 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Protective Effect of Vitamin D Supplementation on COVID-19-Related Intensive Care Hospitalization and Mortality: Definitive Evidence from Meta-Analysis and Trial Sequential Analysis`
 │   │   inner_content: `Protective Effect of Vitamin D Supplementation on COVID-19-Related Intensive Care Hospitalization and Mortality: Definitive Evidence from Meta-Analysis and Trial Sequential Analysis`├── TextNode
-│   full_match: `\nPharmaceuticals 2023, 16, 130. https://doi.org/10.3390/ph16010130\nChristiano Argano h* , Raffaella Mallaci Bocchio 1, Giuseppe Natoli1 , Salvatore Scibetta 1,\nMarika Lo Monaco 1,2 and Salvatore Corrao 1\nInternal Medicine Department iGR, National Relevance Hospital Trust, ARNAS Civico,\nDi Cristina e Benfratelli, 90127 Palermo, Italy\nDipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza &quot;G. D&#39;Alessandro&quot;, PROMISE, University of Palermo, 90127 Palermo, Italy\n * Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167\n\nBackground: The COVID-19 pandemic represents one of the world&#39;s most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. \n\nMethods: We searched four databases on 20 September 2022. Two reviewers screened the randomized clinical trials (RCTs) and assessed the risk of bias, independently and in duplicate. The pre-specified outcomes of interest were mortality and ICU admission.\n\nResults: We identified 78 bibliographic citations. After the reviewers&#39; screening, only five RCTs were found to be suitable for our analysis. We performed meta-analyses and then TSAs. \nVitamin D administration results in a decreased risk of death and`
-│   inner_content: `\nPharmaceuticals 2023, 16, 130. https://doi.org/10.3390/ph16010130\nChristiano Argano h* , Raffaella Mallaci Bocchio 1, Giuseppe Natoli1 , Salvatore Scibetta 1,\nMarika Lo Monaco 1,2 and Salvatore Corrao 1\nInternal Medicine Department iGR, National Relevance Hospital Trust, ARNAS Civico,\nDi Cristina e Benfratelli, 90127 Palermo, Italy\nDipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza &quot;G. D&#39;Alessandro&quot;, PROMISE, University of Palermo, 90127 Palermo, Italy\n * Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167\n\nBackground: The COVID-19 pandemic represents one of the world&#39;s most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. \n\nMethods: We searched four databases on 20 September 2022. Two reviewers screened the randomized clinical trials (RCTs) and assessed the risk of bias, independently and in duplicate. The pre-specified outcomes of interest were mortality and ICU admission.\n\nResults: We identified 78 bibliographic citations. After the reviewers&#39; screening, only five RCTs were found to be suitable for our analysis. We performed meta-analyses and then TSAs. \nVitamin D administration results in a decreased risk of death and`├── BoldNode
+│   full_match: `\nPharmaceuticals 2023, 16, 130. https://doi.org/10.3390/ph16010130\nChristiano Argano h* , Raffaella Mallaci Bocchio 1, Giuseppe Natoli1 , Salvatore Scibetta 1,\nMarika Lo Monaco 1,2 and Salvatore Corrao 1\nInternal Medicine Department iGR, National Relevance Hospital Trust, ARNAS Civico,\nDi Cristina e Benfratelli, 90127 Palermo, Italy\nDipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza &quot;G. D&#39;Alessandro&quot;, PROMISE, University of Palermo, 90127 Palermo, Italy\n`
+│   inner_content: `\nPharmaceuticals 2023, 16, 130. https://doi.org/10.3390/ph16010130\nChristiano Argano h* , Raffaella Mallaci Bocchio 1, Giuseppe Natoli1 , Salvatore Scibetta 1,\nMarika Lo Monaco 1,2 and Salvatore Corrao 1\nInternal Medicine Department iGR, National Relevance Hospital Trust, ARNAS Civico,\nDi Cristina e Benfratelli, 90127 Palermo, Italy\nDipartimento di Promozione della Salute, Materno Infantile, Medicina Interna e Specialistica di Eccellenza &quot;G. D&#39;Alessandro&quot;, PROMISE, University of Palermo, 90127 Palermo, Italy\n`├── ListItemNode
+│   full_match: `* Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167`
+│   inner_content: ` Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167`
+│   │   inner_content: `Correspondence: chargano@yahoo.it; Tel.: +39-091-655-2065; Fax: +39-091-666-3167`├── TextNode
+│   full_match: `\n\nBackground: The COVID-19 pandemic represents one of the world&#39;s most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. \n\nMethods: We searched four databases on 20 September 2022. Two reviewers screened the randomized clinical trials (RCTs) and assessed the risk of bias, independently and in duplicate. The pre-specified outcomes of interest were mortality and ICU admission.\n\nResults: We identified 78 bibliographic citations. After the reviewers&#39; screening, only five RCTs were found to be suitable for our analysis. We performed meta-analyses and then TSAs. \nVitamin D administration results in a decreased risk of death and`
+│   inner_content: `\n\nBackground: The COVID-19 pandemic represents one of the world&#39;s most important challenges for global public healthcare. Various studies have found an association between severe vitamin D deficiency and COVID-19-related outcomes. Vitamin D plays a crucial role in immune function and inflammation. Recent data have suggested a protective role of vitamin D in COVID-19- related health outcomes. The purpose of this meta-analysis and trial sequential analysis (TSA) was to better explain the strength of the association between the protective role of vitamin D supplementation and the risk of mortality and admission to intensive care units (ICUs) in patients with COVID-19. \n\nMethods: We searched four databases on 20 September 2022. Two reviewers screened the randomized clinical trials (RCTs) and assessed the risk of bias, independently and in duplicate. The pre-specified outcomes of interest were mortality and ICU admission.\n\nResults: We identified 78 bibliographic citations. After the reviewers&#39; screening, only five RCTs were found to be suitable for our analysis. We performed meta-analyses and then TSAs. \nVitamin D administration results in a decreased risk of death and`├── BoldNode
 │   full_match: `__ ICU__`
 │   inner_content: ` ICU`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` ICU`
-│   │   inner_content: ` ICU`├── TextNode
+│   │   full_match: `ICU`
+│   │   inner_content: `ICU`├── TextNode
 │   full_match: ` admission (standardized mean difference (95% CI): 0.49 (0.34-0.72) and `
 │   inner_content: ` admission (standardized mean difference (95% CI): 0.49 (0.34-0.72) and `├── BoldNode
 │   full_match: `__0.28__`
@@ -307,9 +316,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14225{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14225`

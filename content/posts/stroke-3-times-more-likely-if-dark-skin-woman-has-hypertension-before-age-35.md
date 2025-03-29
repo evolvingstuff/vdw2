@@ -12,7 +12,7 @@ categories:
 ---
 
 
- 
+
 <!-- {maketoc Title=""} -->
 
 ---
@@ -71,7 +71,7 @@ This could include stress related to financial issues, racism and other forms of
 
 This count & list is automatically updated
 
- ---
+---
 
 #### VitaminDWiki - 
 <!-- {SQL( db="vitamind")}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categid = 2 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
@@ -86,7 +86,7 @@ This count & list is automatically updated
 <code class="language-text">
 Markdown:
 --------
- 
+
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
 ---
@@ -145,7 +145,7 @@ This could include stress related to financial issues, racism and other forms of
 
 This count &amp; list is automatically updated
 
- ---
+---
 
 #### VitaminDWiki - 
 &lt;!-- {SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categid = 2 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
@@ -158,9 +158,7 @@ This count &amp; list is automatically updated
 
 AST Structure:
 -------------
-├── TextNode
-│   full_match: ` `
-│   inner_content: ` `├── DivNode
+├── DivNode
 │   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
 │   inner_content: `{maketoc Title=&quot;&quot;}`
 │   attrs_dict:
@@ -276,9 +274,9 @@ AST Structure:
 │   │   showname: y
 │   │   showtype: n
 │   │   one: y
-│   │   showTitle: n├── TextNode
-│   full_match: `\n ---\n`
-│   inner_content: `\n ---\n`├── HeadingNode
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki - {SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categid = 2 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Hypertension and Dark Skin`
 │   inner_content: `VitaminDWiki - {SQL( db=&quot;vitamind&quot;)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 101 OR categid = 2 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} studies in both categories Hypertension and Dark Skin`
 │   level: `4`
@@ -326,8 +324,8 @@ AST Structure:
 │   inner_content: ` (alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) `
-│   │   inner_content: ` (alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) `
+│   │   full_match: `(alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) `
+│   │   inner_content: `(alias(Stroke 3 times more likely if dark skin women has Hypertension before age 45 - Feb 2024)) `
 
 Original Tiki:
 -------------

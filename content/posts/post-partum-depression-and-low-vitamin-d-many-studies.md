@@ -67,7 +67,7 @@ Grupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud
 
 Grupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co
 
- Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3's impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3's relationship with PPD to enhance the life quality of pregnant women and their families.
+Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3's impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3's relationship with PPD to enhance the life quality of pregnant women and their families.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -83,7 +83,7 @@ Grupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad
 
 * "The FDA warned that the drug’s side effects can include drowsiness, dizziness, fatigue, diarrhea, urinary tract infection and nasopharyngitis (the common cold)."
 
-*  A persion "cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression."
+* A persion "cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression."
 
 ---
 
@@ -99,7 +99,7 @@ Hundreds of studies are compared at <a href="/posts/overview-loading-of-vitamin-
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14357 {SQL} -->
 </span> visits to this page
 
@@ -170,7 +170,7 @@ Grupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud
 
 Grupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co
 
- Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.
+Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -186,7 +186,7 @@ Grupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad
 
 * &quot;The FDA warned that the drug’s side effects can include drowsiness, dizziness, fatigue, diarrhea, urinary tract infection and nasopharyngitis (the common cold).&quot;
 
-*  A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;
+* A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;
 
 ---
 
@@ -202,7 +202,7 @@ Hundreds of studies are compared at &lt;a href=&quot;/posts/overview-loading-of-
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14357 {SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -351,8 +351,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `A Critical Look at Omega-3 Supplementation: A Thematic Review`
 │   │   inner_content: `A Critical Look at Omega-3 Supplementation: A Thematic Review`├── TextNode
-│   full_match: `\nHealthcare 2023,11, 3065. https://doi.org/10.3390/ healthcare11233065\nYamil Liscano yamil.liscano00@usc.edu.co 1 0 and Natalia Sanchez-Palacio 2\nGrupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud, Universidad Santiago de Cali, Cali 5183000, Colombia\nGrupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co\n\n Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.\n`
-│   inner_content: `\nHealthcare 2023,11, 3065. https://doi.org/10.3390/ healthcare11233065\nYamil Liscano yamil.liscano00@usc.edu.co 1 0 and Natalia Sanchez-Palacio 2\nGrupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud, Universidad Santiago de Cali, Cali 5183000, Colombia\nGrupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co\n\n Postpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.\n`├── FontNode
+│   full_match: `\nHealthcare 2023,11, 3065. https://doi.org/10.3390/ healthcare11233065\nYamil Liscano yamil.liscano00@usc.edu.co 1 0 and Natalia Sanchez-Palacio 2\nGrupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud, Universidad Santiago de Cali, Cali 5183000, Colombia\nGrupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co\n\nPostpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.\n`
+│   inner_content: `\nHealthcare 2023,11, 3065. https://doi.org/10.3390/ healthcare11233065\nYamil Liscano yamil.liscano00@usc.edu.co 1 0 and Natalia Sanchez-Palacio 2\nGrupo de Investigación en Salud Integral (GISI), Departamento Facultad de Salud, Universidad Santiago de Cali, Cali 5183000, Colombia\nGrupo de Investigación en Promoción de la Salud y Prevención de la Enfermedad, Universidad de Caldas, Manizales 170004, Colombia; natalia.sanchez@ucaldas.edu.co\n\nPostpartum depression (PPD) affects 10-20% of women. Traditional treatments have raised concerns, but omega-3 fatty acids show potential as an alternative. This thematic review, sourced from databases like PubMed and Scopus between 1 February 2023 and 15 March 2023, seeks to delve into the various perspectives on omega-3 supplementation for PPD. The criteria included studies detailing depressive symptoms, social functioning, and neurobiological variables. The review includes research with women showing PPD symptoms, randomized clinical trials, and articles in Spanish, English, and French. Exclusions were studies lacking proper control comparisons and other interventions besides omega-3. Data extraction was performed independently. Two key studies provide contrasting findings on omega-3&#39;s impact on PPD symptoms. In the study comparing DHA supplementation to a placebo, significant differences were not found in the EPDS scale, but differences were observed in the BDI scale. In contrast, another study recorded a significant decrease in depression scores in all dose groups, with reductions of 51.5% in the EPDS scale and 48.8% in the HRSD scale. Other studies, encompassing both prenatal and postpartum periods, underscore the differentiation between prenatal depression and PPD. Despite shared diagnostic criteria, PPD presents unique symptoms like restlessness, emotional lability, and baby-related concerns. It is crucial to address biases and obtain specific results, recommending exclusive PPD-focused studies. This review emphasizes the need for continuous exploration of omega-3&#39;s relationship with PPD to enhance the life quality of pregnant women and their families.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;18&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20746&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20746&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:
@@ -430,8 +430,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;`
-│   │   inner_content: ` A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;`├── HorizontalRuleNode
+│   │   full_match: `A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;`
+│   │   inner_content: `A persion &quot;cautioned that Zurzuvae is not a “magic pill” for broadly solving postpartum depression.&quot;`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!To be fast acting, Vitamin D needs to start with a loading dose (otherwise it takes many months)`
@@ -465,9 +465,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14357 {SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14357 `
@@ -483,24 +480,24 @@ AST Structure:
 │   inner_content: ` (alias(Perinatal depression decreased pnly by Vitamin D – Meta-analysis April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Perinatal depression decreased pnly by Vitamin D – Meta-analysis April 2023)) `
-│   │   inner_content: ` (alias(Perinatal depression decreased pnly by Vitamin D – Meta-analysis April 2023)) `├── TextNode
+│   │   full_match: `(alias(Perinatal depression decreased pnly by Vitamin D – Meta-analysis April 2023)) `
+│   │   inner_content: `(alias(Perinatal depression decreased pnly by Vitamin D – Meta-analysis April 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) ~/tc~`
 │   inner_content: ` (alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) `
-│   │   inner_content: ` (alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) `├── TextNode
+│   │   full_match: `(alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) `
+│   │   inner_content: `(alias(Perinatal depression decreased only by Vitamin D – Meta-analysis April 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) ~/tc~`
 │   inner_content: ` (alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) `
-│   │   inner_content: ` (alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) `
+│   │   full_match: `(alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) `
+│   │   inner_content: `(alias(Only Vitamin D was found to treat post-partum depression - Meta-analysis April 2023)) `
 
 Original Tiki:
 -------------

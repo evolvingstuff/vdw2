@@ -6974,8 +6974,8 @@ AST Structure:
 │   inner_content: ` (alias(VDR activators include sulforaphane and curcumin – June 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(VDR activators include sulforaphane and curcumin – June 2020)) `
-│   │   inner_content: ` (alias(VDR activators include sulforaphane and curcumin – June 2020)) `├── TextNode
+│   │   full_match: `(alias(VDR activators include sulforaphane and curcumin – June 2020)) `
+│   │   inner_content: `(alias(VDR activators include sulforaphane and curcumin – June 2020)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`
 

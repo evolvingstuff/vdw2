@@ -424,8 +424,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) `
-│   │   inner_content: ` (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) `
+│   │   full_match: `(alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) `
+│   │   inner_content: `(alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) `
 
 Original Tiki:
 -------------

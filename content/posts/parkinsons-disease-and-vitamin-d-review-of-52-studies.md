@@ -487,8 +487,8 @@ AST Structure:
 │   inner_content: ` Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators`
-│   │   inner_content: ` Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators`
+│   │   full_match: `Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators`
+│   │   inner_content: `Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators`
 
 Original Tiki:
 -------------

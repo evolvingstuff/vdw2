@@ -82,9 +82,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -92,7 +92,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14409{SQL} -->
 </span> visits to this page
 
@@ -173,9 +173,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -183,7 +183,7 @@ This list is automatically updated
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14409{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -267,8 +267,8 @@ AST Structure:
 │   inner_content: ` Albright and colleagues1 assessed vitamin D status before trauma and related vitamin D status to ACL injury and revision surgery rates.`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Albright and colleagues1 assessed vitamin D status before trauma and related vitamin D status to ACL injury and revision surgery rates.`
-│   │   inner_content: ` Albright and colleagues1 assessed vitamin D status before trauma and related vitamin D status to ACL injury and revision surgery rates.`├── TextNode
+│   │   full_match: `Albright and colleagues1 assessed vitamin D status before trauma and related vitamin D status to ACL injury and revision surgery rates.`
+│   │   inner_content: `Albright and colleagues1 assessed vitamin D status before trauma and related vitamin D status to ACL injury and revision surgery rates.`├── TextNode
 │   full_match: ` This is significant because Albright and colleagues1 controlled for the potentially deleterious and confounding influence of trauma-induced inflammation on serum 25(OH)D concentrations2,  3,  4 by assessing vitamin D status before an ACL injury.\n\nThe systemic inflammatory response to an ACL injury (and surgery) is characterized by transient perturbations in diverse cytokines.5,  6,  7 In addition to regulating host defenses and cell signaling, cytokines moderate the enzymatic machinery of vitamin D metabolism in peripheral blood immune cells.2,8,9 Thus it is plausible that cytokine alterations in the circulation after an ACL injury contribute to the conversation of 25(OH)D to other vitamin D metabolites (e.g., 1,25-dihydroxyvitamin D).6 This, in turn, temporally compromises serum 25(OH)D concentrations and potentially confounds both the interpretation of vitamin D status4,10,11 and its subsequently inferred association with desired outcomes or variables.\n\nThe unique findings by Albright and colleagues1 also establish the basis for future vitamin D research in those at risk for an ACL injury and outcomes after an ACL injury and surgery. For example, taking into consideration the recent association of index ACL tears with low vitamin D1 and concomitant knee structure damage with an ACL injury,12 it is reasonable to presume that low serum 25(OH)D exacerbates knee structure damage (e.g., meniscus, cartilage, or both) with an ACL injury. Second, low vitamin D and ACL injuries are related to the progression in knee osteoarthritis and post-traumatic knee osteoarthritis (PTOA), respectively.13,14 However, it is unknown whether low vitamin D contributes to the development and progression in PTOA after an ACL injury. Third, low vitamin D associates with muscular weakness after an ACL injury15 and with muscular atrophy and weakness in other conditions.16,  17,  18 Quadriceps atrophy and weakness are predominant impairments that continue to challenge the rehabilitative efforts after an ACL injury and surgery, and it is unknown if correcting hypovitaminosis D diminishes muscular impairments and improves outcomes after an ACL injury.\n\nAlbright and colleagues1 are commended for performing an outstanding study that extends our current knowledge. Future research assessing the impact of trauma induced alterations on serum 25(OH)D and determining whether correcting hypovitaminosis D improves outcomes after an ACL injury are warranted.\n`
 │   inner_content: ` This is significant because Albright and colleagues1 controlled for the potentially deleterious and confounding influence of trauma-induced inflammation on serum 25(OH)D concentrations2,  3,  4 by assessing vitamin D status before an ACL injury.\n\nThe systemic inflammatory response to an ACL injury (and surgery) is characterized by transient perturbations in diverse cytokines.5,  6,  7 In addition to regulating host defenses and cell signaling, cytokines moderate the enzymatic machinery of vitamin D metabolism in peripheral blood immune cells.2,8,9 Thus it is plausible that cytokine alterations in the circulation after an ACL injury contribute to the conversation of 25(OH)D to other vitamin D metabolites (e.g., 1,25-dihydroxyvitamin D).6 This, in turn, temporally compromises serum 25(OH)D concentrations and potentially confounds both the interpretation of vitamin D status4,10,11 and its subsequently inferred association with desired outcomes or variables.\n\nThe unique findings by Albright and colleagues1 also establish the basis for future vitamin D research in those at risk for an ACL injury and outcomes after an ACL injury and surgery. For example, taking into consideration the recent association of index ACL tears with low vitamin D1 and concomitant knee structure damage with an ACL injury,12 it is reasonable to presume that low serum 25(OH)D exacerbates knee structure damage (e.g., meniscus, cartilage, or both) with an ACL injury. Second, low vitamin D and ACL injuries are related to the progression in knee osteoarthritis and post-traumatic knee osteoarthritis (PTOA), respectively.13,14 However, it is unknown whether low vitamin D contributes to the development and progression in PTOA after an ACL injury. Third, low vitamin D associates with muscular weakness after an ACL injury15 and with muscular atrophy and weakness in other conditions.16,  17,  18 Quadriceps atrophy and weakness are predominant impairments that continue to challenge the rehabilitative efforts after an ACL injury and surgery, and it is unknown if correcting hypovitaminosis D diminishes muscular impairments and improves outcomes after an ACL injury.\n\nAlbright and colleagues1 are commended for performing an outstanding study that extends our current knowledge. Future research assessing the impact of trauma induced alterations on serum 25(OH)D and determining whether correcting hypovitaminosis D improves outcomes after an ACL injury are warranted.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20499&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
@@ -386,14 +386,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;KNEE&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!! There have been ~~#00F: {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14409{SQL}~~ visits to this page `
@@ -409,9 +409,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14409{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14409`
@@ -427,8 +424,8 @@ AST Structure:
 │   inner_content: ` (alias(ACL knee tears 1.8X more likely in 2 years if low Vitamin D – April 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(ACL knee tears 1.8X more likely in 2 years if low Vitamin D – April 2023)) `
-│   │   inner_content: ` (alias(ACL knee tears 1.8X more likely in 2 years if low Vitamin D – April 2023)) `
+│   │   full_match: `(alias(ACL knee tears 1.8X more likely in 2 years if low Vitamin D – April 2023)) `
+│   │   inner_content: `(alias(ACL knee tears 1.8X more likely in 2 years if low Vitamin D – April 2023)) `
 
 Original Tiki:
 -------------

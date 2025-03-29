@@ -21,7 +21,7 @@ categories:
 
  **Use of isotretinoin among girls and women of childbearing age and occurrence of isotretinoin-exposed pregnancies in Germany: A population-based study** 
 
- January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/10.1371/journal.pmed.1004339)
+January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/10.1371/journal.pmed.1004339)
 
 * "This finding and the fact that at least  **45%**  of exposed pregnancies (74 of 164) in our study ended in an  **induced abortion** —as compared to  **4%**  when all pregnancies ..."
 
@@ -63,7 +63,7 @@ Markdown:
 
  **Use of isotretinoin among girls and women of childbearing age and occurrence of isotretinoin-exposed pregnancies in Germany: A population-based study** 
 
- January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/10.1371/journal.pmed.1004339)
+January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/10.1371/journal.pmed.1004339)
 
 * &quot;This finding and the fact that at least  **45%**  of exposed pregnancies (74 of 164) in our study ended in an  **induced abortion** —as compared to  **4%**  when all pregnancies ...&quot;
 
@@ -135,8 +135,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Use of isotretinoin among girls and women of childbearing age and occurrence of isotretinoin-exposed pregnancies in Germany: A population-based study`
 │   │   inner_content: `Use of isotretinoin among girls and women of childbearing age and occurrence of isotretinoin-exposed pregnancies in Germany: A population-based study`├── TextNode
-│   full_match: `\n January 25, 2024 `
-│   inner_content: `\n January 25, 2024 `├── LinkNode
+│   full_match: `\nJanuary 25, 2024 `
+│   inner_content: `\nJanuary 25, 2024 `├── LinkNode
 │   full_match: `[https://doi.org/10.1371/journal.pmed.1004339]`
 │   inner_content: `https://doi.org/10.1371/journal.pmed.1004339`
 │   url: `https://doi.org/10.1371/journal.pmed.1004339`
@@ -282,24 +282,24 @@ AST Structure:
 │   inner_content: ` (alias(Acne treated by accutane assocated with birth defects (reduces vitamin D) - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Acne treated by accutane assocated with birth defects (reduces vitamin D) - April 2024)) `
-│   │   inner_content: ` (alias(Acne treated by accutane assocated with birth defects (reduces vitamin D) - April 2024)) `├── TextNode
+│   │   full_match: `(alias(Acne treated by accutane assocated with birth defects (reduces vitamin D) - April 2024)) `
+│   │   inner_content: `(alias(Acne treated by accutane assocated with birth defects (reduces vitamin D) - April 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) ~/tc~`
 │   inner_content: ` (alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) `
-│   │   inner_content: ` (alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) `├── TextNode
+│   │   full_match: `(alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) `
+│   │   inner_content: `(alias(Acne treated by accutane (reduces Vit D) associated with birth defects, abortions - April 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) ~/tc~`
 │   inner_content: ` (alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) `
-│   │   inner_content: ` (alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) `
+│   │   full_match: `(alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) `
+│   │   inner_content: `(alias(Accutane (reduces Vit D) for acne associated with birth defects, abortions - April 2024)) `
 
 Original Tiki:
 -------------

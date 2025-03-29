@@ -161,9 +161,6 @@ AST Structure:
 │   full_match: `__ ~~#F06:Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans~~__`
 │   inner_content: ` ~~#F06:Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans~~`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── ColorNode
 │   │   full_match: `~~#F06:Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans~~`
 │   │   inner_content: `Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans`
@@ -255,8 +252,8 @@ AST Structure:
 │   inner_content: ` (alias(25%  fewer neurons in males born from COVID-19 vaccinated mothers (rats) - Jan 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(25%  fewer neurons in males born from COVID-19 vaccinated mothers (rats) - Jan 2024)) `
-│   │   inner_content: ` (alias(25%  fewer neurons in males born from COVID-19 vaccinated mothers (rats) - Jan 2024)) `
+│   │   full_match: `(alias(25%  fewer neurons in males born from COVID-19 vaccinated mothers (rats) - Jan 2024)) `
+│   │   inner_content: `(alias(25%  fewer neurons in males born from COVID-19 vaccinated mothers (rats) - Jan 2024)) `
 
 Original Tiki:
 -------------

@@ -17,7 +17,7 @@ categories:
 
 #### Cancer Metabolism as a Therapeutic Target and Review of Interventions
 
- Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245
+Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245
 
 Matthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*
 
@@ -154,9 +154,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -175,9 +175,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -192,15 +192,15 @@ This list is automatically updated
  **Note: This does NOT include   Leukemia,  Lymphoma, Melanoma,  etc.** 
 
 <!-- {LIST()}
-  {filter type="wiki page"}
-  {list max="1000"}
-  {filter field="title" content="cancer AND Vitamin"}
-  {filter field="title" content="NOT \" K2\""}
-  {sort mode="modification_date_major_desc"}
+{filter type="wiki page"}
+{list max="1000"}
+{filter field="title" content="cancer AND Vitamin"}
+{filter field="title" content="NOT \" K2\""}
+{sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -212,15 +212,15 @@ This list is automatically updated
 
  **[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%28cancer+metabolism%29+%22vitamin+d%22&btnG=)** 
 
-*  An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
+* An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
 
- * Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF
+* Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF
 
- * New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF
+* New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF
 
- *Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF
+* Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF
 
-*  Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF
+* Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -233,7 +233,7 @@ Markdown:
 
 #### Cancer Metabolism as a Therapeutic Target and Review of Interventions
 
- Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245
+Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245
 
 Matthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*
 
@@ -370,9 +370,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -391,9 +391,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -408,15 +408,15 @@ This list is automatically updated
  **Note: This does NOT include   Leukemia,  Lymphoma, Melanoma,  etc.** 
 
 &lt;!-- {LIST()}
-  {filter type=&quot;wiki page&quot;}
-  {list max=&quot;1000&quot;}
-  {filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}
-  {filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}
-  {sort mode=&quot;modification_date_major_desc&quot;}
+{filter type=&quot;wiki page&quot;}
+{list max=&quot;1000&quot;}
+{filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -428,15 +428,15 @@ This list is automatically updated
 
  **[Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28cancer+metabolism%29+%22vitamin+d%22&amp;btnG=)** 
 
-*  An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
+* An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF
 
- * Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF
+* Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF
 
- * New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF
+* New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF
 
- *Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF
+* Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF
 
-*  Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF
+* Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF
 
 AST Structure:
 -------------
@@ -462,8 +462,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Cancer Metabolism as a Therapeutic Target and Review of Interventions`
 │   │   inner_content: `Cancer Metabolism as a Therapeutic Target and Review of Interventions`├── TextNode
-│   full_match: `\n Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245\nMatthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*\nDepartment of Physics and Astronomy, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, The Netherlands\nEbMC Squared CIC, Bath BA2 4BL, UK\nDepartment of Physics, University of Alberta, 11335 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada\nDepartment of Data Science and Engineering, The Silesian University of Technology, 44-100 Gliwice, Poland\nDIMEAS, Politecnico di Torino, Corso Duca degli Abruzzi 24, I-1029 Turin, Italy\nFrontline COVID-19 Critical Care Alliance, Washington, DC 20036, USA * Correspondence: pmarik@flccc.net\n\n`
-│   inner_content: `\n Nutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245\nMatthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*\nDepartment of Physics and Astronomy, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, The Netherlands\nEbMC Squared CIC, Bath BA2 4BL, UK\nDepartment of Physics, University of Alberta, 11335 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada\nDepartment of Data Science and Engineering, The Silesian University of Technology, 44-100 Gliwice, Poland\nDIMEAS, Politecnico di Torino, Corso Duca degli Abruzzi 24, I-1029 Turin, Italy\nFrontline COVID-19 Critical Care Alliance, Washington, DC 20036, USA * Correspondence: pmarik@flccc.net\n\n`├── ImgNode
+│   full_match: `\nNutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245\nMatthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*\nDepartment of Physics and Astronomy, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, The Netherlands\nEbMC Squared CIC, Bath BA2 4BL, UK\nDepartment of Physics, University of Alberta, 11335 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada\nDepartment of Data Science and Engineering, The Silesian University of Technology, 44-100 Gliwice, Poland\nDIMEAS, Politecnico di Torino, Corso Duca degli Abruzzi 24, I-1029 Turin, Italy\nFrontline COVID-19 Critical Care Alliance, Washington, DC 20036, USA * Correspondence: pmarik@flccc.net\n\n`
+│   inner_content: `\nNutrients 2023, 15, 4245. https://doi.org/10.3390/ nu15194245\nMatthew T. J. Halma 1,2 , Jack A. Tuszynski3,4,5 and Paul E. Marik ^*\nDepartment of Physics and Astronomy, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, The Netherlands\nEbMC Squared CIC, Bath BA2 4BL, UK\nDepartment of Physics, University of Alberta, 11335 Saskatchewan Dr NW, Edmonton, AB T6G 2M9, Canada\nDepartment of Data Science and Engineering, The Silesian University of Technology, 44-100 Gliwice, Poland\nDIMEAS, Politecnico di Torino, Corso Duca degli Abruzzi 24, I-1029 Turin, Italy\nFrontline COVID-19 Critical Care Alliance, Washington, DC 20036, USA * Correspondence: pmarik@flccc.net\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20157&quot; width=&quot;800&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -1954,14 +1954,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;100&quot;}\n{filter categories=&quot;82&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:5+~~  VitaminDWiki LOADING DOSE pages with CANCER etc in title`
@@ -1990,14 +1990,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;73&quot;}\n{filter field=&quot;title&quot; content=&quot;Cancer OR  Leukemia OR lymphoma OR Melanoma  OR basal OR metastatic OR Myeloma&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:726+~~  VitaminDWiki pages have both CANCER  AND VITAMIN  in the title`
@@ -2038,14 +2038,14 @@ AST Structure:
 │   │   │   inner_content: `Note: This does NOT include   Leukemia,  Lymphoma, Melanoma,  etc.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n  {filter type=&quot;wiki page&quot;}\n  {list max=&quot;1000&quot;}\n  {filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n  {filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n  {list max=&quot;1000&quot;}\n  {filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n  {filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;1000&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;1000&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n  {filter type=&quot;wiki page&quot;}\n  {list max=&quot;1000&quot;}\n  {filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n  {filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n  {filter type=&quot;wiki page&quot;}\n  {list max=&quot;1000&quot;}\n  {filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n  {filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n  {sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;1000&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{list max=&quot;1000&quot;}\n{filter field=&quot;title&quot; content=&quot;cancer AND Vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; K2\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!600,000 Hits for (cancer metabolism) &quot;vitamin d&quot; in Google Scholar Oct 2023`
@@ -2075,17 +2075,44 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF`
-│   │   inner_content: ` An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF`├── TextNode
-│   full_match: `\n * Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF\n * New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF\n *Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF\n`
-│   inner_content: `\n * Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF\n * New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF\n *Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF\n`├── ListItemNode
+│   │   full_match: `An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF`
+│   │   inner_content: `An update on vitamin D signaling and cancer - February 2022 https://doi.org/10.1016/j.semcancer.2020.05.018  FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF`
+│   inner_content: ` Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF`
+│   │   inner_content: `Vitamin D and the risk for cancer: A molecular analysis - Feb 2022 https://doi.org/10.1016/j.bcp.2021.114735 FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF`
+│   inner_content: ` New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF`
+│   │   inner_content: `New insights into molecules and pathways of cancer metabolism and therapeutic implications - Nov 2020 https://doi.org/10.1002/cac2.12112 FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF`
+│   inner_content: `Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF`
+│   │   inner_content: `Relationship Between Vitamin D Supplementation and Improvement in Body for Carcinogenesis: A Literature Review 2022 - https://doi.org/10.37275/bsm.v6i2.447 FREE PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
 │   full_match: `* Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
 │   inner_content: ` Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
-│   │   inner_content: ` Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
+│   │   full_match: `Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
+│   │   inner_content: `Metabolism and Colorectal Cancer - Jan 2023 https://doi.org/10.1146/annurev-pathmechdis-031521-041113 FREE PDF`
 
 Original Tiki:
 -------------

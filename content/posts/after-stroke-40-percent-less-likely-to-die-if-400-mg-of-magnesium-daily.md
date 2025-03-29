@@ -326,8 +326,8 @@ AST Structure:
 │   inner_content: ` (alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) `
-│   │   inner_content: ` (alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) `
+│   │   full_match: `(alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) `
+│   │   inner_content: `(alias(After stroke 40% less likely to die if lots of Magnesium - Dec 2023)) `
 
 Original Tiki:
 -------------

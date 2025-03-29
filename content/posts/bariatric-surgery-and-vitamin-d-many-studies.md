@@ -14,9 +14,9 @@ categories:
 
 1 year after Bariatric Surgery (RYGB)
 
- &nbsp;&nbsp;  **<span style="color:orange;">74 lbs</span>**  lost if  >30 ng of Vitamin D
+&nbsp;&nbsp;  **<span style="color:orange;">74 lbs</span>**  lost if  >30 ng of Vitamin D
 
- &nbsp;&nbsp;  **<span style="color:orange;">48 lbs</span>**  lost if <30 ng of Vitamin D
+&nbsp;&nbsp;  **<span style="color:orange;">48 lbs</span>**  lost if <30 ng of Vitamin D
 
 Note: Might not have needed surgery if <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">weight loss plan + weekly 50,000 IU of Vitamin D</a>
 
@@ -35,9 +35,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -85,13 +85,13 @@ Hormones and Inflammatory Markers after Bariatric Surgery. Metabolites 2023,13, 
 
 Roberta França h2, Adryana Cordeiro cordeiroadryana@gmail.com, Silvia Elaine Pereira 2,:3, Carlos José Saboya 3 and Andrea Ramalho 2,4
 
-1.  Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil
+1. Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil
 
-1.  Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
+1. Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
 
-1.  Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil
+1. Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil
 
-1.  Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
+1. Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -149,9 +149,9 @@ Markdown:
 
 1 year after Bariatric Surgery (RYGB)
 
- &amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;74 lbs&lt;/span&gt;**  lost if  &gt;30 ng of Vitamin D
+&amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;74 lbs&lt;/span&gt;**  lost if  &gt;30 ng of Vitamin D
 
- &amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;48 lbs&lt;/span&gt;**  lost if &lt;30 ng of Vitamin D
+&amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;48 lbs&lt;/span&gt;**  lost if &lt;30 ng of Vitamin D
 
 Note: Might not have needed surgery if &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;weight loss plan + weekly 50,000 IU of Vitamin D&lt;/a&gt;
 
@@ -170,9 +170,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -220,13 +220,13 @@ Hormones and Inflammatory Markers after Bariatric Surgery. Metabolites 2023,13, 
 
 Roberta França h2, Adryana Cordeiro cordeiroadryana@gmail.com, Silvia Elaine Pereira 2,:3, Carlos José Saboya 3 and Andrea Ramalho 2,4
 
-1.  Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil
+1. Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil
 
-1.  Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
+1. Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
 
-1.  Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil
+1. Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil
 
-1.  Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
+1. Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -279,15 +279,15 @@ Study can be viewed on [from DeepDyve](https://www.deepdyve.com/lp/american-medi
 AST Structure:
 -------------
 ├── DivNode
-│   full_match: `{DIV(style=&quot;font-size:20px;&quot;)}\n1 year after Bariatric Surgery (RYGB)\n ~hs~~hs~ __~~#090:74 lbs~~__ lost if  &gt;30 ng of Vitamin D\n ~hs~~hs~ __~~#F00:48 lbs~~__ lost if &lt;30 ng of Vitamin D\n&#39;&#39;Note: Might not have needed surgery if ((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D))&#39;&#39;\n{DIV}`
-│   inner_content: `\n1 year after Bariatric Surgery (RYGB)\n ~hs~~hs~ __~~#090:74 lbs~~__ lost if  &gt;30 ng of Vitamin D\n ~hs~~hs~ __~~#F00:48 lbs~~__ lost if &lt;30 ng of Vitamin D\n&#39;&#39;Note: Might not have needed surgery if ((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D))&#39;&#39;\n`
+│   full_match: `{DIV(style=&quot;font-size:20px;&quot;)}\n1 year after Bariatric Surgery (RYGB)\n~hs~~hs~ __~~#090:74 lbs~~__ lost if  &gt;30 ng of Vitamin D\n~hs~~hs~ __~~#F00:48 lbs~~__ lost if &lt;30 ng of Vitamin D\n&#39;&#39;Note: Might not have needed surgery if ((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D))&#39;&#39;\n{DIV}`
+│   inner_content: `\n1 year after Bariatric Surgery (RYGB)\n~hs~~hs~ __~~#090:74 lbs~~__ lost if  &gt;30 ng of Vitamin D\n~hs~~hs~ __~~#F00:48 lbs~~__ lost if &lt;30 ng of Vitamin D\n&#39;&#39;Note: Might not have needed surgery if ((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D))&#39;&#39;\n`
 │   attrs_dict:
 │   │   raw_content: (style=&quot;font-size:20px;&quot;)
 │   │   style: font-size:20px;
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n1 year after Bariatric Surgery (RYGB)\n `
-│   │   inner_content: `\n1 year after Bariatric Surgery (RYGB)\n `
+│   │   full_match: `\n1 year after Bariatric Surgery (RYGB)\n`
+│   │   inner_content: `\n1 year after Bariatric Surgery (RYGB)\n`
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``
@@ -309,8 +309,8 @@ AST Structure:
 │   │   │   │   full_match: `74 lbs`
 │   │   │   │   inner_content: `74 lbs`
 │   ├── TextNode
-│   │   full_match: ` lost if  &gt;30 ng of Vitamin D\n `
-│   │   inner_content: ` lost if  &gt;30 ng of Vitamin D\n `
+│   │   full_match: ` lost if  &gt;30 ng of Vitamin D\n`
+│   │   inner_content: ` lost if  &gt;30 ng of Vitamin D\n`
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~`
 │   │   inner_content: ``
@@ -387,14 +387,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter field=&quot;title&quot; content=&quot;BARIATRIC&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Many Bariatric Surgeries reduce absorption of vitamins and minerals - including Vitamin D`
@@ -529,8 +529,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil`
-│   │   inner_content: ` Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil`├── TextNode
+│   │   full_match: `Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil`
+│   │   inner_content: `Faculty of Medicine, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-598, Brazil`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
@@ -538,8 +538,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
-│   │   inner_content: ` Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`├── TextNode
+│   │   full_match: `Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
+│   │   inner_content: `Micronutrients Research Center (NPqM), Institute of Nutrition, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil`
@@ -547,8 +547,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil`
-│   │   inner_content: ` Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil`├── TextNode
+│   │   full_match: `Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil`
+│   │   inner_content: `Multidisciplinary Center of Bariatric and Metabolic Surgery Carlos Saboya, Rio de Janeiro 22280-020, Brazil`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `# Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
@@ -556,8 +556,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
-│   │   inner_content: ` Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`├── TextNode
+│   │   full_match: `Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`
+│   │   inner_content: `Department of Social Applied Nutrition, Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro 21941-902, Brazil`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;19524&quot; width=&quot;800&quot;}`

@@ -12,7 +12,7 @@ categories:
 ---
 
 
- &nbsp;&nbsp;&nbsp;  **<span style="color:orange;">Also restricted by some foods and drugs</span>** 
+&nbsp;&nbsp;&nbsp;  **<span style="color:orange;">Also restricted by some foods and drugs</span>** 
 
 <!-- {maketoc Title=""} -->
 
@@ -243,7 +243,7 @@ A number of anti-angiogenesis drugs have been FDA-approved and are being used in
 <code class="language-text">
 Markdown:
 --------
- &amp;nbsp;&amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;Also restricted by some foods and drugs&lt;/span&gt;** 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;Also restricted by some foods and drugs&lt;/span&gt;** 
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -479,9 +479,6 @@ AST Structure:
 │   │   raw_content:  size=&quot;22&quot;
 │   │   size: 22
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~~hs~~hs~`
 │   │   inner_content: ``

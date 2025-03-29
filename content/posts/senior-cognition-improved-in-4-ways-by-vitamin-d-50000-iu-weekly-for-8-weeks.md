@@ -35,7 +35,7 @@ Results: Mean age was 63 ± 6.7 years and baseline  **vitamin D level was 7.8** 
 
 * perseveration scores of the Verbal Memory Processes Test (P = 0.005),
 
-*  topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
+* topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
 
 * spontaneous self-correction of an error in the Boston Naming Test (P = 0.003) 
 
@@ -104,7 +104,7 @@ Results: Mean age was 63 ± 6.7 years and baseline  **vitamin D level was 7.8** 
 
 * perseveration scores of the Verbal Memory Processes Test (P = 0.005),
 
-*  topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
+* topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the 
 
 * spontaneous self-correction of an error in the Boston Naming Test (P = 0.003) 
 
@@ -232,8 +232,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `
-│   │   inner_content: ` topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `├── TextNode
+│   │   full_match: `topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `
+│   │   inner_content: `topographical accuracy of the Warrington Recognition Memory Test (P = 0.002), and the `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*spontaneous self-correction of an error in the Boston Naming Test (P = 0.003) `

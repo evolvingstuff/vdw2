@@ -220,24 +220,24 @@ AST Structure:
 │   inner_content: ` (alias(Moderna COVID vax &quot;safety&quot; report &quot;only)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Moderna COVID vax &quot;safety&quot; report &quot;only)) `
-│   │   inner_content: ` (alias(Moderna COVID vax &quot;safety&quot; report &quot;only)) `├── TextNode
+│   │   full_match: `(alias(Moderna COVID vax &quot;safety&quot; report &quot;only)) `
+│   │   inner_content: `(alias(Moderna COVID vax &quot;safety&quot; report &quot;only)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) ~/tc~`
 │   inner_content: ` (alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) `
-│   │   inner_content: ` (alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) `├── TextNode
+│   │   full_match: `(alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) `
+│   │   inner_content: `(alias(Moderna report: COVID vax caused &quot;only  17,751 deaths - April 2024)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) ~/tc~`
 │   inner_content: ` (alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) `
-│   │   inner_content: ` (alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) `
+│   │   full_match: `(alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) `
+│   │   inner_content: `(alias(Moderna report: COVID vax caused &quot;only&quot; 17,751 deaths - April 2024)) `
 
 Original Tiki:
 -------------

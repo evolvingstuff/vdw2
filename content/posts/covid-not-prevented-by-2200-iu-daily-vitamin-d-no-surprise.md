@@ -40,7 +40,7 @@ Conclusion: In this prospective study of health care workers, neither serum 25OH
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14303{SQL} -->
 </span> visits to this page
 
@@ -81,7 +81,7 @@ Conclusion: In this prospective study of health care workers, neither serum 25OH
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14303{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -197,9 +197,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14303{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14303`
@@ -215,8 +212,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) `
-│   │   inner_content: ` (alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) `
+│   │   full_match: `(alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) `
+│   │   inner_content: `(alias(COVID not prevented by 2,200 IU daily vitamin D ( no surpise) - March 2023)) `
 
 Original Tiki:
 -------------

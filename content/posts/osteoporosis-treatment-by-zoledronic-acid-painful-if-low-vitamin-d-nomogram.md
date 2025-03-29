@@ -67,7 +67,7 @@ Musculoskeletal pain is a common symptom of APR in OP patients treated with intr
 
 ---
 
-##### There have been  <span style="color:orange;"> 
+##### There have been  <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14789{SQL} -->
 </span> visits to this page
 
@@ -135,7 +135,7 @@ Musculoskeletal pain is a common symptom of APR in OP patients treated with intr
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; 
+##### There have been  &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14789{SQL} --&gt;
 &lt;/span&gt; visits to this page
 
@@ -342,9 +342,6 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
 │   │   ├── SqlNode
 │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT hits FROM tiki_pages WHERE page_id=14789{SQL}`
 │   │   │   inner_content: `SELECT hits FROM tiki_pages WHERE page_id=14789`
@@ -360,8 +357,8 @@ AST Structure:
 │   inner_content: ` (alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) `
-│   │   inner_content: ` (alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) `
+│   │   full_match: `(alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) `
+│   │   inner_content: `(alias(Osteoporosis treatment by zoledronic acid painful if low vitamin D (nomogram) –  Oct 2023)) `
 
 Original Tiki:
 -------------

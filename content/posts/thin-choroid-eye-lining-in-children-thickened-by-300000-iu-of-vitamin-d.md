@@ -35,13 +35,13 @@ Design: Prospective, case-control study.
 
 Methods: Choroidal structural parameters, including the choroidal thickness (CT) at five points,
 
-1.  total choroidal area (TA), 
+1. total choroidal area (TA), 
 
 1. luminal choroidal area (LA), 
 
 1. stromal choroidal area (SA), and
 
-1.  choroidal vascular index (CVI), 
+1. choroidal vascular index (CVI), 
 
 in patients in the pediatric age group who were deficient in Vit-D, in Group 1, and those who were not, in Group 2, were compared. The patients were divided into 3 different groups according to how deficient in Vit-D they were. This was re-evaluated after treatment.
 
@@ -105,13 +105,13 @@ Design: Prospective, case-control study.
 
 Methods: Choroidal structural parameters, including the choroidal thickness (CT) at five points,
 
-1.  total choroidal area (TA), 
+1. total choroidal area (TA), 
 
 1. luminal choroidal area (LA), 
 
 1. stromal choroidal area (SA), and
 
-1.  choroidal vascular index (CVI), 
+1. choroidal vascular index (CVI), 
 
 in patients in the pediatric age group who were deficient in Vit-D, in Group 1, and those who were not, in Group 2, were compared. The patients were divided into 3 different groups according to how deficient in Vit-D they were. This was re-evaluated after treatment.
 
@@ -219,8 +219,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` total choroidal area (TA), `
-│   │   inner_content: ` total choroidal area (TA), `├── TextNode
+│   │   full_match: `total choroidal area (TA), `
+│   │   inner_content: `total choroidal area (TA), `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#luminal choroidal area (LA), `
@@ -246,8 +246,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` choroidal vascular index (CVI), `
-│   │   inner_content: ` choroidal vascular index (CVI), `├── TextNode
+│   │   full_match: `choroidal vascular index (CVI), `
+│   │   inner_content: `choroidal vascular index (CVI), `├── TextNode
 │   full_match: `\nin patients in the pediatric age group who were deficient in Vit-D, in Group 1, and those who were not, in Group 2, were compared. The patients were divided into 3 different groups according to how deficient in Vit-D they were. This was re-evaluated after treatment.\n\nResults: Group 1 consisted of 83 patients and group 2 consisted of 85 patients. CT at all five points, and the TA, SA, LA, and CVI, were lower in Group 1. And for all of these, a significant increase was seen post-treatment. While a significant increase was observed in all of the values in the group with the most severe deficiency in Vit-D, significant changes were observed in the TA, LA, SA, and CVI values in the group that was mildly deficient in Vit-D. There was no significant post-treatment value in the CT values (except for the Temporal 1500 CT `
 │   inner_content: `\nin patients in the pediatric age group who were deficient in Vit-D, in Group 1, and those who were not, in Group 2, were compared. The patients were divided into 3 different groups according to how deficient in Vit-D they were. This was re-evaluated after treatment.\n\nResults: Group 1 consisted of 83 patients and group 2 consisted of 85 patients. CT at all five points, and the TA, SA, LA, and CVI, were lower in Group 1. And for all of these, a significant increase was seen post-treatment. While a significant increase was observed in all of the values in the group with the most severe deficiency in Vit-D, significant changes were observed in the TA, LA, SA, and CVI values in the group that was mildly deficient in Vit-D. There was no significant post-treatment value in the CT values (except for the Temporal 1500 CT `├── LinkNode
 │   full_match: `[P = 0.012]`

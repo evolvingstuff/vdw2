@@ -184,7 +184,7 @@ My wife also uses it for skin problems - but washes it off after about 10 minute
 
 #### VitaminDWiki – <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">Nanoemulsion Vitamin D may be a substantially better form</a> updated March 2019
 
- - - - - - - - - - - - - - -
+- - - - - - - - - - - - - -
 
 
 
@@ -368,7 +368,7 @@ My wife also uses it for skin problems - but washes it off after about 10 minute
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form&quot;&gt;Nanoemulsion Vitamin D may be a substantially better form&lt;/a&gt; updated March 2019
 
- - - - - - - - - - - - - - -
+- - - - - - - - - - - - - -
 
 
 
@@ -1331,8 +1331,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ``
 │   │   inner_content: ``├── TextNode
-│   full_match: `\n - - - - - - - - - - - - - -\n`
-│   inner_content: `\n - - - - - - - - - - - - - -\n`├── IncludeNode
+│   full_match: `\n- - - - - - - - - - - - - -\n`
+│   inner_content: `\n- - - - - - - - - - - - - -\n`├── IncludeNode
 │   full_match: `{include page=&quot;Nanoemulsion Vitamin D may be a substantially better form&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:

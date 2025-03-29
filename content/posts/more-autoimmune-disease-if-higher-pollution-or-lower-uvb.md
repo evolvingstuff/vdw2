@@ -543,8 +543,8 @@ AST Structure:
 │   inner_content: ` (alias(more autoimmune disease if high polution or low UVB - Feb 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(more autoimmune disease if high polution or low UVB - Feb 2023)) `
-│   │   inner_content: ` (alias(more autoimmune disease if high polution or low UVB - Feb 2023)) `
+│   │   full_match: `(alias(more autoimmune disease if high polution or low UVB - Feb 2023)) `
+│   │   inner_content: `(alias(more autoimmune disease if high polution or low UVB - Feb 2023)) `
 
 Original Tiki:
 -------------

@@ -605,9 +605,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -1226,9 +1226,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -1296,8 +1296,8 @@ AST Structure:
 │   │   inner_content: ` muscle `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` muscle `
-│   │   │   inner_content: ` muscle `
+│   │   │   full_match: `muscle `
+│   │   │   inner_content: `muscle `
 │   ├── TextNode
 │   │   full_match: `cells, `
 │   │   inner_content: `cells, `
@@ -1456,8 +1456,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cells, cardiomyocytes, `
 │   inner_content: `cells, cardiomyocytes, `├── BoldNode
 │   full_match: `__pericytes__`
@@ -1529,8 +1529,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cells, cardiomyocytes, `
 │   inner_content: `cells, cardiomyocytes, `├── BoldNode
 │   full_match: `__pericytes__`
@@ -1629,8 +1629,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cells, `
 │   inner_content: `cells, `├── BoldNode
 │   full_match: `__cardiac__`
@@ -2201,8 +2201,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cells (VSMCs) are an essential component of the medial layer of arteries. The main function of VSMCs is the regulation of blood vessel tone, blood stream, and blood pressure (Shi et al., 2020; `
 │   inner_content: `cells (VSMCs) are an essential component of the medial layer of arteries. The main function of VSMCs is the regulation of blood vessel tone, blood stream, and blood pressure (Shi et al., 2020; `├── LinkNode
 │   full_match: `[118]`
@@ -2218,8 +2218,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `myosin heavy chain. However, upon vascular injury, VSMCs change their phenotype, enhance the rate of proliferation and migration, increase the production of extracellular matrix components and reduce the production of VSMC-specific markers. This changed phenotype contributes to the development of various cardiovascular diseases (Shi et al., 2020).\n\nVitamin D has been shown to decrease senescence of VSMC, affect metabolism of calcium in VSMC, stimulate production of prostacyclins in VSMCs, reduce abnormal proliferation of VSMCs, and inhibit osteogenic transdifferentiation of VSMCs. However, prolonged incubation of VSMCs with vitamin D can induce their calcification (Fig. 2).\n\nSpecifically, VSMCs isolated from mice with vitamin D receptor knockout, produced more angiotensin II and cathepsin D and expressed more angiotensin II type 1 receptor at the mRNA and protein levels than VSMCs isolated from wild type mice`
 │   inner_content: `myosin heavy chain. However, upon vascular injury, VSMCs change their phenotype, enhance the rate of proliferation and migration, increase the production of extracellular matrix components and reduce the production of VSMC-specific markers. This changed phenotype contributes to the development of various cardiovascular diseases (Shi et al., 2020).\n\nVitamin D has been shown to decrease senescence of VSMC, affect metabolism of calcium in VSMC, stimulate production of prostacyclins in VSMCs, reduce abnormal proliferation of VSMCs, and inhibit osteogenic transdifferentiation of VSMCs. However, prolonged incubation of VSMCs with vitamin D can induce their calcification (Fig. 2).\n\nSpecifically, VSMCs isolated from mice with vitamin D receptor knockout, produced more angiotensin II and cathepsin D and expressed more angiotensin II type 1 receptor at the mRNA and protein levels than VSMCs isolated from wild type mice`├── LinkNode
 │   full_match: `[140]`
@@ -2351,8 +2351,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `after birth. The recent estimates suggest that more than half of the cardiomyocytes in a 70-year-old healthy human are remnants of embryogenesis (Daiou et al., 2022).\n\nIt has been observed that vitamin D can protect `
 │   inner_content: `after birth. The recent estimates suggest that more than half of the cardiomyocytes in a 70-year-old healthy human are remnants of embryogenesis (Daiou et al., 2022).\n\nIt has been observed that vitamin D can protect `├── BoldNode
 │   full_match: `__cardiac__`
@@ -2592,8 +2592,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `actin (αSMA), procollagen 1 and collagen 3 (COL3), fibronectin and plasminogen activator inhibitor-1 (PAI1). Moreover, 1,25-dihydroxyvitamin D3 inhibited organisation of αSMA into the tubular structure of the actin cytoskeleton, which is typical for transdifferentiation `
 │   inner_content: `actin (αSMA), procollagen 1 and collagen 3 (COL3), fibronectin and plasminogen activator inhibitor-1 (PAI1). Moreover, 1,25-dihydroxyvitamin D3 inhibited organisation of αSMA into the tubular structure of the actin cytoskeleton, which is typical for transdifferentiation `├── BoldNode
 │   full_match: `__fibroblasts__`
@@ -3589,8 +3589,8 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cell proliferation\nJ Steroid Biochem Mol Biol.\n(2010)\nD.B. Cines et al.\n`
 │   inner_content: `cell proliferation\nJ Steroid Biochem Mol Biol.\n(2010)\nD.B. Cines et al.\n`├── BoldNode
 │   full_match: `__endothelia__`
@@ -3637,16 +3637,16 @@ AST Structure:
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cells derived from rat aorta\nBiochem Biophys Res Commun.\n(1988)\nY. Itoh\nMetalloproteinases in Rheumatoid Arthritis: Potential Therapeutic Targets to Improve Current Therapies\nProg Mol Biol Transl Sci\n(2017)\nS.P. Jackson et al.\nThromboinflammation: Challenges of therapeutically targeting coagulation and other host defense mechanisms\nBlood\n(2019)\nH. Kawashima\n1,25-Dihydroxyvitamin D3 stimulates Ca-ATPase in a vascular smooth`
 │   inner_content: `cells derived from rat aorta\nBiochem Biophys Res Commun.\n(1988)\nY. Itoh\nMetalloproteinases in Rheumatoid Arthritis: Potential Therapeutic Targets to Improve Current Therapies\nProg Mol Biol Transl Sci\n(2017)\nS.P. Jackson et al.\nThromboinflammation: Challenges of therapeutically targeting coagulation and other host defense mechanisms\nBlood\n(2019)\nH. Kawashima\n1,25-Dihydroxyvitamin D3 stimulates Ca-ATPase in a vascular smooth`├── BoldNode
 │   full_match: `__ muscle __`
 │   inner_content: ` muscle `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` muscle `
-│   │   inner_content: ` muscle `├── TextNode
+│   │   full_match: `muscle `
+│   │   inner_content: `muscle `├── TextNode
 │   full_match: `cell line\nBiochem Biophys Res Commun.\n(1988)\nE. Kuhn et al.\nOvarian Brenner tumour: a morphologic and immunohistochemical analysis suggesting an origin from fallopian tube epithelium\nEur J Cancer.\n(2013 Dec)\nF. Labrie et al.\nStructure and tissue-specific expression of 3 beta-hydroxysteroid dehydrogenase/5-ene-4-ene isomerase genes in human and rat classical and peripheral steroidogenic tissues\nJ Steroid Biochem Mol Biol.\n(1992 Mar)\nV. Landel et al.\nDifferential expression of vitamin D-associated enzymes and receptors in brain cell subtypes\nJ Steroid Biochem Mol Biol.\n(2018 Mar)\nA. Lampron et al.\nInnate immunity in the CNS: redefining the relationship between the CNS and Its environment\nNeuron.\n(2013 Apr 24)\nS.B. Larsen et al.\n`
 │   inner_content: `cell line\nBiochem Biophys Res Commun.\n(1988)\nE. Kuhn et al.\nOvarian Brenner tumour: a morphologic and immunohistochemical analysis suggesting an origin from fallopian tube epithelium\nEur J Cancer.\n(2013 Dec)\nF. Labrie et al.\nStructure and tissue-specific expression of 3 beta-hydroxysteroid dehydrogenase/5-ene-4-ene isomerase genes in human and rat classical and peripheral steroidogenic tissues\nJ Steroid Biochem Mol Biol.\n(1992 Mar)\nV. Landel et al.\nDifferential expression of vitamin D-associated enzymes and receptors in brain cell subtypes\nJ Steroid Biochem Mol Biol.\n(2018 Mar)\nA. Lampron et al.\nInnate immunity in the CNS: redefining the relationship between the CNS and Its environment\nNeuron.\n(2013 Apr 24)\nS.B. Larsen et al.\n`├── BoldNode
 │   full_match: `__epithelial__`
@@ -3749,14 +3749,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;CELLS&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Note: There are 5,300 types of cells in the mouse brain as of Dec 2023`

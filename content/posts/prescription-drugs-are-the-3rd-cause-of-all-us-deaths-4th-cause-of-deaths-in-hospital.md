@@ -211,8 +211,8 @@ AST Structure:
 │   inner_content: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
-│   │   inner_content: ` (alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
+│   │   full_match: `(alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
+│   │   inner_content: `(alias(Drugs are the 3rd cause of all US deaths, 4th  cause of  deaths in hospital - April 2024)) `
 
 Original Tiki:
 -------------

@@ -19,7 +19,7 @@ categories:
 
 #### Association of Maternal Gestational Vitamin D Supplementation with Respiratory Health of Young Children
 
- Nutrients  Volume 15  Issue 10  10.3390/nu15102380 
+Nutrients  Volume 15  Issue 10  10.3390/nu15102380 
 
 by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*
 
@@ -37,7 +37,7 @@ by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernar
 
 This study aimed to evaluate the association between maternal gestational Vitamin D3 supplementation and early respiratory health in offspring. This was a population-based record-linkage study which used data from the French National Health Database System. 
 
-Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national <span style="color:orange;"> (French)</span> guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
+Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national <span style="color:orange;">(French)</span> guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
 
 Infants prenatally exposed to maternal Vitamin D3 supplementation (n = 54,596) were more likely to have a longer gestational age (GA) at birth (GA 36–38 weeks, 22% vs. 20%, p < 0.001 in exposed vs. non-exposed infants, respectively). 
 
@@ -88,7 +88,7 @@ Markdown:
 
 #### Association of Maternal Gestational Vitamin D Supplementation with Respiratory Health of Young Children
 
- Nutrients  Volume 15  Issue 10  10.3390/nu15102380 
+Nutrients  Volume 15  Issue 10  10.3390/nu15102380 
 
 by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*
 
@@ -106,7 +106,7 @@ by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernar
 
 This study aimed to evaluate the association between maternal gestational Vitamin D3 supplementation and early respiratory health in offspring. This was a population-based record-linkage study which used data from the French National Health Database System. 
 
-Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national &lt;span style=&quot;color:orange;&quot;&gt; (French)&lt;/span&gt; guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
+Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national &lt;span style=&quot;color:orange;&quot;&gt;(French)&lt;/span&gt; guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
 
 Infants prenatally exposed to maternal Vitamin D3 supplementation (n = 54,596) were more likely to have a longer gestational age (GA) at birth (GA 36–38 weeks, 22% vs. 20%, p &lt; 0.001 in exposed vs. non-exposed infants, respectively). 
 
@@ -170,8 +170,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Association of Maternal Gestational Vitamin D Supplementation with Respiratory Health of Young Children`
 │   │   inner_content: `Association of Maternal Gestational Vitamin D Supplementation with Respiratory Health of Young Children`├── TextNode
-│   full_match: `\n Nutrients  Volume 15  Issue 10  10.3390/nu15102380 \nby Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*\n`
-│   inner_content: `\n Nutrients  Volume 15  Issue 10  10.3390/nu15102380 \nby Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*\n`├── ListItemNode
+│   full_match: `\nNutrients  Volume 15  Issue 10  10.3390/nu15102380 \nby Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*\n`
+│   inner_content: `\nNutrients  Volume 15  Issue 10  10.3390/nu15102380 \nby Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernard 2 andFarid Boubred 1,4,*\n`├── ListItemNode
 │   full_match: `*1 APHM, Neonatal Unit, Hospital University la Conception, 13005 Marseille, France`
 │   inner_content: `1 APHM, Neonatal Unit, Hospital University la Conception, 13005 Marseille, France`
 │   depth: `1`
@@ -238,8 +238,8 @@ AST Structure:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` (French)`
-│   │   │   inner_content: ` (French)`
+│   │   │   full_match: `(French)`
+│   │   │   inner_content: `(French)`
 │   ├── TextNode
 │   │   full_match: ` guidelines`
 │   │   inner_content: ` guidelines`├── TextNode

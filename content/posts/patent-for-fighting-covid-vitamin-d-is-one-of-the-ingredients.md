@@ -263,8 +263,8 @@ AST Structure:
 │   inner_content: ` (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) `
-│   │   inner_content: ` (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) `
+│   │   full_match: `(alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) `
+│   │   inner_content: `(alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) `
 
 Original Tiki:
 -------------

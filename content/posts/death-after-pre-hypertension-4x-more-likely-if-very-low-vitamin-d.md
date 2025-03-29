@@ -27,8 +27,8 @@ Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li & Long Zhou
 
 | | |
 | --- | --- |
-|  Vitamin D level | Risk of death <br>relative to >75 nmol |
-| <25 nmol |  4.1 X |
+| Vitamin D level | Risk of death <br>relative to >75 nmol |
+| <25 nmol | 4.1 X |
 | 25-59 nmol  | 1.2 X |
 | 50-75 nmol | 1.7X |
 
@@ -93,8 +93,8 @@ Yongmei Zhou, Yu Chen, Fuli Chen, Gang Li &amp; Long Zhou
 
 | | |
 | --- | --- |
-|  Vitamin D level | Risk of death &lt;br&gt;relative to &gt;75 nmol |
-| &lt;25 nmol |  4.1 X |
+| Vitamin D level | Risk of death &lt;br&gt;relative to &gt;75 nmol |
+| &lt;25 nmol | 4.1 X |
 | 25-59 nmol  | 1.2 X |
 | 50-75 nmol | 1.7X |
 
@@ -214,8 +214,8 @@ AST Structure:
 │   │   │   │   inner_content: ` Vitamin D level`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` Vitamin D level`
-│   │   │   │   │   inner_content: ` Vitamin D level`
+│   │   │   │   │   full_match: `Vitamin D level`
+│   │   │   │   │   inner_content: `Vitamin D level`
 │   │   │   ├── TableCellNode
 │   │   │   │   full_match: `Risk of death %%%relative to &gt;75 nmol`
 │   │   │   │   inner_content: `Risk of death %%%relative to &gt;75 nmol`
@@ -245,8 +245,8 @@ AST Structure:
 │   │   │   │   inner_content: ` 4.1 X`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
-│   │   │   │   │   full_match: ` 4.1 X`
-│   │   │   │   │   inner_content: ` 4.1 X`
+│   │   │   │   │   full_match: `4.1 X`
+│   │   │   │   │   inner_content: `4.1 X`
 │   │   ├── TableRowNode
 │   │   │   full_match: `25-59 nmol |1.2 X`
 │   │   │   inner_content: `25-59 nmol |1.2 X`

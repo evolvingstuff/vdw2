@@ -14,7 +14,7 @@ categories:
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
-[ reported on by Defense](https://childrenshealthdefense.org/defender/wsj-covid-booster-fda/?utm_source=salsa&eType=EmailBlastContent&eId=2efa1676-5877-4ffb-87d1-9b6547b008f4)
+[reported on by Defense](https://childrenshealthdefense.org/defender/wsj-covid-booster-fda/?utm_source=salsa&eType=EmailBlastContent&eId=2efa1676-5877-4ffb-87d1-9b6547b008f4)
 
 * "The Wall Street Journal Sunday took vaccine makers and federal agencies to task for pushing the bivalent COVID-19 boosters without having any data to demonstrate that they are either safe or effective. Today, the U.S. Food and Drug Administration said it is eyeing changes to the booster program."
 
@@ -45,7 +45,7 @@ Markdown:
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
-[ reported on by Defense](https://childrenshealthdefense.org/defender/wsj-covid-booster-fda/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=2efa1676-5877-4ffb-87d1-9b6547b008f4)
+[reported on by Defense](https://childrenshealthdefense.org/defender/wsj-covid-booster-fda/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=2efa1676-5877-4ffb-87d1-9b6547b008f4)
 
 * &quot;The Wall Street Journal Sunday took vaccine makers and federal agencies to task for pushing the bivalent COVID-19 boosters without having any data to demonstrate that they are either safe or effective. Today, the U.S. Food and Drug Administration said it is eyeing changes to the booster program.&quot;
 
@@ -113,8 +113,8 @@ AST Structure:
 │   url: `https://childrenshealthdefense.org/defender/wsj-covid-booster-fda/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=2efa1676-5877-4ffb-87d1-9b6547b008f4`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` reported on by Defense`
-│   │   inner_content: ` reported on by Defense`├── TextNode
+│   │   full_match: `reported on by Defense`
+│   │   inner_content: `reported on by Defense`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;The Wall Street Journal Sunday took vaccine makers and federal agencies to task for pushing the bivalent COVID-19 boosters without having any data to demonstrate that they are either safe or effective. Today, the U.S. Food and Drug Administration said it is eyeing changes to the booster program.&quot;`
@@ -201,8 +201,8 @@ AST Structure:
 │   inner_content: ` (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) `
-│   │   inner_content: ` (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) `
+│   │   full_match: `(alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) `
+│   │   inner_content: `(alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) `
 
 Original Tiki:
 -------------

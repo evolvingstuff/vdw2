@@ -13,7 +13,7 @@ categories:
 
 #### CDC Finds Hundreds of Safety Signals for Pfizer, Moderna COVID Vaccines
 
- **[ Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&eType=EmailBlastContent&eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
+ **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&eType=EmailBlastContent&eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
 
 * "The newly obtained PRR (proportional reporting ratio) results returned more than 500 adverse events larger than myocarditis and pericarditis."
 
@@ -53,7 +53,7 @@ Markdown:
 
 #### CDC Finds Hundreds of Safety Signals for Pfizer, Moderna COVID Vaccines
 
- **[ Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
+ **[Childrens Health Defense](https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=1be78402-b984-4d95-8771-fc81eab8a8cd)** 
 
 * &quot;The newly obtained PRR (proportional reporting ratio) results returned more than 500 adverse events larger than myocarditis and pericarditis.&quot;
 
@@ -107,8 +107,8 @@ AST Structure:
 │   │   url: `https://childrenshealthdefense.org/defender/cdc-safety-signals-pfizer-moderna-covid-vaccines-et/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=1be78402-b984-4d95-8771-fc81eab8a8cd`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` Childrens Health Defense`
-│   │   │   inner_content: ` Childrens Health Defense`├── TextNode
+│   │   │   full_match: `Childrens Health Defense`
+│   │   │   inner_content: `Childrens Health Defense`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*&quot;The newly obtained PRR (proportional reporting ratio) results returned more than 500 adverse events larger than myocarditis and pericarditis.&quot;`
@@ -261,16 +261,16 @@ AST Structure:
 │   inner_content: ` (alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) `
-│   │   inner_content: ` (alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) `├── TextNode
+│   │   full_match: `(alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) `
+│   │   inner_content: `(alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) ~/tc~`
 │   inner_content: ` (alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) `
-│   │   inner_content: ` (alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) `
+│   │   full_match: `(alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) `
+│   │   inner_content: `(alias(CDC not look at VAERS until 2022, has not reported on it - Jan 2023)) `
 
 Original Tiki:
 -------------

@@ -19,7 +19,7 @@ categories:
 
 Eur J Hosp Pharm. 2023 Sep;30(5):284-287. [doi: 10.1136/ejhpharm-2021-002967](https://doi.org/10.1136/ejhpharm-2021-002967) 
 
- &nbsp;&nbsp; PDF behind paywall until Sept 2024
+&nbsp;&nbsp; PDF behind paywall until Sept 2024
 
 Vesselina Yanachkova 1, Radiana Staynova 2, Svetoslav Stoev 3, Emilia Naseva 4
 
@@ -100,7 +100,7 @@ Markdown:
 
 Eur J Hosp Pharm. 2023 Sep;30(5):284-287. [doi: 10.1136/ejhpharm-2021-002967](https://doi.org/10.1136/ejhpharm-2021-002967) 
 
- &amp;nbsp;&amp;nbsp; PDF behind paywall until Sept 2024
+&amp;nbsp;&amp;nbsp; PDF behind paywall until Sept 2024
 
 Vesselina Yanachkova 1, Radiana Staynova 2, Svetoslav Stoev 3, Emilia Naseva 4
 
@@ -196,8 +196,8 @@ AST Structure:
 │   inner_content: `\nEur J Hosp Pharm. 2023 Sep;30(5):284-287. `├── DoiLinkNode
 │   full_match: `doi: 10.1136/ejhpharm-2021-002967`
 │   inner_content: `10.1136/ejhpharm-2021-002967`├── TextNode
-│   full_match: ` \n `
-│   inner_content: ` \n `├── HorizontalSpaceNode
+│   full_match: ` \n`
+│   inner_content: ` \n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
 │   repetitions: `2`├── TextNode

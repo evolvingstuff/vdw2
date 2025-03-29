@@ -297,16 +297,16 @@ AST Structure:
 │   inner_content: ` (alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) `
-│   │   inner_content: ` (alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) `├── TextNode
+│   │   full_match: `(alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) `
+│   │   inner_content: `(alias(Lanolin allery if some people - perhaps Vitamin D allergy if not get vegan form)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) ~/tc~`
 │   inner_content: ` (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) `
-│   │   inner_content: ` (alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) `
+│   │   full_match: `(alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) `
+│   │   inner_content: `(alias(Some people allergic to Lanolin, might not be allergic to vegan Vitamin D)) `
 
 Original Tiki:
 -------------

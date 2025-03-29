@@ -96,25 +96,25 @@ This list is automatically updated
 
 #### Top 10 signs of Vitamin D deficiency: Chat-GPT  - July 2023
 
-1.   **Frequent Illness or Infections** : Vitamin D plays a crucial role in keeping the immune system strong so you can fight off viruses and bacteria that cause illness. Frequent colds, flu, or other infections could be a sign of a weakened immune system due to vitamin D deficiency.
+1.  **Frequent Illness or Infections** : Vitamin D plays a crucial role in keeping the immune system strong so you can fight off viruses and bacteria that cause illness. Frequent colds, flu, or other infections could be a sign of a weakened immune system due to vitamin D deficiency.
 
-1.   **Fatigue and Tiredness** : Feeling tired can have many causes, but vitamin D deficiency can be one of them. It might not be the first cause that comes to mind, but it's worth considering if you experience chronic fatigue.
+1.  **Fatigue and Tiredness** : Feeling tired can have many causes, but vitamin D deficiency can be one of them. It might not be the first cause that comes to mind, but it's worth considering if you experience chronic fatigue.
 
-1.   **Bone and Back Pain** : Vitamin D is necessary for bone health, and a deficiency can lead to a dull or throbbing pain in the bones, often in the lower back, hips, or joints.
+1.  **Bone and Back Pain** : Vitamin D is necessary for bone health, and a deficiency can lead to a dull or throbbing pain in the bones, often in the lower back, hips, or joints.
 
-1.   **Depression** : There is a strong correlation between low vitamin D levels and depression, especially in older adults. Although the exact cause-and-effect relationship is still under investigation, some studies suggest that vitamin D may have an important role in mood regulation and warding off depression.
+1.  **Depression** : There is a strong correlation between low vitamin D levels and depression, especially in older adults. Although the exact cause-and-effect relationship is still under investigation, some studies suggest that vitamin D may have an important role in mood regulation and warding off depression.
 
-1.   **Impaired Wound Healing** : If your wounds take longer than normal to heal, this could be a sign that your body isn't getting enough vitamin D.
+1.  **Impaired Wound Healing** : If your wounds take longer than normal to heal, this could be a sign that your body isn't getting enough vitamin D.
 
 1.  **Bone Loss** : Vitamin D helps in the absorption of calcium. Lack of vitamin D can lead to a reduction in bone mineral density, increasing the risk of fractures and osteoporosis.
 
-1.   **Hair Loss** : While hair loss is often attributed to stress, if it's severe, it could be a result of a nutrient deficiency, including vitamin D.
+1.  **Hair Loss** : While hair loss is often attributed to stress, if it's severe, it could be a result of a nutrient deficiency, including vitamin D.
 
-1.   **Muscle Pain** : There is a correlation between chronic muscle pain and low blood levels of vitamin D, which may be due to the interaction between the vitamin and pain-sensing nerve cells.
+1.  **Muscle Pain** : There is a correlation between chronic muscle pain and low blood levels of vitamin D, which may be due to the interaction between the vitamin and pain-sensing nerve cells.
 
-1.   **Decreased Endurance** : Reduced physical performance or endurance can be a sign of vitamin D deficiency, as the vitamin plays a key role in supporting muscle function.
+1.  **Decreased Endurance** : Reduced physical performance or endurance can be a sign of vitamin D deficiency, as the vitamin plays a key role in supporting muscle function.
 
-1.   **Mood Changes** : Apart from depression, lower levels of vitamin D have also been linked to mood swings and general discontent, although more research is needed in this area.
+1.  **Mood Changes** : Apart from depression, lower levels of vitamin D have also been linked to mood swings and general discontent, although more research is needed in this area.
 
 <!-- ~tc~ (alias(xxx)) ~/tc~ -->
 
@@ -208,25 +208,25 @@ This list is automatically updated
 
 #### Top 10 signs of Vitamin D deficiency: Chat-GPT  - July 2023
 
-1.   **Frequent Illness or Infections** : Vitamin D plays a crucial role in keeping the immune system strong so you can fight off viruses and bacteria that cause illness. Frequent colds, flu, or other infections could be a sign of a weakened immune system due to vitamin D deficiency.
+1.  **Frequent Illness or Infections** : Vitamin D plays a crucial role in keeping the immune system strong so you can fight off viruses and bacteria that cause illness. Frequent colds, flu, or other infections could be a sign of a weakened immune system due to vitamin D deficiency.
 
-1.   **Fatigue and Tiredness** : Feeling tired can have many causes, but vitamin D deficiency can be one of them. It might not be the first cause that comes to mind, but it&#39;s worth considering if you experience chronic fatigue.
+1.  **Fatigue and Tiredness** : Feeling tired can have many causes, but vitamin D deficiency can be one of them. It might not be the first cause that comes to mind, but it&#39;s worth considering if you experience chronic fatigue.
 
-1.   **Bone and Back Pain** : Vitamin D is necessary for bone health, and a deficiency can lead to a dull or throbbing pain in the bones, often in the lower back, hips, or joints.
+1.  **Bone and Back Pain** : Vitamin D is necessary for bone health, and a deficiency can lead to a dull or throbbing pain in the bones, often in the lower back, hips, or joints.
 
-1.   **Depression** : There is a strong correlation between low vitamin D levels and depression, especially in older adults. Although the exact cause-and-effect relationship is still under investigation, some studies suggest that vitamin D may have an important role in mood regulation and warding off depression.
+1.  **Depression** : There is a strong correlation between low vitamin D levels and depression, especially in older adults. Although the exact cause-and-effect relationship is still under investigation, some studies suggest that vitamin D may have an important role in mood regulation and warding off depression.
 
-1.   **Impaired Wound Healing** : If your wounds take longer than normal to heal, this could be a sign that your body isn&#39;t getting enough vitamin D.
+1.  **Impaired Wound Healing** : If your wounds take longer than normal to heal, this could be a sign that your body isn&#39;t getting enough vitamin D.
 
 1.  **Bone Loss** : Vitamin D helps in the absorption of calcium. Lack of vitamin D can lead to a reduction in bone mineral density, increasing the risk of fractures and osteoporosis.
 
-1.   **Hair Loss** : While hair loss is often attributed to stress, if it&#39;s severe, it could be a result of a nutrient deficiency, including vitamin D.
+1.  **Hair Loss** : While hair loss is often attributed to stress, if it&#39;s severe, it could be a result of a nutrient deficiency, including vitamin D.
 
-1.   **Muscle Pain** : There is a correlation between chronic muscle pain and low blood levels of vitamin D, which may be due to the interaction between the vitamin and pain-sensing nerve cells.
+1.  **Muscle Pain** : There is a correlation between chronic muscle pain and low blood levels of vitamin D, which may be due to the interaction between the vitamin and pain-sensing nerve cells.
 
-1.   **Decreased Endurance** : Reduced physical performance or endurance can be a sign of vitamin D deficiency, as the vitamin plays a key role in supporting muscle function.
+1.  **Decreased Endurance** : Reduced physical performance or endurance can be a sign of vitamin D deficiency, as the vitamin plays a key role in supporting muscle function.
 
-1.   **Mood Changes** : Apart from depression, lower levels of vitamin D have also been linked to mood swings and general discontent, although more research is needed in this area.
+1.  **Mood Changes** : Apart from depression, lower levels of vitamin D have also been linked to mood swings and general discontent, although more research is needed in this area.
 
 &lt;!-- ~tc~ (alias(xxx)) ~/tc~ --&gt;
 
@@ -783,9 +783,6 @@ AST Structure:
 │   inner_content: ` __Frequent Illness or Infections__: Vitamin D plays a crucial role in keeping the immune system strong so you can fight off viruses and bacteria that cause illness. Frequent colds, flu, or other infections could be a sign of a weakened immune system due to vitamin D deficiency.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Frequent Illness or Infections__`
 │   │   inner_content: `Frequent Illness or Infections`
@@ -802,9 +799,6 @@ AST Structure:
 │   inner_content: ` __Fatigue and Tiredness__: Feeling tired can have many causes, but vitamin D deficiency can be one of them. It might not be the first cause that comes to mind, but it&#39;s worth considering if you experience chronic fatigue.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Fatigue and Tiredness__`
 │   │   inner_content: `Fatigue and Tiredness`
@@ -821,9 +815,6 @@ AST Structure:
 │   inner_content: ` __Bone and Back Pain__: Vitamin D is necessary for bone health, and a deficiency can lead to a dull or throbbing pain in the bones, often in the lower back, hips, or joints.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Bone and Back Pain__`
 │   │   inner_content: `Bone and Back Pain`
@@ -840,9 +831,6 @@ AST Structure:
 │   inner_content: ` __Depression__: There is a strong correlation between low vitamin D levels and depression, especially in older adults. Although the exact cause-and-effect relationship is still under investigation, some studies suggest that vitamin D may have an important role in mood regulation and warding off depression.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Depression__`
 │   │   inner_content: `Depression`
@@ -859,9 +847,6 @@ AST Structure:
 │   inner_content: ` __Impaired Wound Healing__: If your wounds take longer than normal to heal, this could be a sign that your body isn&#39;t getting enough vitamin D.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Impaired Wound Healing__`
 │   │   inner_content: `Impaired Wound Healing`
@@ -894,9 +879,6 @@ AST Structure:
 │   inner_content: ` __Hair Loss__: While hair loss is often attributed to stress, if it&#39;s severe, it could be a result of a nutrient deficiency, including vitamin D.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Hair Loss__`
 │   │   inner_content: `Hair Loss`
@@ -913,9 +895,6 @@ AST Structure:
 │   inner_content: ` __Muscle Pain__: There is a correlation between chronic muscle pain and low blood levels of vitamin D, which may be due to the interaction between the vitamin and pain-sensing nerve cells.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Muscle Pain__`
 │   │   inner_content: `Muscle Pain`
@@ -932,9 +911,6 @@ AST Structure:
 │   inner_content: ` __Decreased Endurance__: Reduced physical performance or endurance can be a sign of vitamin D deficiency, as the vitamin plays a key role in supporting muscle function.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Decreased Endurance__`
 │   │   inner_content: `Decreased Endurance`
@@ -951,9 +927,6 @@ AST Structure:
 │   inner_content: ` __Mood Changes__: Apart from depression, lower levels of vitamin D have also been linked to mood swings and general discontent, although more research is needed in this area.`
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__Mood Changes__`
 │   │   inner_content: `Mood Changes`
@@ -970,8 +943,8 @@ AST Structure:
 │   inner_content: ` (alias(xxx)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(xxx)) `
-│   │   inner_content: ` (alias(xxx)) `
+│   │   full_match: `(alias(xxx)) `
+│   │   inner_content: `(alias(xxx)) `
 
 Original Tiki:
 -------------

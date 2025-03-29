@@ -76,9 +76,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -173,9 +173,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -406,14 +406,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;122&quot;}\n{filter field=&quot;title&quot; content=&quot;alzheimer&#39;s&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 122  OR categId = 110 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}       studies in both categories Omega-3 and Cognitive`
@@ -463,32 +463,32 @@ AST Structure:
 │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( 4X less if good Vitamin D) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( 4X less if good Vitamin D) - Nov 2023)) `
-│   │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( 4X less if good Vitamin D) - Nov 2023)) `├── TextNode
+│   │   full_match: `(alias(Alsheimer&#39;s risk 2X less if good diet ( 4X less if good Vitamin D) - Nov 2023)) `
+│   │   inner_content: `(alias(Alsheimer&#39;s risk 2X less if good diet ( 4X less if good Vitamin D) - Nov 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) ~/tc~`
 │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) `
-│   │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) `├── TextNode
+│   │   full_match: `(alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) `
+│   │   inner_content: `(alias(Alsheimer&#39;s risk 2X less if good diet ( and less by Omega-3 and or Vitamin D) - Nov 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) ~/tc~`
 │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
-│   │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `├── TextNode
+│   │   full_match: `(alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
+│   │   inner_content: `(alias(Alsheimer&#39;s risk 2X less if good diet ( and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) ~/tc~`
 │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
-│   │   inner_content: ` (alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
+│   │   full_match: `(alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
+│   │   inner_content: `(alias(Alsheimer&#39;s risk 2X less if good diet (and less risk by Omega-3 and or Vitamin D) - Nov 2023)) `
 
 Original Tiki:
 -------------

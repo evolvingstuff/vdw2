@@ -361,8 +361,8 @@ AST Structure:
 │   inner_content: ` (alias(Autism virtually non-existant if vitamin D levels more than 44 ng while pregnant - Dec 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Autism virtually non-existant if vitamin D levels more than 44 ng while pregnant - Dec 2023)) `
-│   │   inner_content: ` (alias(Autism virtually non-existant if vitamin D levels more than 44 ng while pregnant - Dec 2023)) `
+│   │   full_match: `(alias(Autism virtually non-existant if vitamin D levels more than 44 ng while pregnant - Dec 2023)) `
+│   │   inner_content: `(alias(Autism virtually non-existant if vitamin D levels more than 44 ng while pregnant - Dec 2023)) `
 
 Original Tiki:
 -------------

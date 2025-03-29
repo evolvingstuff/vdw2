@@ -180,8 +180,8 @@ AST Structure:
 │   inner_content: ` (alias(COVID-19 leaves its mark on the brain. dropping in IQs - March 2024)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID-19 leaves its mark on the brain. dropping in IQs - March 2024)) `
-│   │   inner_content: ` (alias(COVID-19 leaves its mark on the brain. dropping in IQs - March 2024)) `
+│   │   full_match: `(alias(COVID-19 leaves its mark on the brain. dropping in IQs - March 2024)) `
+│   │   inner_content: `(alias(COVID-19 leaves its mark on the brain. dropping in IQs - March 2024)) `
 
 Original Tiki:
 -------------

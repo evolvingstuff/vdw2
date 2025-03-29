@@ -213,8 +213,8 @@ AST Structure:
 │   inner_content: ` (alias(Perminate Weight loss - vitamin D then water-fast)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Perminate Weight loss - vitamin D then water-fast)) `
-│   │   inner_content: ` (alias(Perminate Weight loss - vitamin D then water-fast)) `├── HorizontalRuleNode
+│   │   full_match: `(alias(Perminate Weight loss - vitamin D then water-fast)) `
+│   │   inner_content: `(alias(Perminate Weight loss - vitamin D then water-fast)) `├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!Weight loss studies turbocharged by Vitamin D`

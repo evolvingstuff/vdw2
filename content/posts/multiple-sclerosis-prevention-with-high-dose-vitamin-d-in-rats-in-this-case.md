@@ -248,8 +248,8 @@ AST Structure:
 │   inner_content: ` (alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) `
-│   │   inner_content: ` (alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) `
+│   │   full_match: `(alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) `
+│   │   inner_content: `(alias(Multple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023)) `
 
 Original Tiki:
 -------------

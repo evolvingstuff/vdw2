@@ -365,16 +365,16 @@ AST Structure:
 │   inner_content: ` (alias(COVID Summit 3 (April 2021) had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Summit 3 (April 2021) had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
-│   │   inner_content: ` (alias(COVID Summit 3 (April 2021) had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `├── TextNode
+│   │   full_match: `(alias(COVID Summit 3 (April 2021) had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
+│   │   inner_content: `(alias(COVID Summit 3 (April 2021) had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) ~/tc~`
 │   inner_content: ` (alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
-│   │   inner_content: ` (alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
+│   │   full_match: `(alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
+│   │   inner_content: `(alias(COVID Summit 3 had 4 billion views, COVID Summit 4 in Romania Nov 18-19, 2023)) `
 
 Original Tiki:
 -------------

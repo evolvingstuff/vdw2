@@ -195,8 +195,8 @@ AST Structure:
 │   inner_content: ` (alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) `
-│   │   inner_content: ` (alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) `
+│   │   full_match: `(alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) `
+│   │   inner_content: `(alias(Monthly vitamin D dosing had better response in children than daily (again) - Nov 2023)) `
 
 Original Tiki:
 -------------

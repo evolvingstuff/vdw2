@@ -82,16 +82,16 @@ AST Structure:
 │   inner_content: ` (alias(Open in app or online BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Open in app or online BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
-│   │   inner_content: ` (alias(Open in app or online BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `├── TextNode
+│   │   full_match: `(alias(Open in app or online BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
+│   │   inner_content: `(alias(Open in app or online BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── TikiCommentNode
 │   full_match: `~tc~ (alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) ~/tc~`
 │   inner_content: ` (alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
-│   │   inner_content: ` (alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
+│   │   full_match: `(alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
+│   │   inner_content: `(alias(BMJ clearly knows that it is publishing bogus research to slander vitamin D - June 2023)) `
 
 Original Tiki:
 -------------

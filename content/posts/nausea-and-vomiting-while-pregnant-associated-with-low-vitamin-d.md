@@ -499,8 +499,8 @@ AST Structure:
 │   inner_content: ` (alias(Nausea and vommiting while pregnant associated with low Vitamin D)) `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` (alias(Nausea and vommiting while pregnant associated with low Vitamin D)) `
-│   │   inner_content: ` (alias(Nausea and vommiting while pregnant associated with low Vitamin D)) `
+│   │   full_match: `(alias(Nausea and vommiting while pregnant associated with low Vitamin D)) `
+│   │   inner_content: `(alias(Nausea and vommiting while pregnant associated with low Vitamin D)) `
 
 Original Tiki:
 -------------

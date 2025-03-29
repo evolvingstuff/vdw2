@@ -18,7 +18,7 @@ categories:
 
 #### Vitamin D food fortification in European countries: the underused potential to prevent cancer deaths
 
- European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4
+European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4
 
 Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens & Hermann Brenner On behalf of the PEN-Consortium
 
@@ -26,19 +26,19 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="1000">
 
-*   **<span style="color:orange;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **<span style="color:orange;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>**  Mandatory fortification with adequate amounts covering an adequate range 
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; (four or more commonly consumed foods) of products;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (four or more commonly consumed foods) of products;
 
-*  + Wide-spread voluntary fortification but with insufficient amounts 
+* &nbsp;&nbsp;&nbsp;&nbsp;Wide-spread voluntary fortification but with insufficient amounts 
 
 &nbsp;&nbsp;&nbsp;&nbsp;or adequate mandatory fortification of too few products;
 
-*  o Insufficient mandatory fortification plus some voluntary fortification,
+* o Insufficient mandatory fortification plus some voluntary fortification,
 
-*  − No mandatory fortification but some voluntary fortification of foods;
+* − No mandatory fortification but some voluntary fortification of foods;
 
-*  −− No mandatory fortification and almost no voluntary fortification of foods.
+* −− No mandatory fortification and almost no voluntary fortification of foods.
 
 Background: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. 
 
@@ -46,7 +46,7 @@ Methods: We reviewed scientific literature, publicly available information, and 
 
 Results: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).
 
- Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.
+Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -76,9 +76,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -125,7 +125,7 @@ Markdown:
 
 #### Vitamin D food fortification in European countries: the underused potential to prevent cancer deaths
 
- European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4
+European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4
 
 Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens &amp; Hermann Brenner On behalf of the PEN-Consortium
 
@@ -133,19 +133,19 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;1000&quot;&gt;
 
-*   **&lt;span style=&quot;color:orange;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **&lt;span style=&quot;color:orange;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;**  Mandatory fortification with adequate amounts covering an adequate range 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; (four or more commonly consumed foods) of products;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (four or more commonly consumed foods) of products;
 
-*  + Wide-spread voluntary fortification but with insufficient amounts 
+* &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wide-spread voluntary fortification but with insufficient amounts 
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;or adequate mandatory fortification of too few products;
 
-*  o Insufficient mandatory fortification plus some voluntary fortification,
+* o Insufficient mandatory fortification plus some voluntary fortification,
 
-*  − No mandatory fortification but some voluntary fortification of foods;
+* − No mandatory fortification but some voluntary fortification of foods;
 
-*  −− No mandatory fortification and almost no voluntary fortification of foods.
+* −− No mandatory fortification and almost no voluntary fortification of foods.
 
 Background: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. 
 
@@ -153,7 +153,7 @@ Methods: We reviewed scientific literature, publicly available information, and 
 
 Results: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).
 
- Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.
+Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -183,9 +183,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -245,8 +245,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D food fortification in European countries: the underused potential to prevent cancer deaths`
 │   │   inner_content: `Vitamin D food fortification in European countries: the underused potential to prevent cancer deaths`├── TextNode
-│   full_match: `\n European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4\nTobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens &amp; Hermann Brenner On behalf of the PEN-Consortium\n\n`
-│   inner_content: `\n European Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4\nTobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens &amp; Hermann Brenner On behalf of the PEN-Consortium\n\n`├── ImgNode
+│   full_match: `\nEuropean Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4\nTobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens &amp; Hermann Brenner On behalf of the PEN-Consortium\n\n`
+│   inner_content: `\nEuropean Journal of Epidemiology  vol 37, pages 3 09–320 (2022) https://doi.org/10.1007/s10654-022-00867-4\nTobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jeroen Lakerveld, Wolfgang Ahrens &amp; Hermann Brenner On behalf of the PEN-Consortium\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20023&quot; width=&quot;1000&quot;}`
 │   inner_content: ``
 │   attrs_dict:
@@ -269,9 +269,6 @@ AST Structure:
 │   inner_content: ` __~~#F06:++~~__ Mandatory fortification with adequate amounts covering an adequate range `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── BoldNode
 │   │   full_match: `__~~#F06:++~~__`
 │   │   inner_content: `~~#F06:++~~`
@@ -299,9 +296,6 @@ AST Structure:
 │   inner_content: ` ~hs~ (four or more commonly consumed foods) of products;`
 │   level: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` `
-│   │   inner_content: ` `
 │   ├── HorizontalSpaceNode
 │   │   full_match: `~hs~`
 │   │   inner_content: ``
@@ -315,9 +309,14 @@ AST Structure:
 │   inner_content: ` + Wide-spread voluntary fortification but with insufficient amounts `
 │   depth: `1`
 │   children:
-│   ├── TextNode
-│   │   full_match: ` + Wide-spread voluntary fortification but with insufficient amounts `
-│   │   inner_content: ` + Wide-spread voluntary fortification but with insufficient amounts `├── TextNode
+│   ├── IndentNode
+│   │   full_match: `+ Wide-spread voluntary fortification but with insufficient amounts `
+│   │   inner_content: ` Wide-spread voluntary fortification but with insufficient amounts `
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Wide-spread voluntary fortification but with insufficient amounts `
+│   │   │   inner_content: `Wide-spread voluntary fortification but with insufficient amounts `├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IndentNode
 │   full_match: `+or adequate mandatory fortification of too few products;`
@@ -334,8 +333,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` o Insufficient mandatory fortification plus some voluntary fortification,`
-│   │   inner_content: ` o Insufficient mandatory fortification plus some voluntary fortification,`├── TextNode
+│   │   full_match: `o Insufficient mandatory fortification plus some voluntary fortification,`
+│   │   inner_content: `o Insufficient mandatory fortification plus some voluntary fortification,`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* − No mandatory fortification but some voluntary fortification of foods;`
@@ -343,8 +342,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` − No mandatory fortification but some voluntary fortification of foods;`
-│   │   inner_content: ` − No mandatory fortification but some voluntary fortification of foods;`├── TextNode
+│   │   full_match: `− No mandatory fortification but some voluntary fortification of foods;`
+│   │   inner_content: `− No mandatory fortification but some voluntary fortification of foods;`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `* −− No mandatory fortification and almost no voluntary fortification of foods.`
@@ -352,10 +351,10 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` −− No mandatory fortification and almost no voluntary fortification of foods.`
-│   │   inner_content: ` −− No mandatory fortification and almost no voluntary fortification of foods.`├── TextNode
-│   full_match: `\nBackground: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. \n\nMethods: We reviewed scientific literature, publicly available information, and contacted health authorities to obtain information on current vitamin D food fortification policies in 34 European countries. Together with country-specific cancer death statistics from Eurostat, information on life expectancy, and country-specific fortification policies, we used data from studies on supplementation and serum 25(OH)D increases and cancer mortality to estimate numbers of probably already prevented cancer deaths and numbers of potentially further preventable deaths and years of life lost. \n\nResults: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).\n\n Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.\n`
-│   inner_content: `\nBackground: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. \n\nMethods: We reviewed scientific literature, publicly available information, and contacted health authorities to obtain information on current vitamin D food fortification policies in 34 European countries. Together with country-specific cancer death statistics from Eurostat, information on life expectancy, and country-specific fortification policies, we used data from studies on supplementation and serum 25(OH)D increases and cancer mortality to estimate numbers of probably already prevented cancer deaths and numbers of potentially further preventable deaths and years of life lost. \n\nResults: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).\n\n Interpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.\n`├── FontNode
+│   │   full_match: `−− No mandatory fortification and almost no voluntary fortification of foods.`
+│   │   inner_content: `−− No mandatory fortification and almost no voluntary fortification of foods.`├── TextNode
+│   full_match: `\nBackground: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. \n\nMethods: We reviewed scientific literature, publicly available information, and contacted health authorities to obtain information on current vitamin D food fortification policies in 34 European countries. Together with country-specific cancer death statistics from Eurostat, information on life expectancy, and country-specific fortification policies, we used data from studies on supplementation and serum 25(OH)D increases and cancer mortality to estimate numbers of probably already prevented cancer deaths and numbers of potentially further preventable deaths and years of life lost. \n\nResults: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).\n\nInterpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.\n`
+│   inner_content: `\nBackground: Meta-analyses of randomized controlled trials have shown that vitamin D supplementation reduces cancer mortality by 13%. Vitamin D fortification of foods may increase vitamin D levels in a similar manner as vitamin D supplementation and could achieve similar reductions in cancer mortality. Whereas some European countries already implemented widespread fortification of foods with vitamin D, in other countries only few or no foods are fortified. In this study, we estimated the reduction in cancer mortality presumably already achieved by current fortification policies in 2017 and the potential for further reductions if all countries had effective fortification. \n\nMethods: We reviewed scientific literature, publicly available information, and contacted health authorities to obtain information on current vitamin D food fortification policies in 34 European countries. Together with country-specific cancer death statistics from Eurostat, information on life expectancy, and country-specific fortification policies, we used data from studies on supplementation and serum 25(OH)D increases and cancer mortality to estimate numbers of probably already prevented cancer deaths and numbers of potentially further preventable deaths and years of life lost. \n\nResults: Current vitamin D fortification is estimated to prevent approximately 11,000 in the European Union and 27,000 cancer deaths in all European countries considered per year. If all countries considered here would implement adequate vitamin D fortification of foods, an estimated additional 129,000 cancer deaths (113,000 in the European Union) could be prevented, corresponding to almost 1.2 million prevented years of life lost (1.0 million in the EU) or approximately 9% of cancer deaths (10% in the EU).\n\nInterpretation: Systematic fortification of foods might considerably reduce the burden of cancer deaths in Europe.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20022&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
 │   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20022&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
 │   attrs_dict:
@@ -504,14 +503,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter field=&quot;title&quot; content=&quot;Finland&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!! Animal meat and products have more Vitamin D when they get more Vitamin D or UVB`

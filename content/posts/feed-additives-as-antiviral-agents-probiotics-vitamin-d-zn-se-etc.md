@@ -164,7 +164,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Knezevic A, Stepanovic S, Cupic M, Jevtovic D, Ranin J, Jovanovic T (2005) Reduced quantity and hydrogen-peroxide production of vaginal Lactobacilli in HIV positive women. Biomed Pharmacother 59:521–533
 
-*  Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated  **fatty acids**  with animal cells and enveloped viruses. Antimicrob Agents Chemother 18(6):962–968 
+* Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated  **fatty acids**  with animal cells and enveloped viruses. Antimicrob Agents Chemother 18(6):962–968 
 
 * Komura M, Suzuki M, Sangsriratanakul N, Ito M, Takahashi S, Alam MS, Ono M, Daio C, Shoham D, Táchira K (2019) Inhibitory effect of grapefruit seed extract (GSE) on avian pathogens. J Vet Med Sci 81(3):466–472 
 
@@ -258,7 +258,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Sheridan DA, Bridge SH, Crossey MM, Felmlee DJ, Fenwick FI, Thomas HC et al (2014) Omega-3  **fatty acids**  and/or fluvastatin in hepatitis C prior non-responders to combination antiviral therapy–a pilot randomised clinical trial. Liver Int 34(5):737–747
 
-*  Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of **probiotics** . Nutr Clin Pract 21:10–14 
+* Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of **probiotics** . Nutr Clin Pract 21:10–14 
 
 * Singh J, Gaikwad DS (2020) Phytogenic feed additives in animal nutrition. In: Natural bioactive products in sustainable agriculture. Springer, Singapore, pp 273–289 
 
@@ -268,7 +268,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Stevanović Z, Bošnjak-Neumüller J, Pajić-Lijaković I, Raj J, Vasiljević M (2018) Essential oils as feed additives—future perspectives. Molecules 23(7):1717
 
-*  Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of **probiotics**  as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 
+* Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of **probiotics**  as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 
 
 * Talebi A, Amani A, Pourmahmod M, Saghaei P, Rezaie R (2015) Synbiotic enhances immune responses against infectious bronchitis, infectious bursal disease, Newtle disease and avian influenza in broiler chickens. Vet Res Forum 6(3):191–197Tang K, He S, Zhang X, Guo J, Chen Q, Yan F, Banadyga L, Zhu W, Qiu X, Guo Y (2018) 
 
@@ -327,9 +327,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -348,9 +348,9 @@ This list is automatically updated
 {filter type="wiki page"}
 {sort mode="modification_date_major_desc"}
 {OUTPUT(template="table")}
-   {tableparams allowtableexpansion="n" shownbitems="y" title=""}n
-    {column sort="title" label="Title" field="title" mode="raw"}{column}
-    {column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}n
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
 {OUTPUT}
 {FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
@@ -515,7 +515,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Knezevic A, Stepanovic S, Cupic M, Jevtovic D, Ranin J, Jovanovic T (2005) Reduced quantity and hydrogen-peroxide production of vaginal Lactobacilli in HIV positive women. Biomed Pharmacother 59:521–533
 
-*  Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated  **fatty acids**  with animal cells and enveloped viruses. Antimicrob Agents Chemother 18(6):962–968 
+* Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated  **fatty acids**  with animal cells and enveloped viruses. Antimicrob Agents Chemother 18(6):962–968 
 
 * Komura M, Suzuki M, Sangsriratanakul N, Ito M, Takahashi S, Alam MS, Ono M, Daio C, Shoham D, Táchira K (2019) Inhibitory effect of grapefruit seed extract (GSE) on avian pathogens. J Vet Med Sci 81(3):466–472 
 
@@ -609,7 +609,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Sheridan DA, Bridge SH, Crossey MM, Felmlee DJ, Fenwick FI, Thomas HC et al (2014) Omega-3  **fatty acids**  and/or fluvastatin in hepatitis C prior non-responders to combination antiviral therapy–a pilot randomised clinical trial. Liver Int 34(5):737–747
 
-*  Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of **probiotics** . Nutr Clin Pract 21:10–14 
+* Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of **probiotics** . Nutr Clin Pract 21:10–14 
 
 * Singh J, Gaikwad DS (2020) Phytogenic feed additives in animal nutrition. In: Natural bioactive products in sustainable agriculture. Springer, Singapore, pp 273–289 
 
@@ -619,7 +619,7 @@ In this chapter, antiviral effects of feed additives are discussed by categories
 
 * Stevanović Z, Bošnjak-Neumüller J, Pajić-Lijaković I, Raj J, Vasiljević M (2018) Essential oils as feed additives—future perspectives. Molecules 23(7):1717
 
-*  Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of **probiotics**  as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 
+* Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of **probiotics**  as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 
 
 * Talebi A, Amani A, Pourmahmod M, Saghaei P, Rezaie R (2015) Synbiotic enhances immune responses against infectious bronchitis, infectious bursal disease, Newtle disease and avian influenza in broiler chickens. Vet Res Forum 6(3):191–197Tang K, He S, Zhang X, Guo J, Chen Q, Yan F, Banadyga L, Zhu W, Qiu X, Guo Y (2018) 
 
@@ -678,9 +678,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -699,9 +699,9 @@ This list is automatically updated
 {filter type=&quot;wiki page&quot;}
 {sort mode=&quot;modification_date_major_desc&quot;}
 {OUTPUT(template=&quot;table&quot;)}
-   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
-    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
-    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
 {OUTPUT}
 {FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
 {FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
@@ -813,8 +813,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `Lactobacilli limit avian influenza virus subtype H9N2 replication in chicken Cecal tonsil mononuclear cells. Vaccines (Basel) 8(4):605 `
 │   │   inner_content: `Lactobacilli limit avian influenza virus subtype H9N2 replication in chicken Cecal tonsil mononuclear cells. Vaccines (Basel) 8(4):605 `├── TextNode
@@ -868,8 +868,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` and botanical extracts to improve ruminant production in the tropics: A review. Animal Nutrition 4(3):241–249 `
 │   │   inner_content: ` and botanical extracts to improve ruminant production in the tropics: A review. Animal Nutrition 4(3):241–249 `├── TextNode
@@ -988,8 +988,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `bacteria. Int J Food Microbiol 115:227–234 `
 │   │   inner_content: `bacteria. Int J Food Microbiol 115:227–234 `├── TextNode
@@ -1025,8 +1025,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` and the host intestinal mucosa. Nat Rev Microbiol 10:66–78`
 │   │   inner_content: ` and the host intestinal mucosa. Nat Rev Microbiol 10:66–78`├── TextNode
@@ -1100,8 +1100,8 @@ AST Structure:
 │   inner_content: ` probiotic `
 │   children:
 │   ├── TextNode
-│   │   full_match: ` probiotic `
-│   │   inner_content: ` probiotic `├── TextNode
+│   │   full_match: `probiotic `
+│   │   inner_content: `probiotic `├── TextNode
 │   full_match: `modulates monocyte chemoattractant protein-1 and reduces the pathogenicity of influenza and enterovirus 71 infections. Mucosal Immunol 10(1):215–227\n`
 │   inner_content: `modulates monocyte chemoattractant protein-1 and reduces the pathogenicity of influenza and enterovirus 71 infections. Mucosal Immunol 10(1):215–227\n`├── ListItemNode
 │   full_match: `*Chen MY, Li H, Lu XX, Ling LJ, Weng HB, Sun W, Chen DF, Zhang YY (2019) Houttuynia cordata polysaccharide alleviated intestinal injury and modulated intestinal microbiota in H1N1 virus infected mice. Chin J Nat Med 17(3):187–197 `
@@ -1188,8 +1188,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `strain on influenza infection in mouse model.`
 │   │   inner_content: `strain on influenza infection in mouse model.`
@@ -1198,8 +1198,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` Antimicrob Proteins 11(2):705–712 `
 │   │   inner_content: ` Antimicrob Proteins 11(2):705–712 `├── TextNode
@@ -1254,8 +1254,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: `. In:`
 │   │   inner_content: `. In:`
@@ -1264,8 +1264,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: `. Springer, Netherlands, pp 1–8 `
 │   │   inner_content: `. Springer, Netherlands, pp 1–8 `├── TextNode
@@ -1310,8 +1310,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` and Prebiotics (ISAPP) consensus statement on the definition and scope of prebiotics. Nat Rev Gastroenterol Hepatol 14(8):491–502`
 │   │   inner_content: ` and Prebiotics (ISAPP) consensus statement on the definition and scope of prebiotics. Nat Rev Gastroenterol Hepatol 14(8):491–502`├── TextNode
@@ -1531,8 +1531,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` on immune response of moulted male broiler breeders. J Anim Physiol Anim Nutr 98(4):620–627`
 │   │   inner_content: ` on immune response of moulted male broiler breeders. J Anim Physiol Anim Nutr 98(4):620–627`├── TextNode
@@ -1552,8 +1552,8 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated `
-│   │   inner_content: ` Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated `
+│   │   full_match: `Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated `
+│   │   inner_content: `Kohn A, Gitelman J, Inbar M (1980) Interaction of polyunsaturated `
 │   ├── BoldNode
 │   │   full_match: `__fatty acids__`
 │   │   inner_content: `fatty acids`
@@ -1663,8 +1663,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` to gastrointestinal anti-infectious biotherapeutic agents. Clin Microbiol Rev 27:167–199 `
 │   │   inner_content: ` to gastrointestinal anti-infectious biotherapeutic agents. Clin Microbiol Rev 27:167–199 `├── TextNode
@@ -1682,8 +1682,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` for regulation of intestinal epithelial barrier. Microb Cell Factories 19:23 `
 │   │   inner_content: ` for regulation of intestinal epithelial barrier. Microb Cell Factories 19:23 `├── TextNode
@@ -1710,8 +1710,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `bacteria enhance murine and human intestinal epithelial barrier function. Gastroenterology 121(3):580–591 `
 │   │   inner_content: `bacteria enhance murine and human intestinal epithelial barrier function. Gastroenterology 121(3):580–591 `├── TextNode
@@ -1729,8 +1729,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `strain on influenza infection in mice. World J Microbiol Biotechnol 35:91`
 │   │   inner_content: `strain on influenza infection in mice. World J Microbiol Biotechnol 35:91`├── TextNode
@@ -1775,8 +1775,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` bacteria towards respiratory and alimentary tracts viruses. Food Control 127:108140 `
 │   │   inner_content: ` bacteria towards respiratory and alimentary tracts viruses. Food Control 127:108140 `├── TextNode
@@ -1830,8 +1830,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` and prebiotics for the prevention and treatment of COVID-19. NPJ Sci Food 4:17 `
 │   │   inner_content: ` and prebiotics for the prevention and treatment of COVID-19. NPJ Sci Food 4:17 `├── TextNode
@@ -2014,8 +2014,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `and prebiotic field. LWT Food Sci Technol 50:1–16`
 │   │   inner_content: `and prebiotic field. LWT Food Sci Technol 50:1–16`├── TextNode
@@ -2116,8 +2116,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `against low-pathogenic avian influenza (H9N2) virus in chickens. J Appl Microbiol 113:163–171 `
 │   │   inner_content: `against low-pathogenic avian influenza (H9N2) virus in chickens. J Appl Microbiol 113:163–171 `├── TextNode
@@ -2175,15 +2175,15 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of`
-│   │   inner_content: ` Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of`
+│   │   full_match: `Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of`
+│   │   inner_content: `Sherman PM, Ossa JC, Johnson-Henry K (2009) Unravelling mechanism of action of`
 │   ├── BoldNode
 │   │   full_match: `__ probiotics__`
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: `. Nutr Clin Pract 21:10–14 `
 │   │   inner_content: `. Nutr Clin Pract 21:10–14 `├── TextNode
@@ -2230,15 +2230,15 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of`
-│   │   inner_content: ` Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of`
+│   │   full_match: `Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of`
+│   │   inner_content: `Steyer A, Mičetić-Turk D, Fijan S (2022) The efficacy of`
 │   ├── BoldNode
 │   │   full_match: `__ probiotics__`
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 `
 │   │   inner_content: ` as antiviral agents for the treatment of Rotavirus gastrointestinal infections in children: an updated overview of literature. Microorganisms 10(12):2392 `├── TextNode
@@ -2373,8 +2373,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` as promising antivirals. Front Cell Infect Microbiol 12:928050 `
 │   │   inner_content: ` as promising antivirals. Front Cell Infect Microbiol 12:928050 `├── TextNode
@@ -2447,8 +2447,8 @@ AST Structure:
 │   │   inner_content: ` probiotic `
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotic `
-│   │   │   inner_content: ` probiotic `
+│   │   │   full_match: `probiotic `
+│   │   │   inner_content: `probiotic `
 │   ├── TextNode
 │   │   full_match: `supplementation on antibody titers after influenza vaccination: a systematic review and meta-analysis of randomized controlled trials. Drug Des Devel Ther 12:217–230 `
 │   │   inner_content: `supplementation on antibody titers after influenza vaccination: a systematic review and meta-analysis of randomized controlled trials. Drug Des Devel Ther 12:217–230 `├── TextNode
@@ -2475,8 +2475,8 @@ AST Structure:
 │   │   inner_content: ` probiotics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: ` probiotics`
-│   │   │   inner_content: ` probiotics`
+│   │   │   full_match: `probiotics`
+│   │   │   inner_content: `probiotics`
 │   ├── TextNode
 │   │   full_match: ` database: A potential source of fermented foods. Int J Food Prop 22(1):198–217  `
 │   │   inner_content: ` database: A potential source of fermented foods. Int J Food Prop 22(1):198–217  `├── HorizontalRuleNode
@@ -2508,14 +2508,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   │   full_match: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;800&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;vitamin d&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!~~#F06:31+~~  VitaminDWiki Virus pages have ZINC or SELENIUM or PROBIOTICS in the title`
@@ -2544,14 +2544,14 @@ AST Structure:
 │   │   inner_content: `This list is automatically updated`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListNode
-│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
-│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
 │   attrs_dict:
 │   │   raw_content: 
 │   children:
 │   ├── TextNode
-│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
-│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;155&quot;}\n{filter field=&quot;title&quot; content=&quot;ZINC OR Selenium OR probiotic&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}n\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── TextNode
 │   full_match: `\n\n`
 │   inner_content: `\n\n`
 

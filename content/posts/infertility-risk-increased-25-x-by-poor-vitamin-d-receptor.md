@@ -41,7 +41,7 @@ This list is automatically updated
 
 #### VitaminDWiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
 
- - - - - - - - - - - - - 
+- - - - - - - - - - - - 
 
 ---
 
@@ -89,7 +89,7 @@ This list is automatically updated
 
 #### VitaminDWiki – [Fertility and Sperm](/categories/fertility-and-sperm) category contains
 
- - - - - - - - - - - - - 
+- - - - - - - - - - - - 
 
 ---
 
@@ -153,8 +153,8 @@ AST Structure:
 │   inner_content: ` OR = 2.5`
 │   children:
 │   ├── TextNode
-│   │   full_match: ` OR = 2.5`
-│   │   inner_content: ` OR = 2.5`├── TextNode
+│   │   full_match: `OR = 2.5`
+│   │   inner_content: `OR = 2.5`├── TextNode
 │   full_match: `, 95%, p = 0.001*) as compared to wild type. Heterozygous genotypes of TaqI and ApaI were found to play a protective role and reduce the risk of infertility by 58 and 52%, respectively `
 │   inner_content: `, 95%, p = 0.001*) as compared to wild type. Heterozygous genotypes of TaqI and ApaI were found to play a protective role and reduce the risk of infertility by 58 and 52%, respectively `├── LinkNode
 │   full_match: `[TaqI: OR = 0.42, 95%, p = 0.004*, ApaI: OR = 0.48, 95%, p = 0.01*, respectively]`
@@ -242,8 +242,8 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ``
 │   │   inner_content: ``├── TextNode
-│   full_match: `\n - - - - - - - - - - - - \n`
-│   inner_content: `\n - - - - - - - - - - - - \n`├── IncludeNode
+│   full_match: `\n- - - - - - - - - - - - \n`
+│   inner_content: `\n- - - - - - - - - - - - \n`├── IncludeNode
 │   full_match: `{include page=&quot;Fertility and Sperm&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`
 │   inner_content: ``
 │   attrs_dict:
