@@ -595,15 +595,15 @@ Dr. Joseph Mercola:  All right, you too.
 
 ### VitaminDWiki
 
-#### <a href="/posts/alzheimers-cognition-overviewalzheimers-cognition-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview">Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview</a>
+#### <a href="/posts/alzheimers-cognition-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alzheimers-Cognition - Overview">Alzheimers-Cognition - Overview</a>
 
 ---
 
-#### <a href="/posts/overview-parkinsons-and-vitamin-doverview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D">Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D</a>
+#### <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinsons and Vitamin D">Overview Parkinsons and Vitamin D</a>
 
 ---
 
-#### <a href="/posts/comparing-high-dose-vitamin-d-therapiescomparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies</a>
+#### <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a>
 
  **a lot of commonality in the protocols for Multiple Sclerosis, Sleep, Cluster Headache, and Alzheimer's** 
 
@@ -1327,15 +1327,15 @@ Dr. Joseph Mercola:  All right, you too.
 
 ### VitaminDWiki
 
-#### &lt;a href=&quot;/posts/alzheimers-cognition-overviewalzheimers-cognition-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview&quot;&gt;Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview&lt;/a&gt;
+#### &lt;a href=&quot;/posts/alzheimers-cognition-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Alzheimers-Cognition - Overview&quot;&gt;Alzheimers-Cognition - Overview&lt;/a&gt;
 
 ---
 
-#### &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-doverview-parkinsons-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D&quot;&gt;Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D&lt;/a&gt;
+#### &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinsons and Vitamin D&quot;&gt;Overview Parkinsons and Vitamin D&lt;/a&gt;
 
 ---
 
-#### &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapiescomparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies&lt;/a&gt;
+#### &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies&lt;/a&gt;
 
  **a lot of commonality in the protocols for Multiple Sclerosis, Sleep, Cluster Headache, and Alzheimer&#39;s** 
 
@@ -1925,10 +1925,10 @@ AST Structure:
 │   inner_content: `((Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview))`
 │   │   inner_content: `Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview`
-│   │   page: `Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview`
+│   │   page: `Alzheimers-Cognition - Overview`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Alzheimers-Cognition - Overview|Alzheimers-Cognition - Overview`
@@ -1939,10 +1939,10 @@ AST Structure:
 │   inner_content: `((Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D))`
 │   │   inner_content: `Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D`
-│   │   page: `Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D`
+│   │   page: `Overview Parkinsons and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Parkinsons and Vitamin D|Overview Parkinsons and Vitamin D`
@@ -1953,10 +1953,10 @@ AST Structure:
 │   inner_content: `((Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies))`
 │   │   inner_content: `Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies`
-│   │   page: `Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies`
+│   │   page: `Comparing High-dose vitamin D therapies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Comparing High-dose vitamin D therapies|Comparing High-dose vitamin D therapies`

@@ -55,7 +55,7 @@ has been documented in the literature. Although most studies have been reported 
 
 #### VitaminDWiki Cardiovascular section as of May 2023
 
-[Cardiovascular](/categories/cardiovascular) (476+) {DIV(type="span",class="overviewbig")}<a href="/posts/overview-cardiovascular-and-vitamin-doverview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D|Overview">Overview Cardiovascular and vitamin D|Overview</a>
+<a href="/posts/cardiovascular-476-divtypespanclassoverviewbigoverview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular)) (476+) {DIV(type="span",class="overviewbig")}((Overview Cardiovascular and vitamin D">Overview</a>
 
 {DIV(class="categorylink")} &nbsp;&nbsp;&nbsp;&nbsp; <span>[tiki-index.php?page_id=12919]</span> (20+)
 
@@ -123,7 +123,7 @@ has been documented in the literature. Although most studies have been reported 
 
 #### VitaminDWiki Cardiovascular section as of May 2023
 
-[Cardiovascular](/categories/cardiovascular) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}&lt;a href=&quot;/posts/overview-cardiovascular-and-vitamin-doverview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cardiovascular and vitamin D|Overview&quot;&gt;Overview Cardiovascular and vitamin D|Overview&lt;/a&gt;
+&lt;a href=&quot;/posts/cardiovascular-476-divtypespanclassoverviewbigoverview-cardiovascular-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D&quot;&gt;Overview&lt;/a&gt;
 
 {DIV(class=&quot;categorylink&quot;)} &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;[tiki-index.php?page_id=12919]&lt;/span&gt; (20+)
 
@@ -318,25 +318,14 @@ AST Structure:
 │   │   raw_content: (class=&quot;categorylink&quot;)
 │   │   class: categorylink
 │   children:
-│   ├── LocalLinkNode
-│   │   full_match: `((Cardiovascular))`
-│   │   inner_content: `Cardiovascular`
-│   │   page: `Cardiovascular`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D|Overview))`
+│   │   inner_content: `Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D|Overview`
+│   │   page: `Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Cardiovascular`
-│   │   │   inner_content: `Cardiovascular`
-│   ├── TextNode
-│   │   full_match: ` (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}`
-│   │   inner_content: ` (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}`
-│   ├── LocalLinkNode
-│   │   full_match: `((Overview Cardiovascular and vitamin D|Overview))`
-│   │   inner_content: `Overview Cardiovascular and vitamin D|Overview`
-│   │   page: `Overview Cardiovascular and vitamin D|Overview`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Overview Cardiovascular and vitamin D|Overview`
-│   │   │   inner_content: `Overview Cardiovascular and vitamin D|Overview`├── DivNode
+│   │   │   full_match: `Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D|Overview`
+│   │   │   inner_content: `Cardiovascular)) (476+) {DIV(type=&quot;span&quot;,class=&quot;overviewbig&quot;)}((Overview Cardiovascular and vitamin D|Overview`├── DivNode
 │   full_match: `{DIV}\n{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12919|Atrial Fibrillation] (20+){DIV}`
 │   inner_content: `\n{DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=12919|Atrial Fibrillation] (20+)`
 │   attrs_dict:

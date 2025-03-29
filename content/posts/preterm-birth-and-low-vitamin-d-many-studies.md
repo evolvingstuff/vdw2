@@ -24,21 +24,21 @@ categories:
 
 * Low Omega-3
 
-* <a href="/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor-dec-2019poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor">Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor</a>
+* <a href="/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019">Poor vitamin D receptor</a>
 
-* <a href="/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case-nov-2023dark-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin">Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin</a>
+* [Dark Skin](/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case)
 
-* <a href="/posts/high-risk-of-extremely-premature-birth-if-high-bmi-low-vitamin-d-june-2013high-bmi" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI">High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI</a>
+* <a href="/posts/high-risk-of-extremely-premature-birth-if-high-bmi-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High risk of extremely premature birth if high BMI (low vitamin D) – June 2013">High BMI</a>
 
  **Preterm birth rates decrease when add** 
 
-* <a href="/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane-nov-2018vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D">Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D</a> (if low, and most people are)
+* <a href="/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018">Vitamin D</a> (if low, and most people are)
 
-* <a href="/posts/preterm-birth-decreased-by-omege-3-etc-many-studiesomega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies|Omega-3">Preterm birth decreased by Omege-3, etc. - many studies|Omega-3</a> (if low Omega-3 index, like most people)
+* <a href="/posts/preterm-birth-decreased-by-omege-3-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies">Omega-3</a> (if low Omega-3 index, like most people)
 
-* <a href="/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d-aug-2019zinc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc">Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc</a> (small decrease)
+* <a href="/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019">Zinc</a> (small decrease)
 
-* <a href="/posts/vitamin-d-receptorvdr-activator" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor|VDR activator">Vitamin D Receptor|VDR activator</a> (not yet proven)
+* [VDR activator](/categories/vitamin-d-receptor) (not yet proven)
 
  **Premies' lifetime healthcare costs will decrease if add Vitamin D** 
 
@@ -76,7 +76,7 @@ This list is automatically updated
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
- **<a href="/posts/preterm-birth-cost-for-employers-approximately-50000-dollars-oct-2017suspect-lif-t-of-term-birth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth">Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth</a>** 
+ **<a href="/posts/preterm-birth-cost-for-employers-approximately-50000-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth cost for employers approximately 50,000 dollars – Oct 2017">Suspect lifetime cost of health problems of preemies exceeds that of term birth</a>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
@@ -210,21 +210,21 @@ Markdown:
 
 * Low Omega-3
 
-* &lt;a href=&quot;/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor-dec-2019poor-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor&quot;&gt;Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor&lt;/a&gt;
+* &lt;a href=&quot;/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019&quot;&gt;Poor vitamin D receptor&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case-nov-2023dark-skin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin&quot;&gt;Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin&lt;/a&gt;
+* [Dark Skin](/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case)
 
-* &lt;a href=&quot;/posts/high-risk-of-extremely-premature-birth-if-high-bmi-low-vitamin-d-june-2013high-bmi&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI&quot;&gt;High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI&lt;/a&gt;
+* &lt;a href=&quot;/posts/high-risk-of-extremely-premature-birth-if-high-bmi-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: High risk of extremely premature birth if high BMI (low vitamin D) – June 2013&quot;&gt;High BMI&lt;/a&gt;
 
  **Preterm birth rates decrease when add** 
 
-* &lt;a href=&quot;/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane-nov-2018vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D&quot;&gt;Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D&lt;/a&gt; (if low, and most people are)
+* &lt;a href=&quot;/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018&quot;&gt;Vitamin D&lt;/a&gt; (if low, and most people are)
 
-* &lt;a href=&quot;/posts/preterm-birth-decreased-by-omege-3-etc-many-studiesomega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies|Omega-3&quot;&gt;Preterm birth decreased by Omege-3, etc. - many studies|Omega-3&lt;/a&gt; (if low Omega-3 index, like most people)
+* &lt;a href=&quot;/posts/preterm-birth-decreased-by-omege-3-etc-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies&quot;&gt;Omega-3&lt;/a&gt; (if low Omega-3 index, like most people)
 
-* &lt;a href=&quot;/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d-aug-2019zinc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc&quot;&gt;Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc&lt;/a&gt; (small decrease)
+* &lt;a href=&quot;/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019&quot;&gt;Zinc&lt;/a&gt; (small decrease)
 
-* &lt;a href=&quot;/posts/vitamin-d-receptorvdr-activator&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Receptor|VDR activator&quot;&gt;Vitamin D Receptor|VDR activator&lt;/a&gt; (not yet proven)
+* [VDR activator](/categories/vitamin-d-receptor) (not yet proven)
 
  **Premies&#39; lifetime healthcare costs will decrease if add Vitamin D** 
 
@@ -262,7 +262,7 @@ This list is automatically updated
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
- **&lt;a href=&quot;/posts/preterm-birth-cost-for-employers-approximately-50000-dollars-oct-2017suspect-lif-t-of-term-birth&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth&quot;&gt;Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth&lt;/a&gt;** 
+ **&lt;a href=&quot;/posts/preterm-birth-cost-for-employers-approximately-50000-dollars&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth cost for employers approximately 50,000 dollars – Oct 2017&quot;&gt;Suspect lifetime cost of health problems of preemies exceeds that of term birth&lt;/a&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
@@ -440,10 +440,10 @@ AST Structure:
 │   inner_content: `((Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor))`
 │   │   inner_content: `Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor`
-│   │   page: `Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor`
+│   │   page: `Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019|Poor vitamin D receptor`
@@ -454,10 +454,10 @@ AST Structure:
 │   inner_content: `((Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin))`
 │   │   inner_content: `Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin`
-│   │   page: `Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin`
+│   │   page: `Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023|Dark Skin`
@@ -468,10 +468,10 @@ AST Structure:
 │   inner_content: `((High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI))`
 │   │   inner_content: `High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI`
-│   │   page: `High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI`
+│   │   page: `High risk of extremely premature birth if high BMI (low vitamin D) – June 2013`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `High risk of extremely premature birth if high BMI (low vitamin D) – June 2013|High BMI`
@@ -490,10 +490,10 @@ AST Structure:
 │   inner_content: `((Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D)) (if low, and most people are)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D))`
 │   │   inner_content: `Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D`
-│   │   page: `Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D`
+│   │   page: `Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018|Vitamin D`
@@ -507,10 +507,10 @@ AST Structure:
 │   inner_content: `((Preterm birth decreased by Omege-3, etc. - many studies|Omega-3)) (if low Omega-3 index, like most people)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm birth decreased by Omege-3, etc. - many studies|Omega-3))`
 │   │   inner_content: `Preterm birth decreased by Omege-3, etc. - many studies|Omega-3`
-│   │   page: `Preterm birth decreased by Omege-3, etc. - many studies|Omega-3`
+│   │   page: `Preterm birth decreased by Omege-3, etc. - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth decreased by Omege-3, etc. - many studies|Omega-3`
@@ -524,10 +524,10 @@ AST Structure:
 │   inner_content: `((Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc)) (small decrease)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc))`
 │   │   inner_content: `Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc`
-│   │   page: `Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc`
+│   │   page: `Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019|Zinc`
@@ -541,10 +541,10 @@ AST Structure:
 │   inner_content: `((Vitamin D Receptor|VDR activator)) (not yet proven)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Receptor|VDR activator))`
 │   │   inner_content: `Vitamin D Receptor|VDR activator`
-│   │   page: `Vitamin D Receptor|VDR activator`
+│   │   page: `Vitamin D Receptor`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D Receptor|VDR activator`
@@ -654,10 +654,10 @@ AST Structure:
 │   full_match: `__((Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth))__`
 │   inner_content: `((Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth))`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth))`
 │   │   inner_content: `Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth`
-│   │   page: `Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth`
+│   │   page: `Preterm birth cost for employers approximately 50,000 dollars – Oct 2017`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth cost for employers approximately 50,000 dollars – Oct 2017|Suspect lifetime cost of health problems of preemies exceeds that of term birth`

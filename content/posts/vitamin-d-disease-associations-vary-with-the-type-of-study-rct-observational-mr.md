@@ -86,7 +86,7 @@ Low vitamin D concentrations are a causal factor for multiple noncommunicable ch
 
 ---
 
-#### VitaminDWiki – <a href="/posts/overview-meta-analysis-of-vitamin-d-some-reasons-why-meta-analyses-might-not-find-vitamin-d-benefits" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits">Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits</a>
+#### VitaminDWiki – <a href="/posts/overview-meta-analysis-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Meta-analysis of Vitamin D">Some reasons why Meta-analyses might not find Vitamin D benefits</a>
 
 ---
 
@@ -233,7 +233,7 @@ Low vitamin D concentrations are a causal factor for multiple noncommunicable ch
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/overview-meta-analysis-of-vitamin-d-some-reasons-why-meta-analyses-might-not-find-vitamin-d-benefits&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits&quot;&gt;Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-meta-analysis-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Meta-analysis of Vitamin D&quot;&gt;Some reasons why Meta-analyses might not find Vitamin D benefits&lt;/a&gt;
 
 ---
 
@@ -498,14 +498,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits))`
-│   │   inner_content: `Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits`
-│   │   page: `Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits`
+│   │   inner_content: `Overview Meta-analysis of Vitamin D|Some reasons why Meta-analyses might not find Vitamin D benefits`
+│   │   page: `Overview Meta-analysis of Vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits`
-│   │   │   inner_content: `Overview Meta-analysis of Vitamin D |Some reasons why Meta-analyses might not find Vitamin D benefits`├── TextNode
+│   │   │   full_match: `Overview Meta-analysis of Vitamin D|Some reasons why Meta-analyses might not find Vitamin D benefits`
+│   │   │   inner_content: `Overview Meta-analysis of Vitamin D|Some reasons why Meta-analyses might not find Vitamin D benefits`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Overview Meta-analysis of Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`

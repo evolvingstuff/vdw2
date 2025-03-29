@@ -12,7 +12,7 @@ categories:
 ---
 
 
- **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D <a href="/posts/better-than-dailynon-daily-is-better-than-daily" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|Non-daily is better than daily">Better than Daily|Non-daily is better than daily</a>,Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a <a href="/posts/loading-dose-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D|loading dose">Loading Dose of Vitamin D|loading dose</a><a href="/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes-jan-2021magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium">Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium</a> and <a href="/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss-aug-2018omega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3">Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3</a> help a lot** 
+ **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D [Non-daily is better than daily](/categories/better-than-daily),Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">loading dose</a><a href="/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021">Magnesium</a> and <a href="/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018">Omega-3</a> help a lot** 
 
 <!-- {maketoc} -->
  
@@ -68,7 +68,7 @@ This list is automatically updated
 <code class="language-text">
 Markdown:
 --------
- **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D &lt;a href=&quot;/posts/better-than-dailynon-daily-is-better-than-daily&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|Non-daily is better than daily&quot;&gt;Better than Daily|Non-daily is better than daily&lt;/a&gt;,Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a &lt;a href=&quot;/posts/loading-dose-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D|loading dose&quot;&gt;Loading Dose of Vitamin D|loading dose&lt;/a&gt;&lt;a href=&quot;/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes-jan-2021magnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium&quot;&gt;Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss-aug-2018omega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3&quot;&gt;Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3&lt;/a&gt; help a lot** 
+ **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D [Non-daily is better than daily](/categories/better-than-daily),Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a &lt;a href=&quot;/posts/loading-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D&quot;&gt;loading dose&lt;/a&gt;&lt;a href=&quot;/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021&quot;&gt;Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018&quot;&gt;Omega-3&lt;/a&gt; help a lot** 
 
 &lt;!-- {maketoc} --&gt;
  
@@ -154,10 +154,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: ` `
 │   │   │   inner_content: ` `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Better than Daily|Non-daily is better than daily))`
 │   │   │   inner_content: `Better than Daily|Non-daily is better than daily`
-│   │   │   page: `Better than Daily|Non-daily is better than daily`
+│   │   │   page: `Better than Daily`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Better than Daily|Non-daily is better than daily`
@@ -177,10 +177,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Takes ~3 months for Vitamin D levels to be beneficial if not start with a `
 │   │   │   inner_content: `Takes ~3 months for Vitamin D levels to be beneficial if not start with a `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Loading Dose of Vitamin D|loading dose))`
 │   │   │   inner_content: `Loading Dose of Vitamin D|loading dose`
-│   │   │   page: `Loading Dose of Vitamin D|loading dose`
+│   │   │   page: `Loading Dose of Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Loading Dose of Vitamin D|loading dose`
@@ -188,10 +188,10 @@ AST Structure:
 │   │   ├── NewlineNode
 │   │   │   full_match: `%%%`
 │   │   │   inner_content: ``
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium))`
 │   │   │   inner_content: `Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium`
-│   │   │   page: `Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium`
+│   │   │   page: `Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021|Magnesium`
@@ -199,10 +199,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: ` and `
 │   │   │   inner_content: ` and `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3))`
 │   │   │   inner_content: `Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3`
-│   │   │   page: `Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3`
+│   │   │   page: `Omega-3 may reduce weight gain and maintain weight loss – Aug 2018`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Omega-3 may reduce weight gain and maintain weight loss – Aug 2018|Omega-3`

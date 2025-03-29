@@ -60,7 +60,7 @@ The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalop
 
 ---
 
-#### VitaminDWiki – <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-doverview-fibromyalgia-or-c-e-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+#### VitaminDWiki – <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
 
 
 
@@ -117,7 +117,7 @@ The specific SSRIs that have been noted to inhibit  **CYP27A1**  include citalop
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-doverview-fibromyalgia-or-c-e-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D&lt;/a&gt;
 
 
 
@@ -413,10 +413,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D))`
 │   │   inner_content: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D`
-│   │   page: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D`
+│   │   page: `Overview Fibromyalgia or Chronic Fatigue and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Overview Fibromyalgia or Chronic Fatigue and vitamin D`

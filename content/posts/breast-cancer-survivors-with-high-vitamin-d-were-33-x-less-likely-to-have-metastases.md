@@ -35,7 +35,7 @@ Conclusions: Low serum Vit-D is associated with advanced stage and adverse chara
 
 ---
 
-#### VitaminDWiki - <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studiesmetastatic-cancer-re-4-studies-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023">Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023</a>
+#### VitaminDWiki - <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023</a>
 
 
 
@@ -67,7 +67,7 @@ Conclusions: Low serum Vit-D is associated with advanced stage and adverse chara
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studiesmetastatic-cancer-re-4-studies-as-of&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023&quot;&gt;Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies&quot;&gt;Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023&lt;/a&gt;
 
 
 
@@ -120,10 +120,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023))`
 │   │   inner_content: `Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023`
-│   │   page: `Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023`
+│   │   page: `Metastatic Cancer probably reduced by vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Metastatic Cancer probably reduced by vitamin D - many studies|Metastatic Cancer reduced by vitamin D - 24 studies as of May 2023`

@@ -56,7 +56,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - <a href="/posts/long-covid-in-vitamindwikilong-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID in VitaminDWiki|Long-COVID">Long-COVID in VitaminDWiki|Long-COVID</a> 78+ items
+#### VitaminDwiki - <a href="/posts/long-covid-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID in VitaminDWiki">Long-COVID</a> 78+ items
 
 <!-- ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~ -->
 
@@ -110,7 +110,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDwiki - &lt;a href=&quot;/posts/long-covid-in-vitamindwikilong-covid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID in VitaminDWiki|Long-COVID&quot;&gt;Long-COVID in VitaminDWiki|Long-COVID&lt;/a&gt; 78+ items
+#### VitaminDwiki - &lt;a href=&quot;/posts/long-covid-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID in VitaminDWiki&quot;&gt;Long-COVID&lt;/a&gt; 78+ items
 
 &lt;!-- ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~ --&gt;
 
@@ -219,10 +219,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDwiki - `
 │   │   inner_content: `VitaminDwiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Long-COVID in VitaminDWiki|Long-COVID))`
 │   │   inner_content: `Long-COVID in VitaminDWiki|Long-COVID`
-│   │   page: `Long-COVID in VitaminDWiki|Long-COVID`
+│   │   page: `Long-COVID in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Long-COVID in VitaminDWiki|Long-COVID`

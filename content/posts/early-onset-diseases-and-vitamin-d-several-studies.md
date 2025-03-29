@@ -64,7 +64,7 @@ This list is automatically updated
 
   * See VitaminDWiki - <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
 
-*  No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etcvitamin-d-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing</a>
+*  No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D Crashing</a>
 
 ---
 
@@ -136,7 +136,7 @@ This list is automatically updated
 
   * See VitaminDWiki - &lt;a href=&quot;/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies&quot;&gt;Microplastics now causing problems in most life forms - many studies&lt;/a&gt;
 
-*  No mention of &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etcvitamin-d-crashing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing&lt;/a&gt;
+*  No mention of &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D Crashing&lt;/a&gt;
 
 ---
 
@@ -450,10 +450,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` No mention of `
 │   │   inner_content: ` No mention of `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing))`
 │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing`
-│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing`
+│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D Crashing`

@@ -15,27 +15,24 @@ categories:
 
 <!-- ~tc~ start ~/tc~ -->
 
-<a href="/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways-nov-2017chronic-kidney-dise-level-in-4-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways">Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways</a>
+<a href="/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017">Chronic Kidney Disease decreases Vitamin D level in 4 ways</a>
 
-<a href="/posts/4x-more-chronic-kidney-disease-patients-are-now-using-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X more Chronic Kidney disease patients are now using vitamin D – March 2014">4X more Chronic Kidney disease patients are now using vitamin D – March 2014</a>
-
-<a href="/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019">Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019</a>
-
-<a href="/posts/hemodialysis-and-vitamin-d-many-studieskidney-dialysis-often-filters-out-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D">Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D</a>
+<a href="/posts/4x-more-chronic-kidney-disease-patients-are-now-using-vitamin-d-march-2014-vitam--d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X more Chronic Kidney disease patients are now using vitamin D – March 2014))
+((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))
+((Hemodialysis and Vitamin D - many studies">Kidney dialysis often filters out vitamin D</a>
 
 Low vitamin D causes many health problems, such as weak bones
 
 Want to have good Vitamin D levels to prevent CKD from causing other health problems
 
-Higher vitamin D levels can treat CKD <a href="/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng-march-201950-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng">More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng</a> &nbsp; <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease-may-2012-80-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng">Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng</a>
+Higher vitamin D levels can treat CKD <a href="/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019">50 ng</a> &nbsp; <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012">80 ng</a>
 
-<a href="/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct-may--n-daily-for-ckd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD">Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD</a> and many other health problems
+<a href="/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022">Monthly dosing appears better than daily for CKD</a> and many other health problems
 
-<a href="/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease-nov-2021ckd-also-es-vitamin-k2-7" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7">Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7</a>
+<a href="/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021">CKD also decreases Vitamin K2-7</a>
 
-Form of vitamin D to be used; normal, [Calcitriol](/categories/calcitriol), or synthetic
-
-Non-oral form is often better for CKD ( <a href="/posts/topical-vitamin-dtopical" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D|topical">Topical Vitamin D|topical</a>, <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-formemulsion-swished-in-mouth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth">Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth</a>, <a href="/posts/vitamin-d3-patch-expensive-many-availablepatch" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Patch - expensive, many available|patch">Vitamin D3 Patch - expensive, many available|patch</a> [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&keywords=%22vitamin%2Bd%22%2Bpatch&qid=1681836167&sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&sr=8-7&th=1), etc)
+Form of vitamin D to be used; normal, <a href="/posts/calcitriol-or-synthetic-non-oral-form-is-often-better-for-ckd-topical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcitriol)), or synthetic
+Non-oral form is often better for CKD ( ((Topical Vitamin D">topical</a>, <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">emulsion swished in mouth</a>, <a href="/posts/vitamin-d3-patch-expensive-many-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Patch - expensive, many available">patch</a> [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&keywords=%22vitamin%2Bd%22%2Bpatch&qid=1681836167&sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&sr=8-7&th=1), etc)
 
 <!-- ~tc~ end ~/tc~ -->
 
@@ -136,27 +133,24 @@ Markdown:
 
 &lt;!-- ~tc~ start ~/tc~ --&gt;
 
-&lt;a href=&quot;/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways-nov-2017chronic-kidney-dise-level-in-4-ways&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways&quot;&gt;Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways&lt;/a&gt;
+&lt;a href=&quot;/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017&quot;&gt;Chronic Kidney Disease decreases Vitamin D level in 4 ways&lt;/a&gt;
 
-&lt;a href=&quot;/posts/4x-more-chronic-kidney-disease-patients-are-now-using-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4X more Chronic Kidney disease patients are now using vitamin D – March 2014&quot;&gt;4X more Chronic Kidney disease patients are now using vitamin D – March 2014&lt;/a&gt;
-
-&lt;a href=&quot;/posts/vitamin-d-testers-have-different-test-results-if-there-is-chronic-kidney-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019&quot;&gt;Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019&lt;/a&gt;
-
-&lt;a href=&quot;/posts/hemodialysis-and-vitamin-d-many-studieskidney-dialysis-often-filters-out-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D&quot;&gt;Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D&lt;/a&gt;
+&lt;a href=&quot;/posts/4x-more-chronic-kidney-disease-patients-are-now-using-vitamin-d-march-2014-vitam--d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4X more Chronic Kidney disease patients are now using vitamin D – March 2014))
+((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))
+((Hemodialysis and Vitamin D - many studies&quot;&gt;Kidney dialysis often filters out vitamin D&lt;/a&gt;
 
 Low vitamin D causes many health problems, such as weak bones
 
 Want to have good Vitamin D levels to prevent CKD from causing other health problems
 
-Higher vitamin D levels can treat CKD &lt;a href=&quot;/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng-march-201950-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng&quot;&gt;More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease-may-2012-80-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng&quot;&gt;Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng&lt;/a&gt;
+Higher vitamin D levels can treat CKD &lt;a href=&quot;/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019&quot;&gt;50 ng&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012&quot;&gt;80 ng&lt;/a&gt;
 
-&lt;a href=&quot;/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct-may--n-daily-for-ckd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD&quot;&gt;Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD&lt;/a&gt; and many other health problems
+&lt;a href=&quot;/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022&quot;&gt;Monthly dosing appears better than daily for CKD&lt;/a&gt; and many other health problems
 
-&lt;a href=&quot;/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease-nov-2021ckd-also-es-vitamin-k2-7&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7&quot;&gt;Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7&lt;/a&gt;
+&lt;a href=&quot;/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021&quot;&gt;CKD also decreases Vitamin K2-7&lt;/a&gt;
 
-Form of vitamin D to be used; normal, [Calcitriol](/categories/calcitriol), or synthetic
-
-Non-oral form is often better for CKD ( &lt;a href=&quot;/posts/topical-vitamin-dtopical&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D|topical&quot;&gt;Topical Vitamin D|topical&lt;/a&gt;, &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-formemulsion-swished-in-mouth&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth&quot;&gt;Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d3-patch-expensive-many-availablepatch&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 Patch - expensive, many available|patch&quot;&gt;Vitamin D3 Patch - expensive, many available|patch&lt;/a&gt; [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&amp;keywords=%22vitamin%2Bd%22%2Bpatch&amp;qid=1681836167&amp;sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&amp;sr=8-7&amp;th=1), etc)
+Form of vitamin D to be used; normal, &lt;a href=&quot;/posts/calcitriol-or-synthetic-non-oral-form-is-often-better-for-ckd-topical-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcitriol)), or synthetic
+Non-oral form is often better for CKD ( ((Topical Vitamin D&quot;&gt;topical&lt;/a&gt;, &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form&quot;&gt;emulsion swished in mouth&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d3-patch-expensive-many-available&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 Patch - expensive, many available&quot;&gt;patch&lt;/a&gt; [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&amp;keywords=%22vitamin%2Bd%22%2Bpatch&amp;qid=1681836167&amp;sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&amp;sr=8-7&amp;th=1), etc)
 
 &lt;!-- ~tc~ end ~/tc~ --&gt;
 
@@ -271,10 +265,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways))`
 │   │   inner_content: `Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways`
-│   │   page: `Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways`
+│   │   page: `Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017|Chronic Kidney Disease decreases Vitamin D level in 4 ways`
@@ -282,43 +276,34 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((4X more Chronic Kidney disease patients are now using vitamin D – March 2014))`
-│   │   inner_content: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014`
-│   │   page: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((4X more Chronic Kidney disease patients are now using vitamin D – March 2014))\n((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))\n((Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D))`
+│   │   inner_content: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014))\n((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))\n((Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
+│   │   page: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014))
+((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))
+((Hemodialysis and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014`
-│   │   │   inner_content: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014`
-│   ├── TextNode
-│   │   full_match: `\n`
-│   │   inner_content: `\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))`
-│   │   inner_content: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
-│   │   page: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
+│   │   │   full_match: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014))\n`
+│   │   │   inner_content: `4X more Chronic Kidney disease patients are now using vitamin D – March 2014))\n`
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))`
 │   │   │   inner_content: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
-│   ├── TextNode
-│   │   full_match: `\n`
-│   │   inner_content: `\n`
-│   ├── LocalLinkNode
-│   │   full_match: `((Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D))`
-│   │   inner_content: `Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
-│   │   page: `Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
-│   │   children:
+│   │   │   page: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
+│   │   │   │   inner_content: `Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019`
 │   │   ├── TextNode
-│   │   │   full_match: `Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
-│   │   │   inner_content: `Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
+│   │   │   full_match: `\n((Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
+│   │   │   inner_content: `\n((Hemodialysis and Vitamin D - many studies|Kidney dialysis often filters out vitamin D`
 │   ├── TextNode
 │   │   full_match: `\nLow vitamin D causes many health problems, such as weak bones\nWant to have good Vitamin D levels to prevent CKD from causing other health problems\nHigher vitamin D levels can treat CKD `
 │   │   inner_content: `\nLow vitamin D causes many health problems, such as weak bones\nWant to have good Vitamin D levels to prevent CKD from causing other health problems\nHigher vitamin D levels can treat CKD `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng))`
 │   │   inner_content: `More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng`
-│   │   page: `More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng`
+│   │   page: `More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019|50 ng`
@@ -333,21 +318,21 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` `
 │   │   inner_content: ` `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng))`
-│   │   inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng`
-│   │   page: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng`
+│   │   inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012|80 ng`
+│   │   page: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng`
-│   │   │   inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012| 80 ng`
+│   │   │   full_match: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012|80 ng`
+│   │   │   inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012|80 ng`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD))`
 │   │   inner_content: `Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD`
-│   │   page: `Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD`
+│   │   page: `Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022|Monthly dosing appears better than daily for CKD`
@@ -355,10 +340,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` and many other health problems\n`
 │   │   inner_content: ` and many other health problems\n`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7))`
 │   │   inner_content: `Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7`
-│   │   page: `Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7`
+│   │   page: `Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021|CKD also decreases Vitamin K2-7`
@@ -366,32 +351,22 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\nForm of vitamin D to be used; normal, `
 │   │   inner_content: `\nForm of vitamin D to be used; normal, `
-│   ├── LocalLinkNode
-│   │   full_match: `((Calcitriol))`
-│   │   inner_content: `Calcitriol`
-│   │   page: `Calcitriol`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Calcitriol)), or synthetic\nNon-oral form is often better for CKD ( ((Topical Vitamin D|topical))`
+│   │   inner_content: `Calcitriol)), or synthetic\nNon-oral form is often better for CKD ( ((Topical Vitamin D|topical`
+│   │   page: `Calcitriol)), or synthetic
+Non-oral form is often better for CKD ( ((Topical Vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Calcitriol`
-│   │   │   inner_content: `Calcitriol`
-│   ├── TextNode
-│   │   full_match: `, or synthetic\nNon-oral form is often better for CKD ( `
-│   │   inner_content: `, or synthetic\nNon-oral form is often better for CKD ( `
-│   ├── LocalLinkNode
-│   │   full_match: `((Topical Vitamin D|topical))`
-│   │   inner_content: `Topical Vitamin D|topical`
-│   │   page: `Topical Vitamin D|topical`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Topical Vitamin D|topical`
-│   │   │   inner_content: `Topical Vitamin D|topical`
+│   │   │   full_match: `Calcitriol)), or synthetic\nNon-oral form is often better for CKD ( ((Topical Vitamin D|topical`
+│   │   │   inner_content: `Calcitriol)), or synthetic\nNon-oral form is often better for CKD ( ((Topical Vitamin D|topical`
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth))`
 │   │   inner_content: `Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth`
-│   │   page: `Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth`
+│   │   page: `Nanoemulsion Vitamin D may be a substantially better form`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Nanoemulsion Vitamin D may be a substantially better form|emulsion swished in mouth`
@@ -399,10 +374,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D3 Patch - expensive, many available|patch))`
 │   │   inner_content: `Vitamin D3 Patch - expensive, many available|patch`
-│   │   page: `Vitamin D3 Patch - expensive, many available|patch`
+│   │   page: `Vitamin D3 Patch - expensive, many available`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D3 Patch - expensive, many available|patch`

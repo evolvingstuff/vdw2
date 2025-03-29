@@ -57,7 +57,7 @@ Obvious COVID remedies ignored Umberto Meduri is a professor of pharmaceutical s
 
 ---
 
-#### Also rejected: <a href="/posts/ivermectin-and-covid-19-many-studiesivermectin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ivermectin and COVID-19 - many studies|Ivermectin">Ivermectin and COVID-19 - many studies|Ivermectin</a>, <a href="/posts/low-magnesium-associated-with-severe-covid-many-studiesmagnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies|Magnesium">Low Magnesium associated with severe COVID – many studies|Magnesium</a>, <a href="/posts/over-690-virus-studies-have-vitamin-d-in-the-titlevitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Over 690 virus studies have Vitamin D in the title|Vitamin D">Over 690 virus studies have Vitamin D in the title|Vitamin D</a>, <a href="/posts/covid-and-zinc-many-studieszinc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and Zinc - many studies|Zinc">COVID and Zinc - many studies|Zinc</a>
+#### Also rejected: <a href="/posts/ivermectin-and-covid-19-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ivermectin and COVID-19 - many studies">Ivermectin</a>, <a href="/posts/low-magnesium-associated-with-severe-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies">Magnesium</a>, <a href="/posts/over-690-virus-studies-have-vitamin-d-in-the-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Over 690 virus studies have Vitamin D in the title">Vitamin D</a>, <a href="/posts/covid-and-zinc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and Zinc - many studies">Zinc</a>
 
 ---
 
@@ -141,7 +141,7 @@ Obvious COVID remedies ignored Umberto Meduri is a professor of pharmaceutical s
 
 ---
 
-#### Also rejected: &lt;a href=&quot;/posts/ivermectin-and-covid-19-many-studiesivermectin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ivermectin and COVID-19 - many studies|Ivermectin&quot;&gt;Ivermectin and COVID-19 - many studies|Ivermectin&lt;/a&gt;, &lt;a href=&quot;/posts/low-magnesium-associated-with-severe-covid-many-studiesmagnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies|Magnesium&quot;&gt;Low Magnesium associated with severe COVID – many studies|Magnesium&lt;/a&gt;, &lt;a href=&quot;/posts/over-690-virus-studies-have-vitamin-d-in-the-titlevitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Over 690 virus studies have Vitamin D in the title|Vitamin D&quot;&gt;Over 690 virus studies have Vitamin D in the title|Vitamin D&lt;/a&gt;, &lt;a href=&quot;/posts/covid-and-zinc-many-studieszinc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID and Zinc - many studies|Zinc&quot;&gt;COVID and Zinc - many studies|Zinc&lt;/a&gt;
+#### Also rejected: &lt;a href=&quot;/posts/ivermectin-and-covid-19-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ivermectin and COVID-19 - many studies&quot;&gt;Ivermectin&lt;/a&gt;, &lt;a href=&quot;/posts/low-magnesium-associated-with-severe-covid-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies&quot;&gt;Magnesium&lt;/a&gt;, &lt;a href=&quot;/posts/over-690-virus-studies-have-vitamin-d-in-the-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Over 690 virus studies have Vitamin D in the title&quot;&gt;Vitamin D&lt;/a&gt;, &lt;a href=&quot;/posts/covid-and-zinc-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID and Zinc - many studies&quot;&gt;Zinc&lt;/a&gt;
 
 ---
 
@@ -704,10 +704,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Also rejected: `
 │   │   inner_content: `Also rejected: `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Ivermectin and COVID-19 - many studies|Ivermectin))`
 │   │   inner_content: `Ivermectin and COVID-19 - many studies|Ivermectin`
-│   │   page: `Ivermectin and COVID-19 - many studies|Ivermectin`
+│   │   page: `Ivermectin and COVID-19 - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Ivermectin and COVID-19 - many studies|Ivermectin`
@@ -715,10 +715,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Low Magnesium associated with severe COVID – many studies|Magnesium))`
 │   │   inner_content: `Low Magnesium associated with severe COVID – many studies|Magnesium`
-│   │   page: `Low Magnesium associated with severe COVID – many studies|Magnesium`
+│   │   page: `Low Magnesium associated with severe COVID – many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Low Magnesium associated with severe COVID – many studies|Magnesium`
@@ -726,10 +726,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Over 690 virus studies have Vitamin D in the title|Vitamin D))`
 │   │   inner_content: `Over 690 virus studies have Vitamin D in the title|Vitamin D`
-│   │   page: `Over 690 virus studies have Vitamin D in the title|Vitamin D`
+│   │   page: `Over 690 virus studies have Vitamin D in the title`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Over 690 virus studies have Vitamin D in the title|Vitamin D`
@@ -737,10 +737,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((COVID and Zinc - many studies|Zinc))`
 │   │   inner_content: `COVID and Zinc - many studies|Zinc`
-│   │   page: `COVID and Zinc - many studies|Zinc`
+│   │   page: `COVID and Zinc - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID and Zinc - many studies|Zinc`

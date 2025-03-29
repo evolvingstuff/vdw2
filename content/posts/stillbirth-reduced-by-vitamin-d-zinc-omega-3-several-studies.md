@@ -40,7 +40,7 @@ This list is automatically updated
 
 #### Omega-3 reduces stillbirth by 4X– Meta-analysis -March 2015
 
- **<a href="/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studiesclick-here" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here">Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here</a>** 
+ **<a href="/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancy and infants healthier with Omega-3 supplementation - many studies">Click here</a>** 
 
 ---
 
@@ -74,7 +74,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
  - - - - - - - 
 
- **<span style="color:orange;">The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studiessmoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|smoking">Smoking reduces vitamin D - many studies|smoking</a> and <a href="/posts/overview-obesity-and-vitamin-dobesity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D|obesity">Overview Obesity and Vitamin D|obesity</a> decrease levels of Vitamin D</span>** 
+ **<span style="color:orange;">The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoking</a> and <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">obesity</a> decrease levels of Vitamin D</span>** 
 
 ---
 
@@ -92,11 +92,11 @@ No surprise - blacks have a much lower vitamin D levels than whites
 
 --
 
-#### See also <a href="/posts/preterm-birth-and-low-vitamin-d-many-studiespreterm-birth-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D">Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D</a>
+#### See also [Preterm birth and low vitamin D](/posts/preterm-birth-and-low-vitamin-d-many-studies)
 
 ---
 
-#### See also <a href="/posts/miscarriage-and-low-vitamin-d-many-studiesmiscarriage-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D">Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D</a> occur before 20th week
+#### See also <a href="/posts/miscarriage-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Miscarriage and low Vitamin D – many studies">Miscarriage and low vitamin D</a> occur before 20th week
 
 ---
 
@@ -169,7 +169,7 @@ This list is automatically updated
 
 #### Omega-3 reduces stillbirth by 4X– Meta-analysis -March 2015
 
- **&lt;a href=&quot;/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studiesclick-here&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here&quot;&gt;Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here&lt;/a&gt;** 
+ **&lt;a href=&quot;/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pregnancy and infants healthier with Omega-3 supplementation - many studies&quot;&gt;Click here&lt;/a&gt;** 
 
 ---
 
@@ -203,7 +203,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
  - - - - - - - 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiessmoking&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|smoking&quot;&gt;Smoking reduces vitamin D - many studies|smoking&lt;/a&gt; and &lt;a href=&quot;/posts/overview-obesity-and-vitamin-dobesity&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D|obesity&quot;&gt;Overview Obesity and Vitamin D|obesity&lt;/a&gt; decrease levels of Vitamin D&lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;smoking&lt;/a&gt; and &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;obesity&lt;/a&gt; decrease levels of Vitamin D&lt;/span&gt;** 
 
 ---
 
@@ -221,11 +221,11 @@ No surprise - blacks have a much lower vitamin D levels than whites
 
 --
 
-#### See also &lt;a href=&quot;/posts/preterm-birth-and-low-vitamin-d-many-studiespreterm-birth-and-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D&quot;&gt;Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D&lt;/a&gt;
+#### See also [Preterm birth and low vitamin D](/posts/preterm-birth-and-low-vitamin-d-many-studies)
 
 ---
 
-#### See also &lt;a href=&quot;/posts/miscarriage-and-low-vitamin-d-many-studiesmiscarriage-and-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D&quot;&gt;Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D&lt;/a&gt; occur before 20th week
+#### See also &lt;a href=&quot;/posts/miscarriage-and-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Miscarriage and low Vitamin D – many studies&quot;&gt;Miscarriage and low vitamin D&lt;/a&gt; occur before 20th week
 
 ---
 
@@ -331,10 +331,10 @@ AST Structure:
 │   full_match: `__((Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here))__`
 │   inner_content: `((Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here))`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here))`
 │   │   inner_content: `Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here`
-│   │   page: `Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here`
+│   │   page: `Pregnancy and infants healthier with Omega-3 supplementation - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Pregnancy and infants healthier with Omega-3 supplementation - many studies|Click here`
@@ -472,10 +472,10 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both `
 │   │   │   │   inner_content: `The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both `
-│   │   │   ├── LocalLinkNode
+│   │   │   ├── AliasedLocalLinkNode
 │   │   │   │   full_match: `((Smoking reduces vitamin D - many studies|smoking))`
 │   │   │   │   inner_content: `Smoking reduces vitamin D - many studies|smoking`
-│   │   │   │   page: `Smoking reduces vitamin D - many studies|smoking`
+│   │   │   │   page: `Smoking reduces vitamin D - many studies`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
 │   │   │   │   │   full_match: `Smoking reduces vitamin D - many studies|smoking`
@@ -483,10 +483,10 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: ` and `
 │   │   │   │   inner_content: ` and `
-│   │   │   ├── LocalLinkNode
+│   │   │   ├── AliasedLocalLinkNode
 │   │   │   │   full_match: `((Overview Obesity and Vitamin D|obesity))`
 │   │   │   │   inner_content: `Overview Obesity and Vitamin D|obesity`
-│   │   │   │   page: `Overview Obesity and Vitamin D|obesity`
+│   │   │   │   page: `Overview Obesity and Vitamin D`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
 │   │   │   │   │   full_match: `Overview Obesity and Vitamin D|obesity`
@@ -547,10 +547,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `See also `
 │   │   inner_content: `See also `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D))`
 │   │   inner_content: `Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D`
-│   │   page: `Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D`
+│   │   page: `Preterm birth and low Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preterm birth and low Vitamin D - many studies|Preterm birth and low vitamin D`
@@ -564,10 +564,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `See also `
 │   │   inner_content: `See also `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D))`
 │   │   inner_content: `Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D`
-│   │   page: `Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D`
+│   │   page: `Miscarriage and low Vitamin D – many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Miscarriage and low Vitamin D – many studies|Miscarriage and low vitamin D`

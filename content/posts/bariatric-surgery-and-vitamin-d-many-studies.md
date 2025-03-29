@@ -18,7 +18,7 @@ categories:
 
  &nbsp;&nbsp;  **<span style="color:orange;">48 lbs</span>**  lost if <30 ng of Vitamin D
 
-Note: Might not have needed surgery if <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rctswe-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D</a>
+Note: Might not have needed surgery if <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">weight loss plan + weekly 50,000 IU of Vitamin D</a>
 
 <!-- {maketoc Title=""} -->
  
@@ -73,7 +73,7 @@ Our recommendations based on this systematic review and meta-analysis should hel
 
 ##### Note: Best to have Vitamin D loading dose before or after any surgery
 
- **A <a href="/posts/overview-loading-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|Loading dose">Overview Loading of vitamin D|Loading dose</a> will provide benefit in weeks instead of 5+ months** 
+ **A <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Loading dose</a> will provide benefit in weeks instead of 5+ months** 
 
  **Probably also need <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> as there is poor gut absorption after bariatric surgery** 
 
@@ -117,7 +117,7 @@ Vitamin D status affects the clinical and corporal outcomes of postoperative pat
 
 ---
 
-#### VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-dpeople-with-with-poor-digestion-need-gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D">Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D</a>
+#### VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">People with with poor digestion need gut-friendly Vitamin D</a>
 
 ---
 
@@ -153,7 +153,7 @@ Markdown:
 
  &amp;nbsp;&amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;48 lbs&lt;/span&gt;**  lost if &lt;30 ng of Vitamin D
 
-Note: Might not have needed surgery if &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rctswe-iu-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D&lt;/a&gt;
+Note: Might not have needed surgery if &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;weight loss plan + weekly 50,000 IU of Vitamin D&lt;/a&gt;
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
  
@@ -208,7 +208,7 @@ Our recommendations based on this systematic review and meta-analysis should hel
 
 ##### Note: Best to have Vitamin D loading dose before or after any surgery
 
- **A &lt;a href=&quot;/posts/overview-loading-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|Loading dose&quot;&gt;Overview Loading of vitamin D|Loading dose&lt;/a&gt; will provide benefit in weeks instead of 5+ months** 
+ **A &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;Loading dose&lt;/a&gt; will provide benefit in weeks instead of 5+ months** 
 
  **Probably also need &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;Gut-Friendly Vitamin D&lt;/a&gt; as there is poor gut absorption after bariatric surgery** 
 
@@ -252,7 +252,7 @@ Vitamin D status affects the clinical and corporal outcomes of postoperative pat
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/overview-gut-and-vitamin-dpeople-with-with-poor-digestion-need-gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D&quot;&gt;Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-gut-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Gut and vitamin D&quot;&gt;People with with poor digestion need gut-friendly Vitamin D&lt;/a&gt;
 
 ---
 
@@ -341,10 +341,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Note: Might not have needed surgery if `
 │   │   │   inner_content: `Note: Might not have needed surgery if `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D))`
 │   │   │   inner_content: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D`
-│   │   │   page: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D`
+│   │   │   page: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs|weight loss plan + weekly 50,000 IU of Vitamin D`
@@ -483,10 +483,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `A `
 │   │   inner_content: `A `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Loading of vitamin D|Loading dose))`
 │   │   inner_content: `Overview Loading of vitamin D|Loading dose`
-│   │   page: `Overview Loading of vitamin D|Loading dose`
+│   │   page: `Overview Loading of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Loading of vitamin D|Loading dose`
@@ -705,10 +705,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D))`
 │   │   inner_content: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`
-│   │   page: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`
+│   │   page: `Overview Gut and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`

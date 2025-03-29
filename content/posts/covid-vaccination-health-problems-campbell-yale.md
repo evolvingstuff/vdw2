@@ -61,7 +61,7 @@ In the week before survey completion, participants reported
 
 ---
 
-#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwikvaccination" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWik|Vaccination">Vaccination pages in VitaminDWik|Vaccination</a> includes
+#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwik" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWik">Vaccination</a> includes
 
 * [COVID Vaccination problems - 3,500 studies - Oct 2023](/posts/covid-vaccination-problems-3500-studies)
 
@@ -151,7 +151,7 @@ In the week before survey completion, participants reported
 
 ---
 
-#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikvaccination&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWik|Vaccination&quot;&gt;Vaccination pages in VitaminDWik|Vaccination&lt;/a&gt; includes
+#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwik&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWik&quot;&gt;Vaccination&lt;/a&gt; includes
 
 * [COVID Vaccination problems - 3,500 studies - Oct 2023](/posts/covid-vaccination-problems-3500-studies)
 
@@ -404,10 +404,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki `
 │   │   inner_content: `VitaminDWiki `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWik|Vaccination))`
 │   │   inner_content: `Vaccination pages in VitaminDWik|Vaccination`
-│   │   page: `Vaccination pages in VitaminDWik|Vaccination`
+│   │   page: `Vaccination pages in VitaminDWik`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWik|Vaccination`

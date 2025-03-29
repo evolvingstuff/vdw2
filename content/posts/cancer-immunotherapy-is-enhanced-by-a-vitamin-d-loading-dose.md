@@ -13,13 +13,13 @@ categories:
 
 
 
- **2 Reasons Vitamin D <a href="/posts/overview-loading-of-vitamin-dloading-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|loading doses">Overview Loading of vitamin D|loading doses</a> are good:** 
+ **2 Reasons Vitamin D <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading doses</a> are good:** 
 
 1) A loading dose provides the benefit of Vitamin D in <1 week instead of many months
 
 2) A high concentration (loading dose) bypasses poor Vitamin D Receptors
 
-&nbsp;&nbsp;&nbsp;&nbsp; Note: Many cancers have <a href="/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-st-amin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| "learned" how to deactivate the Vitamin D Receptor">Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| "learned" how to deactivate the Vitamin D Receptor</a>
+&nbsp;&nbsp;&nbsp;&nbsp; Note: Many cancers have <a href="/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies">"learned" how to deactivate the Vitamin D Receptor</a>
 
 <!-- {maketoc Title=""} -->
 
@@ -107,7 +107,7 @@ It's important to note that the suitability of immunotherapy for a particular ca
 
 ---
 
-#### Also suspect better response by study if had used <a href="/posts/gut-friendly-vitamin-dgut-friendly-form-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly form of Vitamin D">Gut-Friendly Vitamin D|gut-friendly form of Vitamin D</a>
+#### Also suspect better response by study if had used <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut-friendly form of Vitamin D</a>
 
 Many cancers are associated with poor gut function ==> less vitamin D adsorbed
 
@@ -160,13 +160,13 @@ Markdown:
 --------
 
 
- **2 Reasons Vitamin D &lt;a href=&quot;/posts/overview-loading-of-vitamin-dloading-doses&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|loading doses&quot;&gt;Overview Loading of vitamin D|loading doses&lt;/a&gt; are good:** 
+ **2 Reasons Vitamin D &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;loading doses&lt;/a&gt; are good:** 
 
 1) A loading dose provides the benefit of Vitamin D in &lt;1 week instead of many months
 
 2) A high concentration (loading dose) bypasses poor Vitamin D Receptors
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Note: Many cancers have &lt;a href=&quot;/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-st-amin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor&quot;&gt;Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Note: Many cancers have &lt;a href=&quot;/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies&quot;&gt;&quot;learned&quot; how to deactivate the Vitamin D Receptor&lt;/a&gt;
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
 
@@ -254,7 +254,7 @@ It&#39;s important to note that the suitability of immunotherapy for a particula
 
 ---
 
-#### Also suspect better response by study if had used &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-friendly-form-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly form of Vitamin D&quot;&gt;Gut-Friendly Vitamin D|gut-friendly form of Vitamin D&lt;/a&gt;
+#### Also suspect better response by study if had used &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;gut-friendly form of Vitamin D&lt;/a&gt;
 
 Many cancers are associated with poor gut function ==&gt; less vitamin D adsorbed
 
@@ -320,10 +320,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `2 Reasons Vitamin D `
 │   │   │   inner_content: `2 Reasons Vitamin D `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Overview Loading of vitamin D|loading doses))`
 │   │   │   inner_content: `Overview Loading of vitamin D|loading doses`
-│   │   │   page: `Overview Loading of vitamin D|loading doses`
+│   │   │   page: `Overview Loading of vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Overview Loading of vitamin D|loading doses`
@@ -341,14 +341,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Note: Many cancers have `
 │   │   inner_content: ` Note: Many cancers have `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor))`
-│   │   inner_content: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor`
-│   │   page: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor`
+│   │   inner_content: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies|&quot;learned&quot; how to deactivate the Vitamin D Receptor`
+│   │   page: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor`
-│   │   │   inner_content: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies| &quot;learned&quot; how to deactivate the Vitamin D Receptor`
+│   │   │   full_match: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies|&quot;learned&quot; how to deactivate the Vitamin D Receptor`
+│   │   │   inner_content: `Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies|&quot;learned&quot; how to deactivate the Vitamin D Receptor`
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`├── TextNode
@@ -875,10 +875,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Also suspect better response by study if had used `
 │   │   inner_content: `Also suspect better response by study if had used `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gut-Friendly Vitamin D|gut-friendly form of Vitamin D))`
 │   │   inner_content: `Gut-Friendly Vitamin D|gut-friendly form of Vitamin D`
-│   │   page: `Gut-Friendly Vitamin D|gut-friendly form of Vitamin D`
+│   │   page: `Gut-Friendly Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gut-Friendly Vitamin D|gut-friendly form of Vitamin D`

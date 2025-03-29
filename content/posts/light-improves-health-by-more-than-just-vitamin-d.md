@@ -142,7 +142,7 @@ categories:
 
 #### See related in VitaminDwiki:
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studieshealt-od-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
 
 * <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
 
@@ -281,7 +281,7 @@ Markdown:
 
 #### See related in VitaminDwiki:
 
-* &lt;a href=&quot;/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studieshealt-od-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies&quot;&gt;Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies&lt;/a&gt;
+* &lt;a href=&quot;/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies&quot;&gt;Health benefit of Sunlight is more than Vitamin D in the blood - many studies&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&quot;&gt;Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.&lt;/a&gt;
 
@@ -1312,10 +1312,10 @@ AST Structure:
 │   inner_content: `((Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies))`
 │   │   inner_content: `Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies`
-│   │   page: `Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies`
+│   │   page: `Health benefit of Sunlight is more than Vitamin D in the blood - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Health benefit of Sunlight is more than Vitamin D in the blood - many studies|Health benefit of Sunlight is more than Vitamin D in the blood - many studies`

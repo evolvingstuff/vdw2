@@ -61,7 +61,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 #### Note: Vitamin D level of placebo group  fell from 13 ng to 4 ng by day 7
 
- **The body quickly consumes a lot of Vitamin D to fight viruses, <a href="/posts/trauma-and-surgerysurgeries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Trauma and surgery|surgeries">Trauma and surgery|surgeries</a>, etc,** 
+ **The body quickly consumes a lot of Vitamin D to fight viruses, [surgeries](/categories/trauma-and-surgery), etc,** 
 
 ---
 
@@ -169,7 +169,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 #### Note: Vitamin D level of placebo group  fell from 13 ng to 4 ng by day 7
 
- **The body quickly consumes a lot of Vitamin D to fight viruses, &lt;a href=&quot;/posts/trauma-and-surgerysurgeries&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Trauma and surgery|surgeries&quot;&gt;Trauma and surgery|surgeries&lt;/a&gt;, etc,** 
+ **The body quickly consumes a lot of Vitamin D to fight viruses, [surgeries](/categories/trauma-and-surgery), etc,** 
 
 ---
 
@@ -418,10 +418,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `The body quickly consumes a lot of Vitamin D to fight viruses, `
 │   │   inner_content: `The body quickly consumes a lot of Vitamin D to fight viruses, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Trauma and surgery|surgeries))`
 │   │   inner_content: `Trauma and surgery|surgeries`
-│   │   page: `Trauma and surgery|surgeries`
+│   │   page: `Trauma and surgery`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Trauma and surgery|surgeries`

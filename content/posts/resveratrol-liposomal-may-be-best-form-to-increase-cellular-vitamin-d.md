@@ -80,7 +80,7 @@ Note: A DNA test disclosed that both he and his wife have poor Vitamin D Recepto
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
-click <a href="/posts/geneticshere" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|here">Genetics|here</a> for details
+click [here](/categories/genetics) for details
 
 ---
 
@@ -179,7 +179,7 @@ Note: A DNA test disclosed that both he and his wife have poor Vitamin D Recepto
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
-click &lt;a href=&quot;/posts/geneticshere&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|here&quot;&gt;Genetics|here&lt;/a&gt; for details
+click [here](/categories/genetics) for details
 
 ---
 
@@ -484,10 +484,10 @@ AST Structure:
 │   │   fileId: 3239
 │   │   width: 400├── TextNode
 │   full_match: `\nclick `
-│   inner_content: `\nclick `├── LocalLinkNode
+│   inner_content: `\nclick `├── AliasedLocalLinkNode
 │   full_match: `((Genetics|here))`
 │   inner_content: `Genetics|here`
-│   page: `Genetics|here`
+│   page: `Genetics`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Genetics|here`

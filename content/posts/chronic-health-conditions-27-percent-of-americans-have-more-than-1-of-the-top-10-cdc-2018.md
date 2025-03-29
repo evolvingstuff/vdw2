@@ -39,7 +39,7 @@ categories:
 
 1. weak or failing kidney
 
- **<a href="/posts/health-problems-and-d00fall-of-the-above-are-preventedtreated-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~">Health Problems and D| <span style="color:orange;">All of the above are prevented/treated by Vitamin D</span></a>** 
+ **<a href="/posts/health-problems-and-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health Problems and D">~~#00F:All of the above are prevented/treated by Vitamin D~~</a>** 
 
 ---
 
@@ -83,7 +83,7 @@ Markdown:
 
 1. weak or failing kidney
 
- **&lt;a href=&quot;/posts/health-problems-and-d00fall-of-the-above-are-preventedtreated-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~&quot;&gt;Health Problems and D| &lt;span style=&quot;color:orange;&quot;&gt;All of the above are prevented/treated by Vitamin D&lt;/span&gt;&lt;/a&gt;** 
+ **&lt;a href=&quot;/posts/health-problems-and-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health Problems and D&quot;&gt;~~#00F:All of the above are prevented/treated by Vitamin D~~&lt;/a&gt;** 
 
 ---
 
@@ -252,10 +252,10 @@ AST Structure:
 │   full_match: `__((Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~))__`
 │   inner_content: `((Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~))`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~))`
 │   │   inner_content: `Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~`
-│   │   page: `Health Problems and D|~~#00F:All of the above are prevented/treated by Vitamin D~~`
+│   │   page: `Health Problems and D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Health Problems and D|`

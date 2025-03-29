@@ -25,7 +25,7 @@ Brian O'Sullivan 1, Song Ounpraseuth 2, Laura James 2, Marc Majure 3, Jason Lang
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- <span style="color:orange;"> **Note: 50,000 IU weekly might have been <a href="/posts/better-than-dailybetter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|better">Better than Daily|better</a>** </span>
+ <span style="color:orange;"> **Note: 50,000 IU weekly might have been [better](/categories/better-than-daily)** </span>
 
 Children with asthma and obesity are more likely to have lower vitamin D levels, but the optimal replacement dose is unknown in this population. The objective of this study is identifying a vitamin D dose in children with obesity-related asthma that safely achieves serum vitamin D levels of ≥ 40 ng/mL. This prospective multisite randomized controlled trial recruited children/adolescents with asthma and body mass index ≥ 85% for age/sex. Part 1 (dose finding), evaluated 4 oral vitamin D regimens for 16 weeks to identify a replacement dose that achieved serum vitamin D levels ≥ 40 ng/mL. Part 2 compared the replacement dose calculated from part 1 (50,000 IU loading dose with 8,000 IU daily) to standard of care (SOC) for 16 weeks to identify the proportion of children achieving target serum 25(OH)D level. Part 1 included 48 randomized participants. Part 2 included 64 participants. In Part 1, no SOC participants achieved target serum level, but 50-72.7% of participants in cohorts A-C achieved the target serum level. In part 2, 78.6% of replacement dose participants achieved target serum level compared with none in the SOC arm. No related serious adverse events were reported. This trial confirmed a 50,000 IU loading dose plus 8,000 IU daily oral vitamin D as safe and effective in increasing serum 25(OH)D levels in children/adolescents with overweight/obesity to levels ≥ 40 ng/mL. Given the critical role of vitamin D in many conditions complicating childhood obesity, these data close a critical gap in our understanding of vitamin D dosing in children.
 
@@ -37,7 +37,7 @@ Children with asthma and obesity are more likely to have lower vitamin D levels,
 
 ---
 
-#### VitaminDWiki - <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d-march-2020asthmatic-se-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D">Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D</a>  genes?, poor gut?
+#### VitaminDWiki - <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Asthmatics have 1/2 the response to Vitamin D</a>  genes?, poor gut?
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -61,7 +61,7 @@ Brian O&#39;Sullivan 1, Song Ounpraseuth 2, Laura James 2, Marc Majure 3, Jason 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: 50,000 IU weekly might have been &lt;a href=&quot;/posts/better-than-dailybetter&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|better&quot;&gt;Better than Daily|better&lt;/a&gt;** &lt;/span&gt;
+ &lt;span style=&quot;color:orange;&quot;&gt; **Note: 50,000 IU weekly might have been [better](/categories/better-than-daily)** &lt;/span&gt;
 
 Children with asthma and obesity are more likely to have lower vitamin D levels, but the optimal replacement dose is unknown in this population. The objective of this study is identifying a vitamin D dose in children with obesity-related asthma that safely achieves serum vitamin D levels of ≥ 40 ng/mL. This prospective multisite randomized controlled trial recruited children/adolescents with asthma and body mass index ≥ 85% for age/sex. Part 1 (dose finding), evaluated 4 oral vitamin D regimens for 16 weeks to identify a replacement dose that achieved serum vitamin D levels ≥ 40 ng/mL. Part 2 compared the replacement dose calculated from part 1 (50,000 IU loading dose with 8,000 IU daily) to standard of care (SOC) for 16 weeks to identify the proportion of children achieving target serum 25(OH)D level. Part 1 included 48 randomized participants. Part 2 included 64 participants. In Part 1, no SOC participants achieved target serum level, but 50-72.7% of participants in cohorts A-C achieved the target serum level. In part 2, 78.6% of replacement dose participants achieved target serum level compared with none in the SOC arm. No related serious adverse events were reported. This trial confirmed a 50,000 IU loading dose plus 8,000 IU daily oral vitamin D as safe and effective in increasing serum 25(OH)D levels in children/adolescents with overweight/obesity to levels ≥ 40 ng/mL. Given the critical role of vitamin D in many conditions complicating childhood obesity, these data close a critical gap in our understanding of vitamin D dosing in children.
 
@@ -73,7 +73,7 @@ Children with asthma and obesity are more likely to have lower vitamin D levels,
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d-march-2020asthmatic-se-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D&quot;&gt;Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D&lt;/a&gt;  genes?, poor gut?
+#### VitaminDWiki - &lt;a href=&quot;/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020&quot;&gt;Asthmatics have 1/2 the response to Vitamin D&lt;/a&gt;  genes?, poor gut?
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -135,10 +135,10 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Note: 50,000 IU weekly might have been `
 │   │   │   │   inner_content: `Note: 50,000 IU weekly might have been `
-│   │   │   ├── LocalLinkNode
+│   │   │   ├── AliasedLocalLinkNode
 │   │   │   │   full_match: `((Better than Daily|better))`
 │   │   │   │   inner_content: `Better than Daily|better`
-│   │   │   │   page: `Better than Daily|better`
+│   │   │   │   page: `Better than Daily`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
 │   │   │   │   │   full_match: `Better than Daily|better`
@@ -206,10 +206,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D))`
 │   │   inner_content: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D`
-│   │   page: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D`
+│   │   page: `Those with Asthma or COPD had half the response to Vitamin D – March 2020`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthmatics have 1/2 the response to Vitamin D`

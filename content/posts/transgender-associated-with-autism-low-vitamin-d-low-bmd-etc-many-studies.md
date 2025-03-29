@@ -312,7 +312,7 @@ Gender reassignment ideation in schizophrenia spectrum disorders generally forme
 
 ---
 
-#### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studiesbrain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies|Brain and Vitamin D - many studies">Brain and Vitamin D - many studies|Brain and Vitamin D - many studies</a>
+#### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
 
 ---
 
@@ -686,7 +686,7 @@ Gender reassignment ideation in schizophrenia spectrum disorders generally forme
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studiesbrain-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies|Brain and Vitamin D - many studies&quot;&gt;Brain and Vitamin D - many studies|Brain and Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies&quot;&gt;Brain and Vitamin D - many studies&lt;/a&gt;
 
 ---
 
@@ -1808,10 +1808,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Brain and Vitamin D - many studies|Brain and Vitamin D - many studies))`
 │   │   inner_content: `Brain and Vitamin D - many studies|Brain and Vitamin D - many studies`
-│   │   page: `Brain and Vitamin D - many studies|Brain and Vitamin D - many studies`
+│   │   page: `Brain and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Brain and Vitamin D - many studies|Brain and Vitamin D - many studies`

@@ -47,7 +47,7 @@ Previous publications of this study
 
 ---
 
-#### Healthy pregnancies need <a href="/posts/healthy-pregnancies-need-lots-of-vitamin-dlots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy pregnancies need lots of vitamin D|lots of vitamin D">Healthy pregnancies need lots of vitamin D|lots of vitamin D</a>
+#### Healthy pregnancies need <a href="/posts/healthy-pregnancies-need-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy pregnancies need lots of vitamin D">lots of vitamin D</a>
 
 ---
 
@@ -59,7 +59,7 @@ Previous publications of this study
 
 #### See also VitaminDWiki
 
-* <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studiespreeclampsia-vitamin-d-55-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies|Preeclampsia & Vitamin D: >55 studies">Preeclampsia reduced by Vitamin D - many studies|Preeclampsia & Vitamin D: >55 studies</a>
+* <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies">Preeclampsia & Vitamin D: >55 studies</a>
 
 * [Preterm birth >116 studies](https://vitamindwiki.com/tiki-index.php?page_id=14440)
 
@@ -109,7 +109,7 @@ Previous publications of this study
 
 ---
 
-#### Healthy pregnancies need &lt;a href=&quot;/posts/healthy-pregnancies-need-lots-of-vitamin-dlots-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Healthy pregnancies need lots of vitamin D|lots of vitamin D&quot;&gt;Healthy pregnancies need lots of vitamin D|lots of vitamin D&lt;/a&gt;
+#### Healthy pregnancies need &lt;a href=&quot;/posts/healthy-pregnancies-need-lots-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Healthy pregnancies need lots of vitamin D&quot;&gt;lots of vitamin D&lt;/a&gt;
 
 ---
 
@@ -121,7 +121,7 @@ Previous publications of this study
 
 #### See also VitaminDWiki
 
-* &lt;a href=&quot;/posts/preeclampsia-reduced-by-vitamin-d-many-studiespreeclampsia-vitamin-d-55-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies&quot;&gt;Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies&lt;/a&gt;
+* &lt;a href=&quot;/posts/preeclampsia-reduced-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies&quot;&gt;Preeclampsia &amp; Vitamin D: &gt;55 studies&lt;/a&gt;
 
 * [Preterm birth &gt;116 studies](https://vitamindwiki.com/tiki-index.php?page_id=14440)
 
@@ -380,10 +380,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Healthy pregnancies need `
 │   │   inner_content: `Healthy pregnancies need `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Healthy pregnancies need lots of vitamin D|lots of vitamin D))`
 │   │   inner_content: `Healthy pregnancies need lots of vitamin D|lots of vitamin D`
-│   │   page: `Healthy pregnancies need lots of vitamin D|lots of vitamin D`
+│   │   page: `Healthy pregnancies need lots of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Healthy pregnancies need lots of vitamin D|lots of vitamin D`
@@ -448,10 +448,10 @@ AST Structure:
 │   inner_content: `((Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies))`
 │   │   inner_content: `Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies`
-│   │   page: `Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies`
+│   │   page: `Preeclampsia reduced by Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Preeclampsia reduced by Vitamin D - many studies|Preeclampsia &amp; Vitamin D: &gt;55 studies`

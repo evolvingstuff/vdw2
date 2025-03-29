@@ -36,7 +36,7 @@ This list is automatically updated
 
 ---
 
-#### Early COVID treatments must be made within <a href="/posts/review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms-a-few-days-of-symptoms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms">Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms</a>
+#### Early COVID treatments must be made within <a href="/posts/review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of Early Treatments of COVID-19 (within a few days of symptoms)">a few days of symptoms</a>
 
 ---
 
@@ -76,7 +76,7 @@ This list is automatically updated
 
 ---
 
-#### Early COVID treatments must be made within &lt;a href=&quot;/posts/review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms-a-few-days-of-symptoms&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms&quot;&gt;Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms&lt;/a&gt;
+#### Early COVID treatments must be made within &lt;a href=&quot;/posts/review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Review of Early Treatments of COVID-19 (within a few days of symptoms)&quot;&gt;a few days of symptoms&lt;/a&gt;
 
 ---
 
@@ -236,14 +236,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Early COVID treatments must be made within `
 │   │   inner_content: `Early COVID treatments must be made within `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms))`
-│   │   inner_content: `Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms`
-│   │   page: `Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms`
+│   │   inner_content: `Review of Early Treatments of COVID-19 (within a few days of symptoms)|a few days of symptoms`
+│   │   page: `Review of Early Treatments of COVID-19 (within a few days of symptoms)`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms`
-│   │   │   inner_content: `Review of Early Treatments of COVID-19 (within a few days of symptoms) |a few days of symptoms`├── TextNode
+│   │   │   full_match: `Review of Early Treatments of COVID-19 (within a few days of symptoms)|a few days of symptoms`
+│   │   │   inner_content: `Review of Early Treatments of COVID-19 (within a few days of symptoms)|a few days of symptoms`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Review of Early Treatments of COVID-19 (within a few days of symptoms)&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ stop ~/tc~&quot;}`

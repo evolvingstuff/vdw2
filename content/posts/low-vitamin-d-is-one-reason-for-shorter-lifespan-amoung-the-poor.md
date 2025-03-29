@@ -83,33 +83,20 @@ The distinction between a food item and a supplement is crucial in determining e
 
 - - - - 
 
-Note: [US Food stamps program being asked to add free Vitamin D - June 2023](/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d)
-
+Note: <a href="/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d-june-2023-vitamindwiki---d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US Food stamps program being asked to add free Vitamin D - June 2023))
 ---
-
-#### VitaminDWiki gave 100's of bottles of Vitamin D to local food banks during a previous Xmas
-
+!!!!VitaminDWiki gave 100's of bottles of Vitamin D to local food banks during a previous Xmas
 Might consider making a GoFundMe to raise money to buy vitamin D for food banks, poor
-
 Retail cost of $5/year/person (50,000 IU twice a month). 
-
 Probably can get Vitamin D wholesale from suppliers at much lower cost
-
 ---
-
-#### Many studies have found that more income results in a higher level of Vitamin D
-
- **Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014** 
-
-Public Health Nutr . 2014 Apr;17(4):756-63. [doi: 10.1017/S1368980013002929.](https://doi.org/10.1017/S1368980013002929.)  
-
- **Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022** 
-
-J Nutr Sci. 2022; 11: e61.  [doi: 10.1017/jns.2022.57](https://doi.org/10.1017/jns.2022.57)
-
+!!!!Many studies have found that more income results in a higher level of Vitamin D
+__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__
+Public Health Nutr . 2014 Apr;17(4):756-63. doi: 10.1017/S1368980013002929.  
+__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__
+J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 ---
-
-#### 10 ng lower level of <a href="/posts/smoking-reduces-vitamin-d-many-studiesvitamin-d-if-smoke" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Vitamin D if smoke">Smoking reduces vitamin D - many studies|Vitamin D if smoke</a>
+!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies">Vitamin D if smoke</a>
 
 ---
 
@@ -206,33 +193,20 @@ The distinction between a food item and a supplement is crucial in determining e
 
 - - - - 
 
-Note: [US Food stamps program being asked to add free Vitamin D - June 2023](/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d)
-
+Note: &lt;a href=&quot;/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d-june-2023-vitamindwiki---d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: US Food stamps program being asked to add free Vitamin D - June 2023))
 ---
-
-#### VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas
-
+!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas
 Might consider making a GoFundMe to raise money to buy vitamin D for food banks, poor
-
 Retail cost of $5/year/person (50,000 IU twice a month). 
-
 Probably can get Vitamin D wholesale from suppliers at much lower cost
-
 ---
-
-#### Many studies have found that more income results in a higher level of Vitamin D
-
- **Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014** 
-
-Public Health Nutr . 2014 Apr;17(4):756-63. [doi: 10.1017/S1368980013002929.](https://doi.org/10.1017/S1368980013002929.)  
-
- **Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022** 
-
-J Nutr Sci. 2022; 11: e61.  [doi: 10.1017/jns.2022.57](https://doi.org/10.1017/jns.2022.57)
-
+!!!!Many studies have found that more income results in a higher level of Vitamin D
+__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__
+Public Health Nutr . 2014 Apr;17(4):756-63. doi: 10.1017/S1368980013002929.  
+__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__
+J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
 ---
-
-#### 10 ng lower level of &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiesvitamin-d-if-smoke&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Vitamin D if smoke&quot;&gt;Smoking reduces vitamin D - many studies|Vitamin D if smoke&lt;/a&gt;
+!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies&quot;&gt;Vitamin D if smoke&lt;/a&gt;
 
 ---
 
@@ -538,75 +512,95 @@ AST Structure:
 │   │   full_match: `: SNAP benefits also cannot be used to buy non-food items such as pet foods, cleaning supplies, paper products, and hygiene items.`
 │   │   inner_content: `: SNAP benefits also cannot be used to buy non-food items such as pet foods, cleaning supplies, paper products, and hygiene items.`├── TextNode
 │   full_match: `\nThe distinction between a food item and a supplement is crucial in determining eligibility for purchase with SNAP benefits. The presence of a Nutrition Facts label typically signifies that the item is considered food and is therefore eligible, whereas a Supplement Facts label indicates a supplement, which is ineligible.\n- - - - \nNote: `
-│   inner_content: `\nThe distinction between a food item and a supplement is crucial in determining eligibility for purchase with SNAP benefits. The presence of a Nutrition Facts label typically signifies that the item is considered food and is therefore eligible, whereas a Supplement Facts label indicates a supplement, which is ineligible.\n- - - - \nNote: `├── LocalLinkNode
-│   full_match: `((US Food stamps program being asked to add free Vitamin D - June 2023))`
-│   inner_content: `US Food stamps program being asked to add free Vitamin D - June 2023`
-│   page: `US Food stamps program being asked to add free Vitamin D - June 2023`
+│   inner_content: `\nThe distinction between a food item and a supplement is crucial in determining eligibility for purchase with SNAP benefits. The presence of a Nutrition Facts label typically signifies that the item is considered food and is therefore eligible, whereas a Supplement Facts label indicates a supplement, which is ineligible.\n- - - - \nNote: `├── AliasedLocalLinkNode
+│   full_match: `((US Food stamps program being asked to add free Vitamin D - June 2023))\n---\n!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost\n---\n!!!!Many studies have found that more income results in a higher level of Vitamin D\n__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__\nPublic Health Nutr . 2014 Apr;17(4):756-63. doi: 10.1017/S1368980013002929.  \n__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__\nJ Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57\n---\n!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke))`
+│   inner_content: `US Food stamps program being asked to add free Vitamin D - June 2023))\n---\n!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost\n---\n!!!!Many studies have found that more income results in a higher level of Vitamin D\n__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__\nPublic Health Nutr . 2014 Apr;17(4):756-63. doi: 10.1017/S1368980013002929.  \n__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__\nJ Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57\n---\n!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke`
+│   page: `US Food stamps program being asked to add free Vitamin D - June 2023))
+---
+!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas
+Might consider making a GoFundMe to raise money to buy vitamin D for food banks, poor
+Retail cost of $5/year/person (50,000 IU twice a month). 
+Probably can get Vitamin D wholesale from suppliers at much lower cost
+---
+!!!!Many studies have found that more income results in a higher level of Vitamin D
+__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__
+Public Health Nutr . 2014 Apr;17(4):756-63. doi: 10.1017/S1368980013002929.  
+__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__
+J Nutr Sci. 2022; 11: e61.  doi: 10.1017/jns.2022.57
+---
+!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies`
 │   children:
 │   ├── TextNode
-│   │   full_match: `US Food stamps program being asked to add free Vitamin D - June 2023`
-│   │   inner_content: `US Food stamps program being asked to add free Vitamin D - June 2023`├── HorizontalRuleNode
-│   full_match: `\n---\n`
-│   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
-│   inner_content: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
-│   level: `4`
-│   children:
-│   ├── TextNode
-│   │   full_match: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
-│   │   inner_content: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`├── TextNode
-│   full_match: `\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost`
-│   inner_content: `\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost`├── HorizontalRuleNode
-│   full_match: `\n---\n`
-│   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!Many studies have found that more income results in a higher level of Vitamin D`
-│   inner_content: `Many studies have found that more income results in a higher level of Vitamin D`
-│   level: `4`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Many studies have found that more income results in a higher level of Vitamin D`
-│   │   inner_content: `Many studies have found that more income results in a higher level of Vitamin D`├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── BoldNode
-│   full_match: `__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__`
-│   inner_content: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`
-│   │   inner_content: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`├── TextNode
-│   full_match: `\nPublic Health Nutr . 2014 Apr;17(4):756-63. `
-│   inner_content: `\nPublic Health Nutr . 2014 Apr;17(4):756-63. `├── DoiLinkNode
-│   full_match: `doi: 10.1017/S1368980013002929.`
-│   inner_content: `10.1017/S1368980013002929.`├── TextNode
-│   full_match: `  \n`
-│   inner_content: `  \n`├── BoldNode
-│   full_match: `__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__`
-│   inner_content: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`
-│   │   inner_content: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`├── TextNode
-│   full_match: `\nJ Nutr Sci. 2022; 11: e61.  `
-│   inner_content: `\nJ Nutr Sci. 2022; 11: e61.  `├── DoiLinkNode
-│   full_match: `doi: 10.1017/jns.2022.57`
-│   inner_content: `10.1017/jns.2022.57`├── HorizontalRuleNode
-│   full_match: `\n---\n`
-│   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke))`
-│   inner_content: `10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke))`
-│   level: `4`
-│   children:
-│   ├── TextNode
-│   │   full_match: `10 ng lower level of `
-│   │   inner_content: `10 ng lower level of `
-│   ├── LocalLinkNode
-│   │   full_match: `((Smoking reduces vitamin D - many studies|Vitamin D if smoke))`
-│   │   inner_content: `Smoking reduces vitamin D - many studies|Vitamin D if smoke`
-│   │   page: `Smoking reduces vitamin D - many studies|Vitamin D if smoke`
+│   │   full_match: `US Food stamps program being asked to add free Vitamin D - June 2023))`
+│   │   inner_content: `US Food stamps program being asked to add free Vitamin D - June 2023))`
+│   ├── HorizontalRuleNode
+│   │   full_match: `\n---\n`
+│   │   inner_content: `---`
+│   ├── HeadingNode
+│   │   full_match: `!!!!VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
+│   │   inner_content: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
+│   │   level: `4`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Smoking reduces vitamin D - many studies|Vitamin D if smoke`
-│   │   │   inner_content: `Smoking reduces vitamin D - many studies|Vitamin D if smoke`├── HorizontalRuleNode
+│   │   │   full_match: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
+│   │   │   inner_content: `VitaminDWiki gave 100&#39;s of bottles of Vitamin D to local food banks during a previous Xmas`
+│   ├── TextNode
+│   │   full_match: `\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost`
+│   │   inner_content: `\nMight consider making a GoFundMe to raise money to buy vitamin D for food banks, poor\nRetail cost of $5/year/person (50,000 IU twice a month). \nProbably can get Vitamin D wholesale from suppliers at much lower cost`
+│   ├── HorizontalRuleNode
+│   │   full_match: `\n---\n`
+│   │   inner_content: `---`
+│   ├── HeadingNode
+│   │   full_match: `!!!!Many studies have found that more income results in a higher level of Vitamin D`
+│   │   inner_content: `Many studies have found that more income results in a higher level of Vitamin D`
+│   │   level: `4`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Many studies have found that more income results in a higher level of Vitamin D`
+│   │   │   inner_content: `Many studies have found that more income results in a higher level of Vitamin D`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── BoldNode
+│   │   full_match: `__Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014__`
+│   │   inner_content: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`
+│   │   │   inner_content: `Vitamin D intakes of adults differ by income, gender and race/ethnicity in the U.S.A., 2007 to 2010 - April 2014`
+│   ├── TextNode
+│   │   full_match: `\nPublic Health Nutr . 2014 Apr;17(4):756-63. `
+│   │   inner_content: `\nPublic Health Nutr . 2014 Apr;17(4):756-63. `
+│   ├── DoiLinkNode
+│   │   full_match: `doi: 10.1017/S1368980013002929.`
+│   │   inner_content: `10.1017/S1368980013002929.`
+│   ├── TextNode
+│   │   full_match: `  \n`
+│   │   inner_content: `  \n`
+│   ├── BoldNode
+│   │   full_match: `__Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022__`
+│   │   inner_content: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`
+│   │   │   inner_content: `Low socioeconomic status predicts vitamin D status in a cross-section of Irish children - 2022`
+│   ├── TextNode
+│   │   full_match: `\nJ Nutr Sci. 2022; 11: e61.  `
+│   │   inner_content: `\nJ Nutr Sci. 2022; 11: e61.  `
+│   ├── DoiLinkNode
+│   │   full_match: `doi: 10.1017/jns.2022.57`
+│   │   inner_content: `10.1017/jns.2022.57`
+│   ├── HorizontalRuleNode
+│   │   full_match: `\n---\n`
+│   │   inner_content: `---`
+│   ├── HeadingNode
+│   │   full_match: `!!!!10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke`
+│   │   inner_content: `10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke`
+│   │   level: `4`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke`
+│   │   │   inner_content: `10 ng lower level of ((Smoking reduces vitamin D - many studies|Vitamin D if smoke`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!2X more years of [https://www.lung.org/research/sotc/by-the-numbers/top-10-populations-affected#:~:text=%2435%2C000%20a%20Year-,Americans%20making%20less%20than%20%2435%2C000%20a,a%20smoking%20rate%20of%2020.2%25.&amp;text=People%20living%20in%20poverty%20smoke,three%20times%20the%20poverty%20rate.|smoking if below poverty line] (compared to &gt;3X higher incomes)`

@@ -85,11 +85,11 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick-nov-2023how-v-ngevity-patrick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023">How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023</a>
+#### VitaminDWiki - [How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023](/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/exercise-and-vitamin-d-are-synergistic-many-studiesexercise-and-vitamin-d-are-sy-ic-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies">Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies</a>
+#### VitaminDWiki - [Exercise and Vitamin D are synergistic - many studies](/posts/exercise-and-vitamin-d-are-synergistic-many-studies)
 
 ---
 
@@ -118,7 +118,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation increased by intense exercise and 15 other ways
 
- **[Resveratrol](/categories/resveratrol),  <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3">Overview: Omega-3 many benefits include helping vitamin D|Omega-3</a>,  <a href="/posts/magnesium-and-vitamin-dmagnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D|Magnesium">Magnesium and Vitamin D|Magnesium</a>,  <a href="/posts/zinc-and-vitamin-dzinc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D|Zinc">Zinc and Vitamin D|Zinc</a>,   <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor-march-2016-quercetin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin">Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin</a>,   <a href="/posts/better-than-dailynon-daily-vit-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|non-daily Vit D">Better than Daily|non-daily Vit D</a>,  <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor-dec-2010curcumin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin">Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin</a>,   <a href="/posts/berberine-antioxident-and-activates-the-vitamin-d-receptor-many-studiesberberine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine">Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine</a>,   <span style="color:orange;"><a href="/posts/intense-exercise-increases-vitamin-d-receptor-activationintense-exercise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intense exercise increases vitamin D receptor activation|intense exercise">Intense exercise increases vitamin D receptor activation|intense exercise</a></span>, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplementbutyrate" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate">14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate</a>   <a href="/posts/vdr-activators-include-sulforaphane-and-curcumin-june-2020sulforaphane" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane">VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane</a>   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
+ **<a href="/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>,  <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,  <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>,   <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>,   [non-daily Vit D](/categories/better-than-daily),  <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>,   <a href="/posts/berberine-antioxident-and-activates-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Berberine: antioxident and activates the Vitamin D Receptor - many studies">Berberine</a>,   <span style="color:orange;"><a href="/posts/intense-exercise-increases-vitamin-d-receptor-activation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intense exercise increases vitamin D receptor activation">intense exercise</a></span>, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate</a>   <a href="/posts/vdr-activators-include-sulforaphane-and-curcumin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020">Sulforaphane</a>   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
 
 ---
 
@@ -262,11 +262,11 @@ Markdown:
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick-nov-2023how-v-ngevity-patrick&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023&quot;&gt;How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023&lt;/a&gt;
+#### VitaminDWiki - [How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023](/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick)
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/exercise-and-vitamin-d-are-synergistic-many-studiesexercise-and-vitamin-d-are-sy-ic-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies&quot;&gt;Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies&lt;/a&gt;
+#### VitaminDWiki - [Exercise and Vitamin D are synergistic - many studies](/posts/exercise-and-vitamin-d-are-synergistic-many-studies)
 
 ---
 
@@ -295,7 +295,7 @@ This list is automatically updated
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation increased by intense exercise and 15 other ways
 
- **[Resveratrol](/categories/resveratrol),  &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D|Omega-3&lt;/a&gt;,  &lt;a href=&quot;/posts/magnesium-and-vitamin-dmagnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D|Magnesium&quot;&gt;Magnesium and Vitamin D|Magnesium&lt;/a&gt;,  &lt;a href=&quot;/posts/zinc-and-vitamin-dzinc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D|Zinc&quot;&gt;Zinc and Vitamin D|Zinc&lt;/a&gt;,   &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor-march-2016-quercetin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin&quot;&gt;Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin&lt;/a&gt;,   &lt;a href=&quot;/posts/better-than-dailynon-daily-vit-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|non-daily Vit D&quot;&gt;Better than Daily|non-daily Vit D&lt;/a&gt;,  &lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor-dec-2010curcumin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin&quot;&gt;Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin&lt;/a&gt;,   &lt;a href=&quot;/posts/berberine-antioxident-and-activates-the-vitamin-d-receptor-many-studiesberberine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine&quot;&gt;Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine&lt;/a&gt;,   &lt;span style=&quot;color:orange;&quot;&gt;&lt;a href=&quot;/posts/intense-exercise-increases-vitamin-d-receptor-activationintense-exercise&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Intense exercise increases vitamin D receptor activation|intense exercise&quot;&gt;Intense exercise increases vitamin D receptor activation|intense exercise&lt;/a&gt;&lt;/span&gt;, &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplementbutyrate&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate&quot;&gt;14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate&lt;/a&gt;   &lt;a href=&quot;/posts/vdr-activators-include-sulforaphane-and-curcumin-june-2020sulforaphane&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane&quot;&gt;VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane&lt;/a&gt;   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
+ **&lt;a href=&quot;/posts/resveratrol-overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;,  &lt;a href=&quot;/posts/magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D&quot;&gt;Magnesium&lt;/a&gt;,  &lt;a href=&quot;/posts/zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D&quot;&gt;Zinc&lt;/a&gt;,   &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016&quot;&gt;Quercetin&lt;/a&gt;,   [non-daily Vit D](/categories/better-than-daily),  &lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010&quot;&gt;Curcumin&lt;/a&gt;,   &lt;a href=&quot;/posts/berberine-antioxident-and-activates-the-vitamin-d-receptor-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Berberine: antioxident and activates the Vitamin D Receptor - many studies&quot;&gt;Berberine&lt;/a&gt;,   &lt;span style=&quot;color:orange;&quot;&gt;&lt;a href=&quot;/posts/intense-exercise-increases-vitamin-d-receptor-activation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Intense exercise increases vitamin D receptor activation&quot;&gt;intense exercise&lt;/a&gt;&lt;/span&gt;, &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)&quot;&gt;Butyrate&lt;/a&gt;   &lt;a href=&quot;/posts/vdr-activators-include-sulforaphane-and-curcumin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VDR activators include sulforaphane and curcumin – June 2020&quot;&gt;Sulforaphane&lt;/a&gt;   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators** 
 
 ---
 
@@ -1036,10 +1036,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023))`
 │   │   inner_content: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
-│   │   page: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
+│   │   page: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
@@ -1053,10 +1053,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies))`
 │   │   inner_content: `Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies`
-│   │   page: `Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies`
+│   │   page: `Exercise and Vitamin D are synergistic - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Exercise and Vitamin D are synergistic - many studies|Exercise and Vitamin D are synergistic - many studies`
@@ -1122,32 +1122,21 @@ AST Structure:
 │   full_match: `__((Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3)),  ((Magnesium and Vitamin D|Magnesium)),  ((Zinc and Vitamin D|Zinc)),   ((Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin)),   ((Better than Daily|non-daily Vit D)),  ((Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin)),   ((Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine)),  ~~#F00:((Intense exercise increases vitamin D receptor activation|intense exercise))~~, ((14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate))   ((VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane))   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators__`
 │   inner_content: `((Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3)),  ((Magnesium and Vitamin D|Magnesium)),  ((Zinc and Vitamin D|Zinc)),   ((Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin)),   ((Better than Daily|non-daily Vit D)),  ((Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin)),   ((Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine)),  ~~#F00:((Intense exercise increases vitamin D receptor activation|intense exercise))~~, ((14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate))   ((VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane))   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 16 known VDR activators`
 │   children:
-│   ├── LocalLinkNode
-│   │   full_match: `((Resveratrol))`
-│   │   inner_content: `Resveratrol`
-│   │   page: `Resveratrol`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))`
+│   │   inner_content: `Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
+│   │   page: `Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Resveratrol`
-│   │   │   inner_content: `Resveratrol`
+│   │   │   full_match: `Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
+│   │   │   inner_content: `Resveratrol)),  ((Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
 │   ├── TextNode
 │   │   full_match: `,  `
 │   │   inner_content: `,  `
-│   ├── LocalLinkNode
-│   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))`
-│   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   │   page: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   ├── TextNode
-│   │   full_match: `,  `
-│   │   inner_content: `,  `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Magnesium and Vitamin D|Magnesium))`
 │   │   inner_content: `Magnesium and Vitamin D|Magnesium`
-│   │   page: `Magnesium and Vitamin D|Magnesium`
+│   │   page: `Magnesium and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Magnesium and Vitamin D|Magnesium`
@@ -1155,10 +1144,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `,  `
 │   │   inner_content: `,  `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Zinc and Vitamin D|Zinc))`
 │   │   inner_content: `Zinc and Vitamin D|Zinc`
-│   │   page: `Zinc and Vitamin D|Zinc`
+│   │   page: `Zinc and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Zinc and Vitamin D|Zinc`
@@ -1166,21 +1155,21 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `,   `
 │   │   inner_content: `,   `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin))`
-│   │   inner_content: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin`
-│   │   page: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin`
+│   │   inner_content: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016|Quercetin`
+│   │   page: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin`
-│   │   │   inner_content: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016| Quercetin`
+│   │   │   full_match: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016|Quercetin`
+│   │   │   inner_content: `Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016|Quercetin`
 │   ├── TextNode
 │   │   full_match: `,   `
 │   │   inner_content: `,   `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Better than Daily|non-daily Vit D))`
 │   │   inner_content: `Better than Daily|non-daily Vit D`
-│   │   page: `Better than Daily|non-daily Vit D`
+│   │   page: `Better than Daily`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Better than Daily|non-daily Vit D`
@@ -1188,10 +1177,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `,  `
 │   │   inner_content: `,  `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin))`
 │   │   inner_content: `Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin`
-│   │   page: `Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin`
+│   │   page: `Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010|Curcumin`
@@ -1199,10 +1188,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `,   `
 │   │   inner_content: `,   `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine))`
 │   │   inner_content: `Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine`
-│   │   page: `Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine`
+│   │   page: `Berberine: antioxident and activates the Vitamin D Receptor - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Berberine: antioxident and activates the Vitamin D Receptor - many studies|Berberine`
@@ -1216,10 +1205,10 @@ AST Structure:
 │   │   attrs_dict:
 │   │   │   raw_content: #F00
 │   │   children:
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Intense exercise increases vitamin D receptor activation|intense exercise))`
 │   │   │   inner_content: `Intense exercise increases vitamin D receptor activation|intense exercise`
-│   │   │   page: `Intense exercise increases vitamin D receptor activation|intense exercise`
+│   │   │   page: `Intense exercise increases vitamin D receptor activation`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Intense exercise increases vitamin D receptor activation|intense exercise`
@@ -1227,10 +1216,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate))`
 │   │   inner_content: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate`
-│   │   page: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate`
+│   │   page: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate`
@@ -1238,10 +1227,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `   `
 │   │   inner_content: `   `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane))`
 │   │   inner_content: `VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane`
-│   │   page: `VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane`
+│   │   page: `VDR activators include sulforaphane and curcumin – June 2020`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `VDR activators include sulforaphane and curcumin – June 2020|Sulforaphane`

@@ -33,9 +33,9 @@ categories:
 
 *         **<span style="color:orange;">AND</span>**  you are not wearing sunscreen
 
-*          **<span style="color:orange;">AND</span>**  you have a healthy [Liver](/categories/liver) and <a href="/posts/overview-kidney-and-vitamin-dkidney" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D|Kidney">Overview Kidney and vitamin D|Kidney</a>
+*          **<span style="color:orange;">AND</span>**  you have a healthy <a href="/posts/liver-and-overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D">Kidney</a>
 
-*           **<span style="color:orange;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-dair-pollution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D|air pollution">Air Pollution reduces Vitamin D|air pollution</a>
+*           **<span style="color:orange;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D">air pollution</a>
 
 *            **<span style="color:orange;">AND</span>**  you have a good response to sunshine (4X variation between individuals)
 
@@ -72,9 +72,9 @@ Markdown:
 
 *         **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
 
-*          **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy [Liver](/categories/liver) and &lt;a href=&quot;/posts/overview-kidney-and-vitamin-dkidney&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Kidney and vitamin D|Kidney&quot;&gt;Overview Kidney and vitamin D|Kidney&lt;/a&gt;
+*          **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy &lt;a href=&quot;/posts/liver-and-overview-kidney-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D&quot;&gt;Kidney&lt;/a&gt;
 
-*           **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-dair-pollution&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D|air pollution&quot;&gt;Air Pollution reduces Vitamin D|air pollution&lt;/a&gt;
+*           **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D&quot;&gt;air pollution&lt;/a&gt;
 
 *            **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
 
@@ -344,25 +344,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` you have a healthy `
 │   │   inner_content: ` you have a healthy `
-│   ├── LocalLinkNode
-│   │   full_match: `((Liver))`
-│   │   inner_content: `Liver`
-│   │   page: `Liver`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Liver)) and ((Overview Kidney and vitamin D|Kidney))`
+│   │   inner_content: `Liver)) and ((Overview Kidney and vitamin D|Kidney`
+│   │   page: `Liver)) and ((Overview Kidney and vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Liver`
-│   │   │   inner_content: `Liver`
-│   ├── TextNode
-│   │   full_match: ` and `
-│   │   inner_content: ` and `
-│   ├── LocalLinkNode
-│   │   full_match: `((Overview Kidney and vitamin D|Kidney))`
-│   │   inner_content: `Overview Kidney and vitamin D|Kidney`
-│   │   page: `Overview Kidney and vitamin D|Kidney`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Overview Kidney and vitamin D|Kidney`
-│   │   │   inner_content: `Overview Kidney and vitamin D|Kidney`├── TextNode
+│   │   │   full_match: `Liver)) and ((Overview Kidney and vitamin D|Kidney`
+│   │   │   inner_content: `Liver)) and ((Overview Kidney and vitamin D|Kidney`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*         __~~#00F:AND~~__ there are no clouds nor ((Air Pollution reduces Vitamin D|air pollution))`
@@ -388,10 +377,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` there are no clouds nor `
 │   │   inner_content: ` there are no clouds nor `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Air Pollution reduces Vitamin D|air pollution))`
 │   │   inner_content: `Air Pollution reduces Vitamin D|air pollution`
-│   │   page: `Air Pollution reduces Vitamin D|air pollution`
+│   │   page: `Air Pollution reduces Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Air Pollution reduces Vitamin D|air pollution`

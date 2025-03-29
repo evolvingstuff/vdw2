@@ -109,7 +109,7 @@ Much faster: Nanoemulsion Vitamin D swished in mouth - 2 hours to get to the blo
 
 Much slower and expensive: Injection)) - 10 days to get from muscle to bloodstream
 
- **Note: Surgeries can drop the <a href="/posts/pro-inflammatory-cytokines-cause-the-74-percent-drop-in-vitamin-d-after-knee-art--levels-by-half" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half">Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half</a>** 
+ **Note: Surgeries can drop the <a href="/posts/pro-inflammatory-cytokines-cause-the-74-percent-drop-in-vitamin-d-after-knee-arthroplasty" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014">vitamin D levels by half</a>** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -213,7 +213,7 @@ Much faster: Nanoemulsion Vitamin D swished in mouth - 2 hours to get to the blo
 
 Much slower and expensive: Injection)) - 10 days to get from muscle to bloodstream
 
- **Note: Surgeries can drop the &lt;a href=&quot;/posts/pro-inflammatory-cytokines-cause-the-74-percent-drop-in-vitamin-d-after-knee-art--levels-by-half&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half&quot;&gt;Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half&lt;/a&gt;** 
+ **Note: Surgeries can drop the &lt;a href=&quot;/posts/pro-inflammatory-cytokines-cause-the-74-percent-drop-in-vitamin-d-after-knee-arthroplasty&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014&quot;&gt;vitamin D levels by half&lt;/a&gt;** 
 
 AST Structure:
 -------------
@@ -549,10 +549,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Note: Surgeries can drop the `
 │   │   inner_content: `Note: Surgeries can drop the `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half))`
 │   │   inner_content: `Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half`
-│   │   page: `Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half`
+│   │   page: `Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Pro-inflammatory cytokines cause the 74 percent drop in vitamin D after knee arthroplasty – Feb 2014|vitamin D levels by half`

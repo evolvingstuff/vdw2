@@ -70,7 +70,7 @@ categories:
 
 ---
 
-#### Omega-3, Magnesium, Boron and many others <a href="/posts/reasons-for-low-response-to-vitamin-d-increase-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D| increase the response to Vitamin D">Reasons for low response to vitamin D| increase the response to Vitamin D</a>
+#### Omega-3, Magnesium, Boron and many others <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">increase the response to Vitamin D</a>
 
 ---
 
@@ -179,7 +179,7 @@ Markdown:
 
 ---
 
-#### Omega-3, Magnesium, Boron and many others &lt;a href=&quot;/posts/reasons-for-low-response-to-vitamin-d-increase-the-response-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Reasons for low response to vitamin D| increase the response to Vitamin D&quot;&gt;Reasons for low response to vitamin D| increase the response to Vitamin D&lt;/a&gt;
+#### Omega-3, Magnesium, Boron and many others &lt;a href=&quot;/posts/reasons-for-low-response-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Reasons for low response to vitamin D&quot;&gt;increase the response to Vitamin D&lt;/a&gt;
 
 ---
 
@@ -489,14 +489,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Omega-3, Magnesium, Boron and many others `
 │   │   inner_content: `Omega-3, Magnesium, Boron and many others `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Reasons for low response to vitamin D| increase the response to Vitamin D))`
-│   │   inner_content: `Reasons for low response to vitamin D| increase the response to Vitamin D`
-│   │   page: `Reasons for low response to vitamin D| increase the response to Vitamin D`
+│   │   inner_content: `Reasons for low response to vitamin D|increase the response to Vitamin D`
+│   │   page: `Reasons for low response to vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Reasons for low response to vitamin D| increase the response to Vitamin D`
-│   │   │   inner_content: `Reasons for low response to vitamin D| increase the response to Vitamin D`├── HorizontalRuleNode
+│   │   │   full_match: `Reasons for low response to vitamin D|increase the response to Vitamin D`
+│   │   │   inner_content: `Reasons for low response to vitamin D|increase the response to Vitamin D`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!47+ VitaminDWiki pages have LONGEVITY etc in the title`

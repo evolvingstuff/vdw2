@@ -32,7 +32,7 @@ Lastly, according to one study, vitamin D intake < 80 IU/kg/day was significantl
 
 ---
 
-#### VitaminDWiki - <a href="/posts/respiratory-infection-children-and-vitamin-d-many-studiesrespiratory-children-an-in-d-23-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies">Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies</a>
+#### VitaminDWiki - [Respiratory, children and Vitamin D - 23+ studies](/posts/respiratory-infection-children-and-vitamin-d-many-studies)
 
 ---
 
@@ -67,7 +67,7 @@ Lastly, according to one study, vitamin D intake &lt; 80 IU/kg/day was significa
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/respiratory-infection-children-and-vitamin-d-many-studiesrespiratory-children-an-in-d-23-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies&quot;&gt;Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies&lt;/a&gt;
+#### VitaminDWiki - [Respiratory, children and Vitamin D - 23+ studies](/posts/respiratory-infection-children-and-vitamin-d-many-studies)
 
 ---
 
@@ -162,10 +162,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies))`
 │   │   inner_content: `Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies`
-│   │   page: `Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies`
+│   │   page: `Respiratory infection, children and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Respiratory infection, children and Vitamin D - many studies|Respiratory, children and Vitamin D - 23+ studies`

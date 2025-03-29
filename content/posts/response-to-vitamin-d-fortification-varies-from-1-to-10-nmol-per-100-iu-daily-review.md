@@ -45,7 +45,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 ---
 
-#### VitaminDWiki – <a href="/posts/fortification-with-vitamin-dbread-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fortification with Vitamin D|Bread Fortification">Fortification with Vitamin D|Bread Fortification</a> contains
+#### VitaminDWiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
@@ -63,7 +63,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. Time of day (near supper is best, breakfast is worst)
 
-1. Low on co-factors such as <a href="/posts/overview-magnesium-and-vitamin-dmagnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D|Magnesium">Overview Magnesium and vitamin D|Magnesium</a> and <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3">Overview: Omega-3 many benefits include helping vitamin D|Omega-3</a>
+1. Low on co-factors such as <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a> and <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>
 
 1. Have a current health problem that is consuming Vitamin D (surgery, diabetes, some cancers)
 
@@ -71,17 +71,17 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. Poor level of some B vitamins
 
-1. <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders-aug-2015low-boron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron">Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron</a>
+1. <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015">Low Boron</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
 
-1. Poor gut, <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-dfatty-liver" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver">Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver</a>
+1. Poor gut, <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">fatty liver</a>
 
 1. People who are extremely deficient will have virtually no response until their levels start to be respored
 
 1. Elderly have about 1/4 the absorption of Vitamin D from their intestines
 
-1. <a href="/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria-dec-2020poor-gut-bacteria" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria">Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria</a>
+1. <a href="/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020">Poor gut bacteria</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
 
@@ -149,7 +149,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/fortification-with-vitamin-dbread-fortification&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fortification with Vitamin D|Bread Fortification&quot;&gt;Fortification with Vitamin D|Bread Fortification&lt;/a&gt; contains
+#### VitaminDWiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
@@ -167,7 +167,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. Time of day (near supper is best, breakfast is worst)
 
-1. Low on co-factors such as &lt;a href=&quot;/posts/overview-magnesium-and-vitamin-dmagnesium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Magnesium and vitamin D|Magnesium&quot;&gt;Overview Magnesium and vitamin D|Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D|Omega-3&lt;/a&gt;
+1. Low on co-factors such as &lt;a href=&quot;/posts/overview-magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Magnesium and vitamin D&quot;&gt;Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;
 
 1. Have a current health problem that is consuming Vitamin D (surgery, diabetes, some cancers)
 
@@ -175,17 +175,17 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. Poor level of some B vitamins
 
-1. &lt;a href=&quot;/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders-aug-2015low-boron&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron&quot;&gt;Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron&lt;/a&gt;
+1. &lt;a href=&quot;/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&quot;&gt;Low Boron&lt;/a&gt;
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
 
-1. Poor gut, &lt;a href=&quot;/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-dfatty-liver&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver&quot;&gt;Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver&lt;/a&gt;
+1. Poor gut, &lt;a href=&quot;/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D&quot;&gt;fatty liver&lt;/a&gt;
 
 1. People who are extremely deficient will have virtually no response until their levels start to be respored
 
 1. Elderly have about 1/4 the absorption of Vitamin D from their intestines
 
-1. &lt;a href=&quot;/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria-dec-2020poor-gut-bacteria&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria&quot;&gt;Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria&lt;/a&gt;
+1. &lt;a href=&quot;/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020&quot;&gt;Poor gut bacteria&lt;/a&gt;
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&quot;&gt;Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&lt;/a&gt;
 
@@ -330,10 +330,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Fortification with Vitamin D|Bread Fortification))`
 │   │   inner_content: `Fortification with Vitamin D|Bread Fortification`
-│   │   page: `Fortification with Vitamin D|Bread Fortification`
+│   │   page: `Fortification with Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Fortification with Vitamin D|Bread Fortification`
@@ -441,10 +441,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Low on co-factors such as `
 │   │   inner_content: `Low on co-factors such as `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Magnesium and vitamin D|Magnesium))`
 │   │   inner_content: `Overview Magnesium and vitamin D|Magnesium`
-│   │   page: `Overview Magnesium and vitamin D|Magnesium`
+│   │   page: `Overview Magnesium and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Magnesium and vitamin D|Magnesium`
@@ -452,10 +452,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` and `
 │   │   inner_content: ` and `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))`
 │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   │   page: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
+│   │   page: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
@@ -493,10 +493,10 @@ AST Structure:
 │   inner_content: `((Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron))`
 │   │   inner_content: `Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron`
-│   │   page: `Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron`
+│   │   page: `Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015|Low Boron`
@@ -519,10 +519,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Poor gut, `
 │   │   inner_content: `Poor gut, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver))`
 │   │   inner_content: `Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver`
-│   │   page: `Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver`
+│   │   page: `Strong association of non alcoholic fatty liver disease and low vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Strong association of non alcoholic fatty liver disease and low vitamin D|fatty liver`
@@ -551,10 +551,10 @@ AST Structure:
 │   inner_content: `((Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria))`
 │   │   inner_content: `Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria`
-│   │   page: `Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria`
+│   │   page: `Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020|Poor gut bacteria`

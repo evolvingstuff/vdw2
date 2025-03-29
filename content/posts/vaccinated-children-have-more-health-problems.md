@@ -61,7 +61,7 @@ In this study, higher ORs were observed within the vaccinated versus unvaccinate
 
 ---
 
-#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwiki200-vaccination-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|200+ Vaccination problems">Vaccination pages in VitaminDWiki|200+ Vaccination problems</a>
+#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">200+ Vaccination problems</a>
 
 <!-- ~tc~ (alias(Vaccinated children have more health problems (16th study) )) ~/tc~ -->
 
@@ -121,7 +121,7 @@ In this study, higher ORs were observed within the vaccinated versus unvaccinate
 
 ---
 
-#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki200-vaccination-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|200+ Vaccination problems&quot;&gt;Vaccination pages in VitaminDWiki|200+ Vaccination problems&lt;/a&gt;
+#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;200+ Vaccination problems&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Vaccinated children have more health problems (16th study) )) ~/tc~ --&gt;
 
@@ -304,10 +304,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki `
 │   │   inner_content: `VitaminDWiki `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|200+ Vaccination problems))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|200+ Vaccination problems`
-│   │   page: `Vaccination pages in VitaminDWiki|200+ Vaccination problems`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|200+ Vaccination problems`

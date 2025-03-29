@@ -62,7 +62,7 @@ categories:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2410s)) Magnesium's potential for managing migraines 
 
-  *  See also <a href="/posts/cluster-and-migraine-headache-treatment-protocol-sept-2023magnesium-and-headaches" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches">Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches</a>
+  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2599s)) The role of magnesium in aging 
 
@@ -169,7 +169,7 @@ Markdown:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2410s)) Magnesium&#39;s potential for managing migraines 
 
-  *  See also &lt;a href=&quot;/posts/cluster-and-migraine-headache-treatment-protocol-sept-2023magnesium-and-headaches&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches&quot;&gt;Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches&lt;/a&gt;
+  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2599s)) The role of magnesium in aging 
 
@@ -688,10 +688,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` See also `
 │   │   inner_content: ` See also `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
 │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
-│   │   page: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
+│   │   page: `Cluster and Migraine headache treatment protocol - Sept 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`

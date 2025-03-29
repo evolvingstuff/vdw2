@@ -106,7 +106,7 @@ This list is automatically updated
 
   * There are 
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 142 OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
- studies in both<a href="/posts/virus-virus-and-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virus| Virus and Vitamin D Receptor">Virus| Virus and Vitamin D Receptor</a> categories
+ studies in both[Virus and Vitamin D Receptor](/categories/virus) categories
 
 * <a href="/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017">Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017</a>
 
@@ -225,7 +225,7 @@ This list is automatically updated
 
   * There are 
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 142 OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
- studies in both&lt;a href=&quot;/posts/virus-virus-and-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Virus| Virus and Vitamin D Receptor&quot;&gt;Virus| Virus and Vitamin D Receptor&lt;/a&gt; categories
+ studies in both[Virus and Vitamin D Receptor](/categories/virus) categories
 
 * &lt;a href=&quot;/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&quot;&gt;Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&lt;/a&gt;
 
@@ -560,14 +560,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` studies in both`
 │   │   inner_content: ` studies in both`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Virus| Virus and Vitamin D Receptor))`
-│   │   inner_content: `Virus| Virus and Vitamin D Receptor`
-│   │   page: `Virus| Virus and Vitamin D Receptor`
+│   │   inner_content: `Virus|Virus and Vitamin D Receptor`
+│   │   page: `Virus`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Virus| Virus and Vitamin D Receptor`
-│   │   │   inner_content: `Virus| Virus and Vitamin D Receptor`
+│   │   │   full_match: `Virus|Virus and Vitamin D Receptor`
+│   │   │   inner_content: `Virus|Virus and Vitamin D Receptor`
 │   ├── TextNode
 │   │   full_match: ` categories`
 │   │   inner_content: ` categories`├── TextNode

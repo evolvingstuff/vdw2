@@ -139,7 +139,7 @@ uww, underwater weighing;
 
 ---
 
-#### VitaminDWiki – <a href="/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well-aug-2019obesit-ed-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D">Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D</a>
+#### VitaminDWiki – <a href="/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019">Obesity is associated and treated by Vitamin D</a>
 
 ---
 
@@ -315,7 +315,7 @@ uww, underwater weighing;
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well-aug-2019obesit-ed-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D&quot;&gt;Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/obesity-is-associated-with-low-vitamin-d-and-treated-by-d-as-well&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019&quot;&gt;Obesity is associated and treated by Vitamin D&lt;/a&gt;
 
 ---
 
@@ -597,10 +597,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D))`
 │   │   inner_content: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D`
-│   │   page: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D`
+│   │   page: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Obesity is associated with low Vitamin D (and treated by D as well) – Aug 2019|Obesity is associated and treated by Vitamin D`

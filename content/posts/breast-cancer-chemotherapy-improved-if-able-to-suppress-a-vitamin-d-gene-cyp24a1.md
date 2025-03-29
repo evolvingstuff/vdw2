@@ -55,7 +55,7 @@ This list is automatically updated
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 
- **<a href="/posts/geneticsclick-here-for-more-information" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|Click here for more information">Genetics|Click here for more information</a>** 
+ **[Click here for more information](/categories/genetics)** 
 
 ---
 
@@ -123,7 +123,7 @@ This list is automatically updated
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;350&quot;&gt;
 
- **&lt;a href=&quot;/posts/geneticsclick-here-for-more-information&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|Click here for more information&quot;&gt;Genetics|Click here for more information&lt;/a&gt;** 
+ **[Click here for more information](/categories/genetics)** 
 
 ---
 
@@ -224,10 +224,10 @@ AST Structure:
 │   full_match: `__((Genetics|Click here for more information))__`
 │   inner_content: `((Genetics|Click here for more information))`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics|Click here for more information))`
 │   │   inner_content: `Genetics|Click here for more information`
-│   │   page: `Genetics|Click here for more information`
+│   │   page: `Genetics`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Genetics|Click here for more information`

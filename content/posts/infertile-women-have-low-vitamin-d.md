@@ -35,7 +35,7 @@ Conclusions: Vitamin D deficiency should be considered when infertility of unkno
 
 ---
 
-#### VitaminDWiki – <a href="/posts/fertility-and-sperm-vitamin-d-greatly-improves-fertility" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fertility and sperm |Vitamin D greatly improves Fertility">Fertility and sperm |Vitamin D greatly improves Fertility</a>
+#### VitaminDWiki – [Vitamin D greatly improves Fertility](/categories/fertility-and-sperm)
 
 
 
@@ -68,7 +68,7 @@ Conclusions: Vitamin D deficiency should be considered when infertility of unkno
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/fertility-and-sperm-vitamin-d-greatly-improves-fertility&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fertility and sperm |Vitamin D greatly improves Fertility&quot;&gt;Fertility and sperm |Vitamin D greatly improves Fertility&lt;/a&gt;
+#### VitaminDWiki – [Vitamin D greatly improves Fertility](/categories/fertility-and-sperm)
 
 
 
@@ -142,14 +142,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Fertility and sperm |Vitamin D greatly improves Fertility))`
-│   │   inner_content: `Fertility and sperm |Vitamin D greatly improves Fertility`
-│   │   page: `Fertility and sperm |Vitamin D greatly improves Fertility`
+│   │   inner_content: `Fertility and sperm|Vitamin D greatly improves Fertility`
+│   │   page: `Fertility and sperm`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Fertility and sperm |Vitamin D greatly improves Fertility`
-│   │   │   inner_content: `Fertility and sperm |Vitamin D greatly improves Fertility`├── TextNode
+│   │   │   full_match: `Fertility and sperm|Vitamin D greatly improves Fertility`
+│   │   │   inner_content: `Fertility and sperm|Vitamin D greatly improves Fertility`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Fertility and Sperm&quot; start=&quot;~tc~ start2 ~/tc~&quot; stop=&quot;~tc~ end2 ~/tc~&quot;}`

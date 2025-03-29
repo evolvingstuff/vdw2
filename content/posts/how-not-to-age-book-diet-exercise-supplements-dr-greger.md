@@ -282,15 +282,15 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 ---
 
-#### VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studieslongevity-and-health--d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
 
 ---
 
-#### VitaminDWiki - <a href="/posts/magnesium-role-in-health-and-longevity-many-studiesmagnesium-role-in-health-and--ty-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies</a>
+#### VitaminDWiki - <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a>
 
 ---
 
-#### VitaminDWiki - <a href="/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick-nov-2023how-v-ngevity-patrick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023">How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023</a>
+#### VitaminDWiki - [How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023](/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick)
 
 ---
 
@@ -583,15 +583,15 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studieslongevity-and-health--d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies&quot;&gt;Longevity and healthspan increased by Vitamin D - many studies&lt;/a&gt;
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/magnesium-role-in-health-and-longevity-many-studiesmagnesium-role-in-health-and--ty-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies&quot;&gt;Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/magnesium-role-in-health-and-longevity-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies&quot;&gt;Magnesium Role in Health and Longevity - many studies&lt;/a&gt;
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick-nov-2023how-v-ngevity-patrick&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023&quot;&gt;How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023&lt;/a&gt;
+#### VitaminDWiki - [How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023](/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick)
 
 ---
 
@@ -1573,10 +1573,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies))`
 │   │   inner_content: `Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies`
-│   │   page: `Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies`
+│   │   page: `Longevity and healthspan increased by Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Longevity and healthspan increased by Vitamin D - many studies|Longevity and healthspan increased by Vitamin D - many studies`
@@ -1590,10 +1590,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies))`
 │   │   inner_content: `Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies`
-│   │   page: `Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies`
+│   │   page: `Magnesium Role in Health and Longevity - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Magnesium Role in Health and Longevity - many studies|Magnesium Role in Health and Longevity - many studies`
@@ -1607,10 +1607,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023))`
 │   │   inner_content: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
-│   │   page: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
+│   │   page: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023|How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023`

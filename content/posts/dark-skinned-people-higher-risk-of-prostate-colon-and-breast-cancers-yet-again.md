@@ -16,7 +16,7 @@ Blacks who are not near the equator and outdoors all of the time have low Vitami
 
  	<img src="/attachments/d3.mock.jpg" alt="image"> 
 
-<a href="/posts/chart-of-vitamin-d-levels-vs-race-april-2013click-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013|Click here for details">Chart of Vitamin D levels vs race - April 2013|Click here for details</a>
+<a href="/posts/chart-of-vitamin-d-levels-vs-race" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013">Click here for details</a>
 
 The health disparity for dark skinned people is almost the same as whites having a low level of vitamin D
 
@@ -71,7 +71,7 @@ This list is automatically updated
 
 * <a href="/posts/breast-prostate-and-colon-cancers-are-still-strongly-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020">Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020</a>
 
-* <a href="/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vit--and-dark-skins" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins">COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins</a>
+* <a href="/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)">COVID-19 and Dark Skins</a>
 
 <!-- ~tc~ (alias(Cancers and race - April 2024)) ~/tc~ -->
 
@@ -88,7 +88,7 @@ Blacks who are not near the equator and outdoors all of the time have low Vitami
 
  	&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt; 
 
-&lt;a href=&quot;/posts/chart-of-vitamin-d-levels-vs-race-april-2013click-here-for-details&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013|Click here for details&quot;&gt;Chart of Vitamin D levels vs race - April 2013|Click here for details&lt;/a&gt;
+&lt;a href=&quot;/posts/chart-of-vitamin-d-levels-vs-race&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chart of Vitamin D levels vs race - April 2013&quot;&gt;Click here for details&lt;/a&gt;
 
 The health disparity for dark skinned people is almost the same as whites having a low level of vitamin D
 
@@ -143,7 +143,7 @@ This list is automatically updated
 
 * &lt;a href=&quot;/posts/breast-prostate-and-colon-cancers-are-still-strongly-associated-with-low-vitamin-d-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020&quot;&gt;Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vit--and-dark-skins&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins&quot;&gt;COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins&lt;/a&gt;
+* &lt;a href=&quot;/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)&quot;&gt;COVID-19 and Dark Skins&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Cancers and race - April 2024)) ~/tc~ --&gt;
 
@@ -172,10 +172,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` \n`
 │   │   inner_content: ` \n`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Chart of Vitamin D levels vs race - April 2013|Click here for details))`
 │   │   inner_content: `Chart of Vitamin D levels vs race - April 2013|Click here for details`
-│   │   page: `Chart of Vitamin D levels vs race - April 2013|Click here for details`
+│   │   page: `Chart of Vitamin D levels vs race - April 2013`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Chart of Vitamin D levels vs race - April 2013|Click here for details`
@@ -481,10 +481,10 @@ AST Structure:
 │   inner_content: `((COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins))`
 │   │   inner_content: `COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins`
-│   │   page: `COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins`
+│   │   page: `COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)|COVID-19 and Dark Skins`

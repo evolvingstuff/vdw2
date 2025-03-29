@@ -48,7 +48,7 @@ Trial registration ACTRN12613000743763
 
 ---
 
-#### Known to have less benefit if <a href="/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses-oct-2021dose-17-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose >17 days">Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose >17 days</a>, <a href="/posts/overview-obesity-and-vitamin-dobese" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D|obese">Overview Obesity and Vitamin D|obese</a>, <a href="/posts/overview-dark-skin-and-vitamin-ddark-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D|dark skin">Overview Dark Skin and Vitamin D|dark skin</a>, <a href="/posts/gut-friendly-vitamin-dpoor-gut" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|poor gut">Gut-Friendly Vitamin D|poor gut</a>, <a href="/posts/statins-and-vitamin-d-many-studiestaking-statins" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies|taking statins">Statins and Vitamin D - many studies|taking statins</a>, etc.
+#### Known to have less benefit if <a href="/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021">dose >17 days</a>, <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">obese</a>, <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">dark skin</a>, <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">poor gut</a>, <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">taking statins</a>, etc.
 
 ---
 
@@ -124,7 +124,7 @@ Trial registration ACTRN12613000743763
 
 ---
 
-#### Known to have less benefit if &lt;a href=&quot;/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses-oct-2021dose-17-days&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days&quot;&gt;Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days&lt;/a&gt;, &lt;a href=&quot;/posts/overview-obesity-and-vitamin-dobese&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D|obese&quot;&gt;Overview Obesity and Vitamin D|obese&lt;/a&gt;, &lt;a href=&quot;/posts/overview-dark-skin-and-vitamin-ddark-skin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Dark Skin and Vitamin D|dark skin&quot;&gt;Overview Dark Skin and Vitamin D|dark skin&lt;/a&gt;, &lt;a href=&quot;/posts/gut-friendly-vitamin-dpoor-gut&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|poor gut&quot;&gt;Gut-Friendly Vitamin D|poor gut&lt;/a&gt;, &lt;a href=&quot;/posts/statins-and-vitamin-d-many-studiestaking-statins&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Statins and Vitamin D - many studies|taking statins&quot;&gt;Statins and Vitamin D - many studies|taking statins&lt;/a&gt;, etc.
+#### Known to have less benefit if &lt;a href=&quot;/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021&quot;&gt;dose &gt;17 days&lt;/a&gt;, &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;obese&lt;/a&gt;, &lt;a href=&quot;/posts/overview-dark-skin-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Dark Skin and Vitamin D&quot;&gt;dark skin&lt;/a&gt;, &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;poor gut&lt;/a&gt;, &lt;a href=&quot;/posts/statins-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Statins and Vitamin D - many studies&quot;&gt;taking statins&lt;/a&gt;, etc.
 
 ---
 
@@ -232,10 +232,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Known to have less benefit if `
 │   │   inner_content: `Known to have less benefit if `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days))`
 │   │   inner_content: `Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days`
-│   │   page: `Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days`
+│   │   page: `Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021|dose &gt;17 days`
@@ -243,10 +243,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Obesity and Vitamin D|obese))`
 │   │   inner_content: `Overview Obesity and Vitamin D|obese`
-│   │   page: `Overview Obesity and Vitamin D|obese`
+│   │   page: `Overview Obesity and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Obesity and Vitamin D|obese`
@@ -254,10 +254,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Dark Skin and Vitamin D|dark skin))`
 │   │   inner_content: `Overview Dark Skin and Vitamin D|dark skin`
-│   │   page: `Overview Dark Skin and Vitamin D|dark skin`
+│   │   page: `Overview Dark Skin and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Dark Skin and Vitamin D|dark skin`
@@ -265,10 +265,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gut-Friendly Vitamin D|poor gut))`
 │   │   inner_content: `Gut-Friendly Vitamin D|poor gut`
-│   │   page: `Gut-Friendly Vitamin D|poor gut`
+│   │   page: `Gut-Friendly Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gut-Friendly Vitamin D|poor gut`
@@ -276,10 +276,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Statins and Vitamin D - many studies|taking statins))`
 │   │   inner_content: `Statins and Vitamin D - many studies|taking statins`
-│   │   page: `Statins and Vitamin D - many studies|taking statins`
+│   │   page: `Statins and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Statins and Vitamin D - many studies|taking statins`

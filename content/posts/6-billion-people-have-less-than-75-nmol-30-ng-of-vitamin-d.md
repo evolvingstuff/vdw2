@@ -95,7 +95,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki – <a href="/posts/consensus-vitamin-dconsenus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Consensus Vitamin D|Consenus">Consensus Vitamin D|Consenus</a> category contains:
+#### VitaminDWiki – <a href="/posts/consensus-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Consensus Vitamin D">Consenus</a> category contains:
 
 
 
@@ -187,7 +187,7 @@ Systematic review registration: https://www.crd.york.ac.uk/prospero/display_reco
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/consensus-vitamin-dconsenus&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Consensus Vitamin D|Consenus&quot;&gt;Consensus Vitamin D|Consenus&lt;/a&gt; category contains:
+#### VitaminDWiki – &lt;a href=&quot;/posts/consensus-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Consensus Vitamin D&quot;&gt;Consenus&lt;/a&gt; category contains:
 
 
 
@@ -544,10 +544,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Consensus Vitamin D|Consenus))`
 │   │   inner_content: `Consensus Vitamin D|Consenus`
-│   │   page: `Consensus Vitamin D|Consenus`
+│   │   page: `Consensus Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Consensus Vitamin D|Consenus`

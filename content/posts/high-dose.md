@@ -27,13 +27,13 @@ Has been used millions of times
 
 Can be both safe and effective
 
-For more than 6 months should include the <a href="/posts/vitamin-d-cofactors-in-a-nutshelladjustment-of-co-factors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell|adjustment of co-factors">Vitamin D Cofactors in a nutshell|adjustment of co-factors</a>
+For more than 6 months should include the <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">adjustment of co-factors</a>
 
-<a href="/posts/overview-toxicity-of-vitamin-d-100000-daily-can-be-toxic-in-3-weeks-if-cofactors-are-not-adjusted" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D |>100,000 daily can be toxic in 3 weeks if cofactors are not adjusted">Overview Toxicity of vitamin D |>100,000 daily can be toxic in 3 weeks if cofactors are not adjusted</a>
+<a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">>100,000 daily can be toxic in 3 weeks if cofactors are not adjusted</a>
 
-Can be via <a href="/posts/injectioninjections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Injection|injections">Injection|injections</a>
+Can be via [injections](/categories/injection)
 
-Is not the same as a <a href="/posts/overview-loading-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|Loading Dose">Overview Loading of vitamin D|Loading Dose</a> 
+Is not the same as a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Loading Dose</a> 
 
 - A Loading Dose is typically completed in less than 30 days
 
@@ -243,13 +243,13 @@ Has been used millions of times
 
 Can be both safe and effective
 
-For more than 6 months should include the &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshelladjustment-of-co-factors&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|adjustment of co-factors&quot;&gt;Vitamin D Cofactors in a nutshell|adjustment of co-factors&lt;/a&gt;
+For more than 6 months should include the &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;adjustment of co-factors&lt;/a&gt;
 
-&lt;a href=&quot;/posts/overview-toxicity-of-vitamin-d-100000-daily-can-be-toxic-in-3-weeks-if-cofactors-are-not-adjusted&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted&quot;&gt;Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted&lt;/a&gt;
+&lt;a href=&quot;/posts/overview-toxicity-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Toxicity of vitamin D&quot;&gt;&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted&lt;/a&gt;
 
-Can be via &lt;a href=&quot;/posts/injectioninjections&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Injection|injections&quot;&gt;Injection|injections&lt;/a&gt;
+Can be via [injections](/categories/injection)
 
-Is not the same as a &lt;a href=&quot;/posts/overview-loading-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|Loading Dose&quot;&gt;Overview Loading of vitamin D|Loading Dose&lt;/a&gt; 
+Is not the same as a &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;Loading Dose&lt;/a&gt; 
 
 - A Loading Dose is typically completed in less than 30 days
 
@@ -476,10 +476,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\nIs the on-going use of &gt;10,000 IU\nFrequency: 1 per day to 1 per 17 days is best (some studies use monthly)\nHas been used millions of times\nCan be both safe and effective\nFor more than 6 months should include the `
 │   │   inner_content: `\nIs the on-going use of &gt;10,000 IU\nFrequency: 1 per day to 1 per 17 days is best (some studies use monthly)\nHas been used millions of times\nCan be both safe and effective\nFor more than 6 months should include the `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Cofactors in a nutshell|adjustment of co-factors))`
 │   │   inner_content: `Vitamin D Cofactors in a nutshell|adjustment of co-factors`
-│   │   page: `Vitamin D Cofactors in a nutshell|adjustment of co-factors`
+│   │   page: `Vitamin D Cofactors in a nutshell`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D Cofactors in a nutshell|adjustment of co-factors`
@@ -487,21 +487,21 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\n`
 │   │   inner_content: `\n`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted))`
-│   │   inner_content: `Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
-│   │   page: `Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
+│   │   inner_content: `Overview Toxicity of vitamin D|&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
+│   │   page: `Overview Toxicity of vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
-│   │   │   inner_content: `Overview Toxicity of vitamin D |&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
+│   │   │   full_match: `Overview Toxicity of vitamin D|&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
+│   │   │   inner_content: `Overview Toxicity of vitamin D|&gt;100,000 daily can be toxic in 3 weeks if cofactors are not adjusted`
 │   ├── TextNode
 │   │   full_match: `\nCan be via `
 │   │   inner_content: `\nCan be via `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Injection|injections))`
 │   │   inner_content: `Injection|injections`
-│   │   page: `Injection|injections`
+│   │   page: `Injection`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Injection|injections`
@@ -509,10 +509,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `\nIs not the same as a `
 │   │   inner_content: `\nIs not the same as a `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Loading of vitamin D|Loading Dose))`
 │   │   inner_content: `Overview Loading of vitamin D|Loading Dose`
-│   │   page: `Overview Loading of vitamin D|Loading Dose`
+│   │   page: `Overview Loading of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Loading of vitamin D|Loading Dose`

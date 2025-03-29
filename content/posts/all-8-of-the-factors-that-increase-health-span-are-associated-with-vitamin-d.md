@@ -23,41 +23,41 @@ based on Association of Cardiovascular Health With Life Expectancy Free of Cardi
 
  **Not smoking** 
 
-&nbsp;&nbsp; <a href="/posts/smoking-reduces-vitamin-d-many-studiesstopping-smoking-increases-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D">Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D</a>
+&nbsp;&nbsp; <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Stopping smoking increases Vitamin D</a>
 
-&nbsp;&nbsp;<a href="/posts/smoking-reduces-vitamin-d-many-studiesvitamin-d-by-itself-might-decrease-smoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking">Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking</a>
+&nbsp;&nbsp;<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Vitamin D by itself might decrease smoking</a>
 
  **Regular physical activity** 
 
-&nbsp;&nbsp; <a href="/posts/intense-exercise-increases-vitamin-d-receptor-activationvitamin-d-is-increased-by-intense-exercise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise">Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise</a>
+&nbsp;&nbsp; <a href="/posts/intense-exercise-increases-vitamin-d-receptor-activation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intense exercise increases Vitamin D receptor activation">Vitamin D is increased by intense exercise</a>
 
-&nbsp;&nbsp;<a href="/posts/exercise-and-vitamin-d-are-synergistic-many-studiesmore-vitamin-d-makes-exercise-easier" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier">Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier</a>
+&nbsp;&nbsp;[More Vitamin D makes exercise easier](/posts/exercise-and-vitamin-d-are-synergistic-many-studies)
 
  **Healthy weight** 
 
-&nbsp;&nbsp;<a href="/posts/less-weight-gain-by-senior-women-if-vitamin-d-levels-over-30-ng-kaiser-dec-2012g-ces-weight-gain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain">Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain</a>
+&nbsp;&nbsp;<a href="/posts/less-weight-gain-by-senior-women-if-vitamin-d-levels-over-30-ng-kaiser" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012">Good Vitamin D level reduces weight gain</a>
 
-&nbsp;&nbsp;<a href="/posts/weight-loss-and-vitamin-d-many-studiesweight-reduction-efforts-lose-more-if-vitamin-d-is-added" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added">Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added</a>
+&nbsp;&nbsp;[Weight reduction efforts lose more if Vitamin D is added](/posts/weight-loss-and-vitamin-d-many-studies)
 
  **Healthy diet** 
 
-&nbsp;&nbsp; <a href="/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-stu-for-a-poor-diet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet">Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet</a>
+&nbsp;&nbsp; <a href="/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018">Vitamin D partially compensates for a poor diet</a>
 
  **Healthy sleep (average of 7-9 hours)** 
 
-&nbsp;&nbsp; <a href="/posts/sleepvitamin-d-improves-sleep" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sleep|Vitamin D improves sleep">Sleep|Vitamin D improves sleep</a>
+&nbsp;&nbsp; [Vitamin D improves sleep](/categories/sleep)
 
  **Blood pressure in a healthy range** 
 
-&nbsp;&nbsp; <a href="/posts/overview-hypertension-and-vitamin-dvitamin-d-reduces-hypertension" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D|Vitamin D reduces hypertension">Overview Hypertension and Vitamin D|Vitamin D reduces hypertension</a>
+&nbsp;&nbsp; <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Vitamin D reduces hypertension</a>
 
  **Blood glucose in a healthy range** 
 
-&nbsp;&nbsp; <a href="/posts/overview-diabetes-and-vitamin-dvitamin-d-both-prevents-and-treats-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes">Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes</a>
+&nbsp;&nbsp; <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Vitamin D both prevents and treats diabetes</a>
 
  **Non-HDL cholesterol in a healthy range** 
 
-&nbsp;&nbsp; <a href="/posts/overview-cholesterol-and-vitamin-dvitamin-d-reduces-non-hdl-cholesterol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol">Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol</a>
+&nbsp;&nbsp; <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Vitamin D reduces non-HDL cholesterol</a>
 
 ---
 
@@ -113,41 +113,41 @@ based on Association of Cardiovascular Health With Life Expectancy Free of Cardi
 
  **Not smoking** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiesstopping-smoking-increases-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D&quot;&gt;Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Stopping smoking increases Vitamin D&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiesvitamin-d-by-itself-might-decrease-smoking&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking&quot;&gt;Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Vitamin D by itself might decrease smoking&lt;/a&gt;
 
  **Regular physical activity** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/intense-exercise-increases-vitamin-d-receptor-activationvitamin-d-is-increased-by-intense-exercise&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise&quot;&gt;Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/intense-exercise-increases-vitamin-d-receptor-activation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Intense exercise increases Vitamin D receptor activation&quot;&gt;Vitamin D is increased by intense exercise&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/exercise-and-vitamin-d-are-synergistic-many-studiesmore-vitamin-d-makes-exercise-easier&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier&quot;&gt;Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;[More Vitamin D makes exercise easier](/posts/exercise-and-vitamin-d-are-synergistic-many-studies)
 
  **Healthy weight** 
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/less-weight-gain-by-senior-women-if-vitamin-d-levels-over-30-ng-kaiser-dec-2012g-ces-weight-gain&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain&quot;&gt;Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/less-weight-gain-by-senior-women-if-vitamin-d-levels-over-30-ng-kaiser&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012&quot;&gt;Good Vitamin D level reduces weight gain&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/weight-loss-and-vitamin-d-many-studiesweight-reduction-efforts-lose-more-if-vitamin-d-is-added&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added&quot;&gt;Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;[Weight reduction efforts lose more if Vitamin D is added](/posts/weight-loss-and-vitamin-d-many-studies)
 
  **Healthy diet** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-stu-for-a-poor-diet&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet&quot;&gt;Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-study&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018&quot;&gt;Vitamin D partially compensates for a poor diet&lt;/a&gt;
 
  **Healthy sleep (average of 7-9 hours)** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/sleepvitamin-d-improves-sleep&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sleep|Vitamin D improves sleep&quot;&gt;Sleep|Vitamin D improves sleep&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; [Vitamin D improves sleep](/categories/sleep)
 
  **Blood pressure in a healthy range** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-hypertension-and-vitamin-dvitamin-d-reduces-hypertension&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Hypertension and Vitamin D|Vitamin D reduces hypertension&quot;&gt;Overview Hypertension and Vitamin D|Vitamin D reduces hypertension&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-hypertension-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Hypertension and Vitamin D&quot;&gt;Vitamin D reduces hypertension&lt;/a&gt;
 
  **Blood glucose in a healthy range** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-diabetes-and-vitamin-dvitamin-d-both-prevents-and-treats-diabetes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes&quot;&gt;Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-diabetes-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Diabetes and vitamin D&quot;&gt;Vitamin D both prevents and treats diabetes&lt;/a&gt;
 
  **Non-HDL cholesterol in a healthy range** 
 
-&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-cholesterol-and-vitamin-dvitamin-d-reduces-non-hdl-cholesterol&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol&quot;&gt;Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol&lt;/a&gt;
+&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/overview-cholesterol-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cholesterol and vitamin D&quot;&gt;Vitamin D reduces non-HDL cholesterol&lt;/a&gt;
 
 ---
 
@@ -246,10 +246,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D))`
 │   inner_content: `Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D`
-│   page: `Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D`
+│   page: `Smoking reduces vitamin D - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Smoking reduces vitamin D - many studies|Stopping smoking increases Vitamin D`
@@ -258,10 +258,10 @@ AST Structure:
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
-│   repetitions: `2`├── LocalLinkNode
+│   repetitions: `2`├── AliasedLocalLinkNode
 │   full_match: `((Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking))`
 │   inner_content: `Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking`
-│   page: `Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking`
+│   page: `Smoking reduces vitamin D - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Smoking reduces vitamin D - many studies|Vitamin D by itself might decrease smoking`
@@ -280,10 +280,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise))`
 │   inner_content: `Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise`
-│   page: `Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise`
+│   page: `Intense exercise increases Vitamin D receptor activation`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Intense exercise increases Vitamin D receptor activation|Vitamin D is increased by intense exercise`
@@ -292,10 +292,10 @@ AST Structure:
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
-│   repetitions: `2`├── LocalLinkNode
+│   repetitions: `2`├── AliasedLocalLinkNode
 │   full_match: `((Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier))`
 │   inner_content: `Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier`
-│   page: `Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier`
+│   page: `Exercise and Vitamin D are synergistic - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Exercise and Vitamin D are synergistic - many studies|More Vitamin D makes exercise easier`
@@ -312,10 +312,10 @@ AST Structure:
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
-│   repetitions: `2`├── LocalLinkNode
+│   repetitions: `2`├── AliasedLocalLinkNode
 │   full_match: `((Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain))`
 │   inner_content: `Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain`
-│   page: `Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain`
+│   page: `Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Less weight gain by senior women if vitamin D levels over 30 ng – Kaiser Dec 2012|Good Vitamin D level reduces weight gain`
@@ -324,10 +324,10 @@ AST Structure:
 │   inner_content: `\n`├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`
 │   inner_content: ``
-│   repetitions: `2`├── LocalLinkNode
+│   repetitions: `2`├── AliasedLocalLinkNode
 │   full_match: `((Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added))`
 │   inner_content: `Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added`
-│   page: `Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added`
+│   page: `Weight loss and Vitamin D - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Weight loss and Vitamin D - many studies|Weight reduction efforts lose more if Vitamin D is added`
@@ -346,10 +346,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet))`
 │   inner_content: `Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet`
-│   page: `Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet`
+│   page: `Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018|Vitamin D partially compensates for a poor diet`
@@ -368,10 +368,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Sleep|Vitamin D improves sleep))`
 │   inner_content: `Sleep|Vitamin D improves sleep`
-│   page: `Sleep|Vitamin D improves sleep`
+│   page: `Sleep`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Sleep|Vitamin D improves sleep`
@@ -390,10 +390,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Overview Hypertension and Vitamin D|Vitamin D reduces hypertension))`
 │   inner_content: `Overview Hypertension and Vitamin D|Vitamin D reduces hypertension`
-│   page: `Overview Hypertension and Vitamin D|Vitamin D reduces hypertension`
+│   page: `Overview Hypertension and Vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Overview Hypertension and Vitamin D|Vitamin D reduces hypertension`
@@ -412,10 +412,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes))`
 │   inner_content: `Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes`
-│   page: `Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes`
+│   page: `Overview Diabetes and vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Overview Diabetes and vitamin D|Vitamin D both prevents and treats diabetes`
@@ -434,10 +434,10 @@ AST Structure:
 │   inner_content: ``
 │   repetitions: `2`├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol))`
 │   inner_content: `Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol`
-│   page: `Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol`
+│   page: `Overview Cholesterol and vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Overview Cholesterol and vitamin D|Vitamin D reduces non-HDL cholesterol`

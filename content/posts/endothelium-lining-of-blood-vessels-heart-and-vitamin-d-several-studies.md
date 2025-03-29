@@ -139,7 +139,7 @@ Finally, we hypothesize that endothelial dysfunction relevant to  **vitamin D** 
 
 ---
 
-#####  <span style="color:orange;">Note: COVID protects itself by <a href="/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants-march-2-amin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor">COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor</a>  33+ studies</span>
+#####  <span style="color:orange;">Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies</span>
 
 ---
 
@@ -289,7 +289,7 @@ Finally, we hypothesize that endothelial dysfunction relevant to  **vitamin D** 
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Note: COVID protects itself by &lt;a href=&quot;/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants-march-2-amin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor&quot;&gt;COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor&lt;/a&gt;  33+ studies&lt;/span&gt;
+#####  &lt;span style=&quot;color:orange;&quot;&gt;Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies&lt;/span&gt;
 
 ---
 
@@ -852,10 +852,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Note: COVID protects itself by `
 │   │   │   inner_content: `Note: COVID protects itself by `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor))`
 │   │   │   inner_content: `COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor`
-│   │   │   page: `COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor`
+│   │   │   page: `COVID variants protect themselves by deactivating different VDR variants– March 2023`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `COVID variants protect themselves by deactivating different VDR variants– March 2023|de-activation of the Vitamin D Receptor`

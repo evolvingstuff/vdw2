@@ -277,7 +277,7 @@ A low responsiveness to vitamin D3 supplementation may serve as a trait that ide
 
 ---
 
-#### VitaminDWiki - <a href="/posts/response-to-vitamin-d-many-studiesresponse-to-vitamin-d-173-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies">Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies</a>
+#### VitaminDWiki - <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D: 173+ studies</a>
 
 ---
 
@@ -623,7 +623,7 @@ A low responsiveness to vitamin D3 supplementation may serve as a trait that ide
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/response-to-vitamin-d-many-studiesresponse-to-vitamin-d-173-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies&quot;&gt;Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/response-to-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Response to Vitamin D - many studies&quot;&gt;Response to Vitamin D: 173+ studies&lt;/a&gt;
 
 ---
 
@@ -3646,10 +3646,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies))`
 │   │   inner_content: `Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies`
-│   │   page: `Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies`
+│   │   page: `Response to Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Response to Vitamin D - many studies|Response to Vitamin D: 173+ studies`

@@ -50,7 +50,7 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 
 ---
 
-#### VitaminDWiki – <a href="/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis-jul-duces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D">Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D</a>
+#### VitaminDWiki – <a href="/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022">Shiftwork. like indoor sports, also reduces Vitamin D</a>
 
 ---
 
@@ -103,7 +103,7 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis-jul-duces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D&quot;&gt;Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022&quot;&gt;Shiftwork. like indoor sports, also reduces Vitamin D&lt;/a&gt;
 
 ---
 
@@ -298,10 +298,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D))`
 │   │   inner_content: `Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D`
-│   │   page: `Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D`
+│   │   page: `Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022|Shiftwork. like indoor sports, also reduces Vitamin D`

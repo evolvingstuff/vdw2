@@ -23,7 +23,7 @@ categories:
 
 ##### Mistake #1: Forcing all of the products to be fortified - encouraging rather than forcing is far batter
 
-##### Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about <a href="/posts/low-fat-milk-provides-25-times-less-vitamin-d-may-201625x-less" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less">Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less</a> )
+##### Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about <a href="/posts/low-fat-milk-provides-25-times-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low fat milk provides 2.5 times less vitamin D – May 2016">2.5X less</a> )
 
 ##### Mistake #3: Failed to fortify for people who do not consume milk products (44% or people are lactose intolerant)
 
@@ -56,7 +56,7 @@ Markdown:
 
 ##### Mistake #1: Forcing all of the products to be fortified - encouraging rather than forcing is far batter
 
-##### Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about &lt;a href=&quot;/posts/low-fat-milk-provides-25-times-less-vitamin-d-may-201625x-less&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less&quot;&gt;Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less&lt;/a&gt; )
+##### Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about &lt;a href=&quot;/posts/low-fat-milk-provides-25-times-less-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Low fat milk provides 2.5 times less vitamin D – May 2016&quot;&gt;2.5X less&lt;/a&gt; )
 
 ##### Mistake #3: Failed to fortify for people who do not consume milk products (44% or people are lactose intolerant)
 
@@ -138,10 +138,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about `
 │   │   inner_content: `Mistake #2: Fortification independent of fat content (bioavailability of D from low-fat  milk is about `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less))`
 │   │   inner_content: `Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less`
-│   │   page: `Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less`
+│   │   page: `Low fat milk provides 2.5 times less vitamin D – May 2016`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Low fat milk provides 2.5 times less vitamin D – May 2016|2.5X less`

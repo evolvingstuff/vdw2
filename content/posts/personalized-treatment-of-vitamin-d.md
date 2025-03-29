@@ -17,33 +17,33 @@ categories:
 
 #### 23+ Personalization factors for Vitamin D treatment:
 
-1. Body size: less for youths, <a href="/posts/overview-obesity-and-vitamin-dmore-for-obese" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D|more for obese">Overview Obesity and Vitamin D|more for obese</a>
+1. Body size: less for youths, <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">more for obese</a>
 
-1. Have <a href="/posts/genetics-genes-that-reduce-vitamin-d-blood-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics| genes that reduce Vitamin D blood level">Genetics| genes that reduce Vitamin D blood level</a> (which can be measured)
+1. Have [genes that reduce Vitamin D blood level](/categories/genetics) (which can be measured)
 
-1. Have genes that restrict the amount <a href="/posts/geneticsgetting-to-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|getting to cells ">Genetics|getting to cells </a>
+1. Have genes that restrict the amount [getting to cells](/categories/genetics)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Measurement of <a href="/posts/pth-and-vitamin-d-many-studiespth-may-be-a-proxy-for-vitamin-d-level-in-cells" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells">PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells</a>
+&nbsp;&nbsp;&nbsp;&nbsp;Measurement of <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH may be a proxy for Vitamin D level in cells</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;One of the genes, that deactivates the Vitamin D Receptor, <a href="/posts/vitamin-d-receptorcan-be-activated-16-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor|can be activated 16+ ways">Vitamin D Receptor|can be activated 16+ ways</a>
+&nbsp;&nbsp;&nbsp;&nbsp;One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
 
-1. <a href="/posts/diseases-that-may-be-related-via-low-vitamin-dhave-a-disease-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D">Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D</a>
+1. <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Have a disease associated with Low Vitamin D</a>
 
 1. Have a disease that consumes a lot of Vitamin D
 
-1. Have a disease that is associated with poor Vitamin D response ( <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d-march-2020asthma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma">Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma</a>, etc.)
+1. Have a disease that is associated with poor Vitamin D response ( <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Asthma</a>, etc.)
 
-1. Have a disease that can only be fought by <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studieshigh-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D">Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D</a> (such as MS, psoriasis)
+1. Have a disease that can only be fought by <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">|high levels of Vitamin D</a> (such as MS, psoriasis)
 
 1. Have a disease that deactivates the [Vitamin D Receptor](/categories/vitamin-d-receptor) (COVID, Breast Cancer, etc)
 
 1. Have a poor gut – which decreases bio-absorption of Vitamin D (May need a gut-friendly form)
 
-1. Have had <a href="/posts/gallbladder-removal-and-vitamin-d-deficiencygallbladder" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency|gallbladder">Gallbladder removal and vitamin D deficiency|gallbladder</a> removed – which decreases absorption of fat-soluble Vitamins
+1. Have had <a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">gallbladder</a> removed – which decreases absorption of fat-soluble Vitamins
 
-1. <a href="/posts/smoking-reduces-vitamin-d-many-studiessmoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Smoking">Smoking reduces vitamin D - many studies|Smoking</a>
+1. <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking</a>
 
-1. Taking <a href="/posts/common-drugs-as-vitamin-d-disruptors-2020drugs-that-reduce-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D">Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D</a>
+1. Taking <a href="/posts/common-drugs-as-vitamin-d-disruptors-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020">drugs that reduce Vitamin D</a>
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
@@ -63,15 +63,15 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
-1. Are in a very <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studiesstressful-situation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies|stressful situation">Mental stress, physical stress associations with low vitamin D - many studies|stressful situation</a>
+1. Are in a very <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies">stressful situation</a>
 
 1. Have poor [liver](https://vitamindwiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://vitamindwiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a <span>[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]</span> (required to get Vitamin D in the intestine into the blood)
 
-1. <a href="/posts/loading-dose-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D|Loading dose">Loading Dose of Vitamin D|Loading dose</a> if signs of improvement are needed in a month instead of within a fraction of a year
+1. <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">Loading dose</a> if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: different dose size, <a href="/posts/forms-of-vitamin-ddifferent-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Forms of Vitamin D|different form">Forms of Vitamin D|different form</a>, <a href="/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp">Vitamin D from low-cost UVB lamps|UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshellcofactors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors">Vitamin D Cofactors in a nutshell|cofactors</a>, <a href="/posts/better-than-dailynon-daily-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|non-daily dose">Better than Daily|non-daily dose</a>** 
+ **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">cofactors</a>, [non-daily dose](/categories/better-than-daily)** 
 
  **<span style="color:orange;"> Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
 
@@ -86,9 +86,9 @@ categories:
 
 * More Vitamin D, 
 
-* 30% getting a different form of vitamin D ( <a href="/posts/gut-friendly-vitamin-dgut-friendly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut friendly">Gut-Friendly Vitamin D|gut friendly</a>, <a href="/posts/topical-vitamin-dtopical" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D|topical">Topical Vitamin D|topical</a>, UV, etc)
+* 30% getting a different form of vitamin D ( <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut friendly</a>, <a href="/posts/topical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D">topical</a>, UV, etc)
 
-* personalized <a href="/posts/vitamin-d-cofactors-in-a-nutshellco-factors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell|co-factors">Vitamin D Cofactors in a nutshell|co-factors</a>
+* personalized <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">co-factors</a>
 
 ---
 
@@ -632,33 +632,33 @@ Markdown:
 
 #### 23+ Personalization factors for Vitamin D treatment:
 
-1. Body size: less for youths, &lt;a href=&quot;/posts/overview-obesity-and-vitamin-dmore-for-obese&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D|more for obese&quot;&gt;Overview Obesity and Vitamin D|more for obese&lt;/a&gt;
+1. Body size: less for youths, &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;more for obese&lt;/a&gt;
 
-1. Have &lt;a href=&quot;/posts/genetics-genes-that-reduce-vitamin-d-blood-level&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics| genes that reduce Vitamin D blood level&quot;&gt;Genetics| genes that reduce Vitamin D blood level&lt;/a&gt; (which can be measured)
+1. Have [genes that reduce Vitamin D blood level](/categories/genetics) (which can be measured)
 
-1. Have genes that restrict the amount &lt;a href=&quot;/posts/geneticsgetting-to-cells&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|getting to cells &quot;&gt;Genetics|getting to cells &lt;/a&gt;
+1. Have genes that restrict the amount [getting to cells](/categories/genetics)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Measurement of &lt;a href=&quot;/posts/pth-and-vitamin-d-many-studiespth-may-be-a-proxy-for-vitamin-d-level-in-cells&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells&quot;&gt;PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Measurement of &lt;a href=&quot;/posts/pth-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: PTH and Vitamin D - many studies&quot;&gt;PTH may be a proxy for Vitamin D level in cells&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;One of the genes, that deactivates the Vitamin D Receptor, &lt;a href=&quot;/posts/vitamin-d-receptorcan-be-activated-16-ways&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Receptor|can be activated 16+ ways&quot;&gt;Vitamin D Receptor|can be activated 16+ ways&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
 
-1. &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-dhave-a-disease-associated-with-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D&quot;&gt;Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D&lt;/a&gt;
+1. &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;Have a disease associated with Low Vitamin D&lt;/a&gt;
 
 1. Have a disease that consumes a lot of Vitamin D
 
-1. Have a disease that is associated with poor Vitamin D response ( &lt;a href=&quot;/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d-march-2020asthma&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma&quot;&gt;Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma&lt;/a&gt;, etc.)
+1. Have a disease that is associated with poor Vitamin D response ( &lt;a href=&quot;/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020&quot;&gt;Asthma&lt;/a&gt;, etc.)
 
-1. Have a disease that can only be fought by &lt;a href=&quot;/posts/diseases-treated-by-high-dose-vitamin-d-many-studieshigh-levels-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D&quot;&gt;Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D&lt;/a&gt; (such as MS, psoriasis)
+1. Have a disease that can only be fought by &lt;a href=&quot;/posts/diseases-treated-by-high-dose-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies&quot;&gt;|high levels of Vitamin D&lt;/a&gt; (such as MS, psoriasis)
 
 1. Have a disease that deactivates the [Vitamin D Receptor](/categories/vitamin-d-receptor) (COVID, Breast Cancer, etc)
 
 1. Have a poor gut – which decreases bio-absorption of Vitamin D (May need a gut-friendly form)
 
-1. Have had &lt;a href=&quot;/posts/gallbladder-removal-and-vitamin-d-deficiencygallbladder&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gallbladder removal and vitamin D deficiency|gallbladder&quot;&gt;Gallbladder removal and vitamin D deficiency|gallbladder&lt;/a&gt; removed – which decreases absorption of fat-soluble Vitamins
+1. Have had &lt;a href=&quot;/posts/gallbladder-removal-and-vitamin-d-deficiency&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gallbladder removal and vitamin D deficiency&quot;&gt;gallbladder&lt;/a&gt; removed – which decreases absorption of fat-soluble Vitamins
 
-1. &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiessmoking&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Smoking&quot;&gt;Smoking reduces vitamin D - many studies|Smoking&lt;/a&gt;
+1. &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Smoking&lt;/a&gt;
 
-1. Taking &lt;a href=&quot;/posts/common-drugs-as-vitamin-d-disruptors-2020drugs-that-reduce-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D&quot;&gt;Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D&lt;/a&gt;
+1. Taking &lt;a href=&quot;/posts/common-drugs-as-vitamin-d-disruptors-2020&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020&quot;&gt;drugs that reduce Vitamin D&lt;/a&gt;
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
@@ -678,15 +678,15 @@ Markdown:
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://vitamindwiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
-1. Are in a very &lt;a href=&quot;/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studiesstressful-situation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies|stressful situation&quot;&gt;Mental stress, physical stress associations with low vitamin D - many studies|stressful situation&lt;/a&gt;
+1. Are in a very &lt;a href=&quot;/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies&quot;&gt;stressful situation&lt;/a&gt;
 
 1. Have poor [liver](https://vitamindwiki.com/Overview+Liver+and+vitamin+D) or [kidney](https://vitamindwiki.com/Overview+Kidney+and+vitamin+D) (needed to metabolize vitamin D in the bloodstream)
 
 1. Have a &lt;span&gt;[Vitamin D in the gut is slow to get to the blood - must go thru the lymph system]&lt;/span&gt; (required to get Vitamin D in the intestine into the blood)
 
-1. &lt;a href=&quot;/posts/loading-dose-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D|Loading dose&quot;&gt;Loading Dose of Vitamin D|Loading dose&lt;/a&gt; if signs of improvement are needed in a month instead of within a fraction of a year
+1. &lt;a href=&quot;/posts/loading-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D&quot;&gt;Loading dose&lt;/a&gt; if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: different dose size, &lt;a href=&quot;/posts/forms-of-vitamin-ddifferent-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Forms of Vitamin D|different form&quot;&gt;Forms of Vitamin D|different form&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lampsuv-lamp&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV lamp&quot;&gt;Vitamin D from low-cost UVB lamps|UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshellcofactors&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|cofactors&quot;&gt;Vitamin D Cofactors in a nutshell|cofactors&lt;/a&gt;, &lt;a href=&quot;/posts/better-than-dailynon-daily-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|non-daily dose&quot;&gt;Better than Daily|non-daily dose&lt;/a&gt;** 
+ **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;cofactors&lt;/a&gt;, [non-daily dose](/categories/better-than-daily)** 
 
  **&lt;span style=&quot;color:orange;&quot;&gt; Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
 
@@ -701,9 +701,9 @@ Markdown:
 
 * More Vitamin D, 
 
-* 30% getting a different form of vitamin D ( &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-friendly&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut friendly&quot;&gt;Gut-Friendly Vitamin D|gut friendly&lt;/a&gt;, &lt;a href=&quot;/posts/topical-vitamin-dtopical&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D|topical&quot;&gt;Topical Vitamin D|topical&lt;/a&gt;, UV, etc)
+* 30% getting a different form of vitamin D ( &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;gut friendly&lt;/a&gt;, &lt;a href=&quot;/posts/topical-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D&quot;&gt;topical&lt;/a&gt;, UV, etc)
 
-* personalized &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshellco-factors&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell|co-factors&quot;&gt;Vitamin D Cofactors in a nutshell|co-factors&lt;/a&gt;
+* personalized &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;co-factors&lt;/a&gt;
 
 ---
 
@@ -1269,10 +1269,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Body size: less for youths, `
 │   │   inner_content: `Body size: less for youths, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Obesity and Vitamin D|more for obese))`
 │   │   inner_content: `Overview Obesity and Vitamin D|more for obese`
-│   │   page: `Overview Obesity and Vitamin D|more for obese`
+│   │   page: `Overview Obesity and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Obesity and Vitamin D|more for obese`
@@ -1286,14 +1286,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Have `
 │   │   inner_content: `Have `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics| genes that reduce Vitamin D blood level))`
-│   │   inner_content: `Genetics| genes that reduce Vitamin D blood level`
-│   │   page: `Genetics| genes that reduce Vitamin D blood level`
+│   │   inner_content: `Genetics|genes that reduce Vitamin D blood level`
+│   │   page: `Genetics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Genetics| genes that reduce Vitamin D blood level`
-│   │   │   inner_content: `Genetics| genes that reduce Vitamin D blood level`
+│   │   │   full_match: `Genetics|genes that reduce Vitamin D blood level`
+│   │   │   inner_content: `Genetics|genes that reduce Vitamin D blood level`
 │   ├── TextNode
 │   │   full_match: ` (which can be measured)`
 │   │   inner_content: ` (which can be measured)`├── TextNode
@@ -1306,14 +1306,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Have genes that restrict the amount `
 │   │   inner_content: `Have genes that restrict the amount `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics|getting to cells ))`
-│   │   inner_content: `Genetics|getting to cells `
-│   │   page: `Genetics|getting to cells `
+│   │   inner_content: `Genetics|getting to cells`
+│   │   page: `Genetics`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Genetics|getting to cells `
-│   │   │   inner_content: `Genetics|getting to cells `├── TextNode
+│   │   │   full_match: `Genetics|getting to cells`
+│   │   │   inner_content: `Genetics|getting to cells`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IndentNode
 │   full_match: `+Measurement of ((PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells))`
@@ -1323,10 +1323,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Measurement of `
 │   │   inner_content: `Measurement of `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells))`
 │   │   inner_content: `PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells`
-│   │   page: `PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells`
+│   │   page: `PTH and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `PTH and Vitamin D - many studies|PTH may be a proxy for Vitamin D level in cells`
@@ -1340,10 +1340,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `One of the genes, that deactivates the Vitamin D Receptor, `
 │   │   inner_content: `One of the genes, that deactivates the Vitamin D Receptor, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Receptor|can be activated 16+ ways))`
 │   │   inner_content: `Vitamin D Receptor|can be activated 16+ ways`
-│   │   page: `Vitamin D Receptor|can be activated 16+ ways`
+│   │   page: `Vitamin D Receptor`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D Receptor|can be activated 16+ ways`
@@ -1354,10 +1354,10 @@ AST Structure:
 │   inner_content: `((Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D))`
 │   │   inner_content: `Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D`
-│   │   page: `Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D`
+│   │   page: `Diseases that may be related via low vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Diseases that may be related via low vitamin D|Have a disease associated with Low Vitamin D`
@@ -1380,10 +1380,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Have a disease that is associated with poor Vitamin D response ( `
 │   │   inner_content: `Have a disease that is associated with poor Vitamin D response ( `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma))`
 │   │   inner_content: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma`
-│   │   page: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma`
+│   │   page: `Those with Asthma or COPD had half the response to Vitamin D – March 2020`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Those with Asthma or COPD had half the response to Vitamin D – March 2020|Asthma`
@@ -1400,10 +1400,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Have a disease that can only be fought by `
 │   │   inner_content: `Have a disease that can only be fought by `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D))`
 │   │   inner_content: `Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D`
-│   │   page: `Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D`
+│   │   page: `Diseases treated by high-dose Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Diseases treated by high-dose Vitamin D - many studies||high levels of Vitamin D`
@@ -1449,10 +1449,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Have had `
 │   │   inner_content: `Have had `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gallbladder removal and vitamin D deficiency|gallbladder))`
 │   │   inner_content: `Gallbladder removal and vitamin D deficiency|gallbladder`
-│   │   page: `Gallbladder removal and vitamin D deficiency|gallbladder`
+│   │   page: `Gallbladder removal and vitamin D deficiency`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gallbladder removal and vitamin D deficiency|gallbladder`
@@ -1466,10 +1466,10 @@ AST Structure:
 │   inner_content: `((Smoking reduces vitamin D - many studies|Smoking))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Smoking reduces vitamin D - many studies|Smoking))`
 │   │   inner_content: `Smoking reduces vitamin D - many studies|Smoking`
-│   │   page: `Smoking reduces vitamin D - many studies|Smoking`
+│   │   page: `Smoking reduces vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Smoking reduces vitamin D - many studies|Smoking`
@@ -1483,10 +1483,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Taking `
 │   │   inner_content: `Taking `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D))`
 │   │   inner_content: `Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D`
-│   │   page: `Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D`
+│   │   page: `Common drugs as vitamin D disruptors – 2020`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Common drugs as vitamin D disruptors – 2020|drugs that reduce Vitamin D`
@@ -1614,10 +1614,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Are in a very `
 │   │   inner_content: `Are in a very `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Mental stress, physical stress associations with low vitamin D - many studies|stressful situation))`
 │   │   inner_content: `Mental stress, physical stress associations with low vitamin D - many studies|stressful situation`
-│   │   page: `Mental stress, physical stress associations with low vitamin D - many studies|stressful situation`
+│   │   page: `Mental stress, physical stress associations with low vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Mental stress, physical stress associations with low vitamin D - many studies|stressful situation`
@@ -1679,10 +1679,10 @@ AST Structure:
 │   inner_content: `((Loading Dose of Vitamin D|Loading dose)) if signs of improvement are needed in a month instead of within a fraction of a year`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Loading Dose of Vitamin D|Loading dose))`
 │   │   inner_content: `Loading Dose of Vitamin D|Loading dose`
-│   │   page: `Loading Dose of Vitamin D|Loading dose`
+│   │   page: `Loading Dose of Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Loading Dose of Vitamin D|Loading dose`
@@ -1704,10 +1704,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `different dose size, `
 │   │   inner_content: `different dose size, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Forms of Vitamin D|different form))`
 │   │   inner_content: `Forms of Vitamin D|different form`
-│   │   page: `Forms of Vitamin D|different form`
+│   │   page: `Forms of Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Forms of Vitamin D|different form`
@@ -1715,10 +1715,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D from low-cost UVB lamps|UV lamp))`
 │   │   inner_content: `Vitamin D from low-cost UVB lamps|UV lamp`
-│   │   page: `Vitamin D from low-cost UVB lamps|UV lamp`
+│   │   page: `Vitamin D from low-cost UVB lamps`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D from low-cost UVB lamps|UV lamp`
@@ -1726,10 +1726,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Cofactors in a nutshell|cofactors))`
 │   │   inner_content: `Vitamin D Cofactors in a nutshell|cofactors`
-│   │   page: `Vitamin D Cofactors in a nutshell|cofactors`
+│   │   page: `Vitamin D Cofactors in a nutshell`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D Cofactors in a nutshell|cofactors`
@@ -1737,10 +1737,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Better than Daily|non-daily dose))`
 │   │   inner_content: `Better than Daily|non-daily dose`
-│   │   page: `Better than Daily|non-daily dose`
+│   │   page: `Better than Daily`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Better than Daily|non-daily dose`
@@ -1909,10 +1909,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `30% getting a different form of vitamin D ( `
 │   │   │   inner_content: `30% getting a different form of vitamin D ( `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Gut-Friendly Vitamin D|gut friendly))`
 │   │   │   inner_content: `Gut-Friendly Vitamin D|gut friendly`
-│   │   │   page: `Gut-Friendly Vitamin D|gut friendly`
+│   │   │   page: `Gut-Friendly Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Gut-Friendly Vitamin D|gut friendly`
@@ -1920,10 +1920,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `, `
 │   │   │   inner_content: `, `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Topical Vitamin D|topical))`
 │   │   │   inner_content: `Topical Vitamin D|topical`
-│   │   │   page: `Topical Vitamin D|topical`
+│   │   │   page: `Topical Vitamin D`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Topical Vitamin D|topical`
@@ -1942,10 +1942,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `personalized `
 │   │   │   inner_content: `personalized `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Vitamin D Cofactors in a nutshell|co-factors))`
 │   │   │   inner_content: `Vitamin D Cofactors in a nutshell|co-factors`
-│   │   │   page: `Vitamin D Cofactors in a nutshell|co-factors`
+│   │   │   page: `Vitamin D Cofactors in a nutshell`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Vitamin D Cofactors in a nutshell|co-factors`

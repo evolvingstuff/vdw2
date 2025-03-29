@@ -38,7 +38,7 @@ categories:
 
 ---
 
-#### VitaminDWiki – <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-50000-iu--wo-weeks-fights" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:">One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:</a>
+#### VitaminDWiki – <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">1 50,000 IU capsule pill every two weeks fights:</a>
 
 ---
 
@@ -78,7 +78,7 @@ Markdown:
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-50000-iu--wo-weeks-fights&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;1 50,000 IU capsule pill every two weeks fights:&lt;/a&gt;
 
 ---
 
@@ -422,10 +422,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:))`
 │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:`
-│   │   page: `One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|1 50,000 IU capsule pill every two weeks fights:`

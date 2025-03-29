@@ -32,7 +32,7 @@ Improving sports performance
 
 Improving the Vitamin D Receptor
 
- **<a href="/posts/ways-to-improve-healthvitamin-d-is-the-3rd-most-important-contributor-to-health-exercise-is-the-2nd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd">Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd</a>** 
+ **<a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd</a>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
 
@@ -110,7 +110,7 @@ Improving sports performance
 
 Improving the Vitamin D Receptor
 
- **&lt;a href=&quot;/posts/ways-to-improve-healthvitamin-d-is-the-3rd-most-important-contributor-to-health-exercise-is-the-2nd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd&quot;&gt;Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd&lt;/a&gt;** 
+ **&lt;a href=&quot;/posts/ways-to-improve-health&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ways to improve health&quot;&gt;Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd&lt;/a&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt; 
 
@@ -202,10 +202,10 @@ AST Structure:
 │   full_match: `__((Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd))__`
 │   inner_content: `((Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd))`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd))`
 │   │   inner_content: `Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd`
-│   │   page: `Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd`
+│   │   page: `Ways to improve health`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Ways to improve health|Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd`

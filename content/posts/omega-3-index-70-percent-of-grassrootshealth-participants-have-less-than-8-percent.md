@@ -29,7 +29,7 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&qid=1703510253&sprefix=omega-3%2Bemu%2Caps%2C177&sr=8-21&th=1), for example, costs $0.86/day
 
-1. Having a diet with excessive <a href="/posts/omega-6-blocks-omega-3-etc-many-studiesomega-6-which-blocks-omega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3">Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3</a>
+1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Omega-6 oils to avoid: Corn, Saflower, Sunflower
 
@@ -37,7 +37,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-dbard-omega-3-and-fats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats">Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats</a>
+#### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">BARD: Omega-3 and fats</a>
 
  
 
@@ -71,7 +71,7 @@ To maximize the bioavailability of Omega-3s, it's generally recommended to consu
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems">Vitamin D and Omega-3|Omega-3 helps many health problems</a>
+#### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
  
 
@@ -120,7 +120,7 @@ Markdown:
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&amp;keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&amp;qid=1703510253&amp;sprefix=omega-3%2Bemu%2Caps%2C177&amp;sr=8-21&amp;th=1), for example, costs $0.86/day
 
-1. Having a diet with excessive &lt;a href=&quot;/posts/omega-6-blocks-omega-3-etc-many-studiesomega-6-which-blocks-omega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3&quot;&gt;Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3&lt;/a&gt;
+1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Omega-6 oils to avoid: Corn, Saflower, Sunflower
 
@@ -128,7 +128,7 @@ Markdown:
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-dbard-omega-3-and-fats&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;BARD: Omega-3 and fats&lt;/a&gt;
 
  
 
@@ -162,7 +162,7 @@ To maximize the bioavailability of Omega-3s, it&#39;s generally recommended to c
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems&quot;&gt;Vitamin D and Omega-3|Omega-3 helps many health problems&lt;/a&gt;
+#### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
  
 
@@ -310,10 +310,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Having a diet with excessive `
 │   │   │   inner_content: `Having a diet with excessive `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3))`
 │   │   │   inner_content: `Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3`
-│   │   │   page: `Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3`
+│   │   │   page: `Omega-6 blocks Omega-3 etc. -many studies`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Omega-6 blocks Omega-3 etc. -many studies|Omega-6, which blocks Omega-3`
@@ -349,10 +349,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats))`
 │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats`
-│   │   page: `Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats`
+│   │   page: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D|BARD: Omega-3 and fats`
@@ -532,10 +532,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D and Omega-3|Omega-3 helps many health problems))`
 │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`
-│   │   page: `Vitamin D and Omega-3|Omega-3 helps many health problems`
+│   │   page: `Vitamin D and Omega-3`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`

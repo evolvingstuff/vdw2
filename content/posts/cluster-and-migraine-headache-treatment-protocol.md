@@ -181,7 +181,7 @@ If you have any comments or questions about this Quick Start Guide, please shoot
 
 ---
 
-#### VitaminDWiki - <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need-using-this-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems ">One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems </a>:**       
+#### VitaminDWiki - <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">Using this protocol will probably also reduce the risk of many 56+ other health problems</a>:**       
 
 ---
 
@@ -211,7 +211,7 @@ If you have any comments or questions about this Quick Start Guide, please shoot
 
 ---
 
- **40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems">Is 50 ng of vitamin D too high, just right, or not enough|treat health problems</a>** 
+ **40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">treat health problems</a>** 
 
 ---
 
@@ -403,7 +403,7 @@ If you have any comments or questions about this Quick Start Guide, please shoot
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need-using-this-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems &quot;&gt;One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems &lt;/a&gt;:**       
+#### VitaminDWiki - &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;Using this protocol will probably also reduce the risk of many 56+ other health problems&lt;/a&gt;:**       
 
 ---
 
@@ -433,7 +433,7 @@ If you have any comments or questions about this Quick Start Guide, please shoot
 
 ---
 
- **40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&lt;/a&gt;** 
+ **40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;treat health problems&lt;/a&gt;** 
 
 ---
 
@@ -1623,14 +1623,14 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `VitaminDWiki - `
 │   │   │   inner_content: `VitaminDWiki - `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems ))`
-│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems `
-│   │   │   page: `One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems `
+│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Using this protocol will probably also reduce the risk of many 56+ other health problems`
+│   │   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   │   children:
 │   │   │   ├── TextNode
-│   │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems `
-│   │   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need| Using this protocol will probably also reduce the risk of many 56+ other health problems `
+│   │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|Using this protocol will probably also reduce the risk of many 56+ other health problems`
+│   │   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Using this protocol will probably also reduce the risk of many 56+ other health problems`
 │   │   ├── TextNode
 │   │   │   full_match: `:`
 │   │   │   inner_content: `:`├── TextNode
@@ -1818,10 +1818,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `40-150 ng of Vitamin D need to `
 │   │   inner_content: `40-150 ng of Vitamin D need to `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
 │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
-│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`

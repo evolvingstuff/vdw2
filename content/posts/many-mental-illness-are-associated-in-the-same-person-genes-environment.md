@@ -83,7 +83,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar">Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar</a>
+#### VitaminDWiki - <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D">Bipolar</a>
 
 ---
 
@@ -170,7 +170,7 @@ Markdown:
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar&quot;&gt;Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D&quot;&gt;Bipolar&lt;/a&gt;
 
 ---
 
@@ -399,10 +399,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar))`
 │   │   inner_content: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar`
-│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar`
+│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar`

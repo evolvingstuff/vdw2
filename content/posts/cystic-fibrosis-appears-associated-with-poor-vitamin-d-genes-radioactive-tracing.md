@@ -92,7 +92,7 @@ Acknowledgements" We thank the participants of the CLEAR-CF and SKS studies for 
 
 ---
 
-#### Any of 4 poor <a href="/posts/geneticsgenes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|genes">Genetics|genes</a> (marked with  <span style="color:orange;">red star</span>) can cause the altered Vitami D metabolism seen in this study
+#### Any of 4 poor [genes](/categories/genetics) (marked with  <span style="color:orange;">red star</span>) can cause the altered Vitami D metabolism seen in this study
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 
@@ -184,7 +184,7 @@ Acknowledgements&quot; We thank the participants of the CLEAR-CF and SKS studies
 
 ---
 
-#### Any of 4 poor &lt;a href=&quot;/posts/geneticsgenes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|genes&quot;&gt;Genetics|genes&lt;/a&gt; (marked with  &lt;span style=&quot;color:orange;&quot;&gt;red star&lt;/span&gt;) can cause the altered Vitami D metabolism seen in this study
+#### Any of 4 poor [genes](/categories/genetics) (marked with  &lt;span style=&quot;color:orange;&quot;&gt;red star&lt;/span&gt;) can cause the altered Vitami D metabolism seen in this study
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;350&quot;&gt;
 
@@ -664,10 +664,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Any of 4 poor `
 │   │   inner_content: `Any of 4 poor `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics|genes))`
 │   │   inner_content: `Genetics|genes`
-│   │   page: `Genetics|genes`
+│   │   page: `Genetics`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Genetics|genes`

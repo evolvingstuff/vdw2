@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Test Page</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742665986">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742665986">
+    <link rel="stylesheet" href="/css/main.css?v=1743272143">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743272143">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1742665986"></script>
+    <script src="/js/search.js?v=1743272143"></script>
 </head>
 <body>
     <div class="container">
@@ -302,7 +302,7 @@
             
     <article>
         <h1>Test Page</h1>
-        <time>March 22, 2025</time>
+        <time>March 29, 2025</time>
         <h4 id="vitamindwiki--our-world-in-data---vitamin-d-deficiency-map---2023postsour-world-in-data-vitamin-d-deficiency-map-2023">VitaminDWiki – <a href="/posts/our-world-in-data-vitamin-d-deficiency-map-2023">Our World in Data - Vitamin D deficiency map - 2023</a></h4>
 <p><a href="/posts/this-page-does-not-exist" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: This page does not exist">This page does not exist</a></p>
 <p><a href="/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies">Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies</a></p>
@@ -318,6 +318,9 @@
 <p><a href="https://doi.org/10.1007/s11912-023-01476-4">doi: 10.1007/s11912-023-01476-4</a></p>
 <p><a href="/posts/nope">goes to 404</a></p>
 <!-- {maketoc Title=""} -->
+<ul>
+<li>See also <a href="/posts/cluster-and-migraine-headache-treatment-protocol">Magnesium and headaches</a></li>
+</ul>
 <hr>
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -353,6 +356,8 @@ Reference? &lt;sup&gt;[3]&lt;/sup&gt;
 [goes to 404](/posts/nope)
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 ---
 
@@ -514,7 +519,24 @@ AST Structure:
 │   │   inner_content: ``
 │   │   attrs_dict:
 │   │   │   raw_content:  Title=&quot;&quot;
-│   │   │   Title: ├── HorizontalRuleNode
+│   │   │   Title: ├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `** See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   inner_content: ` See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: ` See also `
+│   │   inner_content: ` See also `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
+│   │   page: `Cluster and Migraine headache treatment protocol - Sept 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
+│   │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`
 
@@ -547,6 +569,8 @@ doi: 10.1007/s11912-023-01476-4
 [/posts/nope|goes to 404]
 
 {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+
+** See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))
 ---
 
 </code>
@@ -557,7 +581,7 @@ doi: 10.1007/s11912-023-01476-4
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742665986"></script>
+    <script src="/js/lightspa.js?v=1743272143"></script>
     <script>
         
         const spa = new LightSPA({
@@ -567,8 +591,8 @@ doi: 10.1007/s11912-023-01476-4
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1742665986',
-            indexUrl: '\/search\/search_index.json.gz?v=1742665986'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743272143',
+            indexUrl: '\/search\/search_index.json.gz?v=1743272143'
         });
     </script>
 </body>

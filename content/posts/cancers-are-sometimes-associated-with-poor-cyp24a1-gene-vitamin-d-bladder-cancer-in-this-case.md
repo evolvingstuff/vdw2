@@ -29,7 +29,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 ---
 
-#### VitaminDWiki – <a href="/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene">CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene</a>
+#### VitaminDWiki – <a href="/posts/cyp24a1-enzyme-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies">Cancers might alter CYP24A1 gene</a>
 
 | | |
 | --- | --- |
@@ -39,7 +39,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
-<img src="/attachments/d3.mock.jpg" alt="image" width="400"> <a href="/posts/geneticsclick-here-for-more-information" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|Click here for more information">Genetics|Click here for more information</a>
+<img src="/attachments/d3.mock.jpg" alt="image" width="400"> [Click here for more information](/categories/genetics)
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
@@ -68,7 +68,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&quot;&gt;CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-enzyme-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies&quot;&gt;Cancers might alter CYP24A1 gene&lt;/a&gt;
 
 | | |
 | --- | --- |
@@ -78,7 +78,7 @@ In conclusion, our findings highlight the potential role of CYP24A1 variants in 
 
 Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting to cells
 
-&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; &lt;a href=&quot;/posts/geneticsclick-here-for-more-information&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|Click here for more information&quot;&gt;Genetics|Click here for more information&lt;/a&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; [Click here for more information](/categories/genetics)
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
@@ -137,10 +137,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene))`
 │   │   inner_content: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
-│   │   page: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
+│   │   page: `CYP24A1 enzyme and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
@@ -226,10 +226,10 @@ AST Structure:
 │   │   width: 400
 │   │   link: Genetics├── TextNode
 │   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
+│   inner_content: ` `├── AliasedLocalLinkNode
 │   full_match: `((Genetics|Click here for more information))`
 │   inner_content: `Genetics|Click here for more information`
-│   page: `Genetics|Click here for more information`
+│   page: `Genetics`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Genetics|Click here for more information`

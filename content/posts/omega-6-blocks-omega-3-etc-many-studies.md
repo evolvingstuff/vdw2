@@ -211,7 +211,7 @@ While there are other problematic components in the standard American diet, the 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems">Vitamin D and Omega-3|Omega-3 helps many health problems</a>
+#### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
  
 
@@ -427,7 +427,7 @@ While there are other problematic components in the standard American diet, the 
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-and-omega-3omega-3-helps-many-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D and Omega-3|Omega-3 helps many health problems&quot;&gt;Vitamin D and Omega-3|Omega-3 helps many health problems&lt;/a&gt;
+#### VitaminDWiki - [Omega-3 helps many health problems](/categories/vitamin-d-and-omega-3)
 
  
 
@@ -1199,10 +1199,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D and Omega-3|Omega-3 helps many health problems))`
 │   │   inner_content: `Vitamin D and Omega-3|Omega-3 helps many health problems`
-│   │   page: `Vitamin D and Omega-3|Omega-3 helps many health problems`
+│   │   page: `Vitamin D and Omega-3`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D and Omega-3|Omega-3 helps many health problems`

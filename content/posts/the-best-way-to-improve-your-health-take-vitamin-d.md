@@ -12,9 +12,9 @@ date: 2023-02-03
 
 [13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://vitamindwiki.com/Can+get+50%2C000+IU+Vitamin+D+anywhere+on+the+globe#VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
 
- **As safe as <a href="/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript-feb-1-2023cabbage" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage">Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage</a>** 
+ **As safe as [cabbage](/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript)** 
 
- **Proven to prevent / treat<a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need56-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|56+ health problems">One pill every two weeks gives you all the vitamin D most adults need|56+ health problems</a>** 
+ **Proven to prevent / treat<a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">56+ health problems</a>** 
 
  **More publications than any other supplement** 
 
@@ -42,9 +42,9 @@ Markdown:
 
 [13 Amazon suppliers sell 50,000 IU capsules  for weekly use](https://vitamindwiki.com/Can+get+50%2C000+IU+Vitamin+D+anywhere+on+the+globe#VitaminDWiki_-_13_companies_suggest_50_000_IU_capsules_weekly)
 
- **As safe as &lt;a href=&quot;/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript-feb-1-2023cabbage&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage&quot;&gt;Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage&lt;/a&gt;** 
+ **As safe as [cabbage](/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript)** 
 
- **Proven to prevent / treat&lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need56-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|56+ health problems&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need|56+ health problems&lt;/a&gt;** 
+ **Proven to prevent / treat&lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;56+ health problems&lt;/a&gt;** 
 
  **More publications than any other supplement** 
 
@@ -104,10 +104,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `As safe as `
 │   │   │   inner_content: `As safe as `
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage))`
 │   │   │   inner_content: `Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage`
-│   │   │   page: `Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage`
+│   │   │   page: `Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023|cabbage`
@@ -127,10 +127,10 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `Proven to prevent / treat`
 │   │   │   inner_content: `Proven to prevent / treat`
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|56+ health problems))`
 │   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|56+ health problems`
-│   │   │   page: `One pill every two weeks gives you all the vitamin D most adults need|56+ health problems`
+│   │   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|56+ health problems`
@@ -181,10 +181,10 @@ AST Structure:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `5 `
 │   │   │   │   inner_content: `5 `
-│   │   │   ├── LocalLinkNode
+│   │   │   ├── AliasedLocalLinkNode
 │   │   │   │   full_match: `((Conference|annual conferences))`
 │   │   │   │   inner_content: `Conference|annual conferences`
-│   │   │   │   page: `Conference|annual conferences`
+│   │   │   │   page: `Conference`
 │   │   │   │   children:
 │   │   │   │   ├── TextNode
 │   │   │   │   │   full_match: `Conference|annual conferences`

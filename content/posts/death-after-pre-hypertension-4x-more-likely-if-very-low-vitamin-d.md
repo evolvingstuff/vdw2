@@ -66,7 +66,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – <a href="/posts/smoking-reduces-vitamin-d-many-studiessmoking-reduces-vitamin-d-77-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies">Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies</a>
+#### VitaminDWiki – <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces Vitamin D - 77+ studies</a>
 
  **If you must smoke, you must also take Vitamin D - even just once a month** 
 
@@ -132,7 +132,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiessmoking-reduces-vitamin-d-77-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies&quot;&gt;Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Smoking reduces Vitamin D - 77+ studies&lt;/a&gt;
 
  **If you must smoke, you must also take Vitamin D - even just once a month** 
 
@@ -404,10 +404,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies))`
 │   │   inner_content: `Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies`
-│   │   page: `Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies`
+│   │   page: `Smoking reduces vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Smoking reduces vitamin D - many studies|Smoking reduces Vitamin D - 77+ studies`

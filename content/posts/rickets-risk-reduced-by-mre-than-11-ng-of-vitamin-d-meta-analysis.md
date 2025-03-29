@@ -38,7 +38,7 @@ Conclusion: This systematic review and IPD meta-analysis suggests that from a pu
 
 ---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct-to-stop-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets">Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets</a>
+#### VitaminDWiki – <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021">30 ng of Vitamin D needed to stop rickets</a>
 
 ---
 
@@ -90,7 +90,7 @@ Conclusion: This systematic review and IPD meta-analysis suggests that from a pu
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct-to-stop-rickets&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets&quot;&gt;Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021&quot;&gt;30 ng of Vitamin D needed to stop rickets&lt;/a&gt;
 
 ---
 
@@ -205,10 +205,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets))`
 │   │   inner_content: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets`
-│   │   page: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets`
+│   │   page: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|30 ng of Vitamin D needed to stop rickets`

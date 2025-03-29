@@ -73,7 +73,7 @@ https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
 
 "It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people <sup>[11]</sup>. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease "
 
- **Solution: Use a <a href="/posts/gut-friendly-vitamin-dgut-friendly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly">Gut-Friendly Vitamin D|gut-friendly</a> form of Vitamin D** 
+ **Solution: Use a <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut-friendly</a> form of Vitamin D** 
 
 ---
 
@@ -159,7 +159,7 @@ https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
 
 &quot;It was found that people with asthma are three times more likely to have gastroesophageal reflux than healthy people &lt;sup&gt;[11]&lt;/sup&gt;. Additionally, it could be shown that the risk of asthma in subjects with IBS is twice the risk in persons without the disease &quot;
 
- **Solution: Use a &lt;a href=&quot;/posts/gut-friendly-vitamin-dgut-friendly&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|gut-friendly&quot;&gt;Gut-Friendly Vitamin D|gut-friendly&lt;/a&gt; form of Vitamin D** 
+ **Solution: Use a &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;gut-friendly&lt;/a&gt; form of Vitamin D** 
 
 ---
 
@@ -363,10 +363,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Solution: Use a `
 │   │   inner_content: `Solution: Use a `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gut-Friendly Vitamin D|gut-friendly))`
 │   │   inner_content: `Gut-Friendly Vitamin D|gut-friendly`
-│   │   page: `Gut-Friendly Vitamin D|gut-friendly`
+│   │   page: `Gut-Friendly Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gut-Friendly Vitamin D|gut-friendly`

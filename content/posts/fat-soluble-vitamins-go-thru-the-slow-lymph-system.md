@@ -102,7 +102,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 #### Vitamin D from the skin enters the blood quickly, bypassing the lymphatic system
 
- **Skin sources of Vitamin D:<a href="/posts/noontime-sun-and-dsun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Noontime sun and D|Sun">Noontime sun and D|Sun</a>, <a href="/posts/vitamin-d-from-low-cost-uvb-lampsuv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV">Vitamin D from low-cost UVB lamps|UV</a>, <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studiestopical" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies|topical">Topical Vitamin D provides more benefits than oral sometimes - many studies|topical</a>, <a href="/posts/sublingual-vitamin-dsublingual" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D|sublingual">Sublingual vitamin D|sublingual</a>** 
+ **Skin sources of Vitamin D:[Sun](/categories/noontime-sun-and-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV</a>, <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">topical</a>, <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual</a>** 
 
 ---
 
@@ -214,7 +214,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 #### Vitamin D from the skin enters the blood quickly, bypassing the lymphatic system
 
- **Skin sources of Vitamin D:&lt;a href=&quot;/posts/noontime-sun-and-dsun&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Noontime sun and D|Sun&quot;&gt;Noontime sun and D|Sun&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lampsuv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps|UV&quot;&gt;Vitamin D from low-cost UVB lamps|UV&lt;/a&gt;, &lt;a href=&quot;/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studiestopical&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies|topical&quot;&gt;Topical Vitamin D provides more benefits than oral sometimes - many studies|topical&lt;/a&gt;, &lt;a href=&quot;/posts/sublingual-vitamin-dsublingual&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sublingual vitamin D|sublingual&quot;&gt;Sublingual vitamin D|sublingual&lt;/a&gt;** 
+ **Skin sources of Vitamin D:[Sun](/categories/noontime-sun-and-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV&lt;/a&gt;, &lt;a href=&quot;/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies&quot;&gt;topical&lt;/a&gt;, &lt;a href=&quot;/posts/sublingual-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sublingual vitamin D&quot;&gt;sublingual&lt;/a&gt;** 
 
 ---
 
@@ -570,10 +570,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Skin sources of Vitamin D:`
 │   │   inner_content: `Skin sources of Vitamin D:`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Noontime sun and D|Sun))`
 │   │   inner_content: `Noontime sun and D|Sun`
-│   │   page: `Noontime sun and D|Sun`
+│   │   page: `Noontime sun and D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Noontime sun and D|Sun`
@@ -581,10 +581,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D from low-cost UVB lamps|UV))`
 │   │   inner_content: `Vitamin D from low-cost UVB lamps|UV`
-│   │   page: `Vitamin D from low-cost UVB lamps|UV`
+│   │   page: `Vitamin D from low-cost UVB lamps`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D from low-cost UVB lamps|UV`
@@ -592,10 +592,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Topical Vitamin D provides more benefits than oral sometimes - many studies|topical))`
 │   │   inner_content: `Topical Vitamin D provides more benefits than oral sometimes - many studies|topical`
-│   │   page: `Topical Vitamin D provides more benefits than oral sometimes - many studies|topical`
+│   │   page: `Topical Vitamin D provides more benefits than oral sometimes - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Topical Vitamin D provides more benefits than oral sometimes - many studies|topical`
@@ -603,10 +603,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `, `
 │   │   inner_content: `, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Sublingual vitamin D|sublingual))`
 │   │   inner_content: `Sublingual vitamin D|sublingual`
-│   │   page: `Sublingual vitamin D|sublingual`
+│   │   page: `Sublingual vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Sublingual vitamin D|sublingual`

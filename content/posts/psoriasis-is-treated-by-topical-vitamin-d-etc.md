@@ -178,7 +178,7 @@ My wife also uses it for skin problems - but washes it off after about 10 minute
 
 ---
 
-#### Renu Mahtani on <a href="/posts/wonders-of-vitamin-d-renu-mahtani-video-and-transcription-feb-2022oral-treatment--with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D">Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D</a>
+#### Renu Mahtani on <a href="/posts/wonders-of-vitamin-d-renu-mahtani-video-and-transcription" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022">oral treatment of Psorasis with Vitamin D</a>
 
 ---
 
@@ -362,7 +362,7 @@ My wife also uses it for skin problems - but washes it off after about 10 minute
 
 ---
 
-#### Renu Mahtani on &lt;a href=&quot;/posts/wonders-of-vitamin-d-renu-mahtani-video-and-transcription-feb-2022oral-treatment--with-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D&quot;&gt;Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D&lt;/a&gt;
+#### Renu Mahtani on &lt;a href=&quot;/posts/wonders-of-vitamin-d-renu-mahtani-video-and-transcription&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022&quot;&gt;oral treatment of Psorasis with Vitamin D&lt;/a&gt;
 
 ---
 
@@ -1277,10 +1277,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Renu Mahtani on `
 │   │   inner_content: `Renu Mahtani on `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D))`
 │   │   inner_content: `Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D`
-│   │   page: `Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D`
+│   │   page: `Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Wonders of Vitamin D - Renu Mahtani video and transcription - Feb 2022|oral treatment of Psorasis with Vitamin D`

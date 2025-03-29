@@ -86,11 +86,11 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-pill-ever-f-the-following" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following">One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following</a>
+#### VitaminDWiki – <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">1 pill every two weeks fights all of the following</a>
 
 ---
 
-#### VitaminDWiki –<a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need-health-pro-50000-iu-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:">One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:</a>
+#### VitaminDWiki –<a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">Health problems fought by 50,000 IU weekly:</a>
 
 <!-- ~tc~ (alias(Vitamin D survey in Scotland– March 2024)) ~/tc~ -->
 
@@ -175,11 +175,11 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-pill-ever-f-the-following&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;1 pill every two weeks fights all of the following&lt;/a&gt;
 
 ---
 
-#### VitaminDWiki –&lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need-health-pro-50000-iu-weekly&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:&lt;/a&gt;
+#### VitaminDWiki –&lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;Health problems fought by 50,000 IU weekly:&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Vitamin D survey in Scotland– March 2024)) ~/tc~ --&gt;
 
@@ -443,10 +443,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following))`
 │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following`
-│   │   page: `One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|1 pill every two weeks fights all of the following`
@@ -473,14 +473,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki –`
 │   │   inner_content: `VitaminDWiki –`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:))`
-│   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:`
-│   │   page: `One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:`
+│   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Health problems fought by 50,000 IU weekly:`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:`
-│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need| Health problems fought by 50,000 IU weekly:`├── TextNode
+│   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|Health problems fought by 50,000 IU weekly:`
+│   │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|Health problems fought by 50,000 IU weekly:`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;One pill every two weeks gives you all the vitamin D most adults need&quot; start=&quot;~tc~ startw ~/tc~&quot; stop=&quot;~tc~ endw ~/tc~&quot;}`

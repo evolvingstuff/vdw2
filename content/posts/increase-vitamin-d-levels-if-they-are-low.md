@@ -47,13 +47,13 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 
 * <a href="/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024">Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024</a>
 
-* <a href="/posts/overview-loading-of-vitamin-drestore-in-just-days-not-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|Restore in just days, not months">Overview Loading of vitamin D|Restore in just days, not months</a>
+* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Restore in just days, not months</a>
 
 ---
 
 #### 6 times to 55 times more likely to get the following health problems if Vitamin D deficient
 
-<a href="/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d-click-here---3x-to-55x-list" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__">3 to 55 X more likely to have these health problems if low Vitamin D | **CLICK HERE for entire  3X to 55X list** </a> for more information
+<a href="/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D">__CLICK HERE for entire  3X to 55X list__</a> for more information
 
 ---
 
@@ -61,7 +61,7 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700"> 
 
-<a href="/posts/diseases-that-may-be-related-via-low-vitamin-dclick-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D|click here for details">Diseases that may be related via low vitamin D|click here for details</a>
+<a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">click here for details</a>
 
 ---
 
@@ -113,13 +113,13 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 
 * &lt;a href=&quot;/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024&quot;&gt;Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/overview-loading-of-vitamin-drestore-in-just-days-not-months&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|Restore in just days, not months&quot;&gt;Overview Loading of vitamin D|Restore in just days, not months&lt;/a&gt;
+* &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;Restore in just days, not months&lt;/a&gt;
 
 ---
 
 #### 6 times to 55 times more likely to get the following health problems if Vitamin D deficient
 
-&lt;a href=&quot;/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d-click-here---3x-to-55x-list&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__&quot;&gt;3 to 55 X more likely to have these health problems if low Vitamin D | **CLICK HERE for entire  3X to 55X list** &lt;/a&gt; for more information
+&lt;a href=&quot;/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D&quot;&gt;__CLICK HERE for entire  3X to 55X list__&lt;/a&gt; for more information
 
 ---
 
@@ -127,7 +127,7 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt; 
 
-&lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-dclick-here-for-details&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D|click here for details&quot;&gt;Diseases that may be related via low vitamin D|click here for details&lt;/a&gt;
+&lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;click here for details&lt;/a&gt;
 
 ---
 
@@ -247,10 +247,10 @@ AST Structure:
 │   inner_content: `((Overview Loading of vitamin D|Restore in just days, not months))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Loading of vitamin D|Restore in just days, not months))`
 │   │   inner_content: `Overview Loading of vitamin D|Restore in just days, not months`
-│   │   page: `Overview Loading of vitamin D|Restore in just days, not months`
+│   │   page: `Overview Loading of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Loading of vitamin D|Restore in just days, not months`
@@ -278,14 +278,14 @@ AST Structure:
 │   │   full_match: ``
 │   │   inner_content: ``├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
+│   inner_content: `\n`├── AliasedLocalLinkNode
 │   full_match: `((3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__))`
-│   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__`
-│   page: `3 to 55 X more likely to have these health problems if low Vitamin D |__CLICK HERE for entire  3X to 55X list__`
+│   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D|__CLICK HERE for entire  3X to 55X list__`
+│   page: `3 to 55 X more likely to have these health problems if low Vitamin D`
 │   children:
 │   ├── TextNode
-│   │   full_match: `3 to 55 X more likely to have these health problems if low Vitamin D |`
-│   │   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D |`
+│   │   full_match: `3 to 55 X more likely to have these health problems if low Vitamin D|`
+│   │   inner_content: `3 to 55 X more likely to have these health problems if low Vitamin D|`
 │   ├── BoldNode
 │   │   full_match: `__CLICK HERE for entire  3X to 55X list__`
 │   │   inner_content: `CLICK HERE for entire  3X to 55X list`
@@ -313,10 +313,10 @@ AST Structure:
 │   │   fileId: 2038
 │   │   width: 700├── TextNode
 │   full_match: ` \n`
-│   inner_content: ` \n`├── LocalLinkNode
+│   inner_content: ` \n`├── AliasedLocalLinkNode
 │   full_match: `((Diseases that may be related via low vitamin D|click here for details))`
 │   inner_content: `Diseases that may be related via low vitamin D|click here for details`
-│   page: `Diseases that may be related via low vitamin D|click here for details`
+│   page: `Diseases that may be related via low vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Diseases that may be related via low vitamin D|click here for details`

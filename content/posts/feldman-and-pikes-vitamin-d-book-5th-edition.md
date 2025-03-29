@@ -137,7 +137,7 @@ categories:
 
 * 55. Vitamin D in food—Compounds, stability, sources
 
-* 56. Determinants of vitamin D levels from sun exposure: a global perspective <a href="/posts/lack-of-vitamin-d-due-to-lack-of-sun-global-perspective-grant-jan-2024invitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki">Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki</a>
+* 56. Determinants of vitamin D levels from sun exposure: a global perspective [inVitaminDWiki](/posts/lack-of-vitamin-d-due-to-lack-of-sun-global-perspective-grant)
 
 * 57. Vitamin D supplement use as a public health strategy to augment diet and sustain population adequacy
 
@@ -389,7 +389,7 @@ Markdown:
 
 * 55. Vitamin D in food—Compounds, stability, sources
 
-* 56. Determinants of vitamin D levels from sun exposure: a global perspective &lt;a href=&quot;/posts/lack-of-vitamin-d-due-to-lack-of-sun-global-perspective-grant-jan-2024invitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki&quot;&gt;Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki&lt;/a&gt;
+* 56. Determinants of vitamin D levels from sun exposure: a global perspective [inVitaminDWiki](/posts/lack-of-vitamin-d-due-to-lack-of-sun-global-perspective-grant)
 
 * 57. Vitamin D supplement use as a public health strategy to augment diet and sustain population adequacy
 
@@ -1089,10 +1089,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `56. Determinants of vitamin D levels from sun exposure: a global perspective `
 │   │   inner_content: `56. Determinants of vitamin D levels from sun exposure: a global perspective `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki))`
 │   │   inner_content: `Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki`
-│   │   page: `Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki`
+│   │   page: `Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Lack of Vitamin D due to lack of Sun, global perspective - Grant Jan 2024|inVitaminDWiki`

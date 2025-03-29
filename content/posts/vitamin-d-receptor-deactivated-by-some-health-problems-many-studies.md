@@ -16,7 +16,7 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
 &nbsp;&nbsp; In which case the cells may continue to have low vitamin D levels for months/years
 
-&nbsp;&nbsp;&nbsp;&nbsp; Suspect that is the case for <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studieslong-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies|Long-COVID">Long-COVID is now the biggest COVID concern - many studies|Long-COVID</a>
+&nbsp;&nbsp;&nbsp;&nbsp; Suspect that is the case for <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID</a>
 
 ---
 
@@ -78,7 +78,7 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
 &amp;nbsp;&amp;nbsp; In which case the cells may continue to have low vitamin D levels for months/years
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Suspect that is the case for &lt;a href=&quot;/posts/long-covid-is-now-the-biggest-covid-concern-many-studieslong-covid&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies|Long-COVID&quot;&gt;Long-COVID is now the biggest COVID concern - many studies|Long-COVID&lt;/a&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Suspect that is the case for &lt;a href=&quot;/posts/long-covid-is-now-the-biggest-covid-concern-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies&quot;&gt;Long-COVID&lt;/a&gt;
 
 ---
 
@@ -154,10 +154,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Suspect that is the case for `
 │   │   inner_content: ` Suspect that is the case for `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Long-COVID is now the biggest COVID concern - many studies|Long-COVID))`
 │   │   inner_content: `Long-COVID is now the biggest COVID concern - many studies|Long-COVID`
-│   │   page: `Long-COVID is now the biggest COVID concern - many studies|Long-COVID`
+│   │   page: `Long-COVID is now the biggest COVID concern - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Long-COVID is now the biggest COVID concern - many studies|Long-COVID`

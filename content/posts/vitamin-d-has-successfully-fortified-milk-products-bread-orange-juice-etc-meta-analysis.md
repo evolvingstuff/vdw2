@@ -397,7 +397,7 @@ P.N. Nyakundi et al. Fortification of staple foods for household use with vitami
 
 ---
 
-#### VitaminDwiki – <a href="/posts/fortification-with-vitamin-dbread-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fortification with Vitamin D|Bread Fortification">Fortification with Vitamin D|Bread Fortification</a> contains
+#### VitaminDwiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
@@ -796,7 +796,7 @@ P.N. Nyakundi et al. Fortification of staple foods for household use with vitami
 
 ---
 
-#### VitaminDwiki – &lt;a href=&quot;/posts/fortification-with-vitamin-dbread-fortification&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fortification with Vitamin D|Bread Fortification&quot;&gt;Fortification with Vitamin D|Bread Fortification&lt;/a&gt; contains
+#### VitaminDwiki – [Bread Fortification](/categories/fortification-with-vitamin-d) contains
 
 ---
 
@@ -1759,10 +1759,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDwiki – `
 │   │   inner_content: `VitaminDwiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Fortification with Vitamin D|Bread Fortification))`
 │   │   inner_content: `Fortification with Vitamin D|Bread Fortification`
-│   │   page: `Fortification with Vitamin D|Bread Fortification`
+│   │   page: `Fortification with Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Fortification with Vitamin D|Bread Fortification`

@@ -79,7 +79,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – <a href="/posts/cyp24a1-gene-and-vitamin-d-many-studies-cancers-might-alter-cyp24a1-gene" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene">CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene</a>
+#### VitaminDWiki – <a href="/posts/cyp24a1-gene-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies">Cancers might alter CYP24A1 gene</a>
 
 ---
 
@@ -166,7 +166,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-gene-and-vitamin-d-many-studies-cancers-might-alter-cyp24a1-gene&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene&quot;&gt;CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-gene-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies&quot;&gt;Cancers might alter CYP24A1 gene&lt;/a&gt;
 
 ---
 
@@ -446,14 +446,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene))`
-│   │   inner_content: `CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene`
-│   │   page: `CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene`
+│   │   inner_content: `CYP24A1 gene and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
+│   │   page: `CYP24A1 gene and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene`
-│   │   │   inner_content: `CYP24A1 gene and Vitamin D - many studies |Cancers might alter CYP24A1 gene`├── TextNode
+│   │   │   full_match: `CYP24A1 gene and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
+│   │   │   inner_content: `CYP24A1 gene and Vitamin D - many studies|Cancers might alter CYP24A1 gene`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;CYP24A1 gene and Vitamin D - many studies&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`

@@ -107,7 +107,7 @@ This study was supported by the National Natural Science Foundation of China (No
 
 ---
 
-#### VitaminDWiki – <a href="/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene">CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene</a>
+#### VitaminDWiki – <a href="/posts/cyp24a1-enzyme-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies">Cancers might alter CYP24A1 gene</a>
 
 ---
 
@@ -115,7 +115,7 @@ This study was supported by the National Natural Science Foundation of China (No
 
 ---
 
-#### VitaminDWiki – <a href="/posts/microencapsulated-vitamin-d-better-than-oil-based-in-6-ways-sept-2023nanoemulsio-gene-activation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation">Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation</a>
+#### VitaminDWiki – [Nanoemulsion improves  CYP27A1 gene activation](/posts/microencapsulated-vitamin-d-better-than-oil-based-in-6-ways)
 
 
 
@@ -218,7 +218,7 @@ This study was supported by the National Natural Science Foundation of China (No
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-enzyme-and-vitamin-d-many-studiescancers-might-alter-cyp24a1-gene&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&quot;&gt;CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/cyp24a1-enzyme-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: CYP24A1 enzyme and Vitamin D - many studies&quot;&gt;Cancers might alter CYP24A1 gene&lt;/a&gt;
 
 ---
 
@@ -226,7 +226,7 @@ This study was supported by the National Natural Science Foundation of China (No
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/microencapsulated-vitamin-d-better-than-oil-based-in-6-ways-sept-2023nanoemulsio-gene-activation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation&quot;&gt;Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation&lt;/a&gt;
+#### VitaminDWiki – [Nanoemulsion improves  CYP27A1 gene activation](/posts/microencapsulated-vitamin-d-better-than-oil-based-in-6-ways)
 
 
 
@@ -801,10 +801,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene))`
 │   │   inner_content: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
-│   │   page: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
+│   │   page: `CYP24A1 enzyme and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `CYP24A1 enzyme and Vitamin D - many studies|Cancers might alter CYP24A1 gene`
@@ -864,10 +864,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation))`
 │   │   inner_content: `Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation`
-│   │   page: `Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation`
+│   │   page: `Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Microencapsulated Vitamin D better than oil-based in 6 ways – Sept 2023|Nanoemulsion improves  CYP27A1 gene activation`

@@ -122,7 +122,7 @@ TRT is able to inhibit bone resorption and increase bone mass, particularly at t
 
 ---
 
-#### <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-et-e-been-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing</a>
+#### <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D levels have been crashing</a>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -245,7 +245,7 @@ TRT is able to inhibit bone resorption and increase bone mass, particularly at t
 
 ---
 
-#### &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-et-e-been-crashing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing&lt;/a&gt;
+#### &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D levels have been crashing&lt;/a&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -564,10 +564,10 @@ AST Structure:
 │   inner_content: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing))`
 │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing`
-│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing`
+│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing`

@@ -42,7 +42,7 @@ This list is automatically updated
 
 ---
 
-#### <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant-feb--blems-as-blacks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks">African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks</a>
+#### <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021">Whites with low Vitamin D have similar health problems as Blacks</a>
 
  **<span style="color:orange;">Low Vitamin D increases health problems - independent of skin color</span>** 
 
@@ -114,7 +114,7 @@ This list is automatically updated
 
 ---
 
-#### &lt;a href=&quot;/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant-feb--blems-as-blacks&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks&quot;&gt;African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks&lt;/a&gt;
+#### &lt;a href=&quot;/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021&quot;&gt;Whites with low Vitamin D have similar health problems as Blacks&lt;/a&gt;
 
  **&lt;span style=&quot;color:orange;&quot;&gt;Low Vitamin D increases health problems - independent of skin color&lt;/span&gt;** 
 
@@ -280,10 +280,10 @@ AST Structure:
 │   inner_content: `((African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks))`
 │   │   inner_content: `African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks`
-│   │   page: `African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks`
+│   │   page: `African American Health Disparities are associated with low Vitamin D - Grant Feb 2021`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `African American Health Disparities are associated with low Vitamin D - Grant Feb 2021|Whites with low Vitamin D have similar health problems as Blacks`

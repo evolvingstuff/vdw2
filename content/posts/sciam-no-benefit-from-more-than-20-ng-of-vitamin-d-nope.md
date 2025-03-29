@@ -20,7 +20,7 @@ categories:
 
 "...noting that the majority of the population is just fine at 16 ng/ml."
 
-"...Levels have actually risen since <sup>[2010]</sup>"  Actually, levels <a href="/posts/4-reasons-why-vitamin-d-levels-are-crashinghave-fallen" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing|have fallen">4 Reasons why Vitamin D levels are crashing|have fallen</a>
+"...Levels have actually risen since <sup>[2010]</sup>"  Actually, levels <a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing">have fallen</a>
 
 Describes the failure of 4 trials that used too little vitamin D
 
@@ -56,7 +56,7 @@ Does not mention the >700 successful Vitamin D Randomized Controled Trials (see 
 
 #### Vitamin D TREATS Health problems: 40 ng ...150 ng
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughclick-here-for-more-information" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information">Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information</a>
+* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Click here for more information</a>
 
 ---
 
@@ -114,7 +114,7 @@ Markdown:
 
 &quot;...noting that the majority of the population is just fine at 16 ng/ml.&quot;
 
-&quot;...Levels have actually risen since &lt;sup&gt;[2010]&lt;/sup&gt;&quot;  Actually, levels &lt;a href=&quot;/posts/4-reasons-why-vitamin-d-levels-are-crashinghave-fallen&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing|have fallen&quot;&gt;4 Reasons why Vitamin D levels are crashing|have fallen&lt;/a&gt;
+&quot;...Levels have actually risen since &lt;sup&gt;[2010]&lt;/sup&gt;&quot;  Actually, levels &lt;a href=&quot;/posts/4-reasons-why-vitamin-d-levels-are-crashing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing&quot;&gt;have fallen&lt;/a&gt;
 
 Describes the failure of 4 trials that used too little vitamin D
 
@@ -150,7 +150,7 @@ Does not mention the &gt;700 successful Vitamin D Randomized Controled Trials (s
 
 #### Vitamin D TREATS Health problems: 40 ng ...150 ng
 
-* &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughclick-here-for-more-information&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information&lt;/a&gt;
+* &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Click here for more information&lt;/a&gt;
 
 ---
 
@@ -231,10 +231,10 @@ AST Structure:
 │   │   full_match: `2010`
 │   │   inner_content: `2010`├── TextNode
 │   full_match: `&quot;  Actually, levels `
-│   inner_content: `&quot;  Actually, levels `├── LocalLinkNode
+│   inner_content: `&quot;  Actually, levels `├── AliasedLocalLinkNode
 │   full_match: `((4 Reasons why Vitamin D levels are crashing|have fallen))`
 │   inner_content: `4 Reasons why Vitamin D levels are crashing|have fallen`
-│   page: `4 Reasons why Vitamin D levels are crashing|have fallen`
+│   page: `4 Reasons why Vitamin D levels are crashing`
 │   children:
 │   ├── TextNode
 │   │   full_match: `4 Reasons why Vitamin D levels are crashing|have fallen`
@@ -392,10 +392,10 @@ AST Structure:
 │   inner_content: `((Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information))`
 │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information`
-│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|Click here for more information`

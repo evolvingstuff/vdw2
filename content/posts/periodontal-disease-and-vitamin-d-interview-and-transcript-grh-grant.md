@@ -179,7 +179,7 @@ www.grassrootshealth.net
 
 ---
 
-##### The recent <a href="/posts/dental-problems-if-low-vitamin-d-hills-global-rec-grant-june-2023study-by-the-two-interviewees" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dental problems if low Vitamin D (Hill's, Global Rec.) - Grant June 2023|study by the two interviewees">Dental problems if low Vitamin D (Hill's, Global Rec.) - Grant June 2023|study by the two interviewees</a>
+##### The recent [study by the two interviewees](/posts/dental-problems-if-low-vitamin-d-hills-global-rec-grant)
 
  **More D less PD** 
 
@@ -458,7 +458,7 @@ www.grassrootshealth.net
 
 ---
 
-##### The recent &lt;a href=&quot;/posts/dental-problems-if-low-vitamin-d-hills-global-rec-grant-june-2023study-by-the-two-interviewees&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees&quot;&gt;Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees&lt;/a&gt;
+##### The recent [study by the two interviewees](/posts/dental-problems-if-low-vitamin-d-hills-global-rec-grant)
 
  **More D less PD** 
 
@@ -1215,10 +1215,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `The recent `
 │   │   inner_content: `The recent `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees))`
 │   │   inner_content: `Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees`
-│   │   page: `Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees`
+│   │   page: `Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Dental problems if low Vitamin D (Hill&#39;s, Global Rec.) - Grant June 2023|study by the two interviewees`

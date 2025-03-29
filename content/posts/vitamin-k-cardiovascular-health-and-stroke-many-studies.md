@@ -62,7 +62,7 @@ Cardiovascular disease is the leading cause of death and disability worldwide. R
 
 ---
 
-#### VitaminDWiki – <a href="/posts/overview-vitamin-k-and-vitamin-doverview-vitamin-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D|Overview Vitamin K">Overview Vitamin K and Vitamin D|Overview Vitamin K</a> contains
+#### VitaminDWiki – <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K</a> contains
 
 ---
 
@@ -157,7 +157,7 @@ Cardiovascular disease is the leading cause of death and disability worldwide. R
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/overview-vitamin-k-and-vitamin-doverview-vitamin-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Vitamin K and Vitamin D|Overview Vitamin K&quot;&gt;Overview Vitamin K and Vitamin D|Overview Vitamin K&lt;/a&gt; contains
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-vitamin-k-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Vitamin K and Vitamin D&quot;&gt;Overview Vitamin K&lt;/a&gt; contains
 
 ---
 
@@ -349,10 +349,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Vitamin K and Vitamin D|Overview Vitamin K))`
 │   │   inner_content: `Overview Vitamin K and Vitamin D|Overview Vitamin K`
-│   │   page: `Overview Vitamin K and Vitamin D|Overview Vitamin K`
+│   │   page: `Overview Vitamin K and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Vitamin K and Vitamin D|Overview Vitamin K`

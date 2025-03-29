@@ -54,7 +54,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies">Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies</a>
+#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - many studies</a>
 
 ---
 
@@ -111,7 +111,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - many studies&lt;/a&gt;
 
 ---
 
@@ -265,10 +265,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies))`
 │   │   inner_content: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`
-│   │   page: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`
+│   │   page: `Excess deaths - 5 possible reasons - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Excess deaths - 5 possible reasons - many studies|Excess deaths - many studies`

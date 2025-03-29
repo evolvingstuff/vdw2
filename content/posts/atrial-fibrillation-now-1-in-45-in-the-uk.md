@@ -43,7 +43,7 @@ categories:
 
 #### A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)
 
-This could also be a reason for <a href="/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-around-the-world" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|excess deaths around the world">Excess deaths - 5 possible reasons - many studies|excess deaths around the world</a>
+This could also be a reason for <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">excess deaths around the world</a>
 
 COVID protects itself from vitamin D by de-activating the Vitamin D Receptor
 
@@ -113,7 +113,7 @@ Markdown:
 
 #### A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)
 
-This could also be a reason for &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-around-the-world&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|excess deaths around the world&quot;&gt;Excess deaths - 5 possible reasons - many studies|excess deaths around the world&lt;/a&gt;
+This could also be a reason for &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;excess deaths around the world&lt;/a&gt;
 
 COVID protects itself from vitamin D by de-activating the Vitamin D Receptor
 
@@ -271,10 +271,10 @@ AST Structure:
 │   │   full_match: `A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)`
 │   │   inner_content: `A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)`├── TextNode
 │   full_match: `\nThis could also be a reason for `
-│   inner_content: `\nThis could also be a reason for `├── LocalLinkNode
+│   inner_content: `\nThis could also be a reason for `├── AliasedLocalLinkNode
 │   full_match: `((Excess deaths - 5 possible reasons - many studies|excess deaths around the world))`
 │   inner_content: `Excess deaths - 5 possible reasons - many studies|excess deaths around the world`
-│   page: `Excess deaths - 5 possible reasons - many studies|excess deaths around the world`
+│   page: `Excess deaths - 5 possible reasons - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Excess deaths - 5 possible reasons - many studies|excess deaths around the world`

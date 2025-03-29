@@ -69,7 +69,7 @@ I personally had tried intermittent fasting for several years - with no long-ter
 
 .---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studiesautophagy-aided-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D">Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D</a>
+#### VitaminDWiki – <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Autophagy aided by Vitamin D</a>
 
  **<a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Vitamin D aids the clearing out of old cells (autophagy) – many studies</a> isthe link in the above section title** 
 
@@ -197,7 +197,7 @@ I personally had tried intermittent fasting for several years - with no long-ter
 
 .---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studiesautophagy-aided-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D&quot;&gt;Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies&quot;&gt;Autophagy aided by Vitamin D&lt;/a&gt;
 
  **&lt;a href=&quot;/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies&quot;&gt;Vitamin D aids the clearing out of old cells (autophagy) – many studies&lt;/a&gt; isthe link in the above section title** 
 
@@ -502,10 +502,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D))`
 │   │   inner_content: `Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D`
-│   │   page: `Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D`
+│   │   page: `Vitamin D aids the clearing out of old cells (autophagy) – many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D aids the clearing out of old cells (autophagy) – many studies|Autophagy aided by Vitamin D`

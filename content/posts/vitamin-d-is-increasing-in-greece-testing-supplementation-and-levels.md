@@ -66,7 +66,7 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 
 #### Doctors rarely aware that some people need larger doses
 
-* <a href="/posts/obese-need-2x-to-3x-more-vitamin-d-nov-2014obese-need-25-x-larger-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses">Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses</a>
+* <a href="/posts/obese-need-2x-to-3x-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014">Obese need 2.5 X larger doses</a>
 
 * Autistics, Diabetics, Elderly, people with cystic fibrosis, etc  need larger doses
 
@@ -74,13 +74,13 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 
 * People living far from the equator need larger dosses
 
-* <a href="/posts/high-riskshut-ins-need-larger-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High Risk|Shut ins need larger doses">High Risk|Shut ins need larger doses</a>
+* [Shut ins need larger doses](/categories/high-risk)
 
 ---
 
 #### Doctors rarely aware that some people need a different form of vitamin D
 
-* <a href="/posts/gut-friendly-vitamin-dpoor-guts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D|Poor guts">Gut-Friendly Vitamin D|Poor guts</a>
+* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Poor guts</a>
 
 <!-- ~tc~ (alias(All aspects of Vitamin D have been increasing: testing, supplementation, and levels (slowly) – Jan 2024)) ~/tc~ -->
 
@@ -146,7 +146,7 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 
 #### Doctors rarely aware that some people need larger doses
 
-* &lt;a href=&quot;/posts/obese-need-2x-to-3x-more-vitamin-d-nov-2014obese-need-25-x-larger-doses&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses&quot;&gt;Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses&lt;/a&gt;
+* &lt;a href=&quot;/posts/obese-need-2x-to-3x-more-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014&quot;&gt;Obese need 2.5 X larger doses&lt;/a&gt;
 
 * Autistics, Diabetics, Elderly, people with cystic fibrosis, etc  need larger doses
 
@@ -154,13 +154,13 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 
 * People living far from the equator need larger dosses
 
-* &lt;a href=&quot;/posts/high-riskshut-ins-need-larger-doses&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: High Risk|Shut ins need larger doses&quot;&gt;High Risk|Shut ins need larger doses&lt;/a&gt;
+* [Shut ins need larger doses](/categories/high-risk)
 
 ---
 
 #### Doctors rarely aware that some people need a different form of vitamin D
 
-* &lt;a href=&quot;/posts/gut-friendly-vitamin-dpoor-guts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D|Poor guts&quot;&gt;Gut-Friendly Vitamin D|Poor guts&lt;/a&gt;
+* &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;Poor guts&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(All aspects of Vitamin D have been increasing: testing, supplementation, and levels (slowly) – Jan 2024)) ~/tc~ --&gt;
 
@@ -404,10 +404,10 @@ AST Structure:
 │   inner_content: `((Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses))`
 │   │   inner_content: `Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses`
-│   │   page: `Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses`
+│   │   page: `Obese need 2X to 3X more vitamin D - Nov 2014`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Obese need 2X to 3X more vitamin D - Nov 2014|Obese need 2.5 X larger doses`
@@ -445,10 +445,10 @@ AST Structure:
 │   inner_content: `((High Risk|Shut ins need larger doses))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((High Risk|Shut ins need larger doses))`
 │   │   inner_content: `High Risk|Shut ins need larger doses`
-│   │   page: `High Risk|Shut ins need larger doses`
+│   │   page: `High Risk`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `High Risk|Shut ins need larger doses`
@@ -468,10 +468,10 @@ AST Structure:
 │   inner_content: `((Gut-Friendly Vitamin D|Poor guts))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gut-Friendly Vitamin D|Poor guts))`
 │   │   inner_content: `Gut-Friendly Vitamin D|Poor guts`
-│   │   page: `Gut-Friendly Vitamin D|Poor guts`
+│   │   page: `Gut-Friendly Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gut-Friendly Vitamin D|Poor guts`

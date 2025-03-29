@@ -130,11 +130,11 @@ Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://ww
 
 ---
 
-#### 61 Health problems proven to be fought by Vitamin D levels achieved by <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-weekly-vitamin-d-pill" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill">One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill</a>
+#### 61 Health problems proven to be fought by Vitamin D levels achieved by <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">1 weekly Vitamin D pill</a>
 
 ---
 
-#### 94 proofs that <a href="/posts/proof-that-vitamin-d-worksthat-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works|that Vitamin D works">Proof that Vitamin D Works|that Vitamin D works</a>
+#### 94 proofs that <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">that Vitamin D works</a>
 
  <span style="color:orange;"> **ADHD, &nbsp;Alcoholic Liver Cirrhosis, &nbsp;ALS,  &nbsp;Alzheimer's, &nbsp;Antibiotic Use in Seniors, &nbsp;Asthma, &nbsp;Autism, &nbsp;Autoimmune Diseases, &nbsp; Back pain, &nbsp;Blood Cell Cancer, &nbsp; Breast Cancer, &nbsp; Cardiovascular, &nbsp;Cholesterol, &nbsp;Chronic Hives, &nbsp;Chronic Kidney Disease, &nbsp;Cluster Headaches, &nbsp;Congestive Heart Failure (Infants), &nbsp;COPD, &nbsp;Crohn's Disease, &nbsp;C-Section and Pregnancy Risks, &nbsp;Cystic Fibrosis, &nbsp;Depression, &nbsp; Diabetes, &nbsp;Diabetic Neuropathy, &nbsp;Eczema, &nbsp; Falls, &nbsp;Fatigue, &nbsp;Fatty Liver (Child), &nbsp;Fibromyalgia, &nbsp;Gestational Diabetes, &nbsp;Gingivitis, &nbsp;Growing Pains, &nbsp;Hay Fever, &nbsp;Heart Attack, &nbsp;Hemodialysis, &nbsp;Hepatitis-C, &nbsp; Hip Fractures, &nbsp;Hypertension, &nbsp;Influenza, &nbsp;Irritable Bowel Syndrome, &nbsp;Ischemic Stroke, &nbsp;Knee Osteoarthritis, &nbsp;Leg Ulcers, &nbsp; Low Birth Weight, &nbsp;Lupus, &nbsp;Male Infertility, &nbsp; Menstrual Pain, &nbsp;Metabolic Syndrome, &nbsp;Middle Ear Infection (Infants), &nbsp;Mite Allergy, &nbsp;Multiple Sclerosis, &nbsp;Non-Alcoholic Fatty Liver Disease, &nbsp;Osteoarthritis, &nbsp;Parkinson's Disease, &nbsp;Perinatal Depression, &nbsp;Pneumonia (Ventilator-associated), &nbsp;Poor Sleep, &nbsp;PreDiabetes, &nbsp;Preeclampsia, &nbsp;Pre-term Birth, &nbsp;Prostate Cancer, &nbsp;Quality of Life, &nbsp; Raynaud's Pain, &nbsp; Respiratory Tract Infection, &nbsp;Restless Leg Syndrome, &nbsp; Rheumatoid Arthritis, &nbsp; Rickets, &nbsp;Sarcopenia, &nbsp;Sepsis, &nbsp;Short Neonates, &nbsp;Sickle Cell, &nbsp;Stronger Senior Muscles, &nbsp;Survive ICU, &nbsp;TB, &nbsp;Tonsillitis, &nbsp;Trauma Death, &nbsp;Traumatic Brain Injury, &nbsp;Tuberculosis, &nbsp;Ulcerative Colitis, &nbsp;Urinary Tract Infection, &nbsp;Vaginosis, &nbsp;Vertigo, &nbsp;Warts, &nbsp;Weight Loss** </span>
 
@@ -295,11 +295,11 @@ Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://ww
 
 ---
 
-#### 61 Health problems proven to be fought by Vitamin D levels achieved by &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need1-weekly-vitamin-d-pill&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill&lt;/a&gt;
+#### 61 Health problems proven to be fought by Vitamin D levels achieved by &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;1 weekly Vitamin D pill&lt;/a&gt;
 
 ---
 
-#### 94 proofs that &lt;a href=&quot;/posts/proof-that-vitamin-d-worksthat-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works|that Vitamin D works&quot;&gt;Proof that Vitamin D Works|that Vitamin D works&lt;/a&gt;
+#### 94 proofs that &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;that Vitamin D works&lt;/a&gt;
 
  &lt;span style=&quot;color:orange;&quot;&gt; **ADHD, &amp;nbsp;Alcoholic Liver Cirrhosis, &amp;nbsp;ALS,  &amp;nbsp;Alzheimer&#39;s, &amp;nbsp;Antibiotic Use in Seniors, &amp;nbsp;Asthma, &amp;nbsp;Autism, &amp;nbsp;Autoimmune Diseases, &amp;nbsp; Back pain, &amp;nbsp;Blood Cell Cancer, &amp;nbsp; Breast Cancer, &amp;nbsp; Cardiovascular, &amp;nbsp;Cholesterol, &amp;nbsp;Chronic Hives, &amp;nbsp;Chronic Kidney Disease, &amp;nbsp;Cluster Headaches, &amp;nbsp;Congestive Heart Failure (Infants), &amp;nbsp;COPD, &amp;nbsp;Crohn&#39;s Disease, &amp;nbsp;C-Section and Pregnancy Risks, &amp;nbsp;Cystic Fibrosis, &amp;nbsp;Depression, &amp;nbsp; Diabetes, &amp;nbsp;Diabetic Neuropathy, &amp;nbsp;Eczema, &amp;nbsp; Falls, &amp;nbsp;Fatigue, &amp;nbsp;Fatty Liver (Child), &amp;nbsp;Fibromyalgia, &amp;nbsp;Gestational Diabetes, &amp;nbsp;Gingivitis, &amp;nbsp;Growing Pains, &amp;nbsp;Hay Fever, &amp;nbsp;Heart Attack, &amp;nbsp;Hemodialysis, &amp;nbsp;Hepatitis-C, &amp;nbsp; Hip Fractures, &amp;nbsp;Hypertension, &amp;nbsp;Influenza, &amp;nbsp;Irritable Bowel Syndrome, &amp;nbsp;Ischemic Stroke, &amp;nbsp;Knee Osteoarthritis, &amp;nbsp;Leg Ulcers, &amp;nbsp; Low Birth Weight, &amp;nbsp;Lupus, &amp;nbsp;Male Infertility, &amp;nbsp; Menstrual Pain, &amp;nbsp;Metabolic Syndrome, &amp;nbsp;Middle Ear Infection (Infants), &amp;nbsp;Mite Allergy, &amp;nbsp;Multiple Sclerosis, &amp;nbsp;Non-Alcoholic Fatty Liver Disease, &amp;nbsp;Osteoarthritis, &amp;nbsp;Parkinson&#39;s Disease, &amp;nbsp;Perinatal Depression, &amp;nbsp;Pneumonia (Ventilator-associated), &amp;nbsp;Poor Sleep, &amp;nbsp;PreDiabetes, &amp;nbsp;Preeclampsia, &amp;nbsp;Pre-term Birth, &amp;nbsp;Prostate Cancer, &amp;nbsp;Quality of Life, &amp;nbsp; Raynaud&#39;s Pain, &amp;nbsp; Respiratory Tract Infection, &amp;nbsp;Restless Leg Syndrome, &amp;nbsp; Rheumatoid Arthritis, &amp;nbsp; Rickets, &amp;nbsp;Sarcopenia, &amp;nbsp;Sepsis, &amp;nbsp;Short Neonates, &amp;nbsp;Sickle Cell, &amp;nbsp;Stronger Senior Muscles, &amp;nbsp;Survive ICU, &amp;nbsp;TB, &amp;nbsp;Tonsillitis, &amp;nbsp;Trauma Death, &amp;nbsp;Traumatic Brain Injury, &amp;nbsp;Tuberculosis, &amp;nbsp;Ulcerative Colitis, &amp;nbsp;Urinary Tract Infection, &amp;nbsp;Vaginosis, &amp;nbsp;Vertigo, &amp;nbsp;Warts, &amp;nbsp;Weight Loss** &lt;/span&gt;
 
@@ -696,10 +696,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `61 Health problems proven to be fought by Vitamin D levels achieved by `
 │   │   inner_content: `61 Health problems proven to be fought by Vitamin D levels achieved by `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill))`
 │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill`
-│   │   page: `One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|1 weekly Vitamin D pill`
@@ -726,10 +726,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `94 proofs that `
 │   │   inner_content: `94 proofs that `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Proof that Vitamin D Works|that Vitamin D works))`
 │   │   inner_content: `Proof that Vitamin D Works|that Vitamin D works`
-│   │   page: `Proof that Vitamin D Works|that Vitamin D works`
+│   │   page: `Proof that Vitamin D Works`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Proof that Vitamin D Works|that Vitamin D works`

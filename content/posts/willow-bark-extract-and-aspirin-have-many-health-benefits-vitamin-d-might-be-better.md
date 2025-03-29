@@ -45,41 +45,41 @@ categories:
 
 ##### References
 
-* {SUP()}1,{SUP} {SUP()}5{SUP} [Front. Microbiol., 08 November 2023, Sec. Virology](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full)
+* <sup>1,</sup> <sup>5</sup> [Front. Microbiol., 08 November 2023, Sec. Virology](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full)
 
-* {SUP()}2,{SUP} {SUP()}6{SUP} [Life (Basel). 2023 Oct; 13(10): 2058](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/)
+* <sup>2,</sup> <sup>6</sup> [Life (Basel). 2023 Oct; 13(10): 2058](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/)
 
-* {SUP()}3,{SUP} {SUP()}4{SUP} [Phys.org November 8, 2023](https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html)
+* <sup>3,</sup> <sup>4</sup> [Phys.org November 8, 2023](https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html)
 
-* {SUP()}7,{SUP} {SUP()}8{SUP} [Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/)
+* <sup>7,</sup> <sup>8</sup> [Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/)
 
-* {SUP()}9,{SUP} {SUP()}12{SUP} [Phytother Res. 2015 Aug;29(8):1112-6. [doi: 10.1002/ptr.5377.](https://doi.org/10.1002/ptr.5377.) Epub 2015 May 22](https://pubmed.ncbi.nlm.nih.gov/25997859/)
+* <sup>9,</sup> <sup>12</sup> [Phytother Res. 2015 Aug;29(8):1112-6. [doi: 10.1002/ptr.5377.](https://doi.org/10.1002/ptr.5377.) Epub 2015 May 22](https://pubmed.ncbi.nlm.nih.gov/25997859/)
 
-* {SUP()}10,{SUP} {SUP()}11{SUP} [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
+* <sup>10,</sup> <sup>11</sup> [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
 
-* {SUP()}13{SUP} [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
+* <sup>13</sup> [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
 
-* {SUP()}14{SUP} [Anesthesia & Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
+* <sup>14</sup> [Anesthesia & Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
 
-* {SUP()}15{SUP} [General Surgery News August 4, 2021](https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048)
+* <sup>15</sup> [General Surgery News August 4, 2021](https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048)
 
-* {SUP()}16,{SUP} {SUP()}17{SUP} [Biomedicines. 2022 Feb; 10(2): 263](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
+* <sup>16,</sup> <sup>17</sup> [Biomedicines. 2022 Feb; 10(2): 263](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
 
-* {SUP()}18{SUP} [Biomedicines. 2022 Feb; 10(2): 263., Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
+* <sup>18</sup> [Biomedicines. 2022 Feb; 10(2): 263., Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
 
-* {SUP()}19{SUP} [Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. [doi: 10.1038/nrclinonc.2011.199](https://doi.org/10.1038/nrclinonc.2011.199)](https://pubmed.ncbi.nlm.nih.gov/22473097/)
+* <sup>19</sup> [Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. [doi: 10.1038/nrclinonc.2011.199](https://doi.org/10.1038/nrclinonc.2011.199)](https://pubmed.ncbi.nlm.nih.gov/22473097/)
 
-* {SUP()}20{SUP} [Cell Rep. 2018 Feb 27; 22(9): 2395-240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/)
+* <sup>20</sup> [Cell Rep. 2018 Feb 27; 22(9): 2395-240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/)
 
-* {SUP()}21{SUP} [American College of Cardiology May 5, 2014](https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke)
+* <sup>21</sup> [American College of Cardiology May 5, 2014](https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke)
 
-* {SUP()}22{SUP} [AAFP October 21, 2021](https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html)
+* <sup>22</sup> [AAFP October 21, 2021](https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html)
 
-* {SUP()}23{SUP} [Talk to Mira, Cost of Blood Thinners in 2021](https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions)
+* <sup>23</sup> [Talk to Mira, Cost of Blood Thinners in 2021](https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions)
 
-* {SUP()}24{SUP} [Walmart Aspirin Prices](https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935)
+* <sup>24</sup> [Walmart Aspirin Prices](https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935)
 
-* {SUP()}25{SUP} [Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/)
+* <sup>25</sup> [Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/)
 
 ---
 
@@ -177,41 +177,41 @@ Markdown:
 
 ##### References
 
-* {SUP()}1,{SUP} {SUP()}5{SUP} [Front. Microbiol., 08 November 2023, Sec. Virology](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full)
+* &lt;sup&gt;1,&lt;/sup&gt; &lt;sup&gt;5&lt;/sup&gt; [Front. Microbiol., 08 November 2023, Sec. Virology](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full)
 
-* {SUP()}2,{SUP} {SUP()}6{SUP} [Life (Basel). 2023 Oct; 13(10): 2058](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/)
+* &lt;sup&gt;2,&lt;/sup&gt; &lt;sup&gt;6&lt;/sup&gt; [Life (Basel). 2023 Oct; 13(10): 2058](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/)
 
-* {SUP()}3,{SUP} {SUP()}4{SUP} [Phys.org November 8, 2023](https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html)
+* &lt;sup&gt;3,&lt;/sup&gt; &lt;sup&gt;4&lt;/sup&gt; [Phys.org November 8, 2023](https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html)
 
-* {SUP()}7,{SUP} {SUP()}8{SUP} [Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/)
+* &lt;sup&gt;7,&lt;/sup&gt; &lt;sup&gt;8&lt;/sup&gt; [Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/)
 
-* {SUP()}9,{SUP} {SUP()}12{SUP} [Phytother Res. 2015 Aug;29(8):1112-6. [doi: 10.1002/ptr.5377.](https://doi.org/10.1002/ptr.5377.) Epub 2015 May 22](https://pubmed.ncbi.nlm.nih.gov/25997859/)
+* &lt;sup&gt;9,&lt;/sup&gt; &lt;sup&gt;12&lt;/sup&gt; [Phytother Res. 2015 Aug;29(8):1112-6. [doi: 10.1002/ptr.5377.](https://doi.org/10.1002/ptr.5377.) Epub 2015 May 22](https://pubmed.ncbi.nlm.nih.gov/25997859/)
 
-* {SUP()}10,{SUP} {SUP()}11{SUP} [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
+* &lt;sup&gt;10,&lt;/sup&gt; &lt;sup&gt;11&lt;/sup&gt; [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
 
-* {SUP()}13{SUP} [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
+* &lt;sup&gt;13&lt;/sup&gt; [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
 
-* {SUP()}14{SUP} [Anesthesia &amp; Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
+* &lt;sup&gt;14&lt;/sup&gt; [Anesthesia &amp; Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
 
-* {SUP()}15{SUP} [General Surgery News August 4, 2021](https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048)
+* &lt;sup&gt;15&lt;/sup&gt; [General Surgery News August 4, 2021](https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048)
 
-* {SUP()}16,{SUP} {SUP()}17{SUP} [Biomedicines. 2022 Feb; 10(2): 263](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
+* &lt;sup&gt;16,&lt;/sup&gt; &lt;sup&gt;17&lt;/sup&gt; [Biomedicines. 2022 Feb; 10(2): 263](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
 
-* {SUP()}18{SUP} [Biomedicines. 2022 Feb; 10(2): 263., Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
+* &lt;sup&gt;18&lt;/sup&gt; [Biomedicines. 2022 Feb; 10(2): 263., Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/)
 
-* {SUP()}19{SUP} [Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. [doi: 10.1038/nrclinonc.2011.199](https://doi.org/10.1038/nrclinonc.2011.199)](https://pubmed.ncbi.nlm.nih.gov/22473097/)
+* &lt;sup&gt;19&lt;/sup&gt; [Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. [doi: 10.1038/nrclinonc.2011.199](https://doi.org/10.1038/nrclinonc.2011.199)](https://pubmed.ncbi.nlm.nih.gov/22473097/)
 
-* {SUP()}20{SUP} [Cell Rep. 2018 Feb 27; 22(9): 2395-240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/)
+* &lt;sup&gt;20&lt;/sup&gt; [Cell Rep. 2018 Feb 27; 22(9): 2395-240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/)
 
-* {SUP()}21{SUP} [American College of Cardiology May 5, 2014](https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke)
+* &lt;sup&gt;21&lt;/sup&gt; [American College of Cardiology May 5, 2014](https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke)
 
-* {SUP()}22{SUP} [AAFP October 21, 2021](https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html)
+* &lt;sup&gt;22&lt;/sup&gt; [AAFP October 21, 2021](https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html)
 
-* {SUP()}23{SUP} [Talk to Mira, Cost of Blood Thinners in 2021](https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions)
+* &lt;sup&gt;23&lt;/sup&gt; [Talk to Mira, Cost of Blood Thinners in 2021](https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions)
 
-* {SUP()}24{SUP} [Walmart Aspirin Prices](https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935)
+* &lt;sup&gt;24&lt;/sup&gt; [Walmart Aspirin Prices](https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935)
 
-* {SUP()}25{SUP} [Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/)
+* &lt;sup&gt;25&lt;/sup&gt; [Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/)
 
 ---
 
@@ -455,9 +455,30 @@ AST Structure:
 │   inner_content: `{SUP()}1,{SUP} {SUP()}5{SUP} [https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full|Front. Microbiol., 08 November 2023, Sec. Virology]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}1,{SUP}`
+│   │   inner_content: `1,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `1,`
+│   │   │   inner_content: `1,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}1,{SUP} {SUP()}5{SUP} `
-│   │   inner_content: `{SUP()}1,{SUP} {SUP()}5{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}5{SUP}`
+│   │   inner_content: `5`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5`
+│   │   │   inner_content: `5`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full|Front. Microbiol., 08 November 2023, Sec. Virology]`
 │   │   inner_content: `Front. Microbiol., 08 November 2023, Sec. Virology`
@@ -472,9 +493,30 @@ AST Structure:
 │   inner_content: `{SUP()}2,{SUP} {SUP()}6{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/|Life (Basel). 2023 Oct; 13(10): 2058]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}2,{SUP}`
+│   │   inner_content: `2,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `2,`
+│   │   │   inner_content: `2,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}2,{SUP} {SUP()}6{SUP} `
-│   │   inner_content: `{SUP()}2,{SUP} {SUP()}6{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}6{SUP}`
+│   │   inner_content: `6`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `6`
+│   │   │   inner_content: `6`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/|Life (Basel). 2023 Oct; 13(10): 2058]`
 │   │   inner_content: `Life (Basel). 2023 Oct; 13(10): 2058`
@@ -489,9 +531,30 @@ AST Structure:
 │   inner_content: `{SUP()}3,{SUP} {SUP()}4{SUP} [https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html|Phys.org November 8, 2023]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}3,{SUP}`
+│   │   inner_content: `3,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `3,`
+│   │   │   inner_content: `3,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}3,{SUP} {SUP()}4{SUP} `
-│   │   inner_content: `{SUP()}3,{SUP} {SUP()}4{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}4{SUP}`
+│   │   inner_content: `4`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `4`
+│   │   │   inner_content: `4`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html|Phys.org November 8, 2023]`
 │   │   inner_content: `Phys.org November 8, 2023`
@@ -506,9 +569,30 @@ AST Structure:
 │   inner_content: `{SUP()}7,{SUP} {SUP()}8{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/|Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}7,{SUP}`
+│   │   inner_content: `7,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7,`
+│   │   │   inner_content: `7,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}7,{SUP} {SUP()}8{SUP} `
-│   │   inner_content: `{SUP()}7,{SUP} {SUP()}8{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}8{SUP}`
+│   │   inner_content: `8`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `8`
+│   │   │   inner_content: `8`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/|Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504]`
 │   │   inner_content: `Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504`
@@ -523,9 +607,30 @@ AST Structure:
 │   inner_content: `{SUP()}9,{SUP} {SUP()}12{SUP} [https://pubmed.ncbi.nlm.nih.gov/25997859/|Phytother Res. 2015 Aug;29(8):1112-6. doi: 10.1002/ptr.5377. Epub 2015 May 22]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}9,{SUP}`
+│   │   inner_content: `9,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `9,`
+│   │   │   inner_content: `9,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}9,{SUP} {SUP()}12{SUP} `
-│   │   inner_content: `{SUP()}9,{SUP} {SUP()}12{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}12{SUP}`
+│   │   inner_content: `12`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `12`
+│   │   │   inner_content: `12`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://pubmed.ncbi.nlm.nih.gov/25997859/|Phytother Res. 2015 Aug;29(8):1112-6. doi: 10.1002/ptr.5377. Epub 2015 May 22]`
 │   │   inner_content: `Phytother Res. 2015 Aug;29(8):1112-6. doi: 10.1002/ptr.5377. Epub 2015 May 22`
@@ -546,9 +651,30 @@ AST Structure:
 │   inner_content: `{SUP()}10,{SUP} {SUP()}11{SUP} [https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849|J. Agric. Food Chem. 2023, 71, 44, 16554–16567]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}10,{SUP}`
+│   │   inner_content: `10,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `10,`
+│   │   │   inner_content: `10,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}10,{SUP} {SUP()}11{SUP} `
-│   │   inner_content: `{SUP()}10,{SUP} {SUP()}11{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}11{SUP}`
+│   │   inner_content: `11`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `11`
+│   │   │   inner_content: `11`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849|J. Agric. Food Chem. 2023, 71, 44, 16554–16567]`
 │   │   inner_content: `J. Agric. Food Chem. 2023, 71, 44, 16554–16567`
@@ -563,9 +689,18 @@ AST Structure:
 │   inner_content: `{SUP()}13{SUP} [https://pubmed.ncbi.nlm.nih.gov/14592543/|Thromb Res. 2003 Jun 15;110(5-6):255-8. doi: 10.1016/s0049-3848(03)00379-7]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}13{SUP}`
+│   │   inner_content: `13`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `13`
+│   │   │   inner_content: `13`
 │   ├── TextNode
-│   │   full_match: `{SUP()}13{SUP} `
-│   │   inner_content: `{SUP()}13{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://pubmed.ncbi.nlm.nih.gov/14592543/|Thromb Res. 2003 Jun 15;110(5-6):255-8. doi: 10.1016/s0049-3848(03)00379-7]`
 │   │   inner_content: `Thromb Res. 2003 Jun 15;110(5-6):255-8. doi: 10.1016/s0049-3848(03)00379-7`
@@ -586,9 +721,18 @@ AST Structure:
 │   inner_content: `{SUP()}14{SUP} [https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx|Anesthesia &amp; Analgesia April 2021; 132(4): 930-941]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}14{SUP}`
+│   │   inner_content: `14`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `14`
+│   │   │   inner_content: `14`
 │   ├── TextNode
-│   │   full_match: `{SUP()}14{SUP} `
-│   │   inner_content: `{SUP()}14{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx|Anesthesia &amp; Analgesia April 2021; 132(4): 930-941]`
 │   │   inner_content: `Anesthesia &amp; Analgesia April 2021; 132(4): 930-941`
@@ -603,9 +747,18 @@ AST Structure:
 │   inner_content: `{SUP()}15{SUP} [https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048|General Surgery News August 4, 2021]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}15{SUP}`
+│   │   inner_content: `15`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `15`
+│   │   │   inner_content: `15`
 │   ├── TextNode
-│   │   full_match: `{SUP()}15{SUP} `
-│   │   inner_content: `{SUP()}15{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048|General Surgery News August 4, 2021]`
 │   │   inner_content: `General Surgery News August 4, 2021`
@@ -620,9 +773,30 @@ AST Structure:
 │   inner_content: `{SUP()}16,{SUP} {SUP()}17{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/|Biomedicines. 2022 Feb; 10(2): 263]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}16,{SUP}`
+│   │   inner_content: `16,`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `16,`
+│   │   │   inner_content: `16,`
 │   ├── TextNode
-│   │   full_match: `{SUP()}16,{SUP} {SUP()}17{SUP} `
-│   │   inner_content: `{SUP()}16,{SUP} {SUP()}17{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── SupNode
+│   │   full_match: `{SUP()}17{SUP}`
+│   │   inner_content: `17`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `17`
+│   │   │   inner_content: `17`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/|Biomedicines. 2022 Feb; 10(2): 263]`
 │   │   inner_content: `Biomedicines. 2022 Feb; 10(2): 263`
@@ -637,9 +811,18 @@ AST Structure:
 │   inner_content: `{SUP()}18{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/|Biomedicines. 2022 Feb; 10(2): 263., Figure 1]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}18{SUP}`
+│   │   inner_content: `18`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `18`
+│   │   │   inner_content: `18`
 │   ├── TextNode
-│   │   full_match: `{SUP()}18{SUP} `
-│   │   inner_content: `{SUP()}18{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/|Biomedicines. 2022 Feb; 10(2): 263., Figure 1]`
 │   │   inner_content: `Biomedicines. 2022 Feb; 10(2): 263., Figure 1`
@@ -654,9 +837,18 @@ AST Structure:
 │   inner_content: `{SUP()}19{SUP} [https://pubmed.ncbi.nlm.nih.gov/22473097/|Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. doi: 10.1038/nrclinonc.2011.199]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}19{SUP}`
+│   │   inner_content: `19`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `19`
+│   │   │   inner_content: `19`
 │   ├── TextNode
-│   │   full_match: `{SUP()}19{SUP} `
-│   │   inner_content: `{SUP()}19{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://pubmed.ncbi.nlm.nih.gov/22473097/|Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. doi: 10.1038/nrclinonc.2011.199]`
 │   │   inner_content: `Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. doi: 10.1038/nrclinonc.2011.199`
@@ -674,9 +866,18 @@ AST Structure:
 │   inner_content: `{SUP()}20{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/|Cell Rep. 2018 Feb 27; 22(9): 2395-240]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}20{SUP}`
+│   │   inner_content: `20`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `20`
+│   │   │   inner_content: `20`
 │   ├── TextNode
-│   │   full_match: `{SUP()}20{SUP} `
-│   │   inner_content: `{SUP()}20{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/|Cell Rep. 2018 Feb 27; 22(9): 2395-240]`
 │   │   inner_content: `Cell Rep. 2018 Feb 27; 22(9): 2395-240`
@@ -691,9 +892,18 @@ AST Structure:
 │   inner_content: `{SUP()}21{SUP} [https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke|American College of Cardiology May 5, 2014]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}21{SUP}`
+│   │   inner_content: `21`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `21`
+│   │   │   inner_content: `21`
 │   ├── TextNode
-│   │   full_match: `{SUP()}21{SUP} `
-│   │   inner_content: `{SUP()}21{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke|American College of Cardiology May 5, 2014]`
 │   │   inner_content: `American College of Cardiology May 5, 2014`
@@ -708,9 +918,18 @@ AST Structure:
 │   inner_content: `{SUP()}22{SUP} [https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html|AAFP October 21, 2021]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}22{SUP}`
+│   │   inner_content: `22`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `22`
+│   │   │   inner_content: `22`
 │   ├── TextNode
-│   │   full_match: `{SUP()}22{SUP} `
-│   │   inner_content: `{SUP()}22{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html|AAFP October 21, 2021]`
 │   │   inner_content: `AAFP October 21, 2021`
@@ -725,9 +944,18 @@ AST Structure:
 │   inner_content: `{SUP()}23{SUP} [https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions|Talk to Mira, Cost of Blood Thinners in 2021]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}23{SUP}`
+│   │   inner_content: `23`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `23`
+│   │   │   inner_content: `23`
 │   ├── TextNode
-│   │   full_match: `{SUP()}23{SUP} `
-│   │   inner_content: `{SUP()}23{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions|Talk to Mira, Cost of Blood Thinners in 2021]`
 │   │   inner_content: `Talk to Mira, Cost of Blood Thinners in 2021`
@@ -742,9 +970,18 @@ AST Structure:
 │   inner_content: `{SUP()}24{SUP} [https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935|Walmart Aspirin Prices]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}24{SUP}`
+│   │   inner_content: `24`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `24`
+│   │   │   inner_content: `24`
 │   ├── TextNode
-│   │   full_match: `{SUP()}24{SUP} `
-│   │   inner_content: `{SUP()}24{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935|Walmart Aspirin Prices]`
 │   │   inner_content: `Walmart Aspirin Prices`
@@ -759,9 +996,18 @@ AST Structure:
 │   inner_content: `{SUP()}25{SUP} [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/|Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351]`
 │   depth: `1`
 │   children:
+│   ├── SupNode
+│   │   full_match: `{SUP()}25{SUP}`
+│   │   inner_content: `25`
+│   │   attrs_dict:
+│   │   │   raw_content: 
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `25`
+│   │   │   inner_content: `25`
 │   ├── TextNode
-│   │   full_match: `{SUP()}25{SUP} `
-│   │   inner_content: `{SUP()}25{SUP} `
+│   │   full_match: ` `
+│   │   inner_content: ` `
 │   ├── LinkNode
 │   │   full_match: `[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/|Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351]`
 │   │   inner_content: `Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351`

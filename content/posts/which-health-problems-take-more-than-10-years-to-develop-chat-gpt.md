@@ -78,7 +78,7 @@ These examples illustrate how many serious health conditions develop over extend
 
 ---
 
-##### VitaminDWiki – <a href="/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studieschronic-kidney" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney">Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney</a> contains
+##### VitaminDWiki – [Chronic Kidney](/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studies) contains
 
 ---
 
@@ -181,7 +181,7 @@ These examples illustrate how many serious health conditions develop over extend
 
 ---
 
-##### VitaminDWiki – &lt;a href=&quot;/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studieschronic-kidney&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney&quot;&gt;Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney&lt;/a&gt; contains
+##### VitaminDWiki – [Chronic Kidney](/posts/chronic-kidney-disease-needs-vitamin-d-how-much-what-kind-many-studies) contains
 
 ---
 
@@ -657,10 +657,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney))`
 │   │   inner_content: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
-│   │   page: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`
+│   │   page: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Chronic Kidney Disease needs Vitamin D: how much, what kind - many studies|Chronic Kidney`

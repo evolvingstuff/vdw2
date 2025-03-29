@@ -40,23 +40,23 @@ categories:
 
  **The >80 associations includes:** 
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015-abolic-syndrome" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Metabolic Syndrome">Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Metabolic Syndrome</a>
+* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Metabolic Syndrome</a>
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015--kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Kidney Disease">Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Kidney Disease</a>
+* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Kidney Disease</a>
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015--heart-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Heart problems">Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Heart problems</a>
+* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Heart problems</a>
 
-* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015psoriasis-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Diabetes">Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==> Diabetes</a>
+* <a href="/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015">Psoriasis ==> Diabetes</a>
 
 * [Psoriasis==> Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668?dopt=Abstract)
 
-* <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia-jan--nemia-psoriasis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==> Anemia, Psoriasis">Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==> Anemia, Psoriasis</a>
+* <a href="/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013">Celiac Disease ==> Anemia, Psoriasis</a>
 
 *
 
 * [Sleep Apnea ==>Fatty Liver disease](http://well.blogs.nytimes.com/2015/02/27/ask-well-are-fatty-liver-and-sleep-apnea-related/)
 
-* <a href="/posts/gout-and-vitamin-d-many-studiessleep-apnea-gout" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gout and Vitamin D - many studies|Sleep Apnea ==>Gout">Gout and Vitamin D - many studies|Sleep Apnea ==>Gout</a>
+* <a href="/posts/gout-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gout and Vitamin D - many studies">Sleep Apnea ==>Gout</a>
 
 <!-- ~tc~ (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) ~/tc~ -->
 
@@ -94,23 +94,23 @@ Markdown:
 
  **The &gt;80 associations includes:** 
 
-* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015-abolic-syndrome&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome&quot;&gt;Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome&lt;/a&gt;
+* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015&quot;&gt;Psoriasis ==&gt; Metabolic Syndrome&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015--kidney-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease&quot;&gt;Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease&lt;/a&gt;
+* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015&quot;&gt;Psoriasis ==&gt; Kidney Disease&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015--heart-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems&quot;&gt;Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems&lt;/a&gt;
+* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015&quot;&gt;Psoriasis ==&gt; Heart problems&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc-nov-2015psoriasis-diabetes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes&quot;&gt;Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes&lt;/a&gt;
+* &lt;a href=&quot;/posts/psoriasis-is-associated-with-kidney-disease-heart-problems-diabetes-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015&quot;&gt;Psoriasis ==&gt; Diabetes&lt;/a&gt;
 
 * [Psoriasis==&gt; Osteoporosis](https://www.ncbi.nlm.nih.gov/pubmed/31151668?dopt=Abstract)
 
-* &lt;a href=&quot;/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia-jan--nemia-psoriasis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis&quot;&gt;Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis&lt;/a&gt;
+* &lt;a href=&quot;/posts/having-celiac-disease-and-low-vitamin-d-only-predicted-psoriasis-and-anemia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013&quot;&gt;Celiac Disease ==&gt; Anemia, Psoriasis&lt;/a&gt;
 
 *
 
 * [Sleep Apnea ==&gt;Fatty Liver disease](http://well.blogs.nytimes.com/2015/02/27/ask-well-are-fatty-liver-and-sleep-apnea-related/)
 
-* &lt;a href=&quot;/posts/gout-and-vitamin-d-many-studiessleep-apnea-gout&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout&quot;&gt;Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout&lt;/a&gt;
+* &lt;a href=&quot;/posts/gout-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gout and Vitamin D - many studies&quot;&gt;Sleep Apnea ==&gt;Gout&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(Psoriasis increases risk of obstructive sleep apnea vy 1.7X (vitamin D not mentioned) - Dec 2023)) ~/tc~ --&gt;
 
@@ -258,10 +258,10 @@ AST Structure:
 │   inner_content: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome))`
 │   │   inner_content: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome`
-│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome`
+│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Metabolic Syndrome`
@@ -272,10 +272,10 @@ AST Structure:
 │   inner_content: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease))`
 │   │   inner_content: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease`
-│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease`
+│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Kidney Disease`
@@ -286,10 +286,10 @@ AST Structure:
 │   inner_content: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems))`
 │   │   inner_content: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems`
-│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems`
+│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Heart problems`
@@ -300,10 +300,10 @@ AST Structure:
 │   inner_content: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes))`
 │   │   inner_content: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes`
-│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes`
+│   │   page: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Psoriasis is associated with kidney disease, heart problems, diabetes, etc – Nov 2015|Psoriasis ==&gt; Diabetes`
@@ -328,14 +328,14 @@ AST Structure:
 │   inner_content: `((Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis))`
-│   │   inner_content: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis`
-│   │   page: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis`
+│   │   inner_content: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013|Celiac Disease ==&gt; Anemia, Psoriasis`
+│   │   page: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis`
-│   │   │   inner_content: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013| Celiac Disease ==&gt; Anemia, Psoriasis`├── TextNode
+│   │   │   full_match: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013|Celiac Disease ==&gt; Anemia, Psoriasis`
+│   │   │   inner_content: `Having celiac disease and low vitamin D only predicted psoriasis and anemia – Jan 2013|Celiac Disease ==&gt; Anemia, Psoriasis`├── TextNode
 │   full_match: `\n*\n`
 │   inner_content: `\n*\n`├── ListItemNode
 │   full_match: `*[http://well.blogs.nytimes.com/2015/02/27/ask-well-are-fatty-liver-and-sleep-apnea-related/|Sleep Apnea ==&gt;Fatty Liver disease]`
@@ -356,10 +356,10 @@ AST Structure:
 │   inner_content: `((Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout))`
 │   │   inner_content: `Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout`
-│   │   page: `Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout`
+│   │   page: `Gout and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gout and Vitamin D - many studies|Sleep Apnea ==&gt;Gout`

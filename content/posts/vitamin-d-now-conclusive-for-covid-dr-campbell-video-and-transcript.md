@@ -170,7 +170,7 @@ This list is automatically updated
 
 ---
 
-#### Vitamin D is very safe, <a href="/posts/overview-toxicity-of-vitamin-drarely-toxic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D|rarely toxic">Overview Toxicity of vitamin D|rarely toxic</a> and never deadly
+#### Vitamin D is very safe, <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">rarely toxic</a> and never deadly
 
 
 
@@ -337,7 +337,7 @@ This list is automatically updated
 
 ---
 
-#### Vitamin D is very safe, &lt;a href=&quot;/posts/overview-toxicity-of-vitamin-drarely-toxic&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Toxicity of vitamin D|rarely toxic&quot;&gt;Overview Toxicity of vitamin D|rarely toxic&lt;/a&gt; and never deadly
+#### Vitamin D is very safe, &lt;a href=&quot;/posts/overview-toxicity-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Toxicity of vitamin D&quot;&gt;rarely toxic&lt;/a&gt; and never deadly
 
 
 
@@ -1096,10 +1096,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Vitamin D is very safe, `
 │   │   inner_content: `Vitamin D is very safe, `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Toxicity of vitamin D|rarely toxic))`
 │   │   inner_content: `Overview Toxicity of vitamin D|rarely toxic`
-│   │   page: `Overview Toxicity of vitamin D|rarely toxic`
+│   │   page: `Overview Toxicity of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Toxicity of vitamin D|rarely toxic`

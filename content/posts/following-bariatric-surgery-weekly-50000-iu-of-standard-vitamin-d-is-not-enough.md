@@ -39,7 +39,7 @@ Conclusion: our results of a comprehensive laboratory evaluation of vitamin D st
 
 ---
 
-#### VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-dpeople-with-with-poor-digestion-need-gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D">Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D</a>
+#### VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">People with with poor digestion need gut-friendly Vitamin D</a>
 
 ---
 
@@ -65,7 +65,7 @@ This list is automatically updated
 
 ##### Note: Best to have a loading dose before or after any surgery
 
- **A <a href="/posts/overview-loading-of-vitamin-dloading-dose" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D|Loading dose">Overview Loading of vitamin D|Loading dose</a> will provide benefit in weeks instead of 5+ months** 
+ **A <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Loading dose</a> will provide benefit in weeks instead of 5+ months** 
 
 <!-- ~tc~ (alias(Following Bariatic surgery weekly 50,000 IU of standard vitamin D is not enough – Jan 2024)) ~/tc~ -->
 
@@ -105,7 +105,7 @@ Conclusion: our results of a comprehensive laboratory evaluation of vitamin D st
 
 ---
 
-#### VitaminDWiki – &lt;a href=&quot;/posts/overview-gut-and-vitamin-dpeople-with-with-poor-digestion-need-gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D&quot;&gt;Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D&lt;/a&gt;
+#### VitaminDWiki – &lt;a href=&quot;/posts/overview-gut-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Gut and vitamin D&quot;&gt;People with with poor digestion need gut-friendly Vitamin D&lt;/a&gt;
 
 ---
 
@@ -131,7 +131,7 @@ This list is automatically updated
 
 ##### Note: Best to have a loading dose before or after any surgery
 
- **A &lt;a href=&quot;/posts/overview-loading-of-vitamin-dloading-dose&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D|Loading dose&quot;&gt;Overview Loading of vitamin D|Loading dose&lt;/a&gt; will provide benefit in weeks instead of 5+ months** 
+ **A &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;Loading dose&lt;/a&gt; will provide benefit in weeks instead of 5+ months** 
 
 &lt;!-- ~tc~ (alias(Following Bariatic surgery weekly 50,000 IU of standard vitamin D is not enough – Jan 2024)) ~/tc~ --&gt;
 
@@ -257,10 +257,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D))`
 │   │   inner_content: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`
-│   │   page: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`
+│   │   page: `Overview Gut and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Gut and vitamin D|People with with poor digestion need gut-friendly Vitamin D`
@@ -322,10 +322,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `A `
 │   │   inner_content: `A `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Loading of vitamin D|Loading dose))`
 │   │   inner_content: `Overview Loading of vitamin D|Loading dose`
-│   │   page: `Overview Loading of vitamin D|Loading dose`
+│   │   page: `Overview Loading of vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Loading of vitamin D|Loading dose`

@@ -236,7 +236,7 @@ A number of anti-angiogenesis drugs have been FDA-approved and are being used in
 
 ---
 
-#### See also <a href="/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articlesobesity-incre-d-many-articles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles">Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles</a>
+#### See also <a href="/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles">Obesity increases Cancer - perhaps due to low vitamin D - many articles</a>
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -467,7 +467,7 @@ A number of anti-angiogenesis drugs have been FDA-approved and are being used in
 
 ---
 
-#### See also &lt;a href=&quot;/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articlesobesity-incre-d-many-articles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles&quot;&gt;Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles&lt;/a&gt;
+#### See also &lt;a href=&quot;/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles&quot;&gt;Obesity increases Cancer - perhaps due to low vitamin D - many articles&lt;/a&gt;
 
 
 AST Structure:
@@ -1513,10 +1513,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `See also `
 │   │   inner_content: `See also `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles))`
 │   │   inner_content: `Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles`
-│   │   page: `Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles`
+│   │   page: `Obesity increases Cancer - perhaps due to low vitamin D - many articles`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Obesity increases Cancer - perhaps due to low vitamin D - many articles|Obesity increases Cancer - perhaps due to low vitamin D - many articles`

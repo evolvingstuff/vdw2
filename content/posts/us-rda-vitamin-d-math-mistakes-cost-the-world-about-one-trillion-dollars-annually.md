@@ -26,7 +26,7 @@ The world copied the US mistake of 600 IU
 
 * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
-* <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng-75-percent-reduction-in-office-v-ot-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D">Dr. who got patients to vitamin D level of 80 ng| **75%**  reduction in office visits in patients taking lot of vitamin D</a>
+* <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng">__75%__ reduction in office visits in patients taking lot of vitamin D</a>
 
 * Assume reduce all medical care costs by half
 
@@ -72,7 +72,7 @@ Costs:
 
 * Medical care
 
-  * <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng-75-percent-reduction-in-office-v-g-8000-iu-daily" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily">Dr. who got patients to vitamin D level of 80 ng| **75%**  reduction in office visits in patients taking ~8,000 IU daily</a>
+  * <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng">__75%__ reduction in office visits in patients taking ~8,000 IU daily</a>
 
   * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
@@ -148,7 +148,7 @@ also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta
 
 ---
 
-#### US food lables now state: need <a href="/posts/vitamin-d-food-labeling-requirements-by-fda-may-20161200-iu-of-vitamin-d-per-3000-calories" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories">Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories</a>
+#### US food lables now state: need <a href="/posts/vitamin-d-food-labeling-requirements-by-fda" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D food labeling requirements by FDA – May 2016">1200 IU of Vitamin D per 3,000 calories</a>
 
 ---
 
@@ -187,7 +187,7 @@ The world copied the US mistake of 600 IU
 
 * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
-* &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng-75-percent-reduction-in-office-v-ot-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D&quot;&gt;Dr. who got patients to vitamin D level of 80 ng| **75%**  reduction in office visits in patients taking lot of vitamin D&lt;/a&gt;
+* &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng&quot;&gt;__75%__ reduction in office visits in patients taking lot of vitamin D&lt;/a&gt;
 
 * Assume reduce all medical care costs by half
 
@@ -233,7 +233,7 @@ Costs:
 
 * Medical care
 
-  * &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng-75-percent-reduction-in-office-v-g-8000-iu-daily&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily&quot;&gt;Dr. who got patients to vitamin D level of 80 ng| **75%**  reduction in office visits in patients taking ~8,000 IU daily&lt;/a&gt;
+  * &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng&quot;&gt;__75%__ reduction in office visits in patients taking ~8,000 IU daily&lt;/a&gt;
 
   * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
@@ -309,7 +309,7 @@ also &lt;a href=&quot;/posts/137-health-problems-associated-with-low-vitamin-d-m
 
 ---
 
-#### US food lables now state: need &lt;a href=&quot;/posts/vitamin-d-food-labeling-requirements-by-fda-may-20161200-iu-of-vitamin-d-per-3000-calories&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories&quot;&gt;Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories&lt;/a&gt;
+#### US food lables now state: need &lt;a href=&quot;/posts/vitamin-d-food-labeling-requirements-by-fda&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D food labeling requirements by FDA – May 2016&quot;&gt;1200 IU of Vitamin D per 3,000 calories&lt;/a&gt;
 
 ---
 
@@ -371,10 +371,10 @@ AST Structure:
 │   inner_content: `((Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D))`
 │   │   inner_content: `Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D`
-│   │   page: `Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking lot of vitamin D`
+│   │   page: `Dr. who got patients to vitamin D level of 80 ng`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Dr. who got patients to vitamin D level of 80 ng|`
@@ -533,10 +533,10 @@ AST Structure:
 │   │   inner_content: `((Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily))`
 │   │   depth: `2`
 │   │   children:
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily))`
 │   │   │   inner_content: `Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily`
-│   │   │   page: `Dr. who got patients to vitamin D level of 80 ng|__75%__ reduction in office visits in patients taking ~8,000 IU daily`
+│   │   │   page: `Dr. who got patients to vitamin D level of 80 ng`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Dr. who got patients to vitamin D level of 80 ng|`
@@ -899,10 +899,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `US food lables now state: need `
 │   │   inner_content: `US food lables now state: need `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories))`
 │   │   inner_content: `Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories`
-│   │   page: `Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories`
+│   │   page: `Vitamin D food labeling requirements by FDA – May 2016`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D food labeling requirements by FDA – May 2016|1200 IU of Vitamin D per 3,000 calories`

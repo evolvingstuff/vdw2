@@ -41,7 +41,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 
 ---
 
-#### A few of the <a href="/posts/vaccination-pages-in-vitamindwiki260-vaccination-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|260+ Vaccination studies">Vaccination pages in VitaminDWiki|260+ Vaccination studies</a> in VitaminDWiki
+#### A few of the <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">260+ Vaccination studies</a> in VitaminDWiki
 
 * [Hospital utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022](/posts/hospital-utilization-australia-nsw-1415-vaccinated-0-unvaccinated)
 
@@ -93,7 +93,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 
 ---
 
-#### A few of the &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki260-vaccination-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|260+ Vaccination studies&quot;&gt;Vaccination pages in VitaminDWiki|260+ Vaccination studies&lt;/a&gt; in VitaminDWiki
+#### A few of the &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;260+ Vaccination studies&lt;/a&gt; in VitaminDWiki
 
 * [Hospital utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022](/posts/hospital-utilization-australia-nsw-1415-vaccinated-0-unvaccinated)
 
@@ -176,10 +176,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `A few of the `
 │   │   inner_content: `A few of the `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|260+ Vaccination studies))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|260+ Vaccination studies`
-│   │   page: `Vaccination pages in VitaminDWiki|260+ Vaccination studies`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|260+ Vaccination studies`

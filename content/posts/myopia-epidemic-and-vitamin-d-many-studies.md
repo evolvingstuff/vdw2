@@ -92,7 +92,7 @@ Screens include Video, TV, Computer, Gaming
 
 ---
 
-#### VitaminDWiki <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-et-te-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc</a>)
+#### VitaminDWiki <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc</a>)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -206,7 +206,7 @@ Screens include Video, TV, Computer, Gaming
 
 ---
 
-#### VitaminDWiki &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-et-te-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc&lt;/a&gt;)
+#### VitaminDWiki &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc&lt;/a&gt;)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -603,10 +603,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki `
 │   │   inner_content: `VitaminDWiki `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc))`
 │   │   inner_content: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`
-│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`
+│   │   page: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)|Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc`

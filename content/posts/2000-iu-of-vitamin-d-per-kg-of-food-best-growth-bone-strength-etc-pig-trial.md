@@ -39,7 +39,7 @@ The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking st
 
 ---
 
-#### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-dfatty-acid-chart" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart">Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart</a>
+#### VitaminDWiki - <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Fatty acid chart</a>
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -84,7 +84,7 @@ The addition of 25, 50 and 75 µg/kg 25(OH)VD3 to the diet increased breaking st
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-dfatty-acid-chart&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Fatty acid chart&lt;/a&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
@@ -227,10 +227,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart))`
 │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart`
-│   │   page: `Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart`
+│   │   page: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D|Fatty acid chart`

@@ -27,13 +27,13 @@ Lots of details in the article
 
 1. Office workers
 
-1. <a href="/posts/overview-dark-skin-and-vitamin-dpeople-with-darker-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D|People with darker skin">Overview Dark Skin and Vitamin D|People with darker skin</a>
+1. <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">People with darker skin</a>
 
 1. Inflammatory bowel disease patients
 
 1. Vegans and vegetarians
 
-1. People with a <a href="/posts/overview-obesity-and-vitamin-dhigh-body-fat-percentage" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D|high body fat percentage">Overview Obesity and Vitamin D|high body fat percentage</a>
+1. People with a <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">high body fat percentage</a>
 
 1. People taking certain medications
 
@@ -98,13 +98,13 @@ Lots of details in the article
 
 1. Office workers
 
-1. &lt;a href=&quot;/posts/overview-dark-skin-and-vitamin-dpeople-with-darker-skin&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Dark Skin and Vitamin D|People with darker skin&quot;&gt;Overview Dark Skin and Vitamin D|People with darker skin&lt;/a&gt;
+1. &lt;a href=&quot;/posts/overview-dark-skin-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Dark Skin and Vitamin D&quot;&gt;People with darker skin&lt;/a&gt;
 
 1. Inflammatory bowel disease patients
 
 1. Vegans and vegetarians
 
-1. People with a &lt;a href=&quot;/posts/overview-obesity-and-vitamin-dhigh-body-fat-percentage&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D|high body fat percentage&quot;&gt;Overview Obesity and Vitamin D|high body fat percentage&lt;/a&gt;
+1. People with a &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;high body fat percentage&lt;/a&gt;
 
 1. People taking certain medications
 
@@ -214,10 +214,10 @@ AST Structure:
 │   inner_content: `((Overview Dark Skin and Vitamin D|People with darker skin))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Dark Skin and Vitamin D|People with darker skin))`
 │   │   inner_content: `Overview Dark Skin and Vitamin D|People with darker skin`
-│   │   page: `Overview Dark Skin and Vitamin D|People with darker skin`
+│   │   page: `Overview Dark Skin and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Dark Skin and Vitamin D|People with darker skin`
@@ -249,10 +249,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `People with a `
 │   │   inner_content: `People with a `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Obesity and Vitamin D|high body fat percentage))`
 │   │   inner_content: `Overview Obesity and Vitamin D|high body fat percentage`
-│   │   page: `Overview Obesity and Vitamin D|high body fat percentage`
+│   │   page: `Overview Obesity and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Obesity and Vitamin D|high body fat percentage`

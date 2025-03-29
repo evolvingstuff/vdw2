@@ -43,7 +43,7 @@ Conclusions: Obesity impacts vitamin D clearance and the half-life, but serum co
 
 ---
 
-#### 158+ VitaminDWiki pages contain <a href="/posts/asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis-aug-2021asthma-in-the-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title">Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title</a>
+#### 158+ VitaminDWiki pages contain <a href="/posts/asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021">ASTHMA... in the title</a>
 
  **which includes:** 
 
@@ -113,7 +113,7 @@ Conclusions: Obesity impacts vitamin D clearance and the half-life, but serum co
 
 ---
 
-#### 158+ VitaminDWiki pages contain &lt;a href=&quot;/posts/asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis-aug-2021asthma-in-the-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title&quot;&gt;Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title&lt;/a&gt;
+#### 158+ VitaminDWiki pages contain &lt;a href=&quot;/posts/asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021&quot;&gt;ASTHMA... in the title&lt;/a&gt;
 
  **which includes:** 
 
@@ -281,10 +281,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `158+ VitaminDWiki pages contain `
 │   │   inner_content: `158+ VitaminDWiki pages contain `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title))`
 │   │   inner_content: `Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title`
-│   │   page: `Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title`
+│   │   page: `Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021|ASTHMA... in the title`

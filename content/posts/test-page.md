@@ -4,7 +4,7 @@ slug: "test-page"
 aliases:
   - "/Test+Page"
   - "/tiki-index.php?page_id=-1"
-date: 2025-03-22
+date: 2025-03-29
 ---
 
 
@@ -38,6 +38,8 @@ Reference? <sup>[3]</sup>
 [goes to 404](/posts/nope)
 
 <!-- {maketoc Title=""} -->
+
+  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 ---
 
@@ -77,6 +79,8 @@ Reference? &lt;sup&gt;[3]&lt;/sup&gt;
 [goes to 404](/posts/nope)
 
 &lt;!-- {maketoc Title=&quot;&quot;} --&gt;
+
+  *  See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 ---
 
@@ -238,7 +242,24 @@ AST Structure:
 │   │   inner_content: ``
 │   │   attrs_dict:
 │   │   │   raw_content:  Title=&quot;&quot;
-│   │   │   Title: ├── HorizontalRuleNode
+│   │   │   Title: ├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `** See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   inner_content: ` See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   depth: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: ` See also `
+│   │   inner_content: ` See also `
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))`
+│   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
+│   │   page: `Cluster and Migraine headache treatment protocol - Sept 2023`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`
+│   │   │   inner_content: `Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`
 
@@ -271,6 +292,8 @@ doi: 10.1007/s11912-023-01476-4
 [/posts/nope|goes to 404]
 
 {DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+
+** See also ((Cluster and Migraine headache treatment protocol - Sept 2023|Magnesium and headaches))
 ---
 
 </code>

@@ -46,7 +46,7 @@ This list is automatically updated
 
 ---
 
-#### 50,000 IU <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-needonce-every-two-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|once every two weeks">One pill every two weeks gives you all the vitamin D most adults need|once every two weeks</a> is a smaller average dose than 5,000 IU daily
+#### 50,000 IU <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">once every two weeks</a> is a smaller average dose than 5,000 IU daily
 
 * <a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">One pill every two weeks gives you all the vitamin D most adults need</a>
 
@@ -94,7 +94,7 @@ This list is automatically updated
 
 ---
 
-#### 50,000 IU &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-needonce-every-two-weeks&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need|once every two weeks&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need|once every two weeks&lt;/a&gt; is a smaller average dose than 5,000 IU daily
+#### 50,000 IU &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;once every two weeks&lt;/a&gt; is a smaller average dose than 5,000 IU daily
 
 * &lt;a href=&quot;/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need&quot;&gt;One pill every two weeks gives you all the vitamin D most adults need&lt;/a&gt;
 
@@ -162,10 +162,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `50,000 IU `
 │   │   inner_content: `50,000 IU `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((One pill every two weeks gives you all the vitamin D most adults need|once every two weeks))`
 │   │   inner_content: `One pill every two weeks gives you all the vitamin D most adults need|once every two weeks`
-│   │   page: `One pill every two weeks gives you all the vitamin D most adults need|once every two weeks`
+│   │   page: `One pill every two weeks gives you all the vitamin D most adults need`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `One pill every two weeks gives you all the vitamin D most adults need|once every two weeks`

@@ -41,7 +41,7 @@ categories:
 
 * 10. Omega 3 fatty acids: 2-4 g daily 
 
-  *  See VitaminDWiki <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3">Overview: Omega-3 many benefits include helping vitamin D|Omega-3</a>
+  *  See VitaminDWiki <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>
 
 * 11. Berberine: A daily dose of 1,000-1,500 mg or 500-600 mg two or three times daily. (Depending on blood glucose levels, metformin and berberine can be used together or alternating months) 
 
@@ -248,7 +248,7 @@ Markdown:
 
 * 10. Omega 3 fatty acids: 2-4 g daily 
 
-  *  See VitaminDWiki &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-domega-3&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D|Omega-3&quot;&gt;Overview: Omega-3 many benefits include helping vitamin D|Omega-3&lt;/a&gt;
+  *  See VitaminDWiki &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;
 
 * 11. Berberine: A daily dose of 1,000-1,500 mg or 500-600 mg two or three times daily. (Depending on blood glucose levels, metformin and berberine can be used together or alternating months) 
 
@@ -581,10 +581,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` See VitaminDWiki `
 │   │   inner_content: ` See VitaminDWiki `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview: Omega-3 many benefits include helping vitamin D|Omega-3))`
 │   │   inner_content: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
-│   │   page: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`
+│   │   page: `Overview: Omega-3 many benefits include helping vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview: Omega-3 many benefits include helping vitamin D|Omega-3`

@@ -602,7 +602,7 @@ Moreover, the underlying mechanisms of how TCM modulates VDR are still largely u
 
 ---
 
-#### <a href="/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-ca-tor-and-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers">A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers</a>
+#### <a href="/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019">Vitamin D Receptor and Cancers</a>
 
 ---
 
@@ -1206,7 +1206,7 @@ Moreover, the underlying mechanisms of how TCM modulates VDR are still largely u
 
 ---
 
-#### &lt;a href=&quot;/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-ca-tor-and-cancers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers&quot;&gt;A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers&lt;/a&gt;
+#### &lt;a href=&quot;/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019&quot;&gt;Vitamin D Receptor and Cancers&lt;/a&gt;
 
 ---
 
@@ -3520,10 +3520,10 @@ AST Structure:
 │   inner_content: `((A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers))`
 │   level: `4`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers))`
 │   │   inner_content: `A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers`
-│   │   page: `A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers`
+│   │   page: `A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019|Vitamin D Receptor and Cancers`

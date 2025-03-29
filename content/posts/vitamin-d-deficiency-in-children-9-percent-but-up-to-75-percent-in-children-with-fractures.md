@@ -97,7 +97,7 @@ This list is automatically updated
 
 <20 cent capsule monthly = $2/year
 
-<a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended-50000-iu-capsules-from-18-amazon-suppliers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers">50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers</a>
+<a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU capsules from 18+ Amazon suppliers</a>
 
  &nbsp;&nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
 
@@ -198,7 +198,7 @@ This list is automatically updated
 
 &lt;20 cent capsule monthly = $2/year
 
-&lt;a href=&quot;/posts/50000-iu-vitamin-d-weekly-is-often-recommended-50000-iu-capsules-from-18-amazon-suppliers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers&quot;&gt;50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers&lt;/a&gt;
+&lt;a href=&quot;/posts/50000-iu-vitamin-d-weekly-is-often-recommended&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended&quot;&gt;50,000 IU capsules from 18+ Amazon suppliers&lt;/a&gt;
 
  &amp;nbsp;&amp;nbsp; Note adults should take 50,000 IU of vitamin D at least twice a month
 
@@ -599,14 +599,14 @@ AST Structure:
 │   │   full_match: `Giving a child 50,000 IU of vitamin D once a month will greatly reduce the chance of a bone fracture, and greatly improve health`
 │   │   inner_content: `Giving a child 50,000 IU of vitamin D once a month will greatly reduce the chance of a bone fracture, and greatly improve health`├── TextNode
 │   full_match: `\n&lt;20 cent capsule monthly = $2/year\n`
-│   inner_content: `\n&lt;20 cent capsule monthly = $2/year\n`├── LocalLinkNode
+│   inner_content: `\n&lt;20 cent capsule monthly = $2/year\n`├── AliasedLocalLinkNode
 │   full_match: `((50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers))`
-│   inner_content: `50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers`
-│   page: `50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers`
+│   inner_content: `50,000 IU Vitamin D weekly is often recommended|50,000 IU capsules from 18+ Amazon suppliers`
+│   page: `50,000 IU Vitamin D weekly is often recommended`
 │   children:
 │   ├── TextNode
-│   │   full_match: `50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers`
-│   │   inner_content: `50,000 IU Vitamin D weekly is often recommended| 50,000 IU capsules from 18+ Amazon suppliers`├── TextNode
+│   │   full_match: `50,000 IU Vitamin D weekly is often recommended|50,000 IU capsules from 18+ Amazon suppliers`
+│   │   inner_content: `50,000 IU Vitamin D weekly is often recommended|50,000 IU capsules from 18+ Amazon suppliers`├── TextNode
 │   full_match: `\n `
 │   inner_content: `\n `├── HorizontalSpaceNode
 │   full_match: `~hs~~hs~`

@@ -73,7 +73,7 @@ IMPLICATIONS OF ALL THE AVAILABLE EVIDENCE: Taken together with null findings fr
 
 * <a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a>
 
-* <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct-o-treat-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets">Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets</a>
+* <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021">Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets</a>
 
 ---
 
@@ -177,7 +177,7 @@ IMPLICATIONS OF ALL THE AVAILABLE EVIDENCE: Taken together with null findings fr
 
 * &lt;a href=&quot;/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013&quot;&gt;Magnesium is needed by Vitamin D in 8 places - 2013&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct-o-treat-rickets&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets&quot;&gt;Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets&lt;/a&gt;
+* &lt;a href=&quot;/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021&quot;&gt;Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets&lt;/a&gt;
 
 ---
 
@@ -486,10 +486,10 @@ AST Structure:
 │   │   inner_content: `((Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets))`
 │   │   depth: `1`
 │   │   children:
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets))`
 │   │   │   inner_content: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets`
-│   │   │   page: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets`
+│   │   │   page: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021|Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets`

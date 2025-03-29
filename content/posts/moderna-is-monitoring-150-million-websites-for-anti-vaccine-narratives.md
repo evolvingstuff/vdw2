@@ -31,7 +31,7 @@ categories:
 
 ---
 
-#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwikivaccination" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|Vaccination">Vaccination pages in VitaminDWiki|Vaccination</a> pages includes:
+#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination</a> pages includes:
 
 * [COVID Vaccination problems - 3,500 studies - Oct 2023](/posts/covid-vaccination-problems-3500-studies)
 
@@ -70,7 +70,7 @@ Markdown:
 
 ---
 
-#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikivaccination&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|Vaccination&quot;&gt;Vaccination pages in VitaminDWiki|Vaccination&lt;/a&gt; pages includes:
+#### VitaminDWiki &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;Vaccination&lt;/a&gt; pages includes:
 
 * [COVID Vaccination problems - 3,500 studies - Oct 2023](/posts/covid-vaccination-problems-3500-studies)
 
@@ -174,10 +174,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki `
 │   │   inner_content: `VitaminDWiki `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|Vaccination))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|Vaccination`
-│   │   page: `Vaccination pages in VitaminDWiki|Vaccination`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|Vaccination`

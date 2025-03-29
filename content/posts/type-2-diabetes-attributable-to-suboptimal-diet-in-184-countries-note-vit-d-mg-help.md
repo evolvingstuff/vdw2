@@ -74,7 +74,7 @@ were associated with the highest estimated attributable burden of T2D incidence 
 
 ---
 
-#### Note: <a href="/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies16-diabetes-and-mg-studies-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023">Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023</a>
+#### Note: [16 Diabetes and Mg studies as of April 2023](/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies)
 
 ---
 
@@ -166,7 +166,7 @@ were associated with the highest estimated attributable burden of T2D incidence 
 
 ---
 
-#### Note: &lt;a href=&quot;/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies16-diabetes-and-mg-studies-as-of&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023&quot;&gt;Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023&lt;/a&gt;
+#### Note: [16 Diabetes and Mg studies as of April 2023](/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies)
 
 ---
 
@@ -413,10 +413,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Note: `
 │   │   inner_content: `Note: `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023))`
 │   │   inner_content: `Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023`
-│   │   page: `Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023`
+│   │   page: `Diabetes, Metabolic Syndrome and Magnesium - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Diabetes, Metabolic Syndrome and Magnesium - many studies|16 Diabetes and Mg studies as of April 2023`

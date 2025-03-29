@@ -71,7 +71,7 @@ This list is automatically updated
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-<a href="/posts/multiple-sclerosisclick-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis|click here for details">Multiple Sclerosis|click here for details</a>
+[click here for details](/categories/multiple-sclerosis)
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -137,7 +137,7 @@ This list is automatically updated
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-&lt;a href=&quot;/posts/multiple-sclerosisclick-here-for-details&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Multiple Sclerosis|click here for details&quot;&gt;Multiple Sclerosis|click here for details&lt;/a&gt;
+[click here for details](/categories/multiple-sclerosis)
 
 AST Structure:
 -------------
@@ -401,10 +401,10 @@ AST Structure:
 │   │   fileId: 2628
 │   │   width: 800├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
+│   inner_content: `\n`├── AliasedLocalLinkNode
 │   full_match: `((Multiple Sclerosis|click here for details))`
 │   inner_content: `Multiple Sclerosis|click here for details`
-│   page: `Multiple Sclerosis|click here for details`
+│   page: `Multiple Sclerosis`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Multiple Sclerosis|click here for details`

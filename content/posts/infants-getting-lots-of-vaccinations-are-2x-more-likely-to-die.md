@@ -47,7 +47,7 @@ Conclusions There are statistically significant positive correlations between mo
 
 ---
 
-#### 14+ Child pages have <a href="/posts/vaccination-pages-in-vitamindwikivaccin-booster-etc-in-the-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title">Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title</a>
+#### 14+ Child pages have <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">VACCIN, BOOSTER, etc in the title</a>
 
 This list is automatically updated
 
@@ -108,7 +108,7 @@ Conclusions There are statistically significant positive correlations between mo
 
 ---
 
-#### 14+ Child pages have &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikivaccin-booster-etc-in-the-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title&quot;&gt;Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title&lt;/a&gt;
+#### 14+ Child pages have &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;VACCIN, BOOSTER, etc in the title&lt;/a&gt;
 
 This list is automatically updated
 
@@ -238,10 +238,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `14+ Child pages have `
 │   │   inner_content: `14+ Child pages have `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title`
-│   │   page: `Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|VACCIN, BOOSTER, etc in the title`

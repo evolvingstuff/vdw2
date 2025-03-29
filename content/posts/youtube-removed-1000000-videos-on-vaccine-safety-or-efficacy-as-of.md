@@ -57,7 +57,7 @@ categories:
 
 ---
 
-#### 225+ VitaminDWiki pages with <a href="/posts/vaccination-pages-in-vitamindwikivaccin-in-the-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN in the title">Vaccination pages in VitaminDWiki|VACCIN in the title</a>
+#### 225+ VitaminDWiki pages with <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">VACCIN in the title</a>
 
 This list is automatically updated
 
@@ -77,7 +77,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies</a>
+#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
 
 
 
@@ -132,7 +132,7 @@ Markdown:
 
 ---
 
-#### 225+ VitaminDWiki pages with &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikivaccin-in-the-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN in the title&quot;&gt;Vaccination pages in VitaminDWiki|VACCIN in the title&lt;/a&gt;
+#### 225+ VitaminDWiki pages with &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;VACCIN in the title&lt;/a&gt;
 
 This list is automatically updated
 
@@ -152,7 +152,7 @@ This list is automatically updated
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studiesexcess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
 
 
 
@@ -455,10 +455,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `225+ VitaminDWiki pages with `
 │   │   inner_content: `225+ VitaminDWiki pages with `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|VACCIN in the title))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|VACCIN in the title`
-│   │   page: `Vaccination pages in VitaminDWiki|VACCIN in the title`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|VACCIN in the title`
@@ -492,10 +492,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies))`
 │   │   inner_content: `Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies`
-│   │   page: `Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies`
+│   │   page: `Excess deaths - 5 possible reasons - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Excess deaths - 5 possible reasons - many studies|Excess deaths - 5 possible reasons - many studies`

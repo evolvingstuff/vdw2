@@ -35,7 +35,7 @@ and many others
 
 ---
 
-#### 258+ VitaminDWiki pages with <a href="/posts/vaccination-pages-in-vitamindwikivaccin-in-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN in title">Vaccination pages in VitaminDWiki|VACCIN in title</a>
+#### 258+ VitaminDWiki pages with <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">VACCIN in title</a>
 
 This list is automatically updated
 
@@ -98,7 +98,7 @@ and many others
 
 ---
 
-#### 258+ VitaminDWiki pages with &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikivaccin-in-title&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|VACCIN in title&quot;&gt;Vaccination pages in VitaminDWiki|VACCIN in title&lt;/a&gt;
+#### 258+ VitaminDWiki pages with &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;VACCIN in title&lt;/a&gt;
 
 This list is automatically updated
 
@@ -226,10 +226,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `258+ VitaminDWiki pages with `
 │   │   inner_content: `258+ VitaminDWiki pages with `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|VACCIN in title))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|VACCIN in title`
-│   │   page: `Vaccination pages in VitaminDWiki|VACCIN in title`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|VACCIN in title`

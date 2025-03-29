@@ -570,7 +570,7 @@ OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
 ---
 
-#### Related inverview: <a href="/posts/periodontal-disease-and-vitamin-d-interview-and-transcript-grh-grant-july-2023pe-e-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . ">Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . </a>
+#### Related inverview: [Peridontal Disease and Vitamin D . . .](/posts/periodontal-disease-and-vitamin-d-interview-and-transcript-grh-grant)
 
 ---
 
@@ -1145,7 +1145,7 @@ OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
 ---
 
-#### Related inverview: &lt;a href=&quot;/posts/periodontal-disease-and-vitamin-d-interview-and-transcript-grh-grant-july-2023pe-e-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . &quot;&gt;Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . &lt;/a&gt;
+#### Related inverview: [Peridontal Disease and Vitamin D . . .](/posts/periodontal-disease-and-vitamin-d-interview-and-transcript-grh-grant)
 
 ---
 
@@ -6378,14 +6378,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Related inverview: `
 │   │   inner_content: `Related inverview: `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . ))`
-│   │   inner_content: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . `
-│   │   page: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . `
+│   │   inner_content: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . .`
+│   │   page: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . `
-│   │   │   inner_content: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . . `├── HorizontalRuleNode
+│   │   │   full_match: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . .`
+│   │   │   inner_content: `Periodontal Disease and Vitamin D - interview and transcript - GRH, Grant July 2023|Peridontal Disease and Vitamin D . . .`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!VitaminDWiki – ((Dental)) category contains:`

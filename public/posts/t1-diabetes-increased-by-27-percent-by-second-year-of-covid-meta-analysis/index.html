@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>T1 Diabetes increased by 27% by second year of COVID – meta-analysis</title>
-    <link rel="stylesheet" href="/css/main.css?v=1742665986">
-    <link rel="stylesheet" href="/css/pagination.css?v=1742665986">
+    <link rel="stylesheet" href="/css/main.css?v=1743272143">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743272143">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1742665986"></script>
+    <script src="/js/search.js?v=1743272143"></script>
 </head>
 <body>
     <div class="container">
@@ -376,7 +376,7 @@
 </li>
 </ul>
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 142 OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) > 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = "wiki page"{SQL} -->
-<p>studies in both<a href="/posts/virus-virus-and-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virus| Virus and Vitamin D Receptor">Virus| Virus and Vitamin D Receptor</a> categories</p>
+<p>studies in both<a href="/categories/virus">Virus and Vitamin D Receptor</a> categories</p>
 <ul>
 <li>
 <p><a href="/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017">Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017</a></p>
@@ -497,7 +497,7 @@ This list is automatically updated
 
   * There are 
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 142 OR categId = 155 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} --&gt;
- studies in both&lt;a href=&quot;/posts/virus-virus-and-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Virus| Virus and Vitamin D Receptor&quot;&gt;Virus| Virus and Vitamin D Receptor&lt;/a&gt; categories
+ studies in both[Virus and Vitamin D Receptor](/categories/virus) categories
 
 * &lt;a href=&quot;/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&quot;&gt;Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&lt;/a&gt;
 
@@ -832,14 +832,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` studies in both`
 │   │   inner_content: ` studies in both`
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Virus| Virus and Vitamin D Receptor))`
-│   │   inner_content: `Virus| Virus and Vitamin D Receptor`
-│   │   page: `Virus| Virus and Vitamin D Receptor`
+│   │   inner_content: `Virus|Virus and Vitamin D Receptor`
+│   │   page: `Virus`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Virus| Virus and Vitamin D Receptor`
-│   │   │   inner_content: `Virus| Virus and Vitamin D Receptor`
+│   │   │   full_match: `Virus|Virus and Vitamin D Receptor`
+│   │   │   inner_content: `Virus|Virus and Vitamin D Receptor`
 │   ├── TextNode
 │   │   full_match: ` categories`
 │   │   inner_content: ` categories`├── TextNode
@@ -1040,7 +1040,7 @@ __COVID protects itself by deactivation of the VDR. %%%COVID probably fails to r
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1742665986"></script>
+    <script src="/js/lightspa.js?v=1743272143"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1050,8 +1050,8 @@ __COVID protects itself by deactivation of the VDR. %%%COVID probably fails to r
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1742665986',
-            indexUrl: '\/search\/search_index.json.gz?v=1742665986'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743272143',
+            indexUrl: '\/search\/search_index.json.gz?v=1743272143'
         });
     </script>
 </body>

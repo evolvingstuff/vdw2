@@ -24,7 +24,7 @@ categories:
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 <img src="/attachments/d3.mock.jpg" alt="image" height="250">
 
-  **<a href="/posts/does-less-sun-mean-more-diseaseenglish" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease|English">Does Less Sun mean More Disease|English</a> &nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
+  **<a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">English</a> &nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
 
 &nbsp;
 
@@ -374,7 +374,7 @@ Markdown:
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; height=&quot;250&quot;&gt;
 
-  **&lt;a href=&quot;/posts/does-less-sun-mean-more-diseaseenglish&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease|English&quot;&gt;Does Less Sun mean More Disease|English&lt;/a&gt; &amp;nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
+  **&lt;a href=&quot;/posts/does-less-sun-mean-more-disease&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Does Less Sun mean More Disease&quot;&gt;English&lt;/a&gt; &amp;nbsp;[with Icelandic captions](https://www.youtube.com/watch?v=6cGHU6k3WFs)** 
 
 &amp;nbsp;
 
@@ -801,10 +801,10 @@ AST Structure:
 │   │   full_match: `__((Does Less Sun mean More Disease|English)) ~hs~[https://www.youtube.com/watch?v=6cGHU6k3WFs|with Icelandic captions]__`
 │   │   inner_content: `((Does Less Sun mean More Disease|English)) ~hs~[https://www.youtube.com/watch?v=6cGHU6k3WFs|with Icelandic captions]`
 │   │   children:
-│   │   ├── LocalLinkNode
+│   │   ├── AliasedLocalLinkNode
 │   │   │   full_match: `((Does Less Sun mean More Disease|English))`
 │   │   │   inner_content: `Does Less Sun mean More Disease|English`
-│   │   │   page: `Does Less Sun mean More Disease|English`
+│   │   │   page: `Does Less Sun mean More Disease`
 │   │   │   children:
 │   │   │   ├── TextNode
 │   │   │   │   full_match: `Does Less Sun mean More Disease|English`

@@ -72,23 +72,23 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/acne" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acne">Acne</a> (20+ studies) 
 
-* <a href="/posts/adhd-and-vitamin-d-deficiencyattention-deficit-hyperactivity-disorderadhd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD">ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD</a> (44+)
+* <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">Attention Deficit Hyperactivity Disorder/ADHD</a> (44+)
 
-* <a href="/posts/overview-alcohol-and-vitamin-dalcohol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alcohol and Vitamin D|Alcohol">Overview Alcohol and Vitamin D|Alcohol</a> (29+) addiction 
+* <a href="/posts/overview-alcohol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alcohol and Vitamin D">Alcohol</a> (29+) addiction 
 
-* <a href="/posts/allergy-overviewallergy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview|Allergy">Allergy - Overview|Allergy</a> (24+) 
+* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy</a> (24+) 
 
 * <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
 
 * <span>[tiki-index.php?page_id=1409]</span> (30+)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-dalzheimers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D|Alzheimer's">Overview Alzheimer's-Cognition and Vitamin D|Alzheimer's</a> (81+) cognition dementia 
+* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Alzheimer's</a> (81+) cognition dementia 
 
 * <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> 
 
-* <a href="/posts/ankylosing-spondylitis-and-low-vitamin-d-several-studiesankylosing-spondylitis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis">Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis</a> (20+)
+* <a href="/posts/ankylosing-spondylitis-and-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – several studies">Ankylosing Spondylitis</a> (20+)
 
-* <a href="/posts/antibiotics-probioticsantibioticsprobiotics" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Antibiotics, probiotics|Antibiotics/Probiotics">Antibiotics, probiotics|Antibiotics/Probiotics</a> (87+) 
+* [Antibiotics/Probiotics](/categories/antibiotics,-probiotics) (87+) 
 
 * <a href="/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Antibiotics and Vitamin D are associated with many of the same diseases">Antibiotics and Vitamin D are associated with many of the same diseases</a> antibiotics
 
@@ -96,7 +96,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>Asthma
 
-* <a href="/posts/atopic-dermatitis-and-eczema-many-studiesatopic-dermatitis-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview">Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview</a> (18+)  Eczema 
+* <a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Atopic Dermatitis Overview</a> (18+)  Eczema 
 
 * [Autism](/categories/autism) (148+) 
 
@@ -112,7 +112,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=8916]</span> (14+) back pain 
 
-* <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar-disorder" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder">Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder</a> (16+) genetics  
+* <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D">Bipolar Disorder</a> (16+) genetics  
 
 * [Bone - Health](/categories/bone---health) (300+) 
 
@@ -128,21 +128,21 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> Cancer 
 
-* <a href="/posts/cancer-after-diagnosisafter-diagnosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer - After diagnosis|After diagnosis">Cancer - After diagnosis|After diagnosis</a> Cancer (101+)
+* [After diagnosis](/categories/cancer---after-diagnosis) Cancer (101+)
 
-* <a href="/posts/cancer-bladderbladder" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer - Bladder|Bladder">Cancer - Bladder|Bladder</a> Cancer  (26+)
+* [Bladder](/categories/cancer---bladder) Cancer  (26+)
 
 * <span>[tiki-index.php?page_id=7048]</span> Cancer (8+)
 
-* <a href="/posts/cancer-breastbreast" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer - Breast|Breast">Cancer - Breast|Breast</a> (246+) 
+* [Breast](/categories/cancer---breast) (246+) 
 
 *  <a href="/posts/overview-breast-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Breast Cancer and Vitamin D">Overview Breast Cancer and Vitamin D</a>Breast Cancer
 
-* <a href="/posts/cancer-coloncolon" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer - Colon|Colon">Cancer - Colon|Colon</a> (137+) 
+* [Colon](/categories/cancer---colon) (137+) 
 
 *  <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>Colon Cancer
 
-* <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studiesgastric" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric">Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric</a> Cancer (9+)
+* <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric</a> Cancer (9+)
 
 * [Cancer - Leukemia](/categories/cancer---leukemia) (19+)
 
@@ -188,9 +188,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=444]</span> (80+) cardiovascular
 
-* <a href="/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studiescarpal-tunnel-syndrome" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome">Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome</a> (12+)
+* <a href="/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies">Carpal Tunnel Syndrome</a> (12+)
 
-* <a href="/posts/cerebral-palsy-and-vitamin-dcerebral-palsy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cerebral Palsy and Vitamin D|Cerebral Palsy">Cerebral Palsy and Vitamin D|Cerebral Palsy</a> (6+) CP 
+* <a href="/posts/cerebral-palsy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cerebral Palsy and Vitamin D">Cerebral Palsy</a> (6+) CP 
 
 * [Cholesterol](/categories/cholesterol) (51+) 
 
@@ -198,7 +198,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
  - - - - -  stopped HP addition of keywords - - - - -
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-dchronic-fatigue" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue">Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue</a> (7) 
+* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Chronic Fatigue</a> (7) 
 
 * <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> chronic fatigue 
 
@@ -216,13 +216,13 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=7180]</span> (10+) cognitive 
 
-* <a href="/posts/overview-colds-and-flu-and-vitamin-dcoldsflu-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D|Colds/flu Overview">Overview Colds and flu and Vitamin D|Colds/flu Overview</a>  
+* <a href="/posts/overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D">Colds/flu Overview</a>  
 
 * <span>[tiki-index.php?page_id=2072]</span> (25+) TBI Traumatic Brain Injury concussion 
 
-* <a href="/posts/copd-fought-by-vitamin-d-many-studieschronic-obstructive-pulmonary-diseasecopd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD">COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD</a> (17+)
+* <a href="/posts/copd-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD fought by Vitamin D - many studies">Chronic obstructive pulmonary disease/COPD</a> (17+)
 
-* <a href="/posts/covid-19-treated-by-vitamin-d-studies-reports-videos-covid-19" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__">COVID-19 treated by Vitamin D - studies, reports, videos| **COVID-19** </a> (1200+)
+* <a href="/posts/covid-19-treated-by-vitamin-d-studies-reports-videos" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 treated by Vitamin D - studies, reports, videos">__COVID-19__</a> (1200+)
 
 * [Cystic Fibrosis](/categories/cystic-fibrosis) (50+)
 
@@ -258,11 +258,11 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=4133]</span>  (10+)ear
 
-* <a href="/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studiesendometriosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis">Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis</a> (8+)
+* <a href="/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies">Endometriosis</a> (8+)
 
-* <a href="/posts/overview-epileptic-children-and-vitamin-depilepsy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Epileptic children and Vitamin D|Epilepsy">Overview Epileptic children and Vitamin D|Epilepsy</a>(16+)
+* <a href="/posts/overview-epileptic-children-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Epileptic children and Vitamin D">Epilepsy</a>(16+)
 
-* <a href="/posts/falls-and-fracturesfallsfractures" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Falls and Fractures|Falls/Fractures">Falls and Fractures|Falls/Fractures</a> (243+) 
+* [Falls/Fractures](/categories/falls-and-fractures) (243+) 
 
 * <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
 
@@ -270,7 +270,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=383]</span> 
 
-* <a href="/posts/fertility-and-spermfertilitysperm" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fertility and sperm|Fertility/Sperm">Fertility and sperm|Fertility/Sperm</a> (131+)
+* [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
 *  [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
 
@@ -280,7 +280,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=383]</span> 
 
-* <a href="/posts/overview-fractures-and-vitamin-dfractures" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D|Fractures">Overview Fractures and vitamin D|Fractures</a> 
+* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Fractures</a> 
 
 * <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
 
@@ -294,11 +294,11 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=3406]</span>  (68+)
 
-* <a href="/posts/frailty-and-vitamin-d-many-studiesfrailty" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D - many studies|Frailty">Frailty and Vitamin D - many studies|Frailty</a> (16+)
+* <a href="/posts/frailty-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D - many studies">Frailty</a> (16+)
 
 * [Genetics](/categories/genetics) (324+) genes fraility 
 
-*  <a href="/posts/geneticscyp24a1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genetics|CYP24A1">Genetics|CYP24A1</a> (31+)
+*  [CYP24A1](/categories/genetics) (31+)
 
 *  <span>[tiki-index.php?page_id=14254]</span> (25+) 
 
@@ -306,9 +306,9 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=14555]</span> (12+) 
 
-*  <a href="/posts/vitamin-d-binding-protein-vit-d-binding" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Binding Protein| Vit D Binding">Vitamin D Binding Protein| Vit D Binding</a> (172+)
+*  <a href="/posts/vitamin-d-binding-protein" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Binding Protein">Vit D Binding</a> (172+)
 
-*  <a href="/posts/vitamin-d-receptor-vit-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor| Vit D Receptor">Vitamin D Receptor| Vit D Receptor</a> (487+) VDR
+*  [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
 
 * &nbsp;&nbsp;&nbsp;<span>[tiki-index.php?page_id=8643]</span> (79+)
 
@@ -336,13 +336,13 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Headache](/categories/headache) (41+) cluster, migraine 
 
-* <a href="/posts/healthhealth-general" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health|Health - general">Health|Health - general</a> (96+)
+* [Health - general](/categories/health) (96+)
 
-* <a href="/posts/hepatitis-b-virus-and-vitamin-d-many-studieshepatitis-b" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hepatitis B virus and Vitamin D - many studies|Hepatitis-B">Hepatitis B virus and Vitamin D - many studies|Hepatitis-B</a> (12+)
+* <a href="/posts/hepatitis-b-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hepatitis B virus and Vitamin D - many studies">Hepatitis-B</a> (12+)
 
-* <a href="/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studieshepatitis-c" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C">Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C</a> (13+)
+* <a href="/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D prevents Hepatitis-C and helps treat it (many studies)">Hepatitis-C</a> (13+)
 
-* <a href="/posts/hivhuman-immunodeficiency-virushiv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HIV|Human Immunodeficiency Virus/HIV">HIV|Human Immunodeficiency Virus/HIV</a> (45+) 
+* [Human Immunodeficiency Virus/HIV](/categories/hiv) (45+) 
 
 * <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
 
@@ -364,7 +364,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=4323]</span> (19+) 
 
-* <a href="/posts/infections-and-low-vitamin-dinfection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infections and low vitamin D|Infection">Infections and low vitamin D|Infection</a>  (141+)
+* <a href="/posts/infections-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infections and low vitamin D">Infection</a>  (141+)
 
 * <span>[tiki-index.php?page_id=1304]</span> flu  
 
@@ -400,7 +400,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-browse_categories.php?parentId=30&sort_mode=created_desc]</span> (293+) 
 
-* <a href="/posts/multiple-sclerosismultiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis|Multiple Sclerosis ">Multiple Sclerosis|Multiple Sclerosis </a> (391+) 
+* [Multiple Sclerosis](/categories/multiple-sclerosis) (391+) 
 
 * <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
 
@@ -414,7 +414,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=11075]</span> (9+) 
 
-* <a href="/posts/myopia-may-be-related-to-low-vitamin-dmyopia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myopia may be related to low vitamin D|Myopia">Myopia may be related to low vitamin D|Myopia</a> (17+)
+* <a href="/posts/myopia-may-be-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myopia may be related to low vitamin D">Myopia</a> (17+)
 
 * <span>[tiki-browse_categories.php?parentId=19&sort_mode=created_desc]</span>  (404+) BMI 
 
@@ -426,7 +426,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=7990]</span> (67+)  obesity 
 
-* <a href="/posts/overview-obesity-and-vitamin-dglp-1-ozempic-wegovy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy">Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy</a>
+* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">GLP-1, Ozempic, Wegovy</a>
 
 * [Osteoarthritis](/categories/osteoarthritis) (57+) 
 
@@ -450,7 +450,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=7691]</span>  (10+)  
 
-* <a href="/posts/parkinsonparkinsons" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Parkinson|Parkinson's">Parkinson|Parkinson's</a> (107+) 
+* [Parkinson's](/categories/parkinson) (107+) 
 
 * <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a> 
 
@@ -506,7 +506,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/overview-of-rickets-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview of Rickets and Vitamin D">Overview of Rickets and Vitamin D</a>
 
-* <a href="/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studiessarcopenia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia">Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia</a> (28+)
+* <a href="/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies">Sarcopenia</a> (28+)
 
 * <span>[tiki-index.php?page_id=2985]</span> 
 
@@ -536,7 +536,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * [Spinal Cord](/categories/spinal-cord) (20+)
 
-* <a href="/posts/spinal-surgery-patients-almost-all-have-low-vitamin-d-nov-2016spinal-surgery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery">Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery</a> (13+)
+* <a href="/posts/spinal-surgery-patients-almost-all-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal Surgery patients – almost all have low vitamin D – Nov 2016">Spinal Surgery</a> (13+)
 
 * <span>[tiki-index.php?page_id=444]</span> (40+)
 
@@ -546,15 +546,15 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 *  <span>[tiki-index.php?page_id=3413]</span> (9+)* <span>[tiki-index.php?page_id=10336]</span> (15+)
 
-* <a href="/posts/suicide-associated-with-low-vitamin-d-many-studiessuicide" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Suicide associated with low vitamin D - many studies|Suicide">Suicide associated with low vitamin D - many studies|Suicide</a> (16+)
+* <a href="/posts/suicide-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Suicide associated with low vitamin D - many studies">Suicide</a> (16+)
 
-* <a href="/posts/thyroid-and-parathyroidthyroidparath" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Thyroid and parathyroid|Thyroid/Parath.">Thyroid and parathyroid|Thyroid/Parath.</a> (79+) 
+* [Thyroid/Parath.](/categories/thyroid-and-parathyroid) (79+) 
 
 * <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a>
 
 *  <span>[tiki-index.php?page_id=14180]</span> (34+) 
 
-* <a href="/posts/trauma-and-surgerytraumasurgery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Trauma and surgery|Trauma/Surgery">Trauma and surgery|Trauma/Surgery</a> (325+)
+* [Trauma/Surgery](/categories/trauma-and-surgery) (325+)
 
 *  <span>[tiki-index.php?page_id=14404]</span> (12+) 
 
@@ -574,7 +574,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <span>[tiki-index.php?page_id=7662]</span> (15+)
 
-* <a href="/posts/vertigo-treated-by-vitamin-d-many-studiesvertigo" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vertigo treated by Vitamin D - many studies|Vertigo">Vertigo treated by Vitamin D - many studies|Vertigo</a> (18+)
+* <a href="/posts/vertigo-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vertigo treated by Vitamin D - many studies">Vertigo</a> (18+)
 
 * [Virus](/categories/virus)  **(1240+)** 
 
@@ -634,7 +634,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
  <span style="color:orange;"> **People and Low Vitamin D** </span>
 
-* <a href="/posts/infant-childinfantchild" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infant-Child|Infant/Child">Infant-Child|Infant/Child</a> (788+)
+* [Infant/Child](/categories/infant-child) (788+)
 
 *  <span>[tiki-index.php?page_id=14501]</span> (36+) 
 
@@ -3894,23 +3894,23 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/acne&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Acne&quot;&gt;Acne&lt;/a&gt; (20+ studies) 
 
-* &lt;a href=&quot;/posts/adhd-and-vitamin-d-deficiencyattention-deficit-hyperactivity-disorderadhd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD&quot;&gt;ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD&lt;/a&gt; (44+)
+* &lt;a href=&quot;/posts/adhd-and-vitamin-d-deficiency&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ADHD and Vitamin D Deficiency&quot;&gt;Attention Deficit Hyperactivity Disorder/ADHD&lt;/a&gt; (44+)
 
-* &lt;a href=&quot;/posts/overview-alcohol-and-vitamin-dalcohol&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alcohol and Vitamin D|Alcohol&quot;&gt;Overview Alcohol and Vitamin D|Alcohol&lt;/a&gt; (29+) addiction 
+* &lt;a href=&quot;/posts/overview-alcohol-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alcohol and Vitamin D&quot;&gt;Alcohol&lt;/a&gt; (29+) addiction 
 
-* &lt;a href=&quot;/posts/allergy-overviewallergy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Allergy - Overview|Allergy&quot;&gt;Allergy - Overview|Allergy&lt;/a&gt; (24+) 
+* &lt;a href=&quot;/posts/allergy-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Allergy - Overview&quot;&gt;Allergy&lt;/a&gt; (24+) 
 
 * &lt;a href=&quot;/posts/allergy-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Allergy - Overview&quot;&gt;Allergy - Overview&lt;/a&gt;
 
 * &lt;span&gt;[tiki-index.php?page_id=1409]&lt;/span&gt; (30+)
 
-* &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-dalzheimers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s&lt;/a&gt; (81+) cognition dementia 
+* &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Alzheimer&#39;s&lt;/a&gt; (81+) cognition dementia 
 
 * &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D&lt;/a&gt; 
 
-* &lt;a href=&quot;/posts/ankylosing-spondylitis-and-low-vitamin-d-several-studiesankylosing-spondylitis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis&quot;&gt;Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis&lt;/a&gt; (20+)
+* &lt;a href=&quot;/posts/ankylosing-spondylitis-and-low-vitamin-d-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ankylosing spondylitis and low vitamin D – several studies&quot;&gt;Ankylosing Spondylitis&lt;/a&gt; (20+)
 
-* &lt;a href=&quot;/posts/antibiotics-probioticsantibioticsprobiotics&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Antibiotics, probiotics|Antibiotics/Probiotics&quot;&gt;Antibiotics, probiotics|Antibiotics/Probiotics&lt;/a&gt; (87+) 
+* [Antibiotics/Probiotics](/categories/antibiotics,-probiotics) (87+) 
 
 * &lt;a href=&quot;/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Antibiotics and Vitamin D are associated with many of the same diseases&quot;&gt;Antibiotics and Vitamin D are associated with many of the same diseases&lt;/a&gt; antibiotics
 
@@ -3918,7 +3918,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-asthma-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Asthma and Vitamin D&quot;&gt;Overview Asthma and Vitamin D&lt;/a&gt;Asthma
 
-* &lt;a href=&quot;/posts/atopic-dermatitis-and-eczema-many-studiesatopic-dermatitis-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview&quot;&gt;Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview&lt;/a&gt; (18+)  Eczema 
+* &lt;a href=&quot;/posts/atopic-dermatitis-and-eczema-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies&quot;&gt;Atopic Dermatitis Overview&lt;/a&gt; (18+)  Eczema 
 
 * [Autism](/categories/autism) (148+) 
 
@@ -3934,7 +3934,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=8916]&lt;/span&gt; (14+) back pain 
 
-* &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar-disorder&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder&quot;&gt;Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder&lt;/a&gt; (16+) genetics  
+* &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D&quot;&gt;Bipolar Disorder&lt;/a&gt; (16+) genetics  
 
 * [Bone - Health](/categories/bone---health) (300+) 
 
@@ -3950,21 +3950,21 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-cancer-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cancer and vitamin D&quot;&gt;Overview Cancer and vitamin D&lt;/a&gt; Cancer 
 
-* &lt;a href=&quot;/posts/cancer-after-diagnosisafter-diagnosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer - After diagnosis|After diagnosis&quot;&gt;Cancer - After diagnosis|After diagnosis&lt;/a&gt; Cancer (101+)
+* [After diagnosis](/categories/cancer---after-diagnosis) Cancer (101+)
 
-* &lt;a href=&quot;/posts/cancer-bladderbladder&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer - Bladder|Bladder&quot;&gt;Cancer - Bladder|Bladder&lt;/a&gt; Cancer  (26+)
+* [Bladder](/categories/cancer---bladder) Cancer  (26+)
 
 * &lt;span&gt;[tiki-index.php?page_id=7048]&lt;/span&gt; Cancer (8+)
 
-* &lt;a href=&quot;/posts/cancer-breastbreast&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer - Breast|Breast&quot;&gt;Cancer - Breast|Breast&lt;/a&gt; (246+) 
+* [Breast](/categories/cancer---breast) (246+) 
 
 *  &lt;a href=&quot;/posts/overview-breast-cancer-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Breast Cancer and Vitamin D&quot;&gt;Overview Breast Cancer and Vitamin D&lt;/a&gt;Breast Cancer
 
-* &lt;a href=&quot;/posts/cancer-coloncolon&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cancer - Colon|Colon&quot;&gt;Cancer - Colon|Colon&lt;/a&gt; (137+) 
+* [Colon](/categories/cancer---colon) (137+) 
 
 *  &lt;a href=&quot;/posts/overview-cancer-colon-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Cancer-Colon and vitamin D&quot;&gt;Overview Cancer-Colon and vitamin D&lt;/a&gt;Colon Cancer
 
-* &lt;a href=&quot;/posts/gastric-cancer-vitamin-d-vdr-uv-many-studiesgastric&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric&quot;&gt;Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric&lt;/a&gt; Cancer (9+)
+* &lt;a href=&quot;/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies&quot;&gt;Gastric&lt;/a&gt; Cancer (9+)
 
 * [Cancer - Leukemia](/categories/cancer---leukemia) (19+)
 
@@ -4010,9 +4010,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (80+) cardiovascular
 
-* &lt;a href=&quot;/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studiescarpal-tunnel-syndrome&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome&quot;&gt;Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome&lt;/a&gt; (12+)
+* &lt;a href=&quot;/posts/carpal-tunnel-syndrome-and-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Carpal tunnel syndrome and low vitamin D - many studies&quot;&gt;Carpal Tunnel Syndrome&lt;/a&gt; (12+)
 
-* &lt;a href=&quot;/posts/cerebral-palsy-and-vitamin-dcerebral-palsy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cerebral Palsy and Vitamin D|Cerebral Palsy&quot;&gt;Cerebral Palsy and Vitamin D|Cerebral Palsy&lt;/a&gt; (6+) CP 
+* &lt;a href=&quot;/posts/cerebral-palsy-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Cerebral Palsy and Vitamin D&quot;&gt;Cerebral Palsy&lt;/a&gt; (6+) CP 
 
 * [Cholesterol](/categories/cholesterol) (51+) 
 
@@ -4020,7 +4020,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
  - - - - -  stopped HP addition of keywords - - - - -
 
-* &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-dchronic-fatigue&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue&lt;/a&gt; (7) 
+* &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Chronic Fatigue&lt;/a&gt; (7) 
 
 * &lt;a href=&quot;/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D&quot;&gt;Overview Fibromyalgia or Chronic Fatigue and vitamin D&lt;/a&gt; chronic fatigue 
 
@@ -4038,13 +4038,13 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=7180]&lt;/span&gt; (10+) cognitive 
 
-* &lt;a href=&quot;/posts/overview-colds-and-flu-and-vitamin-dcoldsflu-overview&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Colds and flu and Vitamin D|Colds/flu Overview&quot;&gt;Overview Colds and flu and Vitamin D|Colds/flu Overview&lt;/a&gt;  
+* &lt;a href=&quot;/posts/overview-colds-and-flu-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Colds and flu and Vitamin D&quot;&gt;Colds/flu Overview&lt;/a&gt;  
 
 * &lt;span&gt;[tiki-index.php?page_id=2072]&lt;/span&gt; (25+) TBI Traumatic Brain Injury concussion 
 
-* &lt;a href=&quot;/posts/copd-fought-by-vitamin-d-many-studieschronic-obstructive-pulmonary-diseasecopd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD&quot;&gt;COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD&lt;/a&gt; (17+)
+* &lt;a href=&quot;/posts/copd-fought-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COPD fought by Vitamin D - many studies&quot;&gt;Chronic obstructive pulmonary disease/COPD&lt;/a&gt; (17+)
 
-* &lt;a href=&quot;/posts/covid-19-treated-by-vitamin-d-studies-reports-videos-covid-19&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__&quot;&gt;COVID-19 treated by Vitamin D - studies, reports, videos| **COVID-19** &lt;/a&gt; (1200+)
+* &lt;a href=&quot;/posts/covid-19-treated-by-vitamin-d-studies-reports-videos&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID-19 treated by Vitamin D - studies, reports, videos&quot;&gt;__COVID-19__&lt;/a&gt; (1200+)
 
 * [Cystic Fibrosis](/categories/cystic-fibrosis) (50+)
 
@@ -4080,11 +4080,11 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=4133]&lt;/span&gt;  (10+)ear
 
-* &lt;a href=&quot;/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studiesendometriosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis&quot;&gt;Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis&lt;/a&gt; (8+)
+* &lt;a href=&quot;/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Endometriosis treated, and perhaps prevented, by vitamin D - many studies&quot;&gt;Endometriosis&lt;/a&gt; (8+)
 
-* &lt;a href=&quot;/posts/overview-epileptic-children-and-vitamin-depilepsy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Epileptic children and Vitamin D|Epilepsy&quot;&gt;Overview Epileptic children and Vitamin D|Epilepsy&lt;/a&gt;(16+)
+* &lt;a href=&quot;/posts/overview-epileptic-children-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Epileptic children and Vitamin D&quot;&gt;Epilepsy&lt;/a&gt;(16+)
 
-* &lt;a href=&quot;/posts/falls-and-fracturesfallsfractures&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Falls and Fractures|Falls/Fractures&quot;&gt;Falls and Fractures|Falls/Fractures&lt;/a&gt; (243+) 
+* [Falls/Fractures](/categories/falls-and-fractures) (243+) 
 
 * &lt;a href=&quot;/posts/overview-fractures-and-falls-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fractures and Falls and Vitamin D&quot;&gt;Overview Fractures and Falls and Vitamin D&lt;/a&gt;
 
@@ -4092,7 +4092,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=383]&lt;/span&gt; 
 
-* &lt;a href=&quot;/posts/fertility-and-spermfertilitysperm&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Fertility and sperm|Fertility/Sperm&quot;&gt;Fertility and sperm|Fertility/Sperm&lt;/a&gt; (131+)
+* [Fertility/Sperm](/categories/fertility-and-sperm) (131+)
 
 *  [Erectile Dysfunction](/tiki-index.php?page_id=5686) (12+)
 
@@ -4102,7 +4102,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=383]&lt;/span&gt; 
 
-* &lt;a href=&quot;/posts/overview-fractures-and-vitamin-dfractures&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fractures and vitamin D|Fractures&quot;&gt;Overview Fractures and vitamin D|Fractures&lt;/a&gt; 
+* &lt;a href=&quot;/posts/overview-fractures-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fractures and vitamin D&quot;&gt;Fractures&lt;/a&gt; 
 
 * &lt;a href=&quot;/posts/overview-fractures-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Fractures and vitamin D&quot;&gt;Overview Fractures and vitamin D&lt;/a&gt;
 
@@ -4116,11 +4116,11 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=3406]&lt;/span&gt;  (68+)
 
-* &lt;a href=&quot;/posts/frailty-and-vitamin-d-many-studiesfrailty&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Frailty and Vitamin D - many studies|Frailty&quot;&gt;Frailty and Vitamin D - many studies|Frailty&lt;/a&gt; (16+)
+* &lt;a href=&quot;/posts/frailty-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Frailty and Vitamin D - many studies&quot;&gt;Frailty&lt;/a&gt; (16+)
 
 * [Genetics](/categories/genetics) (324+) genes fraility 
 
-*  &lt;a href=&quot;/posts/geneticscyp24a1&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Genetics|CYP24A1&quot;&gt;Genetics|CYP24A1&lt;/a&gt; (31+)
+*  [CYP24A1](/categories/genetics) (31+)
 
 *  &lt;span&gt;[tiki-index.php?page_id=14254]&lt;/span&gt; (25+) 
 
@@ -4128,9 +4128,9 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=14555]&lt;/span&gt; (12+) 
 
-*  &lt;a href=&quot;/posts/vitamin-d-binding-protein-vit-d-binding&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Binding Protein| Vit D Binding&quot;&gt;Vitamin D Binding Protein| Vit D Binding&lt;/a&gt; (172+)
+*  &lt;a href=&quot;/posts/vitamin-d-binding-protein&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Binding Protein&quot;&gt;Vit D Binding&lt;/a&gt; (172+)
 
-*  &lt;a href=&quot;/posts/vitamin-d-receptor-vit-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Receptor| Vit D Receptor&quot;&gt;Vitamin D Receptor| Vit D Receptor&lt;/a&gt; (487+) VDR
+*  [Vit D Receptor](/categories/vitamin-d-receptor) (487+) VDR
 
 * &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span&gt;[tiki-index.php?page_id=8643]&lt;/span&gt; (79+)
 
@@ -4158,13 +4158,13 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Headache](/categories/headache) (41+) cluster, migraine 
 
-* &lt;a href=&quot;/posts/healthhealth-general&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Health|Health - general&quot;&gt;Health|Health - general&lt;/a&gt; (96+)
+* [Health - general](/categories/health) (96+)
 
-* &lt;a href=&quot;/posts/hepatitis-b-virus-and-vitamin-d-many-studieshepatitis-b&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hepatitis B virus and Vitamin D - many studies|Hepatitis-B&quot;&gt;Hepatitis B virus and Vitamin D - many studies|Hepatitis-B&lt;/a&gt; (12+)
+* &lt;a href=&quot;/posts/hepatitis-b-virus-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hepatitis B virus and Vitamin D - many studies&quot;&gt;Hepatitis-B&lt;/a&gt; (12+)
 
-* &lt;a href=&quot;/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studieshepatitis-c&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C&quot;&gt;Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C&lt;/a&gt; (13+)
+* &lt;a href=&quot;/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D prevents Hepatitis-C and helps treat it (many studies)&quot;&gt;Hepatitis-C&lt;/a&gt; (13+)
 
-* &lt;a href=&quot;/posts/hivhuman-immunodeficiency-virushiv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: HIV|Human Immunodeficiency Virus/HIV&quot;&gt;HIV|Human Immunodeficiency Virus/HIV&lt;/a&gt; (45+) 
+* [Human Immunodeficiency Virus/HIV](/categories/hiv) (45+) 
 
 * &lt;a href=&quot;/posts/overview-hiv-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview HIV and vitamin D&quot;&gt;Overview HIV and vitamin D&lt;/a&gt;
 
@@ -4186,7 +4186,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=4323]&lt;/span&gt; (19+) 
 
-* &lt;a href=&quot;/posts/infections-and-low-vitamin-dinfection&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Infections and low vitamin D|Infection&quot;&gt;Infections and low vitamin D|Infection&lt;/a&gt;  (141+)
+* &lt;a href=&quot;/posts/infections-and-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Infections and low vitamin D&quot;&gt;Infection&lt;/a&gt;  (141+)
 
 * &lt;span&gt;[tiki-index.php?page_id=1304]&lt;/span&gt; flu  
 
@@ -4222,7 +4222,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-browse_categories.php?parentId=30&amp;sort_mode=created_desc]&lt;/span&gt; (293+) 
 
-* &lt;a href=&quot;/posts/multiple-sclerosismultiple-sclerosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Multiple Sclerosis|Multiple Sclerosis &quot;&gt;Multiple Sclerosis|Multiple Sclerosis &lt;/a&gt; (391+) 
+* [Multiple Sclerosis](/categories/multiple-sclerosis) (391+) 
 
 * &lt;a href=&quot;/posts/overview-ms-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview MS and vitamin D&quot;&gt;Overview MS and vitamin D&lt;/a&gt;
 
@@ -4236,7 +4236,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=11075]&lt;/span&gt; (9+) 
 
-* &lt;a href=&quot;/posts/myopia-may-be-related-to-low-vitamin-dmyopia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Myopia may be related to low vitamin D|Myopia&quot;&gt;Myopia may be related to low vitamin D|Myopia&lt;/a&gt; (17+)
+* &lt;a href=&quot;/posts/myopia-may-be-related-to-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Myopia may be related to low vitamin D&quot;&gt;Myopia&lt;/a&gt; (17+)
 
 * &lt;span&gt;[tiki-browse_categories.php?parentId=19&amp;sort_mode=created_desc]&lt;/span&gt;  (404+) BMI 
 
@@ -4248,7 +4248,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=7990]&lt;/span&gt; (67+)  obesity 
 
-* &lt;a href=&quot;/posts/overview-obesity-and-vitamin-dglp-1-ozempic-wegovy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy&quot;&gt;Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy&lt;/a&gt;
+* &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;GLP-1, Ozempic, Wegovy&lt;/a&gt;
 
 * [Osteoarthritis](/categories/osteoarthritis) (57+) 
 
@@ -4272,7 +4272,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=7691]&lt;/span&gt;  (10+)  
 
-* &lt;a href=&quot;/posts/parkinsonparkinsons&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Parkinson|Parkinson&#39;s&quot;&gt;Parkinson|Parkinson&#39;s&lt;/a&gt; (107+) 
+* [Parkinson&#39;s](/categories/parkinson) (107+) 
 
 * &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinson&#39;s and Vitamin D&quot;&gt;Overview Parkinson&#39;s and Vitamin D&lt;/a&gt; 
 
@@ -4328,7 +4328,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/overview-of-rickets-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview of Rickets and Vitamin D&quot;&gt;Overview of Rickets and Vitamin D&lt;/a&gt;
 
-* &lt;a href=&quot;/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studiessarcopenia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia&quot;&gt;Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia&lt;/a&gt; (28+)
+* &lt;a href=&quot;/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies&quot;&gt;Sarcopenia&lt;/a&gt; (28+)
 
 * &lt;span&gt;[tiki-index.php?page_id=2985]&lt;/span&gt; 
 
@@ -4358,7 +4358,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * [Spinal Cord](/categories/spinal-cord) (20+)
 
-* &lt;a href=&quot;/posts/spinal-surgery-patients-almost-all-have-low-vitamin-d-nov-2016spinal-surgery&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery&quot;&gt;Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery&lt;/a&gt; (13+)
+* &lt;a href=&quot;/posts/spinal-surgery-patients-almost-all-have-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Spinal Surgery patients – almost all have low vitamin D – Nov 2016&quot;&gt;Spinal Surgery&lt;/a&gt; (13+)
 
 * &lt;span&gt;[tiki-index.php?page_id=444]&lt;/span&gt; (40+)
 
@@ -4368,15 +4368,15 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 *  &lt;span&gt;[tiki-index.php?page_id=3413]&lt;/span&gt; (9+)* &lt;span&gt;[tiki-index.php?page_id=10336]&lt;/span&gt; (15+)
 
-* &lt;a href=&quot;/posts/suicide-associated-with-low-vitamin-d-many-studiessuicide&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Suicide associated with low vitamin D - many studies|Suicide&quot;&gt;Suicide associated with low vitamin D - many studies|Suicide&lt;/a&gt; (16+)
+* &lt;a href=&quot;/posts/suicide-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Suicide associated with low vitamin D - many studies&quot;&gt;Suicide&lt;/a&gt; (16+)
 
-* &lt;a href=&quot;/posts/thyroid-and-parathyroidthyroidparath&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Thyroid and parathyroid|Thyroid/Parath.&quot;&gt;Thyroid and parathyroid|Thyroid/Parath.&lt;/a&gt; (79+) 
+* [Thyroid/Parath.](/categories/thyroid-and-parathyroid) (79+) 
 
 * &lt;a href=&quot;/posts/overview-thyroid-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Thyroid and Vitamin D&quot;&gt;Overview Thyroid and Vitamin D&lt;/a&gt;
 
 *  &lt;span&gt;[tiki-index.php?page_id=14180]&lt;/span&gt; (34+) 
 
-* &lt;a href=&quot;/posts/trauma-and-surgerytraumasurgery&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Trauma and surgery|Trauma/Surgery&quot;&gt;Trauma and surgery|Trauma/Surgery&lt;/a&gt; (325+)
+* [Trauma/Surgery](/categories/trauma-and-surgery) (325+)
 
 *  &lt;span&gt;[tiki-index.php?page_id=14404]&lt;/span&gt; (12+) 
 
@@ -4396,7 +4396,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;span&gt;[tiki-index.php?page_id=7662]&lt;/span&gt; (15+)
 
-* &lt;a href=&quot;/posts/vertigo-treated-by-vitamin-d-many-studiesvertigo&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vertigo treated by Vitamin D - many studies|Vertigo&quot;&gt;Vertigo treated by Vitamin D - many studies|Vertigo&lt;/a&gt; (18+)
+* &lt;a href=&quot;/posts/vertigo-treated-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vertigo treated by Vitamin D - many studies&quot;&gt;Vertigo&lt;/a&gt; (18+)
 
 * [Virus](/categories/virus)  **(1240+)** 
 
@@ -4456,7 +4456,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
  &lt;span style=&quot;color:orange;&quot;&gt; **People and Low Vitamin D** &lt;/span&gt;
 
-* &lt;a href=&quot;/posts/infant-childinfantchild&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Infant-Child|Infant/Child&quot;&gt;Infant-Child|Infant/Child&lt;/a&gt; (788+)
+* [Infant/Child](/categories/infant-child) (788+)
 
 *  &lt;span&gt;[tiki-index.php?page_id=14501]&lt;/span&gt; (36+) 
 
@@ -7815,10 +7815,10 @@ AST Structure:
 │   inner_content: `((ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD)) (44+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD))`
 │   │   inner_content: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD`
-│   │   page: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD`
+│   │   page: `ADHD and Vitamin D Deficiency`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder/ADHD`
@@ -7832,10 +7832,10 @@ AST Structure:
 │   inner_content: `((Overview Alcohol and Vitamin D|Alcohol)) (29+) addiction `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Alcohol and Vitamin D|Alcohol))`
 │   │   inner_content: `Overview Alcohol and Vitamin D|Alcohol`
-│   │   page: `Overview Alcohol and Vitamin D|Alcohol`
+│   │   page: `Overview Alcohol and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Alcohol and Vitamin D|Alcohol`
@@ -7849,10 +7849,10 @@ AST Structure:
 │   inner_content: `((Allergy - Overview|Allergy)) (24+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Allergy - Overview|Allergy))`
 │   │   inner_content: `Allergy - Overview|Allergy`
-│   │   page: `Allergy - Overview|Allergy`
+│   │   page: `Allergy - Overview`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Allergy - Overview|Allergy`
@@ -7897,10 +7897,10 @@ AST Structure:
 │   inner_content: `((Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s)) (81+) cognition dementia `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s))`
 │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s`
-│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s`
+│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s`
@@ -7931,10 +7931,10 @@ AST Structure:
 │   inner_content: `((Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis)) (20+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis))`
 │   │   inner_content: `Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis`
-│   │   page: `Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis`
+│   │   page: `Ankylosing spondylitis and low vitamin D – several studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Ankylosing spondylitis and low vitamin D – several studies|Ankylosing Spondylitis`
@@ -7948,10 +7948,10 @@ AST Structure:
 │   inner_content: `((Antibiotics, probiotics|Antibiotics/Probiotics)) (87+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Antibiotics, probiotics|Antibiotics/Probiotics))`
 │   │   inner_content: `Antibiotics, probiotics|Antibiotics/Probiotics`
-│   │   page: `Antibiotics, probiotics|Antibiotics/Probiotics`
+│   │   page: `Antibiotics, probiotics`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Antibiotics, probiotics|Antibiotics/Probiotics`
@@ -8016,10 +8016,10 @@ AST Structure:
 │   inner_content: `((Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview)) (18+)  Eczema `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview))`
 │   │   inner_content: `Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview`
-│   │   page: `Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview`
+│   │   page: `Atopic Dermatitis and Eczema - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Atopic Dermatitis and Eczema - many studies|Atopic Dermatitis Overview`
@@ -8161,10 +8161,10 @@ AST Structure:
 │   inner_content: `((Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder)) (16+) genetics  `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder))`
 │   │   inner_content: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder`
-│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder`
+│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder`
@@ -8303,10 +8303,10 @@ AST Structure:
 │   inner_content: `((Cancer - After diagnosis|After diagnosis)) Cancer (101+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cancer - After diagnosis|After diagnosis))`
 │   │   inner_content: `Cancer - After diagnosis|After diagnosis`
-│   │   page: `Cancer - After diagnosis|After diagnosis`
+│   │   page: `Cancer - After diagnosis`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer - After diagnosis|After diagnosis`
@@ -8320,10 +8320,10 @@ AST Structure:
 │   inner_content: `((Cancer - Bladder|Bladder)) Cancer  (26+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cancer - Bladder|Bladder))`
 │   │   inner_content: `Cancer - Bladder|Bladder`
-│   │   page: `Cancer - Bladder|Bladder`
+│   │   page: `Cancer - Bladder`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer - Bladder|Bladder`
@@ -8354,10 +8354,10 @@ AST Structure:
 │   inner_content: `((Cancer - Breast|Breast)) (246+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cancer - Breast|Breast))`
 │   │   inner_content: `Cancer - Breast|Breast`
-│   │   page: `Cancer - Breast|Breast`
+│   │   page: `Cancer - Breast`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer - Breast|Breast`
@@ -8391,10 +8391,10 @@ AST Structure:
 │   inner_content: `((Cancer - Colon|Colon)) (137+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cancer - Colon|Colon))`
 │   │   inner_content: `Cancer - Colon|Colon`
-│   │   page: `Cancer - Colon|Colon`
+│   │   page: `Cancer - Colon`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cancer - Colon|Colon`
@@ -8428,10 +8428,10 @@ AST Structure:
 │   inner_content: `((Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric)) Cancer (9+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric))`
 │   │   inner_content: `Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric`
-│   │   page: `Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric`
+│   │   page: `Gastric Cancer, Vitamin D, VDR, UV - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Gastric Cancer, Vitamin D, VDR, UV - many studies|Gastric`
@@ -8834,10 +8834,10 @@ AST Structure:
 │   inner_content: `((Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome)) (12+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome))`
 │   │   inner_content: `Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome`
-│   │   page: `Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome`
+│   │   page: `Carpal tunnel syndrome and low vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Carpal tunnel syndrome and low vitamin D - many studies|Carpal Tunnel Syndrome`
@@ -8851,10 +8851,10 @@ AST Structure:
 │   inner_content: `((Cerebral Palsy and Vitamin D|Cerebral Palsy)) (6+) CP `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Cerebral Palsy and Vitamin D|Cerebral Palsy))`
 │   │   inner_content: `Cerebral Palsy and Vitamin D|Cerebral Palsy`
-│   │   page: `Cerebral Palsy and Vitamin D|Cerebral Palsy`
+│   │   page: `Cerebral Palsy and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Cerebral Palsy and Vitamin D|Cerebral Palsy`
@@ -8902,10 +8902,10 @@ AST Structure:
 │   inner_content: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue)) (7) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue))`
 │   │   inner_content: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue`
-│   │   page: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue`
+│   │   page: `Overview Fibromyalgia or Chronic Fatigue and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Fibromyalgia or Chronic Fatigue and vitamin D|Chronic Fatigue`
@@ -9067,10 +9067,10 @@ AST Structure:
 │   inner_content: `((Overview Colds and flu and Vitamin D|Colds/flu Overview))  `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Colds and flu and Vitamin D|Colds/flu Overview))`
 │   │   inner_content: `Overview Colds and flu and Vitamin D|Colds/flu Overview`
-│   │   page: `Overview Colds and flu and Vitamin D|Colds/flu Overview`
+│   │   page: `Overview Colds and flu and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Colds and flu and Vitamin D|Colds/flu Overview`
@@ -9101,10 +9101,10 @@ AST Structure:
 │   inner_content: `((COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD)) (17+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD))`
 │   │   inner_content: `COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD`
-│   │   page: `COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD`
+│   │   page: `COPD fought by Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `COPD fought by Vitamin D - many studies|Chronic obstructive pulmonary disease/COPD`
@@ -9118,10 +9118,10 @@ AST Structure:
 │   inner_content: `((COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__)) (1200+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__))`
 │   │   inner_content: `COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__`
-│   │   page: `COVID-19 treated by Vitamin D - studies, reports, videos|__COVID-19__`
+│   │   page: `COVID-19 treated by Vitamin D - studies, reports, videos`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `COVID-19 treated by Vitamin D - studies, reports, videos|`
@@ -9480,10 +9480,10 @@ AST Structure:
 │   inner_content: `((Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis)) (8+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis))`
 │   │   inner_content: `Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis`
-│   │   page: `Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis`
+│   │   page: `Endometriosis treated, and perhaps prevented, by vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Endometriosis treated, and perhaps prevented, by vitamin D - many studies|Endometriosis`
@@ -9497,10 +9497,10 @@ AST Structure:
 │   inner_content: `((Overview Epileptic children and Vitamin D|Epilepsy))(16+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Epileptic children and Vitamin D|Epilepsy))`
 │   │   inner_content: `Overview Epileptic children and Vitamin D|Epilepsy`
-│   │   page: `Overview Epileptic children and Vitamin D|Epilepsy`
+│   │   page: `Overview Epileptic children and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Epileptic children and Vitamin D|Epilepsy`
@@ -9514,10 +9514,10 @@ AST Structure:
 │   inner_content: `((Falls and Fractures|Falls/Fractures)) (243+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Falls and Fractures|Falls/Fractures))`
 │   │   inner_content: `Falls and Fractures|Falls/Fractures`
-│   │   page: `Falls and Fractures|Falls/Fractures`
+│   │   page: `Falls and Fractures`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Falls and Fractures|Falls/Fractures`
@@ -9579,10 +9579,10 @@ AST Structure:
 │   inner_content: `((Fertility and sperm|Fertility/Sperm)) (131+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Fertility and sperm|Fertility/Sperm))`
 │   │   inner_content: `Fertility and sperm|Fertility/Sperm`
-│   │   page: `Fertility and sperm|Fertility/Sperm`
+│   │   page: `Fertility and sperm`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Fertility and sperm|Fertility/Sperm`
@@ -9670,10 +9670,10 @@ AST Structure:
 │   inner_content: `((Overview Fractures and vitamin D|Fractures)) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Fractures and vitamin D|Fractures))`
 │   │   inner_content: `Overview Fractures and vitamin D|Fractures`
-│   │   page: `Overview Fractures and vitamin D|Fractures`
+│   │   page: `Overview Fractures and vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Fractures and vitamin D|Fractures`
@@ -9801,10 +9801,10 @@ AST Structure:
 │   inner_content: `((Frailty and Vitamin D - many studies|Frailty)) (16+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Frailty and Vitamin D - many studies|Frailty))`
 │   │   inner_content: `Frailty and Vitamin D - many studies|Frailty`
-│   │   page: `Frailty and Vitamin D - many studies|Frailty`
+│   │   page: `Frailty and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Frailty and Vitamin D - many studies|Frailty`
@@ -9838,10 +9838,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` `
 │   │   inner_content: ` `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Genetics|CYP24A1))`
 │   │   inner_content: `Genetics|CYP24A1`
-│   │   page: `Genetics|CYP24A1`
+│   │   page: `Genetics`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Genetics|CYP24A1`
@@ -9918,14 +9918,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` `
 │   │   inner_content: ` `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Binding Protein| Vit D Binding))`
-│   │   inner_content: `Vitamin D Binding Protein| Vit D Binding`
-│   │   page: `Vitamin D Binding Protein| Vit D Binding`
+│   │   inner_content: `Vitamin D Binding Protein|Vit D Binding`
+│   │   page: `Vitamin D Binding Protein`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Vitamin D Binding Protein| Vit D Binding`
-│   │   │   inner_content: `Vitamin D Binding Protein| Vit D Binding`
+│   │   │   full_match: `Vitamin D Binding Protein|Vit D Binding`
+│   │   │   inner_content: `Vitamin D Binding Protein|Vit D Binding`
 │   ├── TextNode
 │   │   full_match: ` (172+)`
 │   │   inner_content: ` (172+)`├── TextNode
@@ -9938,14 +9938,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` `
 │   │   inner_content: ` `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D Receptor| Vit D Receptor))`
-│   │   inner_content: `Vitamin D Receptor| Vit D Receptor`
-│   │   page: `Vitamin D Receptor| Vit D Receptor`
+│   │   inner_content: `Vitamin D Receptor|Vit D Receptor`
+│   │   page: `Vitamin D Receptor`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Vitamin D Receptor| Vit D Receptor`
-│   │   │   inner_content: `Vitamin D Receptor| Vit D Receptor`
+│   │   │   full_match: `Vitamin D Receptor|Vit D Receptor`
+│   │   │   inner_content: `Vitamin D Receptor|Vit D Receptor`
 │   ├── TextNode
 │   │   full_match: ` (487+) VDR`
 │   │   inner_content: ` (487+) VDR`├── TextNode
@@ -10177,10 +10177,10 @@ AST Structure:
 │   inner_content: `((Health|Health - general)) (96+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Health|Health - general))`
 │   │   inner_content: `Health|Health - general`
-│   │   page: `Health|Health - general`
+│   │   page: `Health`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Health|Health - general`
@@ -10194,10 +10194,10 @@ AST Structure:
 │   inner_content: `((Hepatitis B virus and Vitamin D - many studies|Hepatitis-B)) (12+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Hepatitis B virus and Vitamin D - many studies|Hepatitis-B))`
 │   │   inner_content: `Hepatitis B virus and Vitamin D - many studies|Hepatitis-B`
-│   │   page: `Hepatitis B virus and Vitamin D - many studies|Hepatitis-B`
+│   │   page: `Hepatitis B virus and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Hepatitis B virus and Vitamin D - many studies|Hepatitis-B`
@@ -10211,10 +10211,10 @@ AST Structure:
 │   inner_content: `((Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C)) (13+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C))`
 │   │   inner_content: `Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C`
-│   │   page: `Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C`
+│   │   page: `Vitamin D prevents Hepatitis-C and helps treat it (many studies)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vitamin D prevents Hepatitis-C and helps treat it (many studies)|Hepatitis-C`
@@ -10228,10 +10228,10 @@ AST Structure:
 │   inner_content: `((HIV|Human Immunodeficiency Virus/HIV)) (45+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((HIV|Human Immunodeficiency Virus/HIV))`
 │   │   inner_content: `HIV|Human Immunodeficiency Virus/HIV`
-│   │   page: `HIV|Human Immunodeficiency Virus/HIV`
+│   │   page: `HIV`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `HIV|Human Immunodeficiency Virus/HIV`
@@ -10409,10 +10409,10 @@ AST Structure:
 │   inner_content: `((Infections and low vitamin D|Infection))  (141+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Infections and low vitamin D|Infection))`
 │   │   inner_content: `Infections and low vitamin D|Infection`
-│   │   page: `Infections and low vitamin D|Infection`
+│   │   page: `Infections and low vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Infections and low vitamin D|Infection`
@@ -10703,14 +10703,14 @@ AST Structure:
 │   inner_content: `((Multiple Sclerosis|Multiple Sclerosis )) (391+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Multiple Sclerosis|Multiple Sclerosis ))`
-│   │   inner_content: `Multiple Sclerosis|Multiple Sclerosis `
-│   │   page: `Multiple Sclerosis|Multiple Sclerosis `
+│   │   inner_content: `Multiple Sclerosis|Multiple Sclerosis`
+│   │   page: `Multiple Sclerosis`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Multiple Sclerosis|Multiple Sclerosis `
-│   │   │   inner_content: `Multiple Sclerosis|Multiple Sclerosis `
+│   │   │   full_match: `Multiple Sclerosis|Multiple Sclerosis`
+│   │   │   inner_content: `Multiple Sclerosis|Multiple Sclerosis`
 │   ├── TextNode
 │   │   full_match: ` (391+) `
 │   │   inner_content: ` (391+) `├── TextNode
@@ -10828,10 +10828,10 @@ AST Structure:
 │   inner_content: `((Myopia may be related to low vitamin D|Myopia)) (17+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Myopia may be related to low vitamin D|Myopia))`
 │   │   inner_content: `Myopia may be related to low vitamin D|Myopia`
-│   │   page: `Myopia may be related to low vitamin D|Myopia`
+│   │   page: `Myopia may be related to low vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Myopia may be related to low vitamin D|Myopia`
@@ -10936,10 +10936,10 @@ AST Structure:
 │   inner_content: `((Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy))`
 │   │   inner_content: `Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy`
-│   │   page: `Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy`
+│   │   page: `Overview Obesity and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Obesity and Vitamin D|GLP-1, Ozempic, Wegovy`
@@ -11120,10 +11120,10 @@ AST Structure:
 │   inner_content: `((Parkinson|Parkinson&#39;s)) (107+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Parkinson|Parkinson&#39;s))`
 │   │   inner_content: `Parkinson|Parkinson&#39;s`
-│   │   page: `Parkinson|Parkinson&#39;s`
+│   │   page: `Parkinson`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Parkinson|Parkinson&#39;s`
@@ -11629,10 +11629,10 @@ AST Structure:
 │   inner_content: `((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia)) (28+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia))`
 │   │   inner_content: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia`
-│   │   page: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia`
+│   │   page: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies|Sarcopenia`
@@ -11888,10 +11888,10 @@ AST Structure:
 │   inner_content: `((Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery)) (13+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery))`
 │   │   inner_content: `Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery`
-│   │   page: `Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery`
+│   │   page: `Spinal Surgery patients – almost all have low vitamin D – Nov 2016`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Spinal Surgery patients – almost all have low vitamin D – Nov 2016|Spinal Surgery`
@@ -11984,10 +11984,10 @@ AST Structure:
 │   inner_content: `((Suicide associated with low vitamin D - many studies|Suicide)) (16+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Suicide associated with low vitamin D - many studies|Suicide))`
 │   │   inner_content: `Suicide associated with low vitamin D - many studies|Suicide`
-│   │   page: `Suicide associated with low vitamin D - many studies|Suicide`
+│   │   page: `Suicide associated with low vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Suicide associated with low vitamin D - many studies|Suicide`
@@ -12001,10 +12001,10 @@ AST Structure:
 │   inner_content: `((Thyroid and parathyroid|Thyroid/Parath.)) (79+) `
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Thyroid and parathyroid|Thyroid/Parath.))`
 │   │   inner_content: `Thyroid and parathyroid|Thyroid/Parath.`
-│   │   page: `Thyroid and parathyroid|Thyroid/Parath.`
+│   │   page: `Thyroid and parathyroid`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Thyroid and parathyroid|Thyroid/Parath.`
@@ -12052,10 +12052,10 @@ AST Structure:
 │   inner_content: `((Trauma and surgery|Trauma/Surgery)) (325+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Trauma and surgery|Trauma/Surgery))`
 │   │   inner_content: `Trauma and surgery|Trauma/Surgery`
-│   │   page: `Trauma and surgery|Trauma/Surgery`
+│   │   page: `Trauma and surgery`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Trauma and surgery|Trauma/Surgery`
@@ -12237,10 +12237,10 @@ AST Structure:
 │   inner_content: `((Vertigo treated by Vitamin D - many studies|Vertigo)) (18+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vertigo treated by Vitamin D - many studies|Vertigo))`
 │   │   inner_content: `Vertigo treated by Vitamin D - many studies|Vertigo`
-│   │   page: `Vertigo treated by Vitamin D - many studies|Vertigo`
+│   │   page: `Vertigo treated by Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vertigo treated by Vitamin D - many studies|Vertigo`
@@ -12829,10 +12829,10 @@ AST Structure:
 │   inner_content: `((Infant-Child|Infant/Child)) (788+)`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Infant-Child|Infant/Child))`
 │   │   inner_content: `Infant-Child|Infant/Child`
-│   │   page: `Infant-Child|Infant/Child`
+│   │   page: `Infant-Child`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Infant-Child|Infant/Child`

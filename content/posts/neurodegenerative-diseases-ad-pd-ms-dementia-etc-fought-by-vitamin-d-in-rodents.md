@@ -47,7 +47,7 @@ Neurodegenerative diseases, featured by progressive loss of structure or functio
 
 ---
 
-#### VitaminDWiki - <a href="/posts/variety-of-evidence-that-vitamin-d-helps-the-brain-july-2014evidence-that-vitami-n-problems-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014">Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014</a>__
+#### VitaminDWiki - <a href="/posts/variety-of-evidence-that-vitamin-d-helps-the-brain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014">Evidence that Vitamin D helps brain problems - 2014</a>__
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -94,7 +94,7 @@ Neurodegenerative diseases, featured by progressive loss of structure or functio
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/variety-of-evidence-that-vitamin-d-helps-the-brain-july-2014evidence-that-vitami-n-problems-2014&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014&quot;&gt;Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014&lt;/a&gt;__
+#### VitaminDWiki - &lt;a href=&quot;/posts/variety-of-evidence-that-vitamin-d-helps-the-brain&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Variety of evidence that Vitamin D helps the brain – July 2014&quot;&gt;Evidence that Vitamin D helps brain problems - 2014&lt;/a&gt;__
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -318,10 +318,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014))`
 │   │   inner_content: `Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014`
-│   │   page: `Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014`
+│   │   page: `Variety of evidence that Vitamin D helps the brain – July 2014`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Variety of evidence that Vitamin D helps the brain – July 2014|Evidence that Vitamin D helps brain problems - 2014`

@@ -34,7 +34,7 @@ Because butyrate synthesis-related transferase was decreased in the feces of VDR
 
 ---
 
-#### VitaminDWiki - <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplemen-tivators-of-vdr" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR">14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR</a>
+#### VitaminDWiki - <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate is one of 16+ activators of VDR</a>
 
 ---
 
@@ -84,7 +84,7 @@ Because butyrate synthesis-related transferase was decreased in the feces of VDR
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplemen-tivators-of-vdr&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR&quot;&gt;14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR&lt;/a&gt;
+#### VitaminDWiki - &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)&quot;&gt;Butyrate is one of 16+ activators of VDR&lt;/a&gt;
 
 ---
 
@@ -303,10 +303,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR))`
 │   │   inner_content: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR`
-│   │   page: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR`
+│   │   page: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)|Butyrate is one of 16+ activators of VDR`

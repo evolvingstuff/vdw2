@@ -73,7 +73,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 137 health problems associated with low vitamin D – meta-meta-analysis April 2014">137 health problems associated with low vitamin D – meta-meta-analysis April 2014</a>
 
-* 92 <a href="/posts/proof-that-vitamin-d-works-health-problems-were-proven-to-be-fought-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D">Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D</a> by Dec 2023---
+* 92 <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Health Problems were proven to be fought by Vitamin D</a> by Dec 2023---
 
 * 242 pages have ["Multiple Studies" in their title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
 
@@ -162,7 +162,7 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * &lt;a href=&quot;/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 137 health problems associated with low vitamin D – meta-meta-analysis April 2014&quot;&gt;137 health problems associated with low vitamin D – meta-meta-analysis April 2014&lt;/a&gt;
 
-* 92 &lt;a href=&quot;/posts/proof-that-vitamin-d-works-health-problems-were-proven-to-be-fought-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D&quot;&gt;Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D&lt;/a&gt; by Dec 2023---
+* 92 &lt;a href=&quot;/posts/proof-that-vitamin-d-works&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Proof that Vitamin D Works&quot;&gt;Health Problems were proven to be fought by Vitamin D&lt;/a&gt; by Dec 2023---
 
 * 242 pages have [&quot;Multiple Studies&quot; in their title](https://vitamindwiki.com/tiki-index.php?page_id=13884)
 
@@ -385,14 +385,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `92 `
 │   │   inner_content: `92 `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D))`
-│   │   inner_content: `Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D`
-│   │   page: `Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D`
+│   │   inner_content: `Proof that Vitamin D Works|Health Problems were proven to be fought by Vitamin D`
+│   │   page: `Proof that Vitamin D Works`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D`
-│   │   │   inner_content: `Proof that Vitamin D Works |Health Problems were proven to be fought by Vitamin D`
+│   │   │   full_match: `Proof that Vitamin D Works|Health Problems were proven to be fought by Vitamin D`
+│   │   │   inner_content: `Proof that Vitamin D Works|Health Problems were proven to be fought by Vitamin D`
 │   ├── TextNode
 │   │   full_match: ` by Dec 2023---`
 │   │   inner_content: ` by Dec 2023---`├── TextNode

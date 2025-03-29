@@ -26,7 +26,7 @@ categories:
 
 ---
 
-#### 40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems">Is 50 ng of vitamin D too high, just right, or not enough|treat health problems</a> other than Rickets
+#### 40-150 ng of Vitamin D need to <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">treat health problems</a> other than Rickets
 
 
 
@@ -49,7 +49,7 @@ Markdown:
 
 ---
 
-#### 40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enoughtreat-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough|treat health problems&lt;/a&gt; other than Rickets
+#### 40-150 ng of Vitamin D need to &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;treat health problems&lt;/a&gt; other than Rickets
 
 
 
@@ -143,10 +143,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `40-150 ng of Vitamin D need to `
 │   │   inner_content: `40-150 ng of Vitamin D need to `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Is 50 ng of vitamin D too high, just right, or not enough|treat health problems))`
 │   │   inner_content: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
-│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`
+│   │   page: `Is 50 ng of vitamin D too high, just right, or not enough`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Is 50 ng of vitamin D too high, just right, or not enough|treat health problems`

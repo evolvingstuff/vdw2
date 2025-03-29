@@ -54,9 +54,9 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies)
 
-<a href="/posts/overview-schizophrenia-and-vitamin-dschizophrenia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D|Schizophrenia">Overview Schizophrenia and Vitamin D|Schizophrenia</a>
+<a href="/posts/overview-schizophrenia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Schizophrenia and Vitamin D">Schizophrenia</a>
 
-<a href="/posts/smoking-reduces-vitamin-d-many-studiesaddiction-to-smoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies|Addiction to smoking">Smoking reduces vitamin D - many studies|Addiction to smoking</a>
+<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Addiction to smoking</a>
 
 
 
@@ -110,9 +110,9 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 [Anxiety](https://vitamindwiki.com/Depression#Anxiety_studies)
 
-&lt;a href=&quot;/posts/overview-schizophrenia-and-vitamin-dschizophrenia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Schizophrenia and Vitamin D|Schizophrenia&quot;&gt;Overview Schizophrenia and Vitamin D|Schizophrenia&lt;/a&gt;
+&lt;a href=&quot;/posts/overview-schizophrenia-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Schizophrenia and Vitamin D&quot;&gt;Schizophrenia&lt;/a&gt;
 
-&lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studiesaddiction-to-smoking&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies|Addiction to smoking&quot;&gt;Smoking reduces vitamin D - many studies|Addiction to smoking&lt;/a&gt;
+&lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Addiction to smoking&lt;/a&gt;
 
 
 
@@ -358,19 +358,19 @@ AST Structure:
 │   │   full_match: `Anxiety`
 │   │   inner_content: `Anxiety`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
+│   inner_content: `\n`├── AliasedLocalLinkNode
 │   full_match: `((Overview Schizophrenia and Vitamin D|Schizophrenia))`
 │   inner_content: `Overview Schizophrenia and Vitamin D|Schizophrenia`
-│   page: `Overview Schizophrenia and Vitamin D|Schizophrenia`
+│   page: `Overview Schizophrenia and Vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Overview Schizophrenia and Vitamin D|Schizophrenia`
 │   │   inner_content: `Overview Schizophrenia and Vitamin D|Schizophrenia`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
+│   inner_content: `\n`├── AliasedLocalLinkNode
 │   full_match: `((Smoking reduces vitamin D - many studies|Addiction to smoking))`
 │   inner_content: `Smoking reduces vitamin D - many studies|Addiction to smoking`
-│   page: `Smoking reduces vitamin D - many studies|Addiction to smoking`
+│   page: `Smoking reduces vitamin D - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Smoking reduces vitamin D - many studies|Addiction to smoking`

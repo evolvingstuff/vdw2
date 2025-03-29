@@ -106,7 +106,7 @@ The findings were presented at Congress of the European Academy of Neurology (EA
 
 #### Vitamin D prevents/treats Multiple Sclerosis and 10 other brain disorders
 
-##### VitaminDWiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d-alzheimers-cognition" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D| Alzheimer's-Cognition">Overview Alzheimer's-Cognition and Vitamin D| Alzheimer's-Cognition</a>
+##### VitaminDWiki – <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Alzheimer's-Cognition</a>
 
 ---
 
@@ -122,13 +122,13 @@ The findings were presented at Congress of the European Academy of Neurology (EA
 
 ---
 
-##### VitaminDWiki – <a href="/posts/overview-parkinsons-and-vitamin-dparkinsons" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D|Parkinson's">Overview Parkinson's and Vitamin D|Parkinson's</a>  category  has   <span style="color:orange;">
+##### VitaminDWiki – <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Parkinson's</a>  category  has   <span style="color:orange;">
 <!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=67{SQL} -->
  items</span>
 
 ---
 
-##### VitaminDWiki - <a href="/posts/adhd-and-vitamin-d-deficiencyattention-deficit-hyperactivity-disorder" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder">ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder</a>
+##### VitaminDWiki - <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">Attention Deficit Hyperactivity Disorder</a>
 
 ADHD and Vitamin D Deficiency category listing has 44 items
 
@@ -152,17 +152,15 @@ ADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc
 
 ---
 
-##### VitaminDWiki - <a href="/posts/als-fought-by-vitamin-d-many-studiesamyotrophic-lateral-sclerosis-27-items" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items">ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items</a>
+##### VitaminDWiki - <a href="/posts/als-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALS fought by vitamin D - many studies">Amyotrophic Lateral Sclerosis- 27+ items</a>
 
 ---
 
-##### VitaminDWiki - <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar-disorder--gid170sql-items" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items ">Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder 
-<!-- {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} -->
- items </a>
+##### VitaminDWiki - <a href="/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D">Bipolar Disorder {SQL(db=>vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items</a>
 
 ---
 
-##### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studiesbrain-98-items" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies|Brain - 98 items">Brain and Vitamin D - many studies|Brain - 98 items</a>
+##### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain - 98 items</a>
 
 ---
 
@@ -274,7 +272,7 @@ The findings were presented at Congress of the European Academy of Neurology (EA
 
 #### Vitamin D prevents/treats Multiple Sclerosis and 10 other brain disorders
 
-##### VitaminDWiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d-alzheimers-cognition&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition&quot;&gt;Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition&lt;/a&gt;
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-alzheimers-cognition-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alzheimer&#39;s-Cognition and Vitamin D&quot;&gt;Alzheimer&#39;s-Cognition&lt;/a&gt;
 
 ---
 
@@ -290,13 +288,13 @@ The findings were presented at Congress of the European Academy of Neurology (EA
 
 ---
 
-##### VitaminDWiki – &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-dparkinsons&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s&quot;&gt;Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s&lt;/a&gt;  category  has   &lt;span style=&quot;color:orange;&quot;&gt;
+##### VitaminDWiki – &lt;a href=&quot;/posts/overview-parkinsons-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Parkinson&#39;s and Vitamin D&quot;&gt;Parkinson&#39;s&lt;/a&gt;  category  has   &lt;span style=&quot;color:orange;&quot;&gt;
 &lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=67{SQL} --&gt;
  items&lt;/span&gt;
 
 ---
 
-##### VitaminDWiki - &lt;a href=&quot;/posts/adhd-and-vitamin-d-deficiencyattention-deficit-hyperactivity-disorder&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder&quot;&gt;ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder&lt;/a&gt;
+##### VitaminDWiki - &lt;a href=&quot;/posts/adhd-and-vitamin-d-deficiency&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ADHD and Vitamin D Deficiency&quot;&gt;Attention Deficit Hyperactivity Disorder&lt;/a&gt;
 
 ADHD and Vitamin D Deficiency category listing has 44 items
 
@@ -320,17 +318,15 @@ ADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc
 
 ---
 
-##### VitaminDWiki - &lt;a href=&quot;/posts/als-fought-by-vitamin-d-many-studiesamyotrophic-lateral-sclerosis-27-items&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items&quot;&gt;ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items&lt;/a&gt;
+##### VitaminDWiki - &lt;a href=&quot;/posts/als-fought-by-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: ALS fought by vitamin D - many studies&quot;&gt;Amyotrophic Lateral Sclerosis- 27+ items&lt;/a&gt;
 
 ---
 
-##### VitaminDWiki - &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-dbipolar-disorder--gid170sql-items&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items &quot;&gt;Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder 
-&lt;!-- {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} --&gt;
- items &lt;/a&gt;
+##### VitaminDWiki - &lt;a href=&quot;/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bipolar Disorder may be related to cellular, not blood Vitamin D&quot;&gt;Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items&lt;/a&gt;
 
 ---
 
-##### VitaminDWiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studiesbrain-98-items&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies|Brain - 98 items&quot;&gt;Brain and Vitamin D - many studies|Brain - 98 items&lt;/a&gt;
+##### VitaminDWiki - &lt;a href=&quot;/posts/brain-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Brain and Vitamin D - many studies&quot;&gt;Brain - 98 items&lt;/a&gt;
 
 ---
 
@@ -542,14 +538,14 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition))`
-│   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition`
-│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition`
+│   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s-Cognition`
+│   │   page: `Overview Alzheimer&#39;s-Cognition and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition`
-│   │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D| Alzheimer&#39;s-Cognition`├── TextNode
+│   │   │   full_match: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s-Cognition`
+│   │   │   inner_content: `Overview Alzheimer&#39;s-Cognition and Vitamin D|Alzheimer&#39;s-Cognition`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── IncludeNode
 │   full_match: `{include page=&quot;Overview Alzheimer&#39;s-Cognition and Vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}`
@@ -668,10 +664,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki – `
 │   │   inner_content: `VitaminDWiki – `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s))`
 │   │   inner_content: `Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s`
-│   │   page: `Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s`
+│   │   page: `Overview Parkinson&#39;s and Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Overview Parkinson&#39;s and Vitamin D|Parkinson&#39;s`
@@ -716,10 +712,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder))`
 │   │   inner_content: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder`
-│   │   page: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder`
+│   │   page: `ADHD and Vitamin D Deficiency`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `ADHD and Vitamin D Deficiency|Attention Deficit Hyperactivity Disorder`
@@ -735,10 +731,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items))`
 │   │   inner_content: `ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items`
-│   │   page: `ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items`
+│   │   page: `ALS fought by vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `ALS fought by vitamin D - many studies|Amyotrophic Lateral Sclerosis- 27+ items`
@@ -752,10 +748,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items ))`
-│   │   inner_content: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items `
-│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items `
+│   │   inner_content: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=170{SQL} items`
+│   │   page: `Bipolar Disorder may be related to cellular, not blood Vitamin D`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Bipolar Disorder may be related to cellular, not blood Vitamin D|Bipolar Disorder `
@@ -767,8 +763,8 @@ AST Structure:
 │   │   │   │   raw_content: db=&gt;vitamind
 │   │   │   │   db: &gt;vitamind
 │   │   ├── TextNode
-│   │   │   full_match: ` items `
-│   │   │   inner_content: ` items `├── HorizontalRuleNode
+│   │   │   full_match: ` items`
+│   │   │   inner_content: ` items`├── HorizontalRuleNode
 │   full_match: `\n---\n`
 │   inner_content: `---`├── HeadingNode
 │   full_match: `!!!!!VitaminDWiki - ((Brain and Vitamin D - many studies|Brain - 98 items))`
@@ -778,10 +774,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Brain and Vitamin D - many studies|Brain - 98 items))`
 │   │   inner_content: `Brain and Vitamin D - many studies|Brain - 98 items`
-│   │   page: `Brain and Vitamin D - many studies|Brain - 98 items`
+│   │   page: `Brain and Vitamin D - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Brain and Vitamin D - many studies|Brain - 98 items`

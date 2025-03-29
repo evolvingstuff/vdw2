@@ -87,7 +87,7 @@ Hypertension, stress, headaches, diabetes, restless legs, hip fracture, heart di
 
  **Vitamin K2-7 reduces** 
 
-Bone Fractures, <a href="/posts/vitamin-k-cardiovascular-health-and-stroke-many-studiescardiovascular" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular">Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular</a>, <a href="/posts/vitamin-k2-fights-breast-and-some-other-cancers-many-studiesbreast-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer">Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer</a>
+Bone Fractures, [Cardiovascular](/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies), [Breast Cancer](/posts/vitamin-k2-fights-breast-and-some-other-cancers-many-studies)
 
 ---
 
@@ -181,7 +181,7 @@ Hypertension, stress, headaches, diabetes, restless legs, hip fracture, heart di
 
  **Vitamin K2-7 reduces** 
 
-Bone Fractures, &lt;a href=&quot;/posts/vitamin-k-cardiovascular-health-and-stroke-many-studiescardiovascular&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular&quot;&gt;Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-k2-fights-breast-and-some-other-cancers-many-studiesbreast-cancer&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer&quot;&gt;Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer&lt;/a&gt;
+Bone Fractures, [Cardiovascular](/posts/vitamin-k-cardiovascular-health-and-stroke-many-studies), [Breast Cancer](/posts/vitamin-k2-fights-breast-and-some-other-cancers-many-studies)
 
 ---
 
@@ -457,19 +457,19 @@ AST Structure:
 │   │   full_match: `Vitamin K2-7 reduces`
 │   │   inner_content: `Vitamin K2-7 reduces`├── TextNode
 │   full_match: `\nBone Fractures, `
-│   inner_content: `\nBone Fractures, `├── LocalLinkNode
+│   inner_content: `\nBone Fractures, `├── AliasedLocalLinkNode
 │   full_match: `((Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular))`
 │   inner_content: `Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular`
-│   page: `Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular`
+│   page: `Vitamin K, cardiovascular health, and stroke - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular`
 │   │   inner_content: `Vitamin K, cardiovascular health, and stroke - many studies|Cardiovascular`├── TextNode
 │   full_match: `, `
-│   inner_content: `, `├── LocalLinkNode
+│   inner_content: `, `├── AliasedLocalLinkNode
 │   full_match: `((Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer))`
 │   inner_content: `Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer`
-│   page: `Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer`
+│   page: `Vitamin K2 fights Breast and some other cancers - many studies`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Vitamin K2 fights Breast and some other cancers - many studies|Breast Cancer`

@@ -39,7 +39,7 @@ Conclusion VDT can manifest with AMS as an initial presenting complaint. The ger
 
 ---
 
-##### Note: Successful <a href="/posts/comparing-high-dose-vitamin-d-therapieshigh-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies|High-dose vitamin D therapies">Comparing High-dose vitamin D therapies|High-dose vitamin D therapies</a> typically avoid hypercalcemia by just reducing Calcium intake
+##### Note: Successful <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">High-dose vitamin D therapies</a> typically avoid hypercalcemia by just reducing Calcium intake
 
 ---
 
@@ -99,7 +99,7 @@ Conclusion VDT can manifest with AMS as an initial presenting complaint. The ger
 
 ---
 
-##### Note: Successful &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapieshigh-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies|High-dose vitamin D therapies&quot;&gt;Comparing High-dose vitamin D therapies|High-dose vitamin D therapies&lt;/a&gt; typically avoid hypercalcemia by just reducing Calcium intake
+##### Note: Successful &lt;a href=&quot;/posts/comparing-high-dose-vitamin-d-therapies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Comparing High-dose vitamin D therapies&quot;&gt;High-dose vitamin D therapies&lt;/a&gt; typically avoid hypercalcemia by just reducing Calcium intake
 
 ---
 
@@ -215,10 +215,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Note: Successful `
 │   │   inner_content: `Note: Successful `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Comparing High-dose vitamin D therapies|High-dose vitamin D therapies))`
 │   │   inner_content: `Comparing High-dose vitamin D therapies|High-dose vitamin D therapies`
-│   │   page: `Comparing High-dose vitamin D therapies|High-dose vitamin D therapies`
+│   │   page: `Comparing High-dose vitamin D therapies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Comparing High-dose vitamin D therapies|High-dose vitamin D therapies`

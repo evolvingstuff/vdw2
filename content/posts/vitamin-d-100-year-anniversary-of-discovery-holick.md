@@ -368,7 +368,7 @@ This list is automatically updated
 
 ---
 
-#### Chart of <a href="/posts/getting-vitamin-d-into-your-bodygetting-vitamin-d-into-and-thru-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body|Getting Vitamin D into and thru your body">Getting Vitamin D into your body|Getting Vitamin D into and thru your body</a>
+#### Chart of <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into and thru your body</a>
 
 <img src="display2696" alt="image" width="700">
 
@@ -742,7 +742,7 @@ This list is automatically updated
 
 ---
 
-#### Chart of &lt;a href=&quot;/posts/getting-vitamin-d-into-your-bodygetting-vitamin-d-into-and-thru-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body|Getting Vitamin D into and thru your body&quot;&gt;Getting Vitamin D into your body|Getting Vitamin D into and thru your body&lt;/a&gt;
+#### Chart of &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into and thru your body&lt;/a&gt;
 
 &lt;img src=&quot;display2696&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -2703,10 +2703,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `Chart of `
 │   │   inner_content: `Chart of `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Getting Vitamin D into your body|Getting Vitamin D into and thru your body))`
 │   │   inner_content: `Getting Vitamin D into your body|Getting Vitamin D into and thru your body`
-│   │   page: `Getting Vitamin D into your body|Getting Vitamin D into and thru your body`
+│   │   page: `Getting Vitamin D into your body`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Getting Vitamin D into your body|Getting Vitamin D into and thru your body`

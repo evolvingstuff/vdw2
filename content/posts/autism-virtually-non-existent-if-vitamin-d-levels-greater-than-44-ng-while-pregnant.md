@@ -65,7 +65,7 @@ solid line = mean response (50% above, 50% below)
 
 Lower dashed line = 97.5% will have achieved the level
 
-<a href="/posts/same-dose-of-vitamin-d-for-everyone-is-virtually-impossible-dec-2015click-here-for-details" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details">Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details</a>
+<a href="/posts/same-dose-of-vitamin-d-for-everyone-is-virtually-impossible" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Same dose of vitamin D for everyone is virtually impossible - Dec 2015">click here for details</a>
 
 ---
 
@@ -139,7 +139,7 @@ solid line = mean response (50% above, 50% below)
 
 Lower dashed line = 97.5% will have achieved the level
 
-&lt;a href=&quot;/posts/same-dose-of-vitamin-d-for-everyone-is-virtually-impossible-dec-2015click-here-for-details&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details&quot;&gt;Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details&lt;/a&gt;
+&lt;a href=&quot;/posts/same-dose-of-vitamin-d-for-everyone-is-virtually-impossible&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Same dose of vitamin D for everyone is virtually impossible - Dec 2015&quot;&gt;click here for details&lt;/a&gt;
 
 ---
 
@@ -297,10 +297,10 @@ AST Structure:
 │   │   full_match: `Lower dashed line = 97.5% will have achieved the level`
 │   │   inner_content: `Lower dashed line = 97.5% will have achieved the level`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
+│   inner_content: `\n`├── AliasedLocalLinkNode
 │   full_match: `((Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details))`
 │   inner_content: `Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details`
-│   page: `Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details`
+│   page: `Same dose of vitamin D for everyone is virtually impossible - Dec 2015`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Same dose of vitamin D for everyone is virtually impossible - Dec 2015|click here for details`

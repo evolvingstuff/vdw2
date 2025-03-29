@@ -35,29 +35,19 @@ Our findings confirm that VDD during pregnancy and lactation is a risk factor fo
 
 #### Other Indications that poor gut bacteria ==> increased risk of Autism
 
-<a href="/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018">Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018</a>
-
-<a href="/posts/autism-associated-with-low-gut-flora-due-to-antibiotics-mercola" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014">Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014</a>
-
-<a href="/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Antibiotics and Vitamin D are associated with many of the same diseases">Antibiotics and Vitamin D are associated with many of the same diseases</a>
-
+<a href="/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitami-pical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))
+((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))
+((Antibiotics and Vitamin D are associated with many of the same diseases))
 ---
-
-#### Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria
-
- **<a href="/posts/autistics-have-half-of-the-response-to-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autistics have half of the response to Vitamin D – RCT Oct 2018">Autistics have half of the response to Vitamin D – RCT Oct 2018</a>** 
-
- **They would probably benefit from 1 or more of the following** 
-
+!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria
+__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__
+__They would probably benefit from 1 or more of the following__
 1) Larger  Vitamin D doses
-
-2) <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a>
-
+2) ((Gut-Friendly Vitamin D))
 3) A way that gets Vitamin D into the body without going through the gut
+ ~hs~~hs~ ((Topical Vitamin D">Topical</a>, <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual</a>, UVB
 
- &nbsp;&nbsp; <a href="/posts/topical-vitamin-dtopical" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D|Topical">Topical Vitamin D|Topical</a>, <a href="/posts/sublingual-vitamin-dsublingual" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D|sublingual">Sublingual vitamin D|sublingual</a>, UVB
-
-4) <a href="/posts/better-than-dailyhigher-concentrations-achieved-by-non-daily-dosing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better than Daily|Higher concentrations achieved by non-daily dosing">Better than Daily|Higher concentrations achieved by non-daily dosing</a>
+4) [Higher concentrations achieved by non-daily dosing](/categories/better-than-daily)
 
 ---
 
@@ -110,29 +100,19 @@ Our findings confirm that VDD during pregnancy and lactation is a risk factor fo
 
 #### Other Indications that poor gut bacteria ==&gt; increased risk of Autism
 
-&lt;a href=&quot;/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018&quot;&gt;Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018&lt;/a&gt;
-
-&lt;a href=&quot;/posts/autism-associated-with-low-gut-flora-due-to-antibiotics-mercola&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014&quot;&gt;Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014&lt;/a&gt;
-
-&lt;a href=&quot;/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Antibiotics and Vitamin D are associated with many of the same diseases&quot;&gt;Antibiotics and Vitamin D are associated with many of the same diseases&lt;/a&gt;
-
+&lt;a href=&quot;/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitami-pical-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))
+((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))
+((Antibiotics and Vitamin D are associated with many of the same diseases))
 ---
-
-#### Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria
-
- **&lt;a href=&quot;/posts/autistics-have-half-of-the-response-to-vitamin-d-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Autistics have half of the response to Vitamin D – RCT Oct 2018&quot;&gt;Autistics have half of the response to Vitamin D – RCT Oct 2018&lt;/a&gt;** 
-
- **They would probably benefit from 1 or more of the following** 
-
+!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria
+__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__
+__They would probably benefit from 1 or more of the following__
 1) Larger  Vitamin D doses
-
-2) &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;Gut-Friendly Vitamin D&lt;/a&gt;
-
+2) ((Gut-Friendly Vitamin D))
 3) A way that gets Vitamin D into the body without going through the gut
+ ~hs~~hs~ ((Topical Vitamin D&quot;&gt;Topical&lt;/a&gt;, &lt;a href=&quot;/posts/sublingual-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sublingual vitamin D&quot;&gt;sublingual&lt;/a&gt;, UVB
 
- &amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/topical-vitamin-dtopical&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D|Topical&quot;&gt;Topical Vitamin D|Topical&lt;/a&gt;, &lt;a href=&quot;/posts/sublingual-vitamin-dsublingual&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Sublingual vitamin D|sublingual&quot;&gt;Sublingual vitamin D|sublingual&lt;/a&gt;, UVB
-
-4) &lt;a href=&quot;/posts/better-than-dailyhigher-concentrations-achieved-by-non-daily-dosing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Better than Daily|Higher concentrations achieved by non-daily dosing&quot;&gt;Better than Daily|Higher concentrations achieved by non-daily dosing&lt;/a&gt;
+4) [Higher concentrations achieved by non-daily dosing](/categories/better-than-daily)
 
 ---
 
@@ -214,99 +194,114 @@ AST Structure:
 │   │   full_match: `Other Indications that poor gut bacteria ==&gt; increased risk of Autism`
 │   │   inner_content: `Other Indications that poor gut bacteria ==&gt; increased risk of Autism`├── TextNode
 │   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
-│   full_match: `((Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))`
-│   inner_content: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018`
-│   page: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018`
+│   inner_content: `\n`├── AliasedLocalLinkNode
+│   full_match: `((Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))\n((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))\n((Antibiotics and Vitamin D are associated with many of the same diseases))\n---\n!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria\n__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__\n__They would probably benefit from 1 or more of the following__\n1) Larger  Vitamin D doses\n2) ((Gut-Friendly Vitamin D))\n3) A way that gets Vitamin D into the body without going through the gut\n ~hs~~hs~ ((Topical Vitamin D|Topical))`
+│   inner_content: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))\n((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))\n((Antibiotics and Vitamin D are associated with many of the same diseases))\n---\n!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria\n__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__\n__They would probably benefit from 1 or more of the following__\n1) Larger  Vitamin D doses\n2) ((Gut-Friendly Vitamin D))\n3) A way that gets Vitamin D into the body without going through the gut\n ~hs~~hs~ ((Topical Vitamin D|Topical`
+│   page: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))
+((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))
+((Antibiotics and Vitamin D are associated with many of the same diseases))
+---
+!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria
+__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__
+__They would probably benefit from 1 or more of the following__
+1) Larger  Vitamin D doses
+2) ((Gut-Friendly Vitamin D))
+3) A way that gets Vitamin D into the body without going through the gut
+ ~hs~~hs~ ((Topical Vitamin D`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018`
-│   │   inner_content: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018`├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
-│   full_match: `((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))`
-│   inner_content: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
-│   page: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
-│   │   inner_content: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── LocalLinkNode
-│   full_match: `((Antibiotics and Vitamin D are associated with many of the same diseases))`
-│   inner_content: `Antibiotics and Vitamin D are associated with many of the same diseases`
-│   page: `Antibiotics and Vitamin D are associated with many of the same diseases`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Antibiotics and Vitamin D are associated with many of the same diseases`
-│   │   inner_content: `Antibiotics and Vitamin D are associated with many of the same diseases`├── HorizontalRuleNode
-│   full_match: `\n---\n`
-│   inner_content: `---`├── HeadingNode
-│   full_match: `!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
-│   inner_content: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
-│   level: `4`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
-│   │   inner_content: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── BoldNode
-│   full_match: `__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__`
-│   inner_content: `((Autistics have half of the response to Vitamin D – RCT Oct 2018))`
-│   children:
+│   │   full_match: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))\n`
+│   │   inner_content: `Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018))\n`
 │   ├── LocalLinkNode
-│   │   full_match: `((Autistics have half of the response to Vitamin D – RCT Oct 2018))`
-│   │   inner_content: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
-│   │   page: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
+│   │   full_match: `((Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014))`
+│   │   inner_content: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
+│   │   page: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
-│   │   │   inner_content: `Autistics have half of the response to Vitamin D – RCT Oct 2018`├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`├── BoldNode
-│   full_match: `__They would probably benefit from 1 or more of the following__`
-│   inner_content: `They would probably benefit from 1 or more of the following`
-│   children:
+│   │   │   full_match: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
+│   │   │   inner_content: `Autism associated with low gut flora (due to antibiotics) – Mercola Oct 2014`
 │   ├── TextNode
-│   │   full_match: `They would probably benefit from 1 or more of the following`
-│   │   inner_content: `They would probably benefit from 1 or more of the following`├── TextNode
-│   full_match: `\n1) Larger  Vitamin D doses\n2) `
-│   inner_content: `\n1) Larger  Vitamin D doses\n2) `├── LocalLinkNode
-│   full_match: `((Gut-Friendly Vitamin D))`
-│   inner_content: `Gut-Friendly Vitamin D`
-│   page: `Gut-Friendly Vitamin D`
-│   children:
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── LocalLinkNode
+│   │   full_match: `((Antibiotics and Vitamin D are associated with many of the same diseases))`
+│   │   inner_content: `Antibiotics and Vitamin D are associated with many of the same diseases`
+│   │   page: `Antibiotics and Vitamin D are associated with many of the same diseases`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Antibiotics and Vitamin D are associated with many of the same diseases`
+│   │   │   inner_content: `Antibiotics and Vitamin D are associated with many of the same diseases`
+│   ├── HorizontalRuleNode
+│   │   full_match: `\n---\n`
+│   │   inner_content: `---`
+│   ├── HeadingNode
+│   │   full_match: `!!!!Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
+│   │   inner_content: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
+│   │   level: `4`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
+│   │   │   inner_content: `Autistics have 1/2 the response to Vitamin D - perhaps poor gut bacteria`
 │   ├── TextNode
-│   │   full_match: `Gut-Friendly Vitamin D`
-│   │   inner_content: `Gut-Friendly Vitamin D`├── TextNode
-│   full_match: `\n3) A way that gets Vitamin D into the body without going through the gut\n `
-│   inner_content: `\n3) A way that gets Vitamin D into the body without going through the gut\n `├── HorizontalSpaceNode
-│   full_match: `~hs~~hs~`
-│   inner_content: ``
-│   repetitions: `2`├── TextNode
-│   full_match: ` `
-│   inner_content: ` `├── LocalLinkNode
-│   full_match: `((Topical Vitamin D|Topical))`
-│   inner_content: `Topical Vitamin D|Topical`
-│   page: `Topical Vitamin D|Topical`
-│   children:
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── BoldNode
+│   │   full_match: `__((Autistics have half of the response to Vitamin D – RCT Oct 2018))__`
+│   │   inner_content: `((Autistics have half of the response to Vitamin D – RCT Oct 2018))`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Autistics have half of the response to Vitamin D – RCT Oct 2018))`
+│   │   │   inner_content: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
+│   │   │   page: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
+│   │   │   │   inner_content: `Autistics have half of the response to Vitamin D – RCT Oct 2018`
 │   ├── TextNode
-│   │   full_match: `Topical Vitamin D|Topical`
-│   │   inner_content: `Topical Vitamin D|Topical`├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── BoldNode
+│   │   full_match: `__They would probably benefit from 1 or more of the following__`
+│   │   inner_content: `They would probably benefit from 1 or more of the following`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `They would probably benefit from 1 or more of the following`
+│   │   │   inner_content: `They would probably benefit from 1 or more of the following`
+│   ├── TextNode
+│   │   full_match: `\n1) Larger  Vitamin D doses\n2) `
+│   │   inner_content: `\n1) Larger  Vitamin D doses\n2) `
+│   ├── LocalLinkNode
+│   │   full_match: `((Gut-Friendly Vitamin D))`
+│   │   inner_content: `Gut-Friendly Vitamin D`
+│   │   page: `Gut-Friendly Vitamin D`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Gut-Friendly Vitamin D`
+│   │   │   inner_content: `Gut-Friendly Vitamin D`
+│   ├── TextNode
+│   │   full_match: `\n3) A way that gets Vitamin D into the body without going through the gut\n `
+│   │   inner_content: `\n3) A way that gets Vitamin D into the body without going through the gut\n `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `2`
+│   ├── TextNode
+│   │   full_match: ` ((Topical Vitamin D|Topical`
+│   │   inner_content: ` ((Topical Vitamin D|Topical`├── TextNode
 │   full_match: `, `
-│   inner_content: `, `├── LocalLinkNode
+│   inner_content: `, `├── AliasedLocalLinkNode
 │   full_match: `((Sublingual vitamin D|sublingual))`
 │   inner_content: `Sublingual vitamin D|sublingual`
-│   page: `Sublingual vitamin D|sublingual`
+│   page: `Sublingual vitamin D`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Sublingual vitamin D|sublingual`
 │   │   inner_content: `Sublingual vitamin D|sublingual`├── TextNode
 │   full_match: `, UVB\n4) `
-│   inner_content: `, UVB\n4) `├── LocalLinkNode
+│   inner_content: `, UVB\n4) `├── AliasedLocalLinkNode
 │   full_match: `((Better than Daily|Higher concentrations achieved by non-daily dosing))`
 │   inner_content: `Better than Daily|Higher concentrations achieved by non-daily dosing`
-│   page: `Better than Daily|Higher concentrations achieved by non-daily dosing`
+│   page: `Better than Daily`
 │   children:
 │   ├── TextNode
 │   │   full_match: `Better than Daily|Higher concentrations achieved by non-daily dosing`

@@ -28,11 +28,11 @@ categories:
 
 #### 6 ways which might decrease Calcium Hazards
 
-1.  Take more Magnesium - Increase the <a href="/posts/calcium-to-magnesium-ratio-many-studiesmagnesiumcalcium-ratio" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio">Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio</a>
+1.  Take more Magnesium - Increase the <a href="/posts/calcium-to-magnesium-ratio-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies">Magnesium/Calcium Ratio</a>
 
-1.  Use <a href="/posts/plant-based-calcium-probably-better-than-rock-basedplant-based-calcium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based|Plant-based Calcium">Plant-based Calcium probably better than rock-based|Plant-based Calcium</a>
+1.  Use <a href="/posts/plant-based-calcium-probably-better-than-rock-based" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based">Plant-based Calcium</a>
 
-1.  Increase <a href="/posts/calcium-and-vitamin-k2-many-studiesvitamin-k2-to-keep-calcium-out-of-the-soft-tissues" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues">Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues</a>
+1.  Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
 
 1.  Use Calcium from processed dairy products (cheese, Yogurt)
 
@@ -62,11 +62,11 @@ Markdown:
 
 #### 6 ways which might decrease Calcium Hazards
 
-1.  Take more Magnesium - Increase the &lt;a href=&quot;/posts/calcium-to-magnesium-ratio-many-studiesmagnesiumcalcium-ratio&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio&quot;&gt;Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio&lt;/a&gt;
+1.  Take more Magnesium - Increase the &lt;a href=&quot;/posts/calcium-to-magnesium-ratio-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcium to Magnesium Ratio - many studies&quot;&gt;Magnesium/Calcium Ratio&lt;/a&gt;
 
-1.  Use &lt;a href=&quot;/posts/plant-based-calcium-probably-better-than-rock-basedplant-based-calcium&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Plant-based Calcium probably better than rock-based|Plant-based Calcium&quot;&gt;Plant-based Calcium probably better than rock-based|Plant-based Calcium&lt;/a&gt;
+1.  Use &lt;a href=&quot;/posts/plant-based-calcium-probably-better-than-rock-based&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Plant-based Calcium probably better than rock-based&quot;&gt;Plant-based Calcium&lt;/a&gt;
 
-1.  Increase &lt;a href=&quot;/posts/calcium-and-vitamin-k2-many-studiesvitamin-k2-to-keep-calcium-out-of-the-soft-tissues&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues&quot;&gt;Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues&lt;/a&gt;
+1.  Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
 
 1.  Use Calcium from processed dairy products (cheese, Yogurt)
 
@@ -159,10 +159,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Take more Magnesium - Increase the `
 │   │   inner_content: ` Take more Magnesium - Increase the `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio))`
 │   │   inner_content: `Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio`
-│   │   page: `Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio`
+│   │   page: `Calcium to Magnesium Ratio - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Calcium to Magnesium Ratio - many studies|Magnesium/Calcium Ratio`
@@ -176,10 +176,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Use `
 │   │   inner_content: ` Use `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Plant-based Calcium probably better than rock-based|Plant-based Calcium))`
 │   │   inner_content: `Plant-based Calcium probably better than rock-based|Plant-based Calcium`
-│   │   page: `Plant-based Calcium probably better than rock-based|Plant-based Calcium`
+│   │   page: `Plant-based Calcium probably better than rock-based`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Plant-based Calcium probably better than rock-based|Plant-based Calcium`
@@ -193,10 +193,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: ` Increase `
 │   │   inner_content: ` Increase `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues))`
 │   │   inner_content: `Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues`
-│   │   page: `Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues`
+│   │   page: `Calcium and Vitamin K2 - many studies`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Calcium and Vitamin K2 - many studies|Vitamin K2 - to keep Calcium out of the soft tissues`

@@ -57,7 +57,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 #### Can bypass both poor gut and pulse limitations with non-oral Vitamin supplementation
 
-* <a href="/posts/topical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D">Topical Vitamin D</a> which includes <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studiesnanoemulsion-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D">Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D</a>
+* <a href="/posts/topical-vitamin-d-which-includes-nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D</a>
 
 * <a href="/posts/vitamin-d-sprayed-inside-cheeks-buccal-spray-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D sprayed inside cheeks (buccal spray) - several studies">Vitamin D sprayed inside cheeks (buccal spray) - several studies</a>
 
@@ -137,7 +137,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 #### Can bypass both poor gut and pulse limitations with non-oral Vitamin supplementation
 
-* &lt;a href=&quot;/posts/topical-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D&quot;&gt;Topical Vitamin D&lt;/a&gt; which includes &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studiesnanoemulsion-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D&quot;&gt;Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D&lt;/a&gt;
+* &lt;a href=&quot;/posts/topical-vitamin-d-which-includes-nanoemulsion-vitamin-d-is-faster-and-better-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies&quot;&gt;Nanoemulsion Vitamin D&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/vitamin-d-sprayed-inside-cheeks-buccal-spray-several-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D sprayed inside cheeks (buccal spray) - several studies&quot;&gt;Vitamin D sprayed inside cheeks (buccal spray) - several studies&lt;/a&gt;
 
@@ -323,25 +323,14 @@ AST Structure:
 │   inner_content: `((Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D))`
 │   depth: `1`
 │   children:
-│   ├── LocalLinkNode
-│   │   full_match: `((Topical Vitamin D))`
-│   │   inner_content: `Topical Vitamin D`
-│   │   page: `Topical Vitamin D`
+│   ├── AliasedLocalLinkNode
+│   │   full_match: `((Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D))`
+│   │   inner_content: `Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`
+│   │   page: `Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies`
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Topical Vitamin D`
-│   │   │   inner_content: `Topical Vitamin D`
-│   ├── TextNode
-│   │   full_match: ` which includes `
-│   │   inner_content: ` which includes `
-│   ├── LocalLinkNode
-│   │   full_match: `((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D))`
-│   │   inner_content: `Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`
-│   │   page: `Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`
-│   │   │   inner_content: `Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`├── TextNode
+│   │   │   full_match: `Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`
+│   │   │   inner_content: `Topical Vitamin D)) which includes ((Nanoemulsion Vitamin D is faster and better - many studies|Nanoemulsion Vitamin D`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*((Vitamin D sprayed inside cheeks (buccal spray) - several studies))`

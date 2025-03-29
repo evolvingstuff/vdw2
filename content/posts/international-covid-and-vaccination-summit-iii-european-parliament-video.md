@@ -153,7 +153,7 @@ MR. CRISTIAN TERHES, European Conservatives and Reformists- ROMANIA
 
 ---
 
-### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwikivaccination-pages" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki|Vaccination pages">Vaccination pages in VitaminDWiki|Vaccination pages</a>
+### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages</a>
 
 <!-- ~tc~ (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) ~/tc~ -->
 
@@ -305,7 +305,7 @@ MR. CRISTIAN TERHES, European Conservatives and Reformists- ROMANIA
 
 ---
 
-### VitaminDWiki - &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwikivaccination-pages&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki|Vaccination pages&quot;&gt;Vaccination pages in VitaminDWiki|Vaccination pages&lt;/a&gt;
+### VitaminDWiki - &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;Vaccination pages&lt;/a&gt;
 
 &lt;!-- ~tc~ (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) ~/tc~ --&gt;
 
@@ -823,10 +823,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `VitaminDWiki - `
 │   │   inner_content: `VitaminDWiki - `
-│   ├── LocalLinkNode
+│   ├── AliasedLocalLinkNode
 │   │   full_match: `((Vaccination pages in VitaminDWiki|Vaccination pages))`
 │   │   inner_content: `Vaccination pages in VitaminDWiki|Vaccination pages`
-│   │   page: `Vaccination pages in VitaminDWiki|Vaccination pages`
+│   │   page: `Vaccination pages in VitaminDWiki`
 │   │   children:
 │   │   ├── TextNode
 │   │   │   full_match: `Vaccination pages in VitaminDWiki|Vaccination pages`
