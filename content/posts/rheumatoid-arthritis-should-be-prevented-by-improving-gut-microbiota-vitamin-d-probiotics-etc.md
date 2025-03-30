@@ -65,7 +65,7 @@ In this review, we summarized current studies that include pathogenesis of gut m
 
 #### 52,000+ studies include "rheumatoid arthritis" and microbiota (both gut and oral)
 
- **[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&hl=en&as_sdt=0,48|Google Scholar** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&hl=en&as_sdt=0,48)** 
 
 * Role of Gut Microbiota in Rheumatoid Arthritis - June 2017 [FREE PDF](https://www.mdpi.com/2077-0383/6/6/60)
 
@@ -136,7 +136,7 @@ In this review, we summarized current studies that include pathogenesis of gut m
 
 #### 52,000+ studies include &quot;rheumatoid arthritis&quot; and microbiota (both gut and oral)
 
- **[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar** 
+ **[Google Scholar](https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48)** 
 
 * Role of Gut Microbiota in Rheumatoid Arthritis - June 2017 [FREE PDF](https://www.mdpi.com/2077-0383/6/6/60)
 
@@ -353,12 +353,17 @@ AST Structure:
 │   │   inner_content: `52,000+ studies include &quot;rheumatoid arthritis&quot; and microbiota (both gut and oral)`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar__`
-│   inner_content: `[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar`
+│   full_match: `__[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar]__`
+│   inner_content: `[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar]`
 │   children:
-│   ├── TextNode
-│   │   full_match: `[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar`
-│   │   inner_content: `[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar`├── TextNode
+│   ├── LinkNode
+│   │   full_match: `[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar]`
+│   │   inner_content: `Google Scholar`
+│   │   url: `https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Google Scholar`
+│   │   │   inner_content: `Google Scholar`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*Role of Gut Microbiota in Rheumatoid Arthritis - June 2017 [https://www.mdpi.com/2077-0383/6/6/60|FREE PDF]`
@@ -463,7 +468,7 @@ In this review, we summarized current studies that include pathogenesis of gut m
 {category id=&quot;32+82&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
 ---
 !!!!52,000+ studies include &quot;rheumatoid arthritis&quot; and microbiota (both gut and oral)
-__[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar__
+__[https://scholar.google.com/scholar?q=rheumatoid+arthritis%22+microbiota&amp;hl=en&amp;as_sdt=0,48|Google Scholar]__
 *Role of Gut Microbiota in Rheumatoid Arthritis - June 2017 [https://www.mdpi.com/2077-0383/6/6/60|FREE PDF]
 *Host–microbiota interactions in rheumatoid arthritis - Dec 2019 [https://www.nature.com/articles/s12276-019-0283-6|FREE PDF]
 *Associations between gut microbiota and genetic risk for rheumatoid arthritis in the absence of disease: a cross-sectional study - July 2020 [https://www.sciencedirect.com/science/article/pii/S2665991320300643|FREE PDF]

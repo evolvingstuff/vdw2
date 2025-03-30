@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Test Page</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743285975">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743285975">
+    <link rel="stylesheet" href="/css/main.css?v=1743349075">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743349075">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743285975"></script>
+    <script src="/js/search.js?v=1743349075"></script>
 </head>
 <body>
     <div class="container">
@@ -302,7 +302,7 @@
             
     <article>
         <h1>Test Page</h1>
-        <time>March 29, 2025</time>
+        <time>March 30, 2025</time>
         <h4 id="vitamindwiki--our-world-in-data---vitamin-d-deficiency-map---2023postsour-world-in-data-vitamin-d-deficiency-map-2023">VitaminDWiki – <a href="/posts/our-world-in-data-vitamin-d-deficiency-map-2023">Our World in Data - Vitamin D deficiency map - 2023</a></h4>
 <p><a href="/posts/this-page-does-not-exist" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: This page does not exist">This page does not exist</a></p>
 <p><a href="/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies">Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies</a></p>
@@ -384,6 +384,8 @@
 <p>     <a href="/categories/vitamin-d-receptor">Vitamin D Receptor</a> (31+)</p>
 <p>     <a href="/posts/vitamin-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Vitamin K</a></p>
 <p>     <a href="/categories/zinc">Zinc</a> (32+)</p>
+<p><strong><a href="https://google.com">Google</a></strong>  and some other text</p>
+<p><strong><a href="https://google.com">https://google.com</a></strong>  and some other text</p>
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
@@ -494,6 +496,10 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Vitamin K&lt;/a&gt; 
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Zinc](/categories/zinc) (32+)
+
+ **[Google](https://google.com)**  and some other text
+
+ **[https://google.com](https://google.com)**  and some other text
 
 AST Structure:
 -------------
@@ -1411,7 +1417,35 @@ AST Structure:
 │   │   │   inner_content: `Zinc`
 │   ├── TextNode
 │   │   full_match: ` (32+)`
-│   │   inner_content: ` (32+)`
+│   │   inner_content: ` (32+)`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__[https://google.com|Google]__`
+│   inner_content: `[https://google.com|Google]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://google.com|Google]`
+│   │   inner_content: `Google`
+│   │   url: `https://google.com`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Google`
+│   │   │   inner_content: `Google`├── TextNode
+│   full_match: ` and some other text\n\n`
+│   inner_content: ` and some other text\n\n`├── BoldNode
+│   full_match: `__[https://google.com]__`
+│   inner_content: `[https://google.com]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://google.com]`
+│   │   inner_content: `https://google.com`
+│   │   url: `https://google.com`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://google.com`
+│   │   │   inner_content: `https://google.com`├── TextNode
+│   full_match: ` and some other text`
+│   inner_content: ` and some other text`
 
 Original Tiki:
 -------------
@@ -1488,6 +1522,10 @@ Research, consisting of both animal and human studies, has revealed the [https:/
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+){DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+){DIV}
+
+__[https://google.com|Google]__ and some other text
+
+__[https://google.com]__ and some other text
 </code>
 </pre>
 
@@ -1496,7 +1534,7 @@ Research, consisting of both animal and human studies, has revealed the [https:/
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743285975"></script>
+    <script src="/js/lightspa.js?v=1743349075"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1506,8 +1544,8 @@ Research, consisting of both animal and human studies, has revealed the [https:/
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743285975',
-            indexUrl: '\/search\/search_index.json.gz?v=1743285975'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743349075',
+            indexUrl: '\/search\/search_index.json.gz?v=1743349075'
         });
     </script>
 </body>

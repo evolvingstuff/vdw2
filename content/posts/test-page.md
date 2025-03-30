@@ -4,7 +4,7 @@ slug: "test-page"
 aliases:
   - "/Test+Page"
   - "/tiki-index.php?page_id=-1"
-date: 2025-03-29
+date: 2025-03-30
 ---
 
 
@@ -114,6 +114,10 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="/posts/vitamin-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11703">Vitamin K</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Zinc](/categories/zinc) (32+)
+
+ **[Google](https://google.com)**  and some other text
+
+ **[https://google.com](https://google.com)**  and some other text
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -225,6 +229,10 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;/posts/vitamin-k&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11703&quot;&gt;Vitamin K&lt;/a&gt; 
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [Zinc](/categories/zinc) (32+)
+
+ **[Google](https://google.com)**  and some other text
+
+ **[https://google.com](https://google.com)**  and some other text
 
 AST Structure:
 -------------
@@ -1142,7 +1150,35 @@ AST Structure:
 │   │   │   inner_content: `Zinc`
 │   ├── TextNode
 │   │   full_match: ` (32+)`
-│   │   inner_content: ` (32+)`
+│   │   inner_content: ` (32+)`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__[https://google.com|Google]__`
+│   inner_content: `[https://google.com|Google]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://google.com|Google]`
+│   │   inner_content: `Google`
+│   │   url: `https://google.com`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Google`
+│   │   │   inner_content: `Google`├── TextNode
+│   full_match: ` and some other text\n\n`
+│   inner_content: ` and some other text\n\n`├── BoldNode
+│   full_match: `__[https://google.com]__`
+│   inner_content: `[https://google.com]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://google.com]`
+│   │   inner_content: `https://google.com`
+│   │   url: `https://google.com`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `https://google.com`
+│   │   │   inner_content: `https://google.com`├── TextNode
+│   full_match: ` and some other text`
+│   inner_content: ` and some other text`
 
 Original Tiki:
 -------------
@@ -1219,5 +1255,9 @@ Research, consisting of both animal and human studies, has revealed the [https:/
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14371|Vitamin D Receptor] (31+){DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=11703|Vitamin K] {DIV}
 {DIV(class=&quot;categorylink&quot;)} ~hs~~hs~~hs~~hs~ [tiki-index.php?page_id=14074|Zinc] (32+){DIV}
+
+__[https://google.com|Google]__ and some other text
+
+__[https://google.com]__ and some other text
 </code>
 </pre>

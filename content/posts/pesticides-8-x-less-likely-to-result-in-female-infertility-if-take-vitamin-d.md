@@ -54,7 +54,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 #### Search for (pesticides OR DDT) Vitamin D: 223,000 studies  in Google Scholar
 
- **[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%28pesticides+OR+DDT%29+Vitamin+D&btnG=| as of Sept 2023** ]
+ **[as of Sept 2023](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%28pesticides+OR+DDT%29+Vitamin+D&btnG=)** ]
 
 * Associations between Organochlorine Pesticides and Vitamin D Deficiency in the U.S. Population - Jan, 2012 https://doi.org/10.1371/journal.pone.0030093 FREE PDF
 
@@ -126,7 +126,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 #### Search for (pesticides OR DDT) Vitamin D: 223,000 studies  in Google Scholar
 
- **[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023** ]
+ **[as of Sept 2023](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=)** ]
 
 * Associations between Organochlorine Pesticides and Vitamin D Deficiency in the U.S. Population - Jan, 2012 https://doi.org/10.1371/journal.pone.0030093 FREE PDF
 
@@ -317,12 +317,17 @@ AST Structure:
 │   │   inner_content: `Search for (pesticides OR DDT) Vitamin D: 223,000 studies  in Google Scholar`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── BoldNode
-│   full_match: `__[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023__`
-│   inner_content: `[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023`
+│   full_match: `__[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023]__`
+│   inner_content: `[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023]`
 │   children:
-│   ├── TextNode
-│   │   full_match: `[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023`
-│   │   inner_content: `[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023`├── TextNode
+│   ├── LinkNode
+│   │   full_match: `[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023]`
+│   │   inner_content: ` as of Sept 2023`
+│   │   url: `https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `as of Sept 2023`
+│   │   │   inner_content: `as of Sept 2023`├── TextNode
 │   full_match: `]\n`
 │   inner_content: `]\n`├── ListItemNode
 │   full_match: `*Associations between Organochlorine Pesticides and Vitamin D Deficiency in the U.S. Population - Jan, 2012 https://doi.org/10.1371/journal.pone.0030093 FREE PDF`
@@ -455,7 +460,7 @@ Conclusions: A significant association of female infertility with pesticide expo
 *((Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018))
 ---
 !!!!Search for (pesticides OR DDT) Vitamin D: 223,000 studies  in Google Scholar
-__[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023__]
+__[https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%28pesticides+OR+DDT%29+Vitamin+D&amp;btnG=| as of Sept 2023]__]
 *Associations between Organochlorine Pesticides and Vitamin D Deficiency in the U.S. Population - Jan, 2012 https://doi.org/10.1371/journal.pone.0030093 FREE PDF
 *The effect of chronic vitamin deficiency and long term very low dose exposure to 6 pesticides mixture on neurological outcomes – A real-life risk simulation approach - Oct 2019  https://doi.org/10.1016/j.toxlet.2019.07.026 can probably get PDF from Sci-Hub
 *Detrimental effects of 6 months exposure to very low doses of a mixture of six pesticides associated with chronic vitamin deficiency on rats - June 2021 https://doi.org/10.1016/j.fct.2021.112188
