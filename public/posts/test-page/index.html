@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <title>Test Page</title>
-    <link rel="stylesheet" href="/css/main.css?v=1743349075">
-    <link rel="stylesheet" href="/css/pagination.css?v=1743349075">
+    <link rel="stylesheet" href="/css/main.css?v=1743351643">
+    <link rel="stylesheet" href="/css/pagination.css?v=1743351643">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
-    <script src="/js/search.js?v=1743349075"></script>
+    <script src="/js/search.js?v=1743351643"></script>
 </head>
 <body>
     <div class="container">
@@ -386,6 +386,7 @@
 <p>     <a href="/categories/zinc">Zinc</a> (32+)</p>
 <p><strong><a href="https://google.com">Google</a></strong>  and some other text</p>
 <p><strong><a href="https://google.com">https://google.com</a></strong>  and some other text</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
@@ -500,6 +501,8 @@ Research, consisting of both animal and human studies, has revealed the [benefic
  **[Google](https://google.com)**  and some other text
 
  **[https://google.com](https://google.com)**  and some other text
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
 AST Structure:
 -------------
@@ -1444,8 +1447,15 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `https://google.com`
 │   │   │   inner_content: `https://google.com`├── TextNode
-│   full_match: ` and some other text`
-│   inner_content: ` and some other text`
+│   full_match: ` and some other text\n\n`
+│   inner_content: ` and some other text\n\n`├── ImgNode
+│   full_match: `{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
+│   │   fileId: 2696
+│   │   width: 700
+│   │   link: Getting Vitamin D into your body
 
 Original Tiki:
 -------------
@@ -1526,6 +1536,8 @@ Research, consisting of both animal and human studies, has revealed the [https:/
 __[https://google.com|Google]__ and some other text
 
 __[https://google.com]__ and some other text
+
+{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 </code>
 </pre>
 
@@ -1534,7 +1546,7 @@ __[https://google.com]__ and some other text
         </div>
     </div>
 
-    <script src="/js/lightspa.js?v=1743349075"></script>
+    <script src="/js/lightspa.js?v=1743351643"></script>
     <script>
         
         const spa = new LightSPA({
@@ -1544,8 +1556,8 @@ __[https://google.com]__ and some other text
 
         
         const search = new Search({
-            documentsUrl: '\/search\/search_documents.json.gz?v=1743349075',
-            indexUrl: '\/search\/search_index.json.gz?v=1743349075'
+            documentsUrl: '\/search\/search_documents.json.gz?v=1743351643',
+            indexUrl: '\/search\/search_index.json.gz?v=1743351643'
         });
     </script>
 </body>

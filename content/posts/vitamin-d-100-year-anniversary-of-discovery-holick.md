@@ -370,7 +370,7 @@ This list is automatically updated
 
 #### Chart of <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into and thru your body</a>
 
-<img src="display2696" alt="image" width="700">
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
 ---
 
@@ -744,7 +744,7 @@ This list is automatically updated
 
 #### Chart of &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into and thru your body&lt;/a&gt;
 
-&lt;img src=&quot;display2696&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
 ---
 
@@ -2713,11 +2713,11 @@ AST Structure:
 │   │   │   inner_content: `Getting Vitamin D into your body|Getting Vitamin D into and thru your body`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
-│   full_match: `{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
+│   full_match: `{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
 │   inner_content: ``
 │   attrs_dict:
-│   │   raw_content:  src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
-│   │   src: display2696
+│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
+│   │   fileId: 2696
 │   │   width: 700
 │   │   link: Getting Vitamin D into your body├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -2952,7 +2952,7 @@ __Many more in which Holick is one of the authors, but he is not in the title__
 {include page=&quot;Overview of Rickets and vitamin D&quot; start=&quot;~tc~ start ~/tc~&quot; stop=&quot;~tc~ end ~/tc~&quot;}
 ---
 !!!!Chart of ((Getting Vitamin D into your body|Getting Vitamin D into and thru your body))
-{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
+{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 ---
 !!!!173+ Vitamin D Health problems  and groups of people in VitaminDWiki
 {include page=&quot;Health Problems and D&quot; }

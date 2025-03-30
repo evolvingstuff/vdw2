@@ -385,7 +385,7 @@ This list is automatcially updated
 
 #### VitaminDWiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart:
 
-<img src="display2696" alt="image" width="700">
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
 ---
 
@@ -775,7 +775,7 @@ This list is automatcially updated
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart:
 
-&lt;img src=&quot;display2696&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
 ---
 
@@ -4422,11 +4422,11 @@ AST Structure:
 │   │   inner_content: ` has a chart:`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
-│   full_match: `{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
+│   full_match: `{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
 │   inner_content: ``
 │   attrs_dict:
-│   │   raw_content:  src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
-│   │   src: display2696
+│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
+│   │   fileId: 2696
 │   │   width: 700
 │   │   link: Getting Vitamin D into your body├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -4654,7 +4654,7 @@ The field of vitamin D has made considerable advancements over the last years, e
 {LIST}
 ---
 !!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart:
-{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
+{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 ---
 !!!!!Note: Calcidiol/Calcifediol appears to not stored in fat, breasts, nor muscles
 ----

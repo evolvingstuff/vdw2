@@ -108,7 +108,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 #### VitaminDWiki – <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into your body</a> has a chart
 
-<img src="display2696" alt="image" width="700">
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
 ---
 
@@ -220,7 +220,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 #### VitaminDWiki – &lt;a href=&quot;/posts/getting-vitamin-d-into-your-body&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Getting Vitamin D into your body&quot;&gt;Getting Vitamin D into your body&lt;/a&gt; has a chart
 
-&lt;img src=&quot;display2696&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
 ---
 
@@ -633,11 +633,11 @@ AST Structure:
 │   │   inner_content: ` has a chart`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ImgNode
-│   full_match: `{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
+│   full_match: `{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
 │   inner_content: ``
 │   attrs_dict:
-│   │   raw_content:  src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
-│   │   src: display2696
+│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
+│   │   fileId: 2696
 │   │   width: 700
 │   │   link: Getting Vitamin D into your body├── HorizontalRuleNode
 │   full_match: `\n---\n`
@@ -750,7 +750,7 @@ __Suspect: Both sublingual and emulsion forms of the vitamins get into the blood
 __Skin sources of Vitamin D:((Noontime sun and D|Sun)), ((Vitamin D from low-cost UVB lamps|UV)), ((Topical Vitamin D provides more benefits than oral sometimes - many studies|topical)), ((Sublingual vitamin D|sublingual))__
 ---
 !!!!VitaminDWiki – ((Getting Vitamin D into your body)) has a chart
-{img src=&quot;display2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
+{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 ---
 !!!!The TOP articles in Forms of Vitamin D (including Calcitriol, Calcidiol, and Injection):
 {category id=&quot;52+98&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot; showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}

@@ -119,6 +119,8 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 
  **[https://google.com](https://google.com)**  and some other text
 
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
@@ -233,6 +235,8 @@ Research, consisting of both animal and human studies, has revealed the [benefic
  **[Google](https://google.com)**  and some other text
 
  **[https://google.com](https://google.com)**  and some other text
+
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
 AST Structure:
 -------------
@@ -1177,8 +1181,15 @@ AST Structure:
 │   │   ├── TextNode
 │   │   │   full_match: `https://google.com`
 │   │   │   inner_content: `https://google.com`├── TextNode
-│   full_match: ` and some other text`
-│   inner_content: ` and some other text`
+│   full_match: ` and some other text\n\n`
+│   inner_content: ` and some other text\n\n`├── ImgNode
+│   full_match: `{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;
+│   │   fileId: 2696
+│   │   width: 700
+│   │   link: Getting Vitamin D into your body
 
 Original Tiki:
 -------------
@@ -1259,5 +1270,7 @@ Research, consisting of both animal and human studies, has revealed the [https:/
 __[https://google.com|Google]__ and some other text
 
 __[https://google.com]__ and some other text
+
+{img fileId=&quot;2696&quot; width =&quot;700&quot; link=&quot;Getting Vitamin D into your body&quot;}
 </code>
 </pre>
