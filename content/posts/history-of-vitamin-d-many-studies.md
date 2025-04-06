@@ -8,8 +8,139 @@ date: 2023-10-11
 ---
 
 
+
 #### 100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
 <!-- ~tc~ (alias(History of vitamin D  many studiesov 2012)) ~/tc~ -->
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+#### 100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+&lt;!-- ~tc~ (alias(History of vitamin D  many studiesov 2012)) ~/tc~ --&gt;
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}`
+│   inner_content: `{maketoc Title=&quot;&quot;}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc Title=&quot;&quot;}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content:  Title=&quot;&quot;
+│   │   │   Title: ├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!~~#F06:14+~~  VitaminDWiki pages with both HISTORY AND VITAMIN in the title`
+│   inner_content: `~~#F06:14+~~  VitaminDWiki pages with both HISTORY AND VITAMIN in the title`
+│   level: `4`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F06:14+~~`
+│   │   inner_content: `14+`
+│   │   attrs_dict:
+│   │   │   raw_content: #F06
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `14+`
+│   │   │   inner_content: `14+`
+│   ├── TextNode
+│   │   full_match: `  VitaminDWiki pages with both HISTORY AND VITAMIN in the title`
+│   │   inner_content: `  VitaminDWiki pages with both HISTORY AND VITAMIN in the title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;history AND vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; cannell\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;history AND vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; cannell\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;history AND vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; cannell\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{filter type=&quot;wiki page&quot;}\n{filter field=&quot;title&quot; content=&quot;history AND vitamin&quot;}\n{filter field=&quot;title&quot; content=&quot;NOT \&quot; cannell\&quot;&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022`
+│   inner_content: `100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022`
+│   │   inner_content: `100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── FontNode
+│   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;20&quot;
+│   │   size: 20
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 20215
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TikiCommentNode
+│   full_match: `~tc~ (alias(History of vitamin D  many studiesov 2012)) ~/tc~`
+│   inner_content: ` (alias(History of vitamin D  many studiesov 2012)) `
+│   children:
+│   ├── TextNode
+│   │   full_match: `(alias(History of vitamin D  many studiesov 2012)) `
+│   │   inner_content: `(alias(History of vitamin D  many studiesov 2012)) `
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc Title=&quot;&quot;}{DIV}
+---
+!!!!~~#F06:14+~~  VitaminDWiki pages with both HISTORY AND VITAMIN in the title
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+  {filter type=&quot;wiki page&quot;}
+  {filter field=&quot;title&quot; content=&quot;history AND vitamin&quot;}
+{filter field=&quot;title&quot; content=&quot;NOT \&quot; cannell\&quot;&quot;}
+  {sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!100 YEARS OF VITAMIN D: Historical aspects of vitamin D - April 2022
+{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20215&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+~tc~ (alias(History of vitamin D  many studiesov 2012)) ~/tc~
+</code>
+</pre>

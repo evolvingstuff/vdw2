@@ -16,6 +16,57 @@ body {
     padding: 20px;
 }
 
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2.2em;
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 1.8em;
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 0.3em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.3em;
+    letter-spacing: 0.01em;  /* Slight letter spacing for distinctiveness */
+    text-transform: capitalize;  /* Capitalize first letter of each word */
+    margin-top: 1.2em;
+}
+
+h5 {
+    font-size: 1.15em;
+    font-style: italic;
+}
+
+h6 {
+    font-size: 1em;
+    font-weight: 600;  /* Slightly less bold */
+}
+
+/* Bold text styling */
+strong, b {
+    font-weight: 700;
+    font-size: 1em;  /* Ensure bold text keeps regular text size */
+    display: inline;  /* Keep bold text inline unlike headings */
+    margin: 0;
+    padding: 0;
+    line-height: inherit;  /* Use parent line height */
+}
+
 /* Search input and container styling */
 .search-container {
     position: relative;
