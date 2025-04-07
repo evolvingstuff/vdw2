@@ -167,7 +167,7 @@ Conclusions: HDVD supplementation significantly reduced hip and femoral neck BMD
 
 ---
 
-#### VitaminDWiki – [Bone Mineral Density and Vitamin D - many studies](/posts/bone-mineral-density-and-vitamin-d-many-studies)
+#### VitaminDWiki – <a href="/posts/bone-mineral-density-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bone Mineral Density and Vitamin D - many studies">Bone Mineral Density and Vitamin D - many studies</a>
 
 ---
 

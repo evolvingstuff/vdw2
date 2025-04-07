@@ -23,11 +23,11 @@ categories:
 
 #### See also VitaminDWiki &nbsp; Note: <a href="/posts/covid-decreases-vitamin-d-getting-to-cells-for-a-long-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13401">COVID decreases Vitamin D getting to cells for a long time</a>
 
-* [Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)
+* <a href="/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple COVID vaccinations might increase Cancer Incidence - many studies">Multiple COVID vaccinations might increase Cancer Incidence - many studies</a>
 
-* [COVID vaccinations resulted in big increase in metabolic disorders - Nov 2023](/posts/covid-vaccinations-resulted-in-big-increase-in-metabolic-disorders)
+* <a href="/posts/covid-vaccinations-resulted-in-big-increase-in-metabolic-disorders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccinations resulted in big increase in metabolic disorders - Nov 2023">COVID vaccinations resulted in big increase in metabolic disorders - Nov 2023</a>
 
-* [Bone worse after COVID - several studies](/posts/bone-worse-after-covid-several-studies)
+* <a href="/posts/bone-worse-after-covid-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bone worse after COVID - several studies">Bone worse after COVID - several studies</a>
 
 <!-- ~tc~ (alias(Benign Brain Cancer rate increased 4X after vaccines were given - March 2024)) ~/tc~ -->
 

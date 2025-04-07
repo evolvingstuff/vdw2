@@ -36,7 +36,7 @@ Conclusion: The current study highlights the need to improve both knowledge of v
 
 #### Various people on the globe take 4,000 IU daily, but most Scotts take 400 IU or less
 
- **[4,000 IU of Vitamin D - many pages](/posts/4000-iu-of-vitamin-d-many-pages)** 
+ **<a href="/posts/4000-iu-of-vitamin-d-many-pages" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D - many pages">4,000 IU of Vitamin D - many pages</a>** 
 
 ---
 

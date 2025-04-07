@@ -31,7 +31,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - [Activators of the Vitamin D Receptor include sulforaphane and curcumin – June 2020](/posts/activators-of-the-vitamin-d-receptor-include-sulforaphane-and-curcumin)
+#### VitaminDWiki - <a href="/posts/activators-of-the-vitamin-d-receptor-include-sulforaphane-and-curcumin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Activators of the Vitamin D Receptor include sulforaphane and curcumin – June 2020">Activators of the Vitamin D Receptor include sulforaphane and curcumin – June 2020</a>
 
 ---
 

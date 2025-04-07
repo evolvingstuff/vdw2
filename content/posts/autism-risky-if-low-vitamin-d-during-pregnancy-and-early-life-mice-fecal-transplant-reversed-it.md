@@ -46,7 +46,7 @@ __They would probably benefit from 1 or more of the following__
 
 ---
 
-#### VitaminDWiki – [Fecal transplants - many studies](/posts/fecal-transplants-many-studies)
+#### VitaminDWiki – <a href="/posts/fecal-transplants-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fecal transplants - many studies">Fecal transplants - many studies</a>
 
  **Includes the following sections as of March 2024** 
 

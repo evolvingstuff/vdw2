@@ -72,11 +72,11 @@ Congress considering buying drugs from Canada NYT Nov 24, 2014
 
 * 242 pages have <a href="/posts/multiple-studies-in-their-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13884">"Multiple Studies" in their title</a>
 
-* [Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024](/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews)
+* <a href="/posts/is-50-ng-of-vitamin-d-enough-to-fight-covid-trialsitenews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024">Is 50 ng of Vitamin D enough to fight COVID - TrialSiteNews - Jan 2024</a>
 
-* [5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024](/posts/5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis)
+* <a href="/posts/5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024">5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024</a>
 
-* [Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022](/posts/consensus-60000-iu-of-vitamin-d-weekly-for-2-6-months-can-fight-covid-etc-india)
+* <a href="/posts/consensus-60000-iu-of-vitamin-d-weekly-for-2-6-months-can-fight-covid-etc-india" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022">Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022</a>
 
 ---
 

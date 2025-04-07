@@ -64,4 +64,4 @@ Conclusions: Physicians should monitor 25(OH)D levels before, during, and after 
 
 ---
 
-#### VitaminDWiki - [Personalized treatment of Vitamin D](/posts/personalized-treatment-of-vitamin-d)
+#### VitaminDWiki - <a href="/posts/personalized-treatment-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Personalized treatment of Vitamin D">Personalized treatment of Vitamin D</a>

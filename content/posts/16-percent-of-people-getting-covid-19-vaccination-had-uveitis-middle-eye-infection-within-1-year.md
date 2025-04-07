@@ -36,8 +36,8 @@ categories:
 
 ---
 
-#### See also [COVID vaccinations doubled the risk of blood clots in the eye (RVO) – May 2023](/posts/covid-vaccinations-doubled-the-risk-of-blood-clots-in-the-eye-rvo)
+#### See also <a href="/posts/covid-vaccinations-doubled-the-risk-of-blood-clots-in-the-eye-rvo" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccinations doubled the risk of blood clots in the eye (RVO) – May 2023">COVID vaccinations doubled the risk of blood clots in the eye (RVO) – May 2023</a>
 
 ---
 
-#### VitaminDWiki [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
+#### VitaminDWiki <a href="/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID infections and vaccinations decrease Vitamin D – many studies">COVID infections and vaccinations decrease Vitamin D – many studies</a>

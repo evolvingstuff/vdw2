@@ -1,0 +1,9 @@
+# categories.yaml (to be placed in docs_hugo/data/ directory)
+topLevelCategories:
+  - name: "Cancer"
+    subcategories:
+      - "Cancer - Bladder"
+      - "Cancer - Breast"
+      - "Cancer - Other"
+  - name: "Other"
+    isDefault: true

@@ -12,7 +12,7 @@ categories:
 
 #### UV for health references
 
-* [UV helps your health in 17 ways, the production of Vitamin D is just one of them – March 2024](/posts/uv-helps-your-health-in-17-ways-the-production-of-vitamin-d-is-just-one-of-them)
+* <a href="/posts/uv-helps-your-health-in-17-ways-the-production-of-vitamin-d-is-just-one-of-them" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV helps your health in 17 ways, the production of Vitamin D is just one of them – March 2024">UV helps your health in 17 ways, the production of Vitamin D is just one of them – March 2024</a>
 
 ---
 

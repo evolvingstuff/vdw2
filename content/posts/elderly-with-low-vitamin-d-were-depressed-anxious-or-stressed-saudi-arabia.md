@@ -34,6 +34,6 @@ Recommendations: perform routine screening for vitamin D levels among elderly in
 ---
 
 
-* [Vitamin D deficient seniors in acute care were more agitated and disinhibited – April 2024](/posts/vitamin-d-deficient-seniors-in-acute-care-were-more-agitated-and-disinhibited)
+* <a href="/posts/vitamin-d-deficient-seniors-in-acute-care-were-more-agitated-and-disinhibited" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficient seniors in acute care were more agitated and disinhibited – April 2024">Vitamin D deficient seniors in acute care were more agitated and disinhibited – April 2024</a>
 
-* [Nursing homes and Vitamin D - many studies](/posts/nursing-homes-and-vitamin-d-many-studies)
+* <a href="/posts/nursing-homes-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nursing homes and Vitamin D - many studies">Nursing homes and Vitamin D - many studies</a>

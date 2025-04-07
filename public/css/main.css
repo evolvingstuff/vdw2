@@ -185,3 +185,45 @@ tr:hover {
     margin-right: 0.4em;
     color: #e74c3c; /* Red color for PDF icon */
 }
+
+/* Hierarchical Category Styles */
+.hierarchical-categories {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.top-level-category {
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    position: relative;
+}
+
+.category-expander {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+    margin-right: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+}
+
+.category-name {
+    display: inline-block;
+}
+
+.subcategory-list {
+    list-style-type: none;
+    padding-left: 24px;
+    margin-top: 5px;
+}
+
+.subcategory-list li {
+    margin: 5px 0;
+    font-weight: normal;
+}
