@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>How Not To Age book (diet, exercise, supplements) Dr. Greger</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240251">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240251">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240251"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>How Not To Age book (diet, exercise, supplements) Dr. Greger</h1>
+        <time>December 5, 2023</time>
+        <h4 id="kindle-amazon20httpswwwamazoncomhow-not-age-scientific-healthier-ebookdpb09njv5vcmrefsr_1_1crid3m6jso19o90ukkeywordshow20not20to20ageqid1701793499sprefixaps307sr8-1">Kindle <a href="https://www.amazon.com/How-Not-Age-Scientific-Healthier-ebook/dp/B09NJV5VCM/ref=sr_1_1?crid=3M6JSO19O90UK&amp;keywords=how%20not%20to%20age&amp;qid=1701793499&amp;sprefix=,aps,307&amp;sr=8-1">Amazon $20</a></h4>
+<img src="/attachments/d3.mock.jpg" alt="image" width="200">
+<hr>
+<h5 id="word-occurrences-500-food-448-exercise-117-omega-3-116-vitamin-d-12-vitamin-k-7magnesium">Word occurrences: 500+ Food, 448 Exercise, 117 (Omega-3), 116 Vitamin D, 12 Vitamin K, 7 Magnesium</h5>
+<hr>
+<h5 id="video---presentations-and-inteviews">Video - presentations and inteviews</h5>
+<h6 id="76-minute-video-presentationhttpsnutritionfactsorgvideohow-not-to-age-live-presentation"><a href="https://nutritionfacts.org/video/how-not-to-age-live-presentation/">76 minute video presentation</a></h6>
+<hr>
+<h6 id="some-of-the-ways-that-the-video-changed-the-founder-ofvitamindwiki">Some of the ways that the video changed the founder of VitaminDWiki</h6>
+<ul>
+<li>
+<p>Become aware that there are many very low-cost ways to increase lifespan and healthspan</p>
+</li>
+<li>
+<p>No longer will try to increase protein in a meal (500 occurrences in the book)</p>
+</li>
+<li>
+<p>Start reducing Sodium by using our salt which is half Potassium Chloride</p>
+</li>
+<li>
+<p>Reduce fish intake - polluted by Mercury, plastics, and chemicals.</p>
+</li>
+<li>
+<p>Reduce eating chips, and get back to gluten-free bread-making</p>
+</li>
+<li>
+<p>Investigate Spermidine (a new topic for me, mentioned 155 times in the book)</p>
+</li>
+<li>
+<p>Will no longer have milk with my chocolate or blueberries - it cancels the health benefits</p>
+<ul>
+<li>
+<p>Spermidine increases <a href="https://www.youtube.com/watch?v=rikOpH6_TgE&amp;ab_channel=ModernHealthspan">autophagy and lifespan</a> (video)</p>
+</li>
+<li>
+<p>&ldquo;Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine.&rdquo;</p>
+</li>
+<li>
+<p>two cents per mg. from wheat germ page 36, need about 20 mg/day</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting Healthier as You Get Older (p. 35). Flatiron Books. Kindle Edition.</p>
+<ul>
+<li>
+<p>Reduce use of Resveratrol - which increases brain problems (mentioned 99 times in the book)</p>
+</li>
+<li>
+<p>Investigate Flax seed</p>
+</li>
+</ul>
+<p><strong>Look forward to reading the book I own:</strong></p>
+<p><strong>Own both Kindle  and hardback</strong></p>
+<hr>
+<h6 id="80-minute-videointerviewhttpswwwyoutubecomwatchvxc6cyyl3cxmab_channelplantchompers"><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;ab_channel=PlantChompers">80 minute video interview</a></h6>
+<ul>
+<li>
+<p>One note: Alzheimer&rsquo;s is the largest chapter in his book. Almost was made the chapter as a separate book</p>
+</li>
+<li>
+<p>&ldquo;Alzheimer&rsquo;s&rdquo; occurs 417 times in his book</p>
+<ul>
+<li>See related: <a href="/posts/end-of-alzheimers-videos-transcripts-and-many-studies">End of Alzheimer&rsquo;s videos, transcripts and many studies</a></li>
+</ul>
+</li>
+<li>
+<p>Video sections</p>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=0s">0:00</a> The best longevity books</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=109s">1:49</a> The worst longevity books</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=223s">3:43</a> How Not To Age</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=381s">6:21</a> Fact-checking Dr. Greger</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=504s">8:24</a> Why a book on aging</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=912s">15:12</a> The main pathways of aging</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1528s">25:28</a> Hormesis</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1784s">29:44</a> Is Dr. Greger biased?</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2087s">34:47</a> Alzheimer&rsquo;s</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2509s">41:49</a> Protein</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2990s">49:50</a> Browning/cooking food</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3415s">56:55</a> Plant-based America</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3677s">1:01:17</a> Beef &amp; chicken</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=4620s">1:17:00</a> How good is How Not to Age?</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>He later made: <a href="/posts/16-longevity-books-compared-in-a-video">16 Longevity books compared in a video - Dec 2023</a></strong></p>
+<hr>
+<h6 id="122-minute-interview-by-michael-shermer---dec-16httpswwwyoutubecomwatchvzqsrivyaslwab_channelskeptic">122 minute interview by Michael Shermer - <a href="https://www.youtube.com/watch?v=ZqsrivYAsLw&amp;ab_channel=Skeptic">Dec 16</a></h6>
+<p>00:00:00 - Intro</p>
+<p>00:00:00 -  Michael Shermer show, Skeptic magazine, education</p>
+<p>00:05:37 - Topics: Lifespan, longevity, health span</p>
+<p>00:11:52 - aging and longevity research</p>
+<p>00:17:23 - aging, disease, longevity</p>
+<p>00:23:01 - Hallmarks of Aging, boosting anti-aging enzymes and hormones, suppressing pro-aging enzymes and hormones</p>
+<p>00:29:16 - exercise compliance and longevity</p>
+<p>00:34:33 - vaccination, trust in science, errors in institutions</p>
+<p>00:39:52 - ventilation, pandemic lessons, future pandemics</p>
+<p>00:45:20 - Topics: confounding factors in health studies, red wine consumption, fish and walnut consumption</p>
+<p>00:50:26 - plant-based diet, reversing heart disease, observational evidence</p>
+<p>00:55:41 - health benefits of plant-based diet, meat alternatives, importance of healthy food choices</p>
+<p>01:00:50 -  dietary supplements, macronutrients, food industry</p>
+<p>01:05:52 -  galactose and aging, fermented dairy, oat milk vs dairy milk</p>
+<p>01:11:23 - legumes, bean burgers, impossible Burger</p>
+<p>01:16:33 - calories in nuts, kidney stones, dinner</p>
+<p>01:21:57 -  decline in tobacco industry, taxation, changes in workplace</p>
+<p>01:27:01 - Topics:  - Red wine and resveratrol - Intermittent fasting and time</p>
+<p>01:32:20 - multivitamin use, sunscreen, sunglasses</p>
+<p>01:37:36 - blue rays, cataract surgery, retinal damage</p>
+<p>01:42:56 - population scale, disease statistics, vaccination</p>
+<p>01:48:43 - supplements, false advertising, brain supplements</p>
+<p>01:54:39 - weight loss medications, bariatric surgery, sleep and its effects on health</p>
+<hr>
+<h6 id="70-minute-videointerviewhttpsyoutube__ieuojjhdc"><a href="https://youtu.be/__IeuoJJhdc">70 minute video interview</a></h6>
+<p>Welcome to the Gabby Reece Podcast! Today, I&rsquo;m thrilled to welcome Dr. Michael Greger, a distinguished physician and New York Times bestselling author renowned for his impactful books, including &ldquo;How Not to Die,&rdquo; &ldquo;How Not to Diet,&rdquo; and his latest, &ldquo;How Not to Age.&rdquo; In this episode, Dr. Greger delves into longevity strategies, offering realistic and accessible techniques for improving health, managing weight, and preventing chronic diseases. He cuts through the clutter of information overload, providing science-backed recommendations suited for the busy individual navigating a sea of health advice. Dr. Greger&rsquo;s approach is steeped in science yet delivered with a passionate drive to empower each of us to achieve our optimal well-being.</p>
+<p>Throughout our conversation, Dr. Greger emphasizes the importance of informed choices in health and nutrition. He shares actionable insights, from debunking myths around pre-calorie loading to highlighting the role of exercise in triggering autophagy compared to fasting. Notably, Dr. Greger&rsquo;s commitment to spreading knowledge extends beyond his books and speaking engagements; all proceeds support the operation of NutritionFacts.org. This incredible platform offers thousands of free videos, delivering comprehensive nutritional and lifestyle information. With new content posted daily, NutritionFacts.org aims to empower individuals on their journey to wellness. Dive into this informative and inspiring conversation with Dr. Michael Greger, a man on a mission to revolutionize health education for all.</p>
+<hr>
+<h6 id="56-minute-presentation-on-how-not-to-age">56 minute presentation on &ldquo;How Not to Age&rdquo;</h6>
+<p><strong><a href="https://www.youtube.com/watch?v=VqDTU7hR8Ww&amp;ab_channel=VeganLinked">URL</a></strong></p>
+<hr>
+<h6 id="48-minute-interview-how-not-to-age---the-exam-room">48 minute interview “How Not To Age” - The Exam Room</h6>
+<p><strong><a href="https://www.youtube.com/watch?v=ZRtbs8EbTJw&amp;t=2s&amp;ab_channel=PhysiciansCommittee">YouTube</a></strong></p>
+<hr>
+<h6 id="78-minute--video-interview-the-shocking-new-research-on-diet--longevity">78 minute  video interview &ldquo;The Shocking New Research On Diet &amp; Longevity&rdquo;</h6>
+<p><strong><a href="https://www.youtube.com/watch?v=QC5kmotYu14&amp;ab_channel=TheVeganGym">YouTube</a></strong></p>
+<hr>
+<h6 id="70-minute-video-interview-power-of-nutrition-to-delay-aging-">70 minute video interview: Power of Nutrition to Delay Aging &hellip;</h6>
+<p><a href="https://www.youtube.com/watch?v=__IeuoJJhdc&amp;t=2831s&amp;ab_channel=GabbyReece">Youtube</a></p>
+<p>00:00:00 - Intro</p>
+<p>00:00:00 -  Dr. Michael Greger, books, aging</p>
+<p>00:06:03 - nutrition, benefits of fruits and vegetables, pesticides</p>
+<p>00:11:00 - free medicine, social media group, recipes</p>
+<p>00:16:16 - nutrition, exercise, sleep</p>
+<p>00:21:43 - aging pathways, autophagy, anti-aging enzymes</p>
+<p>00:27:18 -  spermine, coffee and cancer, autophagy and skin aging</p>
+<p>00:32:51 - anti-aging foods: legumes, nuts, dark green leafy vegetables</p>
+<p>00:38:20 - pollution rates, cleaner air, berries</p>
+<p>00:44:05 - family impact, role modeling healthy behaviors, educating about consequences</p>
+<p>00:49:39 - Vaping, Resveratrol, Hot flashes</p>
+<p>00:54:52 -  age-related tearing loss, saturated fat in diet, power to change aging process</p>
+<p>01:00:28 -  computer decision-making, emotional barriers, 21-day support</p>
+<p><a href="https://www.timestampgenius.com/">https://www.timestampgenius.com/</a></p>
+<hr>
+<h4 id="is-aging-a-disease--3-minute-video-by-greger-jan-2024">Is Aging a Disease? -3 minute video by Greger Jan 2024</h4>
+<p><strong><a href="https://www.youtube.com/watch?v=plUft_PH00g&amp;ab_channel=NutritionFacts.org">YouTube</a></strong></p>
+<p>For decades, one of the most contested questions in gerontology has been whether or not aging itself should be considered a disease. But aging is natural, the counterargument goes; so, it can’t be a disease. Yes, but so is getting an infection, and we call that a disease. But aging is universal. Yes, but everybody gets the common cold too.</p>
+<p>If you ask people whether they think a variety of conditions should be classified as diseases, you get an odd mix. For example, alcohol dependence is considered a disease, but nicotine dependence is not. Interestingly, the lay public is more likely to view aging as a disease than doctors, despite medicine’s historical penchant to medicalize everything. Who could forget drapetomania, the mental “illness” afflicting slaves who escaped plantations? Masturbation was considered a disease, complete with grizzly surgical solutions. Homosexuality was officially labeled a disease within my lifetime. Yet, medicine is hesitant to label aging an ailment.</p>
+<p>What does it matter what we call it? A rose by any other name wilts just as fast. The hope is that disease classification would lead to greater resource allocation for aging research, just as the recent declaration of obesity as a disease did for obesity research. Aging is arguably one of the most important unsolved problems of humanity, yet less than  **0.1 percent of the National Institutes of Health budget is spent on understanding the aging process)). Even though aging may be the leading cause of disease and death,</p>
+<ul>
+<li>
+<p>only four out of 14 general medicine textbooks have a chapter on the subject, and</p>
+</li>
+<li>
+<p>five of 14 didn’t appear to address aging at all.</p>
+</li>
+</ul>
+<p>he science of aging appears to have been “relegated to a limbo reserved for impractical projects or eccentric whims not quite worthy of serious scientiﬁc … consideration.”</p>
+<p>Why doesn’t Big Pharma invest in what would certainly be a blockbuster drug? Why spend the money on research when it can be spent marketing all the unproven anti-aging products they already sell? Many of the leading lines of dietary supplements are owned by drug companies. They’re the ones selling “cosmeceuticals” and “age reverse” skin creams. Drug maker Sanofi even partnered with Coca-Cola to come up with a “beauty drink.” They’re already making money hand over fist preying on the public’s gullibility and desperation for anti-aging products. Why waste valuable marketing money on proving anything actually works?</p>
+<hr>
+<h5 id="book-table-ofcontents">Book Table of Contents</h5>
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<img src="/attachments/d3.mock.jpg" alt="image" width="280">
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<img src="/attachments/d3.mock.jpg" alt="image" width="280">
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<hr>
+<h5 id="8000-searchable-references-for-the-bookhttpsnutritionfactsorgbookhow-not-to-agecitations-linked-to-each-actualstudy">8,000+ <a href="https://nutritionfacts.org/book/how-not-to-age/citations/">searchable references for the book</a> (linked to each actual study)</h5>
+<p>Note: You can access old references that are behind a paywall</p>
+<p>Pre-2021 references are available at <a href="https://libgen.rs/scimag/">Sci-Hub archive</a></p>
+<p>Just paste the Digital Object Identifier (DOI) from the publisher into  <a href="https://libgen.rs/scimag/">Sci-Hub archive</a></p>
+<p>You can have <a href="https://translate.google.com/">Google Translation</a> of PDF text  into any of 100+ languages</p>
+<hr>
+<ul>
+<li>
+<p><a href="/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ">Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) </a></p>
+</li>
+<li>
+<p><a href="/posts/vitamin-d-supplements-reduce-cancer-mortality-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Supplements Reduce Cancer Mortality – Greger Sept 2019">Vitamin D Supplements Reduce Cancer Mortality – Greger Sept 2019</a></p>
+</li>
+<li>
+<p><a href="/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019">Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019</a></p>
+</li>
+<li>
+<p><a href="/posts/bird-flu-could-mutate-to-be-far-worse-of-a-pandemic-than-covid-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020">Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020</a></p>
+<ul>
+<li>&quot; How to Survive a Pandemic&quot; book</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostslongevity-and-healthspan-increased-by-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-longevity-and-healthspan-increased-by-vitamin-d---many-studieslongevity-and-healthspan-increased-by-vitamin-d---manystudiesa">VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a></h4>
+<hr>
+<h4 id="vitamindwiki---a-hrefpostsmagnesium-role-in-health-and-longevity-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-magnesium-role-in-health-and-longevity---many-studiesmagnesium-role-in-health-and-longevity---manystudiesa">VitaminDWiki - <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a></h4>
+<hr>
+<h4 id="vitamindwiki---how-vitamin-d-omega-3s-and-exercise-may-increase-longevity---patrick-nov2023postshow-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick">VitaminDWiki - <a href="/posts/how-vitamin-d-omega-3s-and-exercise-may-increase-longevity-patrick">How Vitamin D, Omega-3s, and Exercise May Increase Longevity - Patrick Nov 2023</a></h4>
+<hr>
+<h4 id="20-recently-changed-items-in-books-videos-on-vitamin-dcategoriesbooks-videos-on-vitamin-d-category">20 recently changed items in <a href="/categories/books,-videos-on-vitamin-d">Books, videos on Vitamin D</a> category</h4>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240251"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240251',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240251'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

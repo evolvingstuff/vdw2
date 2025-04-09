@@ -26,10 +26,10 @@ class Search {
             this.searchInput.placeholder = 'Loading search...';
         }
         
-        if (this.searchStatus) {
-            this.searchStatus.textContent = 'Initializing search...';
-            this.searchStatus.style.display = 'block';
-        }
+        // if (this.searchStatus) {
+        //     this.searchStatus.textContent = 'Initializing search...';
+        //     this.searchStatus.style.display = 'block';
+        // }
 
         // Flag to track if pako is available
         this.pakoLoaded = false;

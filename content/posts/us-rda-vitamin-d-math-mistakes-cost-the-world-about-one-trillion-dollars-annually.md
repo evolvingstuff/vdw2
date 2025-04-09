@@ -35,8 +35,6 @@ The world copied the US mistake of 600 IU
 
   * 12% of $8.3 trillion = $1.2 trillion
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### The IOM Miscalculated Its RDA For Vitamin D - GrassrootsHealth March 2024
@@ -77,11 +75,11 @@ also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta
 
 ---
 
-#### <a href="/posts/4000-iu-of-vitamin-d-many-pages" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D - many pages">4,000 IU of Vitamin D - many pages</a>
+#### [4,000 IU of Vitamin D - many pages](/posts/4000-iu-of-vitamin-d-many-pages)
 
 ---
 
-#### <a href="/posts/5000-iu-of-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5,000 IU of Vitamin D - many studies">5,000 IU of Vitamin D - many studies</a>
+#### [5,000 IU of Vitamin D - many studies](/posts/5000-iu-of-vitamin-d-many-studies)
 
 ---
 
@@ -95,7 +93,7 @@ also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta
 
 #### Personalization of Vitamin D treatment can substantially increase the Vitamin D response
 
- **<a href="/posts/personalized-treatment-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Personalized treatment of Vitamin D">Personalized treatment of Vitamin D</a>** 
+ **[Personalized treatment of Vitamin D](/posts/personalized-treatment-of-vitamin-d)** 
 
 ---
 

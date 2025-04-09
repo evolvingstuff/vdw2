@@ -13,8 +13,6 @@ categories:
 
  **Thalidomide was used as a treatment for morning sickness, among many other things.** 
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### Hyperemesis Gravidarum 40% more likely if low vitamin D - Dec 2023

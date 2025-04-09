@@ -38,13 +38,13 @@ Conclusion: It is concluded that our population of healthcare workers have highe
 
 #### Examples of related studies in VitaminDWiki
 
-*  **<a href="/posts/5000-iu-vitamin-d-daily-resulted-in-lower-health-care-costs-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5000 IU Vitamin D daily resulted in lower health care costs - RCT Oct 2023">5000 IU Vitamin D daily resulted in lower health care costs - RCT Oct 2023</a>** 
+*  **[5000 IU Vitamin D daily resulted in lower health care costs - RCT Oct 2023](/posts/5000-iu-vitamin-d-daily-resulted-in-lower-health-care-costs-rct)** 
 
 *  **<a href="/posts/perhaps-4000-dollars-annual-less-health-care-costs-if-supplement-with-5-dollars-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps 4,000 dollars annual less health care costs if supplement with 5 dollars of Vitamin D">Perhaps 4,000 dollars annual less health care costs if supplement with 5 dollars of Vitamin D</a>** 
 
 *  **<a href="/posts/90-percent-of-young-health-care-professionals-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 90 percent of young health care professionals had less than 30 ng of vitamin D – Nov 2011">90 percent of young health care professionals had less than 30 ng of vitamin D – Nov 2011</a>** 
 
-*  **<a href="/posts/5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024">5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024</a>** 
+*  **[5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024](/posts/5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis)** 
 
 *  **<a href="/posts/diseases-arising-from-depletion-are-cured-by-repletion-hippocrates-400-bc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases arising from depletion are cured by repletion - Hippocrates 400 BC">Diseases arising from depletion are cured by repletion - Hippocrates 400 BC</a>** 
 

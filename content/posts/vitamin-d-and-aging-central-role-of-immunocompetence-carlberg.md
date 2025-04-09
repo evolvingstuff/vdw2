@@ -225,7 +225,7 @@ This may provide a mechanism explaining how vitamin D protects against major com
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<a href="/posts/vitamin-d-a-master-example-of-nutrigenomics" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D - A master example of nutrigenomics – April 2023">Vitamin D - A master example of nutrigenomics – April 2023</a>** 
+ **[Vitamin D - A master example of nutrigenomics – April 2023](/posts/vitamin-d-a-master-example-of-nutrigenomics)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -281,7 +281,7 @@ This may provide a mechanism explaining how vitamin D protects against major com
 {FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
 {LIST} -->
 
-* <a href="/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023">How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023</a>
+* [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
 <!-- ~tc~ end ~/tc~ -->
 

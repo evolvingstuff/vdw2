@@ -17,8 +17,6 @@ categories:
 
 2) Result in healthier mothers, infants, and children
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### Feasibility and effectiveness of preconception check-ups at workplaces in Japan

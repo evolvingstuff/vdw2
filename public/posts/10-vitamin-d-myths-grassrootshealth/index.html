@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>10 Vitamin D Myths - GrassrootsHealth</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240239">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240239">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240239"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>10 Vitamin D Myths - GrassrootsHealth</h1>
+        <time>July 24, 2023</time>
+        <h3 id="myths-from-grassrootshealth">MYTHS from GrassrootsHealth</h3>
+<p>Vitamin D is essential for our health. Know what is true and what is not so you can make the most of vitamin D for YOUR health!</p>
+<p><strong><a href="https://mail.google.com/mail/u/0/?ui=2&amp;ik=bb216ec13e&amp;view=lg&amp;permmsgid=msg-f:1772295867280824895&amp;ser=1">Original, in English, has graphics</a></strong></p>
+<h4 id="myth-1-vitamin-d-is-stored-in-fat-for-use">MYTH #1: VITAMIN D IS STORED IN FAT FOR USE</h4>
+<p>Vitamin D IS fat soluble, but is not stored as a means of maintaining healthy blood levels, so is needed on a regular basis. In fact, the more fat a person has on their body, the more likely they are to have D deficiency.</p>
+<ul>
+<li>“You don’t need to supplement with vitamin D because it is stored in your fat cells for use.”</li>
+</ul>
+<p>Is this true? The fat storage for use debate…</p>
+<p><a href="https://www.grassrootshealth.net/blog/vitamin-d-fat-soluble-storage-debate/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth-2-vitamin-d-is-easily-toxic">MYTH #2: VITAMIN D IS EASILY TOXIC</h4>
+<p>Toxicity is rare! It can be seen when taking too much D, such as 50,000 lU/day or more over 6 months or longer. Supplementing is considered safe*; testing D levels is important when taking higher doses.</p>
+<p>“Careful not to take too much, vitamin D can be easily toxic.”</p>
+<p>Is this true? How much is too much?…</p>
+<p>  [More information](<a href="https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">https://www.grassrootshealth.net/blog/watch-much-vitamin-d-can-toxic-toxicity-debate-pt-2/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters</a>
+“Watch%20Out!%20Vitamin%20D%20can%20build-up%20in%20your%20fat%20and%20become%20toxic.”
+Is%20this%20true?%20The%20toxic%20fat%20stores%20debate…
+<del>hs~~hs</del>&lsquo;<a href="https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">https://www.grassrootshealth.net/blog/watch-vitamin-d-build-fat-can-toxic-toxicity-debate-pt-1/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters</a>)</p>
+<h4 id="myth-3-the-recommended-daily-allowance-rda-is-enough-for-everyone">MYTH #3: THE RECOMMENDED DAILY ALLOWANCE (RDA) IS ENOUGH FOR EVERYONE</h4>
+<p>Almost all who get only the RDA of 400-600 lU/day of vitamin D are deficient! Studies demonstrate the need for roughly 10 times more than the current daily recommendation.</p>
+<p><a href="https://www.grassrootshealth.net/blog/current-recommendations-low/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth-4-vitamin-d-testing-is-unnecessary">MYTH #4: VITAMIN D TESTING IS UNNECESSARY</h4>
+<p>There is a higher risk of deficiency among certain individuals (darker skin, higher BMI, older age). Many other factors also influence how each person responds to D, making it useful for everyone to test their levels. Test from home: grassrootshealth.net/test</p>
+<p><a href="https://www.grassrootshealth.net/blog/vitamin-d-testing-necessary/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth-5-sun--food-provide-enough-vitamin-d">MYTH #5: SUN &amp; FOOD PROVIDE ENOUGH VITAMIN D</h4>
+<p>It is possible to get enough D from sun and food alone (such as for native African tribes and some outdoor workers) but it is very unlikely for most. Nearly everyone requires a vitamin D supplement to avoid deficiency.</p>
+<p>le to get enough D from sun and food alone (such as for native African tribes and some outdoor workers) but it is very unlikely It is d alone (such as for native African tribes and some outdoor workers) but it is very unlikely for most. Nearly everyone requires a vitamin D supplement to</p>
+<p><a href="https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth--6-taking-vitamin-d-causes-kidney-stones">MYTH  #6: TAKING VITAMIN D CAUSES KIDNEY STONES</h4>
+<p>High levels of vitamin D DO NOT cause kidney stones. Recent studies have shown that people with low levels of D are more than twice as likely to develop a kidney stone!</p>
+<ul>
+<li>there is a very small group of individuals with rare conditions, such as primary hyperparathyroidism, sarcoidosis, and other granulomatous disorders, who may need to be cautious with vitamin D intake</li>
+</ul>
+<p><a href="https://www.grassrootshealth.net/blog/can-get-enough-vitamin-d-sun-food-alone/">more information</a></p>
+<h4 id="myth-7-taking-vitamin-d-makes-other-nutrients-deficient">MYTH #7: Taking Vitamin D Makes Other Nutrients Deficient</h4>
+<p>“Supplementing with vitamin D can cause deficiencies in other nutrients”</p>
+<p>Is this true? Can taking vitamin D create a co-nutrient imbalance?&hellip;</p>
+<p><a href="https://www.grassrootshealth.net/blog/can-taking-vitamin-d-unmask-underlying-nutrient-imbalances/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">more information</a></p>
+<h4 id="myth-8-vitamin-d-supplementation-never-has-side-effects">MYTH #8: Vitamin D Supplementation Never has Side-Effects</h4>
+<p>“Vitamin D supplementation has the same safety for everyone”</p>
+<p>Is this true? Unfortunately, no. While it is true that the majority of individuals have no issues when taking vitamin D (in fact, many notice improvements in how they feel), there is a very small percentage of people who do experience unwanted side-effects. There are several rare but very real situations in which individuals with certain conditions may experience what seems to be a hypersensitivity to vitamin D supplementation, and sometimes, to the sun as well.</p>
+<p>People with Primary Hyperparathyroidism (PHPT), Sarcoidosis, and other Granulomatous Disorders should take extra caution with vitamin D. If you know or suspect that you have any of these conditions, or if you experience what feels like a hypersensitivity or negative effects due to vitamin D, please work with your health care provider to address these conditions, and work with them to safely resolve any existing vitamin D deficiency.</p>
+<p><a href="https://www.grassrootshealth.net/blog/granulomatous-disorders-vitamin-d-hypersensitivity/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth-9-the-same-amount-of-vitamin-d-is-good-for-everyone">MYTH #9: The Same Amount of Vitamin D is Good for Everyone</h4>
+<p>“Everyone needs the same amount of vitamin D”</p>
+<p>Is this true? Most definitely not… everyone responds differently to sun and supplements, AND, each person may have unique health needs that may require higher vitamin D levels to target, such as for cancer.</p>
+<p><a href="https://www.grassrootshealth.net/blog/dose-not-work-everyone/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<h4 id="myth-10-the-hormonal-vitamin-d-is-the-only-form-that-benefits-us">MYTH #10: The Hormonal Vitamin D is the Only Form that Benefits Us</h4>
+<p>“The only active form of vitamin D and the only one important to our health is the hormonal form”. Is this true? Certainly not! The common misconceptions concerning the 3 main forms of vitamin D found in our body&hellip;</p>
+<p><a href="https://www.grassrootshealth.net/blog/body-needs-forms-vitamin-d/?utm_source=newsletter-main&amp;utm_medium=email&amp;utm_campaign=Newsletters">More information</a></p>
+<hr>
+<h3 id="span-stylecolororange9span-pages-of-myths-in-vitamindwiki"><span style="color:orange;">9+</span> pages of MYTHS in VitaminDWiki</h3>
+<!-- {LIST()}
+{list max="150"}
+{filter field="title" content="MYTHS"}
+{filter field="title" content="NOT \"salt\""}
+{filter type="wiki page"}
+{sort mode="modification_date_major_desc"}
+{OUTPUT(template="table")}
+{tableparams allowtableexpansion="n" shownbitems="y" title=""}
+{column sort="title" label="Title" field="title" mode="raw"}{column}
+{column label="Modified" sort="modification_date_major" field="modification_date_major"}
+{OUTPUT}
+{FORMAT(name="title")}{display name=title format="objectlink"}{FORMAT}
+{FORMAT(name="modification_date_major")}{display name=modification_date_major format="date"}{FORMAT}
+{LIST} -->
+<!-- ~tc~ (alias(10 Vitamin D Myths 0 GrassrootsHealth July 2023)) ~/tc~ -->
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240239"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240239',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240239'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

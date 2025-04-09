@@ -101,6 +101,6 @@ Men C vaccine (Meningococcal group C): one dose from 12 months old
 
 Drop in US SIDS when vaccinations slowed due to COVID-19 – July 2021
 
-#### VitaminDWiki - <a href="/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infants getting lots of vaccinations are 2X more likely to die - July 2023">Infants getting lots of vaccinations are 2X more likely to die - July 2023</a>
+#### VitaminDWiki - [Infants getting lots of vaccinations are 2X more likely to die - July 2023](/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die)
 
 #### VitaminDWiki - <a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a>

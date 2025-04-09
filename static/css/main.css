@@ -8,6 +8,9 @@ body {
 }
 .sidebar {
     width: 200px;
+    min-width: 200px;
+    max-width: 200px;
+    flex-shrink: 0;
     background-color: #f0f0f0;
     padding: 20px;
 }
@@ -195,9 +198,9 @@ tr:hover {
 
 .top-level-category {
     margin-bottom: 10px;
-    cursor: pointer;
     font-weight: bold;
     position: relative;
+    cursor: pointer; /* Add this line to the existing styles */
 }
 
 .category-expander {
@@ -207,7 +210,7 @@ tr:hover {
     text-align: center;
     background-color: #f0f0f0;
     border-radius: 3px;
-    margin-right: 8px;
+    margin-right: 3px;
     font-weight: bold;
     cursor: pointer;
     user-select: none;
@@ -221,9 +224,16 @@ tr:hover {
     list-style-type: none;
     padding-left: 24px;
     margin-top: 5px;
+    margin-left: 8px; /* Add left margin to align with category name */
 }
 
 .subcategory-list li {
     margin: 5px 0;
     font-weight: normal;
+}
+
+/* Add a grayed-out style for empty categories */
+.category-empty {
+    opacity: 0.5;
+    color: #777;
 }

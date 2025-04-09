@@ -9,8 +9,6 @@ date: 2024-04-02
 
  **Total fines and penalities, not just COVID** 
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### Pharmaceutical industry [violation page](https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals?utm_source=substack&utm_medium=email)

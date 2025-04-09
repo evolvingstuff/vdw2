@@ -21,11 +21,11 @@ Open Forum Infectious Diseases, Volume 11, Issue 3, March 2024, ofae067, https:/
 
 ---
 
-#### VitaminDWiki - <a href="/posts/moderna-is-monitoring-150-million-websites-for-anti-vaccine-narratives" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Moderna is monitoring 150 million websites for ‘Anti-Vaccine’ Narratives - Nov 2023">Moderna is monitoring 150 million websites for ‘Anti-Vaccine’ Narratives - Nov 2023</a>
+#### VitaminDWiki - [Moderna is monitoring 150 million websites for ‘Anti-Vaccine’ Narratives - Nov 2023](/posts/moderna-is-monitoring-150-million-websites-for-anti-vaccine-narratives)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/13-b-dollar-income-to-pfizer-and-moderna-147-b-dollar-cost-of-vaccine-problems-just-us" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine problems (just US) - March 2023">13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine problems (just US) - March 2023</a>
+#### VitaminDWiki - [13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine problems (just US) - March 2023](/posts/13-b-dollar-income-to-pfizer-and-moderna-147-b-dollar-cost-of-vaccine-problems-just-us)
 
 <!-- ~tc~ (alias(Moderna COVID vax "safety" report "only)) ~/tc~ -->
 

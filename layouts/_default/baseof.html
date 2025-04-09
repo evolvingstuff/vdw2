@@ -23,56 +23,103 @@
             
             <h2>Categories</h2>
             <ul class="hierarchical-categories" data-spa-nav>
-                {{ range .Site.Data.categories.topLevelCategories }}
+                {{- range .Site.Data.categories.topLevelCategories -}}
+                {{- $topCat := . -}}
+                <!-- Calculate total count -->
+                {{- $totalCount := 0 -}}
+                
+                <!-- Special handling for default category (isDefault=true) -->
+                {{- if .isDefault -}}
+                    <!-- Count all categories not explicitly mapped elsewhere -->
+                    {{- range $.Site.Taxonomies.categories -}}
+                        {{- $currentCat := .Page.Title -}}
+                        {{- $isExplicitlyMapped := false -}}
+                        
+                        <!-- Check if this category is explicitly mapped elsewhere -->
+                        {{- range $.Site.Data.categories.topLevelCategories -}}
+                            {{- if not .isDefault -}}
+                                {{- range .subcategories -}}
+                                    {{- if eq . $currentCat -}}
+                                        {{- $isExplicitlyMapped = true -}}
+                                    {{- end -}}
+                                {{- end -}}
+                            {{- end -}}
+                        {{- end -}}
+                        
+                        <!-- If not explicitly mapped, count it for default category -->
+                        {{- if not $isExplicitlyMapped -}}
+                            {{- $totalCount = add $totalCount .Count -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- else -}}
+                    <!-- Normal category count calculation -->
+                    {{- range $.Site.Taxonomies.categories -}}
+                        {{- $category := . -}}
+                        {{- range $topCat.subcategories -}}
+                            {{- if eq $category.Page.Title . -}}
+                                {{- $totalCount = add $totalCount $category.Count -}}
+                            {{- end -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+                
                 <li class="top-level-category collapsed">
-                    <span class="category-expander">+</span>
-                    <span class="category-name">{{ .name }}</span>
+                    <div class="category-header {{- if and (eq $totalCount 0) (not .isDefault) }} category-empty{{- end -}}">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            {{ .name }}
+                            <!-- Always show count for default category, otherwise only show if > 0 -->
+                            {{- if or .isDefault (gt $totalCount 0) -}}
+                                ({{ $totalCount }})
+                            {{- end -}}
+                        </span>
+                    </div>
                     <ul class="subcategory-list" style="display: none;">
-                        {{ $topCat := . }}
-                        {{ if .isDefault }}
+                        {{- if .isDefault -}}
                             <!-- Default category - show all categories not explicitly mapped elsewhere -->
-                            {{ range $.Site.Taxonomies.categories }}
-                                {{ $currentCat := .Page.Title }}
-                                {{ $isExplicitlyMapped := false }}
+                            {{- range $.Site.Taxonomies.categories -}}
+                                {{- $currentCat := .Page.Title -}}
+                                {{- $isExplicitlyMapped := false -}}
                                 
                                 <!-- Check if this category is explicitly mapped elsewhere -->
-                                {{ range $.Site.Data.categories.topLevelCategories }}
-                                    {{ if not .isDefault }}
-                                        {{ range .subcategories }}
-                                            {{ if eq . $currentCat }}
-                                                {{ $isExplicitlyMapped = true }}
-                                            {{ end }}
-                                        {{ end }}
-                                    {{ end }}
-                                {{ end }}
+                                {{- range $.Site.Data.categories.topLevelCategories -}}
+                                    {{- if not .isDefault -}}
+                                        {{- range .subcategories -}}
+                                            {{- if eq . $currentCat -}}
+                                                {{- $isExplicitlyMapped = true -}}
+                                            {{- end -}}
+                                        {{- end -}}
+                                    {{- end -}}
+                                {{- end -}}
                                 
                                 <!-- If not explicitly mapped, show it here -->
-                                {{ if not $isExplicitlyMapped }}
+                                {{- if not $isExplicitlyMapped -}}
                                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
-                                {{ end }}
-                            {{ end }}
-                        {{ else }}
+                                {{- end -}}
+                            {{- end -}}
+                        {{- else -}}
                             <!-- Normal category - only show explicitly mapped subcategories -->
-                            {{ range $.Site.Taxonomies.categories }}
-                                {{ $category := . }}
-                                {{ range $topCat.subcategories }}
-                                    {{ if eq $category.Page.Title . }}
+                            {{- range $.Site.Taxonomies.categories -}}
+                                {{- $category := . -}}
+                                {{- range $topCat.subcategories -}}
+                                    {{- if eq $category.Page.Title . -}}
                                         <li><a href="{{ $category.Page.RelPermalink }}">{{ $category.Page.Title }} ({{ $category.Count }})</a></li>
-                                    {{ end }}
-                                {{ end }}
-                            {{ end }}
-                        {{ end }}
+                                    {{- end -}}
+                                {{- end -}}
+                            {{- end -}}
+                        {{- end -}}
                     </ul>
                 </li>
-                {{ end }}
+                {{- end -}}
             </ul>
         </div>
         <div class="content" role="main">
-            {{ block "main" . }}{{ end }}
+            {{- block "main" . }}{{- end -}}
         </div>
     </div>
 
     <script src="{{ "/js/lightspa.js" | relURL }}?v={{ now.Unix }}"></script>
+    <!-- TODO: extract out this logic to separate files? -->
     <script>
         // Initialize LightSPA
         const spa = new LightSPA({
@@ -88,27 +135,45 @@
         
         // Category collapse/expand functionality
         document.addEventListener('DOMContentLoaded', function() {
+            // Function to toggle category state
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    // Expand
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; // Change indicator
+                    subList.style.display = 'block';
+                } else {
+                    // Collapse
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; // Change indicator
+                    subList.style.display = 'none';
+                }
+            }
+            
+            // Original expander click handlers
             document.querySelectorAll('.category-expander').forEach(function(expander) {
                 expander.addEventListener('click', function(e) {
                     // Prevent click from propagating to LightSPA
                     e.stopPropagation();
                     
                     var parentItem = this.closest('.top-level-category');
-                    var subList = parentItem.querySelector('.subcategory-list');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            // Add click handlers to category names
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    // Prevent click from propagating to LightSPA
+                    e.stopPropagation();
                     
-                    if (parentItem.classList.contains('collapsed')) {
-                        // Expand
-                        parentItem.classList.remove('collapsed');
-                        parentItem.classList.add('expanded');
-                        this.textContent = '-'; // Change indicator
-                        subList.style.display = 'block';
-                    } else {
-                        // Collapse
-                        parentItem.classList.remove('expanded');
-                        parentItem.classList.add('collapsed');
-                        this.textContent = '+'; // Change indicator
-                        subList.style.display = 'none';
-                    }
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
                 });
             });
         });

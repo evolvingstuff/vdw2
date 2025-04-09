@@ -1,0 +1,44 @@
+---
+title: "Sepsis mortality greater in Black than White children (low vitamin D)"
+slug: "sepsis-mortality-greater-in-black-than-white-children-low-vitamin-d"
+aliases:
+  - "/Sepsis+mortality+greater+in+Black+than+White+children+low+vitamin+D+-+Dec+2023"
+  - "/tiki-index.php?page_id=14857"
+date: 2023-12-03
+categories:
+  - "Skin - Dark"
+  - "Trauma and surgery"
+---
+
+
+#### Sepsis mortality (2.5X) greater in Black than White children despite similar interventions
+
+ **[MD Edge](https://www.mdedge.com/pediatrics/article/266635/diversity-medicine/sepsis-mortality-greater-black-white-children-despite?ecd=WNL_EVE_231203_mdedge)** 
+
+The word vitamin does not occur even once on the page
+
+---
+
+#### Blacks have lower levels of Vitamin D than whites
+
+* <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021">African American Health Disparities are associated with low Vitamin D - Grant Feb 2021</a>
+
+* <a href="/posts/darker-skin-health-disparities-might-be-eliminated-by-vitamin-d-no-surprise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Darker Skin Health Disparities might be eliminated by Vitamin D (no surprise) - April 2022">Darker Skin Health Disparities might be eliminated by Vitamin D (no surprise) - April 2022</a>
+
+* <a href="/posts/covid-19-mortality-for-blacks-is-5x-that-for-whites-in-2-la-hospitals" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals - July 2021">COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals - July 2021</a>
+
+* [Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023](/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case)
+
+* <a href="/posts/cancer-continues-to-be-more-deadly-for-blacks-than-whites-hint-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022">Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022</a>
+
+* [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
+
+* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a> from JAMA 2007
+
+  * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
+
+  * Other cancer 0.3 years, [Diabetes](/categories/diabetes) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
+
+  * [Hypertension](/categories/hypertension) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-[Depression](/categories/depression) ?
+
+  * Unintentional injuries 0.4 years (drugs, autos,  **falls** )

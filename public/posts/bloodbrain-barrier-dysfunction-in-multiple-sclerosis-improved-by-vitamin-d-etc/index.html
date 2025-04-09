@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240243">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240243">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240243"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>Blood–brain barrier dysfunction in multiple sclerosis (improved by vitamin D, etc.)</h1>
+        <time>December 16, 2023</time>
+        <h4 id="bloodbrain-barrier-dysfunction-in-multiple-sclerosis-causes-consequences-and-potential-effects-of-therapies">Blood–brain barrier dysfunction in multiple sclerosis: causes, consequences, and potential effects of therapies</h4>
+<p>Lancet January, 2024DOI:https://doi.org/10.1016/S1474-4422(23)00377-0 PDF behind paywall</p>
+<p>Bettina Zierfuss, PhD, Catherine Larochelle, MD PhD, Prof Alexandre Prat, MD PhD</p>
+<p>Summary</p>
+<p>Established by brain endothelial cells, the  <strong>blood–brain barrier</strong>  (BBB) regulates the trafficking of molecules, restricts immune cell entry into the CNS, and has an active role in neurovascular coupling (the regulation of cerebral blood flow to support neuronal activity). In the early stages of multiple sclerosis, around the time of symptom onset, inflammatory BBB damage is accompanied by pathogenic immune cell infiltration into the CNS. In the later stages of multiple sclerosis, dysregulation of neurovascular coupling is associated with grey matter atrophy.</p>
+<p>Genetic and environmental factors associated with multiple sclerosis, including</p>
+<ul>
+<li>
+<p>dietary habits,</p>
+</li>
+<li>
+<p>the gut microbiome,</p>
+</li>
+<li>
+<p>and  <strong>vitamin D</strong>  concentrations,</p>
+</li>
+</ul>
+<p>might contribute directly and indirectly to brain endothelial cell dysfunction. Damage to brain endothelial cells leads to an influx of deleterious molecules into the CNS, accelerating leakage across the BBB. Potential future therapeutic approaches might help to prevent BBB damage (eg, monoclonal antibodies targeting cell adhesion molecules and fibrinogen) and help to repair BBB dysfunction (eg, mesenchymal stromal cells) in people with multiple sclerosis.</p>
+<h5 id="101-references">101 References</h5>
+<p>1.Wengler K Ha J Syritsyna O et al.</p>
+<p>Abnormal  <strong>blood–brain barrier</strong>  water exchange in chronic multiple sclerosis lesions: a preliminary study.</p>
+<p>Magn Reson Imaging. 2020; 70: 126-133</p>
+<p>Scopus (7)</p>
+<p>2.Freedman MS Devonshire V Duquette P et al.</p>
+<p>Treatment optimization in multiple sclerosis: Canadian MS Working Group recommendations.</p>
+<p>Can J Neurol Sci. 2020; 47: 437-455</p>
+<p>Scopus (52)</p>
+<p>3.Ramaglia V Rojas O Naouar I Gommerman JL</p>
+<p>The ins and outs of central nervous system inflammation—lessons learned from multiple sclerosis.</p>
+<p>Annu Rev Immunol. 2021; 39: 199-226</p>
+<p>Scopus (22)</p>
+<p>4.Proulx ST Engelhardt B</p>
+<p>Central nervous system zoning: how brain barriers establish subdivisions for CNS immune privilege and immune surveillance.</p>
+<p>J Intern Med. 2022; 292: 47-67</p>
+<p>Scopus (16)</p>
+<p>5.Bell AH Miller SL Castillo-Melendez M Malhotra A</p>
+<p>The neurovascular unit: effects of brain insults during the perinatal period.</p>
+<p>Front Neurosci. 2020; 131452</p>
+<p>Scopus (79)</p>
+<p>6.Spencer JI Bell JS DeLuca GC</p>
+<p>Vascular pathology in multiple sclerosis: reframing pathogenesis around the  <strong>blood–brain barrier</strong> .</p>
+<p>J Neurol Neurosurg Psychiatry. 2018; 89: 42-52</p>
+<p>Scopus (89)</p>
+<p>7.Munji RN Soung AL Weiner GA et al.</p>
+<p>Profiling the mouse brain endothelial transcriptome in health and disease models reveals a core  <strong>blood–brain barrier</strong>  dysfunction module.</p>
+<p>Nat Neurosci. 2019; 22: 1892-1902</p>
+<p>Scopus (166)</p>
+<p>8.Abadier M Lyck R</p>
+<p>Pathways across the  <strong>blood–brain barrier</strong> .</p>
+<p>in: Lyck R Enzmann G The  <strong>blood–brain barrier</strong>  and inflammation. Springer International Publishing, Cham2017: 187-211</p>
+<p>9.Marchetti L Francisco D Soldati S et al.</p>
+<p>ACKR1 favors transcellular over paracellular T-cell diapedesis across the  <strong>blood–brain barrier</strong>  in neuroinflammation in vitro.</p>
+<p>Eur J Immunol. 2022; 52: 161-177</p>
+<p>Scopus (8)</p>
+<p>10.Broux B Zandee S Gowing E et al.</p>
+<p>Interleukin-26, preferentially produced by TH17 lymphocytes, regulates CNS barrier function.</p>
+<p>Neurol Neuroimmunol Neuroinflamm. 2020; 7: e870</p>
+<p>Scopus (16)</p>
+<p>11.Charabati M Grasmuck C Ghannam S et al.</p>
+<p>DICAM promotes TH17 lymphocyte trafficking across the  <strong>blood–brain barrier</strong>  during autoimmune neuroinflammation.</p>
+<p>Sci Transl Med. 2022; 14eabj0473</p>
+<p>Scopus (18)</p>
+<p>12.Fournier AP Tastet O Charabati M et al.</p>
+<p>Single-cell transcriptomics identifies brain endothelium inflammatory networks in experimental autoimmune encephalomyelitis.</p>
+<p>Neurol Neuroimmunol Neuroinflamm. 2022; 10e200046</p>
+<p>13.Charabati M Zandee S Fournier AP et al.</p>
+<p>MCAM+ brain endothelial cells contribute to neuroinflammation by recruiting pathogenic CD4+ T lymphocytes.</p>
+<p>Brain. 2023; 146: 1483-1495</p>
+<p>Scopus (5)</p>
+<p>14.Fournier AP Zandee S Charabati M et al.</p>
+<p>CLMP promotes leukocyte migration across brain barriers in multiple sclerosis.</p>
+<p>Neurol Neuroimmunol Neuroinflamm. 2022; 9e200022</p>
+<p>Scopus (3)</p>
+<p>15.Michel L Grasmuck C Charabati M et al.</p>
+<p>Activated leukocyte cell adhesion molecule regulates B lymphocyte migration across central nervous system barriers.</p>
+<p>Sci Transl Med. 2019; 11eaaw0475</p>
+<p>Scopus (38)</p>
+<p>16.Wimmer I Tietz S Nishihara H et al.</p>
+<p>PECAM-1 stabilizes  <strong>blood–brain barrier</strong>  integrity and favors paracellular T-cell diapedesis across the  <strong>blood–brain barrier</strong>  during neuroinflammation.</p>
+<p>Front Immunol. 2019; 10: 711</p>
+<p>Scopus (102)</p>
+<p>17.Larochelle C Uphaus T Broux B et al.</p>
+<p>EGFL7 reduces CNS inflammation in mouse.</p>
+<p>Nat Commun. 2018; 9: 819</p>
+<p>Scopus (29)</p>
+<p>18.Goasdoué K Miller SM Colditz PB Björkman ST</p>
+<p>Review: the  <strong>blood–brain barrier</strong> ; protecting the developing fetal brain.</p>
+<p>Placenta. 2017; 54: 111-116</p>
+<p>Scopus (89)</p>
+<p>19.Delaney C Campbell M</p>
+<p>The  <strong>blood–brain barrier</strong> : insights from development and ageing.</p>
+<p>Tissue Barriers. 2017; 5e1373897</p>
+<p>Scopus (21)</p>
+<p>20.Skillbäck T Blennow K Zetterberg H et al.</p>
+<p>Sex differences in CSF biomarkers for neurodegeneration and  <strong>blood–brain barrier</strong>  integrity.</p>
+<p>Alzheimers Dement (Amst). 2021; 13e12141</p>
+<p>21.Stamatovic SM Martinez-Revollar G Hu A Choi J Keep RF Andjelkovic AV</p>
+<p>Decline in Sirtuin-1 expression and activity plays a critical role in  <strong>blood–brain barrier</strong>  permeability in aging.</p>
+<p>Neurobiol Dis. 2019; 126: 105-116</p>
+<p>Scopus (80)</p>
+<p>22.Li Y Xie L Huang T et al.</p>
+<p>Aging Neurovascular unit and potential role of dna damage and repair in combating vascular and neurodegenerative disorders.</p>
+<p>Front Neurosci. 2019; 13: 778</p>
+<p>Scopus (3)</p>
+<p>23.Dobi A Rosanaly S Devin A et al.</p>
+<p>Advanced glycation end-products disrupt brain microvascular endothelial cell barrier: the role of mitochondria and oxidative stress.</p>
+<p>Microvasc Res. 2021; 133104098</p>
+<p>Scopus (19)</p>
+<p>24.D&rsquo;Souza A Burch A Dave KM et al.</p>
+<p>Microvesicles transfer mitochondria and increase mitochondrial function in brain endothelial cells.</p>
+<p>J Control Release. 2021; 338: 505-526</p>
+<p>Scopus (52)</p>
+<p>25.Baranzini SE Oksenberg JR</p>
+<p>The genetics of multiple sclerosis: from 0 to 200 in 50 years.</p>
+<p>Trends Genet. 2017; 33: 960-970</p>
+<p>Scopus (136)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>26.Jeong H-W Diéguez-Hurtado R Arf H et al.</p>
+<p>Single-cell transcriptomics reveals functionally specialized vascular endothelium in brain.</p>
+<p>eLife. 2022; 11e57520</p>
+<p>27.Mohammadhosayni M Khosrojerdi A Lorian K et al.</p>
+<p>Matrix metalloproteinases (MMPs) family gene polymorphisms and the risk of multiple sclerosis: systematic review and meta-analysis.</p>
+<p>BMC Neurol. 2020; 20: 218</p>
+<p>Scopus (10)</p>
+<p>28.Patsopoulos NA Baranzini SE Santaniello A et al.</p>
+<p>Multiple sclerosis genomic map implicates peripheral immune cells and microglia in susceptibility.</p>
+<p>Science. 2019; 365eaav7188</p>
+<p>29.Logsdon AF Erickson MA Rhea EM Salameh TS Banks WA</p>
+<p>Gut reactions: how the  <strong>blood–brain barrier</strong>  connects the microbiome and the brain.</p>
+<p>Exp Biol Med (Maywood). 2018; 243: 159-165</p>
+<p>Scopus (150)</p>
+<p>30.Rhea EM Salameh TS Logsdon AF Hanson AJ Erickson MA Banks WA</p>
+<p><strong>blood–brain barrier</strong> s in obesity.</p>
+<p>AAPS J. 2017; 19: 921-930</p>
+<p>Scopus (85)</p>
+<p>31.Zhou X Baumann R Gao X et al.</p>
+<p>Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course.</p>
+<p>Cell. 2022; 185: 3467-3486</p>
+<p>Scopus (46)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>32.Cantoni C Lin Q Dorsett Y et al.</p>
+<p>Alterations of host–gut microbiome interactions in multiple sclerosis.</p>
+<p>EBioMedicine. 2022; 76103798</p>
+<p>Scopus (43)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>33.Bäcker-Koduah P Bellmann-Strobl J Scheel M et al.</p>
+<p><strong>vitamin D</strong>  and disease severity in multiple sclerosis-baseline data from the randomized controlled trial (EVIDIMS).</p>
+<p>Front Neurol. 2020; 11: 129</p>
+<p>Scopus (11)</p>
+<p>34.Cortese M Munger KL Martínez-Lapiscina EH et al.</p>
+<p><strong>vitamin D</strong> , smoking, EBV, and long-term cognitive performance in MS: 11-year follow-up of BENEFIT.</p>
+<p>Neurology. 2020; 94: e1950-e1960</p>
+<p>Scopus (31)</p>
+<p>35.Hupperts R Smolders J Vieth R et al.</p>
+<p>Randomized trial of daily high-dose  <strong>vitamin D3</strong>  in patients with RRMS receiving subcutaneous interferon β-1a.</p>
+<p>Neurology. 2019; 93: e1906-e1916</p>
+<p>Scopus (74)</p>
+<p>36.Bjornevik K Cortese M Healy BC et al.</p>
+<p>Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis.</p>
+<p>Science. 2022; 375: 296-301</p>
+<p>Scopus (647)</p>
+<p>37.Tengvall K Huang J Hellström C et al.</p>
+<p>Molecular mimicry between anoctamin 2 and Epstein-Barr virus nuclear antigen 1 associates with multiple sclerosis risk.</p>
+<p>Proc Natl Acad Sci USA. 2019; 116: 16955-16960</p>
+<p>Scopus (86)</p>
+<p>38.Lanz TV Brewer RC Ho PP et al.</p>
+<p>Clonally expanded B cells in multiple sclerosis bind EBV EBNA1 and GlialCAM.</p>
+<p>Nature. 2022; 603: 321-327</p>
+<p>Scopus (251)</p>
+<p>39.Zhang N Zuo Y Jiang L Peng Y Huang X Zuo L</p>
+<p>Epstein-Barr virus and neurological diseases.</p>
+<p>Front Mol Biosci. 2022; 8816098</p>
+<p>Scopus (40)</p>
+<p>40.Montgomery S Hiyoshi A Burkill S Alfredsson L Bahmanyar S Olsson T</p>
+<p>Concussion in adolescence and risk of multiple sclerosis.</p>
+<p>Ann Neurol. 2017; 82: 554-561</p>
+<p>Scopus (37)</p>
+<p>41.Degelman ML Herman KM</p>
+<p>Smoking and multiple sclerosis: a systematic review and meta-analysis using the Bradford Hill criteria for causation.</p>
+<p>Mult Scler Relat Disord. 2017; 17: 207-216</p>
+<p>Scopus (91)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>42.Wu S-Y Xing F Sharma S et al.</p>
+<p>Nicotine promotes brain metastasis by polarizing microglia and suppressing innate immune function.</p>
+<p>J Exp Med. 2020; 217e20191131</p>
+<p>Scopus (48)</p>
+<p>43.Oakes JM Fuchs RM Gardner JD Lazartigues E Yue X</p>
+<p>Nicotine and the renin–angiotensin system.</p>
+<p>Am J Physiol Regul Integr Comp Physiol. 2018; 315: R895-R906</p>
+<p>Scopus (199)</p>
+<p>44.Olsson T Barcellos LF Alfredsson L</p>
+<p>Interactions between genetic, lifestyle and environmental risk factors for multiple sclerosis.</p>
+<p>Nat Rev Neurol. 2017; 13: 25-36</p>
+<p>Scopus (636)</p>
+<p>45.Zhang SL Yue Z Arnold DM Artiushin G Sehgal A</p>
+<p>A circadian clock in the  <strong>blood–brain barrier</strong>  regulates xenobiotic efflux.</p>
+<p>Cell. 2018; 173: 130-139.e10</p>
+<p>Scopus (131)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>46.Cuddapah VA Zhang SL Sehgal A</p>
+<p>Regulation of the  <strong>blood–brain barrier</strong>  by circadian rhythms and sleep.</p>
+<p>Trends Neurosci. 2019; 42: 500-510</p>
+<p>Scopus (99)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>47.Artiushin G Zhang SL Tricoire H Sehgal A</p>
+<p>Endocytosis at the Drosophila  <strong>blood–brain barrier</strong>  as a function for sleep.</p>
+<p>eLife. 2018; 7e43326</p>
+<p>Scopus (49)</p>
+<p>48.Sun J Wu J Hua F Chen Y Zhan F Xu G</p>
+<p>Sleep deprivation induces cognitive impairment by increasing  <strong>blood–brain barrier</strong>  permeability via CD44.</p>
+<p>Front Neurol. 2020; 11563916</p>
+<p>Scopus (22)</p>
+<p>49.Nishihara H Perriot S Gastfriend BD et al.</p>
+<p>Intrinsic  <strong>blood–brain barrier</strong>  dysfunction contributes to multiple sclerosis pathogenesis.</p>
+<p>Brain. 2022; 145: 4334-4348</p>
+<p>Scopus (24)</p>
+<p>50.Filippi M Brück W Chard D et al.</p>
+<p>Association between pathological and MRI findings in multiple sclerosis.</p>
+<p>Lancet Neurol. 2019; 18: 198-210</p>
+<p>Scopus (144)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>51.Yong HYF Yong VW</p>
+<p>Mechanism-based criteria to improve therapeutic outcomes in progressive multiple sclerosis.</p>
+<p>Nat Rev Neurol. 2022; 18: 40-55</p>
+<p>Scopus (40)</p>
+<p>52.Petersen MA Ryu JK Akassoglou K</p>
+<p>Fibrinogen in neurological diseases: mechanisms, imaging and therapeutics.</p>
+<p>Nat Rev Neurosci. 2018; 19: 283-301</p>
+<p>Scopus (256)</p>
+<p>53.Yates RL Esiri MM Palace J Jacobs B Perera R DeLuca GC</p>
+<p>Fibrin(ogen) and neurodegeneration in the progressive multiple sclerosis cortex.</p>
+<p>Ann Neurol. 2017; 82: 259-270</p>
+<p>Scopus (77)</p>
+<p>54.Ryu JK Rafalski VA Meyer-Franke A et al.</p>
+<p>Fibrin-targeting immunotherapy protects against neuroinflammation and neurodegeneration.</p>
+<p>Nat Immunol. 2018; 19: 1212-1223</p>
+<p>Scopus (118)</p>
+<p>55.Willis CM Nicaise AM Menoret A et al.</p>
+<p>Extracellular vesicle fibrinogen induces encephalitogenic CD8+ T cells in a mouse model of multiple sclerosis.</p>
+<p>Proc Natl Acad Sci USA. 2019; 116: 10488-10493</p>
+<p>Scopus (30)</p>
+<p>56.Brailoiu E Shipsky MM Yan G Abood ME Brailoiu GC</p>
+<p>Mechanisms of modulation of brain microvascular endothelial cells function by thrombin.</p>
+<p>Brain Res. 2017; 1657: 167-175</p>
+<p>Scopus (40)</p>
+<p>57.Suthiphosuwan S Sati P Absinta M et al.</p>
+<p>Paramagnetic rim sign in radiologically isolated syndrome.</p>
+<p>JAMA Neurol. 2020; 77: 653-655</p>
+<p>Scopus (32)</p>
+<p>58.Hagemeier J Ramanathan M Schweser F et al.</p>
+<p>Iron-related gene variants and brain iron in multiple sclerosis and healthy individuals.</p>
+<p>Neuroimage Clin. 2017; 17: 530-540</p>
+<p>Scopus (27)</p>
+<p>59.Sweeney MD Zhao Z Montagne A Nelson AR Zlokovic BV</p>
+<p><strong>blood–brain barrier</strong> : from physiology to disease and back.</p>
+<p>Physiol Rev. 2019; 99: 21-78</p>
+<p>Scopus (1043)</p>
+<p>60.Benedict RHB Amato MP DeLuca J Geurts JJG</p>
+<p>Cognitive impairment in multiple sclerosis: clinical management, MRI, and therapeutic avenues.</p>
+<p>Lancet Neurol. 2020; 19: 860-871</p>
+<p>Scopus (237)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>61.Granziera C Wuerfel J Barkhof F et al.</p>
+<p>Quantitative magnetic resonance imaging towards clinical application in multiple sclerosis.</p>
+<p>Brain. 2021; 144: 1296-1311</p>
+<p>Scopus (58)</p>
+<p>62.Sivakolundu DK West KL Maruthy GB et al.</p>
+<p>Reduced arterial compliance along the cerebrovascular tree predicts cognitive slowing in multiple sclerosis: Evidence for a neurovascular uncoupling hypothesis.</p>
+<p>Mult Scler. 2020; 26: 1486-1496</p>
+<p>Scopus (13)</p>
+<p>63.Barro C Benkert P Disanto G et al.</p>
+<p>Serum neurofilament as a predictor of disease worsening and brain and spinal cord atrophy in multiple sclerosis.</p>
+<p>Brain. 2018; 141: 2382-2391</p>
+<p>Scopus (300)</p>
+<p>64.Uher T McComb M Galkin S et al.</p>
+<p>Neurofilament levels are associated with  <strong>blood–brain barrier</strong>  integrity, lymphocyte extravasation, and risk factors following the first demyelinating event in multiple sclerosis.</p>
+<p>Mult Scler. 2021; 27: 220-231</p>
+<p>Scopus (41)</p>
+<p>65.Sejbaek T Nielsen HH Penner N et al.</p>
+<p>Dimethyl fumarate decreases neurofilament light chain in CSF and blood of treatment naïve relapsing MS patients.</p>
+<p>J Neurol Neurosurg Psychiatry. 2019; 90: 1324-1330</p>
+<p>66.Kuhle J Plavina T Barro C et al.</p>
+<p>Neurofilament light levels are associated with long-term outcomes in multiple sclerosis.</p>
+<p>Mult Scler. 2020; 26: 1691-1699</p>
+<p>Scopus (57)</p>
+<p>67.Hyun J-W Kim Y Kim G Kim S-H Kim HJ</p>
+<p>Longitudinal analysis of serum neurofilament light chain: a potential therapeutic monitoring biomarker for multiple sclerosis.</p>
+<p>Mult Scler. 2020; 26: 659-667</p>
+<p>Scopus (21)</p>
+<p>68.Sandelius Å Zetterberg H Blennow K et al.</p>
+<p>Plasma neurofilament light chain concentration in the inherited peripheral neuropathies.</p>
+<p>Neurology. 2018; 90: e518-e524</p>
+<p>Scopus (162)</p>
+<p>69.Kalm M Boström M Sandelius Å et al.</p>
+<p>Serum concentrations of the axonal injury marker neurofilament light protein are not influenced by  <strong>blood–brain barrier</strong>  permeability.</p>
+<p>Brain Res. 2017; 1668: 12-19</p>
+<p>Scopus (44)</p>
+<p>70.Watanabe M Nakamura Y Michalak Z et al.</p>
+<p>Serum GFAP and neurofilament light as biomarkers of disease activity and disability in NMOSD.</p>
+<p>Neurology. 2019; 93: e1299-e1311</p>
+<p>Scopus (112)</p>
+<p>71.Papa L Ladde JG O&rsquo;Brien JF et al.</p>
+<p>Evaluation of glial and neuronal blood biomarkers compared with clinical decision rules in assessing the need for computed tomography in patients with mild traumatic brain injury.</p>
+<p>JAMA Netw Open. 2022; 5e221302</p>
+<p>Scopus (14)</p>
+<p>72.Brambilla R</p>
+<p>The contribution of astrocytes to the neuroinflammatory response in multiple sclerosis and experimental autoimmune encephalomyelitis.</p>
+<p>Acta Neuropathol. 2019; 137: 757-783</p>
+<p>Scopus (139)</p>
+<p>73.Martinsen V Kursula P</p>
+<p>Multiple sclerosis and myelin basic protein: insights into protein disorder and disease.</p>
+<p>Amino Acids. 2022; 54: 99-109</p>
+<p>Scopus (42)</p>
+<p>74.Nohejlova H Kayserova J Capek V Toman T Krsek P Liba Z</p>
+<p>Paediatric onset of multiple sclerosis: analysis of chemokine and cytokine levels in the context of the early clinical course.</p>
+<p>Mult Scler Relat Disord. 2020; 46102467</p>
+<p>Scopus (5)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>75.Wang D Duan H Feng J et al.</p>
+<p>Soluble CD146, a cerebrospinal fluid marker for neuroinflammation, promotes  <strong>blood–brain barrier</strong>  dysfunction.</p>
+<p>Theranostics. 2020; 10: 231-246</p>
+<p>Scopus (21)</p>
+<p>76.Ziliotto N Lamberti N Manfredini F et al.</p>
+<p>Baseline and overtime variations of soluble adhesion molecule plasma concentrations are associated with mobility recovery after rehabilitation in multiple sclerosis patients.</p>
+<p>J Neuroimmunol. 2021; 352577473</p>
+<p>Scopus (2)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>77.Fournier AP Quenault A Martinez de Lizarrondo S et al.</p>
+<p>Prediction of disease activity in models of multiple sclerosis by molecular magnetic resonance imaging of P-selectin.</p>
+<p>Proc Natl Acad Sci USA. 2017; 114: 6116-6121</p>
+<p>Scopus (37)</p>
+<p>78.Masuda H Mori M Uchida T Uzawa A Ohtani R Kuwabara S</p>
+<p>Soluble CD40 ligand contributes to  <strong>blood–brain barrier</strong>  breakdown and central nervous system inflammation in multiple sclerosis and neuromyelitis optica spectrum disorder.</p>
+<p>J Neuroimmunol. 2017; 305: 102-107</p>
+<p>Scopus (32)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>79.Agah E Zardoui A Saghazadeh A Ahmadi M Tafakhori A Rezaei N</p>
+<p>Osteopontin (OPN) as a CSF and blood biomarker for multiple sclerosis: a systematic review and meta-analysis.</p>
+<p>PLoS One. 2018; 13e0190252</p>
+<p>Scopus (52)</p>
+<p>80.Spitzer D Puetz T Armbrust M et al.</p>
+<p>Anti-osteopontin therapy leads to improved edema and infarct size in a murine model of ischemic stroke.</p>
+<p>Sci Rep. 2022; 1220925</p>
+<p>Scopus (2)</p>
+<p>81.Clemente N Comi C Raineri D et al.</p>
+<p>Role of anti-osteopontin antibodies in multiple sclerosis and experimental autoimmune encephalomyelitis.</p>
+<p>Front Immunol. 2017; 8: 321</p>
+<p>Scopus (29)</p>
+<p>82.Çiçekli E Sayan S Kotan D</p>
+<p>Availability of fibrinogen/albumin ratio in MS attack.</p>
+<p>Mult Scler Relat Disord. 2022; 60103674</p>
+<p>Scopus (4)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>83.Miranda Acuña J Hidalgo de la Cruz M Ros AL Tapia SP Martínez Ginés ML de Andrés Frutos CD</p>
+<p>Elevated plasma fibrinogen levels in multiple sclerosis patients during relapse.</p>
+<p>Mult Scler Relat Disord. 2017; 18: 157-160</p>
+<p>Scopus (17)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>84.Schaller-Paule MA Yalachkov Y Steinmetz H et al.</p>
+<p>Analysis of CSF D-dimer to identify intrathecal fibrin-driven autoimmunity in patients with multiple sclerosis.</p>
+<p>Neurol Neuroimmunol Neuroinflamm. 2022; 9e1150</p>
+<p>Scopus (5)</p>
+<p>85.Balasa R Barcutean L Mosora O Manu D</p>
+<p>Reviewing the significance of  <strong>blood–brain barrier</strong>  disruption in multiple sclerosis pathology and treatment.</p>
+<p>Int J Mol Sci. 2021; 228370</p>
+<p>Scopus (40)</p>
+<p>86.Pyka-Fosciak G Lis GJ Litwin JA</p>
+<p>Effect of natalizumab treatment on metalloproteinases and their inhibitors in a mouse model of multiple sclerosis.</p>
+<p>J Physiol Pharmacol. 2020; 71: 265-273</p>
+<p>87.Knudsen MH Lindberg U Frederiksen JL et al.</p>
+<p><strong>blood–brain barrier</strong>  permeability changes in the first year after alemtuzumab treatment predict 2-year outcomes in relapsing-remitting multiple sclerosis.</p>
+<p>Mult Scler Relat Disord. 2022; 63103891</p>
+<p>Scopus (5)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>88.Nguyen K Juillard P Hawke S Grau GE Marsh-Wakefield F</p>
+<p>Trans-endothelial migration of memory T Cells is impaired in alemtuzumab-treated multiple sclerosis patients.</p>
+<p>J Clin Med. 2022; 116266</p>
+<p>Scopus (1)</p>
+<p>89.Ford RK Juillard P Hawke S Grau GE Marsh-Wakefield F</p>
+<p>Cladribine reduces trans-endothelial migration of memory T cells across an in vitro  <strong>blood–brain barrier</strong> .</p>
+<p>J Clin Med. 2022; 116006</p>
+<p>Scopus (4)</p>
+<p>90.Sellebjerg F Blinkenberg M Sorensen PS</p>
+<p>Anti-CD20 monoclonal antibodies for relapsing and progressive multiple sclerosis.</p>
+<p>CNS Drugs. 2020; 34: 269-280</p>
+<p>Scopus (42)</p>
+<p>91.Krämer J Bar-Or A Turner TJ Wiendl H</p>
+<p>Bruton tyrosine kinase inhibitors for multiple sclerosis.</p>
+<p>Nat Rev Neurol. 2023; 19: 289-304</p>
+<p>Scopus (9)</p>
+<p>92.Banoth B Cassel SL</p>
+<p>Bruton tyrosine kinase inhibition: clinical relevance beyond B cells.</p>
+<p>J Allergy Clin Immunol. 2017; 140: 985-987</p>
+<p>Scopus (8)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>93.Mizuno M Noto D Kaga N Chiba A Miyake S</p>
+<p>The dual role of short fatty acid chains in the pathogenesis of autoimmune disease models.</p>
+<p>PLoS One. 2017; 12e0173032</p>
+<p>Scopus (149)</p>
+<p>94.Dai Y Wei T Shen Z Bei Y Lin H Dai H</p>
+<p>Classical HDACs in the regulation of neuroinflammation.</p>
+<p>Neurochem Int. 2021; 150105182</p>
+<p>Scopus (16)</p>
+<p>95.Shen Y Yang R Zhao J et al.</p>
+<p>The histone deacetylase inhibitor belinostat ameliorates experimental autoimmune encephalomyelitis in mice by inhibiting TLR2/MyD88 and HDAC3/NF-κB p65-mediated neuroinflammation.</p>
+<p>Pharmacol Res. 2022; 176105969</p>
+<p>Scopus (15)</p>
+<p>96.Buonvicino D Ranieri G Chiarugi A</p>
+<p>Treatment with non-specific HDAC inhibitors administered after disease onset does not delay evolution in a mouse model of progressive multiple sclerosis.</p>
+<p>Neuroscience. 2021; 465: 38-45</p>
+<p>Scopus (6)</p>
+<p>Summary</p>
+<p>Full Text</p>
+<p>Full Text PDF</p>
+<p>97.Ghaiad HR Nooh MM El-Sawalhi MM Shaheen AA</p>
+<p>Resveratrol promotes remyelination in cuprizone model of multiple sclerosis: biochemical and histological study.</p>
+<p>Mol Neurobiol. 2017; 54: 3219-3229</p>
+<p>Scopus (85)</p>
+<p>98.Boffa G Lapucci C Sbragia E et al.</p>
+<p>Aggressive multiple sclerosis: a single-centre, real-world treatment experience with autologous haematopoietic stem cell transplantation and alemtuzumab.</p>
+<p>Eur J Neurol. 2020; 27: 2047-2055</p>
+<p>Scopus (13)</p>
+<p>99.Roudi S Rädler JA El Andaloussi S</p>
+<p>Therapeutic potential of extracellular vesicles in neurodegenerative disorders.</p>
+<p>Handb Clin Neurol. 2023; 193: 243-266</p>
+<p>Scopus (0)</p>
+<p>100.Hayakawa K Chan SJ Mandeville ET et al.</p>
+<p>Protective effects of endothelial progenitor cell-derived extracellular mitochondria in brain endothelium.</p>
+<p>Stem Cells. 2018; 36: 1404-1410</p>
+<p>Scopus (91)</p>
+<p>101.Charabati M Rabanel J-M Ramassamy C Prat A</p>
+<p>Overcoming the brain barriers: from immune cells to nanoparticles.</p>
+<p>Trends Pharmacol Sci. 2020; 41: 42-54</p>
+<p>Scopus (27)</p>
+<hr>
+<h4 id="28000-hits-for-blood-brain-barrier-vitamin-d-in-google-scholar">28,000 hits for &ldquo;blood brain barrier&rdquo; &ldquo;vitamin d&rdquo; in Google Scholar</h4>
+<p><strong><a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22blood+brain+barrier%22+%22vitamin+d%22&amp;btnG=">https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=%22blood+brain+barrier%22+%22vitamin+d%22&amp;btnG=</a>|Google Scholar]</strong></p>
+<ul>
+<li>
+<p>Active form of vitamin D directly protects the blood–brain barrier in multiple sclerosis-  August 2017 <a href="https://doi.org/10.1111/cen3.12398">https://doi.org/10.1111/cen3.12398</a>  FREE PDF</p>
+</li>
+<li>
+<p>Full spectrum of vitamin D immunomodulation in multiple sclerosis: mechanisms and therapeutic implications - June 2022  <a href="https://doi.org/10.1093/braincomms/fcac171">https://doi.org/10.1093/braincomms/fcac171</a> FREE PDF</p>
+<ul>
+<li>&ldquo;In this review, we focus on recent published data describing the biological effects of Vitamin D in animal models of multiple sclerosis on immune cells, blood–brain barrier function, activation of glial cells and its potential neuroprotective effects.&rdquo;</li>
+</ul>
+</li>
+<li>
+<p>The Role of Vitamin D in Neuroprotection in Multiple Sclerosis: An Update - June 2023  <a href="https://doi.org/10.3390/nu15132978">https://doi.org/10.3390/nu15132978</a> FREE PDF</p>
+</li>
+<li>
+<p>Intranasal administration of vitamin D attenuates blood–brain barrier disruption through endogenous upregulation of osteopontin and activation of CD44/P-gp glycosylation signaling after subarachnoid hemorrhage in rats - Oct 2016 <a href="https://doi.org/10.1177/0271678X16671147">https://doi.org/10.1177/0271678X16671147</a> FREE PDF</p>
+<ul>
+<li>Note: VitaminDWiki has been successfully experimenting in inhaing Vitamin D since about 2015</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsmultiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d--dec-2019multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d--dec-2019a">VitaminDWiki – <a href="/posts/multiple-sclerosis-32-percent-less-likely-among-those-with-more-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019">Multiple Sclerosis 32 percent less likely among those with more than 32 ng of vitamin D – Dec 2019</a></h4>
+<hr>
+<h4 id="see-brain-in-vitamindwiki">See Brain in VitaminDWiki</h4>
+<ul>
+<li>
+<p><a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a></p>
+</li>
+<li>
+<p><a href="/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer">Global burden of brain disorders surpasses cardiovascular disease and cancer - July 2023</a></p>
+<ul>
+<li>Contains: Vitamin D inhaled thru the nose gets some directly to the brain</li>
+</ul>
+</li>
+<li>
+<p><a href="/posts/vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021">Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021</a></p>
+</li>
+<li>
+<p><a href="/posts/many-neurological-diseases-fought-by-vitamin-d">Many Neurological Diseases fought by Vitamin D - Dec 2022</a></p>
+</li>
+</ul>
+<hr>
+<h4 id="see-also-in-vitamindwiki">See also in VitaminDWiki</h4>
+<ul>
+<li>
+<p><a href="/posts/multiple-sclerosis-risk-factors-vitamin-d-was-the-only-one-you-can-easily-change">Multiple Sclerosis risk factors - Vitamin D was the only one you can easily change - Sept 2023</a></p>
+</li>
+<li>
+<p><a href="/posts/multiple-sclerosis-prevention-with-high-dose-vitamin-d-in-rats-in-this-case">Multiple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023</a></p>
+</li>
+<li>
+<p><a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a></p>
+</li>
+<li>
+<p><a href="/posts/an-opportunity-use-vitamin-d-to-treat-multiple-sclerosis-has-been-used-for-14-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: An opportunity - use Vitamin D to treat Multiple Sclerosis (has been used for 14 years) - Feb 2022">An opportunity - use Vitamin D to treat Multiple Sclerosis (has been used for 14 years) - Feb 2022</a></p>
+</li>
+</ul>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240243"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240243',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240243'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

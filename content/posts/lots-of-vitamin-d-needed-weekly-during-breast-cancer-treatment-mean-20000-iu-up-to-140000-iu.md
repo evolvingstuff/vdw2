@@ -26,8 +26,6 @@ categories:
 
   * Shorter treatment durations, less chemo used, less recurrence
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### Course of Vitamin D Levels in Newly Diagnosed Non-Metastatic Breast Cancer Patients over One Year with Quarterly Controls and Substitution
@@ -64,4 +62,4 @@ Conclusions: Physicians should monitor 25(OH)D levels before, during, and after 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/personalized-treatment-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Personalized treatment of Vitamin D">Personalized treatment of Vitamin D</a>
+#### VitaminDWiki - [Personalized treatment of Vitamin D](/posts/personalized-treatment-of-vitamin-d)

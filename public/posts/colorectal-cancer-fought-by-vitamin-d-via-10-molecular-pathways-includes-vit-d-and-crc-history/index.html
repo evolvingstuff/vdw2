@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Colorectal cancer fought by Vitamin D via 10 molecular pathways (includes Vit D and CRC history)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240246">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240246">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240246"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>Colorectal cancer fought by Vitamin D via 10 molecular pathways (includes Vit D and CRC history)</h1>
+        <time>September 13, 2023</time>
+        <h4 id="from-molecular-basis-to-clinical-insights-a-challenging-future-for-the-vitamin-d-endocrine-system-in-colorectal-cancer">From molecular basis to clinical insights: a challenging future for the vitamin D endocrine system in colorectal cancer</h4>
+<p>FEBS J . 2023 Sep 12. <a href="https://doi.org/10.1111/febs.16955">doi: 10.1111/febs.16955</a></p>
+<p>Fábio Pereira1,2, Asunción Fernández-Barral1,3,4, María Jesús Larriba1,3,4, Antonio Barbáchano1,3,4 and José Manuel González-Sancho1,3,4,5</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="1000">
+<img src="/attachments/d3.mock.jpg" alt="image" width="800">
+<h5 id="abstract">Abstract</h5>
+<p>Colorectal cancer (CRC) is one of the most life-threatening neoplasias in terms of incidence and mortality worldwide. Vitamin D deficiency has been associated with an increased risk of CRC. 1a,25-dihydroxyvitamin D3 <span>[1,25(OHhD3]</span>, the most active vitamin D metabolite, is a pleiotropic hormone that, through its binding to a transcription factor of the nuclear receptor superfamily, is a major regulator of the human genome. 1,25(OH)2D3 acts on colon carcinoma and stromal cells and displays tumor protective actions. Here, we review the variety of molecular mechanisms underlying the effects of 1,25(OH)2D3 in CRC, which affect multiple processes that are dysregulated during tumor initiation and progression. Additionally, we discuss the epidemiological data that associate vitamin D deficiency and CRC, and the most relevant randomized controlled trials of vitamin D3 supplementation conducted in both healthy individuals and CRC patients.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<h5 id="introduction---a-historical-perspective">Introduction - A historical perspective</h5>
+<p>It is likely that vitamin D was initially originated as an inert molecule before the apparition of life billions of years ago, and although its physiological function in the early organisms and primal evolution is unknown, it might have acquired an initial vital function in the protection of life in early marine organisms against ultraviolet (UV) radiation-induced DNA damage before the existence of protective ozone layers in the atmosphere. Indeed, it was demonstrated that plankton species unchanged for at least 750 million years hold the capacity of synthesizing previtamin D from its precursors <span>[1-3]</span>. This may have had an ultimate importance in the dawdling evolutionary jump from sea to earth life when confronting the characteristics of a new hostile environment and the advantage of calcium homeostasis and eventually, a skeleton. It is presumable indeed, that during this evolution, the photochemical reaction leading to vitamin D production was transferred, in the long run, to the skin of animals <sup>[2]</sup>. The “skin-lightening hypothesis” proposed by Jablonski &amp; Chaplin would explain the role of vitamin D in human dispersion from Africa and its presumable responsibility in skin depigmentation, since darker skin in primitive hominids avoided excessive production of vitamin D as minimal storage was required in a tropical climate with high and direct sun exposure <sup>[4]</sup>. Although whiter skin is better adapted to vitamin D synthesis, the migration of modern humans from eastern Africa in the first major demographic expansion would have resulted in unexpected scenarios of vitamin D deficiency, as documented by osteological examinations in excavated prehistoric skeletons found in northern Europe <sup>[5, 6]</sup>. This hypothesis has been challenged recently as new archeogenomic data on population genetics arise and alternative explanations for the adaption of the vitamin D endocrine system (VDES) are under debate <sup>[7]</sup>. Notwithstanding, it is the beginning of writing and the narration of human past in Ancient History that renders the earliest references of the physiological effect of sunlight on bone composition, initially by the ancient Greek historian Herodotus (5th century BC) when examining the softer skulls of turban-wearing dead warriors and later by the Greco-Roman physician Sorano of Ephesus (1st-2nd century AC) in the observation of bone deformities among infants residing in Rome <sup>[2]</sup>. It would take centuries though until the first publication identifying and recognizing a specific clinical disease termed, so far popularly, rickets.</p>
+<p>Two renowned physicians educated in England initiated the scientific literature on rickets, which was first clearly described and concisely documented in Daniel Whistler thesis presented in the Netherlands in 1645 and shortly after by Francis Glisson treatise published in England in 1650 <sup>[2, 8]</sup>. In the early 1800s, Jedrzej Sniadecki, a polish physician, documented the differential incidence of rickets in sunless city-dwelling children vs. rural-dwellers and hypothesized that exposure to sunlight was involved. By the end of the 19th century rickets appeared in epidemic proportions in large, polluted cities, as people began to stay indoors with reduced exposure to sunlight. The incidence of the disease continued to increase during the Industrial Revolution, especially in children who lived in the industrialized cities of northern Europe and north-eastern United States. In 1890, a British medical epidemiologist named Theodore Palm studied the relationship between incidence of rickets and its geographical distribution and concluded that rickets in Britain-resident infants, although having a superior diet and better sanitation, was caused by lack of exposure to sunlight when compared to those living in the tropics <span>[8-10]</span>. In fact, Palm recognized the role of sunlight in the prevention and treatment of rickets but unfortunately these seminal observations supporting an environmental perspective on the nature of rickets remained unnoticed until the early 20th century, when a debate in the scientific community focused on whether the disease was a result of some dietary substance deficit or an environmental factor. Several scientists performed experiments in the following decades in which laboratory animals and affected children were cured when exposed to sunlight or mercury lamps <sup>[11, 12]</sup>. On the other hand, at that time, scientists realized that there were micronutrients present in food necessary for normal growth and reproduction. A number of disorders, such as xerophthalmia and scurvy, were defined to be related to the lack of nutritional substances of water/fat-soluble origin. The use of purified diets in experimental animals and deprivation studies led to the breakthrough discovery of these “vital-amines”, i.e., vitamins <sup>[13]</sup>. Based on this previous knowledge, the search for specific foods or substances within that could prevent rickets was on the run <sup>[14]</sup>.</p>
+<p>Classic animal experiments by Edward Mellanby and Elmer McCollum irrevocably established the antirachitic properties of cod liver oil <sup>[8, 15]</sup>. Mellanby performed a series of experiments keeping Beagle dogs indoors, away from sunlight, and feeding them diets that, together with the lack of UV radiation, were capable of inducing rickets. He then fed the rachitic dogs with cod liver oil, among others, and proved that these puppies could be cured by administering this oil. Through these experiments, cod liver oil was confirmed as a scientific model for an essential micronutrient. They attributed the anti-rachitic function of cod liver oil to “fat soluble A” (or vitamin A, which is present in high concentrations in cod liver oil) or a similar substance <sup>[16]</sup>. In the following years, Hariette Chick and collaborators were able to reproduce these results and demonstrated that rickets in post-World War I malnourished children could be overturned by the ingestion of whole milk or cod liver oil <sup>[17]</sup>. The breakthrough discovery that the anti-rachitic substance in cod liver oil was distinct from vitamin A came up with Elmer McCollum, a chemist at the University of Wisconsin (USA). In a series of experiments, McCollum and his co­workers demonstrated that heated and oxygenated cod-liver oil lost its protectiveness against vitamin A deficiency (xerophthalmia) but still retained its anti-rachitic function, leading to the conclusion that there were two different active compounds <sup>[18]</sup>. McCollum coined the term “vitamin D” to refer to the anti-rachitic substance in cod liver oil as it was fourth in the sequence of vitamins discovered <sup>[11]</sup>.</p>
+<p>In the meantime, different laboratories found that UV irradiation of inert food was able to provide it with anti-rachitic properties, which would lead the way to find the substance that could be activated by irradiation <sup>[15]</sup>. Although initially thought to be cholesterol according to experiments conducted by Hess and collaborators, spectroscopic studies generated some doubts on the purity of the sample stated to be activated by UV-radiation <sup>[19]</sup>. At this point, in 1926, Hess asked the famous German steroid chemist Adolf Windaus to collaborate on the clarification of the chemical structure of the anti-rachitic product activated by UV-radiation. A third investigator in England, Otto Rosenheim, also joined this collaboration. In fact, Rosenheim’s team performed the key experiment and provided the essential clue with the demonstration that the immediate precursor of vitamin D was not cholesterol <sup>[20]</sup>. The following work on the identification of the provitamin by Windaus and Hess was greatly influenced by the previous knowledge of the absorption spectrum of cholesterol, and finally led to the determination that a fungal steroid from ergot (a parasite that infects cereals), named ergosterol, was the UV-radiation convertible provitamin D. This finding was finally corroborated by Rosenheim’s group. These achievements, which contributed to the finale and culmination of an era in the isolation and identification of the precursors of vitamin D, together with previous intensive work on sterols/cholesterol, rendered Adolf Windaus the Nobel Prize of Chemistry in 1928 “for his studies on the constitution of the sterols and their connection with vitamins” <sup>[13, 15]</sup>. But aside from earning the upmost honoured recognition in Science, Windaus and others continued on the pursue of new achievements and answers to key questions. The irradiation product of ergosterol, named vitamin D2 or calciferol (the initial isolation of vitamin D1 by the group of Windaus was proved to be an adduct and an error in identification), was purified and crystallized shortly after in 1931 by 3 independent teams, including Windaus’ who determined its chemical properties and structure, which would be corrected by himself later on in 1936. One year later Windaus and Bock finally unveiled how animals obtain active vitamin D from UV-light, hitting and identifying 7-dehydrocholesterol and the structure of its irradiation product named vitamin D3 or cholecalciferol <sup>[15]</sup>.</p>
+<p>It would take almost another 50 years after the discovery of vitamin D to finally unveil the exact sequence of steps leading to the photoproduction of vitamin D3 in the skin, the activation steps in the liver to generate the intermediate 25-hydroxyvitamin D3 (25(OH)D3) or calcifediol and subsequently in the kidney and other tissues to render the active 1a,25-dihydroxyvitamin D3 (1,25(OH)2D3) or calcitriol <span>[21-23]</span> (Fig. 1).</p>
+<p>In this review we will overhaul thoroughly the latest scientific evidence on the VDES and colorectal cancer (CRC) with special consideration on the molecular mechanisms and its clinical applications.</p>
+<h5 id="the-vitamin-d-endocrine-system">The vitamin D endocrine system</h5>
+<p>Vitamin D in humans is either obtained from the diet or synthesized in the skin. Dietary intake of vitamin D (mostly D3 and only minimal amounts of D2) is usually low, and therefore the main source of vitamin D is the non-enzymatic skin production of vitamin D3 from UVB exposed 7-dehydrocholesterol <sup>[21, 24]</sup>. In the liver, vitamin D3 is hydroxylated to render 25(OH)D3 by the CYP2R1 hydroxylase. CYP2R1 is also responsible for vitamin D2 hydroxylation into 25(OH)D2 <sup>[25]</sup>. These 25-hydroxylated forms of vitamin D, together known as 25(OH)D, are the most stable vitamin D metabolites. Thus, serum 25(OH)D concentration is widely used as a biomarker for the vitamin D status of a person and to establish vitamin D deficiency <sup>[24, 26, 27]</sup>. Defining vitamin D deficiency is still problematic and there is so far no unanimity. Most guidelines define it as serum 25(OH)D levels below 50 nmol/l (20 ng/ml), whereas some experts propose the terminology of vitamin D insufficiency for subjects with serum 25(OH)D between 50 and 75 nmol/l (20 and 30 ng/ml) <sup>[28]</sup>. In the blood, 25(OH)D is bound to vitamin D-binding protein (DBP), a member of the albumin family, encoded by the GC gene, that can transport various forms of vitamin D between skin, liver, and kidney, and then on to other target tissues <sup>[29]</sup>. 25(OH)D3 can be subsequently hydroxylated into 1,25(OH)2D3, the active hormone, by the CYP27B1 hydroxylase. This reaction occurs mainly in the kidney but also in several types of epithelial and immune cells, although only kidney-produced 1,25(OH)2D3 can be exported to the bloodstream. Inactivation of both 25(OH)D3 and 1,25(OH)2D3 is mediated by the CYP24A1 hydroxylase which generates a series of 24- and 23-hydroxylated products (e.g., 24R,25(OH)2D3) that are targeted for excretion along well-established pathways <sup>[30]</sup> (Fig. 1).</p>
+<p>In target cells, 1,25(OH)2D3 binds with high affinity to the vitamin D receptor (VDR), which mediates all its actions. VDR was discovered in 1969 <sup>[31]</sup> and the human cDNA cloned in 1988 <sup>[32]</sup>. It is a member of the nuclear receptor superfamily which also includes receptors for thyroid hormones, retinoid acid, glucocorticoids, estrogen, or progesterone, among others. These receptors are transcription factors with a DNA- binding domain and a ligand-binding domain. In the case of VDR, the ligand-binding domain binds 1,25(OH)2D3 and its synthetic analogues with high affinity <sup>[33, 34]</sup>. VDR forms heterodimers with RXR, another member of the superfamily and the receptor for 9-cz&rsquo;s-retinoic acid, and upon 1,25(OH)2D3 binding regulates the expression of a large number of target genes involved in most cellular processes, including proliferation, survival, and differentiation <sup>[34]</sup>. Besides its usual nuclear location, in some cell types VDR also locates in the cytoplasm or in caveolae at the plasma membrane and upon ligand binding elicits rapid responses by acting on kinases, phosphatases and ion channels <sup>[35, 36]</sup>.</p>
+<p>It is worth noting that the VDES presents many similarities with the thyroid hormone endocrine system as cleverly pointed out by Bouillon and collaborators <sup>[37, 38]</sup>.</p>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsvitamin-d-receptor-cancers-or-viruses-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-receptor-cancers-or-viruses---many-studiesvitamin-d-receptor-cancers-or-viruses---many-studiesa-87-studies">VitaminDWiki – <a href="/posts/vitamin-d-receptor-cancers-or-viruses-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor (Cancers OR Viruses) - many studies">Vitamin D Receptor (Cancers OR Viruses) - many studies</a> 87+ studies</h4>
+<p><strong>Note: Many Cancers have learned how to protect themselves by de-activating the VDR</strong></p>
+<hr>
+<h4 id="vitamindwiki---vitamin-d-receptorcategoriesvitamin-d-receptor-activation-can-be-increased-in-14-ways">VitaminDWiki - <a href="/categories/vitamin-d-receptor">Vitamin D Receptor</a> activation can be increased in 14 ways</h4>
+<p><strong><a href="/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>,  <a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,  <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>,   <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>,   <a href="/categories/better-than-daily">non-daily Vit D</a>,  <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>, intense exercise, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)"><del>#F06:Butyrate</del></a>   Ginger,   Essential oils, etc  Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators</strong></p>
+<p>Note: Butyrate has helped my wife&rsquo;s collitis, another gut problem</p>
+<hr>
+<h4 id="search-for-butyrate-which-activates-the-vdr-and-colorectal-cancer-52000-items">Search for Butyrate (which activates the VDR) and Colorectal Cancer: 52,000 items</h4>
+<p><strong><a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C48&amp;q=butyrate+colorectal+cancer&amp;oq=Butyrate++%22co">Google Scholar</a></strong>   checked Sept 2023</p>
+<ul>
+<li>
+<p>Does butyrate protect from colorectal cancer? Feb 2006 <a href="https://doi.org/10.1111/j.1440-1746.2006.04213.x">https://doi.org/10.1111/j.1440-1746.2006.04213.x</a> FREE PDF</p>
+</li>
+<li>
+<p>The role of butyrate in surgical and oncological outcomes in colorectal cancer  APR 2021 <a href="https://doi.org/10.1152/ajpgi.00316.2020">https://doi.org/10.1152/ajpgi.00316.2020</a> FREE PDF</p>
+</li>
+<li>
+<p>Sodium Butyrate Selectively Kills Cancer Cells and Inhibits Migration in Colorectal Cancer by Targeting Thioredoxin-1 Apr 2023  <a href="https://www.tandfonline.com/doi/full/10.2147/OTT.S235575">FREE PDF</a></p>
+</li>
+</ul>
+<hr>
+<p>######## VitaminDWiki –  <a href="/posts/viamin-d-timeline-1900-to-2022">Viamin D timeline - 1900 to 2022</a></p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240246"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240246',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240246'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

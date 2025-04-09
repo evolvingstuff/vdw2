@@ -57,7 +57,7 @@ categories:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2410s)) Magnesium's potential for managing migraines 
 
-  * See also <a href="/posts/cluster-and-migraine-headache-treatment-protocol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cluster and Migraine headache treatment protocol - Sept 2023">Magnesium and headaches</a>
+  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2599s)) The role of magnesium in aging 
 

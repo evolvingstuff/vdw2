@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>NAFLD and Vitamin D - many studies</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240254">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240254">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240254"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>NAFLD and Vitamin D - many studies</h1>
+        <time>March 31, 2023</time>
+        <h4 id="nafld--decreased-semi-activation-of-vitamin-d-should-use-a-form-that-does-not-need-the-liver">NAFLD ==&gt; decreased semi-activation of vitamin D: should use a form that does not need the liver</h4>
+<p><strong><a href="/posts/topical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D">Topical Vitamin D</a></strong></p>
+<p><strong>Alternately: use larger doses of Vitamin D</strong></p>
+<hr>
+<h4 id="nafld-increased-17x-to-12x-in-recent-years-in-those-under-20---oct-2023">NAFLD increased 1.7X to 12X in recent years in those under 20 - Oct 2023</h4>
+<p><strong>NAFLD Has Become a Health Emergency Among Children - Mercola</strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p><strong><a href="https://www.youtube.com/watch?v=vLzPDfT2RIQ&amp;t=3s&amp;ab_channel=JayFeldmanWellness">1 hour YouTube video</a></strong></p>
+<ul>
+<li>
+<p>NAFLD also affects up to 9.6% of American children aged 2 to 19, making it as common as asthma. In 15- to 19-year-olds, prevalence is as high as 17.3%. Prevalence among children 0 to 17 has risen 168.3% since 2017, with a particularly precipitous rise starting in 2020&quot;</p>
+</li>
+<li>
+<p>&ldquo;The dramatic rise in NAFLD in early 2020 may in part be due to the COVID lockdowns, which had the effect of raising childhood obesity rates by 8.3% to 13.4%, depending on the age group&rdquo;</p>
+</li>
+</ul>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the Mercola PDF from VitaminDWiki </a></strong></p>
+<hr>
+<p><strong><a href="https://www.usmedicine.com/uncategorized/incidence-of-nonalcoholic-fatty-liver-disease-rises-quickly-in-u-s-military/">Incidence of Nonalcoholic Fatty Liver Disease Rises Quickly in U.S. Military - 2019</a></strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+<hr>
+<h4 id="nafld-is-treated-by-vitamin-d-omega-3-etc-aug-2023">NAFLD is treated by Vitamin D, Omega-3, etc. Aug 2023</h4>
+<p><strong>NAFLD and nutraceuticals: a review of completed phase III and IV clinical trials</strong></p>
+<p>Front Med (Lausanne) . 2023 Aug 1;10:1227046. <a href="https://doi.org/10.3389/fmed.2023.1227046">doi: 10.3389/fmed.2023.1227046</a></p>
+<p>Omar E Hegazi 1 2, Samer O Alalalmeh 1 2, Ghala Rashid Humaid Alnuaimi 1 2, Moyad Shahwan 1 2, Ammar Abdulrahman Jairoun 3 4, Nasser M Alorfi 5, Shaker A Majrashi 6, Mustfa Faisal Alkhanani 7, Abdullah Alkhattabi 8, Mansour M Alourfi 8 9, Faris A Alsolami 10, Saeed Alsharif 11, Hatim Alshahrani 12</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="300">
+<p>Background: Nonalcoholic Fatty Liver Disease (NAFLD) has become a significant public health concern, affecting approximately one-fourth of the population. Despite its prevalence, no FDA-approved drug treatments specifically target NAFLD.</p>
+<p>Aim: To provide a review of clinical trials investigating the use of herbal remedies and dietary supplements in NAFLD management, utilizing the ClinicalTrials.gov database.</p>
+<p>Methods: This review evaluates the current evidence by examining completed phase III and IV clinical trials registered on ClinicalTrials.gov. An exhaustive search was performed on April 17, 2023, using the terms &ldquo;Nonalcoholic Fatty Liver Disease&rdquo; and &ldquo;NAFLD.&rdquo; Two independent reviewers appraised eligible trials based on pre-defined inclusion and exclusion criteria.</p>
+<p>Results: An initial search yielded 1,226 clinical trials, with 12 meeting the inclusion criteria after filtration.</p>
+<p>The majority of trials focused on</p>
+<ul>
+<li>
+<p>Omega-3 fatty acids (20.0%) and</p>
+</li>
+<li>
+<p>vitamin D (26.7%),</p>
+</li>
+</ul>
+<p>followed by caffeine, chlorogenic acid, ginger, phosphatidylcholine, Trigonella Foenum-graecum seed extract, vitamin C, and vitamin E (each 6.7%). Most studies were Phase 3 (75.0%) and used a parallel assignment model (91.7%). Quadruple masking was the most prevalent technique (58.3%), and Iran was the leading country in terms of trial locations (25.0%). These interventions constitute two herbal interventions and nine supplement interventions.</p>
+<p>Conclusion: This reveals a diverse range of nutraceuticals, with Omega-3 fatty acids and vitamin D being predominant in the management of NAFLD. The global distribution of trials highlights the widespread interest in these therapeutics. However, more rigorous, large-scale trials are needed to establish safety, efficacy, and optimal dosages.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h4 id="nafld-helped-a-bit-by-a-single-300000-iu-vitamin-d-dose-needed-larger-maintenance-doses--rct-march-2023">NAFLD helped a bit by a single 300,000 IU Vitamin D dose (needed larger maintenance doses) – RCT March 2023</h4>
+<p><strong>The effect of high oral loading dose of cholecalciferol in non-alcoholic fatty liver disease patients. A randomized placebo controlled trial</strong></p>
+<p>Front Pharmacol . 2023 Mar 14;14:1149967. <a href="https://doi.org/10.3389/fphar.2023.1149967.">doi: 10.3389/fphar.2023.1149967.</a> eCollection 2023.</p>
+<p>Amal Ahmed Mohamed 1, Ahmed Abdel Halim 2, Sahar Mohamed 2, Seham Mohamed Mahmoud 3, Eman Mohamed Bahgat Eldemiry 4, Rasha Sobh Mohamed 5, Mahmoud Maamoun Shaheen 5, Gina G Naguib 6, Nashwa M Muharram 7, Mona G Khalil 8, Salma Saed 9, Randa Ibrahim 10, Ahmed Salah Seif 11, Noha Kamal 12, Karima Nasraldin 13, Ali Elsaid Abdelrahman 14, Radwa El Borolossy 15</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+<p>Background and Aim: Non-alcoholic fatty liver (NAFLD) is one of the most common progressive metabolic disorders worldwide. There are increasing scientific interests nowadays for the association between vitamin D status and Non-alcoholic fatty liver. Earlier studies have revealed that vitamin D deficiency is highly prevalent in Non-alcoholic fatty liver patients that contributes to poor outcomes. Hence, the present study aimed to assess the efficacy and safety of oral cholecalciferol on Non-alcoholic fatty liver patients.</p>
+<p>Subjects and Methods: This study was conducted on 140 patients that were randomized either to group 1 that received the standard conventional therapy in addition to placebo or group 2 that received the standard conventional therapy in addition to cholecalciferol during the 4 months study period.</p>
+<p>Results: At the end of the study group 2 revealed significant decrease (p &lt; 0.05) in the mean serum level of TG, LDL-C, TC, hsCRP as compared to their baseline results and group 1 results. Additionally, a significant improvement in the serum levels of ALT (p = 0.001) was seen in group 2 at the end of the study when compared to group 1. Whereas group 1 did not show any change in these parameters when compared to group 2 and their baseline results.</p>
+<p>Conclusion: Cholecalciferol was shown to have beneficial effects on serum ALT levels, hsCRP levels and lipid profile of NAFLD patients. Clinical Trial Registration: <a href="https://prsinfo.clinicaltrials.gov/prs-users-guide.html">https://prsinfo.clinicaltrials.gov/prs-users-guide.html</a>, identifier NCT05613192.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<hr>
+<h5 id="this-rct-used-300000-then-800-iu-daily-for-3-months">This RCT used 300,000 then 800 IU daily for 3 months</h5>
+<p>Actual total = 300,000 + 90 X 800 =  <strong><span style="color:orange;">372,000 IU</span></strong></p>
+<hr>
+<h5 id="only-raised-d-level-by-6-ng-should-have-used-a-much-larger-maintenance-dose-perhaps-50k-weekly">Only raised D level by 6 ng: should have used a much larger maintenance dose, perhaps 50K weekly</h5>
+<p><strong>Wide range of response to Vitamin D: 50K Vitamin D weekly: rough chart</strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+<p><img src="/attachments/d3.mock.jpg" alt="image" width="200">   <strong>Translates to Before,  <span style="color:orange;">After, Weekly</span></strong></p>
+<p>Proposed total: 300,000 + 12 X 50,000 =  <strong><span style="color:orange;">900,000 IU</span></strong></p>
+<hr>
+<h4 id="nafld-might-be-fought-by-d-if-the-vitamin-d-receptor-is-activated---sept-2023">NAFLD might be fought by D if the Vitamin D receptor is activated - Sept 2023</h4>
+<p><strong>Insights into the role of vitamin D in targeting the culprits of non-alcoholic fatty liver disease</strong></p>
+<p>Life Sci. 2023 Sep 22;122124. <a href="https://doi.org/10.1016/j.lfs.2023.122124">doi: 10.1016/j.lfs.2023.122124</a> PDF is behind a paywall</p>
+<p>Basma A Abdelrahman 1, Aiman S El-Khatib 2, Yasmeen M Attia 1</p>
+<p>Vitamin D (VD) is a secosteroid hormone that is renowned for its crucial role in phospho-calcium homeostasis upon binding to the nuclear vitamin D receptor (VDR). Over and above, the pleiotropic immunomodulatory, anti-inflammatory, and metabolic roles VD plays in different disease settings started to surface in the past few decades. On the other hand, a growing body of evidence suggests a correlation between non-alcoholic fatty liver disease (NAFLD) and its progressive inflammatory form non-alcoholic steatohepatitis (NASH) with vitamin D deficiency (VDD) owing to the former&rsquo;s ingrained link with obesity and metabolic syndrome. Accordingly, a better understanding of the contribution of VDR signalling to NAFLD incidence and progression would provide further insights into its diagnosis, treatment modalities, and prognosis, especially since hitherto, no drug for NAFLD has been approved. This review, therefore, sought to set forth the likely contribution of VDR signalling in NAFLD and how it might influence its multiple drivers.</p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240255"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240255',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240255'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

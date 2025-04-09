@@ -13,8 +13,6 @@ categories:
 
 Note: Horizontal axis IS NOT linear
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### A comparative absorption study of sucrosomial® orodispersible vitamin D3 supplementation vs. a reference chewable tablet and soft gel capsule vitamin D3 in improving circulatory 25(OH)D levels in healthy adults with vitamin D deficiency—Results from a prospective randomized clinical trial
@@ -153,7 +151,7 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 * <a href="/posts/bioavailability-of-nanoemulsion-formulations-of-vitamin-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bioavailability of nanoemulsion formulations of Vitamin D3 – Nov 2019">Bioavailability of nanoemulsion formulations of Vitamin D3 – Nov 2019</a>
 
-* <a href="/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023">Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023</a>
+* [Vitamin D: liposomal and nanoemulsion forms - Chat-GPT Dec 2023](/posts/vitamin-d-liposomal-and-nanoemulsion-forms-chat-gpt)
 
 * <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">Nanoemulsion Vitamin D may be a substantially better form</a>  has the following comparison
 

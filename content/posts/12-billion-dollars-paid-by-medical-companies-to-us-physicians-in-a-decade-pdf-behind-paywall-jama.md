@@ -64,7 +64,7 @@ Study limitations included not recording payments made to other health care prof
 
 #### Note: Does not include payments such as $1 Billion to non-physcians in NIH for development of vaccines
 
- **<a href="/posts/nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023">NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023</a>** 
+ **[NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023](/posts/nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years)** 
 
 ---
 

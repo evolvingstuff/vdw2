@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>People with Cancer having more than 30 ng of Vitamin D are 40% less likely to die (of any cause)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240256">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240256">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240256"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>People with Cancer having more than 30 ng of Vitamin D are 40% less likely to die (of any cause)</h1>
+        <time>November 23, 2023</time>
+        <h4 id="association-between-the-serum-vitamin-d-concentration-and-all-cause-and-cancer-specific-mortality-in-individuals-with-cancer">Association between the Serum Vitamin D Concentration and All-Cause and Cancer-Specific Mortality in Individuals with Cancer</h4>
+<p>Nutrition and Cancer  Nov 2023 <a href="https://doi.org/10.1080/01635581.2023.2279233">https://doi.org/10.1080/01635581.2023.2279233</a></p>
+<p>PDF is behind a paywall, but it does look good</p>
+<p>Yu Bai,Yong-qing Wen &amp;Xu Ma</p>
+<p>We aimed to explore the association between the serum 25-hydroxyvitamin D concentration and all-cause and cancer-specific mortality in 2,463 adult patients with cancer from the National Health and Nutrition Examination Survey 2007–2018. We linked mortality data from the survey to the National Death Index records up to December 31, 2019. During a median follow-up period of 70 months, 567 patients died, of whom 194 died due to cancer. Multivariate adjustment was performed for demographic characteristics, lifestyle, dietary factors, 25-hydroxyvitamin D testing period, and cancer site. Higher serum 25-hydroxyvitamin D concentrations up to 75 nmol/L significantly reduced the risk of all-cause and cancer-specific mortality. When 25-hydroxyvitamin D quartiles were compared, the multivariable-adjusted hazard ratios were 0.59 (95% confidence interval: 0.42, 0.84) for all-cause mortality (P for trend &lt;0.001) and 0.48 (95% confidence interval: 0.29, 0.79) for cancer-specific mortality (P for trend = 0.037) in quartile 3 (79.3–99.2 nmol/L). A threshold of 75 nmol/L for serum 25-hydroxyvitamin D may represent an intervention target to reduce mortalities in patients with cancer, and maintaining 25(OH)D concentrations within range (79.3–99.2 nmol/L) is beneficial for reducing all-cause and cancer-specific mortality.</p>
+<hr>
+<h5 id="24-references">24 References</h5>
+<ol>
+<li>
+<p>Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global  <strong>cancer</strong>  Statistics 2020: GLOBOCAN estimates of incidence and  <strong>mortality</strong>  worldwide for 36  <strong>cancer</strong> s in 185 countries. CA  <strong>cancer</strong>  J Clin. 2021;71(3):209–49. <a href="https://doi.org/10.3322/caac.21660.">doi: 10.3322/caac.21660.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Siegel RL, Miller KD, Wagle NS, Jemal A.  <strong>cancer</strong>  statistics, 2023. CA  <strong>cancer</strong>  J Clin. 2023;73(1):17–48. <a href="https://doi.org/10.3322/caac.21763.">doi: 10.3322/caac.21763.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Lucock M, Jones P, Martin C, Yates Z, Veysey M, Furst J, Beckett E. Photobiology of vitamins. Nutr Rev. 2018;76(7):512–25. <a href="https://doi.org/10.1093/nutrit/nuy013.">doi: 10.1093/nutrit/nuy013.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Delrue C, Speeckaert MM. Vitamin D and vitamin D-binding protein in health and disease. Int J Mol Sci. 2023;24(5):4642. <a href="https://doi.org/10.3390/ijms24054642.">doi: 10.3390/ijms24054642.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Jeon SM, Shin EA. Exploring vitamin D metabolism and function in  <strong>cancer</strong> . Exp Mol Med. 2018;50(4):1–14. <a href="https://doi.org/10.1038/s12276-018-0038-9.">doi: 10.1038/s12276-018-0038-9.</a>  <span>[Crossref]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Carlberg C, Velleuer E. Vitamin D and the risk for  <strong>cancer</strong> : a molecular analysis. Biochem Pharmacol. 2022;196:114735. <a href="https://doi.org/10.1016/j.bcp.2021.114735.">doi: 10.1016/j.bcp.2021.114735.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Kantor ED, Rehm CD, Du M, White E, Giovannucci EL. Trends in dietary supplement use among US adults from 1999-2012. JAMA. 2016;316(14):1464–74. <a href="https://doi.org/10.1001/jama.2016.14403.">doi: 10.1001/jama.2016.14403.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, Gibson H, Gordon D, Copeland T, D’Agostino D, et al. Vitamin D supplements and prevention of  <strong>cancer</strong>  and cardiovascular disease. N Engl J Med. 2019;380(1):33–44. <a href="https://doi.org/10.1056/NEJMoa1809944.">doi: 10.1056/NEJMoa1809944.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Kwak JH, Paik JK. Vitamin D status and gastric  <strong>cancer</strong> : a cross-sectional study in Koreans. Nutrients. 2020;12(7):2004. <a href="https://doi.org/10.3390/nu12072004.">doi: 10.3390/nu12072004.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Zhang Y, Fang F, Tang J, Jia L, Feng Y, Xu P, Faramand A. Association between vitamin D supplementation and  <strong>mortality</strong> : systematic review and meta-analysis. BMJ. 2019;366:l4673. <a href="https://doi.org/10.1136/bmj.l4673.">doi: 10.1136/bmj.l4673.</a>  <span>[Crossref]</span> <span>[PubMed]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Arayici ME, Basbinar Y, Ellidokuz H. Vitamin D intake, serum 25-hydroxyvitamin-D (25(OH)D) levels, and  <strong>cancer</strong>  risk: a comprehensive meta-meta-analysis including meta-analyses of randomized controlled trials and observational epidemiological studies. Nutrients. 2023;15(12):2722. doi:10.3390/nu15122722.  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Centers for Disease Control and Prevention. National Health and Nutritional Examination Survey: methods and analytic guidelines. Washington(DC): Office of the Associate Director for Communication, Digital Media Branch, Division of Public Affairs; 2022. <span>[accessed 2023 Mar 20]</span>. <a href="https://wwwn.cdc.gov/nchs/nhanes/AnalyticGuidelines.aspx">https://wwwn.cdc.gov/nchs/nhanes/AnalyticGuidelines.aspx</a>.  <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, Murad MH, Weaver CM, Endocrine Society. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2011;96(7):1911–30. <a href="https://doi.org/10.1210/jc.2011-0385.">doi: 10.1210/jc.2011-0385.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>de la Puente Yagüe M, Collado Yurrita L, Ciudad Cabañas MJ, Cuadrado Cenzual MA. Role of vitamin D in athletes and their performance: current concepts and new trends. Nutrients. 2020;12(2):579. <a href="https://doi.org/10.3390/nu12020579.">doi: 10.3390/nu12020579.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Prietl B, Treiber G, Pieber TR, Amrein K. Vitamin D and immune function. Nutrients. 2013;5(7):2502–21. <a href="https://doi.org/10.3390/nu5072502.">doi: 10.3390/nu5072502.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Casseb GAS, Kaster MP, Rodrigues ALS. Potential role of vitamin D for the management of depression and anxiety. CNS Drugs. 2019;33(7):619–37. <a href="https://doi.org/10.1007/s40263-019-00640-4.">doi: 10.1007/s40263-019-00640-4.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Pilz S, Verheyen N, Grübler MR, Tomaschitz A, März W. Vitamin D and cardiovascular disease prevention. Nat Rev Cardiol. 2016;13(7):404–17. <a href="https://doi.org/10.1038/nrcardio.2016.73.">doi: 10.1038/nrcardio.2016.73.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Chen QY, Kim S, Lee B, Jeong G, Lee DH, Keum N, Manson JE, Giovannucci EL. Post-diagnosis vitamin D supplement use and survival among  <strong>cancer</strong>  patients: a meta-analysis. Nutrients. 2022;14(16):3418. doi:10.3390/nu14163418.  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Fan X, Wang J, Song M, Giovannucci EL, Ma H, Jin G, Hu Z, Shen H, Hang D. Vitamin D status and risk of all-cause and cause-specific  <strong>mortality</strong>  in a large cohort: results from the UK Biobank. J Clin Endocrinol Metab. 2020;105(10):e3606–e3619. <a href="https://doi.org/10.1210/clinem/dgaa432.">doi: 10.1210/clinem/dgaa432.</a>  <span>[Crossref]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Sutherland JP, Zhou A, Hyppönen E. Vitamin D deficiency increases  <strong>mortality</strong>  risk in the UK Biobank: a nonlinear Mendelian randomization study. Ann Intern Med. 2022;175(11):1552–9. <a href="https://doi.org/10.7326/M21-3324.">doi: 10.7326/M21-3324.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Wang J, Fan J, Yang Y, Moazzen S, Chen D, Sun L, He F, Li Y. Vitamin D status and risk of all-cause and cause-specific  <strong>mortality</strong>  in osteoarthritis patients: results from NHANES III and NHANES 2001-2018. Nutrients. 2022;14(21):4629. <a href="https://doi.org/10.3390/nu14214629.">doi: 10.3390/nu14214629.</a>  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Maalmi H, Ordóñez-Mena JM, Schöttker B, Brenner H. Serum 25-hydroxyvitamin D levels and survival in colorectal and breast  <strong>cancer</strong>  patients: systematic review and meta-analysis of prospective cohort studies. Eur J Cancer. 2014;50(8):1510–21. doi:10.1016/j.ejca.2014.02.006.  <span>[Crossref]</span> <span>[PubMed]</span> <span>[Web of Science ®]</span>, <span>[Google Scholar]</span></p>
+</li>
+<li>
+<p>Wu G, Xue M, Zhao Y, Han Y, Zhang S, Zhang J, Li C, Xu J. Low circulating 25-hydroxyvitamin D level is associated with increased colorectal  <strong>cancer</strong>   <strong>mortality</strong> : a systematic review and dose-response meta-analysis. Biosci Rep. 2020;40(7):BSR20201008. doi:10.1042/BSR20201008.  <span>[Crossref]</span> <span>[PubMed]</span>, <span>[Google Scholar]</span></p>
+</li>
+</ol>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240256"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240256',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240256'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

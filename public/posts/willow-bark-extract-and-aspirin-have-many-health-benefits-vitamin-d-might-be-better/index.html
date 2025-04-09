@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Willow Bark Extract and Aspirin have many health benefits (Vitamin D might be better)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240263">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240263">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240263"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>Willow Bark Extract and Aspirin have many health benefits (Vitamin D might be better)</h1>
+        <time>December 27, 2023</time>
+        <h4 id="the-broad-spectrum-antiviral-effects-of-willow-bark-extract---mercolahttpsarticlesmercolacomsitesarticlesarchive20231226willow-barkaspxuid738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29dsd20121119cid_sourcednlcid_mediumemailcid_contentart2hlcid20231226fodatefalsemiddm1508229rid2002031810">The Broad-Spectrum Antiviral Effects of Willow Bark Extract - <a href="https://articles.mercola.com/sites/articles/archive/2023/12/26/willow-bark.aspx?ui=d738e3df52a8a14aea9298fe6ec5bc113ed0d6d7922f31861727d54a43cbe29d&amp;sd=20121119&amp;cid_source=dnl&amp;cid_medium=email&amp;cid_content=art2HL&amp;cid=20231226&amp;foDate=false&amp;mid=DM1508229&amp;rid=2002031810">Mercola</a></h4>
+<ul>
+<li>
+<p>Willow bark is perhaps most widely known as aspirin’s forerunner, but it appears to have powerful  <strong>antiviral effects</strong>  as well</p>
+</li>
+<li>
+<p>Willow bark extract has broad-spectrum, antiviral effects against coronaviruses and enteroviruses</p>
+</li>
+<li>
+<p>Willow bark is effective against both enveloped and nonenveloped viruses, causing the viruses to cluster together rather than spread apart</p>
+</li>
+<li>
+<p>In a study, willow bark broke down the  <strong>enveloped coronaviruses</strong> , while the nonenveloped enteroviruses were “locked down,” meaning their genome wasn’t released and they couldn’t reproduce</p>
+</li>
+<li>
+<p>Willow bark extract is often used as a remedy for pain and inflammation, including that related to</p>
+<ul>
+<li>low back pain, osteoarthritis, tendinitis, bursitis and headaches</li>
+</ul>
+</li>
+</ul>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+<ul>
+<li>
+<p>&ldquo;While I cannot prove it, I suspect aspirin has been (and still is) the target of a discrediting campaign because it competes with newer, far more expensive blood thinners and pain relievers.&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;I’m convinced of the prophylactic value of aspirin, and I take 325 mg per day. I find its prometabolic, antilipolytic, anti-inflammatory, anticortisol and anti-estrogen effects very appealing, and its safety is well-established.&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;Aspirin also plays a role in mitochondria function25 and also has other health benefits. Importantly, it helps increase the oxidation of glucose as fuel for your body while inhibiting the oxidation of fatty acids, specifically linoleic acid.&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;The variety I use is not a tablet but, rather, is 99% pure USP aspirin. if you do decide to use aspirin, be sure to avoid coated extended-release varieties due to the additives they contain. Immediate-release aspirin is the preferred version.&rdquo;</p>
+</li>
+</ul>
+<h5 id="references">References</h5>
+<ul>
+<li>
+<p><sup>1,</sup> <sup>5</sup> <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2023.1249794/full">Front. Microbiol., 08 November 2023, Sec. Virology</a></p>
+</li>
+<li>
+<p><sup>2,</sup> <sup>6</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607963/">Life (Basel). 2023 Oct; 13(10): 2058</a></p>
+</li>
+<li>
+<p><sup>3,</sup> <sup>4</sup> <a href="https://phys.org/news/2023-11-willow-bark-broad-spectrum-antiviral-effect.html">Phys.org November 8, 2023</a></p>
+</li>
+<li>
+<p><sup>7,</sup> <sup>8</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197042/">Cochrane Database Syst Rev. 2014 Dec; 2014(12): CD004504</a></p>
+</li>
+<li>
+<p><sup>9,</sup> <sup>12</sup> [Phytother Res. 2015 Aug;29(8):1112-6. <a href="https://doi.org/10.1002/ptr.5377.">doi: 10.1002/ptr.5377.</a> Epub 2015 May 22](<a href="https://pubmed.ncbi.nlm.nih.gov/25997859/">https://pubmed.ncbi.nlm.nih.gov/25997859/</a>)</p>
+</li>
+<li>
+<p><sup>10,</sup> <sup>11</sup> <a href="https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849">J. Agric. Food Chem. 2023, 71, 44, 16554–16567</a></p>
+</li>
+<li>
+<p><sup>13</sup> [Thromb Res. 2003 Jun 15;110(5-6):255-8. <a href="https://doi.org/10.1016/s0049-3848">doi: 10.1016/s0049-3848</a>(03)00379-7](<a href="https://pubmed.ncbi.nlm.nih.gov/14592543/">https://pubmed.ncbi.nlm.nih.gov/14592543/</a>)</p>
+</li>
+<li>
+<p><sup>14</sup> <a href="https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx">Anesthesia &amp; Analgesia April 2021; 132(4): 930-941</a></p>
+</li>
+<li>
+<p><sup>15</sup> <a href="https://www.generalsurgerynews.com/In-the-News/Article/07-21/Aspirin-Reduces-the-Need-for-Mechanical-Ventilation-by-Nearly-Half-For-COVID-19-Patients/64048">General Surgery News August 4, 2021</a></p>
+</li>
+<li>
+<p><sup>16,</sup> <sup>17</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/">Biomedicines. 2022 Feb; 10(2): 263</a></p>
+</li>
+<li>
+<p><sup>18</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868581/">Biomedicines. 2022 Feb; 10(2): 263., Figure 1</a></p>
+</li>
+<li>
+<p><sup>19</sup> [Nat Rev Clin Oncol. 2012 Apr 3;9(5):259-67. <a href="https://doi.org/10.1038/nrclinonc.2011.199">doi: 10.1038/nrclinonc.2011.199</a>](<a href="https://pubmed.ncbi.nlm.nih.gov/22473097/">https://pubmed.ncbi.nlm.nih.gov/22473097/</a>)</p>
+</li>
+<li>
+<p><sup>20</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5848858/">Cell Rep. 2018 Feb 27; 22(9): 2395-240</a></p>
+</li>
+<li>
+<p><sup>21</sup> <a href="https://www.acc.org/latest-in-cardiology/articles/2014/12/11/21/25/fda-recommends-against-using-aspirin-for-primary-prevention-of-heart-attack-or-stroke">American College of Cardiology May 5, 2014</a></p>
+</li>
+<li>
+<p><sup>22</sup> <a href="https://www.aafp.org/news/health-of-the-public/20211021aspirincvd.html">AAFP October 21, 2021</a></p>
+</li>
+<li>
+<p><sup>23</sup> <a href="https://www.talktomira.com/post/average-costs-of-blood-thinners-and-most-popular-prescriptions">Talk to Mira, Cost of Blood Thinners in 2021</a></p>
+</li>
+<li>
+<p><sup>24</sup> <a href="https://www.walmart.com/browse/health/baby-aspirin/976760_6972993_7772935">Walmart Aspirin Prices</a></p>
+</li>
+<li>
+<p><sup>25</sup> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195905/">Biochem Biophys Res Commun. 2017 Jan 8; 482(2): 346–351</a></p>
+</li>
+</ul>
+<hr>
+<h4 id="which-health-problems-does-willowbark-or-aspirin-help-with-asked-chat-gpt-dec-2023">Which health problems does willowbark or aspirin help with (Asked Chat-GPT Dec 2023)</h4>
+<p>Willow bark and aspirin are known for their pain-relieving and anti-inflammatory properties. Here are some health problems they are commonly used for:</p>
+<ol>
+<li>
+<p><strong>Pain Relief</strong> : Both willow bark and aspirin are effective in alleviating various forms of pain, including headaches, back pain, and other forms of muscle or joint pain.</p>
+</li>
+<li>
+<p><strong>Inflammation Reduction</strong> : They are used to reduce inflammation associated with conditions such as osteoarthritis and rheumatoid arthritis.</p>
+</li>
+<li>
+<p><strong>Fever Reduction</strong> : Aspirin is often used to reduce fever, a common symptom in various illnesses.</p>
+</li>
+<li>
+<p><strong>Heart Health</strong> : Low doses of aspirin are sometimes recommended for certain individuals to reduce the risk of heart attacks and strokes, due to its blood-thinning properties.</p>
+</li>
+<li>
+<p><strong>Menstrual Cramps</strong> : They can help alleviate menstrual cramps and discomfort.</p>
+</li>
+</ol>
+<p>It&rsquo;s important to note that while willow bark contains salicin, which is similar to the active ingredient in aspirin (acetylsalicylic acid), they are not identical and can have different effects and side effects. Aspirin is a synthetic derivative with more standardized dosing and effects. People with allergies to aspirin should avoid willow bark. Also, both substances can interact with other medications and are not suitable for everyone, including children and individuals with certain medical conditions. Consulting with a healthcare provider before using them for medicinal purposes is advisable.</p>
+<hr>
+<h4 id="willowbark-forms-liquid-pills-tea-cream-etc">Willowbark forms: liquid, pills, tea, cream, etc</h4>
+<p><strong><a href="https://www.amazon.com/s?k=willow+bark&amp;crid=JKHS6DW947IN&amp;sprefix=willow+bark%2Caps%2C198&amp;ref=nb_sb_ss_ts-doa-p_1_11">Amazon - &gt;3X the cost of aspirin</a></strong></p>
+<!-- ~tc~ (alias(junk)) ~/tc~ -->
+<!-- ~tc~ (alias(Willow Bark Extract and apiring have many health benefits (vitamin D might be better) - Dec 2023)) ~/tc~ -->
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240263"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240263',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240263'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

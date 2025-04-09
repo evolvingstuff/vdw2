@@ -11,8 +11,6 @@ categories:
 
  **Celiac disease is reduced by Vitamin D (esp. gut-friendly), Prebioitics, Zinc, Gluten Free Diet, etc.** 
 
-<!-- {maketoc Title=""} -->
-
 ---
 
 #### Relationship between vitamin D levels and pediatric celiac disease: a systematic review and meta-analysis

@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>People with new fecal incontinence are 1.9 X more likely to have low Vitamin D</title>
+    <link rel="stylesheet" href="/css/main.css?v=1744240256">
+    <link rel="stylesheet" href="/css/pagination.css?v=1744240256">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1744240256"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Search</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Loading search index..." disabled>
+                <div id="search-status" class="search-status">Loading search index...</div>
+                <div id="suggestions" class="search-suggestions"></div>
+            </div>
+            <ul id="search-results"></ul>
+            
+            <h2>Categories</h2>
+            <ul class="hierarchical-categories" data-spa-nav><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Autoimmune
+                            (24)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/lupus/">Lupus (3)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bacteria
+                            (3)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/tuberculosis/">Tuberculosis (3)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Breathing
+                            (2)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cystic-fibrosis/">Cystic Fibrosis (2)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Bone
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/osteoporosis/">Osteoporosis (13)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cancer
+                            (46)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cancer---bladder/">Cancer - Bladder (2)</a></li><li><a href="/categories/cancer---breast/">Cancer - Breast (13)</a></li><li><a href="/categories/cancer---colon/">Cancer - Colon (8)</a></li><li><a href="/categories/cancer---leukemia/">Cancer - Leukemia (1)</a></li><li><a href="/categories/cancer---liver/">Cancer - Liver (1)</a></li><li><a href="/categories/cancer---lung/">Cancer - Lung (1)</a></li><li><a href="/categories/cancer---lymphoma/">Cancer - Lymphoma (1)</a></li><li><a href="/categories/cancer---other/">Cancer - Other (7)</a></li><li><a href="/categories/cancer---ovarian/">Cancer - Ovarian (2)</a></li><li><a href="/categories/cancer---pancreatic/">Cancer - Pancreatic (1)</a></li><li><a href="/categories/cancer---prostate/">Cancer - Prostate (4)</a></li><li><a href="/categories/cancer---skin/">Cancer - Skin (5)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cardiovascular
+                            (12)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/stroke/">Stroke (12)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Cognitive
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dental
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Depression
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Diabetes
+                            (45)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/vitamin-d-receptor/">Vitamin D Receptor (39)</a></li><li><a href="/categories/zinc/">Zinc (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Ear
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Genetics
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Gut
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Health Risk
+                            (30)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/cholesterol/">Cholesterol (1)</a></li><li><a href="/categories/obesity/">Obesity (29)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Hypertension
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Infection
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Immunity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Kidney
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Life Span
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Liver
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Metabolic
+                            (10)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/metabolic-syndrome/">Metabolic Syndrome (10)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Muscle
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Neurological
+                            (8)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/epilepsy/">Epilepsy (1)</a></li><li><a href="/categories/sleep/">Sleep (7)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Obesity
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pain
+                            (13)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/back-pain/">Back Pain (3)</a></li><li><a href="/categories/headache/">Headache (4)</a></li><li><a href="/categories/rheumatoid-arthritis/">Rheumatoid Arthritis (6)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Pregnancy
+                            (39)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/depression/">Depression (17)</a></li><li><a href="/categories/iodine/">Iodine (1)</a></li><li><a href="/categories/multiple-sclerosis/">Multiple Sclerosis (21)</a></li></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Dermatology
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Trauma/Surgery
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Virus
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header category-empty">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Vision
+                            </span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"></ul>
+                </li><li class="top-level-category collapsed">
+                    <div class="category-header">
+                        <span class="category-expander">+</span>
+                        <span class="category-name">
+                            Other
+                            (1240)</span>
+                    </div>
+                    <ul class="subcategory-list" style="display: none;"><li><a href="/categories/about-d---introduction/">About D - Introduction (3)</a></li><li><a href="/categories/about-d---more-info./">About D - More Info. (3)</a></li><li><a href="/categories/adhd/">ADHD (5)</a></li><li><a href="/categories/admin-only/">Admin Only (4)</a></li><li><a href="/categories/ai/">AI (31)</a></li><li><a href="/categories/antibiotics-probiotics/">Antibiotics, Probiotics (4)</a></li><li><a href="/categories/associations/">Associations (1)</a></li><li><a href="/categories/autism/">Autism (10)</a></li><li><a href="/categories/autoimmune/">Autoimmune (9)</a></li><li><a href="/categories/better-than-daily/">Better Than Daily (6)</a></li><li><a href="/categories/bipolar/">Bipolar (1)</a></li><li><a href="/categories/bone---health/">Bone - Health (12)</a></li><li><a href="/categories/books-videos-on-vitamin-d/">Books, Videos on Vitamin D (28)</a></li><li><a href="/categories/breathing/">Breathing (16)</a></li><li><a href="/categories/calcidiol/">Calcidiol (2)</a></li><li><a href="/categories/cancer/">Cancer (30)</a></li><li><a href="/categories/cancer---after-diagnosis/">Cancer - After Diagnosis (12)</a></li><li><a href="/categories/cardiovascular/">Cardiovascular (35)</a></li><li><a href="/categories/category/">Category (1)</a></li><li><a href="/categories/cognitive/">Cognitive (34)</a></li><li><a href="/categories/conference/">Conference (1)</a></li><li><a href="/categories/consensus/">Consensus (3)</a></li><li><a href="/categories/cost-savings-with-vitamin-d/">Cost Savings With Vitamin D (10)</a></li><li><a href="/categories/curcumin/">Curcumin (1)</a></li><li><a href="/categories/cyp27b1/">CYP27B1 (6)</a></li><li><a href="/categories/deficiency-of-vitamin-d/">Deficiency of Vitamin D (28)</a></li><li><a href="/categories/dental/">Dental (18)</a></li><li><a href="/categories/diabetes/">Diabetes (23)</a></li><li><a href="/categories/evidence-for-d/">Evidence for D (7)</a></li><li><a href="/categories/falls-and-fractures/">Falls and Fractures (21)</a></li><li><a href="/categories/fertility-and-sperm/">Fertility and Sperm (10)</a></li><li><a href="/categories/food-sources-for-vitamin-d/">Food Sources for Vitamin D (2)</a></li><li><a href="/categories/forms-of-vitamin-d/">Forms of Vitamin D (8)</a></li><li><a href="/categories/fortification-with-vitamin-d/">Fortification With Vitamin D (8)</a></li><li><a href="/categories/genetics/">Genetics (19)</a></li><li><a href="/categories/greger/">Greger (4)</a></li><li><a href="/categories/gut/">Gut (13)</a></li><li><a href="/categories/health/">Health (14)</a></li><li><a href="/categories/high-risk/">High Risk (3)</a></li><li><a href="/categories/high-dose/">High-Dose (9)</a></li><li><a href="/categories/how-much-vitamin-d/">How Much Vitamin D (4)</a></li><li><a href="/categories/how-when-to-take-vit.-d/">How, When to Take Vit. D (4)</a></li><li><a href="/categories/hypertension/">Hypertension (6)</a></li><li><a href="/categories/immunity/">Immunity (13)</a></li><li><a href="/categories/increased-use-of-d/">Increased Use of D (2)</a></li><li><a href="/categories/infant-child/">Infant-Child (64)</a></li><li><a href="/categories/inflammation/">Inflammation (12)</a></li><li><a href="/categories/interactions-with-vitamin-d/">Interactions With Vitamin D (11)</a></li><li><a href="/categories/intervention/">Intervention (39)</a></li><li><a href="/categories/intervention---non-daily/">Intervention - Non Daily (21)</a></li><li><a href="/categories/kidney/">Kidney (7)</a></li><li><a href="/categories/liver/">Liver (3)</a></li><li><a href="/categories/loading-dose-for-vitamin-d/">Loading Dose for Vitamin D (9)</a></li><li><a href="/categories/meta-analysis-of-vitamin-d/">Meta-Analysis of Vitamin D (52)</a></li><li><a href="/categories/microbiome/">Microbiome (6)</a></li><li><a href="/categories/middle-east/">Middle East (2)</a></li><li><a href="/categories/mortality-and-d/">Mortality and D (23)</a></li><li><a href="/categories/noontime-sun-and-d/">Noontime Sun and D (11)</a></li><li><a href="/categories/off-topic/">Off Topic (5)</a></li><li><a href="/categories/optimum/">Optimum (4)</a></li><li><a href="/categories/orient/">Orient (4)</a></li><li><a href="/categories/osteoarthritis/">Osteoarthritis (1)</a></li><li><a href="/categories/overview-for-doctors/">Overview for Doctors (1)</a></li><li><a href="/categories/pain---chronic/">Pain - Chronic (8)</a></li><li><a href="/categories/parkinson/">Parkinson (14)</a></li><li><a href="/categories/patent/">Patent (1)</a></li><li><a href="/categories/predict-vitamin-d/">Predict Vitamin D (3)</a></li><li><a href="/categories/pregnancy/">Pregnancy (48)</a></li><li><a href="/categories/psoriasis/">Psoriasis (5)</a></li><li><a href="/categories/quality-of-life/">Quality of Life (3)</a></li><li><a href="/categories/resveratrol/">Resveratrol (2)</a></li><li><a href="/categories/rickets/">Rickets (1)</a></li><li><a href="/categories/season-of-birth/">Season of Birth (1)</a></li><li><a href="/categories/seniors/">Seniors (27)</a></li><li><a href="/categories/shut-in/">Shut-In (2)</a></li><li><a href="/categories/skin/">Skin (8)</a></li><li><a href="/categories/skin---dark/">Skin - Dark (9)</a></li><li><a href="/categories/sports-and-vitamin-d/">Sports and Vitamin D (10)</a></li><li><a href="/categories/supplement/">Supplement (4)</a></li><li><a href="/categories/technical-d/">Technical D (1)</a></li><li><a href="/categories/tests-for-vitamin-d/">Tests for Vitamin D (3)</a></li><li><a href="/categories/thyroid-and-parathyroid/">Thyroid and Parathyroid (1)</a></li><li><a href="/categories/top-news/">Top News (7)</a></li><li><a href="/categories/toxicity-of-vitamin-d/">Toxicity of Vitamin D (1)</a></li><li><a href="/categories/trauma-and-surgery/">Trauma and Surgery (15)</a></li><li><a href="/categories/uv-and-vitamin-d/">UV and Vitamin D (14)</a></li><li><a href="/categories/veterinary-and-vitamin-d/">Veterinary and Vitamin D (4)</a></li><li><a href="/categories/virus/">Virus (160)</a></li><li><a href="/categories/vision/">Vision (14)</a></li><li><a href="/categories/vit-d-binding-protein/">Vit D Binding Protein (8)</a></li><li><a href="/categories/vitamin-b12/">Vitamin B12 (5)</a></li><li><a href="/categories/vitamin-c/">Vitamin C (4)</a></li><li><a href="/categories/vitamin-d-and-boron/">Vitamin D and Boron (6)</a></li><li><a href="/categories/vitamin-d-and-calcium/">Vitamin D and Calcium (6)</a></li><li><a href="/categories/vitamin-d-and-iron/">Vitamin D and Iron (3)</a></li><li><a href="/categories/vitamin-d-and-magnesium/">Vitamin D and Magnesium (22)</a></li><li><a href="/categories/vitamin-d-and-omega-3/">Vitamin D and Omega-3 (18)</a></li><li><a href="/categories/vitamin-d-and-vitamin-a/">Vitamin D and Vitamin A (1)</a></li><li><a href="/categories/vitamin-d-and-vitamin-k/">Vitamin D and Vitamin K (8)</a></li><li><a href="/categories/vitamin-d-far-from-equator/">Vitamin D Far From Equator (4)</a></li><li><a href="/categories/vitamin-d-in-australia-and-new-zealand/">Vitamin D in Australia and New Zealand (2)</a></li><li><a href="/categories/vitamin-d-in-canada/">Vitamin D in Canada (2)</a></li><li><a href="/categories/vitamin-d-in-europe/">Vitamin D in Europe (4)</a></li><li><a href="/categories/vitamin-d3-instead-of-d2/">Vitamin D3 Instead of D2 (1)</a></li><li><a href="/categories/women/">Women (13)</a></li><li><a href="/categories/youth/">Youth (8)</a></li></ul>
+                </li></ul>
+        </div>
+        <div class="content" role="main">
+    <article>
+        <h1>People with new fecal incontinence are 1.9 X more likely to have low Vitamin D</h1>
+        <time>February 6, 2024</time>
+        <h4 id="the-association-between-vitamin-d-deficiency-and-fecal-incontinence">The association between vitamin-D deficiency and fecal incontinence</h4>
+<p>Neurogastroenterol Motil 2024 Feb 5:e14753. <a href="https://doi.org/10.1111/nmo.14753">doi: 10.1111/nmo.14753</a>  PDF can be viewed at <a href="https://www.deepdyve.com/lp/wiley/the-association-between-vitamin-d-deficiency-and-fecal-incontinence-xlf9tCjSOL?articleList=%2Fsearch%3Fquery%3D%2522The%2Bassociation%2Bbetween%2Bvitamin-D%2Bdeficiency%2Band%2Bfecal%2Bincontinence%2522">DeepDyve</a></p>
+<p>Leila Neshatian 1, Gabrielle Grant 2, Nielsen Fernandez-Becker 1, Ye Yuan 3, Patricia Garcia 1, Laren Becker 1, Brooke Gurland 4, George Triadafilopoulos 1</p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p>Background: Vitamin-D is essential for musculoskeletal health. We aimed to determine whether patients with fecal incontinence (FI): (1) are more likely to have vitamin-D deficiency and, (2) have higher rates of comorbid medical conditions.</p>
+<p>Methods: We examined 18- to 90-year-old subjects who had 25-hydroxy vitamin-D levels, and no vitamin-D supplementation within 3 months of testing, in a large, single-institutional electronic health records dataset, between 2017 and 2022. Cox proportional hazards survival analysis was used to assess association of vitamin-D deficiency on FI.</p>
+<p>Key results: Of 100,111 unique individuals tested for serum 25-hydroxy vitamin-D, 1205 (1.2%) had an established diagnosis of FI. Most patients with FI were female (75.9% vs. 68.7%, p = 0.0255), Caucasian (66.3% vs. 52%, p = 0.0001), and older (64.2 vs. 53.8, p &lt; 0.0001).</p>
+<ul>
+<li>
+<p>Smoking (6.56% vs. 2.64%, p = 0.0001) and</p>
+</li>
+<li>
+<p>GI comorbidities, including</p>
+<ul>
+<li>
+<p>constipation (44.9% vs. 9.17%, p = 0.0001),</p>
+</li>
+<li>
+<p>irritable bowel syndrome (20.91% vs. 3.72%, p = 0.0001), and</p>
+</li>
+<li>
+<p>diarrhea (28.55% vs. 5.2%, p = 0.0001)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>were more common among FI patients.</p>
+<p>Charlson Comorbidity Index score was significantly higher in patients with FI (5.5 vs. 2.7, p &lt; 0.0001). Significantly higher proportions of patients with FI had vitamin-D deficiency (7.14% vs. 4.45%, p &lt; 0.0001). Moreover, after propensity-score matching, rate of  <strong>new FI diagnosis was higher in patients with vitamin-D deficiency; HR 1.9</strong>  (95% CI <span>[1.14-3.15]</span>), p = 0.0131.</p>
+<p>Conclusion &amp; inferences: Patients with FI had higher rates of vitamin-D deficiency along with increased overall morbidity. Future research is needed to determine whether increased rate of FI in patients with vitamin-D deficiency is related to frailty associated with increased medical morbidities.</p>
+<hr>
+<h5 id="23-references">23 References</h5>
+<ul>
+<li>
+<p>Bharucha AE, Knowles CH, Mack I, et al. Faecal incontinence in adults. Nat Rev Dis Primers. 2022;8:53.</p>
+</li>
+<li>
+<p>Bharucha AE, Zinsmeister AR, Locke GR, et al. Risk factors for fecal incontinence: a population-based study in women. Am J Gastroenterol. 2006;101:1305-1312.</p>
+</li>
+<li>
+<p>Bharucha AE, Zinsmeister AR, Schleck CD, Melton LJ III. Bowel disturbances are the most important risk factors for late onset fecal incontinence: a population-based case-control study in women. Gastroenterology. 2010;139:1559-1566.</p>
+</li>
+<li>
+<p>Blomquist JL, Muñoz A, Carroll M, Handa VL. Association of Delivery Mode with Pelvic Floor Disorders after Childbirth. JAMA. 2018;320:2438.</p>
+</li>
+<li>
+<p>Nygaard I. Prevalence of symptomatic pelvic floor disorders in US women. JAMA. 2008;300:1311-1316.</p>
+</li>
+<li>
+<p>Ditah I, Devaki P, Luma HN, et al. Prevalence, trends, and risk factors for fecal incontinence in United States adults, 2005-2010. Clin Gastroenterol Hepatol. 2014;12:636-643.e2.</p>
+</li>
+<li>
+<p>Oblizajek NR, Gandhi S, Sharma M, et al. Anorectal pressures measured with high-resolution manometry in healthy people-normal values and asymptomatic pelvic floor dysfunction. Neurogastroenterol Motil. 2019;31:e13597.</p>
+</li>
+<li>
+<p>Charlson ME, Carrozzino D, Guidi J, Patierno C. Charlson comorbidity index: a critical review of clinimetric properties. Psychother Psychosom. 2022;91:8-35.</p>
+</li>
+<li>
+<p>Goode PS, Burgio KL, Halli AD, et al. Prevalence and correlates of fecal incontinence in community-dwelling older adults. J Am Geriatr Soc. 2005;53:629-635.</p>
+</li>
+<li>
+<p>Wiedmer P, Jung T, Castro JP, et al. Sarcopenia-molecular mechanisms and open questions. Ageing Res Rev. 2021;65:101200.</p>
+</li>
+<li>
+<p>Xue QL. The frailty syndrome: definition and natural history. Clin Geriatr Med. 2011;27:1-15.</p>
+</li>
+<li>
+<p>Neshatian L, Lam JP, Gurland BH, Liang T, Becker L, Sheth VR. MRI biomarker of muscle composition is associated with severity of pelvic organ prolapse. Tech Coloproctol. 2022;26:725-733.</p>
+</li>
+<li>
+<p>Halfon M, Phan O, Teta D.  <strong>Vitamin d</strong> : a review on its effects on muscle strength, the risk of fall, and frailty. Biomed Res Int. 2015;2015:1-11.</p>
+</li>
+<li>
+<p>Michelson JD, Charlson MD.  <strong>Vitamin d</strong>  status in an elective orthopedic surgical population. Foot Ankle Int. 2016;37:186-191.</p>
+</li>
+<li>
+<p>Badalian SS, Rosenbaum PF.  <strong>Vitamin d</strong>  and pelvic floor disorders in women: results from the National Health and nutrition examination survey. Obstet Gynecol. 2010;115:795-803.</p>
+</li>
+<li>
+<p>Alkhatib AA, Tuteja AK. High prevalence of  <strong>vitamin d</strong>  deficiency among patients with fecal incontinence. Dig Dis Sci. 2010;55:3632-3633.</p>
+</li>
+<li>
+<p>Parker-Autry CY, Gleason JL, Griffin RL, Markland AD, Richter HE.  <strong>Vitamin d</strong>  deficiency is associated with increased fecal incontinence symptoms. Int Urogynecol J. 2014;25:1483-1489.</p>
+</li>
+<li>
+<p>Staller K, Song M, Grodstein F, et al. Increased long-term dietary fiber intake is associated with a decreased risk of fecal incontinence in older women. Gastroenterology. 2018;155:661-667.e1.</p>
+</li>
+<li>
+<p>Yang K, Tabung FK, Whitehead WE, Giovannucci EL, Chan AT, Staller K. Proinflammatory diet is associated with increased risk of fecal incontinence among older women: prospective results from the Nurses&rsquo; Health Study. Clin Gastroenterol Hepatol. 2023;21:1657-1659.e3.</p>
+</li>
+<li>
+<p>Staller K, Song M, Grodstein F, et al. Physical activity, BMI, and risk of fecal incontinence in the Nurses&rsquo; Health Study. Clin Transl Gastroenterol. 2018;9:e200.</p>
+</li>
+<li>
+<p>Girgis CM.  <strong>Vitamin d</strong>  and skeletal muscle: emerging roles in development, anabolism and repair. Calcif Tissue Int. 2020;106:47-57.</p>
+</li>
+<li>
+<p>Girgis CM, Clifton-Bligh RJ, Hamrick MW, Holick MF, Gunton JE. The roles of  <strong>vitamin d</strong>  in skeletal muscle: form, function, and metabolism. Endocr Rev. 2013;34:33-83.</p>
+</li>
+<li>
+<p>Gonçalves de Carvalho CMR, Ribeiro SML. Aging, low-grade systemic inflammation and  <strong>vitamin d</strong> : a mini-review. Eur J Clin Nutr. 2017;71:434-440.</p>
+</li>
+</ul>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsoverview-gut-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-gut-and-vitamin-doverview-gut-and-vitamin-da-has">VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">Overview Gut and vitamin D</a> has</h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsoverview-gut-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-gut-and-vitamin-doverview-gut-and-vitamin-da-contains-gut-friendly-information">VitaminDWiki – <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">Overview Gut and vitamin D</a> contains gut-friendly information</h4>
+<hr>
+<h4 id="vitamindwiki--irritable-bowel-syndrome-and-vitamin-d---many-studiespostsirritable-bowel-syndrome-and-vitamin-d-many-studies">VitaminDWiki – <a href="/posts/irritable-bowel-syndrome-and-vitamin-d-many-studies">Irritable Bowel Syndrome and Vitamin D - many studies</a></h4>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostsconstipation-magnesium-calcium-and-cofactors-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-constipation---magnesium-calcium-and-cofactorsconstipation---magnesium-calcium-and-cofactorsa">VitaminDWiki – <a href="/posts/constipation-magnesium-calcium-and-cofactors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Constipation - Magnesium, Calcium and cofactors">Constipation - Magnesium, Calcium and cofactors</a></h4>
+<p><strong>Note: Vitamin D both consumes Magnesium and Increases Calcium</strong></p>
+<hr>
+<h4 id="vitamindwiki--a-hrefpostssmoking-reduces-vitamin-d-many-studies-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-smoking-reduces-vitamin-d---many-studiessmoking-reduces-vitamin-d---many-studiesa">VitaminDWiki – <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a></h4>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1744240256"></script>
+    
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        const search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1744240256',
+            indexUrl: '\/search\/search_index.json.gz?v=1744240256'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

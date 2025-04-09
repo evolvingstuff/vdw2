@@ -29,4 +29,4 @@ Conclusion: In our large study of National vitamin D fortification, improved vit
 
 ---
 
-#### VitaminDWiki - <a href="/posts/stillbirth-reduced-by-vitamin-d-zinc-omega-3-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stillbirth reduced by Vitamin D, Zinc, Omega-3 - several studies">Stillbirth reduced by Vitamin D, Zinc, Omega-3 - several studies</a>
+#### VitaminDWiki - [Stillbirth reduced by Vitamin D, Zinc, Omega-3 - several studies](/posts/stillbirth-reduced-by-vitamin-d-zinc-omega-3-several-studies)

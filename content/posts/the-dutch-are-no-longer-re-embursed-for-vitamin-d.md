@@ -80,7 +80,7 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 * <a href="/posts/employers-gain-10-dollars-in-productivity-for-every-dollar-spent-on-giving-vitamin-d-for-free" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Employers gain 10 dollars in productivity for every dollar spent on giving Vitamin D for free">Employers gain 10 dollars in productivity for every dollar spent on giving Vitamin D for free</a>
 
-* <a href="/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US Food stamps program being asked to add free Vitamin D - June 2023">US Food stamps program being asked to add free Vitamin D - June 2023</a>
+* [US Food stamps program being asked to add free Vitamin D - June 2023](/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d)
 
 * <a href="/posts/employers-should-give-night-shift-workers-free-vitamin-d-gmb-union" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Employers should give night shift workers free vitamin D – GMB Union June 2019">Employers should give night shift workers free vitamin D – GMB Union June 2019</a>
 
@@ -88,4 +88,4 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 ---
 
-#### VitaminDWiki: <a href="/posts/vitamin-d-has-been-found-to-be-cost-effective-by-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D has been found to be cost-effective by many studies">Vitamin D has been found to be cost-effective by many studies</a>
+#### VitaminDWiki: [Vitamin D has been found to be cost-effective by many studies](/posts/vitamin-d-has-been-found-to-be-cost-effective-by-many-studies)
