@@ -50,7 +50,7 @@ Conclusions: Application of the geriatric-palliative methodology in the disabled
 
 * A systematic review of the evidence for  **deprescribing**  interventions among older people living with frailty - April 2021 https://doi.org/10.1186/s12877-021-02208-8 FREE PDF
 
-  * "... studies suggest that  **deprescribing**  could be safe, feasible, well tolerated and can lead to important benefits"
+   * "... studies suggest that  **deprescribing**  could be safe, feasible, well tolerated and can lead to important benefits"
 
 *  **Deprescribing**  for older people living in residential aged care facilities: Pharmacist recommendations, doctor acceptance and implementation - April 2023 https://doi.org/10.1016/j.archger.2022.104910
 
@@ -112,7 +112,7 @@ Conclusions: Application of the geriatric-palliative methodology in the disabled
 
 * A systematic review of the evidence for  **deprescribing**  interventions among older people living with frailty - April 2021 https://doi.org/10.1186/s12877-021-02208-8 FREE PDF
 
-  * &quot;... studies suggest that  **deprescribing**  could be safe, feasible, well tolerated and can lead to important benefits&quot;
+   * &quot;... studies suggest that  **deprescribing**  could be safe, feasible, well tolerated and can lead to important benefits&quot;
 
 *  **Deprescribing**  for older people living in residential aged care facilities: Pharmacist recommendations, doctor acceptance and implementation - April 2023 https://doi.org/10.1016/j.archger.2022.104910
 

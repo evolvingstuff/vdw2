@@ -57,7 +57,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
- **Only includes the  <span style="color:orange;">first 6 month</span> costs. Ignores additional costs for the rest of the life** 
+ **Only includes the <span style="color:#00F;">first 6 month</span> costs. Ignores additional costs for the rest of the life** 
 
  **Preterm Birth rates around the world (Lancet)** 
 
@@ -153,7 +153,7 @@ Premature babies, often referred to as "preemies," can face a range of health is
 
 It's important to note that while preemies are at a higher risk for these health problems, not all premature babies will experience them. Advances in neonatal care have significantly improved the outcomes for premature babies, and many go on to lead healthy lives. Regular medical follow-up and a healthy lifestyle can help mitigate some of these risks.
 
-#####  <span style="color:orange;">Note: Many of these health problems have been treated by Vitamin D</span>
+##### <span style="color:#00F;">Note: Many of these health problems have been treated by Vitamin D</span>
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -206,7 +206,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
- **Only includes the  &lt;span style=&quot;color:orange;&quot;&gt;first 6 month&lt;/span&gt; costs. Ignores additional costs for the rest of the life** 
+ **Only includes the &lt;span style=&quot;color:#00F;&quot;&gt;first 6 month&lt;/span&gt; costs. Ignores additional costs for the rest of the life** 
 
  **Preterm Birth rates around the world (Lancet)** 
 
@@ -302,7 +302,7 @@ Premature babies, often referred to as &quot;preemies,&quot; can face a range of
 
 It&#39;s important to note that while preemies are at a higher risk for these health problems, not all premature babies will experience them. Advances in neonatal care have significantly improved the outcomes for premature babies, and many go on to lead healthy lives. Regular medical follow-up and a healthy lifestyle can help mitigate some of these risks.
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Note: Many of these health problems have been treated by Vitamin D&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;Note: Many of these health problems have been treated by Vitamin D&lt;/span&gt;
 
 
 AST Structure:

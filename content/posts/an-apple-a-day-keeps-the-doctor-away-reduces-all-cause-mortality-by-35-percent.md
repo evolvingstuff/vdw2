@@ -44,9 +44,9 @@ categories:
 
 * non-organic apples have pesticides - which kill insects and harm the human and reduce vitamin D levels
 
-  * See: <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+   * See: <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
 
-  * See: <a href="/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018">Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018</a>
+   * See: <a href="/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018">Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018</a>
 
 * non-organic apples do not have to put chemicals in their skin to protect themselves from insects
 
@@ -58,7 +58,7 @@ categories:
 
 #### VitaminDWiki - <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a>
 
- **Vitamin D is the lowest-cost way to improve health**   **<span style="color:orange;">(thin line, large circle)</span>** 
+ **Vitamin D is the lowest-cost way to improve health**   **<span style="color:#006;">(thin line, large circle)</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -74,7 +74,7 @@ categories:
 
 * Apple polyphenols in human and animal health - 2021  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
-  *  **Abstract:** Apples contain substantial amounts of polyphenols, and diverse phenolics mainly flavonoids and phenolic acids, have been identified in their flesh and skins. This work aimed to analyze the overall landscape of the research literature published to date on apple phenolic compounds in the context of human and animal health. The Web of Science Core Collection electronic database was queried with (apple* polyphenol*) AND (health* OR illness* OR disease* OR medic* OR pharma*) to identify relevant papers covering these words and their derivatives in the titles, abstracts, and keywords. The resulted 890 papers were bibliometrically analyzed. The VOSviewer software was utilized to produce term maps that illustrate how the frequent phrases fared in terms of publication and citation data. The apple polyphenol papers received global contributions, particularly from China, Italy, the United States, Spain, and Germany. Examples of frequently mentioned chemicals/chemical classes are  **quercetin** , anthocyanin, catechin, epicatechin, and flavonol, while examples of frequently mentioned medical conditions are cardiovascular disease, atherosclerosis, diabetes, Alzheimers disease, and obesity. The potential health benefits of apple polyphenols on humans and animals are diverse and warrant further study.
+   *  **Abstract:** Apples contain substantial amounts of polyphenols, and diverse phenolics mainly flavonoids and phenolic acids, have been identified in their flesh and skins. This work aimed to analyze the overall landscape of the research literature published to date on apple phenolic compounds in the context of human and animal health. The Web of Science Core Collection electronic database was queried with (apple* polyphenol*) AND (health* OR illness* OR disease* OR medic* OR pharma*) to identify relevant papers covering these words and their derivatives in the titles, abstracts, and keywords. The resulted 890 papers were bibliometrically analyzed. The VOSviewer software was utilized to produce term maps that illustrate how the frequent phrases fared in terms of publication and citation data. The apple polyphenol papers received global contributions, particularly from China, Italy, the United States, Spain, and Germany. Examples of frequently mentioned chemicals/chemical classes are  **quercetin** , anthocyanin, catechin, epicatechin, and flavonol, while examples of frequently mentioned medical conditions are cardiovascular disease, atherosclerosis, diabetes, Alzheimers disease, and obesity. The potential health benefits of apple polyphenols on humans and animals are diverse and warrant further study.
 
 * VitaminDWiki note: <a href="/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies">Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies</a>
 
@@ -139,9 +139,9 @@ Markdown:
 
 * non-organic apples have pesticides - which kill insects and harm the human and reduce vitamin D levels
 
-  * See: &lt;a href=&quot;/posts/ddt-and-other-pesticides-decrease-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT and other pesticides decrease vitamin D&quot;&gt;DDT and other pesticides decrease vitamin D&lt;/a&gt;
+   * See: &lt;a href=&quot;/posts/ddt-and-other-pesticides-decrease-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: DDT and other pesticides decrease vitamin D&quot;&gt;DDT and other pesticides decrease vitamin D&lt;/a&gt;
 
-  * See: &lt;a href=&quot;/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018&quot;&gt;Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018&lt;/a&gt;
+   * See: &lt;a href=&quot;/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018&quot;&gt;Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018&lt;/a&gt;
 
 * non-organic apples do not have to put chemicals in their skin to protect themselves from insects
 
@@ -153,7 +153,7 @@ Markdown:
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/ways-to-improve-health&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ways to improve health&quot;&gt;Ways to improve health&lt;/a&gt;
 
- **Vitamin D is the lowest-cost way to improve health**   **&lt;span style=&quot;color:orange;&quot;&gt;(thin line, large circle)&lt;/span&gt;** 
+ **Vitamin D is the lowest-cost way to improve health**   **&lt;span style=&quot;color:#006;&quot;&gt;(thin line, large circle)&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
@@ -169,7 +169,7 @@ Markdown:
 
 * Apple polyphenols in human and animal health - 2021  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
-  *  **Abstract:** Apples contain substantial amounts of polyphenols, and diverse phenolics mainly flavonoids and phenolic acids, have been identified in their flesh and skins. This work aimed to analyze the overall landscape of the research literature published to date on apple phenolic compounds in the context of human and animal health. The Web of Science Core Collection electronic database was queried with (apple* polyphenol*) AND (health* OR illness* OR disease* OR medic* OR pharma*) to identify relevant papers covering these words and their derivatives in the titles, abstracts, and keywords. The resulted 890 papers were bibliometrically analyzed. The VOSviewer software was utilized to produce term maps that illustrate how the frequent phrases fared in terms of publication and citation data. The apple polyphenol papers received global contributions, particularly from China, Italy, the United States, Spain, and Germany. Examples of frequently mentioned chemicals/chemical classes are  **quercetin** , anthocyanin, catechin, epicatechin, and flavonol, while examples of frequently mentioned medical conditions are cardiovascular disease, atherosclerosis, diabetes, Alzheimers disease, and obesity. The potential health benefits of apple polyphenols on humans and animals are diverse and warrant further study.
+   *  **Abstract:** Apples contain substantial amounts of polyphenols, and diverse phenolics mainly flavonoids and phenolic acids, have been identified in their flesh and skins. This work aimed to analyze the overall landscape of the research literature published to date on apple phenolic compounds in the context of human and animal health. The Web of Science Core Collection electronic database was queried with (apple* polyphenol*) AND (health* OR illness* OR disease* OR medic* OR pharma*) to identify relevant papers covering these words and their derivatives in the titles, abstracts, and keywords. The resulted 890 papers were bibliometrically analyzed. The VOSviewer software was utilized to produce term maps that illustrate how the frequent phrases fared in terms of publication and citation data. The apple polyphenol papers received global contributions, particularly from China, Italy, the United States, Spain, and Germany. Examples of frequently mentioned chemicals/chemical classes are  **quercetin** , anthocyanin, catechin, epicatechin, and flavonol, while examples of frequently mentioned medical conditions are cardiovascular disease, atherosclerosis, diabetes, Alzheimers disease, and obesity. The potential health benefits of apple polyphenols on humans and animals are diverse and warrant further study.
 
 * VitaminDWiki note: &lt;a href=&quot;/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies&quot;&gt;Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies&lt;/a&gt;
 

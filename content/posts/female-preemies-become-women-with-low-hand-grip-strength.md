@@ -20,7 +20,7 @@ Children (Basel). 2023 Dec 7;10(12):1898. [doi: 10.3390/children10121898.](https
 
 Ella Bruun 1 2 3, Pauli Pätsi 1 2 3, Markku Leskinen 1 2 3, Krista Björkman 1 2 3, Petri Kulmala 1 2 3 4, Mikko P Tulppo 4 5, Marita Valkama 1 2 3, Marja Ojaniemi 1 2 3
 
- **Female  <span style="color:orange;">preemies</span> become women with low hand grip strength** 
+ **Female <span style="color:#F06;">preemies</span> become women with low hand grip strength** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -50,7 +50,7 @@ Children (Basel). 2023 Dec 7;10(12):1898. [doi: 10.3390/children10121898.](https
 
 Ella Bruun 1 2 3, Pauli Pätsi 1 2 3, Markku Leskinen 1 2 3, Krista Björkman 1 2 3, Petri Kulmala 1 2 3 4, Mikko P Tulppo 4 5, Marita Valkama 1 2 3, Marja Ojaniemi 1 2 3
 
- **Female  &lt;span style=&quot;color:orange;&quot;&gt;preemies&lt;/span&gt; become women with low hand grip strength** 
+ **Female &lt;span style=&quot;color:#F06;&quot;&gt;preemies&lt;/span&gt; become women with low hand grip strength** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

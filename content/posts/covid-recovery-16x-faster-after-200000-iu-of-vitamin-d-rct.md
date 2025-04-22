@@ -51,7 +51,7 @@ This study was approved by the Human Subjects Protection Tunisia center (TN2020-
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) ~/tc~ -->
 
@@ -99,7 +99,7 @@ This study was approved by the Human Subjects Protection Tunisia center (TN2020-
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(COVID recovery speeded up by 200,000 IU of vitamin D RCT – Feb 2023)) ~/tc~ --&gt;
 

@@ -43,11 +43,11 @@ The study shows that a large proportion of vulnerable people have continued to t
 
 * 20% still had a supply of vitamin D and continued to use it. Of this group, 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+> 
 
 * 70% say they will continue taking vitamin D when they run out of supply. 
 
-  * 6 to 7% say they will stop.
+   * 6 to 7% say they will stop.
 
 * The remaining 10% did not enter any useful information.
 
@@ -132,11 +132,11 @@ The study shows that a large proportion of vulnerable people have continued to t
 
 * 20% still had a supply of vitamin D and continued to use it. Of this group, 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&gt; 
 
 * 70% say they will continue taking vitamin D when they run out of supply. 
 
-  * 6 to 7% say they will stop.
+   * 6 to 7% say they will stop.
 
 * The remaining 10% did not enter any useful information.
 

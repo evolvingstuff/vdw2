@@ -24,11 +24,11 @@ categories:
 
 *  **A supplier would be faced with $10,000 to $100,000 cost to get appoval for each of their products in each country** 
 
-  * Can anticipate that many suppliers will decide to not sell in Canada, New Zealand, etc
+   * Can anticipate that many suppliers will decide to not sell in Canada, New Zealand, etc
 
 * <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a> 
 
-  * Does not matter if destination restricts it, providing only a few bottles are purchased at a time
+   * Does not matter if destination restricts it, providing only a few bottles are purchased at a time
 
 ---
 
@@ -70,11 +70,11 @@ Markdown:
 
 *  **A supplier would be faced with $10,000 to $100,000 cost to get appoval for each of their products in each country** 
 
-  * Can anticipate that many suppliers will decide to not sell in Canada, New Zealand, etc
+   * Can anticipate that many suppliers will decide to not sell in Canada, New Zealand, etc
 
 * &lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt; 
 
-  * Does not matter if destination restricts it, providing only a few bottles are purchased at a time
+   * Does not matter if destination restricts it, providing only a few bottles are purchased at a time
 
 ---
 

@@ -22,13 +22,13 @@ categories:
 
  **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html?soid=1102722411090&aid=1o3gmmf_klw)** 
 
- **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least  <span style="color:orange;">40 ng/ml </span>(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
+ **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least <span style="color:#00F;">40 ng/ml </span>(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
 
 * 244%  more D needed if not taking both magnesium and K2
 
-  * 146% more D needed if not  take at least 400 mg/day magnesium
+   * 146% more D needed if not  take at least 400 mg/day magnesium
 
-  * 115% more D needed if not take at least 200 mcg/day of vitamin K2
+   * 115% more D needed if not take at least 200 mcg/day of vitamin K2
 
 * 94% more D needed if not take at least 1,000 mg/day vitamin C
 
@@ -42,7 +42,7 @@ categories:
 
  **[GRH data](https://www.grassrootshealth.net/blog/nutrients-factors-influence-vitamin-d-levels-dose-response/)** 
 
- **Example: addition of both Mg and K2 =  <span style="color:orange;">yellow line</span>** 
+ **Example: addition of both Mg and K2 = <span style="color:black;background-color:yellow;">yellow line</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -90,7 +90,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * 
 
-  * = 250% more vitamin D needed by obese at 50 ng
+   * = 250% more vitamin D needed by obese at 50 ng
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -105,13 +105,13 @@ Markdown:
 
  **[Grassrootshealth](https://myemail.constantcontact.com/Important-Nutrients-to-Make-Sure-You-Are-Getting-Along-with-Vitamin-D.html?soid=1102722411090&amp;aid=1o3gmmf_klw)** 
 
- **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least  &lt;span style=&quot;color:orange;&quot;&gt;40 ng/ml &lt;/span&gt;(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
+ **The calculations below show how much more supplemental vitamin D was needed, on average, for participants to achieve a vitamin D level of at least &lt;span style=&quot;color:#00F;&quot;&gt;40 ng/ml &lt;/span&gt;(100 nmol/L), for those not taking each nutrient in supplement form compared to those taking each nutrient.** 
 
 * 244%  more D needed if not taking both magnesium and K2
 
-  * 146% more D needed if not  take at least 400 mg/day magnesium
+   * 146% more D needed if not  take at least 400 mg/day magnesium
 
-  * 115% more D needed if not take at least 200 mcg/day of vitamin K2
+   * 115% more D needed if not take at least 200 mcg/day of vitamin K2
 
 * 94% more D needed if not take at least 1,000 mg/day vitamin C
 
@@ -125,7 +125,7 @@ Markdown:
 
  **[GRH data](https://www.grassrootshealth.net/blog/nutrients-factors-influence-vitamin-d-levels-dose-response/)** 
 
- **Example: addition of both Mg and K2 =  &lt;span style=&quot;color:orange;&quot;&gt;yellow line&lt;/span&gt;** 
+ **Example: addition of both Mg and K2 = &lt;span style=&quot;color:black;background-color:yellow;&quot;&gt;yellow line&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
@@ -173,7 +173,7 @@ Would be interesting to compare the US population pyramid with the US GRH cohort
 
 * 
 
-  * = 250% more vitamin D needed by obese at 50 ng
+   * = 250% more vitamin D needed by obese at 50 ng
 
 
 AST Structure:

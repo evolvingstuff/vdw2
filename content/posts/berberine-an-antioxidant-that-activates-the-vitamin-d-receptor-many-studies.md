@@ -107,21 +107,21 @@ NOW Foods, tested lesser known brands purchased on Amazon.com and Walmart.com an
 
 * 6 products contained no detectable berberine 
 
-  * (Earth Bare, Greabby Gummies, GreenPeople Formula, Satooml, Vltamlscence, and Wellness Labs Rx), 
+   * (Earth Bare, Greabby Gummies, GreenPeople Formula, Satooml, Vltamlscence, and Wellness Labs Rx), 
 
 * 1 product from KoNefancy contained just 1 %. 
 
 * 11 products contained only 3% to 39% of the berberine expected from their labels: 
 
-  * aSquared, BMVINVOL Formula, Deal Supplement, Genex Formulas, HIvoNutra Formula, Nutriflair, Nutrivein, One Planet Nutrition, Research Labs, Sotalix, and Thomas Remedies. Naomi Whittel, Simply Natures Pure, Tonliq, Vitalité
+   * aSquared, BMVINVOL Formula, Deal Supplement, Genex Formulas, HIvoNutra Formula, Nutriflair, Nutrivein, One Planet Nutrition, Research Labs, Sotalix, and Thomas Remedies. Naomi Whittel, Simply Natures Pure, Tonliq, Vitalité
 
 * 2 products contained between 80% to 90% of their claimed amounts
 
-  * Now, and Wholesome Story
+   * Now, and Wholesome Story
 
 * 3 products contained, respectively, 95%, 97%, and 104% of their claimed amounts.
 
-  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&keywords=berberine+Sunergetic&qid=1703267680&sprefix=berberine+sunergetic%2Caps%2C165&sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&keywords=berberine%2Bdoctor%2Brecommended&qid=1703267755&rdc=1&sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1), and NOW Foods
+   * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&keywords=berberine+Sunergetic&qid=1703267680&sprefix=berberine+sunergetic%2Caps%2C165&sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&keywords=berberine%2Bdoctor%2Brecommended&qid=1703267755&rdc=1&sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1), and NOW Foods
 
 ---
 
@@ -441,21 +441,21 @@ NOW Foods, tested lesser known brands purchased on Amazon.com and Walmart.com an
 
 * 6 products contained no detectable berberine 
 
-  * (Earth Bare, Greabby Gummies, GreenPeople Formula, Satooml, Vltamlscence, and Wellness Labs Rx), 
+   * (Earth Bare, Greabby Gummies, GreenPeople Formula, Satooml, Vltamlscence, and Wellness Labs Rx), 
 
 * 1 product from KoNefancy contained just 1 %. 
 
 * 11 products contained only 3% to 39% of the berberine expected from their labels: 
 
-  * aSquared, BMVINVOL Formula, Deal Supplement, Genex Formulas, HIvoNutra Formula, Nutriflair, Nutrivein, One Planet Nutrition, Research Labs, Sotalix, and Thomas Remedies. Naomi Whittel, Simply Natures Pure, Tonliq, Vitalité
+   * aSquared, BMVINVOL Formula, Deal Supplement, Genex Formulas, HIvoNutra Formula, Nutriflair, Nutrivein, One Planet Nutrition, Research Labs, Sotalix, and Thomas Remedies. Naomi Whittel, Simply Natures Pure, Tonliq, Vitalité
 
 * 2 products contained between 80% to 90% of their claimed amounts
 
-  * Now, and Wholesome Story
+   * Now, and Wholesome Story
 
 * 3 products contained, respectively, 95%, 97%, and 104% of their claimed amounts.
 
-  * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&amp;keywords=berberine+Sunergetic&amp;qid=1703267680&amp;sprefix=berberine+sunergetic%2Caps%2C165&amp;sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&amp;keywords=berberine%2Bdoctor%2Brecommended&amp;qid=1703267755&amp;rdc=1&amp;sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1), and NOW Foods
+   * [Sunergetic](https://www.amazon.com/Premium-Berberine-Supplement-200-Serving/dp/B01AMPTXLE/ref=sr_1_2?crid=3L52TQH72MYT6&amp;keywords=berberine+Sunergetic&amp;qid=1703267680&amp;sprefix=berberine+sunergetic%2Caps%2C165&amp;sr=8-2), [Doctor Recommended (New World Herbal Wellness)](https://www.amazon.com/Berberine-Plus-1200mg-Serving-Gastrointestinal/dp/B07V2ZLY4N/ref=sr_1_2_sspa?crid=E0TCKCWND8QR&amp;keywords=berberine%2Bdoctor%2Brecommended&amp;qid=1703267755&amp;rdc=1&amp;sprefix=berberine%2BDoctor%2BRecommended%2Caps%2C200&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1), and NOW Foods
 
 ---
 

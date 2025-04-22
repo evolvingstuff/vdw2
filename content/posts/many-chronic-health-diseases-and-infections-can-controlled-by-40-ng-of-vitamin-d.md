@@ -384,7 +384,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **FLCCC = Front Line COVID-19 Critical Care Alliance** 
 
- **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above <span style="color:orange;">50 ng/mL</span>** 
+ **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above<span style="color:#F06;">50 ng/mL</span>** 
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -795,7 +795,7 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
  **FLCCC = Front Line COVID-19 Critical Care Alliance** 
 
- **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above &lt;span style=&quot;color:orange;&quot;&gt;50 ng/mL&lt;/span&gt;** 
+ **Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above&lt;span style=&quot;color:#F06;&quot;&gt;50 ng/mL&lt;/span&gt;** 
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -35,7 +35,7 @@ Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54)
 
 #### <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021">Whites with low Vitamin D have similar health problems as Blacks</a>
 
- **<span style="color:orange;">Low Vitamin D increases health problems - independent of skin color</span>** 
+ **<span style="color:#00F;">Low Vitamin D increases health problems - independent of skin color</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -74,7 +74,7 @@ Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54)
 
 #### &lt;a href=&quot;/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021&quot;&gt;Whites with low Vitamin D have similar health problems as Blacks&lt;/a&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Low Vitamin D increases health problems - independent of skin color&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Low Vitamin D increases health problems - independent of skin color&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

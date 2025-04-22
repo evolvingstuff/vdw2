@@ -52,7 +52,7 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
 ---
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -66,25 +66,25 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
 1. A  >$150 test can measure Vitmin D in cells. Cells must be sample, frozen, and sent to a single test facility
 
-&nbsp;&nbsp;&nbsp;&nbsp;Extremely little is known about the results:  Example: how it varies with such things as
+> Extremely little is known about the results:  Example: how it varies with such things as
 
-  * accuracy
+   * accuracy
 
-  * reproduceability of measurements
+   * reproduceability of measurements
 
-  * weekly vs daily dosing
+   * weekly vs daily dosing
 
-  * obesity, 
+   * obesity, 
 
-  * form of vitamin D, 
+   * form of vitamin D, 
 
-  * genes, 
+   * genes, 
 
-  * co-factors, 
+   * co-factors, 
 
-  * Vitamin D level in blood
+   * Vitamin D level in blood
 
-  * time of day the sample was taken
+   * time of day the sample was taken
 
 ---
 
@@ -135,7 +135,7 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
 ---
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -149,25 +149,25 @@ Notably, in the future, new research into the role of gene polymorphism and epig
 
 1. A  &gt;$150 test can measure Vitmin D in cells. Cells must be sample, frozen, and sent to a single test facility
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Extremely little is known about the results:  Example: how it varies with such things as
+&gt; Extremely little is known about the results:  Example: how it varies with such things as
 
-  * accuracy
+   * accuracy
 
-  * reproduceability of measurements
+   * reproduceability of measurements
 
-  * weekly vs daily dosing
+   * weekly vs daily dosing
 
-  * obesity, 
+   * obesity, 
 
-  * form of vitamin D, 
+   * form of vitamin D, 
 
-  * genes, 
+   * genes, 
 
-  * co-factors, 
+   * co-factors, 
 
-  * Vitamin D level in blood
+   * Vitamin D level in blood
 
-  * time of day the sample was taken
+   * time of day the sample was taken
 
 ---
 

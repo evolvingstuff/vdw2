@@ -43,7 +43,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
 * "In 1984, Sutherland and Bailer proposed the “Multi-Hit Hypothesis of Carcinogenesis:”"
 
-  * [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
+   * [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
 
 * "They essentially said it takes multiple different hits or insults to cells and their genetic machinery to cause a normal cell to become cancerous."
 
@@ -65,7 +65,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
 ---
 
-####  <span style="color:orange;">13+</span>  VitaminDWiki Virus pages with CANCER in title
+#### <span style="color:#F06;">13+</span>  VitaminDWiki Virus pages with CANCER in title
 
 <!-- {LIST()}
 {list max="50"}
@@ -129,7 +129,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
 * &quot;In 1984, Sutherland and Bailer proposed the “Multi-Hit Hypothesis of Carcinogenesis:”&quot;
 
-  * [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
+   * [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)
 
 * &quot;They essentially said it takes multiple different hits or insults to cells and their genetic machinery to cause a normal cell to become cancerous.&quot;
 
@@ -151,7 +151,7 @@ In light of the above and because some of these concerns (i.e., alteration of on
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;13+&lt;/span&gt;  VitaminDWiki Virus pages with CANCER in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;13+&lt;/span&gt;  VitaminDWiki Virus pages with CANCER in title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

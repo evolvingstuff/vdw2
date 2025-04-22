@@ -34,7 +34,7 @@ Nutrigenomics attempts to characterize and integrate the relation between dietar
 
 ---
 
-####  <span style="color:orange;">21 </span>Carlberg publications 2021 - Feb 2024
+#### <span style="color:#F09;">21 </span>Carlberg publications 2021 - Feb 2024
 
 1. Vitamin D and Aging: Central Role of Immunocompetence
 
@@ -90,7 +90,7 @@ Nutrigenomics attempts to characterize and integrate the relation between dietar
 
 ---
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in many ways
 
@@ -123,7 +123,7 @@ Nutrigenomics attempts to characterize and integrate the relation between dietar
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;21 &lt;/span&gt;Carlberg publications 2021 - Feb 2024
+#### &lt;span style=&quot;color:#F09;&quot;&gt;21 &lt;/span&gt;Carlberg publications 2021 - Feb 2024
 
 1. Vitamin D and Aging: Central Role of Immunocompetence
 
@@ -179,7 +179,7 @@ Nutrigenomics attempts to characterize and integrate the relation between dietar
 
 ---
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in many ways
 

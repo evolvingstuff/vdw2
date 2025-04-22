@@ -31,7 +31,7 @@ categories:
 
 * ([14:28](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=868s)) The effectiveness of epsom salt baths 
 
-  * (see also [01:09:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=4159s)) 
+   * (see also [01:09:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=4159s)) 
 
 * ([14:55](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=895s)) Is magnesium threonate better at crossing the blood-brain barrier? 
 
@@ -41,7 +41,7 @@ categories:
 
 * ([23:09](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=1389s)) The effect of stress on magnesium balance 
 
-  * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
+   * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
 
 * ([26:53](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=1613s)) Why the energy demands of workouts affect magnesium balance 
 
@@ -61,7 +61,7 @@ categories:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2410s)) Magnesium's potential for managing migraines 
 
-  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+   * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2599s)) The role of magnesium in aging 
 
@@ -69,7 +69,7 @@ categories:
 
 * ([45:51](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2751s)) Magnesium's role in cancer prevention 
 
-  * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
+   * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
 
 * ([47:52](https://www.youtube.com/watch?v=G8FhKbsGhWU&t=2872s)) Why magnesium is intertwined in genomic stability 
 
@@ -133,7 +133,7 @@ Markdown:
 
 * ([14:28](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=868s)) The effectiveness of epsom salt baths 
 
-  * (see also [01:09:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=4159s)) 
+   * (see also [01:09:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=4159s)) 
 
 * ([14:55](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=895s)) Is magnesium threonate better at crossing the blood-brain barrier? 
 
@@ -143,7 +143,7 @@ Markdown:
 
 * ([23:09](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=1389s)) The effect of stress on magnesium balance 
 
-  * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
+   * See also [Low Magnesium increases stress, and stress decreases Magnesium (Vicious Circle) – Nov 2020](/posts/low-magnesium-increases-stress-and-stress-decreases-magnesium-vicious-circle)
 
 * ([26:53](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=1613s)) Why the energy demands of workouts affect magnesium balance 
 
@@ -163,7 +163,7 @@ Markdown:
 
 * ([40:10](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2410s)) Magnesium&#39;s potential for managing migraines 
 
-  * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
+   * See also [Magnesium and headaches](/posts/cluster-and-migraine-headache-treatment-protocol)
 
 * ([43:19](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2599s)) The role of magnesium in aging 
 
@@ -171,7 +171,7 @@ Markdown:
 
 * ([45:51](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2751s)) Magnesium&#39;s role in cancer prevention 
 
-  * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
+   * See also [Mangesium and Cancer - many studies](/posts/mangesium-and-cancer-many-studies)
 
 * ([47:52](https://www.youtube.com/watch?v=G8FhKbsGhWU&amp;t=2872s)) Why magnesium is intertwined in genomic stability 
 

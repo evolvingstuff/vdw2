@@ -100,7 +100,7 @@ A sustained dietary change may give substantial health gains for people of all a
 
 * [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
-  * [76 minute video describing the book](https://nutritionfacts.org/video/how-not-to-age-live-presentation/)
+   * [76 minute video describing the book](https://nutritionfacts.org/video/how-not-to-age-live-presentation/)
 
 * <a href="/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019">Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019</a>
 
@@ -210,7 +210,7 @@ A sustained dietary change may give substantial health gains for people of all a
 
 * [How Not To Age book (diet, exercise, supplements) Dr. Greger - Dec 2023](/posts/how-not-to-age-book-diet-exercise-supplements-dr-greger)
 
-  * [76 minute video describing the book](https://nutritionfacts.org/video/how-not-to-age-live-presentation/)
+   * [76 minute video describing the book](https://nutritionfacts.org/video/how-not-to-age-live-presentation/)
 
 * &lt;a href=&quot;/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019&quot;&gt;Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019&lt;/a&gt;
 

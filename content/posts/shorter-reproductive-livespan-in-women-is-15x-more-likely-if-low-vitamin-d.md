@@ -48,7 +48,7 @@ The results of this study suggest that vitamin D deficiency and inadequacy might
 
 * <a href="/posts/risk-of-early-menopause-reduced-17-percent-by-a-modest-amount-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of early menopause reduced 17 percent by a modest amount of vitamin D – May 2017">Risk of early menopause reduced 17 percent by a modest amount of vitamin D – May 2017</a>
 
-  * Many of the reasons for early menopause are associated with low vitamin D
+   * Many of the reasons for early menopause are associated with low vitamin D
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -192,7 +192,7 @@ The results of this study suggest that vitamin D deficiency and inadequacy might
 
 * &lt;a href=&quot;/posts/risk-of-early-menopause-reduced-17-percent-by-a-modest-amount-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Risk of early menopause reduced 17 percent by a modest amount of vitamin D – May 2017&quot;&gt;Risk of early menopause reduced 17 percent by a modest amount of vitamin D – May 2017&lt;/a&gt;
 
-  * Many of the reasons for early menopause are associated with low vitamin D
+   * Many of the reasons for early menopause are associated with low vitamin D
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 

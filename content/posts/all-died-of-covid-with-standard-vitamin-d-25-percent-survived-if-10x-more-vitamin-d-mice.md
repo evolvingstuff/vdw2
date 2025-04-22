@@ -26,7 +26,7 @@ Gabriel Campolina-Silva 1 2 3, Ana Cláudia Dos Santos Pereira Andrade 1 2 3, Ma
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<span style="color:orange;">Suspect many more mice would have survived if had used larger doses of Vitamin D and/or loading doses were given (like for humans) </span>** 
+ **<span style="color:#00F;">Suspect many more mice would have survived if had used larger doses of Vitamin D and/or loading doses were given (like for humans) </span>** 
 
 The COVID-19 pandemic caused by the SARS-CoV-2 (β-CoV) betacoronavirus has posed a significant threat to global health. Despite the availability of vaccines, the virus continues to spread, and there is a need for alternative strategies to alleviate its impact. Vitamin D, a secosteroid hormone best known for its role in bone health, exhibits immunomodulatory effects in certain viral infections. Here, we have shown that bioactive vitamin D (calcitriol) limits in vitro replication of SARS-CoV-2 and murine coronaviruses MHV-3 and MHV-A59. Comparative studies involving wild-type mice intranasally infected with MHV-3, a model for studying β-CoV respiratory infections, confirmed the protective effect of vitamin D in vivo. Accordingly, mice fed a standard diet rapidly succumbed to MHV-3 infection, whereas those on a vitamin D-rich diet (10,000 IU of Vitamin D3/kg) displayed increased resistance to acute respiratory damage and systemic complications. Consistent with these findings, the vitamin D-supplemented group exhibited lower viral titers in their lungs and reduced levels of TNF, IL-6, IL-1β, and IFN-γ, alongside an enhanced type I interferon response. Altogether, our findings suggest vitamin D supplementation ameliorates β-CoV-triggered respiratory illness and systemic complications in mice, likely via modulation of the host's immune response to the virus.
 
@@ -38,7 +38,7 @@ The COVID-19 pandemic caused by the SARS-CoV-2 (β-CoV) betacoronavirus has pose
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -61,7 +61,7 @@ Gabriel Campolina-Silva 1 2 3, Ana Cláudia Dos Santos Pereira Andrade 1 2 3, Ma
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Suspect many more mice would have survived if had used larger doses of Vitamin D and/or loading doses were given (like for humans) &lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Suspect many more mice would have survived if had used larger doses of Vitamin D and/or loading doses were given (like for humans) &lt;/span&gt;** 
 
 The COVID-19 pandemic caused by the SARS-CoV-2 (β-CoV) betacoronavirus has posed a significant threat to global health. Despite the availability of vaccines, the virus continues to spread, and there is a need for alternative strategies to alleviate its impact. Vitamin D, a secosteroid hormone best known for its role in bone health, exhibits immunomodulatory effects in certain viral infections. Here, we have shown that bioactive vitamin D (calcitriol) limits in vitro replication of SARS-CoV-2 and murine coronaviruses MHV-3 and MHV-A59. Comparative studies involving wild-type mice intranasally infected with MHV-3, a model for studying β-CoV respiratory infections, confirmed the protective effect of vitamin D in vivo. Accordingly, mice fed a standard diet rapidly succumbed to MHV-3 infection, whereas those on a vitamin D-rich diet (10,000 IU of Vitamin D3/kg) displayed increased resistance to acute respiratory damage and systemic complications. Consistent with these findings, the vitamin D-supplemented group exhibited lower viral titers in their lungs and reduced levels of TNF, IL-6, IL-1β, and IFN-γ, alongside an enhanced type I interferon response. Altogether, our findings suggest vitamin D supplementation ameliorates β-CoV-triggered respiratory illness and systemic complications in mice, likely via modulation of the host&#39;s immune response to the virus.
 
@@ -73,7 +73,7 @@ The COVID-19 pandemic caused by the SARS-CoV-2 (β-CoV) betacoronavirus has pose
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 
 AST Structure:

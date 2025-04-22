@@ -21,7 +21,7 @@ categories:
 
  **Lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine. Evidence for different pathways** 
 
-Biochim Biophys Acta. 1984 May 16;772(2):109-16. [doi: 10.1016/0005-2736](https://doi.org/10.1016/0005-2736)(84)90033-6.
+Biochim Biophys Acta. 1984 May 16;772(2):109-16. [doi: 10.1016/0005-2736(84)90033-6.](https://doi.org/10.1016/0005-2736(84)90033-6.)
 
 R Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon
 
@@ -75,13 +75,13 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 * <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a> 
 
-  * many of them, such as Bio-innovations Pharmacal and Bio-Tech Pharmacal, are water soluable = faster
+   * many of them, such as Bio-innovations Pharmacal and Bio-Tech Pharmacal, are water soluable = faster
 
 * <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>
 
 * Calcidiol = 25-hydroxyvitamin D3 = 25(OH)D = Calcifediol
 
-  * <a href="/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies">Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies</a>
+   * <a href="/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies">Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies</a>
 
  **Suspect: Both sublingual and emulsion forms of the vitamins get into the blood stream much faster** 
 
@@ -131,7 +131,7 @@ Markdown:
 
  **Lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine. Evidence for different pathways** 
 
-Biochim Biophys Acta. 1984 May 16;772(2):109-16. [doi: 10.1016/0005-2736](https://doi.org/10.1016/0005-2736)(84)90033-6.
+Biochim Biophys Acta. 1984 May 16;772(2):109-16. [doi: 10.1016/0005-2736(84)90033-6.](https://doi.org/10.1016/0005-2736(84)90033-6.)
 
 R Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon
 
@@ -185,13 +185,13 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 * &lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt; 
 
-  * many of them, such as Bio-innovations Pharmacal and Bio-Tech Pharmacal, are water soluable = faster
+   * many of them, such as Bio-innovations Pharmacal and Bio-Tech Pharmacal, are water soluable = faster
 
 * &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies&quot;&gt;Nanoemulsion Vitamin D is faster and better - many studies&lt;/a&gt;
 
 * Calcidiol = 25-hydroxyvitamin D3 = 25(OH)D = Calcifediol
 
-  * &lt;a href=&quot;/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies&quot;&gt;Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies&lt;/a&gt;
+   * &lt;a href=&quot;/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies&quot;&gt;Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies&lt;/a&gt;
 
  **Suspect: Both sublingual and emulsion forms of the vitamins get into the blood stream much faster** 
 
@@ -263,10 +263,10 @@ AST Structure:
 │   │   inner_content: `Lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine. Evidence for different pathways`├── TextNode
 │   full_match: `\nBiochim Biophys Acta. 1984 May 16;772(2):109-16. `
 │   inner_content: `\nBiochim Biophys Acta. 1984 May 16;772(2):109-16. `├── DoiLinkNode
-│   full_match: `doi: 10.1016/0005-2736`
-│   inner_content: `10.1016/0005-2736`├── TextNode
-│   full_match: `(84)90033-6.\nR Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon\n\nThe lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine has been studied. When rats were cannulated in the intestinal lymph duct and given an intraduodenal bolus of `
-│   inner_content: `(84)90033-6.\nR Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon\n\nThe lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine has been studied. When rats were cannulated in the intestinal lymph duct and given an intraduodenal bolus of `├── LinkNode
+│   full_match: `doi: 10.1016/0005-2736(84)90033-6.`
+│   inner_content: `10.1016/0005-2736(84)90033-6.`├── TextNode
+│   full_match: `\nR Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon\n\nThe lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine has been studied. When rats were cannulated in the intestinal lymph duct and given an intraduodenal bolus of `
+│   inner_content: `\nR Blomhoff, P Helgerud, S Dueland, T Berg, J I Pedersen, K R Norum, C A Drevon\n\nThe lymphatic absorption and transport of retinol and vitamin D-3 from rat intestine has been studied. When rats were cannulated in the intestinal lymph duct and given an intraduodenal bolus of `├── LinkNode
 │   full_match: `[3H]`
 │   inner_content: `3H`
 │   url: `3H`

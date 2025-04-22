@@ -18,11 +18,11 @@ categories:
 
 [https://doi.org/10.1007/s12011-018-1284-3](https://doi.org/10.1007/s12011-018-1284-3) 
 
-  *  **Table of Contents** 
+   *  **Table of Contents** 
 
-  * <img src="/attachments/d3.mock.jpg" alt="image" width="400">
+   * <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
-  *  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from Sci-Hub via VitaminDWiki ](/attachments/d3.mock.pdf)** 
+   *  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from Sci-Hub via VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
 ---
 
@@ -44,11 +44,11 @@ Markdown:
 
 [https://doi.org/10.1007/s12011-018-1284-3](https://doi.org/10.1007/s12011-018-1284-3) 
 
-  *  **Table of Contents** 
+   *  **Table of Contents** 
 
-  * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+   * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
-  *  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from Sci-Hub via VitaminDWiki ](/attachments/d3.mock.pdf)** 
+   *  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from Sci-Hub via VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
 ---
 

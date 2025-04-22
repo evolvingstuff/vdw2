@@ -26,7 +26,7 @@ categories:
 
 * 5. Melatonin: start at 1 mg and increase to 20-30 mg at night (extended/slow release) 
 
-  * See VitaminDWiki <a href="/posts/melatonin-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melatonin and Vitamin D - many studies">Melatonin and Vitamin D - many studies</a>
+   * See VitaminDWiki <a href="/posts/melatonin-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melatonin and Vitamin D - many studies">Melatonin and Vitamin D - many studies</a>
 
 * 6. Green tea catechins: 500-1,000 mg daily 
 
@@ -34,17 +34,17 @@ categories:
 
 * 8. Curcumin (nanocurcumin): 600 mg daily or as per the manufacturer’s suggested dosing
 
-  * See VitaminDWiki <a href="/posts/curcumin-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin helps many health problems">Curcumin helps many health problems</a>
+   * See VitaminDWiki <a href="/posts/curcumin-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin helps many health problems">Curcumin helps many health problems</a>
 
 * 9. Mebendazole: 100-200 mg daily
 
 * 10. Omega 3 fatty acids: 2-4 g daily 
 
-  * See VitaminDWiki <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>
+   * See VitaminDWiki <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>
 
 * 11. Berberine: A daily dose of 1,000-1,500 mg or 500-600 mg two or three times daily. (Depending on blood glucose levels, metformin and berberine can be used together or alternating months) 
 
-  * See VitaminDWiki [Berberine: an antioxidant that activates the Vitamin D Receptor - many studies](/posts/berberine-an-antioxidant-that-activates-the-vitamin-d-receptor-many-studies)
+   * See VitaminDWiki [Berberine: an antioxidant that activates the Vitamin D Receptor - many studies](/posts/berberine-an-antioxidant-that-activates-the-vitamin-d-receptor-many-studies)
 
 * 12. Atorvastatin: 40 mg twice daily. (Simvastatin 20 mg twice daily is an alternative.) 
 
@@ -102,19 +102,19 @@ Further,  **we suggest measuring PTH (parathyroid) levels**  and calcium levels 
 
 * Quit smoking. 
 
-  * VitaminDWiki - <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> - **"If you must smoke, take Vitamin D"** 
+   * VitaminDWiki - <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> - **"If you must smoke, take Vitamin D"** 
 
 * Reduce or limit the use of alcohol. 
 
-  * VitaminDWiki - <a href="/posts/overview-alcohol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alcohol and Vitamin D">Overview Alcohol and Vitamin D</a>
+   * VitaminDWiki - <a href="/posts/overview-alcohol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alcohol and Vitamin D">Overview Alcohol and Vitamin D</a>
 
 * Lose weight: adopt a healthy diet, manage insulin resistance, and follow a time-restricted eating plan. 
 
-  * VitaminDWiki -[Weight loss and Vitamin D - many studies](/posts/weight-loss-and-vitamin-d-many-studies)
+   * VitaminDWiki -[Weight loss and Vitamin D - many studies](/posts/weight-loss-and-vitamin-d-many-studies)
 
 * Avoid processed food and processed vegetable oils. (164) 
 
-  * (Both reduce Vitamin D)
+   * (Both reduce Vitamin D)
 
 * Avoid sugary beverages and pure fruit juices. (165, 166) 
 
@@ -122,7 +122,7 @@ Further,  **we suggest measuring PTH (parathyroid) levels**  and calcium levels 
 
 * Omega 3 fatty acids: 2-4 g/day. 
 
-  * VitaminDWiki -<a href="/posts/omega-3-prevents-and-treats-several-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 prevents and treats several cancers – Sept 2017">Omega-3 prevents and treats several cancers – Sept 2017</a>
+   * VitaminDWiki -<a href="/posts/omega-3-prevents-and-treats-several-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 prevents and treats several cancers – Sept 2017">Omega-3 prevents and treats several cancers – Sept 2017</a>
 
 * Green tea catechins: 500-1000 mg/day. (158, 167) Green tea extract should be taken during/after a meal, rather than on an empty stomach. (168) See precautions in the section labeled ‘Green Tea’. Melatonin: 0.75–5 mg (extended/slow release) at night. (148, 169) 
 
@@ -198,7 +198,7 @@ Markdown:
 
 * 5. Melatonin: start at 1 mg and increase to 20-30 mg at night (extended/slow release) 
 
-  * See VitaminDWiki &lt;a href=&quot;/posts/melatonin-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Melatonin and Vitamin D - many studies&quot;&gt;Melatonin and Vitamin D - many studies&lt;/a&gt;
+   * See VitaminDWiki &lt;a href=&quot;/posts/melatonin-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Melatonin and Vitamin D - many studies&quot;&gt;Melatonin and Vitamin D - many studies&lt;/a&gt;
 
 * 6. Green tea catechins: 500-1,000 mg daily 
 
@@ -206,17 +206,17 @@ Markdown:
 
 * 8. Curcumin (nanocurcumin): 600 mg daily or as per the manufacturer’s suggested dosing
 
-  * See VitaminDWiki &lt;a href=&quot;/posts/curcumin-helps-many-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin helps many health problems&quot;&gt;Curcumin helps many health problems&lt;/a&gt;
+   * See VitaminDWiki &lt;a href=&quot;/posts/curcumin-helps-many-health-problems&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin helps many health problems&quot;&gt;Curcumin helps many health problems&lt;/a&gt;
 
 * 9. Mebendazole: 100-200 mg daily
 
 * 10. Omega 3 fatty acids: 2-4 g daily 
 
-  * See VitaminDWiki &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;
+   * See VitaminDWiki &lt;a href=&quot;/posts/overview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;
 
 * 11. Berberine: A daily dose of 1,000-1,500 mg or 500-600 mg two or three times daily. (Depending on blood glucose levels, metformin and berberine can be used together or alternating months) 
 
-  * See VitaminDWiki [Berberine: an antioxidant that activates the Vitamin D Receptor - many studies](/posts/berberine-an-antioxidant-that-activates-the-vitamin-d-receptor-many-studies)
+   * See VitaminDWiki [Berberine: an antioxidant that activates the Vitamin D Receptor - many studies](/posts/berberine-an-antioxidant-that-activates-the-vitamin-d-receptor-many-studies)
 
 * 12. Atorvastatin: 40 mg twice daily. (Simvastatin 20 mg twice daily is an alternative.) 
 
@@ -274,19 +274,19 @@ Further,  **we suggest measuring PTH (parathyroid) levels**  and calcium levels 
 
 * Quit smoking. 
 
-  * VitaminDWiki - &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Smoking reduces vitamin D - many studies&lt;/a&gt; - **&quot;If you must smoke, take Vitamin D&quot;** 
+   * VitaminDWiki - &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Smoking reduces vitamin D - many studies&lt;/a&gt; - **&quot;If you must smoke, take Vitamin D&quot;** 
 
 * Reduce or limit the use of alcohol. 
 
-  * VitaminDWiki - &lt;a href=&quot;/posts/overview-alcohol-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alcohol and Vitamin D&quot;&gt;Overview Alcohol and Vitamin D&lt;/a&gt;
+   * VitaminDWiki - &lt;a href=&quot;/posts/overview-alcohol-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Alcohol and Vitamin D&quot;&gt;Overview Alcohol and Vitamin D&lt;/a&gt;
 
 * Lose weight: adopt a healthy diet, manage insulin resistance, and follow a time-restricted eating plan. 
 
-  * VitaminDWiki -[Weight loss and Vitamin D - many studies](/posts/weight-loss-and-vitamin-d-many-studies)
+   * VitaminDWiki -[Weight loss and Vitamin D - many studies](/posts/weight-loss-and-vitamin-d-many-studies)
 
 * Avoid processed food and processed vegetable oils. (164) 
 
-  * (Both reduce Vitamin D)
+   * (Both reduce Vitamin D)
 
 * Avoid sugary beverages and pure fruit juices. (165, 166) 
 
@@ -294,7 +294,7 @@ Further,  **we suggest measuring PTH (parathyroid) levels**  and calcium levels 
 
 * Omega 3 fatty acids: 2-4 g/day. 
 
-  * VitaminDWiki -&lt;a href=&quot;/posts/omega-3-prevents-and-treats-several-cancers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 prevents and treats several cancers – Sept 2017&quot;&gt;Omega-3 prevents and treats several cancers – Sept 2017&lt;/a&gt;
+   * VitaminDWiki -&lt;a href=&quot;/posts/omega-3-prevents-and-treats-several-cancers&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 prevents and treats several cancers – Sept 2017&quot;&gt;Omega-3 prevents and treats several cancers – Sept 2017&lt;/a&gt;
 
 * Green tea catechins: 500-1000 mg/day. (158, 167) Green tea extract should be taken during/after a meal, rather than on an empty stomach. (168) See precautions in the section labeled ‘Green Tea’. Melatonin: 0.75–5 mg (extended/slow release) at night. (148, 169) 
 

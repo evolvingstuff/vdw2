@@ -128,17 +128,17 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 1. Narang NC, Sharma J, Baba S. Sublingual mucosa as a route for systemic drug delivery. JPharmacol Pharmacother. (2011) 3:118-26.
 
-1. Hahn TJ, Squires AE, Halstead LR, Strominger DB. Reduced serum 25- hydroxy **vitamin**  D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. [doi: 10.1016/S0022-3476](https://doi.org/10.1016/S0022-3476)(79) 80346-7
+1. Hahn TJ, Squires AE, Halstead LR, Strominger DB. Reduced serum 25- hydroxy **vitamin**  D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. [doi: 10.1016/S0022-3476(79)](https://doi.org/10.1016/S0022-3476(79)) 80346-7
 
-1. Driscoll RH, Meredith SC, Sitrin M, Rosenberg IH.  **vitamin**  D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. [doi: 10.1016/S0016-5085](https://doi.org/10.1016/S0016-5085)(82)80135-2
+1. Driscoll RH, Meredith SC, Sitrin M, Rosenberg IH.  **vitamin**  D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. [doi: 10.1016/S0016-5085(82)80135-2](https://doi.org/10.1016/S0016-5085(82)80135-2)
 
-1. Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. [doi: 10.1016/S0140-6736](https://doi.org/10.1016/S0140-6736)(78) 90358-6
+1. Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. [doi: 10.1016/S0140-6736(78)](https://doi.org/10.1016/S0140-6736(78)) 90358-6
 
-1. Markestad T, Aksnes L, Finne PH, Aarskog D. Decreased  **vitamin**  D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. [doi: 10.1016/S0022-3476](https://doi.org/10.1016/S0022-3476)(82)80031-0
+1. Markestad T, Aksnes L, Finne PH, Aarskog D. Decreased  **vitamin**  D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. [doi: 10.1016/S0022-3476(82)80031-0](https://doi.org/10.1016/S0022-3476(82)80031-0)
 
 1. Danielsson A, Lorentzon R, Larsson SE. Intestinal absorption and 25- hydroxylation of  **vitamin**  D in patients with primary biliary cirrhosis. Scand J Gastroenterol. (1982) 17:349-55. [doi: 10.3109/00365528209182066](https://doi.org/10.3109/00365528209182066)
 
-1. Matloff DS, Kaplan MM, Neer RM, Goldberg MJ, Bitman W, Wolfe HJ. Osteoporosis in primary biliary cirrhosis: effects of 25-hydroxy **vitamin**  D3 treatment. Gastroenterology. (1982) 83:97-102. [doi: 10.1016/S0016-5085](https://doi.org/10.1016/S0016-5085)(82)80291-6
+1. Matloff DS, Kaplan MM, Neer RM, Goldberg MJ, Bitman W, Wolfe HJ. Osteoporosis in primary biliary cirrhosis: effects of 25-hydroxy **vitamin**  D3 treatment. Gastroenterology. (1982) 83:97-102. [doi: 10.1016/S0016-5085(82)80291-6](https://doi.org/10.1016/S0016-5085(82)80291-6)
 
 1. Caprio M, Infante M, Calanchini M, Mammi C, Fabbri A.  **vitamin**  D: not just the bone. Evidence for beneficial pleiotropic extraskeletal effects Eating and Weight Disorders-Studies on Anorexia. Bulimia Obesity. (2017) 22:27­41. [doi: 10.1007/s40519-016-0312-6](https://doi.org/10.1007/s40519-016-0312-6)
 
@@ -158,7 +158,7 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 * <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">Nanoemulsion Vitamin D may be a substantially better form</a>  has the following comparison
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+> 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -282,17 +282,17 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 1. Narang NC, Sharma J, Baba S. Sublingual mucosa as a route for systemic drug delivery. JPharmacol Pharmacother. (2011) 3:118-26.
 
-1. Hahn TJ, Squires AE, Halstead LR, Strominger DB. Reduced serum 25- hydroxy **vitamin**  D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. [doi: 10.1016/S0022-3476](https://doi.org/10.1016/S0022-3476)(79) 80346-7
+1. Hahn TJ, Squires AE, Halstead LR, Strominger DB. Reduced serum 25- hydroxy **vitamin**  D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. [doi: 10.1016/S0022-3476(79)](https://doi.org/10.1016/S0022-3476(79)) 80346-7
 
-1. Driscoll RH, Meredith SC, Sitrin M, Rosenberg IH.  **vitamin**  D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. [doi: 10.1016/S0016-5085](https://doi.org/10.1016/S0016-5085)(82)80135-2
+1. Driscoll RH, Meredith SC, Sitrin M, Rosenberg IH.  **vitamin**  D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. [doi: 10.1016/S0016-5085(82)80135-2](https://doi.org/10.1016/S0016-5085(82)80135-2)
 
-1. Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. [doi: 10.1016/S0140-6736](https://doi.org/10.1016/S0140-6736)(78) 90358-6
+1. Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. [doi: 10.1016/S0140-6736(78)](https://doi.org/10.1016/S0140-6736(78)) 90358-6
 
-1. Markestad T, Aksnes L, Finne PH, Aarskog D. Decreased  **vitamin**  D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. [doi: 10.1016/S0022-3476](https://doi.org/10.1016/S0022-3476)(82)80031-0
+1. Markestad T, Aksnes L, Finne PH, Aarskog D. Decreased  **vitamin**  D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. [doi: 10.1016/S0022-3476(82)80031-0](https://doi.org/10.1016/S0022-3476(82)80031-0)
 
 1. Danielsson A, Lorentzon R, Larsson SE. Intestinal absorption and 25- hydroxylation of  **vitamin**  D in patients with primary biliary cirrhosis. Scand J Gastroenterol. (1982) 17:349-55. [doi: 10.3109/00365528209182066](https://doi.org/10.3109/00365528209182066)
 
-1. Matloff DS, Kaplan MM, Neer RM, Goldberg MJ, Bitman W, Wolfe HJ. Osteoporosis in primary biliary cirrhosis: effects of 25-hydroxy **vitamin**  D3 treatment. Gastroenterology. (1982) 83:97-102. [doi: 10.1016/S0016-5085](https://doi.org/10.1016/S0016-5085)(82)80291-6
+1. Matloff DS, Kaplan MM, Neer RM, Goldberg MJ, Bitman W, Wolfe HJ. Osteoporosis in primary biliary cirrhosis: effects of 25-hydroxy **vitamin**  D3 treatment. Gastroenterology. (1982) 83:97-102. [doi: 10.1016/S0016-5085(82)80291-6](https://doi.org/10.1016/S0016-5085(82)80291-6)
 
 1. Caprio M, Infante M, Calanchini M, Mammi C, Fabbri A.  **vitamin**  D: not just the bone. Evidence for beneficial pleiotropic extraskeletal effects Eating and Weight Disorders-Studies on Anorexia. Bulimia Obesity. (2017) 22:27­41. [doi: 10.1007/s40519-016-0312-6](https://doi.org/10.1007/s40519-016-0312-6)
 
@@ -312,7 +312,7 @@ Clinical trial registration: clinicaltrials.gov, identifier: NCT05706259.
 
 * &lt;a href=&quot;/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form&quot;&gt;Nanoemulsion Vitamin D may be a substantially better form&lt;/a&gt;  has the following comparison
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&gt; 
 
 AST Structure:
 -------------
@@ -1273,11 +1273,11 @@ AST Structure:
 │   │   full_match: ` D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. `
 │   │   inner_content: ` D concentration and disordered mineral metabolism in patients with cystic fibrosis. J Pediatr. (1979) 94:38-42. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S0022-3476`
-│   │   inner_content: `10.1016/S0022-3476`
+│   │   full_match: `doi: 10.1016/S0022-3476(79)`
+│   │   inner_content: `10.1016/S0022-3476(79)`
 │   ├── TextNode
-│   │   full_match: `(79) 80346-7`
-│   │   inner_content: `(79) 80346-7`├── TextNode
+│   │   full_match: ` 80346-7`
+│   │   inner_content: ` 80346-7`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Driscoll RH, Meredith SC, Sitrin M, Rosenberg IH. __vitamin__ D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. doi: 10.1016/S0016-5085(82)80135-2`
@@ -1298,11 +1298,8 @@ AST Structure:
 │   │   full_match: ` D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. `
 │   │   inner_content: ` D deficiency and bone disease in patients with Crohn’s disease. Gastroenterology. (1982) 83:1252­8. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S0016-5085`
-│   │   inner_content: `10.1016/S0016-5085`
-│   ├── TextNode
-│   │   full_match: `(82)80135-2`
-│   │   inner_content: `(82)80135-2`├── TextNode
+│   │   full_match: `doi: 10.1016/S0016-5085(82)80135-2`
+│   │   inner_content: `10.1016/S0016-5085(82)80135-2`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. doi: 10.1016/S0140-6736(78) 90358-6`
@@ -1313,11 +1310,11 @@ AST Structure:
 │   │   full_match: `Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. `
 │   │   inner_content: `Compston JE, Ayers AB, Horton LW, Tighe JR, Creamer B. Osteomalacia after small-intestinal resection. Lancet. (1978) 1:9-12. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S0140-6736`
-│   │   inner_content: `10.1016/S0140-6736`
+│   │   full_match: `doi: 10.1016/S0140-6736(78)`
+│   │   inner_content: `10.1016/S0140-6736(78)`
 │   ├── TextNode
-│   │   full_match: `(78) 90358-6`
-│   │   inner_content: `(78) 90358-6`├── TextNode
+│   │   full_match: ` 90358-6`
+│   │   inner_content: ` 90358-6`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Markestad T, Aksnes L, Finne PH, Aarskog D. Decreased __vitamin__ D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. doi: 10.1016/S0022-3476(82)80031-0`
@@ -1338,11 +1335,8 @@ AST Structure:
 │   │   full_match: ` D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. `
 │   │   inner_content: ` D absorption after limited jejunal resection in a premature infant. J Pediatr. (1982) 101:1001­8. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S0022-3476`
-│   │   inner_content: `10.1016/S0022-3476`
-│   ├── TextNode
-│   │   full_match: `(82)80031-0`
-│   │   inner_content: `(82)80031-0`├── TextNode
+│   │   full_match: `doi: 10.1016/S0022-3476(82)80031-0`
+│   │   inner_content: `10.1016/S0022-3476(82)80031-0`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Danielsson A, Lorentzon R, Larsson SE. Intestinal absorption and 25- hydroxylation of __vitamin__ D in patients with primary biliary cirrhosis. Scand J Gastroenterol. (1982) 17:349-55. doi: 10.3109/00365528209182066`
@@ -1385,11 +1379,8 @@ AST Structure:
 │   │   full_match: ` D3 treatment. Gastroenterology. (1982) 83:97-102. `
 │   │   inner_content: ` D3 treatment. Gastroenterology. (1982) 83:97-102. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S0016-5085`
-│   │   inner_content: `10.1016/S0016-5085`
-│   ├── TextNode
-│   │   full_match: `(82)80291-6`
-│   │   inner_content: `(82)80291-6`├── TextNode
+│   │   full_match: `doi: 10.1016/S0016-5085(82)80291-6`
+│   │   inner_content: `10.1016/S0016-5085(82)80291-6`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Caprio M, Infante M, Calanchini M, Mammi C, Fabbri A. __vitamin__ D: not just the bone. Evidence for beneficial pleiotropic extraskeletal effects Eating and Weight Disorders-Studies on Anorexia. Bulimia Obesity. (2017) 22:27­41. doi: 10.1007/s40519-016-0312-6`

@@ -21,11 +21,11 @@ Eur J Neurol . 2023 May 14. [doi: 10.1111/ene.15866](https://doi.org/10.1111/ene
 
 Sunny Malhotra # 1, Luciana Midaglia # 1, Omar Chuquisana 2, Nikolaos A Patsopoulos 3 4 5, Roser Ferrer 6, Marina Giralt 6, Nicolas Fissolo 1, Elia Gil-Varea 1, Juan Carlos Triviño 7, Jan D Lünemann 2, Xavier Montalban 1, Manuel Comabella 1
 
-#####  <span style="color:orange;">1,25(OH)2 D levels much lower in those with poor CPY24A1</span>
+##### <span style="color:#00F;">1,25(OH)2 D levels much lower in those with poor CPY24A1</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
- **<span style="color:orange;">This decrease would not be noticed by a standard Vitamin D test</span>** 
+ **<span style="color:#00F;">This decrease would not be noticed by a standard Vitamin D test</span>** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="1000">
 
@@ -61,11 +61,11 @@ Eur J Neurol . 2023 May 14. [doi: 10.1111/ene.15866](https://doi.org/10.1111/ene
 
 Sunny Malhotra # 1, Luciana Midaglia # 1, Omar Chuquisana 2, Nikolaos A Patsopoulos 3 4 5, Roser Ferrer 6, Marina Giralt 6, Nicolas Fissolo 1, Elia Gil-Varea 1, Juan Carlos Triviño 7, Jan D Lünemann 2, Xavier Montalban 1, Manuel Comabella 1
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;1,25(OH)2 D levels much lower in those with poor CPY24A1&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;1,25(OH)2 D levels much lower in those with poor CPY24A1&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;This decrease would not be noticed by a standard Vitamin D test&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;This decrease would not be noticed by a standard Vitamin D test&lt;/span&gt;** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;1000&quot;&gt;
 

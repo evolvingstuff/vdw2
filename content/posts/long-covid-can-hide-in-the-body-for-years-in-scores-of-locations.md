@@ -36,15 +36,15 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Which PASC cell and tissue types harbor SARS-CoV-2 RNA or protein? 
 
-  * Is there a preference for persistence in certain cell or tissue types?
+   * Is there a preference for persistence in certain cell or tissue types?
 
 * Is SARS-CoV-2 RNA identified in PASC samples transcriptionally active, translating, replicating or infectious?
 
 * Is the presence of a SARS-CoV-2 reservoir sufficient to drive PASC symptoms? 
 
-  * Are SARS-CoV-2 RNA and proteins also identified in samples collected from post-COVID-19 individuals without PASC? 
+   * Are SARS-CoV-2 RNA and proteins also identified in samples collected from post-COVID-19 individuals without PASC? 
 
-  * If yes, what factors differentiate SARS-CoV-2 persistence in PASC from persistence in asymptomatic individuals?
+   * If yes, what factors differentiate SARS-CoV-2 persistence in PASC from persistence in asymptomatic individuals?
 
 * Do particular classes of symptoms tend to be driven by the location of the reservoir—for example, dyspnea from a lung reservoir or gastrointestinal symptoms from a gut reservoir?
 
@@ -58,9 +58,9 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * By what mechanisms can SARS-CoV-2 evade immune detection? 
 
-  * Do such mechanisms differ by cell or tissue type, or by viral variant? 
+   * Do such mechanisms differ by cell or tissue type, or by viral variant? 
 
-  * Do viral mutations and selection contribute to persistence?
+   * Do viral mutations and selection contribute to persistence?
 
 * Can the spike protein travel via EVs into the bloodstream?
 
@@ -74,11 +74,11 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Does a SARS-CoV-2 reservoir in PASC correlate with the disruption of microbiome composition or activity?
 
-  * If so, is disruption a cause or consequence of PASC?
+   * If so, is disruption a cause or consequence of PASC?
 
 * Is a SARS-CoV-2 reservoir associated with host epithelial barrier breakdown in PASC? 
 
-  * Does this facilitate the translocation viral protein or bacterial/fungal organisms into blood?
+   * Does this facilitate the translocation viral protein or bacterial/fungal organisms into blood?
 
 * Can SARS-CoV-2 persistence or the reactivation of other latent pathogens lead to cross-reactive antibody responses in PASC blood or tissue?
 
@@ -130,15 +130,15 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Which PASC cell and tissue types harbor SARS-CoV-2 RNA or protein? 
 
-  * Is there a preference for persistence in certain cell or tissue types?
+   * Is there a preference for persistence in certain cell or tissue types?
 
 * Is SARS-CoV-2 RNA identified in PASC samples transcriptionally active, translating, replicating or infectious?
 
 * Is the presence of a SARS-CoV-2 reservoir sufficient to drive PASC symptoms? 
 
-  * Are SARS-CoV-2 RNA and proteins also identified in samples collected from post-COVID-19 individuals without PASC? 
+   * Are SARS-CoV-2 RNA and proteins also identified in samples collected from post-COVID-19 individuals without PASC? 
 
-  * If yes, what factors differentiate SARS-CoV-2 persistence in PASC from persistence in asymptomatic individuals?
+   * If yes, what factors differentiate SARS-CoV-2 persistence in PASC from persistence in asymptomatic individuals?
 
 * Do particular classes of symptoms tend to be driven by the location of the reservoir—for example, dyspnea from a lung reservoir or gastrointestinal symptoms from a gut reservoir?
 
@@ -152,9 +152,9 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * By what mechanisms can SARS-CoV-2 evade immune detection? 
 
-  * Do such mechanisms differ by cell or tissue type, or by viral variant? 
+   * Do such mechanisms differ by cell or tissue type, or by viral variant? 
 
-  * Do viral mutations and selection contribute to persistence?
+   * Do viral mutations and selection contribute to persistence?
 
 * Can the spike protein travel via EVs into the bloodstream?
 
@@ -168,11 +168,11 @@ Millions of people are suffering from Long COVID or post-acute sequelae of COVID
 
 * Does a SARS-CoV-2 reservoir in PASC correlate with the disruption of microbiome composition or activity?
 
-  * If so, is disruption a cause or consequence of PASC?
+   * If so, is disruption a cause or consequence of PASC?
 
 * Is a SARS-CoV-2 reservoir associated with host epithelial barrier breakdown in PASC? 
 
-  * Does this facilitate the translocation viral protein or bacterial/fungal organisms into blood?
+   * Does this facilitate the translocation viral protein or bacterial/fungal organisms into blood?
 
 * Can SARS-CoV-2 persistence or the reactivation of other latent pathogens lead to cross-reactive antibody responses in PASC blood or tissue?
 

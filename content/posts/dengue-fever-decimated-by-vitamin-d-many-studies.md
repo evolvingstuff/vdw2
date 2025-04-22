@@ -184,7 +184,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### VitaminDWiki - <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011">Vitamin D inhibits enveloped virus - Corona, Dengue, etc - 2011</a>
 
- **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope%20) &nbsp;  <span style="color:orange;">Coronavirus</span>, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A & B & C, Zika, HIV,  <span style="color:orange;">Dengue,</span> Yellow fever, Measles, Mumps, smallpox,   <span style="color:orange;">monkeypox</span>, ebola,  rabies, influenza A & B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
+ **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope%20) &nbsp; <span style="color:#00F;">Coronavirus</span>, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A & B & C, Zika, HIV, <span style="color:#00F;">Dengue,</span> Yellow fever, Measles, Mumps, smallpox,  <span style="color:#00F;">monkeypox</span>, ebola,  rabies, influenza A & B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
 
 ---
 
@@ -426,7 +426,7 @@ Dengue, caused by dengue virus (DENV) infection, is a public health problem worl
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011&quot;&gt;Vitamin D inhibits enveloped virus - Corona, Dengue, etc - 2011&lt;/a&gt;
 
- **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope%20) &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Coronavirus&lt;/span&gt;, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A &amp; B &amp; C, Zika, HIV,  &lt;span style=&quot;color:orange;&quot;&gt;Dengue,&lt;/span&gt; Yellow fever, Measles, Mumps, smallpox,   &lt;span style=&quot;color:orange;&quot;&gt;monkeypox&lt;/span&gt;, ebola,  rabies, influenza A &amp; B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
+ **[Examples of enveloped virus](http://en.wikipedia.org/wiki/Viral_envelope%20) &amp;nbsp; &lt;span style=&quot;color:#00F;&quot;&gt;Coronavirus&lt;/span&gt;, Herpes simplex (cold sore), Shingles, Epstein-Barr, Hepatitis A &amp; B &amp; C, Zika, HIV, &lt;span style=&quot;color:#00F;&quot;&gt;Dengue,&lt;/span&gt; Yellow fever, Measles, Mumps, smallpox,  &lt;span style=&quot;color:#00F;&quot;&gt;monkeypox&lt;/span&gt;, ebola,  rabies, influenza A &amp; B, West Nile, Valley Fever, Croup, Lasa Fever, Hemorrhagic Fever, H5N1 bird flu** 
 
 ---
 

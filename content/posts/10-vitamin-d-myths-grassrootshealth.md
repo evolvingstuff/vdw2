@@ -105,7 +105,7 @@ Is this true? Most definitely not… everyone responds differently to sun and
 
 ---
 
-###  <span style="color:orange;">9+</span> pages of MYTHS in VitaminDWiki
+### <span style="color:#F00;">9+</span> pages of MYTHS in VitaminDWiki
 
 <!-- {LIST()}
 {list max="150"}
@@ -223,7 +223,7 @@ Is this true? Most definitely not… everyone responds differently to sun and
 
 ---
 
-###  &lt;span style=&quot;color:orange;&quot;&gt;9+&lt;/span&gt; pages of MYTHS in VitaminDWiki
+### &lt;span style=&quot;color:#F00;&quot;&gt;9+&lt;/span&gt; pages of MYTHS in VitaminDWiki
 
 &lt;!-- {LIST()}
 {list max=&quot;150&quot;}

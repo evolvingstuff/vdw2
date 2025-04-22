@@ -42,7 +42,7 @@ Conclusion: High dose pre-operative vitamin D supplementation is associated with
 
 * <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>
 
-  * 3 bottles would have providing a loading dose for 50 people
+   * 3 bottles would have providing a loading dose for 50 people
 
 ---
 
@@ -84,7 +84,7 @@ Conclusion: High dose pre-operative vitamin D supplementation is associated with
 
 * &lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;
 
-  * 3 bottles would have providing a loading dose for 50 people
+   * 3 bottles would have providing a loading dose for 50 people
 
 ---
 

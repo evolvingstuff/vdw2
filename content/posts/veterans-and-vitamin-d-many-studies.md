@@ -28,7 +28,7 @@ categories:
 
 * <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
 
-  * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
+   * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -53,7 +53,7 @@ Markdown:
 
 * &lt;a href=&quot;/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012&quot;&gt;VA showed increased vitamin D associated with lower health costs - Lancet May 2012&lt;/a&gt;
 
-  * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+   * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
 
 AST Structure:

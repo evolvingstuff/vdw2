@@ -184,21 +184,21 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 * [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8&ab_channel=Dr.ElliePhillips) Dec 2023
 
-  * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=0s) Introduction
+   * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=0s) Introduction
 
-  * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=32s) What forms a cavity?
+   * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=32s) What forms a cavity?
 
-  * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=88s) beginning of a cavity
+   * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=88s) beginning of a cavity
 
-  * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=261s) Progression of a cavity
+   * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=261s) Progression of a cavity
 
-  * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=419s) How to stop a cavity when it starts
+   * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=419s) How to stop a cavity when it starts
 
-  * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=728s) Reverse a cavity if it has progressed farther
+   * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&t=728s) Reverse a cavity if it has progressed farther
 
 * [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch?v=l0GoCGR0Uas&ab_channel=JREClips)  6 minutes - 2020
 
-  * Comment by a viewer:" Xylitol-gum was invented in Finland in the 70's, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating."
+   * Comment by a viewer:" Xylitol-gum was invented in Finland in the 70's, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating."
 
 ---
 
@@ -382,21 +382,21 @@ Habitual xylitol gum chewing appears to show plaque-reducing effects that differ
 
 * [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;ab_channel=Dr.ElliePhillips) Dec 2023
 
-  * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=0s) Introduction
+   * [00:00](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=0s) Introduction
 
-  * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=32s) What forms a cavity?
+   * [00:32](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=32s) What forms a cavity?
 
-  * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=88s) beginning of a cavity
+   * [01:28](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=88s) beginning of a cavity
 
-  * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=261s) Progression of a cavity
+   * [04:21](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=261s) Progression of a cavity
 
-  * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=419s) How to stop a cavity when it starts
+   * [06:59](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=419s) How to stop a cavity when it starts
 
-  * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=728s) Reverse a cavity if it has progressed farther
+   * [2:08](https://www.youtube.com/watch?v=4wlRM-YgRQ8&amp;t=728s) Reverse a cavity if it has progressed farther
 
 * [Rhonda Patrick Raves About the Benefits of Xylitol Gum](https://www.youtube.com/watch?v=l0GoCGR0Uas&amp;ab_channel=JREClips)  6 minutes - 2020
 
-  * Comment by a viewer:&quot; Xylitol-gum was invented in Finland in the 70&#39;s, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating.&quot;
+   * Comment by a viewer:&quot; Xylitol-gum was invented in Finland in the 70&#39;s, after discovering that it prevents cavities. Everyone chews it here, since childhood we are recommended to chew xylitol after eating.&quot;
 
 ---
 

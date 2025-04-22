@@ -50,7 +50,7 @@ TREATMENT OF VITAMIN D DEFICIENCY
 
 Vitamin D supplements
 
-Dosing **<span style="color:orange;">(incorrectly considers >20 ng to be enough)</span>** 
+Dosing **<span style="color:#00F;">(incorrectly considers >20 ng to be enough)</span>** 
 
 Do I need other vitamins or minerals?
 
@@ -162,7 +162,7 @@ TREATMENT OF VITAMIN D DEFICIENCY
 
 Vitamin D supplements
 
-Dosing **&lt;span style=&quot;color:orange;&quot;&gt;(incorrectly considers &gt;20 ng to be enough)&lt;/span&gt;** 
+Dosing **&lt;span style=&quot;color:#00F;&quot;&gt;(incorrectly considers &gt;20 ng to be enough)&lt;/span&gt;** 
 
 Do I need other vitamins or minerals?
 

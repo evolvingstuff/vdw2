@@ -36,7 +36,7 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 
 * <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
 
-  * They stay out of the sun so much in the summer that they get common cold and flu then
+   * They stay out of the sun so much in the summer that they get common cold and flu then
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -69,7 +69,7 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 
 * &lt;a href=&quot;/posts/overview-middle-east-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Middle East and vitamin D&quot;&gt;Overview Middle East and vitamin D&lt;/a&gt;
 
-  * They stay out of the sun so much in the summer that they get common cold and flu then
+   * They stay out of the sun so much in the summer that they get common cold and flu then
 
 
 AST Structure:

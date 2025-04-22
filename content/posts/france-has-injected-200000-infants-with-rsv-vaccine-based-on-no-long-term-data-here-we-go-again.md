@@ -26,7 +26,7 @@ categories:
 
 * "... ~200,000 babies in France who have been injected since September 15, 2023."
 
-  * Note: only a fraction of whom were newborns
+   * Note: only a fraction of whom were newborns
 
 * "In France, according to Banoun, Sanofi is directly financially incentivizing hospitals and midwives to give the injection. Corruption is wide open. Banoun, while calling for EMA investigation of the deaths, is being heavily censored including complete shadow-bans and inability to stream videos from her home computer IP address over her internet provider Orange Internet"
 
@@ -91,7 +91,7 @@ Markdown:
 
 * &quot;... ~200,000 babies in France who have been injected since September 15, 2023.&quot;
 
-  * Note: only a fraction of whom were newborns
+   * Note: only a fraction of whom were newborns
 
 * &quot;In France, according to Banoun, Sanofi is directly financially incentivizing hospitals and midwives to give the injection. Corruption is wide open. Banoun, while calling for EMA investigation of the deaths, is being heavily censored including complete shadow-bans and inability to stream videos from her home computer IP address over her internet provider Orange Internet&quot;
 

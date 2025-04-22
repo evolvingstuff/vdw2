@@ -22,7 +22,7 @@ date: 2023-03-27
 
 * "American  **children are less likely to live to age 5**  than children in other high-income countries," the authors write on the second page. It goes on: "Even Americans with healthy behaviors, 
 
-  * for example, those who are not obese or do not smoke, appear to have higher disease rates than their peers in other countries."
+   * for example, those who are not obese or do not smoke, appear to have higher disease rates than their peers in other countries."
 
 * ""If you add up the excess deaths that have occurred in the United States because of this unfolding problem, it dwarfs what happened during COVID-19,..."
 
@@ -84,7 +84,7 @@ Markdown:
 
 * &quot;American  **children are less likely to live to age 5**  than children in other high-income countries,&quot; the authors write on the second page. It goes on: &quot;Even Americans with healthy behaviors, 
 
-  * for example, those who are not obese or do not smoke, appear to have higher disease rates than their peers in other countries.&quot;
+   * for example, those who are not obese or do not smoke, appear to have higher disease rates than their peers in other countries.&quot;
 
 * &quot;&quot;If you add up the excess deaths that have occurred in the United States because of this unfolding problem, it dwarfs what happened during COVID-19,...&quot;
 

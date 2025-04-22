@@ -36,7 +36,7 @@ January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/
 
 1. Serum Vitamin D Levels at Different Stages of Acne Vulgaris Patients Treated with Isotretinoin: A Prospective Study - 2021 DOI: 10.2174/1874372202115010011
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+> <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
 1. Prospective study of the effects of isotretinoin and vitamin D levels on severe acne vulgaris - 2023 [https://doi.org/10.1111/jocd.14996](https://doi.org/10.1111/jocd.14996)  FREE PDF
 
@@ -76,7 +76,7 @@ January 25, 2024 [https://doi.org/10.1371/journal.pmed.1004339](https://doi.org/
 
 1. Serum Vitamin D Levels at Different Stages of Acne Vulgaris Patients Treated with Isotretinoin: A Prospective Study - 2021 DOI: 10.2174/1874372202115010011
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
 1. Prospective study of the effects of isotretinoin and vitamin D levels on severe acne vulgaris - 2023 [https://doi.org/10.1111/jocd.14996](https://doi.org/10.1111/jocd.14996)  FREE PDF
 

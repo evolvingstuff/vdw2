@@ -89,7 +89,7 @@ click on image for details
 
  **He notes: Exercise ==> Longevity ==> Happiness** 
 
- **<span style="color:orange;">Not:</span> Happiness ==> Longevity** 
+ **<span style="color:#F00;">Not:</span> Happiness ==> Longevity** 
 
  **Many of the books discuss the problems of too much protein (Keto diet)** 
 
@@ -191,7 +191,7 @@ click on image for details
 
  **He notes: Exercise ==&gt; Longevity ==&gt; Happiness** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Not:&lt;/span&gt; Happiness ==&gt; Longevity** 
+ **&lt;span style=&quot;color:#F00;&quot;&gt;Not:&lt;/span&gt; Happiness ==&gt; Longevity** 
 
  **Many of the books discuss the problems of too much protein (Keto diet)** 
 

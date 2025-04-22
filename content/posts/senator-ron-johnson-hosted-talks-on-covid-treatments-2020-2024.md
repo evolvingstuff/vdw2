@@ -48,7 +48,7 @@ Lastly, for those who prefer to read, a transcript of Johnson’s symposium can 
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) ~/tc~ -->
 
@@ -94,7 +94,7 @@ Lastly, for those who prefer to read, a transcript of Johnson’s symposium can 
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(Senator Ron Johnson has been hosting talks on COVID alternatives 2020 - 2024)) ~/tc~ --&gt;
 

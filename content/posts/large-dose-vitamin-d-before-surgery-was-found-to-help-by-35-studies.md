@@ -14,7 +14,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)</span>** 
+ **<span style="color:#00F;">This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)</span>** 
 
 ---
 
@@ -101,7 +101,7 @@ This study did not receive any grants and funding. The authors declare that they
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;This small study would probably have gotten statistically significant results if they have given the 300,000 IU of Vitamin D 3 days BEFORE the surgery. It takes several days for oral vitamin D to get to the cells (injection is slower, nanoemulsion is faster)&lt;/span&gt;** 
 
 ---
 

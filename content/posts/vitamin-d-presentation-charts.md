@@ -191,15 +191,15 @@ Note Humans and animals have evolved to go for days with many nutrients
 
  **&nbsp; &nbsp; Otherwise muscle pain, itchy skin, constipation, etc.** 
 
- **&nbsp; &nbsp; &nbsp; &nbsp;  <span style="color:orange;">Solution:</span> Take Magesium daily** 
+ **&nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#F00;">Solution:</span> Take Magesium daily** 
 
  **2) Excess Calcium can result in invisible hardening of the arteries** 
 
- **&nbsp; &nbsp;  <span style="color:orange;">Solution 1:</span>  Take Vitamin K2** 
+ **&nbsp; &nbsp; <span style="color:#F00;">Solution 1:</span>  Take Vitamin K2** 
 
- **&nbsp; &nbsp;  <span style="color:orange;">Solution 2:</span>  Reduce Calcium intake** 
+ **&nbsp; &nbsp; <span style="color:#F00;">Solution 2:</span>  Reduce Calcium intake** 
 
- **&nbsp; &nbsp;  <span style="color:orange;">Solution 3:</span>  Take extra water** 
+ **&nbsp; &nbsp; <span style="color:#F00;">Solution 3:</span>  Take extra water** 
 
 &nbsp;
 
@@ -444,15 +444,15 @@ Note Humans and animals have evolved to go for days with many nutrients
 
  **&amp;nbsp; &amp;nbsp; Otherwise muscle pain, itchy skin, constipation, etc.** 
 
- **&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Solution:&lt;/span&gt; Take Magesium daily** 
+ **&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color:#F00;&quot;&gt;Solution:&lt;/span&gt; Take Magesium daily** 
 
  **2) Excess Calcium can result in invisible hardening of the arteries** 
 
- **&amp;nbsp; &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Solution 1:&lt;/span&gt;  Take Vitamin K2** 
+ **&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color:#F00;&quot;&gt;Solution 1:&lt;/span&gt;  Take Vitamin K2** 
 
- **&amp;nbsp; &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Solution 2:&lt;/span&gt;  Reduce Calcium intake** 
+ **&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color:#F00;&quot;&gt;Solution 2:&lt;/span&gt;  Reduce Calcium intake** 
 
- **&amp;nbsp; &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Solution 3:&lt;/span&gt;  Take extra water** 
+ **&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color:#F00;&quot;&gt;Solution 3:&lt;/span&gt;  Take extra water** 
 
 &amp;nbsp;
 

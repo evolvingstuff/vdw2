@@ -216,13 +216,13 @@ Several research studies have explored the potential interaction between high-fr
 
 * HFCS may decrease vitamin D levels: Studies conducted on rodents and humans have shown that a diet high in HFCS can lead to lower levels of vitamin D in the blood. This is likely due to several factors, including:
 
-  * Impaired absorption: Fructose in HFCS may interfere with the absorption of calcium and vitamin D from the intestines.
+   * Impaired absorption: Fructose in HFCS may interfere with the absorption of calcium and vitamin D from the intestines.
 
-  * Increased excretion: High fructose intake may increase the amount of vitamin D that is excreted from the body in urine.
+   * Increased excretion: High fructose intake may increase the amount of vitamin D that is excreted from the body in urine.
 
-  * Deactivation: Some research suggests that HFCS may contribute to the deactivation of vitamin D in the body, reducing its biological activity.
+   * Deactivation: Some research suggests that HFCS may contribute to the deactivation of vitamin D in the body, reducing its biological activity.
 
-  * HFCS may impair vitamin D function: Vitamin D plays a vital role in bone health, immune function, and other bodily processes. Studies suggest that HFCS may impair the ability of vitamin D to perform these functions. 
+   * HFCS may impair vitamin D function: Vitamin D plays a vital role in bone health, immune function, and other bodily processes. Studies suggest that HFCS may impair the ability of vitamin D to perform these functions. 
 
 For example, research in rats has shown that a diet high in HFCS can lead to:
 
@@ -461,13 +461,13 @@ Several research studies have explored the potential interaction between high-fr
 
 * HFCS may decrease vitamin D levels: Studies conducted on rodents and humans have shown that a diet high in HFCS can lead to lower levels of vitamin D in the blood. This is likely due to several factors, including:
 
-  * Impaired absorption: Fructose in HFCS may interfere with the absorption of calcium and vitamin D from the intestines.
+   * Impaired absorption: Fructose in HFCS may interfere with the absorption of calcium and vitamin D from the intestines.
 
-  * Increased excretion: High fructose intake may increase the amount of vitamin D that is excreted from the body in urine.
+   * Increased excretion: High fructose intake may increase the amount of vitamin D that is excreted from the body in urine.
 
-  * Deactivation: Some research suggests that HFCS may contribute to the deactivation of vitamin D in the body, reducing its biological activity.
+   * Deactivation: Some research suggests that HFCS may contribute to the deactivation of vitamin D in the body, reducing its biological activity.
 
-  * HFCS may impair vitamin D function: Vitamin D plays a vital role in bone health, immune function, and other bodily processes. Studies suggest that HFCS may impair the ability of vitamin D to perform these functions. 
+   * HFCS may impair vitamin D function: Vitamin D plays a vital role in bone health, immune function, and other bodily processes. Studies suggest that HFCS may impair the ability of vitamin D to perform these functions. 
 
 For example, research in rats has shown that a diet high in HFCS can lead to:
 

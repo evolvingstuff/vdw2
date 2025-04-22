@@ -22,7 +22,7 @@ Front. Nutr. 10:1137407. [doi: 10.3389/fnut.2023.1137407](https://doi.org/10.338
 
 Jean Gérain1, Melanie Uebelhoer2*, Bérénice Costes2, Julie Herman2, Sandra Pietri2, Anne-Françoise Donneau3, Justine Monseur3 and Yves Henrotin2   Belgium
 
-#####  <span style="color:orange;">25 people got Curcumin (42 mg), Quercetin (65 mg), Vitamin D (90 IU) daily</span>
+##### <span style="color:#00F;">25 people got Curcumin (42 mg), Quercetin (65 mg), Vitamin D (90 IU) daily</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -56,7 +56,7 @@ Conclusion: Supplementation with Nasafytol®, in addition to standard-of-care tr
 
 ---
 
-####  <span style="color:orange;">40+</span> VitaminDWiki VIRUS category studies have RCT in their title
+#### <span style="color:#F00;">40+</span> VitaminDWiki VIRUS category studies have RCT in their title
 
 ##### Note: COVID proven to be stopped by Vitamin D, VDR, UVB (makes D), Omega-3, Probiotics, etc.
 
@@ -81,7 +81,7 @@ Conclusion: Supplementation with Nasafytol®, in addition to standard-of-care tr
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -103,7 +103,7 @@ Front. Nutr. 10:1137407. [doi: 10.3389/fnut.2023.1137407](https://doi.org/10.338
 
 Jean Gérain1, Melanie Uebelhoer2*, Bérénice Costes2, Julie Herman2, Sandra Pietri2, Anne-Françoise Donneau3, Justine Monseur3 and Yves Henrotin2   Belgium
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;25 people got Curcumin (42 mg), Quercetin (65 mg), Vitamin D (90 IU) daily&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;25 people got Curcumin (42 mg), Quercetin (65 mg), Vitamin D (90 IU) daily&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -137,7 +137,7 @@ Conclusion: Supplementation with Nasafytol®, in addition to standard-of-care tr
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;40+&lt;/span&gt; VitaminDWiki VIRUS category studies have RCT in their title
+#### &lt;span style=&quot;color:#F00;&quot;&gt;40+&lt;/span&gt; VitaminDWiki VIRUS category studies have RCT in their title
 
 ##### Note: COVID proven to be stopped by Vitamin D, VDR, UVB (makes D), Omega-3, Probiotics, etc.
 
@@ -162,7 +162,7 @@ Conclusion: Supplementation with Nasafytol®, in addition to standard-of-care tr
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

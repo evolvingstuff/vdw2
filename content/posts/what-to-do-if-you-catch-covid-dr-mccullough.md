@@ -25,7 +25,7 @@ categories:
 
 * Clinical Rationale for SARS-CoV-2 Base Spike Protein Detoxification in Post COVID-19 and Vaccine Injury Syndromes - Aug 2023 [FREE DOCX](https://zenodo.org/record/8286460)
 
-  * <img src="/attachments/d3.mock.jpg" alt="image" width="400">
+   * <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
 ---
 
@@ -79,7 +79,7 @@ Markdown:
 
 * Clinical Rationale for SARS-CoV-2 Base Spike Protein Detoxification in Post COVID-19 and Vaccine Injury Syndromes - Aug 2023 [FREE DOCX](https://zenodo.org/record/8286460)
 
-  * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
+   * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
 ---
 

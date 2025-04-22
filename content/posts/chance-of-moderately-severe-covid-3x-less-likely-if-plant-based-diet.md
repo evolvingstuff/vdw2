@@ -49,7 +49,7 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -63,11 +63,11 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 
 * Effects of high-protein diet on glycemic control, insulin resistance and blood pressure in type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials - June 2020 https://doi.org/10.1016/j.clnu.2019.08.008
 
-  * "This review showed that a high-protein diet does not significantly improve glycemic control... "
+   * "This review showed that a high-protein diet does not significantly improve glycemic control... "
 
 * Dietary patterns and management of type 2 diabetes: A systematic review of randomised clinical trials - June 2019 https://doi.org/10.1016/j.numecd.2019.02.004
 
-  * Low carb diet not reduce diabetes
+   * Low carb diet not reduce diabetes
 
 * Diabetes and the Nutrition and Diets for Its Prevention and Treatment: A Systematic Review and Dietetic Perspective - Feb 2020
 
@@ -116,7 +116,7 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -130,11 +130,11 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 
 * Effects of high-protein diet on glycemic control, insulin resistance and blood pressure in type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials - June 2020 https://doi.org/10.1016/j.clnu.2019.08.008
 
-  * &quot;This review showed that a high-protein diet does not significantly improve glycemic control... &quot;
+   * &quot;This review showed that a high-protein diet does not significantly improve glycemic control... &quot;
 
 * Dietary patterns and management of type 2 diabetes: A systematic review of randomised clinical trials - June 2019 https://doi.org/10.1016/j.numecd.2019.02.004
 
-  * Low carb diet not reduce diabetes
+   * Low carb diet not reduce diabetes
 
 * Diabetes and the Nutrition and Diets for Its Prevention and Treatment: A Systematic Review and Dietetic Perspective - Feb 2020
 

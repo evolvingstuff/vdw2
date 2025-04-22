@@ -23,7 +23,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<span style="color:orange;">Seniors synthesize less vitamin D from sun exposure due to several physiological and lifestyle factors. The primary reasons include:</span>** 
+ **<span style="color:#00F;">Seniors synthesize less vitamin D from sun exposure due to several physiological and lifestyle factors. The primary reasons include:</span>** 
 
 1. Decreased Skin Efficiency: As people age, the levels of the substance in the skin (7-dehydrocholesterol) that UVB light converts into the vitamin D precursor decrease. This results in a  **50% reduction in the formation of previtamin D3 in older individuals**  compared to younger ones 2 3
 
@@ -72,7 +72,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Seniors synthesize less vitamin D from sun exposure due to several physiological and lifestyle factors. The primary reasons include:&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Seniors synthesize less vitamin D from sun exposure due to several physiological and lifestyle factors. The primary reasons include:&lt;/span&gt;** 
 
 1. Decreased Skin Efficiency: As people age, the levels of the substance in the skin (7-dehydrocholesterol) that UVB light converts into the vitamin D precursor decrease. This results in a  **50% reduction in the formation of previtamin D3 in older individuals**  compared to younger ones 2 3
 

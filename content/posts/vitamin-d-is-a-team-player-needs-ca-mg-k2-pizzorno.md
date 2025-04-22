@@ -172,7 +172,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. Pizzorno L, Pizzorno J. Healthy Bones, Healthy You! ISBN 97-1-77779-250-3 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1)
+> Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1)
 
 1. [https://www.cdc.gov/obesity/data/prevalence-maps.html](https://www.cdc.gov/obesity/data/prevalence-maps.html) accessed 8/2022
 
@@ -216,7 +216,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. [https://www.drugwatch.com/proton-pump-inhibitors/](https://www.drugwatch.com/proton-pump-inhibitors/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;? ? ? -term use of proton-pump inhibitors: whole-of-population patterns in Australia 20132016. Therap Adv Gastroenterol. 2020 Mar 19;13:1756284820913743. [doi: 10.1177/1756284820913743.](https://doi.org/10.1177/1756284820913743.) PMID: 32218806; PMCID: PMC7082869.
+> ? ? ? -term use of proton-pump inhibitors: whole-of-population patterns in Australia 20132016. Therap Adv Gastroenterol. 2020 Mar 19;13:1756284820913743. [doi: 10.1177/1756284820913743.](https://doi.org/10.1177/1756284820913743.) PMID: 32218806; PMCID: PMC7082869.
 
 1. Hálfdánarson ÓÓ, Pottegárd A, Bjórnsson ES, Lund SH, Ogmundsdottir MH, Steingrímsson E, Ogmundsdottir HM, Zoega H. Proton-pump inhibitors among adults: a nationwide drug-utilization study. Therap Adv Gastroenterol. 2018 May 30;11:1756284818777943. [doi: 10.1177/1756284818777943.](https://doi.org/10.1177/1756284818777943.) PMID: 29872455; PMCID: PMC5977421.
 
@@ -264,13 +264,13 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 * <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015">Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015</a> in VitaminDWiki
 
-  * PDF title = Nothing Boring about Boron
+   * PDF title = Nothing Boring about Boron
 
 * [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O'Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&ab_channel=theDr.com%20) 1 hour YouTube 2022
 
 * [Healthy Bones with Dr. Joe & Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch?v=uVP5QyGrhE8&t=1006s&ab_channel=BenWeitz%2CDC) -YouTube 2022
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1) FREE for Kindle Unlimited
+>  **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&keywords=Healthy+Bones%2C+Healthy+You&qid=1673971805&sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&sr=8-1) FREE for Kindle Unlimited
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -441,7 +441,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. Pizzorno L, Pizzorno J. Healthy Bones, Healthy You! ISBN 97-1-77779-250-3 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1)
+&gt; Healthy Bones Healthy You! Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1)
 
 1. [https://www.cdc.gov/obesity/data/prevalence-maps.html](https://www.cdc.gov/obesity/data/prevalence-maps.html) accessed 8/2022
 
@@ -485,7 +485,7 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 1. [https://www.drugwatch.com/proton-pump-inhibitors/](https://www.drugwatch.com/proton-pump-inhibitors/)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;? ? ? -term use of proton-pump inhibitors: whole-of-population patterns in Australia 20132016. Therap Adv Gastroenterol. 2020 Mar 19;13:1756284820913743. [doi: 10.1177/1756284820913743.](https://doi.org/10.1177/1756284820913743.) PMID: 32218806; PMCID: PMC7082869.
+&gt; ? ? ? -term use of proton-pump inhibitors: whole-of-population patterns in Australia 20132016. Therap Adv Gastroenterol. 2020 Mar 19;13:1756284820913743. [doi: 10.1177/1756284820913743.](https://doi.org/10.1177/1756284820913743.) PMID: 32218806; PMCID: PMC7082869.
 
 1. Hálfdánarson ÓÓ, Pottegárd A, Bjórnsson ES, Lund SH, Ogmundsdottir MH, Steingrímsson E, Ogmundsdottir HM, Zoega H. Proton-pump inhibitors among adults: a nationwide drug-utilization study. Therap Adv Gastroenterol. 2018 May 30;11:1756284818777943. [doi: 10.1177/1756284818777943.](https://doi.org/10.1177/1756284818777943.) PMID: 29872455; PMCID: PMC5977421.
 
@@ -533,13 +533,13 @@ We suffer the highest burden of chronic disease in every age group ever in human
 
 * &lt;a href=&quot;/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&quot;&gt;Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&lt;/a&gt; in VitaminDWiki
 
-  * PDF title = Nothing Boring about Boron
+   * PDF title = Nothing Boring about Boron
 
 * [Healthy Bones, Healthy You with Dr Joe and Lara Pizzorno and Dr. Tom O&#39;Bryan](https://www.youtube.com/watch?v=bsR0lx7hFX0&amp;ab_channel=theDr.com%20) 1 hour YouTube 2022
 
 * [Healthy Bones with Dr. Joe &amp; Lara Pizzorno: Rational Wellness Podcast 236](https://www.youtube.com/watch?v=uVP5QyGrhE8&amp;t=1006s&amp;ab_channel=BenWeitz%2CDC) -YouTube 2022
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1) FREE for Kindle Unlimited
+&gt;  **Healthy Bones Healthy You!**  Build Strong, Vibrant Bones Naturally to Rewrite Your Aging Story and Live Without Limits [Amazon Sept 2021](https://www.amazon.com/Healthy-Vibrant-Naturally-Rewrite-Without-ebook/dp/B09GV21Q22/ref=sr_1_1?crid=1MB6F9K9V3JFA&amp;keywords=Healthy+Bones%2C+Healthy+You&amp;qid=1673971805&amp;sprefix=healthy+bones%2C+healthy+you%2Caps%2C237&amp;sr=8-1) FREE for Kindle Unlimited
 
 
 AST Structure:

@@ -39,13 +39,13 @@ The word vitamin does not occur even once on the page
 
 * <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1076">Do blacks have a 5 year life penalty due to low vitamin D</a> from JAMA 2007
 
-  * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
+   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 
-  * Other cancer 0.3 years, [Diabetes](/categories/diabetes) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
+   * Other cancer 0.3 years, [Diabetes](/categories/diabetes) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
 
-  * [Hypertension](/categories/hypertension) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-[Depression](/categories/depression) ?
+   * [Hypertension](/categories/hypertension) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-[Depression](/categories/depression) ?
 
-  * Unintentional injuries 0.4 years (drugs, autos,  **falls** )
+   * Unintentional injuries 0.4 years (drugs, autos,  **falls** )
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -80,13 +80,13 @@ The word vitamin does not occur even once on the page
 
 * &lt;a href=&quot;/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 1076&quot;&gt;Do blacks have a 5 year life penalty due to low vitamin D&lt;/a&gt; from JAMA 2007
 
-  * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
+   * Heart Disease 1.3 years, [HIV](/categories/hiv) 0.6 years, Perinatal death 0.5 years, [Stroke](/categories/stroke) 0.4 years, Lung cancer 0.3 years,
 
-  * Other cancer 0.3 years, [Diabetes](/categories/diabetes) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
+   * Other cancer 0.3 years, [Diabetes](/categories/diabetes) 0.3 years, Prostate cancer 0.3 years, Septicemia 0.2 years,
 
-  * [Hypertension](/categories/hypertension) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-[Depression](/categories/depression) ?
+   * [Hypertension](/categories/hypertension) 0.2 years, Nephritis 0.2 years, Homicide 1.0 years-[Depression](/categories/depression) ?
 
-  * Unintentional injuries 0.4 years (drugs, autos,  **falls** )
+   * Unintentional injuries 0.4 years (drugs, autos,  **falls** )
 
 
 AST Structure:

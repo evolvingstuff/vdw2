@@ -24,7 +24,7 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
 ---
 
-####  <span style="color:orange;">11+</span>  Vitamin D Receptor pages have DEACTIV.. in the title
+#### <span style="color:#F06;">11+</span>  Vitamin D Receptor pages have DEACTIV.. in the title
 
 <!-- {LIST()}
 {list max="50"}
@@ -83,7 +83,7 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;11+&lt;/span&gt;  Vitamin D Receptor pages have DEACTIV.. in the title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;11+&lt;/span&gt;  Vitamin D Receptor pages have DEACTIV.. in the title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

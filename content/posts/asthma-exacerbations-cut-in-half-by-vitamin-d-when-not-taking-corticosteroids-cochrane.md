@@ -52,7 +52,7 @@ Authors' conclusions: In contrast to findings of our previous Cochrane Review on
 
 * <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a> includes the following
 
- **<span style="color:orange;">5X less likely</span> to be hospitalized for Asthma if adequate vitamin D**  
+ **<span style="color:#F00;">5X less likely</span> to be hospitalized for Asthma if adequate vitamin D**  
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -105,7 +105,7 @@ Authors&#39; conclusions: In contrast to findings of our previous Cochrane Revie
 
 * &lt;a href=&quot;/posts/overview-asthma-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Asthma and Vitamin D&quot;&gt;Overview Asthma and Vitamin D&lt;/a&gt; includes the following
 
- **&lt;span style=&quot;color:orange;&quot;&gt;5X less likely&lt;/span&gt; to be hospitalized for Asthma if adequate vitamin D**  
+ **&lt;span style=&quot;color:#F00;&quot;&gt;5X less likely&lt;/span&gt; to be hospitalized for Asthma if adequate vitamin D**  
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 

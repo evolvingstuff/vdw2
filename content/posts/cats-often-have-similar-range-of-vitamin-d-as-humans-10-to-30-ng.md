@@ -22,7 +22,7 @@ S Amirnezhad 1, S Ahmadi Sheikhsarmast 2, J Khoshnegah 3, M Mohri 3
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
-#####  <span style="color:orange;">Commercial cat food has a lot of Vitamin D</span>
+##### <span style="color:#00F;">Commercial cat food has a lot of Vitamin D</span>
 
 Background: Optimal vitamin D levels for an effective role in immune function and rickets prevention are thought to vary, but have not yet been definitively determined. Reports on reference values of 25-hydroxyvitamin D (25(OH)D) in cats are limited.
 
@@ -57,7 +57,7 @@ S Amirnezhad 1, S Ahmadi Sheikhsarmast 2, J Khoshnegah 3, M Mohri 3
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Commercial cat food has a lot of Vitamin D&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;Commercial cat food has a lot of Vitamin D&lt;/span&gt;
 
 Background: Optimal vitamin D levels for an effective role in immune function and rickets prevention are thought to vary, but have not yet been definitively determined. Reports on reference values of 25-hydroxyvitamin D (25(OH)D) in cats are limited.
 

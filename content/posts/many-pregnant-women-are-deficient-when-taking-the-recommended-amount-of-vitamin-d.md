@@ -28,7 +28,7 @@ Pilar Palmrich h*, Alexandra Thajer 2 , Nawa Schirwani 1 , Christina Haberl 1 , 
 
 * Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, 1090 Vienna, Austria
 
-  * Correspondence: pilar.palmrich@meduniwien.ac.at
+   * Correspondence: pilar.palmrich@meduniwien.ac.at
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -97,7 +97,7 @@ Pilar Palmrich h*, Alexandra Thajer 2 , Nawa Schirwani 1 , Christina Haberl 1 , 
 
 * Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, 1090 Vienna, Austria
 
-  * Correspondence: pilar.palmrich@meduniwien.ac.at
+   * Correspondence: pilar.palmrich@meduniwien.ac.at
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 

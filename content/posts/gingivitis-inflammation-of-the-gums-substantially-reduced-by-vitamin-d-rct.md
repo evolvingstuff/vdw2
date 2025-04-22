@@ -16,7 +16,7 @@ categories:
 
 #### A Study to Assess Anti-Inflammatory Effect of Vitamin D on Gingivitis: A Dose Dependent Randomised Controlled Trial
 
-J Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  [doi: 10.4103/jpbs.jpbs](https://doi.org/10.4103/jpbs.jpbs)_169_23
+J Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  [doi: 10.4103/jpbs.jpbs_169_23](https://doi.org/10.4103/jpbs.jpbs_169_23)
 
 Rahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5
 
@@ -56,7 +56,7 @@ Markdown:
 
 #### A Study to Assess Anti-Inflammatory Effect of Vitamin D on Gingivitis: A Dose Dependent Randomised Controlled Trial
 
-J Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  [doi: 10.4103/jpbs.jpbs](https://doi.org/10.4103/jpbs.jpbs)_169_23
+J Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  [doi: 10.4103/jpbs.jpbs_169_23](https://doi.org/10.4103/jpbs.jpbs_169_23)
 
 Rahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5
 
@@ -112,10 +112,10 @@ AST Structure:
 │   │   inner_content: `A Study to Assess Anti-Inflammatory Effect of Vitamin D on Gingivitis: A Dose Dependent Randomised Controlled Trial`├── TextNode
 │   full_match: `\nJ Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  `
 │   inner_content: `\nJ Pharm Bioallied Sci. 2023 Jul; 15(Suppl 2): S1182–S1184.  `├── DoiLinkNode
-│   full_match: `doi: 10.4103/jpbs.jpbs`
-│   inner_content: `10.4103/jpbs.jpbs`├── TextNode
-│   full_match: `_169_23\nRahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5\n\n`
-│   inner_content: `_169_23\nRahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5\n\n`├── ImgNode
+│   full_match: `doi: 10.4103/jpbs.jpbs_169_23`
+│   inner_content: `10.4103/jpbs.jpbs_169_23`├── TextNode
+│   full_match: `\nRahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5\n\n`
+│   inner_content: `\nRahul Srivastava,1 Hadi Raza,2 Pooja Kabra,3 Ashtha Arya,4 Athira Purushothaman,2 and Pallavi A. Thomas5\n\n`├── ImgNode
 │   full_match: `{img type=&quot;attId&quot; attId=&quot;20112&quot; width=&quot;600&quot;}`
 │   inner_content: ``
 │   attrs_dict:

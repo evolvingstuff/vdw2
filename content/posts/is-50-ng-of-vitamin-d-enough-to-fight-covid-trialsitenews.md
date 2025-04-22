@@ -120,7 +120,7 @@ However, it’s important to note the [side effects](https://www.healthline.com
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -261,7 +261,7 @@ However, it’s important to note the [side effects](https://www.healthline.com
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

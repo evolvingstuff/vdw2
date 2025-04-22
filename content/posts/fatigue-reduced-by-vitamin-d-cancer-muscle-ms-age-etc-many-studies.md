@@ -50,13 +50,13 @@ date: 2023-11-11
 
 * "Cancer-related fatigue is said to affect 
 
-  * 40% of patients at the time of cancer diagnosis, 
+   * 40% of patients at the time of cancer diagnosis, 
 
-  * 65% of patients during active or maintenance treatment, 
+   * 65% of patients during active or maintenance treatment, 
 
-  * 21%-52% of patients in the 5 years following cancer diagnosis, and even 
+   * 21%-52% of patients in the 5 years following cancer diagnosis, and even 
 
-  * one quarter of patients who are between 5 and 30 years post diagnosis,"
+   * one quarter of patients who are between 5 and 30 years post diagnosis,"
 
 * cancer-related fatigue is “a distressing, persistent, subjective sense of physical, emotional, and/or cognitive tiredness or exhaustion related to cancer or cancer treatment that is not proportional to recent activity and interferes with usual functioning.”
 
@@ -274,7 +274,7 @@ Journal of Clinical Oncology (2006)
 
 ---
 
-####  <span style="color:orange;">30+</span>  VitaminDWiki Intervention pages with CANCER in title
+#### <span style="color:#F06;">30+</span>  VitaminDWiki Intervention pages with CANCER in title
 
 <!-- {LIST()}
 {list max="50"}
@@ -339,13 +339,13 @@ Markdown:
 
 * &quot;Cancer-related fatigue is said to affect 
 
-  * 40% of patients at the time of cancer diagnosis, 
+   * 40% of patients at the time of cancer diagnosis, 
 
-  * 65% of patients during active or maintenance treatment, 
+   * 65% of patients during active or maintenance treatment, 
 
-  * 21%-52% of patients in the 5 years following cancer diagnosis, and even 
+   * 21%-52% of patients in the 5 years following cancer diagnosis, and even 
 
-  * one quarter of patients who are between 5 and 30 years post diagnosis,&quot;
+   * one quarter of patients who are between 5 and 30 years post diagnosis,&quot;
 
 * cancer-related fatigue is “a distressing, persistent, subjective sense of physical, emotional, and/or cognitive tiredness or exhaustion related to cancer or cancer treatment that is not proportional to recent activity and interferes with usual functioning.”
 
@@ -563,7 +563,7 @@ Journal of Clinical Oncology (2006)
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;30+&lt;/span&gt;  VitaminDWiki Intervention pages with CANCER in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;30+&lt;/span&gt;  VitaminDWiki Intervention pages with CANCER in title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

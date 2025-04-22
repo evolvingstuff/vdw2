@@ -58,7 +58,7 @@ The abstract is data-free. The PDF is not free: it costs $40 doi:10.1001/jamaneu
 
 ---
 
-####  <span style="color:orange;">57+</span> Vitamin D pages have "Dementia" in the title
+#### <span style="color:#F00;">57+</span> Vitamin D pages have "Dementia" in the title
 
 <!-- {LIST()}
 {list max="100"}
@@ -130,7 +130,7 @@ The abstract is data-free. The PDF is not free: it costs $40 doi:10.1001/jamaneu
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;57+&lt;/span&gt; Vitamin D pages have &quot;Dementia&quot; in the title
+#### &lt;span style=&quot;color:#F00;&quot;&gt;57+&lt;/span&gt; Vitamin D pages have &quot;Dementia&quot; in the title
 
 &lt;!-- {LIST()}
 {list max=&quot;100&quot;}

@@ -27,7 +27,7 @@ Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Gra
 
 * School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
 
-  * Correspondence: gracelee@llu.edu
+   * Correspondence: gracelee@llu.edu
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -70,7 +70,7 @@ Spencer Loong 1, Samuel Barnes 2, Nicole M. Gatto 3 , Shilpy Chowdhury 2 and Gra
 
 * School of Public Health, Loma Linda University, Loma Linda, CA 92350, USA; ngatto@llu.edu
 
-  * Correspondence: gracelee@llu.edu
+   * Correspondence: gracelee@llu.edu
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

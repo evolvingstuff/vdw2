@@ -17,8 +17,8 @@ categories:
 
 | | |
 | --- | --- |
-|  **D &nbsp;   <span style="color:orange;">5,800</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400">  |  **D &  Breast Cancer &nbsp;    <span style="color:orange;">123</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |
-|  **D & Cancer &nbsp;   <span style="color:orange;">643</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |  **D & Virus &nbsp;   <span style="color:orange;">539 </span>peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |
+|  **D &nbsp;  <span style="color:#F06;">5,800</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400">  |  **D &  Breast Cancer &nbsp;   <span style="color:#F06;">123</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |
+|  **D & Cancer &nbsp;  <span style="color:#F06;">643</span> peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |  **D & Virus &nbsp;  <span style="color:#F06;">539 </span>peak** <br><img src="/attachments/d3.mock.jpg" alt="image" width="400"> |
 
 <!-- ~tc~ (alias(Vitamin D studies -graphs of increases)) ~/tc~ -->
 
@@ -33,8 +33,8 @@ Markdown:
 
 | | |
 | --- | --- |
-|  **D &amp;nbsp;   &lt;span style=&quot;color:orange;&quot;&gt;5,800&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;  |  **D &amp;  Breast Cancer &amp;nbsp;    &lt;span style=&quot;color:orange;&quot;&gt;123&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |
-|  **D &amp; Cancer &amp;nbsp;   &lt;span style=&quot;color:orange;&quot;&gt;643&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |  **D &amp; Virus &amp;nbsp;   &lt;span style=&quot;color:orange;&quot;&gt;539 &lt;/span&gt;peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |
+|  **D &amp;nbsp;  &lt;span style=&quot;color:#F06;&quot;&gt;5,800&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;  |  **D &amp;  Breast Cancer &amp;nbsp;   &lt;span style=&quot;color:#F06;&quot;&gt;123&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |
+|  **D &amp; Cancer &amp;nbsp;  &lt;span style=&quot;color:#F06;&quot;&gt;643&lt;/span&gt; peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |  **D &amp; Virus &amp;nbsp;  &lt;span style=&quot;color:#F06;&quot;&gt;539 &lt;/span&gt;peak** &lt;br&gt;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt; |
 
 &lt;!-- ~tc~ (alias(Vitamin D studies -graphs of increases)) ~/tc~ --&gt;
 

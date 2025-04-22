@@ -31,7 +31,7 @@ Mina Amiri 1, Maryam Rostami 2, Ali Sheidaei 3, Aida Fallahzadeh 4, Fahimeh Rame
 
 * 800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly
 
-  * Suspect that many of those women had >20 ng
+   * Suspect that many of those women had >20 ng
 
 * 900 women in The other Iranian city were the control group - given no vitamin D
 
@@ -51,7 +51,7 @@ Previous publications of this study
 
 #### VitaminDWiki - <a href="/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception">Ensure a healthy pregnancy and baby - take Vitamin D before conception</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="500">
+> <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
 ---
 
@@ -90,7 +90,7 @@ Mina Amiri 1, Maryam Rostami 2, Ali Sheidaei 3, Aida Fallahzadeh 4, Fahimeh Rame
 
 * 800 women in one Iranian city had 8 different dosing of vitamin D - up to 50,000 IU weekly
 
-  * Suspect that many of those women had &gt;20 ng
+   * Suspect that many of those women had &gt;20 ng
 
 * 900 women in The other Iranian city were the control group - given no vitamin D
 
@@ -110,7 +110,7 @@ Previous publications of this study
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception&quot;&gt;Ensure a healthy pregnancy and baby - take Vitamin D before conception&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
+&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
 ---
 

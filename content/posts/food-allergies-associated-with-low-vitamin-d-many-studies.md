@@ -20,7 +20,7 @@ Annals of Medicine Volume 55, 2023 - Issue 1  https://doi.org/10.1080/07853890.2
 
 Mario Di Gioacchino,Claudia Petrarca,Loredana Della Valle, Rocco Mangifesta & Francesca Santilli
 
- **Significant improvement ( <span style="color:orange;">#</span>) in Vitamin D supplementation group** 
+ **Significant improvement (<span style="color:#F00;">#</span>) in Vitamin D supplementation group** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -34,7 +34,7 @@ Allergic patients treated with allergen immunotherapy benefit from the simultane
 
 ---
 
-####  <span style="color:orange;">36+</span> VitaminDWiki  <span style="color:orange;">Infant-Child</span> pages with ALLERG in title
+#### <span style="color:#F06;">36+</span> VitaminDWiki <span style="color:#F06;">Infant-Child</span> pages with ALLERG in title
 
 <!-- {LIST()}
 {list max="100"}
@@ -73,7 +73,7 @@ Annals of Medicine Volume 55, 2023 - Issue 1  https://doi.org/10.1080/07853890.2
 
 Mario Di Gioacchino,Claudia Petrarca,Loredana Della Valle, Rocco Mangifesta &amp; Francesca Santilli
 
- **Significant improvement ( &lt;span style=&quot;color:orange;&quot;&gt;#&lt;/span&gt;) in Vitamin D supplementation group** 
+ **Significant improvement (&lt;span style=&quot;color:#F00;&quot;&gt;#&lt;/span&gt;) in Vitamin D supplementation group** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
@@ -87,7 +87,7 @@ Allergic patients treated with allergen immunotherapy benefit from the simultane
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;36+&lt;/span&gt; VitaminDWiki  &lt;span style=&quot;color:orange;&quot;&gt;Infant-Child&lt;/span&gt; pages with ALLERG in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;36+&lt;/span&gt; VitaminDWiki &lt;span style=&quot;color:#F06;&quot;&gt;Infant-Child&lt;/span&gt; pages with ALLERG in title
 
 &lt;!-- {LIST()}
 {list max=&quot;100&quot;}

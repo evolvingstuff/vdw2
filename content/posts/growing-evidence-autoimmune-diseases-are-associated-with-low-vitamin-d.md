@@ -32,13 +32,13 @@ A comprehensive review has reported that insufficient 25(OH)D3 serum concentrati
 
 * autoimmune rheumatic musculoskeletal diseases (RMDs), including
 
-  * rheumatoid arthritis (RA), 
+   * rheumatoid arthritis (RA), 
 
-  * psoriatic arthritis (PsA), 
+   * psoriatic arthritis (PsA), 
 
-  * systemic lupus erythematosus (SLE), 
+   * systemic lupus erythematosus (SLE), 
 
-  * Sjogren' syndrome (SjS) and others <sup>[2]</sup>.
+   * Sjogren' syndrome (SjS) and others <sup>[2]</sup>.
 
 Also, in pediatric RMDs, an updated review reported significantly lower 25(OH)D3 serum concentrations associated with higher pro-inflammatory cytokine concentrations in 
 
@@ -191,13 +191,13 @@ A comprehensive review has reported that insufficient 25(OH)D3 serum concentrati
 
 * autoimmune rheumatic musculoskeletal diseases (RMDs), including
 
-  * rheumatoid arthritis (RA), 
+   * rheumatoid arthritis (RA), 
 
-  * psoriatic arthritis (PsA), 
+   * psoriatic arthritis (PsA), 
 
-  * systemic lupus erythematosus (SLE), 
+   * systemic lupus erythematosus (SLE), 
 
-  * Sjogren&#39; syndrome (SjS) and others &lt;sup&gt;[2]&lt;/sup&gt;.
+   * Sjogren&#39; syndrome (SjS) and others &lt;sup&gt;[2]&lt;/sup&gt;.
 
 Also, in pediatric RMDs, an updated review reported significantly lower 25(OH)D3 serum concentrations associated with higher pro-inflammatory cytokine concentrations in 
 

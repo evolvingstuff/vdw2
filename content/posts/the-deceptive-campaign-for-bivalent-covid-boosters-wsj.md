@@ -32,7 +32,7 @@ But, Vitamin D does would not generate $22 billion in profits nor kickbacks to N
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) ~/tc~ -->
 
@@ -62,7 +62,7 @@ But, Vitamin D does would not generate $22 billion in profits nor kickbacks to N
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(The Deceptive Campaign for Bivalent Covid Boosters - WSJ  Jan 2023)) ~/tc~ --&gt;
 

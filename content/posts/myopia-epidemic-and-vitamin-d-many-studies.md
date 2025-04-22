@@ -52,7 +52,7 @@ Screens include Video, TV, Computer, Gaming
 
 * In the U.S., 42 percent of 12-to-54-year-olds were nearsighted in the early 2000s—the last time a national survey of myopia was conducted—_up from a quarter in the 1970s.
 
-  * About a 1.7 X increase
+   * About a 1.7 X increase
 
 * Discusses 7 possible reasons and several expensive methods that stop the trend - 1 child at a time
 
@@ -82,15 +82,15 @@ Screens include Video, TV, Computer, Gaming
 
 * It appears that UV decreases Myopia
 
-  * [Understanding How Violet Light Can Stop Myopia Progression = 2021](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
+   * [Understanding How Violet Light Can Stop Myopia Progression = 2021](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
 
-  * [What is the impact of UV light on myopia and eye health? - July 2023](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
+   * [What is the impact of UV light on myopia and eye health? - July 2023](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
 
-  * [Association Between Myopia and UVB, Vitamin D Levels, or Genetics of Vitamin D Metabolism - 2017](https://www.aao.org/eyenet/article/association-between-myopia-uvb-vitamin-d-levels)
+   * [Association Between Myopia and UVB, Vitamin D Levels, or Genetics of Vitamin D Metabolism - 2017](https://www.aao.org/eyenet/article/association-between-myopia-uvb-vitamin-d-levels)
 
 ---
 
-##### There have been  <span style="color:orange;"> </span>
+##### There have been <span style="color:#00F;"> </span>
 
 visits to this page
 
@@ -140,7 +140,7 @@ Screens include Video, TV, Computer, Gaming
 
 * In the U.S., 42 percent of 12-to-54-year-olds were nearsighted in the early 2000s—the last time a national survey of myopia was conducted—_up from a quarter in the 1970s.
 
-  * About a 1.7 X increase
+   * About a 1.7 X increase
 
 * Discusses 7 possible reasons and several expensive methods that stop the trend - 1 child at a time
 
@@ -170,15 +170,15 @@ Screens include Video, TV, Computer, Gaming
 
 * It appears that UV decreases Myopia
 
-  * [Understanding How Violet Light Can Stop Myopia Progression = 2021](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
+   * [Understanding How Violet Light Can Stop Myopia Progression = 2021](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
 
-  * [What is the impact of UV light on myopia and eye health? - July 2023](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
+   * [What is the impact of UV light on myopia and eye health? - July 2023](https://bme.gatech.edu/bme/news/understanding-how-violet-light-can-stop-myopia-progression)
 
-  * [Association Between Myopia and UVB, Vitamin D Levels, or Genetics of Vitamin D Metabolism - 2017](https://www.aao.org/eyenet/article/association-between-myopia-uvb-vitamin-d-levels)
+   * [Association Between Myopia and UVB, Vitamin D Levels, or Genetics of Vitamin D Metabolism - 2017](https://www.aao.org/eyenet/article/association-between-myopia-uvb-vitamin-d-levels)
 
 ---
 
-##### There have been  &lt;span style=&quot;color:orange;&quot;&gt; &lt;/span&gt;
+##### There have been &lt;span style=&quot;color:#00F;&quot;&gt; &lt;/span&gt;
 
 visits to this page
 

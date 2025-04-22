@@ -73,7 +73,7 @@ constitute common ground between these two afflictions, which this article aims 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
 
-#####  <span style="color:orange;">Note: Some cancers reduce Vitamin D levels and/or activation of the Vitamin D Receptor</span>
+##### <span style="color:#00F;">Note: Some cancers reduce Vitamin D levels and/or activation of the Vitamin D Receptor</span>
 
  **VitaminDWiki – [Cancer](/categories/cancer) category contains:** 
 
@@ -149,7 +149,7 @@ constitute common ground between these two afflictions, which this article aims 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt; 
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Note: Some cancers reduce Vitamin D levels and/or activation of the Vitamin D Receptor&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;Note: Some cancers reduce Vitamin D levels and/or activation of the Vitamin D Receptor&lt;/span&gt;
 
  **VitaminDWiki – [Cancer](/categories/cancer) category contains:** 
 

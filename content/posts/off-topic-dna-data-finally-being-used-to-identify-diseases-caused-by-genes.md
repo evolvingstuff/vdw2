@@ -31,29 +31,29 @@ categories:
 
  **Reminder: Genetics, of course, is unaware of health changes due to:** 
 
-  * supplements, 
+   * supplements, 
 
-  * what you eat, 
+   * what you eat, 
 
-  * toxins,
+   * toxins,
 
-  * exercise, 
+   * exercise, 
 
-  * sleep duration
+   * sleep duration
 
-  * stress level, 
+   * stress level, 
 
-  * pollution, 
+   * pollution, 
 
-  * DNA of your bionome
+   * DNA of your bionome
 
-  * Health of your parents in the year before your birth
+   * Health of your parents in the year before your birth
 
-  * Your season of birth
+   * Your season of birth
 
-  * How often you get outdoors
+   * How often you get outdoors
 
-  * Infection by viruses, such as COVID. that deactivate scores of genes - such as the Vitamin D receptor
+   * Infection by viruses, such as COVID. that deactivate scores of genes - such as the Vitamin D receptor
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -80,29 +80,29 @@ Markdown:
 
  **Reminder: Genetics, of course, is unaware of health changes due to:** 
 
-  * supplements, 
+   * supplements, 
 
-  * what you eat, 
+   * what you eat, 
 
-  * toxins,
+   * toxins,
 
-  * exercise, 
+   * exercise, 
 
-  * sleep duration
+   * sleep duration
 
-  * stress level, 
+   * stress level, 
 
-  * pollution, 
+   * pollution, 
 
-  * DNA of your bionome
+   * DNA of your bionome
 
-  * Health of your parents in the year before your birth
+   * Health of your parents in the year before your birth
 
-  * Your season of birth
+   * Your season of birth
 
-  * How often you get outdoors
+   * How often you get outdoors
 
-  * Infection by viruses, such as COVID. that deactivate scores of genes - such as the Vitamin D receptor
+   * Infection by viruses, such as COVID. that deactivate scores of genes - such as the Vitamin D receptor
 
 
 AST Structure:

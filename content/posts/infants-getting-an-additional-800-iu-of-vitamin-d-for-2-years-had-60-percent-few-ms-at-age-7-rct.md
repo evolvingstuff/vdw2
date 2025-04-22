@@ -24,11 +24,11 @@ Notes:
 
 * 2) Study might have found better benefit if it had increased vitamin D dose with increased body weight
 
-  * Infant body weight triples in 24 months - so probably need 3600 IU at 24 months
+   * Infant body weight triples in 24 months - so probably need 3600 IU at 24 months
 
 * 3) Study might have found better benefit if it had adjusted vitamin D dose with BMI
 
-  * Obese needs >2X more vitamin D
+   * Obese needs >2X more vitamin D
 
 * 4) Study might have found better benefits if supplementation had started before birth
 
@@ -95,11 +95,11 @@ Notes:
 
 * 2) Study might have found better benefit if it had increased vitamin D dose with increased body weight
 
-  * Infant body weight triples in 24 months - so probably need 3600 IU at 24 months
+   * Infant body weight triples in 24 months - so probably need 3600 IU at 24 months
 
 * 3) Study might have found better benefit if it had adjusted vitamin D dose with BMI
 
-  * Obese needs &gt;2X more vitamin D
+   * Obese needs &gt;2X more vitamin D
 
 * 4) Study might have found better benefits if supplementation had started before birth
 

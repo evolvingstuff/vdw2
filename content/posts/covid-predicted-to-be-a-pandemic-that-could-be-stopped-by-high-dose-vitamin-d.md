@@ -66,7 +66,7 @@ RCT was unable to start due to government corruption**
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) ~/tc~ -->
 
@@ -129,7 +129,7 @@ RCT was unable to start due to government corruption**
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(COVID predicted to be a pandemic and treated by high dose vitamin D -April 2020)) ~/tc~ --&gt;
 

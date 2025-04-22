@@ -70,7 +70,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -160,7 +160,7 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

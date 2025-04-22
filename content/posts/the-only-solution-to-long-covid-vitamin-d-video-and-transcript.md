@@ -184,7 +184,7 @@ With a deactivated Receptor you can have a good level of vitamin D in you blood,
 
 * <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
 
-  * which contains: Long COVID associated with Low Vitamin D – Oct 2023
+   * which contains: Long COVID associated with Low Vitamin D – Oct 2023
 
 * [Long-COVID a month shorter if more than 20 ng of Vitamin D - Jan 2024](/posts/long-covid-a-month-shorter-if-more-than-20-ng-of-vitamin-d)
 
@@ -382,7 +382,7 @@ With a deactivated Receptor you can have a good level of vitamin D in you blood,
 
 * &lt;a href=&quot;/posts/long-covid-is-now-the-biggest-covid-concern-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies&quot;&gt;Long-COVID is now the biggest COVID concern - many studies&lt;/a&gt;
 
-  * which contains: Long COVID associated with Low Vitamin D – Oct 2023
+   * which contains: Long COVID associated with Low Vitamin D – Oct 2023
 
 * [Long-COVID a month shorter if more than 20 ng of Vitamin D - Jan 2024](/posts/long-covid-a-month-shorter-if-more-than-20-ng-of-vitamin-d)
 

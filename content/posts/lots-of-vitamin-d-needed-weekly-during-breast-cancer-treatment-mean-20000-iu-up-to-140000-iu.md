@@ -15,17 +15,17 @@ categories:
 
 *  **Personalized Vitamin D dosing** ranged from 2,000 IU to 140,000 weekly for Breast Cancer:
 
-  * A range of 70 to 1
+   * A range of 70 to 1
 
 * Treating healthy people typically requires a range of Vitamin D of only 4 to 1 
 
 * The women getting Breast Cancer treatment  were clearly not uniformly unhealthy
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+> 
 
 * The study failed to note improvement in outcomes vs women not getting Vitamin D
 
-  * Shorter treatment durations, less chemo used, less recurrence
+   * Shorter treatment durations, less chemo used, less recurrence
 
 {{< toc >}}
 
@@ -76,17 +76,17 @@ Markdown:
 
 *  **Personalized Vitamin D dosing** ranged from 2,000 IU to 140,000 weekly for Breast Cancer:
 
-  * A range of 70 to 1
+   * A range of 70 to 1
 
 * Treating healthy people typically requires a range of Vitamin D of only 4 to 1 
 
 * The women getting Breast Cancer treatment  were clearly not uniformly unhealthy
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&gt; 
 
 * The study failed to note improvement in outcomes vs women not getting Vitamin D
 
-  * Shorter treatment durations, less chemo used, less recurrence
+   * Shorter treatment durations, less chemo used, less recurrence
 
 {{&lt; toc &gt;}}
 

@@ -22,7 +22,7 @@ categories:
 
 * "March 6 IRS “reminder” warning that people who use health savings accounts (HSAs) and flexible spending accounts (FSAs) will no longer be able to deduct “nutrition, wellness and general health” expenses — even if a doctor provides a note recommending them — unless they are “related to a targeted diagnosis-specific activity or treatment.”"
 
-  * that is, no longer allowing you to deduct for wellness. You have to be sick first
+   * that is, no longer allowing you to deduct for wellness. You have to be sick first
 
 * "Gym memberships can count as a medical expense only if recommended by a doctor for the sole purpose of treating an injury or a specific medical condition like obesity or hypertension, according to The Washington Post, which reported on the IRS alert."
 
@@ -58,7 +58,7 @@ Markdown:
 
 * &quot;March 6 IRS “reminder” warning that people who use health savings accounts (HSAs) and flexible spending accounts (FSAs) will no longer be able to deduct “nutrition, wellness and general health” expenses — even if a doctor provides a note recommending them — unless they are “related to a targeted diagnosis-specific activity or treatment.”&quot;
 
-  * that is, no longer allowing you to deduct for wellness. You have to be sick first
+   * that is, no longer allowing you to deduct for wellness. You have to be sick first
 
 * &quot;Gym memberships can count as a medical expense only if recommended by a doctor for the sole purpose of treating an injury or a specific medical condition like obesity or hypertension, according to The Washington Post, which reported on the IRS alert.&quot;
 

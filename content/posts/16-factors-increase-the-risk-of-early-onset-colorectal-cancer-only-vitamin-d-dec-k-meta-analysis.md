@@ -33,7 +33,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. a family history of CRC ( **OR=5.90** ; 95% CI, 3.67-9.48),
 
-  * diet, genetics, poor vitamin D genes?  <a href="/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021">30X increase if poor Vitamin D Receptor</a>
+   * diet, genetics, poor vitamin D genes?  <a href="/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021">30X increase if poor Vitamin D Receptor</a>
 
 1. inflammatory bowel disease (OR=4.43; 95% CI, 4.05-4.84), 
 
@@ -98,7 +98,7 @@ Results: A total of 36 studies were identified for this review, and  **30 studie
 
 1. a family history of CRC ( **OR=5.90** ; 95% CI, 3.67-9.48),
 
-  * diet, genetics, poor vitamin D genes?  &lt;a href=&quot;/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021&quot;&gt;30X increase if poor Vitamin D Receptor&lt;/a&gt;
+   * diet, genetics, poor vitamin D genes?  &lt;a href=&quot;/posts/colon-cancer-risk-increases-30x-if-you-have-the-worst-vitamin-d-receptor-mutation&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Colon cancer risk increases 30X if you have the worst vitamin D receptor mutation – Jan 2021&quot;&gt;30X increase if poor Vitamin D Receptor&lt;/a&gt;
 
 1. inflammatory bowel disease (OR=4.43; 95% CI, 4.05-4.84), 
 

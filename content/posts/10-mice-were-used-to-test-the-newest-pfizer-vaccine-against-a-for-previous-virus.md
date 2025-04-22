@@ -44,11 +44,11 @@ categories:
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
-####  <span style="color:orange;">5</span>  related items in VitaminDWiki
+#### <span style="color:#F00;">5</span>  related items in VitaminDWiki
 
 * <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
 
@@ -62,7 +62,7 @@ categories:
 
 ---
 
-####  <span style="color:orange;">17+</span> Virus pages have PFIZER in the title
+#### <span style="color:#F00;">17+</span> Virus pages have PFIZER in the title
 
 <!-- {LIST()}
 {list max="155"}
@@ -118,11 +118,11 @@ Markdown:
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;5&lt;/span&gt;  related items in VitaminDWiki
+#### &lt;span style=&quot;color:#F00;&quot;&gt;5&lt;/span&gt;  related items in VitaminDWiki
 
 * &lt;a href=&quot;/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&quot;&gt;Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023&lt;/a&gt;
 
@@ -136,7 +136,7 @@ Markdown:
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;17+&lt;/span&gt; Virus pages have PFIZER in the title
+#### &lt;span style=&quot;color:#F00;&quot;&gt;17+&lt;/span&gt; Virus pages have PFIZER in the title
 
 &lt;!-- {LIST()}
 {list max=&quot;155&quot;}

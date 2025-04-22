@@ -14,9 +14,9 @@ categories:
 
 1 year after Bariatric Surgery (RYGB)
 
-&nbsp; &nbsp;  **<span style="color:orange;">74 lbs</span>**  lost if  >30 ng of Vitamin D
+&nbsp; &nbsp;  **<span style="color:#090;">74 lbs</span>**  lost if  >30 ng of Vitamin D
 
-&nbsp; &nbsp;  **<span style="color:orange;">48 lbs</span>**  lost if <30 ng of Vitamin D
+&nbsp; &nbsp;  **<span style="color:#F00;">48 lbs</span>**  lost if <30 ng of Vitamin D
 
 Note: Might not have needed surgery if <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">weight loss plan + weekly 50,000 IU of Vitamin D</a>
 
@@ -124,9 +124,9 @@ Markdown:
 
 1 year after Bariatric Surgery (RYGB)
 
-&amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;74 lbs&lt;/span&gt;**  lost if  &gt;30 ng of Vitamin D
+&amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:#090;&quot;&gt;74 lbs&lt;/span&gt;**  lost if  &gt;30 ng of Vitamin D
 
-&amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;48 lbs&lt;/span&gt;**  lost if &lt;30 ng of Vitamin D
+&amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:#F00;&quot;&gt;48 lbs&lt;/span&gt;**  lost if &lt;30 ng of Vitamin D
 
 Note: Might not have needed surgery if &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;weight loss plan + weekly 50,000 IU of Vitamin D&lt;/a&gt;
 

@@ -42,7 +42,7 @@ Conclusion Early-onset cancer morbidity continues to increase worldwide with not
 
 * <a href="/posts/2x-increase-of-14-cancers-in-non-seniors-in-20-years-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022">2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022</a>
 
-  * breast, colorectum, Endometrium, oesophagus, extrahepatic bile duct, gallbladder, head and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
+   * breast, colorectum, Endometrium, oesophagus, extrahepatic bile duct, gallbladder, head and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
 
 * <a href="/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles">Obesity increases Cancer - perhaps due to low vitamin D - many articles</a>
 
@@ -88,7 +88,7 @@ Conclusion Early-onset cancer morbidity continues to increase worldwide with not
 
 * &lt;a href=&quot;/posts/2x-increase-of-14-cancers-in-non-seniors-in-20-years-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022&quot;&gt;2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022&lt;/a&gt;
 
-  * breast, colorectum, Endometrium, oesophagus, extrahepatic bile duct, gallbladder, head and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
+   * breast, colorectum, Endometrium, oesophagus, extrahepatic bile duct, gallbladder, head and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
 
 * &lt;a href=&quot;/posts/obesity-increases-cancer-perhaps-due-to-low-vitamin-d-many-articles&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obesity increases Cancer - perhaps due to low vitamin D - many articles&quot;&gt;Obesity increases Cancer - perhaps due to low vitamin D - many articles&lt;/a&gt;
 

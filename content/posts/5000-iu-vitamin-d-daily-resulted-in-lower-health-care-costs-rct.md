@@ -28,19 +28,19 @@ Vitamin D3 supplementation reduced healthcare utilization in four major categori
 
 * hospitalizations for any reason 
 
-  * (rate difference: -0.19 per 1000 person-days, 95%-CI: -0.21 to -0.17 per 1000 person-days, p < 0.0001); 
+   * (rate difference: -0.19 per 1000 person-days, 95%-CI: -0.21 to -0.17 per 1000 person-days, p < 0.0001); 
 
 * ICU admissions for any reason
 
-  * (rate difference: -0.06 per 1000 person-days, 95%-CI: -0.08 to -0.04 per 1000 person-days, p < 0.0001); 
+   * (rate difference: -0.06 per 1000 person-days, 95%-CI: -0.08 to -0.04 per 1000 person-days, p < 0.0001); 
 
 * emergency room visits for any reason 
 
-  * (rate difference: -0.26 per 1000 person-days, 95%-CI: -0.46 to -0.05 per 1000 person-days, p = 0.0131; and 
+   * (rate difference: -0.26 per 1000 person-days, 95%-CI: -0.46 to -0.05 per 1000 person-days, p = 0.0131; and 
 
 * hospitalizations due to Covid-19 
 
-  * (rate difference: -8.47X10−3 per 1000 person-days, 95%-CI: -0.02 to -1.05X10−3 per 1000 person-days, p = 0.0253). 
+   * (rate difference: -8.47X10−3 per 1000 person-days, 95%-CI: -0.02 to -1.05X10−3 per 1000 person-days, p = 0.0253). 
 
 Appropriately powered studies of longer duration are recommended for replication of these utilization findings and analysis of cost differences.
 
@@ -106,19 +106,19 @@ Vitamin D3 supplementation reduced healthcare utilization in four major categori
 
 * hospitalizations for any reason 
 
-  * (rate difference: -0.19 per 1000 person-days, 95%-CI: -0.21 to -0.17 per 1000 person-days, p &lt; 0.0001); 
+   * (rate difference: -0.19 per 1000 person-days, 95%-CI: -0.21 to -0.17 per 1000 person-days, p &lt; 0.0001); 
 
 * ICU admissions for any reason
 
-  * (rate difference: -0.06 per 1000 person-days, 95%-CI: -0.08 to -0.04 per 1000 person-days, p &lt; 0.0001); 
+   * (rate difference: -0.06 per 1000 person-days, 95%-CI: -0.08 to -0.04 per 1000 person-days, p &lt; 0.0001); 
 
 * emergency room visits for any reason 
 
-  * (rate difference: -0.26 per 1000 person-days, 95%-CI: -0.46 to -0.05 per 1000 person-days, p = 0.0131; and 
+   * (rate difference: -0.26 per 1000 person-days, 95%-CI: -0.46 to -0.05 per 1000 person-days, p = 0.0131; and 
 
 * hospitalizations due to Covid-19 
 
-  * (rate difference: -8.47X10−3 per 1000 person-days, 95%-CI: -0.02 to -1.05X10−3 per 1000 person-days, p = 0.0253). 
+   * (rate difference: -8.47X10−3 per 1000 person-days, 95%-CI: -0.02 to -1.05X10−3 per 1000 person-days, p = 0.0253). 
 
 Appropriately powered studies of longer duration are recommended for replication of these utilization findings and analysis of cost differences.
 

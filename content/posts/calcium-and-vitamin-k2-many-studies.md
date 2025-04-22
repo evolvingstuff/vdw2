@@ -19,7 +19,7 @@ categories:
 
 1. Reduce Calcium intake (so that the same amout of Calcium gets into the body)
 
-  * Note: Might only need to reduce the <a href="/posts/rock-calcium-not-natural-calcium-plants-dairy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12996">rock-calcium, not natural Calcium (plants, dairy)</a>
+   * Note: Might only need to reduce the <a href="/posts/rock-calcium-not-natural-calcium-plants-dairy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 12996">rock-calcium, not natural Calcium (plants, dairy)</a>
 
 1. Take Vitamin K2 - at least once every 3 days while taking high-dose vitamin D
 
@@ -40,7 +40,7 @@ Markdown:
 
 1. Reduce Calcium intake (so that the same amout of Calcium gets into the body)
 
-  * Note: Might only need to reduce the &lt;a href=&quot;/posts/rock-calcium-not-natural-calcium-plants-dairy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12996&quot;&gt;rock-calcium, not natural Calcium (plants, dairy)&lt;/a&gt;
+   * Note: Might only need to reduce the &lt;a href=&quot;/posts/rock-calcium-not-natural-calcium-plants-dairy&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 12996&quot;&gt;rock-calcium, not natural Calcium (plants, dairy)&lt;/a&gt;
 
 1. Take Vitamin K2 - at least once every 3 days while taking high-dose vitamin D
 

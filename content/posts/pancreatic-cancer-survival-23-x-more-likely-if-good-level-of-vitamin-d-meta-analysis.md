@@ -115,7 +115,7 @@ In conclusion, our study indicated that 25(OH)D concentrations were positively c
 
  **The association between circulating 25-hydroxyvitamin D and pancreatic cancer: a systematic review and meta-analysis of observational studies** 
 
-Eur J Nutr. 2024 Jan 3. doi: [10.1007/s00394-023-03302-w](10.1007/s00394-023-03302-w) PDF behind paywall
+Eur J Nutr. 2024 Jan 3. [doi: [10.1007/s00394-023-03302-w]](https://doi.org/[10.1007/s00394-023-03302-w]) PDF behind paywall
 
 Yajing Shen 1 2, Junfen Xia 3, Chuncheng Yi 1 2, Tiandong Li 1 2, Peng Wang 1 2, Liping Dai 2 4, Jianxiang Shi 2 4, Keyan Wang 2 4, Changqing Sun 1 5, Hua Ye 6 7
 
@@ -321,7 +321,7 @@ Conclusion: Evidence from this meta-analysis suggested that high circulating 25(
 
 ---
 
-####  <span style="color:orange;">81+</span>  VitaminDWiki Cancer meta-analyses
+#### <span style="color:#F06;">81+</span>  VitaminDWiki Cancer meta-analyses
 
 <!-- {LIST()}
 {list max="150"}
@@ -448,7 +448,7 @@ In conclusion, our study indicated that 25(OH)D concentrations were positively c
 
  **The association between circulating 25-hydroxyvitamin D and pancreatic cancer: a systematic review and meta-analysis of observational studies** 
 
-Eur J Nutr. 2024 Jan 3. doi: [10.1007/s00394-023-03302-w](10.1007/s00394-023-03302-w) PDF behind paywall
+Eur J Nutr. 2024 Jan 3. [doi: [10.1007/s00394-023-03302-w]](https://doi.org/[10.1007/s00394-023-03302-w]) PDF behind paywall
 
 Yajing Shen 1 2, Junfen Xia 3, Chuncheng Yi 1 2, Tiandong Li 1 2, Peng Wang 1 2, Liping Dai 2 4, Jianxiang Shi 2 4, Keyan Wang 2 4, Changqing Sun 1 5, Hua Ye 6 7
 
@@ -654,7 +654,7 @@ Conclusion: Evidence from this meta-analysis suggested that high circulating 25(
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;81+&lt;/span&gt;  VitaminDWiki Cancer meta-analyses
+#### &lt;span style=&quot;color:#F06;&quot;&gt;81+&lt;/span&gt;  VitaminDWiki Cancer meta-analyses
 
 &lt;!-- {LIST()}
 {list max=&quot;150&quot;}
@@ -1074,15 +1074,10 @@ AST Structure:
 │   ├── TextNode
 │   │   full_match: `The association between circulating 25-hydroxyvitamin D and pancreatic cancer: a systematic review and meta-analysis of observational studies`
 │   │   inner_content: `The association between circulating 25-hydroxyvitamin D and pancreatic cancer: a systematic review and meta-analysis of observational studies`├── TextNode
-│   full_match: `\nEur J Nutr. 2024 Jan 3. doi: `
-│   inner_content: `\nEur J Nutr. 2024 Jan 3. doi: `├── LinkNode
-│   full_match: `[10.1007/s00394-023-03302-w]`
-│   inner_content: `10.1007/s00394-023-03302-w`
-│   url: `10.1007/s00394-023-03302-w`
-│   children:
-│   ├── TextNode
-│   │   full_match: `10.1007/s00394-023-03302-w`
-│   │   inner_content: `10.1007/s00394-023-03302-w`├── TextNode
+│   full_match: `\nEur J Nutr. 2024 Jan 3. `
+│   inner_content: `\nEur J Nutr. 2024 Jan 3. `├── DoiLinkNode
+│   full_match: `doi: [10.1007/s00394-023-03302-w]`
+│   inner_content: `[10.1007/s00394-023-03302-w]`├── TextNode
 │   full_match: ` PDF behind paywall\nYajing Shen 1 2, Junfen Xia 3, Chuncheng Yi 1 2, Tiandong Li 1 2, Peng Wang 1 2, Liping Dai 2 4, Jianxiang Shi 2 4, Keyan Wang 2 4, Changqing Sun 1 5, Hua Ye 6 7\n\nPurpose: The relationship between circulating 25-hydroxyvitamin D `
 │   inner_content: ` PDF behind paywall\nYajing Shen 1 2, Junfen Xia 3, Chuncheng Yi 1 2, Tiandong Li 1 2, Peng Wang 1 2, Liping Dai 2 4, Jianxiang Shi 2 4, Keyan Wang 2 4, Changqing Sun 1 5, Hua Ye 6 7\n\nPurpose: The relationship between circulating 25-hydroxyvitamin D `├── LinkNode
 │   full_match: `[25(OH)D]`

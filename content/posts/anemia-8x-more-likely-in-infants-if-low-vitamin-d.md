@@ -17,7 +17,7 @@ categories:
 
 #### Bionics investigation of blood 25-hydroxyvitamin D in the interpretable biomechanics diagnosis of childhood anemia
 
-Acta Biochim Pol. 2023 Sep 6. [doi: 10.18388/abp.2020](https://doi.org/10.18388/abp.2020)_6676
+Acta Biochim Pol. 2023 Sep 6. [doi: 10.18388/abp.2020_6676](https://doi.org/10.18388/abp.2020_6676)
 
 Lechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2
 
@@ -48,7 +48,7 @@ Markdown:
 
 #### Bionics investigation of blood 25-hydroxyvitamin D in the interpretable biomechanics diagnosis of childhood anemia
 
-Acta Biochim Pol. 2023 Sep 6. [doi: 10.18388/abp.2020](https://doi.org/10.18388/abp.2020)_6676
+Acta Biochim Pol. 2023 Sep 6. [doi: 10.18388/abp.2020_6676](https://doi.org/10.18388/abp.2020_6676)
 
 Lechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2
 
@@ -95,10 +95,10 @@ AST Structure:
 │   │   inner_content: `Bionics investigation of blood 25-hydroxyvitamin D in the interpretable biomechanics diagnosis of childhood anemia`├── TextNode
 │   full_match: `\nActa Biochim Pol. 2023 Sep 6. `
 │   inner_content: `\nActa Biochim Pol. 2023 Sep 6. `├── DoiLinkNode
-│   full_match: `doi: 10.18388/abp.2020`
-│   inner_content: `10.18388/abp.2020`├── TextNode
-│   full_match: `_6676\nLechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2\n\nVitamin D deficiency (VDD) causes a wide range of health problems, including anemia in infants. If not treated promptly, it may create serious issues for infants with long-term impacts. Therefore, a satisfactory solution to this problem is required. This investigation was to explore the correlation between the blood 25-hydroxyvitamin D (25(OH)D) levels and childhood anemia. In this investigation, a cross-sectional examination was performed on 2,942 babies ranging in age from 2 to 36 months and classified into three cohorts: VDD (Vitamin D deficiency), VDI (Vitamin D insufficiency), and VDS (Vitamin D sufficiency). Multiple-variables and multinomially-related logistic regressions for examining the anemia status-vitamin D (Vit-D) relationship of the baseline as the interpretable visual quality models were examined. The median serum 25(OH)D level in 2,942 infants was 24.72±4.26 ng/l, with 661 cases (22.5%) of VDD and 1710 cases of deficiency (58.1%), and a noticeable seasonal variation (p&lt;0.05). \nAnemia was present in \n`
-│   inner_content: `_6676\nLechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2\n\nVitamin D deficiency (VDD) causes a wide range of health problems, including anemia in infants. If not treated promptly, it may create serious issues for infants with long-term impacts. Therefore, a satisfactory solution to this problem is required. This investigation was to explore the correlation between the blood 25-hydroxyvitamin D (25(OH)D) levels and childhood anemia. In this investigation, a cross-sectional examination was performed on 2,942 babies ranging in age from 2 to 36 months and classified into three cohorts: VDD (Vitamin D deficiency), VDI (Vitamin D insufficiency), and VDS (Vitamin D sufficiency). Multiple-variables and multinomially-related logistic regressions for examining the anemia status-vitamin D (Vit-D) relationship of the baseline as the interpretable visual quality models were examined. The median serum 25(OH)D level in 2,942 infants was 24.72±4.26 ng/l, with 661 cases (22.5%) of VDD and 1710 cases of deficiency (58.1%), and a noticeable seasonal variation (p&lt;0.05). \nAnemia was present in \n`├── ListItemNode
+│   full_match: `doi: 10.18388/abp.2020_6676`
+│   inner_content: `10.18388/abp.2020_6676`├── TextNode
+│   full_match: `\nLechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2\n\nVitamin D deficiency (VDD) causes a wide range of health problems, including anemia in infants. If not treated promptly, it may create serious issues for infants with long-term impacts. Therefore, a satisfactory solution to this problem is required. This investigation was to explore the correlation between the blood 25-hydroxyvitamin D (25(OH)D) levels and childhood anemia. In this investigation, a cross-sectional examination was performed on 2,942 babies ranging in age from 2 to 36 months and classified into three cohorts: VDD (Vitamin D deficiency), VDI (Vitamin D insufficiency), and VDS (Vitamin D sufficiency). Multiple-variables and multinomially-related logistic regressions for examining the anemia status-vitamin D (Vit-D) relationship of the baseline as the interpretable visual quality models were examined. The median serum 25(OH)D level in 2,942 infants was 24.72±4.26 ng/l, with 661 cases (22.5%) of VDD and 1710 cases of deficiency (58.1%), and a noticeable seasonal variation (p&lt;0.05). \nAnemia was present in \n`
+│   inner_content: `\nLechi Zhang 1, Aijie Huang 2, Jingye Cai 3, Jiangting Hou 3, Hongyan Deng 3, Chenxiao Liu 2\n\nVitamin D deficiency (VDD) causes a wide range of health problems, including anemia in infants. If not treated promptly, it may create serious issues for infants with long-term impacts. Therefore, a satisfactory solution to this problem is required. This investigation was to explore the correlation between the blood 25-hydroxyvitamin D (25(OH)D) levels and childhood anemia. In this investigation, a cross-sectional examination was performed on 2,942 babies ranging in age from 2 to 36 months and classified into three cohorts: VDD (Vitamin D deficiency), VDI (Vitamin D insufficiency), and VDS (Vitamin D sufficiency). Multiple-variables and multinomially-related logistic regressions for examining the anemia status-vitamin D (Vit-D) relationship of the baseline as the interpretable visual quality models were examined. The median serum 25(OH)D level in 2,942 infants was 24.72±4.26 ng/l, with 661 cases (22.5%) of VDD and 1710 cases of deficiency (58.1%), and a noticeable seasonal variation (p&lt;0.05). \nAnemia was present in \n`├── ListItemNode
 │   full_match: `*28.5% of the VDD group compared with `
 │   inner_content: `28.5% of the VDD group compared with `
 │   depth: `1`

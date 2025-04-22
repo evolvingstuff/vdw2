@@ -12,31 +12,31 @@ categories:
 
 <!-- ~tc~ start ~/tc~ -->
 
- **5-10 minutes of sun provides ONLY 1,000 IU  <span style="color:orange;">ONLY IF</span>** 
+ **5-10 minutes of sun provides ONLY 1,000 IU <span style="color:#00F;">ONLY IF</span>** 
 
 * you are near the equator
 
-*  **<span style="color:orange;">AND</span>**  young (seniors 4X longer)
+*  **<span style="color:#00F;">AND</span>**  young (seniors 4X longer)
 
-*  **<span style="color:orange;">AND</span>**  not obese ( need 3X longer)
+*  **<span style="color:#00F;">AND</span>**  not obese ( need 3X longer)
 
-*  **<span style="color:orange;">AND</span>**  have light skin (Dark Skin need 4X longer)
+*  **<span style="color:#00F;">AND</span>**  have light skin (Dark Skin need 4X longer)
 
-*  **<span style="color:orange;">AND</span>**  it is summer
+*  **<span style="color:#00F;">AND</span>**  it is summer
 
-*  **<span style="color:orange;">AND</span>**  it is the middle of the day
+*  **<span style="color:#00F;">AND</span>**  it is the middle of the day
 
-*  **<span style="color:orange;">AND</span>**  you have lots of skin exposed to the sun
+*  **<span style="color:#00F;">AND</span>**  you have lots of skin exposed to the sun
 
-*  **<span style="color:orange;">AND</span>**  you are lying down
+*  **<span style="color:#00F;">AND</span>**  you are lying down
 
-*  **<span style="color:orange;">AND</span>**  you are not wearing sunscreen
+*  **<span style="color:#00F;">AND</span>**  you are not wearing sunscreen
 
-*  **<span style="color:orange;">AND</span>**  you have a healthy <a href="/posts/liver-and-overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D">Kidney</a>
+*  **<span style="color:#00F;">AND</span>**  you have a healthy <a href="/posts/liver-and-overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D">Kidney</a>
 
-*  **<span style="color:orange;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D">air pollution</a>
+*  **<span style="color:#00F;">AND</span>**  there are no clouds nor <a href="/posts/air-pollution-reduces-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D">air pollution</a>
 
-*  **<span style="color:orange;">AND</span>**  you have a good response to sunshine (4X variation between individuals)
+*  **<span style="color:#00F;">AND</span>**  you have a good response to sunshine (4X variation between individuals)
 
 <!-- ~tc~ end ~/tc~ -->
 
@@ -48,31 +48,31 @@ Markdown:
 --------
 &lt;!-- ~tc~ start ~/tc~ --&gt;
 
- **5-10 minutes of sun provides ONLY 1,000 IU  &lt;span style=&quot;color:orange;&quot;&gt;ONLY IF&lt;/span&gt;** 
+ **5-10 minutes of sun provides ONLY 1,000 IU &lt;span style=&quot;color:#00F;&quot;&gt;ONLY IF&lt;/span&gt;** 
 
 * you are near the equator
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  young (seniors 4X longer)
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  young (seniors 4X longer)
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  not obese ( need 3X longer)
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  not obese ( need 3X longer)
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  have light skin (Dark Skin need 4X longer)
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  have light skin (Dark Skin need 4X longer)
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is summer
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  it is summer
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  it is the middle of the day
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  it is the middle of the day
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have lots of skin exposed to the sun
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  you have lots of skin exposed to the sun
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are lying down
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  you are lying down
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  you are not wearing sunscreen
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a healthy &lt;a href=&quot;/posts/liver-and-overview-kidney-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D&quot;&gt;Kidney&lt;/a&gt;
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  you have a healthy &lt;a href=&quot;/posts/liver-and-overview-kidney-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Liver)) and ((Overview Kidney and vitamin D&quot;&gt;Kidney&lt;/a&gt;
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D&quot;&gt;air pollution&lt;/a&gt;
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  there are no clouds nor &lt;a href=&quot;/posts/air-pollution-reduces-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Air Pollution reduces Vitamin D&quot;&gt;air pollution&lt;/a&gt;
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
+*  **&lt;span style=&quot;color:#00F;&quot;&gt;AND&lt;/span&gt;**  you have a good response to sunshine (4X variation between individuals)
 
 &lt;!-- ~tc~ end ~/tc~ --&gt;
 

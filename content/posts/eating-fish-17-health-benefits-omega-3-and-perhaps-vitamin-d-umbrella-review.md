@@ -29,31 +29,31 @@ Hailiang Zhao1,2#, Min Wang1#, Xiaojuan Peng1,3#, Lu Zhong1#, Xiongxiu Liu1, Yin
 
 #### Statistically significant Meta-analyses
 
-#####  <span style="color:orange;">Mortality</span>
+##### <span style="color:#F00;">Mortality</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Cancers</span>
+##### <span style="color:#F00;">Cancers</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Cardiovascular Disease</span>
+##### <span style="color:#F00;">Cardiovascular Disease</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Metabolic Syndrome</span>
+##### <span style="color:#F00;">Metabolic Syndrome</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Cognitive</span>
+##### <span style="color:#F00;">Cognitive</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Allergic</span>
+##### <span style="color:#F00;">Allergic</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
-#####  <span style="color:orange;">Other</span>
+##### <span style="color:#F00;">Other</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
@@ -65,7 +65,7 @@ Methods: The methodological quality of the included meta-analyses and the qualit
 
 * 34 showed nonsignificant associations 
 
-  * and only one was harmful (myeloid leukemia).
+   * and only one was harmful (myeloid leukemia).
 
 Results: A total of 17 beneficial associations
 
@@ -118,31 +118,31 @@ Hailiang Zhao1,2#, Min Wang1#, Xiaojuan Peng1,3#, Lu Zhong1#, Xiongxiu Liu1, Yin
 
 #### Statistically significant Meta-analyses
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Mortality&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Mortality&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Cancers&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Cancers&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Cardiovascular Disease&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Cardiovascular Disease&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Metabolic Syndrome&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Metabolic Syndrome&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Cognitive&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Cognitive&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Allergic&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Allergic&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Other&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;Other&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
@@ -154,7 +154,7 @@ Methods: The methodological quality of the included meta-analyses and the qualit
 
 * 34 showed nonsignificant associations 
 
-  * and only one was harmful (myeloid leukemia).
+   * and only one was harmful (myeloid leukemia).
 
 Results: A total of 17 beneficial associations
 

@@ -34,7 +34,7 @@ Suspect that "mg of Vitamin D" should be "IU of vitamn D"
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) ~/tc~ -->
 
@@ -65,7 +65,7 @@ Suspect that &quot;mg of Vitamin D&quot; should be &quot;IU of vitamn D&quot;
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(Patent for fighting COVID - Vitamin D is one of the ingredients - Oct 2023)) ~/tc~ --&gt;
 

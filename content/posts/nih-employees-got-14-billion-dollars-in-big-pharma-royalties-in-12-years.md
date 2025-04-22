@@ -20,7 +20,7 @@ date: 2023-01-22
 
 * "acting director of the NIH, “admitted that, yes,  **every single one of those 56,000 payments over the course of the last 12 years has the appearance of a conflict of interest** ,” 
 
- **<span style="color:orange;">Note: If 100 NIH employees equally shared the $127 million in 2021, each would have gotten $1.27 million in Pfizer royalties.   A truely  huge incentive to push for Pfizer vaccinations.</span>** 
+ **<span style="color:#00F;">Note: If 100 NIH employees equally shared the $127 million in 2021, each would have gotten $1.27 million in Pfizer royalties.   A truely  huge incentive to push for Pfizer vaccinations.</span>** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -39,7 +39,7 @@ Markdown:
 
 * &quot;acting director of the NIH, “admitted that, yes,  **every single one of those 56,000 payments over the course of the last 12 years has the appearance of a conflict of interest** ,” 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: If 100 NIH employees equally shared the $127 million in 2021, each would have gotten $1.27 million in Pfizer royalties.   A truely  huge incentive to push for Pfizer vaccinations.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Note: If 100 NIH employees equally shared the $127 million in 2021, each would have gotten $1.27 million in Pfizer royalties.   A truely  huge incentive to push for Pfizer vaccinations.&lt;/span&gt;** 
 
 
 AST Structure:

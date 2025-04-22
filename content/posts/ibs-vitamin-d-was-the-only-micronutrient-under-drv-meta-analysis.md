@@ -31,7 +31,7 @@ Results of this systematic review and meta-analysis suggest that fiber and vitam
 
  **Clipped from PDF** 
 
- **<span style="color:orange;">Vitamin D was the only micronutrient failing to meet all recommended DRVs in adults with IBS</span>** 
+ **<span style="color:#00F;">Vitamin D was the only micronutrient failing to meet all recommended DRVs in adults with IBS</span>** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -69,7 +69,7 @@ Results of this systematic review and meta-analysis suggest that fiber and vitam
 
  **Clipped from PDF** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Vitamin D was the only micronutrient failing to meet all recommended DRVs in adults with IBS&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Vitamin D was the only micronutrient failing to meet all recommended DRVs in adults with IBS&lt;/span&gt;** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

@@ -22,7 +22,7 @@ Atsuko Kanno 1, Toshitake Aizawa 2, Yu Mori 3, Toshimi Aizawa 3
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<span style="color:orange;">None had >27 ng/mL of Vitamin D</span>** 
+ **<span style="color:#009;">None had >27 ng/mL of Vitamin D</span>** 
 
 Background: Vitamin D insufficiency/deficiency is related to fragility fracture. In most previous studies, there was no assessment of vitamin D deficiency status separately for hip fracture types. The first aim is to evaluate vitamin D and parathyroid hormone (PTH) status in patients with hip fracture. The second objective is to determine whether there are differences in vitamin D and PTH between the femoral neck fracture and the femoral metaphyseal fracture group.
 
@@ -55,7 +55,7 @@ Atsuko Kanno 1, Toshitake Aizawa 2, Yu Mori 3, Toshimi Aizawa 3
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;None had &gt;27 ng/mL of Vitamin D&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#009;&quot;&gt;None had &gt;27 ng/mL of Vitamin D&lt;/span&gt;** 
 
 Background: Vitamin D insufficiency/deficiency is related to fragility fracture. In most previous studies, there was no assessment of vitamin D deficiency status separately for hip fracture types. The first aim is to evaluate vitamin D and parathyroid hormone (PTH) status in patients with hip fracture. The second objective is to determine whether there are differences in vitamin D and PTH between the femoral neck fracture and the femoral metaphyseal fracture group.
 

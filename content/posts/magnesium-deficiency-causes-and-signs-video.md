@@ -31,7 +31,7 @@ Today, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of
 
 Magnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. 
 
- **The top  <span style="color:orange;">causes</span> of magnesium deficiency include:** 
+ **The top <span style="color:#00F;">causes</span> of magnesium deficiency include:** 
 
 • Consumption of sugar and refined carbs
 
@@ -57,7 +57,7 @@ Diabetes, high blood pressure, arthritis, osteoporosis, and cardiovascular disea
 
 The best sources of magnesium are leafy greens, almonds, and dark chocolate, but some of these foods contain oxalates. Oxalates block the absorption of magnesium. Meat, cheese, and shellfish contain magnesium and do not contain oxalates. 
 
- **Here are 22 surprising <span style="color:orange;">signs</span> of magnesium deficiency:** 
+ **Here are 22 surprising<span style="color:#00F;">signs</span> of magnesium deficiency:** 
 
 • Anxiety
 
@@ -101,7 +101,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency.   
+ **Neuromuscular excitability, or tetany, is the <span style="color:#00F;">number 1 earliest sign</span> of a magnesium deficiency.   
 Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
@@ -132,7 +132,7 @@ Today, I’m going to share 22 signs of a magnesium deficiency. Sixty percent of
 
 Magnesium deficiency is the most overlooked deficiency because it cannot be detected by a blood test. 
 
- **The top  &lt;span style=&quot;color:orange;&quot;&gt;causes&lt;/span&gt; of magnesium deficiency include:** 
+ **The top &lt;span style=&quot;color:#00F;&quot;&gt;causes&lt;/span&gt; of magnesium deficiency include:** 
 
 • Consumption of sugar and refined carbs
 
@@ -158,7 +158,7 @@ Diabetes, high blood pressure, arthritis, osteoporosis, and cardiovascular disea
 
 The best sources of magnesium are leafy greens, almonds, and dark chocolate, but some of these foods contain oxalates. Oxalates block the absorption of magnesium. Meat, cheese, and shellfish contain magnesium and do not contain oxalates. 
 
- **Here are 22 surprising &lt;span style=&quot;color:orange;&quot;&gt;signs&lt;/span&gt; of magnesium deficiency:** 
+ **Here are 22 surprising&lt;span style=&quot;color:#00F;&quot;&gt;signs&lt;/span&gt; of magnesium deficiency:** 
 
 • Anxiety
 
@@ -202,7 +202,7 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency.   
+ **Neuromuscular excitability, or tetany, is the &lt;span style=&quot;color:#00F;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency.   
 Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 

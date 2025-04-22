@@ -21,11 +21,11 @@ everyone should get a vitamin D test to determin if any change is needed
 | | | | |
 | --- | --- | --- | --- |
 | __Test results | % | Possible reasons for the result | Possible actions__ |
-| <40 ng<br> <span style="color:orange;">(<100 nmol/L)</span> | 32% | Senior, Autistic, Smoker, Obese, slow responder<br>taking statins, low magnesium, bariatric surgery, <br>Poor health (consuming vitamin D)<br>POOR: liver, genes, gut, pancreas, gall bladder | 1) larger dose of Vitamin D, <br>2) gut-friendly vitamin D, <br>3) probiotics<br>4) wait for slow responder |
-| 40 ng-120 ng<br> <span style="color:orange;">(100-300 nmol/L)</span> | 60% | Right on target | no change needed if feel benefit |
-| 40 ng-120 ng<br> <span style="color:orange;">(100-300 nmol/L)</span> | 5% | on target, but not feel any benefit<br>Vitamin D probably not getting to cell | Activate Vitamin D receptor<br> &nbsp; &nbsp; (weekly dosing, Resveratrol, etc.)<br>What to do if Poor Kidney, 3 other genes  |
-| >120 ng<br> <span style="color:orange;">(>300 nmol/L)</span> | 3%  | Excessive response<br>Genes, drugs being taken | Reduce Vitamin D dose - perhaps by 50% |
-| >200 ng <br> <span style="color:orange;">(500 nmol)</span> | 1% | Dangerous response | Should person stop taking Vitamin D<br>Might daily be better for that person? |
+| <40 ng<br><span style="color:#00F;">(<100 nmol/L)</span> | 32% | Senior, Autistic, Smoker, Obese, slow responder<br>taking statins, low magnesium, bariatric surgery, <br>Poor health (consuming vitamin D)<br>POOR: liver, genes, gut, pancreas, gall bladder | 1) larger dose of Vitamin D, <br>2) gut-friendly vitamin D, <br>3) probiotics<br>4) wait for slow responder |
+| 40 ng-120 ng<br><span style="color:#00F;">(100-300 nmol/L)</span> | 60% | Right on target | no change needed if feel benefit |
+| 40 ng-120 ng<br><span style="color:#00F;">(100-300 nmol/L)</span> | 5% | on target, but not feel any benefit<br>Vitamin D probably not getting to cell | Activate Vitamin D receptor<br> &nbsp; &nbsp; (weekly dosing, Resveratrol, etc.)<br>What to do if Poor Kidney, 3 other genes  |
+| >120 ng<br><span style="color:#00F;">(>300 nmol/L)</span> | 3%  | Excessive response<br>Genes, drugs being taken | Reduce Vitamin D dose - perhaps by 50% |
+| >200 ng <br><span style="color:#00F;">(500 nmol)</span> | 1% | Dangerous response | Should person stop taking Vitamin D<br>Might daily be better for that person? |
 
  **References** 
 
@@ -52,11 +52,11 @@ everyone should get a vitamin D test to determin if any change is needed
 | | | | |
 | --- | --- | --- | --- |
 | __Test results | % | Possible reasons for the result | Possible actions__ |
-| &lt;40 ng&lt;br&gt; &lt;span style=&quot;color:orange;&quot;&gt;(&lt;100 nmol/L)&lt;/span&gt; | 32% | Senior, Autistic, Smoker, Obese, slow responder&lt;br&gt;taking statins, low magnesium, bariatric surgery, &lt;br&gt;Poor health (consuming vitamin D)&lt;br&gt;POOR: liver, genes, gut, pancreas, gall bladder | 1) larger dose of Vitamin D, &lt;br&gt;2) gut-friendly vitamin D, &lt;br&gt;3) probiotics&lt;br&gt;4) wait for slow responder |
-| 40 ng-120 ng&lt;br&gt; &lt;span style=&quot;color:orange;&quot;&gt;(100-300 nmol/L)&lt;/span&gt; | 60% | Right on target | no change needed if feel benefit |
-| 40 ng-120 ng&lt;br&gt; &lt;span style=&quot;color:orange;&quot;&gt;(100-300 nmol/L)&lt;/span&gt; | 5% | on target, but not feel any benefit&lt;br&gt;Vitamin D probably not getting to cell | Activate Vitamin D receptor&lt;br&gt; &amp;nbsp; &amp;nbsp; (weekly dosing, Resveratrol, etc.)&lt;br&gt;What to do if Poor Kidney, 3 other genes  |
-| &gt;120 ng&lt;br&gt; &lt;span style=&quot;color:orange;&quot;&gt;(&gt;300 nmol/L)&lt;/span&gt; | 3%  | Excessive response&lt;br&gt;Genes, drugs being taken | Reduce Vitamin D dose - perhaps by 50% |
-| &gt;200 ng &lt;br&gt; &lt;span style=&quot;color:orange;&quot;&gt;(500 nmol)&lt;/span&gt; | 1% | Dangerous response | Should person stop taking Vitamin D&lt;br&gt;Might daily be better for that person? |
+| &lt;40 ng&lt;br&gt;&lt;span style=&quot;color:#00F;&quot;&gt;(&lt;100 nmol/L)&lt;/span&gt; | 32% | Senior, Autistic, Smoker, Obese, slow responder&lt;br&gt;taking statins, low magnesium, bariatric surgery, &lt;br&gt;Poor health (consuming vitamin D)&lt;br&gt;POOR: liver, genes, gut, pancreas, gall bladder | 1) larger dose of Vitamin D, &lt;br&gt;2) gut-friendly vitamin D, &lt;br&gt;3) probiotics&lt;br&gt;4) wait for slow responder |
+| 40 ng-120 ng&lt;br&gt;&lt;span style=&quot;color:#00F;&quot;&gt;(100-300 nmol/L)&lt;/span&gt; | 60% | Right on target | no change needed if feel benefit |
+| 40 ng-120 ng&lt;br&gt;&lt;span style=&quot;color:#00F;&quot;&gt;(100-300 nmol/L)&lt;/span&gt; | 5% | on target, but not feel any benefit&lt;br&gt;Vitamin D probably not getting to cell | Activate Vitamin D receptor&lt;br&gt; &amp;nbsp; &amp;nbsp; (weekly dosing, Resveratrol, etc.)&lt;br&gt;What to do if Poor Kidney, 3 other genes  |
+| &gt;120 ng&lt;br&gt;&lt;span style=&quot;color:#00F;&quot;&gt;(&gt;300 nmol/L)&lt;/span&gt; | 3%  | Excessive response&lt;br&gt;Genes, drugs being taken | Reduce Vitamin D dose - perhaps by 50% |
+| &gt;200 ng &lt;br&gt;&lt;span style=&quot;color:#00F;&quot;&gt;(500 nmol)&lt;/span&gt; | 1% | Dangerous response | Should person stop taking Vitamin D&lt;br&gt;Might daily be better for that person? |
 
  **References** 
 

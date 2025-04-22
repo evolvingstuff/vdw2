@@ -38,7 +38,7 @@ Participants with vitamin D deficiency (n = 78) had similar NPI-R score (17.
 
 * higher (i.e., worse) subscore of agitation
 
-  * and aggressiveness (2.0 ± 3.3 versus 1.2 ± 2.4, p = 0.02) and 
+   * and aggressiveness (2.0 ± 3.3 versus 1.2 ± 2.4, p = 0.02) and 
 
 * higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)
 
@@ -102,7 +102,7 @@ Participants with vitamin D deficiency (n = 78) had similar NPI-R score (17.
 
 * higher (i.e., worse) subscore of agitation
 
-  * and aggressiveness (2.0 ± 3.3 versus 1.2 ± 2.4, p = 0.02) and 
+   * and aggressiveness (2.0 ± 3.3 versus 1.2 ± 2.4, p = 0.02) and 
 
 * higher (i.e., worse) subscore of disinhibition (0.99 ± 2.98 versus 0.38 ± 1.42, p = 0.02)
 

@@ -45,7 +45,7 @@ Conclusions: Vitamin D levels in pediatric CD patients were lower than in health
 
 ---
 
-####  <span style="color:orange;">9+</span> CELIAC DISEASE in VitaminDWiki title
+#### <span style="color:#F06;">9+</span> CELIAC DISEASE in VitaminDWiki title
 
 This list is automatcially updated
 
@@ -107,7 +107,7 @@ Conclusions: Vitamin D levels in pediatric CD patients were lower than in health
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;9+&lt;/span&gt; CELIAC DISEASE in VitaminDWiki title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;9+&lt;/span&gt; CELIAC DISEASE in VitaminDWiki title
 
 This list is automatcially updated
 

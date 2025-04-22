@@ -60,13 +60,13 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 * 216+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a> includes:
 
-  * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
+   * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 
-  * <a href="/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023">COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023</a>
+   * <a href="/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023">COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023</a>
 
-  * <a href="/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of excess deaths and vaccination in the Netherlands - for 2022">Chart of excess deaths and vaccination in the Netherlands - for 2022</a>
+   * <a href="/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of excess deaths and vaccination in the Netherlands - for 2022">Chart of excess deaths and vaccination in the Netherlands - for 2022</a>
 
-  * <a href="/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022">2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022</a>
+   * <a href="/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022">2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022</a>
 
 ---
 
@@ -96,7 +96,7 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 1. Theoharides TC. Could SARS-CoV-2 Spike Protein Be Responsible for Long-COVID Syndrome? Mol Neurobiol. 2022 Mar;59(3):1850-1861. [doi: 10.1007/s12035-021-02696-0.](https://doi.org/10.1007/s12035-021-02696-0.) Epub 2022 Jan 13. PMID: 35028901; PMCiD: PMC8757925.
 
-1. Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. [doi: 10.23812/THEO](https://doi.org/10.23812/THEO)_EDIT_3_21. PMID: 34100279.
+1. Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. [doi: 10.23812/THEO_EDIT_3_21.](https://doi.org/10.23812/THEO_EDIT_3_21.) PMID: 34100279.
 
 1. Aleem A, Nadeem AJ. Coronavirus (COVID-19) Vaccine-Induced Immun; Thrombotic Thrombocytopenia (VITT). 2022 Oct 3. In: StatPearls <span>[Internet]</span>. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. PMID: 34 333 67.
 
@@ -210,9 +210,9 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 1. Zidan A, Noureldin A, Kumar SA, Elsebaie A, Othman M. COVID-19 Vaccine-Associated Immune Thrombosis and Thrombocytopenia (VITfV Diagnostic Discrepancies and Global Implications. Semin Thromb H~vost. 2023 Feb;49(1):9-14. [doi: 10.1055/s-0042-1759684.](https://doi.org/10.1055/s-0042-1759684.) Epub 2023 Jan 5.PMID: 36603593.
 
-1. Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe 'spect. 2021 Nov 15;11(6):877-879. [doi: 10.1080/20](https://doi.org/10.1080/20)(0oj6i.202L1990825. PMID: 34804412; PMCID: PMC8604520.
+1. Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe 'spect. 2021 Nov 15;11(6):877-879. [doi: 10.1080/20(0oj6i.202L1990825.](https://doi.org/10.1080/20(0oj6i.202L1990825.) PMID: 34804412; PMCID: PMC8604520.
 
-1. Abraham B, Mohammed s'eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. [doi: 10.5339/qmj.2](https://doi.org/10.5339/qmj.2)(22.40. PMID: 35974885; PMCID: PMC9372495.
+1. Abraham B, Mohammed s'eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. [doi: 10.5339/qmj.2(22.40.](https://doi.org/10.5339/qmj.2(22.40.) PMID: 35974885; PMCID: PMC9372495.
 
 1. Yoshifuji A, Ishioka K, Masuzawa Y, Suda S, Murata S, Uwamino Y, Fujino M, Miyahara H, Hasegawa N, Ryuzaki M, Hoshino H, Sekine K. COVID-19 vaccine induced interstitial lung disease. J Infect Chemother. 2(22 Jan;28(1):95-98. [doi: 10.1016/j.jiac.2021.09.010.](https://doi.org/10.1016/j.jiac.2021.09.010.) Epub 2021 Sep 20. PMID: 34580010; PMCID: PMC8450284.
 
@@ -296,13 +296,13 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 * 216+ &lt;a href=&quot;/posts/vaccination-pages-in-vitamindwiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;Vaccination pages in VitaminDWiki&lt;/a&gt; includes:
 
-  * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
+   * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 
-  * &lt;a href=&quot;/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023&quot;&gt;COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023&lt;/a&gt;
+   * &lt;a href=&quot;/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023&quot;&gt;COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023&lt;/a&gt;
 
-  * &lt;a href=&quot;/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chart of excess deaths and vaccination in the Netherlands - for 2022&quot;&gt;Chart of excess deaths and vaccination in the Netherlands - for 2022&lt;/a&gt;
+   * &lt;a href=&quot;/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chart of excess deaths and vaccination in the Netherlands - for 2022&quot;&gt;Chart of excess deaths and vaccination in the Netherlands - for 2022&lt;/a&gt;
 
-  * &lt;a href=&quot;/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022&quot;&gt;2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022&lt;/a&gt;
+   * &lt;a href=&quot;/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022&quot;&gt;2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022&lt;/a&gt;
 
 ---
 
@@ -332,7 +332,7 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 1. Theoharides TC. Could SARS-CoV-2 Spike Protein Be Responsible for Long-COVID Syndrome? Mol Neurobiol. 2022 Mar;59(3):1850-1861. [doi: 10.1007/s12035-021-02696-0.](https://doi.org/10.1007/s12035-021-02696-0.) Epub 2022 Jan 13. PMID: 35028901; PMCiD: PMC8757925.
 
-1. Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. [doi: 10.23812/THEO](https://doi.org/10.23812/THEO)_EDIT_3_21. PMID: 34100279.
+1. Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. [doi: 10.23812/THEO_EDIT_3_21.](https://doi.org/10.23812/THEO_EDIT_3_21.) PMID: 34100279.
 
 1. Aleem A, Nadeem AJ. Coronavirus (COVID-19) Vaccine-Induced Immun; Thrombotic Thrombocytopenia (VITT). 2022 Oct 3. In: StatPearls &lt;span&gt;[Internet]&lt;/span&gt;. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. PMID: 34 333 67.
 
@@ -446,9 +446,9 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 1. Zidan A, Noureldin A, Kumar SA, Elsebaie A, Othman M. COVID-19 Vaccine-Associated Immune Thrombosis and Thrombocytopenia (VITfV Diagnostic Discrepancies and Global Implications. Semin Thromb H~vost. 2023 Feb;49(1):9-14. [doi: 10.1055/s-0042-1759684.](https://doi.org/10.1055/s-0042-1759684.) Epub 2023 Jan 5.PMID: 36603593.
 
-1. Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe &#39;spect. 2021 Nov 15;11(6):877-879. [doi: 10.1080/20](https://doi.org/10.1080/20)(0oj6i.202L1990825. PMID: 34804412; PMCID: PMC8604520.
+1. Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe &#39;spect. 2021 Nov 15;11(6):877-879. [doi: 10.1080/20(0oj6i.202L1990825.](https://doi.org/10.1080/20(0oj6i.202L1990825.) PMID: 34804412; PMCID: PMC8604520.
 
-1. Abraham B, Mohammed s&#39;eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. [doi: 10.5339/qmj.2](https://doi.org/10.5339/qmj.2)(22.40. PMID: 35974885; PMCID: PMC9372495.
+1. Abraham B, Mohammed s&#39;eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. [doi: 10.5339/qmj.2(22.40.](https://doi.org/10.5339/qmj.2(22.40.) PMID: 35974885; PMCID: PMC9372495.
 
 1. Yoshifuji A, Ishioka K, Masuzawa Y, Suda S, Murata S, Uwamino Y, Fujino M, Miyahara H, Hasegawa N, Ryuzaki M, Hoshino H, Sekine K. COVID-19 vaccine induced interstitial lung disease. J Infect Chemother. 2(22 Jan;28(1):95-98. [doi: 10.1016/j.jiac.2021.09.010.](https://doi.org/10.1016/j.jiac.2021.09.010.) Epub 2021 Sep 20. PMID: 34580010; PMCID: PMC8450284.
 
@@ -934,11 +934,11 @@ AST Structure:
 │   │   full_match: `Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. `
 │   │   inner_content: `Theoharides TC, Conti P. Be aware of SARS-CoV-2 spike protein: There is more than meets the eye. J Biol Regul Homeost Agents. 2021 May- Jun;35(3):833-838. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.23812/THEO`
-│   │   inner_content: `10.23812/THEO`
+│   │   full_match: `doi: 10.23812/THEO_EDIT_3_21.`
+│   │   inner_content: `10.23812/THEO_EDIT_3_21.`
 │   ├── TextNode
-│   │   full_match: `_EDIT_3_21. PMID: 34100279.`
-│   │   inner_content: `_EDIT_3_21. PMID: 34100279.`├── TextNode
+│   │   full_match: ` PMID: 34100279.`
+│   │   inner_content: ` PMID: 34100279.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Aleem A, Nadeem AJ. Coronavirus (COVID-19) Vaccine-Induced Immun; Thrombotic Thrombocytopenia (VITT). 2022 Oct 3. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. PMID: 34 333 67.`
@@ -1796,11 +1796,11 @@ AST Structure:
 │   │   full_match: `Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe &#39;spect. 2021 Nov 15;11(6):877-879. `
 │   │   inner_content: `Ifeanyi N, Chinenye N, Oladiran O, David E, Mmom~ C, Ogoonna-Nwosu C. Isolated pulmonary embolism following COVD Vaccination: 2 case reports and a review of post-acute pulmonary embolism complications and follow-up. J Community Hosp Intern M ed Pe &#39;spect. 2021 Nov 15;11(6):877-879. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1080/20`
-│   │   inner_content: `10.1080/20`
+│   │   full_match: `doi: 10.1080/20(0oj6i.202L1990825.`
+│   │   inner_content: `10.1080/20(0oj6i.202L1990825.`
 │   ├── TextNode
-│   │   full_match: `(0oj6i.202L1990825. PMID: 34804412; PMCID: PMC8604520.`
-│   │   inner_content: `(0oj6i.202L1990825. PMID: 34804412; PMCID: PMC8604520.`├── TextNode
+│   │   full_match: ` PMID: 34804412; PMCID: PMC8604520.`
+│   │   inner_content: ` PMID: 34804412; PMCID: PMC8604520.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Abraham B, Mohammed s&#39;eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. doi: 10.5339/qmj.2(22.40. PMID: 35974885; PMCID: PMC9372495.`
@@ -1811,11 +1811,11 @@ AST Structure:
 │   │   full_match: `Abraham B, Mohammed s&#39;eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. `
 │   │   inner_content: `Abraham B, Mohammed s&#39;eed H, Azeez Pasha SA. Acute respiratory distress syndrome secondary to COVID-19 mRNA vaccine administration in a pregnant woman: A case report. Qatar Med J. 2022 Aug 9;2022(3):40. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.5339/qmj.2`
-│   │   inner_content: `10.5339/qmj.2`
+│   │   full_match: `doi: 10.5339/qmj.2(22.40.`
+│   │   inner_content: `10.5339/qmj.2(22.40.`
 │   ├── TextNode
-│   │   full_match: `(22.40. PMID: 35974885; PMCID: PMC9372495.`
-│   │   inner_content: `(22.40. PMID: 35974885; PMCID: PMC9372495.`├── TextNode
+│   │   full_match: ` PMID: 35974885; PMCID: PMC9372495.`
+│   │   inner_content: ` PMID: 35974885; PMCID: PMC9372495.`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Yoshifuji A, Ishioka K, Masuzawa Y, Suda S, Murata S, Uwamino Y, Fujino M, Miyahara H, Hasegawa N, Ryuzaki M, Hoshino H, Sekine K. COVID-19 vaccine induced interstitial lung disease. J Infect Chemother. 2(22 Jan;28(1):95-98. doi: 10.1016/j.jiac.2021.09.010. Epub 2021 Sep 20. PMID: 34580010; PMCID: PMC8450284.`

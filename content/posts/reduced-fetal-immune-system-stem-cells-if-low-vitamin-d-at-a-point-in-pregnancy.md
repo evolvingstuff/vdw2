@@ -17,7 +17,7 @@ categories:
 
 #### Prenatal vitamin D deficiency alters immune cell proportions of young adult offspring through alteration of long-term stem cell fates
 
-bioRxiv. 2023 Sep 13;2023.09.11.557255. [doi: 10.1101/2023.09.11.557255.](https://doi.org/10.1101/2023.09.11.557255.) **Preprint** 
+bioRxiv. 2023 Sep 13;2023.09.11.557255. [doi: 10.1101/2023.09.11.557255.__Preprint__](https://doi.org/10.1101/2023.09.11.557255.__Preprint__)
 
 Koki Ueda, Shu Shien Chin, Noriko Sato, Miyu Nishikawa, Kaori Yasuda, Naoyuki Miyasaka, Betelehem Solomon Bera, Laurent Chorro, Reanna Doña-Termine, Wade R Koba, David Reynolds, Ulrich G Steidl, Gregoire Lauvau, John M Greally, Masako Suzuki
 
@@ -259,7 +259,7 @@ Markdown:
 
 #### Prenatal vitamin D deficiency alters immune cell proportions of young adult offspring through alteration of long-term stem cell fates
 
-bioRxiv. 2023 Sep 13;2023.09.11.557255. [doi: 10.1101/2023.09.11.557255.](https://doi.org/10.1101/2023.09.11.557255.) **Preprint** 
+bioRxiv. 2023 Sep 13;2023.09.11.557255. [doi: 10.1101/2023.09.11.557255.__Preprint__](https://doi.org/10.1101/2023.09.11.557255.__Preprint__)
 
 Koki Ueda, Shu Shien Chin, Noriko Sato, Miyu Nishikawa, Kaori Yasuda, Naoyuki Miyasaka, Betelehem Solomon Bera, Laurent Chorro, Reanna Doña-Termine, Wade R Koba, David Reynolds, Ulrich G Steidl, Gregoire Lauvau, John M Greally, Masako Suzuki
 
@@ -517,14 +517,8 @@ AST Structure:
 │   │   inner_content: `Prenatal vitamin D deficiency alters immune cell proportions of young adult offspring through alteration of long-term stem cell fates`├── TextNode
 │   full_match: `\nbioRxiv. 2023 Sep 13;2023.09.11.557255. `
 │   inner_content: `\nbioRxiv. 2023 Sep 13;2023.09.11.557255. `├── DoiLinkNode
-│   full_match: `doi: 10.1101/2023.09.11.557255.`
-│   inner_content: `10.1101/2023.09.11.557255.`├── BoldNode
-│   full_match: `__Preprint__`
-│   inner_content: `Preprint`
-│   children:
-│   ├── TextNode
-│   │   full_match: `Preprint`
-│   │   inner_content: `Preprint`├── TextNode
+│   full_match: `doi: 10.1101/2023.09.11.557255.__Preprint__`
+│   inner_content: `10.1101/2023.09.11.557255.__Preprint__`├── TextNode
 │   full_match: `\nKoki Ueda, Shu Shien Chin, Noriko Sato, Miyu Nishikawa, Kaori Yasuda, Naoyuki Miyasaka, Betelehem Solomon Bera, Laurent Chorro, Reanna Doña-Termine, Wade R Koba, David Reynolds, Ulrich G Steidl, Gregoire Lauvau, John M Greally, Masako Suzuki\n\nVitamin D deficiency is a common deficiency worldwide, particularly among women of reproductive age. \nDuring pregnancy, it increases the risk of immune-related diseases in offspring later in life. \nHowever, exactly how the body remembers exposure to an adverse environment during development is poorly understood. Herein, we explore the effects of prenatal vitamin D deficiency on immune cell proportions in offspring using vitamin D deficient mice established by dietary manipulation. We show that prenatal vitamin D deficiency alters immune cell proportions in offspring by changing the transcriptional properties of genes downstream of vitamin D receptor signaling in hematopoietic stem and progenitor cells of both the fetus and adults. Further investigations of the associations between maternal vitamin D levels and cord blood immune cell profiles from 75 healthy pregnant women and their term babies also confirm that maternal vitamin D levels significantly affect immune cell proportions in the babies. \nThus, lack of prenatal vitamin D, particularly at the time of hematopoietic stem cell migration from the liver to the bone marrow, has long-lasting effects on immune cell proportions. This highlights the importance of providing vitamin D supplementation at specific stages of pregnancy.\n`
 │   inner_content: `\nKoki Ueda, Shu Shien Chin, Noriko Sato, Miyu Nishikawa, Kaori Yasuda, Naoyuki Miyasaka, Betelehem Solomon Bera, Laurent Chorro, Reanna Doña-Termine, Wade R Koba, David Reynolds, Ulrich G Steidl, Gregoire Lauvau, John M Greally, Masako Suzuki\n\nVitamin D deficiency is a common deficiency worldwide, particularly among women of reproductive age. \nDuring pregnancy, it increases the risk of immune-related diseases in offspring later in life. \nHowever, exactly how the body remembers exposure to an adverse environment during development is poorly understood. Herein, we explore the effects of prenatal vitamin D deficiency on immune cell proportions in offspring using vitamin D deficient mice established by dietary manipulation. We show that prenatal vitamin D deficiency alters immune cell proportions in offspring by changing the transcriptional properties of genes downstream of vitamin D receptor signaling in hematopoietic stem and progenitor cells of both the fetus and adults. Further investigations of the associations between maternal vitamin D levels and cord blood immune cell profiles from 75 healthy pregnant women and their term babies also confirm that maternal vitamin D levels significantly affect immune cell proportions in the babies. \nThus, lack of prenatal vitamin D, particularly at the time of hematopoietic stem cell migration from the liver to the bone marrow, has long-lasting effects on immune cell proportions. This highlights the importance of providing vitamin D supplementation at specific stages of pregnancy.\n`├── FontNode
 │   full_match: `{FONT(size=&quot;20&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;20127&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`

@@ -37,7 +37,7 @@ Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)
 
 ---
 
-#####  <span style="color:orange;">The reduced pain and returning to work/life sooner is probably worth much more than $46</span>
+##### <span style="color:#00F;">The reduced pain and returning to work/life sooner is probably worth much more than $46</span>
 
 ---
 
@@ -121,7 +121,7 @@ Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;The reduced pain and returning to work/life sooner is probably worth much more than $46&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;The reduced pain and returning to work/life sooner is probably worth much more than $46&lt;/span&gt;
 
 ---
 

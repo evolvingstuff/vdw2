@@ -49,7 +49,7 @@ Numerous scientific studies have demonstrated their beneficial properties as wel
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -98,7 +98,7 @@ Numerous scientific studies have demonstrated their beneficial properties as wel
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

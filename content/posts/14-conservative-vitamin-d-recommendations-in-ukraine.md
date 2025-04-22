@@ -79,11 +79,11 @@ Excess/toxicity zone of vitamin D: >250 nmol/L (>100 ng/mL).
 
 * Patients with endocrine disorders
 
-&nbsp;&nbsp;&nbsp;&nbsp;(I and II types of diabetes mellitus; hyperparathyroidism; thyroid diseases, etc.);
+> (I and II types of diabetes mellitus; hyperparathyroidism; thyroid diseases, etc.);
 
 * Subjects with malabsorption syndromes
 
-&nbsp;&nbsp;&nbsp;&nbsp;(inflammatory bowel diseases, cystic fibrosis, enteritis after radiation, conditions after bariatric surgery, etc.);
+> (inflammatory bowel diseases, cystic fibrosis, enteritis after radiation, conditions after bariatric surgery, etc.);
 
 * Patients with chronic autoimmune diseases (rheumatoid arthritis, systemic lupus erythemato­sus, multiple sclerosis, etc.);
 
@@ -93,7 +93,7 @@ Excess/toxicity zone of vitamin D: >250 nmol/L (>100 ng/mL).
 
 * Persons with prolonged use of drugs with a negative impact on vitamin D metabolism 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(gluco­corticoids, anticonvulsants, hypocholesterolemic, antifungal medications, AIDS drugs, etc.).
+> (gluco­corticoids, anticonvulsants, hypocholesterolemic, antifungal medications, AIDS drugs, etc.).
 
 ##### 4 Consider relationships to other serum ingredients
 
@@ -216,11 +216,11 @@ Excess/toxicity zone of vitamin D: &gt;250 nmol/L (&gt;100 ng/mL).
 
 * Patients with endocrine disorders
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(I and II types of diabetes mellitus; hyperparathyroidism; thyroid diseases, etc.);
+&gt; (I and II types of diabetes mellitus; hyperparathyroidism; thyroid diseases, etc.);
 
 * Subjects with malabsorption syndromes
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(inflammatory bowel diseases, cystic fibrosis, enteritis after radiation, conditions after bariatric surgery, etc.);
+&gt; (inflammatory bowel diseases, cystic fibrosis, enteritis after radiation, conditions after bariatric surgery, etc.);
 
 * Patients with chronic autoimmune diseases (rheumatoid arthritis, systemic lupus erythemato­sus, multiple sclerosis, etc.);
 
@@ -230,7 +230,7 @@ Excess/toxicity zone of vitamin D: &gt;250 nmol/L (&gt;100 ng/mL).
 
 * Persons with prolonged use of drugs with a negative impact on vitamin D metabolism 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(gluco­corticoids, anticonvulsants, hypocholesterolemic, antifungal medications, AIDS drugs, etc.).
+&gt; (gluco­corticoids, anticonvulsants, hypocholesterolemic, antifungal medications, AIDS drugs, etc.).
 
 ##### 4 Consider relationships to other serum ingredients
 

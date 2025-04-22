@@ -55,7 +55,7 @@ Symptoms of cerebral small vessel disease can vary depending on the type and sev
 
 * 25-Hydroxy vitamin D level is associated with total MRI burden of cerebral small vessel disease in ischemic stroke patients - 2019 - https://doi.org/10.1080/00207454.2018.1503182 - can probably get from xxx
 
-  * 3.3X more likely if low vitamin D
+   * 3.3X more likely if low vitamin D
 
 * Cerebral small vessel disease and vascular cognitive impairment: from diagnosis to management - April 2021 [FREE PDF](10.1097/WCO.0000000000000913)
 
@@ -116,7 +116,7 @@ Symptoms of cerebral small vessel disease can vary depending on the type and sev
 
 * 25-Hydroxy vitamin D level is associated with total MRI burden of cerebral small vessel disease in ischemic stroke patients - 2019 - https://doi.org/10.1080/00207454.2018.1503182 - can probably get from xxx
 
-  * 3.3X more likely if low vitamin D
+   * 3.3X more likely if low vitamin D
 
 * Cerebral small vessel disease and vascular cognitive impairment: from diagnosis to management - April 2021 [FREE PDF](10.1097/WCO.0000000000000913)
 

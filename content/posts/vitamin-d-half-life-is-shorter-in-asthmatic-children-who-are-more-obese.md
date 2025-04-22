@@ -45,7 +45,7 @@ Conclusions: Obesity impacts vitamin D clearance and the half-life, but serum co
 
 * <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Those with Asthma or COPD had half the response to Vitamin D – March 2020</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+> <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
 
 
@@ -87,7 +87,7 @@ Conclusions: Obesity impacts vitamin D clearance and the half-life, but serum co
 
 * &lt;a href=&quot;/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020&quot;&gt;Those with Asthma or COPD had half the response to Vitamin D – March 2020&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
 
 

@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">Blue</span> batches were suspected of many more adverse events than green or yellow batches** 
+ **<span style="color:#00F;">Blue</span> batches were suspected of many more adverse events than green or yellow batches** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800"> 
 
@@ -58,7 +58,7 @@ Vaccine batches representing the blue, green and yellow trendlines comprised 4.2
 
 * 0.38%, 1.01%, and 0.86% (yellow trendline) 
 
-  *  **of all SAEs, serious SAEs, and SAE-related deaths** , respectively.
+   *  **of all SAEs, serious SAEs, and SAE-related deaths** , respectively.
 
 The present preliminary findings must be interpreted in the light of several limitations. The DKMA-managed spontaneous SAE reporting system in Denmark is a passive surveillance system akin to the Vaccine Adverse Event Reporting System (VAERS) in the US, and reports from these systems are subject to reporting biases, with potential for both under- and over-reporting, as well as incomplete data and variable quality of the reported information.11, 12 Owing to these inherent limitations, signals detected by these systems must be considered to be hypothesis-generating and generally cannot be used to establish causality.11-14 In addition, in the present study, the SAE case history of prior COVID-19 was unknown, and specific SAE types (MedDRA system organ class etc.), demographics of SAE cases, relationships of SAEs with consecutive vaccine doses in individuals cases, temporal trends in the observed batch-dependency of SAEs, and batch-dependent effects on vaccine effectiveness, respectively, were not examined. Notably, to our knowledge, the Danish Serum Institute has not issued recalls of BNT162b2 vaccine batches. In conclusion, the results suggest the existence of a batch-dependent safety signal for the BNT162b2 vaccine, and more studies are warranted to explore this preliminary observation and its consequences.
 
@@ -131,14 +131,14 @@ The present preliminary findings must be interpreted in the light of several lim
 
 * To aspirate or not to aspirate? Considerations for the COVID-19 vaccines - Mar 2022 [FREE PDF](https://doi.org/10.1007/s43440-022-00361-4)
 
-  * "...in vivo evidence suggests that intravenous injection of mRNA vaccine can potentially lead to myocarditis, while introducing adenoviral vector to bloodstream can possibly result in thrombocytopenia and coagulopathy"
+   * "...in vivo evidence suggests that intravenous injection of mRNA vaccine can potentially lead to myocarditis, while introducing adenoviral vector to bloodstream can possibly result in thrombocytopenia and coagulopathy"
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Blue&lt;/span&gt; batches were suspected of many more adverse events than green or yellow batches** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Blue&lt;/span&gt; batches were suspected of many more adverse events than green or yellow batches** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt; 
 
@@ -186,7 +186,7 @@ Vaccine batches representing the blue, green and yellow trendlines comprised 4.2
 
 * 0.38%, 1.01%, and 0.86% (yellow trendline) 
 
-  *  **of all SAEs, serious SAEs, and SAE-related deaths** , respectively.
+   *  **of all SAEs, serious SAEs, and SAE-related deaths** , respectively.
 
 The present preliminary findings must be interpreted in the light of several limitations. The DKMA-managed spontaneous SAE reporting system in Denmark is a passive surveillance system akin to the Vaccine Adverse Event Reporting System (VAERS) in the US, and reports from these systems are subject to reporting biases, with potential for both under- and over-reporting, as well as incomplete data and variable quality of the reported information.11, 12 Owing to these inherent limitations, signals detected by these systems must be considered to be hypothesis-generating and generally cannot be used to establish causality.11-14 In addition, in the present study, the SAE case history of prior COVID-19 was unknown, and specific SAE types (MedDRA system organ class etc.), demographics of SAE cases, relationships of SAEs with consecutive vaccine doses in individuals cases, temporal trends in the observed batch-dependency of SAEs, and batch-dependent effects on vaccine effectiveness, respectively, were not examined. Notably, to our knowledge, the Danish Serum Institute has not issued recalls of BNT162b2 vaccine batches. In conclusion, the results suggest the existence of a batch-dependent safety signal for the BNT162b2 vaccine, and more studies are warranted to explore this preliminary observation and its consequences.
 
@@ -259,7 +259,7 @@ The present preliminary findings must be interpreted in the light of several lim
 
 * To aspirate or not to aspirate? Considerations for the COVID-19 vaccines - Mar 2022 [FREE PDF](https://doi.org/10.1007/s43440-022-00361-4)
 
-  * &quot;...in vivo evidence suggests that intravenous injection of mRNA vaccine can potentially lead to myocarditis, while introducing adenoviral vector to bloodstream can possibly result in thrombocytopenia and coagulopathy&quot;
+   * &quot;...in vivo evidence suggests that intravenous injection of mRNA vaccine can potentially lead to myocarditis, while introducing adenoviral vector to bloodstream can possibly result in thrombocytopenia and coagulopathy&quot;
 
 
 AST Structure:

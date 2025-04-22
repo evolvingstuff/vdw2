@@ -34,7 +34,7 @@ Conclusion: In this prospective study of health care workers, neither serum 25OH
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -65,7 +65,7 @@ Conclusion: In this prospective study of health care workers, neither serum 25OH
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 
 AST Structure:

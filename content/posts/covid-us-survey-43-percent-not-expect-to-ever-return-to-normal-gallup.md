@@ -12,7 +12,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **Galllup chart used a difficult-to-see line, which VDW had changed to <span style="color:orange;">red </span>for visability** 
+ **Galllup chart used a difficult-to-see line, which VDW had changed to<span style="color:#F06;">red </span>for visability** 
 
  **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx?utm_source=substack&utm_medium=email)** 
 
@@ -44,7 +44,7 @@ Markdown:
 --------
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **Galllup chart used a difficult-to-see line, which VDW had changed to &lt;span style=&quot;color:orange;&quot;&gt;red &lt;/span&gt;for visability** 
+ **Galllup chart used a difficult-to-see line, which VDW had changed to&lt;span style=&quot;color:#F06;&quot;&gt;red &lt;/span&gt;for visability** 
 
  **[Gallup ](https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx?utm_source=substack&amp;utm_medium=email)** 
 

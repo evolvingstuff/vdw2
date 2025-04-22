@@ -31,7 +31,7 @@ categories:
 
 * 51% protection against death, Vitamin D supplementation.
 
-Now on this channel, we've been  **talking about Vitamin D since we started the channel in 2007** , a long time ago now, and we've been talking about it throughout the COVID pandemic period of time. Now, we have this  **new meta-analysis from Italy, definite protection against admission to intensive care for patients that are ill or hospitalized.**   **<span style="color:orange;">I now believe it's unethical</span>**  for authorizing bodies, Medicines and Healthcare Regulatory Authority and FDA and people like this around the world, not to advise vitamin D supplementation for poorly people and arguably for the whole population.
+Now on this channel, we've been  **talking about Vitamin D since we started the channel in 2007** , a long time ago now, and we've been talking about it throughout the COVID pandemic period of time. Now, we have this  **new meta-analysis from Italy, definite protection against admission to intensive care for patients that are ill or hospitalized.**   **<span style="color:#00F;">I now believe it's unethical</span>**  for authorizing bodies, Medicines and Healthcare Regulatory Authority and FDA and people like this around the world, not to advise vitamin D supplementation for poorly people and arguably for the whole population.
 
 ##### "Vitamin D is about as safe as cabbage"
 
@@ -101,7 +101,7 @@ Medicines & Healthcare products Regulatory Agency [https://www.bmj.com/content/3
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -137,7 +137,7 @@ Comment by Chambers: all those under $165 are also anti-oxidants
 
 * The funder of VitaminWiki co-authored a paper on vitamin D and COVID before vaccines which was very widely read
 
-  * <a href="/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020">Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020</a> 
+   * <a href="/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020">Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020</a> 
 
 ---
 
@@ -169,7 +169,7 @@ Markdown:
 
 * 51% protection against death, Vitamin D supplementation.
 
-Now on this channel, we&#39;ve been  **talking about Vitamin D since we started the channel in 2007** , a long time ago now, and we&#39;ve been talking about it throughout the COVID pandemic period of time. Now, we have this  **new meta-analysis from Italy, definite protection against admission to intensive care for patients that are ill or hospitalized.**   **&lt;span style=&quot;color:orange;&quot;&gt;I now believe it&#39;s unethical&lt;/span&gt;**  for authorizing bodies, Medicines and Healthcare Regulatory Authority and FDA and people like this around the world, not to advise vitamin D supplementation for poorly people and arguably for the whole population.
+Now on this channel, we&#39;ve been  **talking about Vitamin D since we started the channel in 2007** , a long time ago now, and we&#39;ve been talking about it throughout the COVID pandemic period of time. Now, we have this  **new meta-analysis from Italy, definite protection against admission to intensive care for patients that are ill or hospitalized.**   **&lt;span style=&quot;color:#00F;&quot;&gt;I now believe it&#39;s unethical&lt;/span&gt;**  for authorizing bodies, Medicines and Healthcare Regulatory Authority and FDA and people like this around the world, not to advise vitamin D supplementation for poorly people and arguably for the whole population.
 
 ##### &quot;Vitamin D is about as safe as cabbage&quot;
 
@@ -239,7 +239,7 @@ Medicines &amp; Healthcare products Regulatory Agency [https://www.bmj.com/conte
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -275,7 +275,7 @@ Comment by Chambers: all those under $165 are also anti-oxidants
 
 * The funder of VitaminWiki co-authored a paper on vitamin D and COVID before vaccines which was very widely read
 
-  * &lt;a href=&quot;/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020&quot;&gt;Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020&lt;/a&gt; 
+   * &lt;a href=&quot;/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020&quot;&gt;Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020&lt;/a&gt; 
 
 ---
 

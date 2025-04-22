@@ -25,7 +25,7 @@ Linlian Zhu # 1, Shan Li # 2, Lijuan Zhong 3, Shiping Xu 4, Hongbin Zhu 5
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
- <span style="color:orange;">Red is not dangerous</span>
+<span style="color:#F06;">Red is not dangerous</span>
 
  **Those studies that included extreme high dose Vitamin D** 
 
@@ -60,7 +60,7 @@ Linlian Zhu # 1, Shan Li # 2, Lijuan Zhong 3, Shiping Xu 4, Hongbin Zhu 5
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt;Red is not dangerous&lt;/span&gt;
+&lt;span style=&quot;color:#F06;&quot;&gt;Red is not dangerous&lt;/span&gt;
 
  **Those studies that included extreme high dose Vitamin D** 
 

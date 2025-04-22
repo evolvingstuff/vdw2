@@ -52,7 +52,7 @@ Improving the Vitamin D Receptor
 
 * Impact of Vitamin D on Physical Efficiency and Exercise Performance—A Review - Nov 2019 [FREE PDF](https://doi.org/10.3390/nu11112826)
 
-  * Part of a [special issue on Vitamin D and Sports Performance](https://www.mdpi.com/journal/nutrients/special_issues/VitaminD_Sport)
+   * Part of a [special issue on Vitamin D and Sports Performance](https://www.mdpi.com/journal/nutrients/special_issues/VitaminD_Sport)
 
 <!-- ~tc~ (alias(Exercise in VitaminDWiki - many studies)) ~/tc~ -->
 
@@ -104,7 +104,7 @@ Improving the Vitamin D Receptor
 
 * Impact of Vitamin D on Physical Efficiency and Exercise Performance—A Review - Nov 2019 [FREE PDF](https://doi.org/10.3390/nu11112826)
 
-  * Part of a [special issue on Vitamin D and Sports Performance](https://www.mdpi.com/journal/nutrients/special_issues/VitaminD_Sport)
+   * Part of a [special issue on Vitamin D and Sports Performance](https://www.mdpi.com/journal/nutrients/special_issues/VitaminD_Sport)
 
 &lt;!-- ~tc~ (alias(Exercise in VitaminDWiki - many studies)) ~/tc~ --&gt;
 

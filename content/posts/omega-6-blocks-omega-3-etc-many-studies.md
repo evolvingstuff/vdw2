@@ -29,7 +29,7 @@ Omega-6 and omega-3 fatty acids are both essential polyunsaturated fats that pla
 
 1.  **Chronic Diseases and Health Effects** : An imbalance favoring omega-6 over omega-3 has been associated with an increased risk of chronic diseases such as heart disease, inflammatory diseases, and certain cancers. It is suggested that a lower omega-6 to omega-3 ratio is more desirable in reducing the risk of these diseases.
 
- **<span style="color:orange;">To verify and expand upon this information, let me find some references for you.</span>** 
+ **<span style="color:#00F;">To verify and expand upon this information, let me find some references for you.</span>** 
 
 Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are crucial for human health, but their interaction and the balance between them are complex and have significant implications. Here's a summary of the key findings from various studies:
 
@@ -37,7 +37,7 @@ Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are cruc
 
 1.  **Cardiovascular Health** : There's been a growing interest in the health effects of long-chain omega-3 fatty acids, particularly regarding cardiovascular and neurocognitive diseases. The balance of omega-6 and omega-3 fatty acids is crucial here, but determining the "optimal" levels of these fatty acids is not straightforward due to various factors in measurement and expression. [ **URL** ](https://pubmed.ncbi.nlm.nih.gov/29599053/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Also, studies have shown the beneficial effects of omega-3 fatty acids, like eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), on cardiovascular outcomes, although there's some variability in the treatment effects of EPA vs. EPA+DHA [ **URL** ](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00277-7/fulltext#:~:text=%23%20%E3%80%901%E2%80%A0Effect%20of%20omega,EPA%2BDHA%20treatment%20effects)
+> Also, studies have shown the beneficial effects of omega-3 fatty acids, like eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), on cardiovascular outcomes, although there's some variability in the treatment effects of EPA vs. EPA+DHA [ **URL** ](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00277-7/fulltext#:~:text=%23%20%E3%80%901%E2%80%A0Effect%20of%20omega,EPA%2BDHA%20treatment%20effects)
 
 1.  **Prevention of Atherosclerotic Cardiovascular Disease** : Observational studies support the use of long-chain omega-3 polyunsaturated fatty acids (PUFAs) in the primary prevention of atherosclerotic cardiovascular disease. However, randomized controlled trials have often reported neutral findings, suggesting a more complex relationship between these fatty acids and heart health [ **URL** ](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30148-0/fulltext#:~:text=,have%20often%20reported%20neutral%20findings)
 
@@ -163,7 +163,7 @@ While there are other problematic components in the standard American diet, the 
 
 * You have about 40 quadrillion to 100 quadrillion mitochondria throughout your body's cells. 
 
-  * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
+   * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
 
  **ALEs and OXLAMs can also:** 
 
@@ -213,7 +213,7 @@ Omega-6 and omega-3 fatty acids are both essential polyunsaturated fats that pla
 
 1.  **Chronic Diseases and Health Effects** : An imbalance favoring omega-6 over omega-3 has been associated with an increased risk of chronic diseases such as heart disease, inflammatory diseases, and certain cancers. It is suggested that a lower omega-6 to omega-3 ratio is more desirable in reducing the risk of these diseases.
 
- **&lt;span style=&quot;color:orange;&quot;&gt;To verify and expand upon this information, let me find some references for you.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;To verify and expand upon this information, let me find some references for you.&lt;/span&gt;** 
 
 Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are crucial for human health, but their interaction and the balance between them are complex and have significant implications. Here&#39;s a summary of the key findings from various studies:
 
@@ -221,7 +221,7 @@ Omega-6 and omega-3 fatty acids are essential polyunsaturated fats that are cruc
 
 1.  **Cardiovascular Health** : There&#39;s been a growing interest in the health effects of long-chain omega-3 fatty acids, particularly regarding cardiovascular and neurocognitive diseases. The balance of omega-6 and omega-3 fatty acids is crucial here, but determining the &quot;optimal&quot; levels of these fatty acids is not straightforward due to various factors in measurement and expression. [ **URL** ](https://pubmed.ncbi.nlm.nih.gov/29599053/)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Also, studies have shown the beneficial effects of omega-3 fatty acids, like eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), on cardiovascular outcomes, although there&#39;s some variability in the treatment effects of EPA vs. EPA+DHA [ **URL** ](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00277-7/fulltext#:~:text=%23%20%E3%80%901%E2%80%A0Effect%20of%20omega,EPA%2BDHA%20treatment%20effects)
+&gt; Also, studies have shown the beneficial effects of omega-3 fatty acids, like eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), on cardiovascular outcomes, although there&#39;s some variability in the treatment effects of EPA vs. EPA+DHA [ **URL** ](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00277-7/fulltext#:~:text=%23%20%E3%80%901%E2%80%A0Effect%20of%20omega,EPA%2BDHA%20treatment%20effects)
 
 1.  **Prevention of Atherosclerotic Cardiovascular Disease** : Observational studies support the use of long-chain omega-3 polyunsaturated fatty acids (PUFAs) in the primary prevention of atherosclerotic cardiovascular disease. However, randomized controlled trials have often reported neutral findings, suggesting a more complex relationship between these fatty acids and heart health [ **URL** ](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30148-0/fulltext#:~:text=,have%20often%20reported%20neutral%20findings)
 
@@ -347,7 +347,7 @@ While there are other problematic components in the standard American diet, the 
 
 * You have about 40 quadrillion to 100 quadrillion mitochondria throughout your body&#39;s cells. 
 
-  * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
+   * In 37 trillion cells - it appears that there are ~1000 mitochondria per cell - average.
 
  **ALEs and OXLAMs can also:** 
 

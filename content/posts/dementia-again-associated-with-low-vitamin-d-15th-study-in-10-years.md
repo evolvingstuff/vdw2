@@ -48,7 +48,7 @@ Discussion: Vitamin D may be a potential agent for dementia prevention.
 
 ---
 
-#### VitaminDWiki - <a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a>  <span style="color:orange;">49 </span>as of March 2023
+#### VitaminDWiki - <a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a> <span style="color:#F06;">49 </span>as of March 2023
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -93,7 +93,7 @@ Discussion: Vitamin D may be a potential agent for dementia prevention.
 
 ---
 
-#### VitaminDWiki - &lt;a href=&quot;/posts/dementia-is-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dementia is associated with low vitamin D - many studies&quot;&gt;Dementia is associated with low vitamin D - many studies&lt;/a&gt;  &lt;span style=&quot;color:orange;&quot;&gt;49 &lt;/span&gt;as of March 2023
+#### VitaminDWiki - &lt;a href=&quot;/posts/dementia-is-associated-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dementia is associated with low vitamin D - many studies&quot;&gt;Dementia is associated with low vitamin D - many studies&lt;/a&gt; &lt;span style=&quot;color:#F06;&quot;&gt;49 &lt;/span&gt;as of March 2023
 
 
 AST Structure:

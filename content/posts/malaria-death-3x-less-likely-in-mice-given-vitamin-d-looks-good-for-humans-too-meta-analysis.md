@@ -75,7 +75,7 @@ Previous studies on humans have shown that administering vitamin D can improve a
 
 * Oral administration of vitamin D and importance in prevention of cerebral malaria - Nov 2018 https://doi.org/10.1016/j.intimp.2018.08.041 FREE PDF
 
-  * "In summary, the use of Vit.D as a nutritional supplement in malaria-endemic regions may help reduce the severity and mortality of CM."
+   * "In summary, the use of Vit.D as a nutritional supplement in malaria-endemic regions may help reduce the severity and mortality of CM."
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -146,7 +146,7 @@ Previous studies on humans have shown that administering vitamin D can improve a
 
 * Oral administration of vitamin D and importance in prevention of cerebral malaria - Nov 2018 https://doi.org/10.1016/j.intimp.2018.08.041 FREE PDF
 
-  * &quot;In summary, the use of Vit.D as a nutritional supplement in malaria-endemic regions may help reduce the severity and mortality of CM.&quot;
+   * &quot;In summary, the use of Vit.D as a nutritional supplement in malaria-endemic regions may help reduce the severity and mortality of CM.&quot;
 
 
 AST Structure:

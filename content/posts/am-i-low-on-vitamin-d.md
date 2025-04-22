@@ -34,7 +34,7 @@ categories:
 
 * Bottom tip of breastbone (xiphoid process}
 
-  * Founder of VitaminDWiki had pain in 2 of the three locations (back in 2009)
+   * Founder of VitaminDWiki had pain in 2 of the three locations (back in 2009)
 
 ---
 
@@ -74,7 +74,7 @@ Markdown:
 
 * Bottom tip of breastbone (xiphoid process}
 
-  * Founder of VitaminDWiki had pain in 2 of the three locations (back in 2009)
+   * Founder of VitaminDWiki had pain in 2 of the three locations (back in 2009)
 
 ---
 

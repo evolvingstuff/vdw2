@@ -24,7 +24,7 @@ Discusses Erdogan MA, Gurbuz O, Bozkurt MF, Erbas O.  **Prenatal Exposure to COV
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- **<span style="color:orange;">Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans</span>** 
+ **<span style="color:#F06;">Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans</span>** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -44,7 +44,7 @@ Discusses Erdogan MA, Gurbuz O, Bozkurt MF, Erbas O.  **Prenatal Exposure to COV
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#F06;&quot;&gt;Note: 30 micrograms of vaccine were given to the mother rats, which is the exact same amount of vaccine given to mother humans. Since rats weight 220 grams and humans weigh 80,000 grams,  the rats got  80,000/220 = 380X more vaccine per body weight than humans&lt;/span&gt;** 
 
 
 AST Structure:

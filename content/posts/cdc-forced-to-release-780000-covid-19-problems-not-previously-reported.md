@@ -21,7 +21,7 @@ categories:
 
 * The newly released data is from free-form text input, which the CDC did not know how to summarize
 
-  * Strange: Amazon and many others know how to summarize free-form data
+   * Strange: Amazon and many others know how to summarize free-form data
 
 * "The free-text portion of the surveys was the only place for people to report adverse events, including heart inflammation, even though the CDC knew the vaccines might cause those events, previously released documents show. Other documents show that the CDC became aware of the vaccines possibly causing myocarditis, or heart inflammation, and a related condition called pericarditis early in 2021 but hid the knowledge from the public."
 
@@ -44,7 +44,7 @@ Markdown:
 
 * The newly released data is from free-form text input, which the CDC did not know how to summarize
 
-  * Strange: Amazon and many others know how to summarize free-form data
+   * Strange: Amazon and many others know how to summarize free-form data
 
 * &quot;The free-text portion of the surveys was the only place for people to report adverse events, including heart inflammation, even though the CDC knew the vaccines might cause those events, previously released documents show. Other documents show that the CDC became aware of the vaccines possibly causing myocarditis, or heart inflammation, and a related condition called pericarditis early in 2021 but hid the knowledge from the public.&quot;
 

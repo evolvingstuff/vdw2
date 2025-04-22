@@ -27,7 +27,7 @@ Revolutionizing cancer treatment and improving patient outcomes could be achieve
 
 * Intelligence of cancer cells
 
-  * "For decades, researchers have grappled with the enigma of cancer, a complex and dynamic disease that defies easy explanation. One of the most perplexing aspects of cancer is the ingenuity of cancer cells, which possess an uncanny ability to mutate,adapt, and outsmart their hosts."
+   * "For decades, researchers have grappled with the enigma of cancer, a complex and dynamic disease that defies easy explanation. One of the most perplexing aspects of cancer is the ingenuity of cancer cells, which possess an uncanny ability to mutate,adapt, and outsmart their hosts."
 
 * One of the most vexing consequences of cancer cell intelligence is their ability to become resistant to treatment, rendering conventional therapies ineffective
 
@@ -120,7 +120,7 @@ Revolutionizing cancer treatment and improving patient outcomes could be achieve
 
 * Intelligence of cancer cells
 
-  * &quot;For decades, researchers have grappled with the enigma of cancer, a complex and dynamic disease that defies easy explanation. One of the most perplexing aspects of cancer is the ingenuity of cancer cells, which possess an uncanny ability to mutate,adapt, and outsmart their hosts.&quot;
+   * &quot;For decades, researchers have grappled with the enigma of cancer, a complex and dynamic disease that defies easy explanation. One of the most perplexing aspects of cancer is the ingenuity of cancer cells, which possess an uncanny ability to mutate,adapt, and outsmart their hosts.&quot;
 
 * One of the most vexing consequences of cancer cell intelligence is their ability to become resistant to treatment, rendering conventional therapies ineffective
 

@@ -12,7 +12,7 @@ categories:
 
 * [New survey suggests reinfection worsens Long COVID](https://www.gavi.org/vaccineswork/new-survey-suggests-reinfection-worsens-long-covid) - Sept 2022
 
-  * "Survey indicates that getting reinfected worsens symptoms of Long COVID or triggers a recurrence of symptoms in people who have recovered."
+   * "Survey indicates that getting reinfected worsens symptoms of Long COVID or triggers a recurrence of symptoms in people who have recovered."
 
 * [Long COVID Risk Makes It Worth Avoiding Second Infections](https://www.webmd.com/covid/news/20221219/long-covid-risk-makes-it-worth-avoiding-second-infections)  Dec 2022  WebMD
 
@@ -20,9 +20,9 @@ categories:
 
 * [What doctors wish patients knew about COVID-19 reinfection](%20https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
 
-  * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
+   * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
 
-  * "Such evidence “dispels the myth that repeated brushes with the virus are mild and you don’t have to worry about it,” he added, noting that “it is  **akin to playing Russian roulette.** ”
+   * "Such evidence “dispels the myth that repeated brushes with the virus are mild and you don’t have to worry about it,” he added, noting that “it is  **akin to playing Russian roulette.** ”
 
 ---
 
@@ -35,7 +35,7 @@ Markdown:
 --------
 * [New survey suggests reinfection worsens Long COVID](https://www.gavi.org/vaccineswork/new-survey-suggests-reinfection-worsens-long-covid) - Sept 2022
 
-  * &quot;Survey indicates that getting reinfected worsens symptoms of Long COVID or triggers a recurrence of symptoms in people who have recovered.&quot;
+   * &quot;Survey indicates that getting reinfected worsens symptoms of Long COVID or triggers a recurrence of symptoms in people who have recovered.&quot;
 
 * [Long COVID Risk Makes It Worth Avoiding Second Infections](https://www.webmd.com/covid/news/20221219/long-covid-risk-makes-it-worth-avoiding-second-infections)  Dec 2022  WebMD
 
@@ -43,9 +43,9 @@ Markdown:
 
 * [What doctors wish patients knew about COVID-19 reinfection](%20https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection) AMA Jan 2023
 
-  * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
+   * “We know from a pretty [elegant study](https://www.nature.com/articles/s41591-022-02051-3) that was recently published in Nature Medicine that each subsequent COVID infection will  **increase your risk of developing chronic health issues**  like diabetes, kidney disease, organ failure and even mental health problems.”
 
-  * &quot;Such evidence “dispels the myth that repeated brushes with the virus are mild and you don’t have to worry about it,” he added, noting that “it is  **akin to playing Russian roulette.** ”
+   * &quot;Such evidence “dispels the myth that repeated brushes with the virus are mild and you don’t have to worry about it,” he added, noting that “it is  **akin to playing Russian roulette.** ”
 
 ---
 

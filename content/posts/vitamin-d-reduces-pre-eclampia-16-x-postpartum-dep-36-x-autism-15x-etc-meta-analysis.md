@@ -28,7 +28,7 @@ Vitamin D deficiency increases the risk of adverse pregnancy outcomes. The high 
 
 * preterm labour (OR=1.33 (1.15; 1.54)), 
 
-  * especially in multiple pregnancies (OR=2.59 (1.35; 4.95)), 
+   * especially in multiple pregnancies (OR=2.59 (1.35; 4.95)), 
 
 * pre-eclampsia (OR 1.58 (1.39-1.79)), 
 
@@ -71,7 +71,7 @@ Vitamin D deficiency increases the risk of adverse pregnancy outcomes. The high 
 
 * preterm labour (OR=1.33 (1.15; 1.54)), 
 
-  * especially in multiple pregnancies (OR=2.59 (1.35; 4.95)), 
+   * especially in multiple pregnancies (OR=2.59 (1.35; 4.95)), 
 
 * pre-eclampsia (OR 1.58 (1.39-1.79)), 
 

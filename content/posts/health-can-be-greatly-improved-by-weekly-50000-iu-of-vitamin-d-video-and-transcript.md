@@ -63,7 +63,7 @@ I'm much more for... I'm interested in taking vitamin D for the rest of my life,
 
 ---
 
-### (4) 3 forms of Vitamin D in the blood: the final form is a  <span style="color:orange;">Hormone</span>
+### (4) 3 forms of Vitamin D in the blood: the final form is a <span style="color:#F00;">Hormone</span>
 
 | | |
 | --- | --- |
@@ -87,7 +87,7 @@ Here's an example of one hospital that hasn't, let's say hospital system for the
 
 ---
 
-### (6) Fewer Health Problems if more vitamin D  <span style="color:orange;">Pregnancy</span>
+### (6) Fewer Health Problems if more vitamin D <span style="color:#F06;">Pregnancy</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -101,7 +101,7 @@ I've got many, many charts like this. This is just an example chart for pregnanc
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
-<img src="/attachments/d3.mock.jpg" alt="image" width="200">   **Translates to Before,  <span style="color:orange;">After, Weekly</span>** 
+<img src="/attachments/d3.mock.jpg" alt="image" width="200">   **Translates to Before, <span style="color:#F00;">After, Weekly</span>** 
 
  **Even more Vitamin D needed if obese, etc** 
 
@@ -111,7 +111,7 @@ So this shows the vitamin D levels that people have generally is in the black cu
 
 ---
 
-### (8)  <span style="color:orange;">26</span> Health problems fought by bi-weekly 50K Vitamin D
+### (8) <span style="color:#F00;">26</span> Health problems fought by bi-weekly 50K Vitamin D
 
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
@@ -125,7 +125,7 @@ So here, I've got two different slides that I wanted to show to you to build up 
 
 ---
 
-### (9)  <span style="color:orange;">48</span> Health problems fought by weekly 50K Vitamin D
+### (9) <span style="color:#F00;">48</span> Health problems fought by weekly 50K Vitamin D
 
 <div style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
@@ -157,11 +157,11 @@ This is just showing the number of health problems dealt with. Before I'd mentio
 
  **Examples of Quick Response** 
 
-&nbsp; &nbsp; &nbsp;  **<span style="color:orange;">Pregnancy, Respiratory (Influenza, Colds, COVID)</span>** 
+&nbsp; &nbsp; &nbsp;  **<span style="color:#F06;">Pregnancy, Respiratory (Influenza, Colds, COVID)</span>** 
 
  **Examples of Slow Response (long time to grow)** 
 
-&nbsp; &nbsp; &nbsp; **<span style="color:orange;">Cancers</span>** 
+&nbsp; &nbsp; &nbsp; **<span style="color:#F06;">Cancers</span>** 
 
  **Vitamin D is not a miracle drug that acts instantly** 
 
@@ -185,7 +185,7 @@ The body has learned how to accumulate and store vitamin D very nicely. That's h
 
 ---
 
-### (13) Almost  <span style="color:orange;">2 months </span>to respond to 50K weekly unless start with  <span style="color:orange;">loading dose</span>
+### (13) Almost <span style="color:#F00;">2 months </span>to respond to 50K weekly unless start with <span style="color:#00F;">loading dose</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -221,15 +221,15 @@ For most adults, just taking one of those pills per week is quite sufficient. Bu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Child**   | Normal weight |  **<span style="color:orange;">10K</span>**  weekly
+|  **Child**   | Normal weight |  **<span style="color:#00F;">10K</span>**  weekly
 
  | Obese | 50K every other week  |
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Infant**   | Normal weight |  <span style="color:orange;">10K</span>__ every other week
+|  **Infant**   | Normal weight | <span style="color:#00F;">10K</span>__ every other week
 
- | Obese |  <span style="color:orange;">10K</span>__  5 per month |
+ | Obese | <span style="color:#00F;">10K</span>__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 
@@ -390,7 +390,7 @@ I&#39;m much more for... I&#39;m interested in taking vitamin D for the rest of 
 
 ---
 
-### (4) 3 forms of Vitamin D in the blood: the final form is a  &lt;span style=&quot;color:orange;&quot;&gt;Hormone&lt;/span&gt;
+### (4) 3 forms of Vitamin D in the blood: the final form is a &lt;span style=&quot;color:#F00;&quot;&gt;Hormone&lt;/span&gt;
 
 | | |
 | --- | --- |
@@ -414,7 +414,7 @@ Here&#39;s an example of one hospital that hasn&#39;t, let&#39;s say hospital sy
 
 ---
 
-### (6) Fewer Health Problems if more vitamin D  &lt;span style=&quot;color:orange;&quot;&gt;Pregnancy&lt;/span&gt;
+### (6) Fewer Health Problems if more vitamin D &lt;span style=&quot;color:#F06;&quot;&gt;Pregnancy&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -428,7 +428,7 @@ I&#39;ve got many, many charts like this. This is just an example chart for preg
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
-&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;   **Translates to Before,  &lt;span style=&quot;color:orange;&quot;&gt;After, Weekly&lt;/span&gt;** 
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;   **Translates to Before, &lt;span style=&quot;color:#F00;&quot;&gt;After, Weekly&lt;/span&gt;** 
 
  **Even more Vitamin D needed if obese, etc** 
 
@@ -438,7 +438,7 @@ So this shows the vitamin D levels that people have generally is in the black cu
 
 ---
 
-### (8)  &lt;span style=&quot;color:orange;&quot;&gt;26&lt;/span&gt; Health problems fought by bi-weekly 50K Vitamin D
+### (8) &lt;span style=&quot;color:#F00;&quot;&gt;26&lt;/span&gt; Health problems fought by bi-weekly 50K Vitamin D
 
 &lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
 
@@ -452,7 +452,7 @@ So here, I&#39;ve got two different slides that I wanted to show to you to build
 
 ---
 
-### (9)  &lt;span style=&quot;color:orange;&quot;&gt;48&lt;/span&gt; Health problems fought by weekly 50K Vitamin D
+### (9) &lt;span style=&quot;color:#F00;&quot;&gt;48&lt;/span&gt; Health problems fought by weekly 50K Vitamin D
 
 &lt;div style=&quot;background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px&quot;&gt;
 
@@ -484,11 +484,11 @@ This is just showing the number of health problems dealt with. Before I&#39;d me
 
  **Examples of Quick Response** 
 
-&amp;nbsp; &amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;Pregnancy, Respiratory (Influenza, Colds, COVID)&lt;/span&gt;** 
+&amp;nbsp; &amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:#F06;&quot;&gt;Pregnancy, Respiratory (Influenza, Colds, COVID)&lt;/span&gt;** 
 
  **Examples of Slow Response (long time to grow)** 
 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:orange;&quot;&gt;Cancers&lt;/span&gt;** 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:#F06;&quot;&gt;Cancers&lt;/span&gt;** 
 
  **Vitamin D is not a miracle drug that acts instantly** 
 
@@ -512,7 +512,7 @@ The body has learned how to accumulate and store vitamin D very nicely. That&#39
 
 ---
 
-### (13) Almost  &lt;span style=&quot;color:orange;&quot;&gt;2 months &lt;/span&gt;to respond to 50K weekly unless start with  &lt;span style=&quot;color:orange;&quot;&gt;loading dose&lt;/span&gt;
+### (13) Almost &lt;span style=&quot;color:#F00;&quot;&gt;2 months &lt;/span&gt;to respond to 50K weekly unless start with &lt;span style=&quot;color:#00F;&quot;&gt;loading dose&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
@@ -548,15 +548,15 @@ For most adults, just taking one of those pills per week is quite sufficient. Bu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Child**   | Normal weight |  **&lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;**  weekly
+|  **Child**   | Normal weight |  **&lt;span style=&quot;color:#00F;&quot;&gt;10K&lt;/span&gt;**  weekly
 
  | Obese | 50K every other week  |
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Infant**   | Normal weight |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__ every other week
+|  **Infant**   | Normal weight | &lt;span style=&quot;color:#00F;&quot;&gt;10K&lt;/span&gt;__ every other week
 
- | Obese |  &lt;span style=&quot;color:orange;&quot;&gt;10K&lt;/span&gt;__  5 per month |
+ | Obese | &lt;span style=&quot;color:#00F;&quot;&gt;10K&lt;/span&gt;__  5 per month |
 
  **The simple rule: 100 IU of Vitamin D per kilogram  does not include obesity** 
 

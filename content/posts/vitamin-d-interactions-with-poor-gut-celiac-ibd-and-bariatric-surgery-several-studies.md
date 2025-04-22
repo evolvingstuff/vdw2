@@ -45,7 +45,7 @@ Methods: This expert review was commissioned and approved by the AGA Clinical Pr
 
 * BEST PRACTICE ADVICE 9: All patients with IBD warrant regular screening for malnutrition by their provider by means of assessing signs and symptoms, including unintended weight loss, edema and fluid retention, and fat and muscle mass loss. When observed, more complete evaluation for malnutrition by a registered dietitian is indicated. Serum proteins are no longer recommended for the identification and diagnosis of malnutrition due to their lack of specificity for nutritional status and high sensitivity to inflammation. 
 
-* BEST PRACTICE ADVICE 10: All patients with IBD should be monitored for  **<span style="color:orange;">vitamin D</span>**  and iron deficiency. Patients with extensive ileal disease or prior ileal surgery (resection or ileal pouch) should be monitored for vitamin B12 deficiency. 
+* BEST PRACTICE ADVICE 10: All patients with IBD should be monitored for  **<span style="color:#F06;">vitamin D</span>**  and iron deficiency. Patients with extensive ileal disease or prior ileal surgery (resection or ileal pouch) should be monitored for vitamin B12 deficiency. 
 
 * BEST PRACTICE ADVICE 11: All outpatients and inpatients with complicated IBD warrant co-management with a registered dietitian, especially those who have malnutrition, short bowel syndrome, enterocutaneous fistula, and/or are requiring more complex nutrition therapies (eg, parenteral nutrition, enteral nutrition, or exclusive enteral nutrition), or those on a Crohn's disease exclusion diet. We suggest that all newly diagnosed patients with IBD have access to a registered dietitian. 
 
@@ -216,7 +216,7 @@ Methods: This expert review was commissioned and approved by the AGA Clinical Pr
 
 * BEST PRACTICE ADVICE 9: All patients with IBD warrant regular screening for malnutrition by their provider by means of assessing signs and symptoms, including unintended weight loss, edema and fluid retention, and fat and muscle mass loss. When observed, more complete evaluation for malnutrition by a registered dietitian is indicated. Serum proteins are no longer recommended for the identification and diagnosis of malnutrition due to their lack of specificity for nutritional status and high sensitivity to inflammation. 
 
-* BEST PRACTICE ADVICE 10: All patients with IBD should be monitored for  **&lt;span style=&quot;color:orange;&quot;&gt;vitamin D&lt;/span&gt;**  and iron deficiency. Patients with extensive ileal disease or prior ileal surgery (resection or ileal pouch) should be monitored for vitamin B12 deficiency. 
+* BEST PRACTICE ADVICE 10: All patients with IBD should be monitored for  **&lt;span style=&quot;color:#F06;&quot;&gt;vitamin D&lt;/span&gt;**  and iron deficiency. Patients with extensive ileal disease or prior ileal surgery (resection or ileal pouch) should be monitored for vitamin B12 deficiency. 
 
 * BEST PRACTICE ADVICE 11: All outpatients and inpatients with complicated IBD warrant co-management with a registered dietitian, especially those who have malnutrition, short bowel syndrome, enterocutaneous fistula, and/or are requiring more complex nutrition therapies (eg, parenteral nutrition, enteral nutrition, or exclusive enteral nutrition), or those on a Crohn&#39;s disease exclusion diet. We suggest that all newly diagnosed patients with IBD have access to a registered dietitian. 
 

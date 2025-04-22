@@ -34,7 +34,7 @@ Conclusion: Thus, it could be summarized that among the studied polymorphisms of
 
 ---
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">44+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">44+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -71,7 +71,7 @@ Conclusion: Thus, it could be summarized that among the studied polymorphisms of
 
 ---
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;44+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;44+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 

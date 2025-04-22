@@ -20,7 +20,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **The study’s results in the rate of cancer deaths above the historic norm in 2022  <span style="color:orange;">for ages 15-44 in the U.K.</span> included:** 
+ **The study’s results in the rate of cancer deaths above the historic norm in 2022 <span style="color:#F06;">for ages 15-44 in the U.K.</span> included:** 
 
 A 28% rise in fatal breast cancer rates in women.
 
@@ -70,7 +70,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **The study’s results in the rate of cancer deaths above the historic norm in 2022  &lt;span style=&quot;color:orange;&quot;&gt;for ages 15-44 in the U.K.&lt;/span&gt; included:** 
+ **The study’s results in the rate of cancer deaths above the historic norm in 2022 &lt;span style=&quot;color:#F06;&quot;&gt;for ages 15-44 in the U.K.&lt;/span&gt; included:** 
 
 A 28% rise in fatal breast cancer rates in women.
 

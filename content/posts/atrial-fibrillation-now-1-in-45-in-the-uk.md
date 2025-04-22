@@ -21,7 +21,7 @@ categories:
 
 * Referencing the British Heart Foundation [Number of UK people with heart rhythm condition rises by 50% in a decade](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/may/new-figures-show-the-number-of-uk-people-with-heart-rhythm-condition) May 2023
 
-  * "The new total means that 1 in 45 people in the UK are known to be living with the condition"
+   * "The new total means that 1 in 45 people in the UK are known to be living with the condition"
 
 ---
 
@@ -65,7 +65,7 @@ Markdown:
 
 * Referencing the British Heart Foundation [Number of UK people with heart rhythm condition rises by 50% in a decade](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/may/new-figures-show-the-number-of-uk-people-with-heart-rhythm-condition) May 2023
 
-  * &quot;The new total means that 1 in 45 people in the UK are known to be living with the condition&quot;
+   * &quot;The new total means that 1 in 45 people in the UK are known to be living with the condition&quot;
 
 ---
 

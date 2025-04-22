@@ -936,13 +936,13 @@ Scopus (27)
 
 * Full spectrum of vitamin D immunomodulation in multiple sclerosis: mechanisms and therapeutic implications - June 2022  https://doi.org/10.1093/braincomms/fcac171 FREE PDF
 
-  * "In this review, we focus on recent published data describing the biological effects of Vitamin D in animal models of multiple sclerosis on immune cells, blood–brain barrier function, activation of glial cells and its potential neuroprotective effects."
+   * "In this review, we focus on recent published data describing the biological effects of Vitamin D in animal models of multiple sclerosis on immune cells, blood–brain barrier function, activation of glial cells and its potential neuroprotective effects."
 
 * The Role of Vitamin D in Neuroprotection in Multiple Sclerosis: An Update - June 2023  https://doi.org/10.3390/nu15132978 FREE PDF
 
 * Intranasal administration of vitamin D attenuates blood–brain barrier disruption through endogenous upregulation of osteopontin and activation of CD44/P-gp glycosylation signaling after subarachnoid hemorrhage in rats - Oct 2016 https://doi.org/10.1177/0271678X16671147 FREE PDF
 
-  * Note: VitaminDWiki has been successfully experimenting in inhaing Vitamin D since about 2015
+   * Note: VitaminDWiki has been successfully experimenting in inhaing Vitamin D since about 2015
 
 ---
 
@@ -956,7 +956,7 @@ Scopus (27)
 
 * [Global burden of brain disorders surpasses cardiovascular disease and cancer - July 2023](/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer)
 
-  * Contains: Vitamin D inhaled thru the nose gets some directly to the brain
+   * Contains: Vitamin D inhaled thru the nose gets some directly to the brain
 
 * <a href="/posts/vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021">Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021</a>
 
@@ -1905,13 +1905,13 @@ Scopus (27)
 
 * Full spectrum of vitamin D immunomodulation in multiple sclerosis: mechanisms and therapeutic implications - June 2022  https://doi.org/10.1093/braincomms/fcac171 FREE PDF
 
-  * &quot;In this review, we focus on recent published data describing the biological effects of Vitamin D in animal models of multiple sclerosis on immune cells, blood–brain barrier function, activation of glial cells and its potential neuroprotective effects.&quot;
+   * &quot;In this review, we focus on recent published data describing the biological effects of Vitamin D in animal models of multiple sclerosis on immune cells, blood–brain barrier function, activation of glial cells and its potential neuroprotective effects.&quot;
 
 * The Role of Vitamin D in Neuroprotection in Multiple Sclerosis: An Update - June 2023  https://doi.org/10.3390/nu15132978 FREE PDF
 
 * Intranasal administration of vitamin D attenuates blood–brain barrier disruption through endogenous upregulation of osteopontin and activation of CD44/P-gp glycosylation signaling after subarachnoid hemorrhage in rats - Oct 2016 https://doi.org/10.1177/0271678X16671147 FREE PDF
 
-  * Note: VitaminDWiki has been successfully experimenting in inhaing Vitamin D since about 2015
+   * Note: VitaminDWiki has been successfully experimenting in inhaing Vitamin D since about 2015
 
 ---
 
@@ -1925,7 +1925,7 @@ Scopus (27)
 
 * [Global burden of brain disorders surpasses cardiovascular disease and cancer - July 2023](/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer)
 
-  * Contains: Vitamin D inhaled thru the nose gets some directly to the brain
+   * Contains: Vitamin D inhaled thru the nose gets some directly to the brain
 
 * &lt;a href=&quot;/posts/vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021&quot;&gt;Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021&lt;/a&gt;
 

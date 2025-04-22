@@ -57,7 +57,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 
 * [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s?k=vitamin+d+test+kit+rapid+self-test&crid=2MG5AW6VZ5ZXY&sprefix=vitamin+d+tests%2Caps%2C267&ref=nb_sb_ss_ts-doa-p_2_15)
 
-  * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
+   * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
 
  **10-minute Y/N testers have been sold in > 50 countries, but not the US as of Dec 2023** 
 
@@ -127,7 +127,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 
 * [Many  Amazon UK vendors - $7.00](https://www.amazon.co.uk/s?k=vitamin+d+test+kit+rapid+self-test&amp;crid=2MG5AW6VZ5ZXY&amp;sprefix=vitamin+d+tests%2Caps%2C267&amp;ref=nb_sb_ss_ts-doa-p_2_15)
 
-  * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
+   * The founder of VitaminDWiki has purchased many of them - including 50 in March 2023
 
  **10-minute Y/N testers have been sold in &gt; 50 countries, but not the US as of Dec 2023** 
 

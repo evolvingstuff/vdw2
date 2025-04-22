@@ -52,7 +52,7 @@ Vitamin D deficiency tends to be common in pregnant women who have COVID-19, and
 
 ---
 
-####  <span style="color:orange;">17+</span> VitaminDWiki Pregnancy pages with "COVID" in title
+#### <span style="color:#F06;">17+</span> VitaminDWiki Pregnancy pages with "COVID" in title
 
 <!-- {LIST()}
 {list max="50"}
@@ -113,7 +113,7 @@ Vitamin D deficiency tends to be common in pregnant women who have COVID-19, and
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;17+&lt;/span&gt; VitaminDWiki Pregnancy pages with &quot;COVID&quot; in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;17+&lt;/span&gt; VitaminDWiki Pregnancy pages with &quot;COVID&quot; in title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

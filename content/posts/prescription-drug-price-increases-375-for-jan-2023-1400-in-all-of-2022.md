@@ -22,9 +22,9 @@ date: 2023-01-07
 
 * <a href="/posts/extremely-big-pharma-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Extremely Big Pharma - many studies">Extremely Big Pharma - many studies</a>
 
-  * in 2002 10 Pharmaceutical companies combined made more than the other 490 Fortune 500 companies - $35.9 billion vs $35.7 billion
+   * in 2002 10 Pharmaceutical companies combined made more than the other 490 Fortune 500 companies - $35.9 billion vs $35.7 billion
 
-  * ROI: $44 profit for every $1 spent
+   * ROI: $44 profit for every $1 spent
 
 * <a href="/posts/insulin-prices-and-usage-are-soaring" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Insulin prices and usage are soaring">Insulin prices and usage are soaring</a>
 
@@ -56,9 +56,9 @@ Markdown:
 
 * &lt;a href=&quot;/posts/extremely-big-pharma-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Extremely Big Pharma - many studies&quot;&gt;Extremely Big Pharma - many studies&lt;/a&gt;
 
-  * in 2002 10 Pharmaceutical companies combined made more than the other 490 Fortune 500 companies - $35.9 billion vs $35.7 billion
+   * in 2002 10 Pharmaceutical companies combined made more than the other 490 Fortune 500 companies - $35.9 billion vs $35.7 billion
 
-  * ROI: $44 profit for every $1 spent
+   * ROI: $44 profit for every $1 spent
 
 * &lt;a href=&quot;/posts/insulin-prices-and-usage-are-soaring&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Insulin prices and usage are soaring&quot;&gt;Insulin prices and usage are soaring&lt;/a&gt;
 

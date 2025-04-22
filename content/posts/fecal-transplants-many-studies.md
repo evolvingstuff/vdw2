@@ -127,7 +127,7 @@ As the importance of the gut microbiota in health and disease is a subject of gr
 
 ---
 
-#### Relationships Between  <span style="color:orange;">Vitamin D</span>, Gut Microbiome, and Systemic Autoimmunity - Jan 2020
+#### Relationships Between <span style="color:#F06;">Vitamin D</span>, Gut Microbiome, and Systemic Autoimmunity - Jan 2020
 
 Front. Immunol., 21 January 2020 Volume 10 - 2019 | https://doi.org/10.3389/fimmu.2019.03141
 
@@ -167,7 +167,7 @@ Impaired microbiome diversity and composition can develop into a potent etiologi
 
 #### VitaminDWiki – [Microbiome](/categories/microbiome) category has
 
- <span style="color:orange;">items</span> along with related searches
+<span style="color:#00F;">items</span> along with related searches
 
 ---
 
@@ -325,7 +325,7 @@ As the importance of the gut microbiota in health and disease is a subject of gr
 
 ---
 
-#### Relationships Between  &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D&lt;/span&gt;, Gut Microbiome, and Systemic Autoimmunity - Jan 2020
+#### Relationships Between &lt;span style=&quot;color:#F06;&quot;&gt;Vitamin D&lt;/span&gt;, Gut Microbiome, and Systemic Autoimmunity - Jan 2020
 
 Front. Immunol., 21 January 2020 Volume 10 - 2019 | https://doi.org/10.3389/fimmu.2019.03141
 
@@ -365,7 +365,7 @@ Impaired microbiome diversity and composition can develop into a potent etiologi
 
 #### VitaminDWiki – [Microbiome](/categories/microbiome) category has
 
- &lt;span style=&quot;color:orange;&quot;&gt;items&lt;/span&gt; along with related searches
+&lt;span style=&quot;color:#00F;&quot;&gt;items&lt;/span&gt; along with related searches
 
 ---
 

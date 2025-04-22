@@ -22,13 +22,13 @@ Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. Mc
 
 * GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; 
 
-  * jen@grassrootshealth.org (J.L.A.);
+   * jen@grassrootshealth.org (J.L.A.);
 
-  * samantha@grassrootshealth.org (S.M.K.)
+   * samantha@grassrootshealth.org (S.M.K.)
 
 * Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu
 
-&nbsp;&nbsp;&nbsp;&nbsp;The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
+> The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
@@ -64,13 +64,13 @@ Beth S. Sanford h* , Jennifer L. Aliano 2®, Courtney S. Omary *©, Sharon L. Mc
 
 * GrassrootsHealth Nutrient Research Institute, Encinitas, CA 92024, USA; 
 
-  * jen@grassrootshealth.org (J.L.A.);
+   * jen@grassrootshealth.org (J.L.A.);
 
-  * samantha@grassrootshealth.org (S.M.K.)
+   * samantha@grassrootshealth.org (S.M.K.)
 
 * Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA; wbgrant@infionline.net * *Correspondence: beth.sanford@rasmussen.edu
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
+&gt; The Preliminary Results of This Paper Were Presented at the 15th National Doctors of Nursing Practice Conference in Tampa, FL, USA, 3-5 August 2022.
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 

@@ -37,7 +37,7 @@ This article reports the results of an ecological study of cancer incidence rate
 
 ##### UVB probably decrease of Cancer even more if the entire year had been considered, not just July.
 
- **There are perhaps 10X more hours per year with UVB >3 in  <span style="color:orange;">Florida</span> than <span style="color:orange;">Alaska</span>** 
+ **There are perhaps 10X more hours per year with UVB >3 in <span style="color:#F06;">Florida</span> than<span style="color:#90F;">Alaska</span>** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -70,7 +70,7 @@ This article reports the results of an ecological study of cancer incidence rate
 
 ##### UVB probably decrease of Cancer even more if the entire year had been considered, not just July.
 
- **There are perhaps 10X more hours per year with UVB &gt;3 in  &lt;span style=&quot;color:orange;&quot;&gt;Florida&lt;/span&gt; than &lt;span style=&quot;color:orange;&quot;&gt;Alaska&lt;/span&gt;** 
+ **There are perhaps 10X more hours per year with UVB &gt;3 in &lt;span style=&quot;color:#F06;&quot;&gt;Florida&lt;/span&gt; than&lt;span style=&quot;color:#90F;&quot;&gt;Alaska&lt;/span&gt;** 
 
 
 AST Structure:

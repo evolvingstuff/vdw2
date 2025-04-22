@@ -33,7 +33,7 @@ categories:
 
 * Reducing intake of linoleic acid (LA), found in high amounts in seed oils and certain meats, is recommended if you have CFS, as excess LA impair your mitochondrial function and cellular energy production
 
-  * Note: LAs reduces the Omage-3
+   * Note: LAs reduces the Omage-3
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -85,7 +85,7 @@ Markdown:
 
 * Reducing intake of linoleic acid (LA), found in high amounts in seed oils and certain meats, is recommended if you have CFS, as excess LA impair your mitochondrial function and cellular energy production
 
-  * Note: LAs reduces the Omage-3
+   * Note: LAs reduces the Omage-3
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

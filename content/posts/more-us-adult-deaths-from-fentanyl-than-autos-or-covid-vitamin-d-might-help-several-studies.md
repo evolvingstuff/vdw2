@@ -43,7 +43,7 @@ fewer would become addicted, and fewer would die
 
 * Vitamin D status and associations with substance use patterns among people with severe substance use disorders in Western Norway August 2022 https://doi.org/10.1038/s41598-022-17804-w FREE PDF
 
-  * Most opiot patients were vitamin D deficient
+   * Most opiot patients were vitamin D deficient
 
 ---
 
@@ -123,7 +123,7 @@ fewer would become addicted, and fewer would die
 
 * Vitamin D status and associations with substance use patterns among people with severe substance use disorders in Western Norway August 2022 https://doi.org/10.1038/s41598-022-17804-w FREE PDF
 
-  * Most opiot patients were vitamin D deficient
+   * Most opiot patients were vitamin D deficient
 
 ---
 

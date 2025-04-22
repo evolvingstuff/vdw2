@@ -199,23 +199,23 @@ The hierarchical taxonomy of the Immune Tolerance biomedical literature (as refl
 
 The sub-categories under Category 1 are: 
 
-  * 1a) Immune Tolerance Enhancement for Improved Organ Transplantation, 
+   * 1a) Immune Tolerance Enhancement for Improved Organ Transplantation, 
 
-  * 1b) Immune Tolerance Enhancement for Improved Tissue Allografts, 
+   * 1b) Immune Tolerance Enhancement for Improved Tissue Allografts, 
 
-  * 1c) Immune Tolerance Augmentation in the Treatment of Autoimmune Diabetes, and 
+   * 1c) Immune Tolerance Augmentation in the Treatment of Autoimmune Diabetes, and 
 
-  * 1d) Immune Tolerance Augmentation Through Transplantation of Donor Stem Cells.  
+   * 1d) Immune Tolerance Augmentation Through Transplantation of Donor Stem Cells.  
 
 The sub-categories under Category 2 are: 
 
-  * 2a) Role of Regulatory T Cells in Immune Response, 
+   * 2a) Role of Regulatory T Cells in Immune Response, 
 
-  * 2b) Role of Dendritic Cells in T Cell Response.
+   * 2b) Role of Dendritic Cells in T Cell Response.
 
-  * 2c) Immune Tolerance Induction to Induce FVIII Antigen-Specific Tolerance in Patients with Hemophilia A and Inhibitors and Role of B Cells in Immunological Tolerance and Autoimmunity. and 
+   * 2c) Immune Tolerance Induction to Induce FVIII Antigen-Specific Tolerance in Patients with Hemophilia A and Inhibitors and Role of B Cells in Immunological Tolerance and Autoimmunity. and 
 
-  * 2d) Mechanisms of Immune Response Regulation. 
+   * 2d) Mechanisms of Immune Response Regulation. 
 
 Many of the records in the above taxonomy reflect an immune system gone awry, and the dysfunctional Immune Tolerance response is one marker of a dysfunctional immune system.  Some/much of the immune system dysfunction can be attributed to genetic deficiencies and to CFs (mainly toxic exposures and toxic behaviors).  Very few of the above records address the adverse effects of the CFs on immune system dysfunctionality and, more specifically, on Immune Tolerance dysfunctionality.  To make real progress in eliminating Immune Tolerance dysfunctionality, the CFs mainly responsible for the dysfunctional immune system must be identified and eliminated.  Some CFs identified in a previous study on immune system dysfunction are presented in summary form in the Appendices.
 
@@ -465,23 +465,23 @@ The hierarchical taxonomy of the Immune Tolerance biomedical literature (as refl
 
 The sub-categories under Category 1 are: 
 
-  * 1a) Immune Tolerance Enhancement for Improved Organ Transplantation, 
+   * 1a) Immune Tolerance Enhancement for Improved Organ Transplantation, 
 
-  * 1b) Immune Tolerance Enhancement for Improved Tissue Allografts, 
+   * 1b) Immune Tolerance Enhancement for Improved Tissue Allografts, 
 
-  * 1c) Immune Tolerance Augmentation in the Treatment of Autoimmune Diabetes, and 
+   * 1c) Immune Tolerance Augmentation in the Treatment of Autoimmune Diabetes, and 
 
-  * 1d) Immune Tolerance Augmentation Through Transplantation of Donor Stem Cells.  
+   * 1d) Immune Tolerance Augmentation Through Transplantation of Donor Stem Cells.  
 
 The sub-categories under Category 2 are: 
 
-  * 2a) Role of Regulatory T Cells in Immune Response, 
+   * 2a) Role of Regulatory T Cells in Immune Response, 
 
-  * 2b) Role of Dendritic Cells in T Cell Response.
+   * 2b) Role of Dendritic Cells in T Cell Response.
 
-  * 2c) Immune Tolerance Induction to Induce FVIII Antigen-Specific Tolerance in Patients with Hemophilia A and Inhibitors and Role of B Cells in Immunological Tolerance and Autoimmunity. and 
+   * 2c) Immune Tolerance Induction to Induce FVIII Antigen-Specific Tolerance in Patients with Hemophilia A and Inhibitors and Role of B Cells in Immunological Tolerance and Autoimmunity. and 
 
-  * 2d) Mechanisms of Immune Response Regulation. 
+   * 2d) Mechanisms of Immune Response Regulation. 
 
 Many of the records in the above taxonomy reflect an immune system gone awry, and the dysfunctional Immune Tolerance response is one marker of a dysfunctional immune system.  Some/much of the immune system dysfunction can be attributed to genetic deficiencies and to CFs (mainly toxic exposures and toxic behaviors).  Very few of the above records address the adverse effects of the CFs on immune system dysfunctionality and, more specifically, on Immune Tolerance dysfunctionality.  To make real progress in eliminating Immune Tolerance dysfunctionality, the CFs mainly responsible for the dysfunctional immune system must be identified and eliminated.  Some CFs identified in a previous study on immune system dysfunction are presented in summary form in the Appendices.
 

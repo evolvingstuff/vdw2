@@ -28,7 +28,7 @@ vitamin D supplementation is inconsistent"
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -54,7 +54,7 @@ vitamin D supplementation is inconsistent&quot;
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 AST Structure:
 -------------

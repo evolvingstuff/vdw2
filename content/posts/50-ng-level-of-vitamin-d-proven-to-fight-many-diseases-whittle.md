@@ -468,13 +468,13 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023](/posts/health-can-be-greatly-improved-by-weekly-50000-iu-of-vitamin-d-video-and-transcript)
 
-  * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
+   * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
 
 * <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
 * [Vitamin D is often better when taken weekly instead of daily](/categories/better-than-daily)
 
-  * <a href="/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020">44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020</a>
+   * <a href="/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020">44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020</a>
 
 * <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">When taking >4,000 IU daily for >1 year, co-factors such as Magnesium and Vitamin K2 are important</a>
 
@@ -484,11 +484,11 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [A Vitamin D receptor gene can limit how much Vitamin D actually gets to the cells](/categories/vitamin-d-receptor)
 
-  * Diseases such as COVID, and many cancers have learned to protect themselves by de-activating the Vitamin D
+   * Diseases such as COVID, and many cancers have learned to protect themselves by de-activating the Vitamin D
 
-  * <a href="/posts/vitamin-d-receptor-is-associated-in-over-40-autoimmune-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor is associated in over 40 autoimmune studies">Vitamin D Receptor is associated in over 40 autoimmune studies</a>
+   * <a href="/posts/vitamin-d-receptor-is-associated-in-over-40-autoimmune-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor is associated in over 40 autoimmune studies">Vitamin D Receptor is associated in over 40 autoimmune studies</a>
 
-  * VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 14 ways
+   * VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 14 ways
 
  **<a href="/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, &nbsp;<a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,&nbsp; <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>, &nbsp; <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>, &nbsp; [non-daily Vit D](/categories/better-than-daily), &nbsp;<a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>, intense exercise, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate</a> &nbsp; Ginger, &nbsp; Essential oils, etc&nbsp; Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators** 
 
@@ -962,13 +962,13 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [Health can be greatly improved by weekly 50,000 IU of Vitamin D - video and transcript - March 2023](/posts/health-can-be-greatly-improved-by-weekly-50000-iu-of-vitamin-d-video-and-transcript)
 
-  * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
+   * [48 Health problems fought by weekly 50K Vitamin D](https://VitaminDWiki.com/Health+can+be+greatly+improved+by+weekly+50%2C000+IU+of+Vitamin+D+-+video+and+transcript+-+March+2023#Health_problems_fought_by_weekly_50K_Vitamin_D)
 
 * &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
 
 * [Vitamin D is often better when taken weekly instead of daily](/categories/better-than-daily)
 
-  * &lt;a href=&quot;/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020&quot;&gt;44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020&lt;/a&gt;
+   * &lt;a href=&quot;/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020&quot;&gt;44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;When taking &gt;4,000 IU daily for &gt;1 year, co-factors such as Magnesium and Vitamin K2 are important&lt;/a&gt;
 
@@ -978,11 +978,11 @@ Robin Whittle is a computer programmer and electronic technician living in Dayle
 
 * [A Vitamin D receptor gene can limit how much Vitamin D actually gets to the cells](/categories/vitamin-d-receptor)
 
-  * Diseases such as COVID, and many cancers have learned to protect themselves by de-activating the Vitamin D
+   * Diseases such as COVID, and many cancers have learned to protect themselves by de-activating the Vitamin D
 
-  * &lt;a href=&quot;/posts/vitamin-d-receptor-is-associated-in-over-40-autoimmune-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Receptor is associated in over 40 autoimmune studies&quot;&gt;Vitamin D Receptor is associated in over 40 autoimmune studies&lt;/a&gt;
+   * &lt;a href=&quot;/posts/vitamin-d-receptor-is-associated-in-over-40-autoimmune-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Receptor is associated in over 40 autoimmune studies&quot;&gt;Vitamin D Receptor is associated in over 40 autoimmune studies&lt;/a&gt;
 
-  * VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 14 ways
+   * VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) activation can be increased in 14 ways
 
  **&lt;a href=&quot;/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D&quot;&gt;Omega-3&lt;/a&gt;, &amp;nbsp;&lt;a href=&quot;/posts/magnesium-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium and Vitamin D&quot;&gt;Magnesium&lt;/a&gt;,&amp;nbsp; &lt;a href=&quot;/posts/zinc-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Zinc and Vitamin D&quot;&gt;Zinc&lt;/a&gt;, &amp;nbsp; &lt;a href=&quot;/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016&quot;&gt;Quercetin&lt;/a&gt;, &amp;nbsp; [non-daily Vit D](/categories/better-than-daily), &amp;nbsp;&lt;a href=&quot;/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010&quot;&gt;Curcumin&lt;/a&gt;, intense exercise, &lt;a href=&quot;/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)&quot;&gt;Butyrate&lt;/a&gt; &amp;nbsp; Ginger, &amp;nbsp; Essential oils, etc&amp;nbsp; Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators** 
 

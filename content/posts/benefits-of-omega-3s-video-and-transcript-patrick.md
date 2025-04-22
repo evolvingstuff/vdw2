@@ -48,7 +48,7 @@ categories:
 
 * See VitaminDWiki <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
 
-  * If you must smoke, take vitamin D (and Omega-3)
+   * If you must smoke, take vitamin D (and Omega-3)
 
 0:08:19.2  So Omega-3 is, there's so many different roles that it plays in the body. It's accumulates in cell membranes, plays an important role in the way transporters and receptors function because all those things are embedded in the cell membrane. And so for example, glucose transporters at the blood-brain barrier are altered. They're not functioning well when DHA is deficient and that can cause less glucose to get into the brain. That obviously leads to many problems. It's also the metabolites of EPA and DHA. They resolve inflammation in a very efficient and timely manner. These are the maresins, the protectins, they're the SPMs, the resolvins. These are playing a very important role in inflammation. And I think there has been now enough evidence that inflammation, chronic low level inflammation is a driver of the aging process itself. In other words, not just driving, increasing the risk of cardiovascular disease and dementia and cancer, which it does, but just the process of aging.
 
@@ -132,7 +132,7 @@ Markdown:
 
 * See VitaminDWiki &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;Smoking reduces vitamin D - many studies&lt;/a&gt;
 
-  * If you must smoke, take vitamin D (and Omega-3)
+   * If you must smoke, take vitamin D (and Omega-3)
 
 0:08:19.2  So Omega-3 is, there&#39;s so many different roles that it plays in the body. It&#39;s accumulates in cell membranes, plays an important role in the way transporters and receptors function because all those things are embedded in the cell membrane. And so for example, glucose transporters at the blood-brain barrier are altered. They&#39;re not functioning well when DHA is deficient and that can cause less glucose to get into the brain. That obviously leads to many problems. It&#39;s also the metabolites of EPA and DHA. They resolve inflammation in a very efficient and timely manner. These are the maresins, the protectins, they&#39;re the SPMs, the resolvins. These are playing a very important role in inflammation. And I think there has been now enough evidence that inflammation, chronic low level inflammation is a driver of the aging process itself. In other words, not just driving, increasing the risk of cardiovascular disease and dementia and cancer, which it does, but just the process of aging.
 

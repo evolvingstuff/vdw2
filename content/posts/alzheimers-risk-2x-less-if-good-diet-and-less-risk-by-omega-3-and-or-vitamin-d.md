@@ -60,7 +60,7 @@ Discussed in Zoom webinar [Front Line COVID-19  Critical Care Alliance - Nov 8, 
 
 ---
 
-####  <span style="color:orange;">11+</span>  VitaminDWiki OMEGA-3 pages with ALZHEIMER'S in title
+#### <span style="color:#F06;">11+</span>  VitaminDWiki OMEGA-3 pages with ALZHEIMER'S in title
 
 <!-- {LIST()}
 {list max="50"}
@@ -134,7 +134,7 @@ Discussed in Zoom webinar [Front Line COVID-19  Critical Care Alliance - Nov 8, 
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;11+&lt;/span&gt;  VitaminDWiki OMEGA-3 pages with ALZHEIMER&#39;S in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;11+&lt;/span&gt;  VitaminDWiki OMEGA-3 pages with ALZHEIMER&#39;S in title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

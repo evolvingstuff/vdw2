@@ -12,7 +12,7 @@ categories:
 ---
 
 
-&nbsp; &nbsp; &nbsp;  **<span style="color:orange;">Also restricted by some foods and drugs</span>** 
+&nbsp; &nbsp; &nbsp;  **<span style="color:#00F;">Also restricted by some foods and drugs</span>** 
 
 {{< toc >}}
 
@@ -243,7 +243,7 @@ A number of anti-angiogenesis drugs have been FDA-approved and are being used in
 <code class="language-text">
 Markdown:
 --------
-&amp;nbsp; &amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:orange;&quot;&gt;Also restricted by some foods and drugs&lt;/span&gt;** 
+&amp;nbsp; &amp;nbsp; &amp;nbsp;  **&lt;span style=&quot;color:#00F;&quot;&gt;Also restricted by some foods and drugs&lt;/span&gt;** 
 
 {{&lt; toc &gt;}}
 

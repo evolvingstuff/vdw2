@@ -51,7 +51,7 @@ Respiratory infections|25 %
 
 ::Average Reduction:: |16 % &nbsp; &nbsp; (20% ?)||
 
-  * Population of Canada = 32 million, so cost saving is $187 to $562 million per million population
+   * Population of Canada = 32 million, so cost saving is $187 to $562 million per million population
 
 ---
 
@@ -131,7 +131,7 @@ Respiratory infections|25 %
 
 ::Average Reduction:: |16 % &amp;nbsp; &amp;nbsp; (20% ?)||
 
-  * Population of Canada = 32 million, so cost saving is $187 to $562 million per million population
+   * Population of Canada = 32 million, so cost saving is $187 to $562 million per million population
 
 ---
 

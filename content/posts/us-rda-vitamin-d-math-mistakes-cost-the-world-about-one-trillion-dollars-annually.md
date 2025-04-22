@@ -34,7 +34,7 @@ The world copied the US mistake of 600 IU
 
 * Thus, decrease in health care costs =12%  = half X half X 75%
 
-  * 12% of $8.3 trillion = $1.2 trillion
+   * 12% of $8.3 trillion = $1.2 trillion
 
 {{< toc >}}
 
@@ -52,15 +52,15 @@ Costs:
 
 * Medical care
 
-  * <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng">__75%__ reduction in office visits in patients taking ~8,000 IU daily</a>
+   * <a href="/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng">__75%__ reduction in office visits in patients taking ~8,000 IU daily</a>
 
-  * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
+   * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
-  * Extremely conservative estimate of savings of  **12%**  due to 8,000 IU daily =  **<span style="color:orange;">$1 trillion</span>** 
+   * Extremely conservative estimate of savings of  **12%**  due to 8,000 IU daily =  **<span style="color:#F00;">$1 trillion</span>** 
 
 * 2X increased incidence of many diseases 
 
-  * Early-onset Cancers, Obesity, MS, Diabetes, Alzheimer's, etc
+   * Early-onset Cancers, Obesity, MS, Diabetes, Alzheimer's, etc
 
 * Reduced productivity
 
@@ -68,7 +68,7 @@ Costs:
 
 * Reduced viral infections, such as COVID
 
-  * 8,000 IU would have prevented more than half of the COVID hospitalizations, disabilites, and deaths
+   * 8,000 IU would have prevented more than half of the COVID hospitalizations, disabilites, and deaths
 
 ---
 
@@ -135,7 +135,7 @@ The world copied the US mistake of 600 IU
 
 * Thus, decrease in health care costs =12%  = half X half X 75%
 
-  * 12% of $8.3 trillion = $1.2 trillion
+   * 12% of $8.3 trillion = $1.2 trillion
 
 {{&lt; toc &gt;}}
 
@@ -153,15 +153,15 @@ Costs:
 
 * Medical care
 
-  * &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng&quot;&gt;__75%__ reduction in office visits in patients taking ~8,000 IU daily&lt;/a&gt;
+   * &lt;a href=&quot;/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Dr. who got patients to vitamin D level of 80 ng&quot;&gt;__75%__ reduction in office visits in patients taking ~8,000 IU daily&lt;/a&gt;
 
-  * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
+   * [Global health spending for 2018](https://www.who.int/publications/i/item/9789240017788) =  $8.3 trillion
 
-  * Extremely conservative estimate of savings of  **12%**  due to 8,000 IU daily =  **&lt;span style=&quot;color:orange;&quot;&gt;$1 trillion&lt;/span&gt;** 
+   * Extremely conservative estimate of savings of  **12%**  due to 8,000 IU daily =  **&lt;span style=&quot;color:#F00;&quot;&gt;$1 trillion&lt;/span&gt;** 
 
 * 2X increased incidence of many diseases 
 
-  * Early-onset Cancers, Obesity, MS, Diabetes, Alzheimer&#39;s, etc
+   * Early-onset Cancers, Obesity, MS, Diabetes, Alzheimer&#39;s, etc
 
 * Reduced productivity
 
@@ -169,7 +169,7 @@ Costs:
 
 * Reduced viral infections, such as COVID
 
-  * 8,000 IU would have prevented more than half of the COVID hospitalizations, disabilites, and deaths
+   * 8,000 IU would have prevented more than half of the COVID hospitalizations, disabilites, and deaths
 
 ---
 

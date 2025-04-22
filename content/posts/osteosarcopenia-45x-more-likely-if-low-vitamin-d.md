@@ -10,7 +10,7 @@ categories:
 ---
 
 
- **<span style="color:orange;">Osteosarcopenia</span> is a syndrome that occurs when someone has both osteoporosis and sarcopenia.  
+ **<span style="color:#00F;">Osteosarcopenia</span> is a syndrome that occurs when someone has both osteoporosis and sarcopenia.  
 Osteoporosis is characterized by low bone mass and bone tissue deterioration.   
 Sarcopenia  is characterized by a loss of muscle mass, strength, and function.** 
 
@@ -57,7 +57,7 @@ Conclusions: OsteoSarc1 had a higher prevalence. The risk factors associated wit
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Osteosarcopenia&lt;/span&gt; is a syndrome that occurs when someone has both osteoporosis and sarcopenia.  
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Osteosarcopenia&lt;/span&gt; is a syndrome that occurs when someone has both osteoporosis and sarcopenia.  
 Osteoporosis is characterized by low bone mass and bone tissue deterioration.   
 Sarcopenia  is characterized by a loss of muscle mass, strength, and function.** 
 

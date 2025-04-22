@@ -106,7 +106,7 @@ Mahdieh Akbari 1, Houman Parsaei 2, Katayoun Sedaghat 1, Fatemeh Mousavi 1
 
 * Putative role of vitamin D in the mechanism of alcoholism and other addictions – a hypothesis - Feb 2021 https://doi.org/10.1017/neu.2020.41 FREE PDF
 
-  * 5 studies, VDR and other genes can restrict Vitamin D from getting to brain cells
+   * 5 studies, VDR and other genes can restrict Vitamin D from getting to brain cells
 
 * Vitamin D and Its Potential Interplay With Pain Signaling Pathways - May 2020 https://doi.org/10.3389/fimmu.2020.00820 FREE PDF
 
@@ -222,7 +222,7 @@ Mahdieh Akbari 1, Houman Parsaei 2, Katayoun Sedaghat 1, Fatemeh Mousavi 1
 
 * Putative role of vitamin D in the mechanism of alcoholism and other addictions – a hypothesis - Feb 2021 https://doi.org/10.1017/neu.2020.41 FREE PDF
 
-  * 5 studies, VDR and other genes can restrict Vitamin D from getting to brain cells
+   * 5 studies, VDR and other genes can restrict Vitamin D from getting to brain cells
 
 * Vitamin D and Its Potential Interplay With Pain Signaling Pathways - May 2020 https://doi.org/10.3389/fimmu.2020.00820 FREE PDF
 

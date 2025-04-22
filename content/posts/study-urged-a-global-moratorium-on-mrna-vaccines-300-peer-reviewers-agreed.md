@@ -44,7 +44,7 @@ Given the extensive, well-documented SAEs and unacceptably high harm-to-reward r
 
 &nbsp; &nbsp; **Clipped from PDF** 
 
-#####  <span style="color:orange;">"..for every life saved, there were nearly 14 times more deaths caused by the modified mRNA injections "</span>
+##### <span style="color:#F00;">"..for every life saved, there were nearly 14 times more deaths caused by the modified mRNA injections "</span>
 
 ---
 
@@ -60,7 +60,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -153,7 +153,7 @@ Given the extensive, well-documented SAEs and unacceptably high harm-to-reward r
 
 &amp;nbsp; &amp;nbsp; **Clipped from PDF** 
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;&quot;..for every life saved, there were nearly 14 times more deaths caused by the modified mRNA injections &quot;&lt;/span&gt;
+##### &lt;span style=&quot;color:#F00;&quot;&gt;&quot;..for every life saved, there were nearly 14 times more deaths caused by the modified mRNA injections &quot;&lt;/span&gt;
 
 ---
 
@@ -169,7 +169,7 @@ M. Nathaniel Mead, MSc = former NIH staff writer and epidemiologist
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

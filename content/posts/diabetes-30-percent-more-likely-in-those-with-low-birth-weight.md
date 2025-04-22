@@ -121,7 +121,7 @@ Conclusion/interpretation: Despite younger age at diagnosis, and fewer individua
 
 * Premature birth, low birth weight, small for gestational age and chronic non-communicable diseases in adult life: A systematic review with meta-analysis -October 2020, https://doi.org/10.1016/j.earlhumdev.2020.105154
 
-  * cardiometabolic (CMD) and glycidic metabolism (GMD) disorders, changes in body composition and risk of developing metabolic syndrome (MS). 
+   * cardiometabolic (CMD) and glycidic metabolism (GMD) disorders, changes in body composition and risk of developing metabolic syndrome (MS). 
 
 ---
 
@@ -249,7 +249,7 @@ Conclusion/interpretation: Despite younger age at diagnosis, and fewer individua
 
 * Premature birth, low birth weight, small for gestational age and chronic non-communicable diseases in adult life: A systematic review with meta-analysis -October 2020, https://doi.org/10.1016/j.earlhumdev.2020.105154
 
-  * cardiometabolic (CMD) and glycidic metabolism (GMD) disorders, changes in body composition and risk of developing metabolic syndrome (MS). 
+   * cardiometabolic (CMD) and glycidic metabolism (GMD) disorders, changes in body composition and risk of developing metabolic syndrome (MS). 
 
 ---
 

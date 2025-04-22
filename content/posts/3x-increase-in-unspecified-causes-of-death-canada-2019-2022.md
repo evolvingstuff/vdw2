@@ -31,7 +31,7 @@ categories:
 
 1. Unspecified Cause
 
- **<span style="color:orange;">Note: Autopsies must be assigned to at least 1 cause of death</span>** 
+ **<span style="color:#00F;">Note: Autopsies must be assigned to at least 1 cause of death</span>** 
 
 * “Life expectancy for Canadians fell for third straight year in 2022, StatCan says,” 
 
@@ -92,7 +92,7 @@ Markdown:
 
 1. Unspecified Cause
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: Autopsies must be assigned to at least 1 cause of death&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Note: Autopsies must be assigned to at least 1 cause of death&lt;/span&gt;** 
 
 * “Life expectancy for Canadians fell for third straight year in 2022, StatCan says,” 
 

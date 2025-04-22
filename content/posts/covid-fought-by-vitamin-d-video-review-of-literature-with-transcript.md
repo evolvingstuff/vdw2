@@ -387,7 +387,7 @@ Meanwhile, please take a look at my blog at healthythinking.substacks.com. You c
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) ~/tc~ -->
 
@@ -771,7 +771,7 @@ Meanwhile, please take a look at my blog at healthythinking.substacks.com. You c
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(COVID fought by Vitamin D - video review of literature - Dec 2021)) ~/tc~ --&gt;
 

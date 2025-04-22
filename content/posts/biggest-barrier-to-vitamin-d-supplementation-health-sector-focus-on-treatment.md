@@ -40,23 +40,23 @@ Conclusion: According to our results, a window of opportunity for policymaking o
 
 * <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>  17+ reasons
 
-  * Reason #6: Medical training has an emphasis on treatment, not prevention
+   * Reason #6: Medical training has an emphasis on treatment, not prevention
 
 * <a href="/posts/do-not-expect-your-doctor-to-know-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do not expect your doctor to know about vitamin D">Do not expect your doctor to know about vitamin D</a>
 
 * <a href="/posts/extremely-big-pharma-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Extremely Big Pharma - many studies">Extremely Big Pharma - many studies</a>
 
-  * The goal of the Big Pharma is to indefinitely "manage" disease. 
+   * The goal of the Big Pharma is to indefinitely "manage" disease. 
 
-  *  **A drug that cured a disease would destroy its market.** 
+   *  **A drug that cured a disease would destroy its market.** 
 
 * <a href="/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021">Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021</a>
 
 * <a href="/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018">More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018</a>
 
-  * "Note: Even after clinical trials showed that Vitamin D treated or prevented 90+ health problems, the FDA still will not permit a single health claim for Vitamin D"
+   * "Note: Even after clinical trials showed that Vitamin D treated or prevented 90+ health problems, the FDA still will not permit a single health claim for Vitamin D"
 
-  * Note: Only a single trial finding that a drug is better than a placebo is needed for many FDA approvals
+   * Note: Only a single trial finding that a drug is better than a placebo is needed for many FDA approvals
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -95,23 +95,23 @@ Conclusion: According to our results, a window of opportunity for policymaking o
 
 * &lt;a href=&quot;/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D&quot;&gt;17 reasons why are doctors reluctant to accept vitamin D&lt;/a&gt;  17+ reasons
 
-  * Reason #6: Medical training has an emphasis on treatment, not prevention
+   * Reason #6: Medical training has an emphasis on treatment, not prevention
 
 * &lt;a href=&quot;/posts/do-not-expect-your-doctor-to-know-about-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Do not expect your doctor to know about vitamin D&quot;&gt;Do not expect your doctor to know about vitamin D&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/extremely-big-pharma-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Extremely Big Pharma - many studies&quot;&gt;Extremely Big Pharma - many studies&lt;/a&gt;
 
-  * The goal of the Big Pharma is to indefinitely &quot;manage&quot; disease. 
+   * The goal of the Big Pharma is to indefinitely &quot;manage&quot; disease. 
 
-  *  **A drug that cured a disease would destroy its market.** 
+   *  **A drug that cured a disease would destroy its market.** 
 
 * &lt;a href=&quot;/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Off Topic: Pharma Funded 2,400 State Lawmakers&#39; Campaigns in 2020 - July 2021&quot;&gt;Off Topic: Pharma Funded 2,400 State Lawmakers&#39; Campaigns in 2020 - July 2021&lt;/a&gt;
 
 * &lt;a href=&quot;/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018&quot;&gt;More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018&lt;/a&gt;
 
-  * &quot;Note: Even after clinical trials showed that Vitamin D treated or prevented 90+ health problems, the FDA still will not permit a single health claim for Vitamin D&quot;
+   * &quot;Note: Even after clinical trials showed that Vitamin D treated or prevented 90+ health problems, the FDA still will not permit a single health claim for Vitamin D&quot;
 
-  * Note: Only a single trial finding that a drug is better than a placebo is needed for many FDA approvals
+   * Note: Only a single trial finding that a drug is better than a placebo is needed for many FDA approvals
 
 
 AST Structure:

@@ -40,7 +40,7 @@ Resveratrol is a polyphenol with diverse pharmacological activities, but its cli
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- <span style="color:orange;">Note: Neither Vitamin D nor Vitamin D receptor occur in the PDF </span>
+<span style="color:#00F;">Note: Neither Vitamin D nor Vitamin D receptor occur in the PDF </span>
 
 ---
 
@@ -128,7 +128,7 @@ Resveratrol is a polyphenol with diverse pharmacological activities, but its cli
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- &lt;span style=&quot;color:orange;&quot;&gt;Note: Neither Vitamin D nor Vitamin D receptor occur in the PDF &lt;/span&gt;
+&lt;span style=&quot;color:#00F;&quot;&gt;Note: Neither Vitamin D nor Vitamin D receptor occur in the PDF &lt;/span&gt;
 
 ---
 

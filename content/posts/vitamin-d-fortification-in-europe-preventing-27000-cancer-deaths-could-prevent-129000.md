@@ -25,13 +25,13 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="1000">
 
-*  **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **> >**  Mandatory fortification with adequate amounts covering an adequate range 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (four or more commonly consumed foods) of products;
+> &nbsp; (four or more commonly consumed foods) of products;
 
-* &nbsp;&nbsp;&nbsp;&nbsp;Wide-spread voluntary fortification but with insufficient amounts 
+* > Wide-spread voluntary fortification but with insufficient amounts 
 
-&nbsp;&nbsp;&nbsp;&nbsp;or adequate mandatory fortification of too few products;
+> or adequate mandatory fortification of too few products;
 
 * o Insufficient mandatory fortification plus some voluntary fortification,
 
@@ -115,13 +115,13 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;1000&quot;&gt;
 
-*  **&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **&gt; &gt;**  Mandatory fortification with adequate amounts covering an adequate range 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (four or more commonly consumed foods) of products;
+&gt; &amp;nbsp; (four or more commonly consumed foods) of products;
 
-* &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wide-spread voluntary fortification but with insufficient amounts 
+* &gt; Wide-spread voluntary fortification but with insufficient amounts 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;or adequate mandatory fortification of too few products;
+&gt; or adequate mandatory fortification of too few products;
 
 * o Insufficient mandatory fortification plus some voluntary fortification,
 

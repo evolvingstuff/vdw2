@@ -22,9 +22,9 @@ categories:
 
 1. Have genes that restrict the amount [getting to cells](/categories/genetics)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Measurement of <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH may be a proxy for Vitamin D level in cells</a>
+> Measurement of <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH may be a proxy for Vitamin D level in cells</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
+> One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
 
 1. <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Have a disease associated with Low Vitamin D</a>
 
@@ -54,13 +54,13 @@ categories:
 
 1. Was born <a href="/posts/preterm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14440">preterm</a> or mother had low vitamin D while pregnant
 
-&nbsp;&nbsp;&nbsp;&nbsp;increases the risk of many Vitamin D diseases up to 50 years later
+> increases the risk of many Vitamin D diseases up to 50 years later
 
 1. Have diseases that run in the family that are associated with low Vitamin D
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&nbsp;&nbsp;&nbsp;&nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
+> Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very <a href="/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies">stressful situation</a>
 
@@ -73,7 +73,7 @@ categories:
  **The above are all documented in VitaminDWiki - Solutions include:   
 different dose size, [different form](/categories/forms-of-vitamin-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">cofactors</a>, [non-daily dose](/categories/better-than-daily)** 
 
- **<span style="color:orange;">Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
+ **<span style="color:#00F;">Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
 
 | | |
 | --- | --- |
@@ -632,9 +632,9 @@ Markdown:
 
 1. Have genes that restrict the amount [getting to cells](/categories/genetics)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Measurement of &lt;a href=&quot;/posts/pth-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: PTH and Vitamin D - many studies&quot;&gt;PTH may be a proxy for Vitamin D level in cells&lt;/a&gt;
+&gt; Measurement of &lt;a href=&quot;/posts/pth-and-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: PTH and Vitamin D - many studies&quot;&gt;PTH may be a proxy for Vitamin D level in cells&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
+&gt; One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
 
 1. &lt;a href=&quot;/posts/diseases-that-may-be-related-via-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Diseases that may be related via low vitamin D&quot;&gt;Have a disease associated with Low Vitamin D&lt;/a&gt;
 
@@ -664,13 +664,13 @@ Markdown:
 
 1. Was born &lt;a href=&quot;/posts/preterm&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14440&quot;&gt;preterm&lt;/a&gt; or mother had low vitamin D while pregnant
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;increases the risk of many Vitamin D diseases up to 50 years later
+&gt; increases the risk of many Vitamin D diseases up to 50 years later
 
 1. Have diseases that run in the family that are associated with low Vitamin D
 
 1. Have little ability to get Vitamin D from the noonday sun
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
+&gt; Concealing clothes, far from the equator, [dark skin](https://VitaminDWiki.com/Overview+Dark+Skin+and+Vitamin+D), avoiding the very hot sun, shift worker, nursing home, wheelchair
 
 1. Are in a very &lt;a href=&quot;/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Mental stress, physical stress associations with low vitamin D - many studies&quot;&gt;stressful situation&lt;/a&gt;
 
@@ -683,7 +683,7 @@ Markdown:
  **The above are all documented in VitaminDWiki - Solutions include:   
 different dose size, [different form](/categories/forms-of-vitamin-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;cofactors&lt;/a&gt;, [non-daily dose](/categories/better-than-daily)** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
 
 | | |
 | --- | --- |

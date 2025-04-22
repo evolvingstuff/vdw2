@@ -32,11 +32,11 @@ Key results: Of 100,111 unique individuals tested for serum 25-hydroxy vitamin-D
 
 * GI comorbidities, including 
 
-  * constipation (44.9% vs. 9.17%, p = 0.0001), 
+   * constipation (44.9% vs. 9.17%, p = 0.0001), 
 
-  * irritable bowel syndrome (20.91% vs. 3.72%, p = 0.0001), and 
+   * irritable bowel syndrome (20.91% vs. 3.72%, p = 0.0001), and 
 
-  * diarrhea (28.55% vs. 5.2%, p = 0.0001) 
+   * diarrhea (28.55% vs. 5.2%, p = 0.0001) 
 
 were more common among FI patients. 
 
@@ -143,11 +143,11 @@ Key results: Of 100,111 unique individuals tested for serum 25-hydroxy vitamin-D
 
 * GI comorbidities, including 
 
-  * constipation (44.9% vs. 9.17%, p = 0.0001), 
+   * constipation (44.9% vs. 9.17%, p = 0.0001), 
 
-  * irritable bowel syndrome (20.91% vs. 3.72%, p = 0.0001), and 
+   * irritable bowel syndrome (20.91% vs. 3.72%, p = 0.0001), and 
 
-  * diarrhea (28.55% vs. 5.2%, p = 0.0001) 
+   * diarrhea (28.55% vs. 5.2%, p = 0.0001) 
 
 were more common among FI patients. 
 

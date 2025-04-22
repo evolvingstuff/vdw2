@@ -51,7 +51,7 @@ Conclusion:  **The efficacy of intermittent vitamin D supplementation was simila
 
 1. Lips P. Worldwide status of vitamin D nutrition. J Steroid Biochem Mol Biol. (2010) 121:297-300. [doi: 10.1016/j.jsbmb.2010.02.021](https://doi.org/10.1016/j.jsbmb.2010.02.021)
 
-1. Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. [doi: 10.1016/S2213-8587](https://doi.org/10.1016/S2213-8587)(13)70165-7
+1. Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. [doi: 10.1016/S2213-8587(13)70165-7](https://doi.org/10.1016/S2213-8587(13)70165-7)
 
 1. Kahwati LC, LeBlanc E, Weber RP, Giger K, Clark R, Suvada K, et al. Screening for vitamin D deficiency in adults: updated evidence report and systematic review for the US preventive services task force. JAMA. (2021) 325:1443-63. [doi: 10.1001/](https://doi.org/10.1001/) jama.2020.26498
 
@@ -192,7 +192,7 @@ Conclusion:  **The efficacy of intermittent vitamin D supplementation was simila
 
 1. Lips P. Worldwide status of vitamin D nutrition. J Steroid Biochem Mol Biol. (2010) 121:297-300. [doi: 10.1016/j.jsbmb.2010.02.021](https://doi.org/10.1016/j.jsbmb.2010.02.021)
 
-1. Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. [doi: 10.1016/S2213-8587](https://doi.org/10.1016/S2213-8587)(13)70165-7
+1. Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. [doi: 10.1016/S2213-8587(13)70165-7](https://doi.org/10.1016/S2213-8587(13)70165-7)
 
 1. Kahwati LC, LeBlanc E, Weber RP, Giger K, Clark R, Suvada K, et al. Screening for vitamin D deficiency in adults: updated evidence report and systematic review for the US preventive services task force. JAMA. (2021) 325:1443-63. [doi: 10.1001/](https://doi.org/10.1001/) jama.2020.26498
 
@@ -448,11 +448,8 @@ AST Structure:
 │   │   full_match: `Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. `
 │   │   inner_content: `Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. Lancet Diabetes Endocrinol. (2014) 2:76-89. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S2213-8587`
-│   │   inner_content: `10.1016/S2213-8587`
-│   ├── TextNode
-│   │   full_match: `(13)70165-7`
-│   │   inner_content: `(13)70165-7`├── TextNode
+│   │   full_match: `doi: 10.1016/S2213-8587(13)70165-7`
+│   │   inner_content: `10.1016/S2213-8587(13)70165-7`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Kahwati LC, LeBlanc E, Weber RP, Giger K, Clark R, Suvada K, et al. Screening for vitamin D deficiency in adults: updated evidence report and systematic review for the US preventive services task force. JAMA. (2021) 325:1443-63. doi: 10.1001/ jama.2020.26498`

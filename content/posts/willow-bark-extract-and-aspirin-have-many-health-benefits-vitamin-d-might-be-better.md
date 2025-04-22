@@ -30,7 +30,7 @@ categories:
 
 * Willow bark extract is often used as a remedy for pain and inflammation, including that related to
 
-  * low back pain, osteoarthritis, tendinitis, bursitis and headaches
+   * low back pain, osteoarthritis, tendinitis, bursitis and headaches
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -56,7 +56,7 @@ categories:
 
 * <sup>10,</sup> <sup>11</sup> [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
 
-* <sup>13</sup> [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
+* <sup>13</sup> [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848(03)00379-7](https://doi.org/10.1016/s0049-3848(03)00379-7)](https://pubmed.ncbi.nlm.nih.gov/14592543/)
 
 * <sup>14</sup> [Anesthesia & Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
 
@@ -128,7 +128,7 @@ Markdown:
 
 * Willow bark extract is often used as a remedy for pain and inflammation, including that related to
 
-  * low back pain, osteoarthritis, tendinitis, bursitis and headaches
+   * low back pain, osteoarthritis, tendinitis, bursitis and headaches
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -154,7 +154,7 @@ Markdown:
 
 * &lt;sup&gt;10,&lt;/sup&gt; &lt;sup&gt;11&lt;/sup&gt; [J. Agric. Food Chem. 2023, 71, 44, 16554–16567](https://pubs.acs.org/doi/10.1021/acs.jafc.3c00849)
 
-* &lt;sup&gt;13&lt;/sup&gt; [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848](https://doi.org/10.1016/s0049-3848)(03)00379-7](https://pubmed.ncbi.nlm.nih.gov/14592543/)
+* &lt;sup&gt;13&lt;/sup&gt; [Thromb Res. 2003 Jun 15;110(5-6):255-8. [doi: 10.1016/s0049-3848(03)00379-7](https://doi.org/10.1016/s0049-3848(03)00379-7)](https://pubmed.ncbi.nlm.nih.gov/14592543/)
 
 * &lt;sup&gt;14&lt;/sup&gt; [Anesthesia &amp; Analgesia April 2021; 132(4): 930-941](https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx)
 
@@ -642,11 +642,8 @@ AST Structure:
 │   │   │   full_match: `Thromb Res. 2003 Jun 15;110(5-6):255-8. `
 │   │   │   inner_content: `Thromb Res. 2003 Jun 15;110(5-6):255-8. `
 │   │   ├── DoiLinkNode
-│   │   │   full_match: `doi: 10.1016/s0049-3848`
-│   │   │   inner_content: `10.1016/s0049-3848`
-│   │   ├── TextNode
-│   │   │   full_match: `(03)00379-7`
-│   │   │   inner_content: `(03)00379-7`├── TextNode
+│   │   │   full_match: `doi: 10.1016/s0049-3848(03)00379-7`
+│   │   │   inner_content: `10.1016/s0049-3848(03)00379-7`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── ListItemNode
 │   full_match: `*{SUP()}14{SUP} [https://journals.lww.com/anesthesia-analgesia/fulltext/2021/04000/aspirin_use_is_associated_with_decreased.2.aspx|Anesthesia &amp; Analgesia April 2021; 132(4): 930-941]`

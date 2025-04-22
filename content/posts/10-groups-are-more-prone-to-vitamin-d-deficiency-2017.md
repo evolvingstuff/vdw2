@@ -35,7 +35,7 @@ Lots of details in the article
 
 1. People taking certain medications
 
-  * " Corticosteroid medications such as prednisone.... weight-loss drugs like orlistat ..., and the cholesterol-lowering drug cholestyramine ..."
+   * " Corticosteroid medications such as prednisone.... weight-loss drugs like orlistat ..., and the cholesterol-lowering drug cholestyramine ..."
 
 1. People who have constant joint and muscles aches
 
@@ -43,7 +43,7 @@ Lots of details in the article
 
 1. People who suffer from chronic [Headache](/categories/headache)
 
-  * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
+   * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
 
 ---
 
@@ -86,7 +86,7 @@ Lots of details in the article
 
 1. People taking certain medications
 
-  * &quot; Corticosteroid medications such as prednisone.... weight-loss drugs like orlistat ..., and the cholesterol-lowering drug cholestyramine ...&quot;
+   * &quot; Corticosteroid medications such as prednisone.... weight-loss drugs like orlistat ..., and the cholesterol-lowering drug cholestyramine ...&quot;
 
 1. People who have constant joint and muscles aches
 
@@ -94,7 +94,7 @@ Lots of details in the article
 
 1. People who suffer from chronic [Headache](/categories/headache)
 
-  * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
+   * Headache 2X more likely if low vitamin D https://doi.org/10.1038/srep39697
 
 ---
 

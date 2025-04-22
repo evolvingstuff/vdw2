@@ -25,15 +25,15 @@ categories:
 
 * Note: P-53 is present in about 50% of those with digestive tract cancers
 
-  * Thus about 50% fewer digestive tract cancer with 2,000 IU of vitamin D if ignore P-53
+   * Thus about 50% fewer digestive tract cancer with 2,000 IU of vitamin D if ignore P-53
 
 * While over a million people have successfully used loading doses, 
 
-  * Many trials, such as these, choose to not use loading doses
+   * Many trials, such as these, choose to not use loading doses
 
 * <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
 
-  * Response to 400,000 IU then 3,333 IU daily
+   * Response to 400,000 IU then 3,333 IU daily
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -41,7 +41,7 @@ categories:
 
 1. Started with a Loading dose of Vitamin D
 
-&nbsp;&nbsp;&nbsp;&nbsp;Which would greatly improve post-surgical healing and provide benefits about a year sooner
+> Which would greatly improve post-surgical healing and provide benefits about a year sooner
 
 1. Had used larger doses for everyone ( 5,000 IU?)
 
@@ -167,15 +167,15 @@ Markdown:
 
 * Note: P-53 is present in about 50% of those with digestive tract cancers
 
-  * Thus about 50% fewer digestive tract cancer with 2,000 IU of vitamin D if ignore P-53
+   * Thus about 50% fewer digestive tract cancer with 2,000 IU of vitamin D if ignore P-53
 
 * While over a million people have successfully used loading doses, 
 
-  * Many trials, such as these, choose to not use loading doses
+   * Many trials, such as these, choose to not use loading doses
 
 * &lt;a href=&quot;/posts/overview-loading-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Loading of vitamin D&quot;&gt;Overview Loading of vitamin D&lt;/a&gt;
 
-  * Response to 400,000 IU then 3,333 IU daily
+   * Response to 400,000 IU then 3,333 IU daily
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
@@ -183,7 +183,7 @@ Markdown:
 
 1. Started with a Loading dose of Vitamin D
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Which would greatly improve post-surgical healing and provide benefits about a year sooner
+&gt; Which would greatly improve post-surgical healing and provide benefits about a year sooner
 
 1. Had used larger doses for everyone ( 5,000 IU?)
 

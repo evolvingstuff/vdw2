@@ -30,7 +30,7 @@ categories:
 
 * The Effect of Vitamin D on Coronary Atherosclerosis: A Propensity Score Matched Case–Control Coronary CTA Study - July 2021  https://doi.org/10.3390/jcdd8080085 &nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF ](/attachments/d3.mock.pdf)
 
-  * "Patients with serum vitamin D (OH) levels >60 ng/mL had higher plaque density (p = 0.04), indicating more calc ified and less vulnerable plaque. Conclusions: In this retrospective case–control cohort study, vitamin D supplementation was associated with less high-risk plaque, less non-calcified plaque burden, and a higher calcified plaque independent of CV risk factors."
+   * "Patients with serum vitamin D (OH) levels >60 ng/mL had higher plaque density (p = 0.04), indicating more calc ified and less vulnerable plaque. Conclusions: In this retrospective case–control cohort study, vitamin D supplementation was associated with less high-risk plaque, less non-calcified plaque burden, and a higher calcified plaque independent of CV risk factors."
 
 * Assessment of Subclinical Atherosclerosis in Vitamin D Deficiency - June 2019. | DOI: 10.1097/RUQ.0000000000000386 PDF is behind paywall
 
@@ -46,7 +46,7 @@ categories:
 
 * Vitamin K Supplementation for the Prevention of Cardiovascular Disease: Where Is the Evidence? A Systematic Review of Controlled Trials - Sept 2020 9; https://doi.org/10.3390/nu12102909 &nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF ](/attachments/d3.mock.pdf)
 
-  * "While vitamin K supplementation clearly improves the carboxylation of dephosphoylated MGP, its role in mitigating vascular calcification is uncertain, based on current evidence."
+   * "While vitamin K supplementation clearly improves the carboxylation of dephosphoylated MGP, its role in mitigating vascular calcification is uncertain, based on current evidence."
 
 * Extent of arterial calcification by conventional vitamin K antagonist treatment - Oct, 2020  &nbsp; [<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF ](/attachments/d3.mock.pdf)
 
@@ -75,7 +75,7 @@ Markdown:
 
 * The Effect of Vitamin D on Coronary Atherosclerosis: A Propensity Score Matched Case–Control Coronary CTA Study - July 2021  https://doi.org/10.3390/jcdd8080085 &amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF ](/attachments/d3.mock.pdf)
 
-  * &quot;Patients with serum vitamin D (OH) levels &gt;60 ng/mL had higher plaque density (p = 0.04), indicating more calc ified and less vulnerable plaque. Conclusions: In this retrospective case–control cohort study, vitamin D supplementation was associated with less high-risk plaque, less non-calcified plaque burden, and a higher calcified plaque independent of CV risk factors.&quot;
+   * &quot;Patients with serum vitamin D (OH) levels &gt;60 ng/mL had higher plaque density (p = 0.04), indicating more calc ified and less vulnerable plaque. Conclusions: In this retrospective case–control cohort study, vitamin D supplementation was associated with less high-risk plaque, less non-calcified plaque burden, and a higher calcified plaque independent of CV risk factors.&quot;
 
 * Assessment of Subclinical Atherosclerosis in Vitamin D Deficiency - June 2019. | DOI: 10.1097/RUQ.0000000000000386 PDF is behind paywall
 
@@ -91,7 +91,7 @@ Markdown:
 
 * Vitamin K Supplementation for the Prevention of Cardiovascular Disease: Where Is the Evidence? A Systematic Review of Controlled Trials - Sept 2020 9; https://doi.org/10.3390/nu12102909 &amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF ](/attachments/d3.mock.pdf)
 
-  * &quot;While vitamin K supplementation clearly improves the carboxylation of dephosphoylated MGP, its role in mitigating vascular calcification is uncertain, based on current evidence.&quot;
+   * &quot;While vitamin K supplementation clearly improves the carboxylation of dephosphoylated MGP, its role in mitigating vascular calcification is uncertain, based on current evidence.&quot;
 
 * Extent of arterial calcification by conventional vitamin K antagonist treatment - Oct, 2020  &amp;nbsp; [&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF ](/attachments/d3.mock.pdf)
 

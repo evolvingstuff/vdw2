@@ -60,7 +60,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015">Low Boron</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
+> 39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
 
 1. Poor gut, <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">fatty liver</a>
 
@@ -70,7 +70,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. <a href="/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020">Poor gut bacteria</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
+> <a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
 
  **See also: low response to fortification, oral, UV, etc** 
 
@@ -141,7 +141,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. &lt;a href=&quot;/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015&quot;&gt;Low Boron&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
+&gt; 39% increase in vitamin D levels: low Boron diet to Boron replete diet. 3 mg of Boron/day for 49 days
 
 1. Poor gut, &lt;a href=&quot;/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D&quot;&gt;fatty liver&lt;/a&gt;
 
@@ -151,7 +151,7 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. &lt;a href=&quot;/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020&quot;&gt;Poor gut bacteria&lt;/a&gt;
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&quot;&gt;Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&lt;/a&gt;
+&gt; &lt;a href=&quot;/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&quot;&gt;Vitamin D is aided by probiotics (review of RCTs) – Dec 2020&lt;/a&gt;
 
  **See also: low response to fortification, oral, UV, etc** 
 

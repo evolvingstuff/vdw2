@@ -82,9 +82,9 @@ In summary, the characterization of alternative signaling pathways by D3 and rel
 
 * Hewison M, Bouillon R, Giovannucci E, Goltzman D, Meyer B, Welsh J.  **Feldman and Pike's vitamin D** . Cambridge, MA: [Academic Press](https://shop.elsevier.com/books/feldman-and-pike-s-vitamin-d/hewison/978-0-323-91386-7); 2023.
 
-&nbsp;&nbsp;&nbsp;&nbsp;5th edition is in 2 volumes, each costs $187
+> 5th edition is in 2 volumes, each costs $187
 
-&nbsp;&nbsp;&nbsp;&nbsp;Volume II: Health, Disease and Therapy authoritatively covers the evidence for new roles of vitamin D, ranging from organ transplantation to cancer, diabetes, inflammatory bowel disease, multiple sclerosis, and renal disease. The coverage is appropriately broad, drawing on aspects of internal medicine, pediatrics, nutrition, orthopedics, oncology, neurology, obstetrics and gynecology, and immunology, as well as, new areas for vitamin D including liver metabolism, veterinary medicine and ICU care – including COVID-19. Clinical researchers will gain a strong understanding of the molecular basis for a particular disease and better understand future directions for research in this still-growing field.
+> Volume II: Health, Disease and Therapy authoritatively covers the evidence for new roles of vitamin D, ranging from organ transplantation to cancer, diabetes, inflammatory bowel disease, multiple sclerosis, and renal disease. The coverage is appropriately broad, drawing on aspects of internal medicine, pediatrics, nutrition, orthopedics, oncology, neurology, obstetrics and gynecology, and immunology, as well as, new areas for vitamin D including liver metabolism, veterinary medicine and ICU care – including COVID-19. Clinical researchers will gain a strong understanding of the molecular basis for a particular disease and better understand future directions for research in this still-growing field.
 
 * Jenkinson C, Desai R, Slominski AT, Tuckey RC, Hewison M, Handelsman DJ. Simultaneous measurement of 13 circulating vitamin D3 and D2 mono and dihydroxy metabolites using liquid chromatography mass spectrometry. Clin Chem Lab Med 2021;59:1642—52.
 
@@ -183,9 +183,9 @@ In summary, the characterization of alternative signaling pathways by D3 and rel
 
 * Hewison M, Bouillon R, Giovannucci E, Goltzman D, Meyer B, Welsh J.  **Feldman and Pike&#39;s vitamin D** . Cambridge, MA: [Academic Press](https://shop.elsevier.com/books/feldman-and-pike-s-vitamin-d/hewison/978-0-323-91386-7); 2023.
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;5th edition is in 2 volumes, each costs $187
+&gt; 5th edition is in 2 volumes, each costs $187
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Volume II: Health, Disease and Therapy authoritatively covers the evidence for new roles of vitamin D, ranging from organ transplantation to cancer, diabetes, inflammatory bowel disease, multiple sclerosis, and renal disease. The coverage is appropriately broad, drawing on aspects of internal medicine, pediatrics, nutrition, orthopedics, oncology, neurology, obstetrics and gynecology, and immunology, as well as, new areas for vitamin D including liver metabolism, veterinary medicine and ICU care – including COVID-19. Clinical researchers will gain a strong understanding of the molecular basis for a particular disease and better understand future directions for research in this still-growing field.
+&gt; Volume II: Health, Disease and Therapy authoritatively covers the evidence for new roles of vitamin D, ranging from organ transplantation to cancer, diabetes, inflammatory bowel disease, multiple sclerosis, and renal disease. The coverage is appropriately broad, drawing on aspects of internal medicine, pediatrics, nutrition, orthopedics, oncology, neurology, obstetrics and gynecology, and immunology, as well as, new areas for vitamin D including liver metabolism, veterinary medicine and ICU care – including COVID-19. Clinical researchers will gain a strong understanding of the molecular basis for a particular disease and better understand future directions for research in this still-growing field.
 
 * Jenkinson C, Desai R, Slominski AT, Tuckey RC, Hewison M, Handelsman DJ. Simultaneous measurement of 13 circulating vitamin D3 and D2 mono and dihydroxy metabolites using liquid chromatography mass spectrometry. Clin Chem Lab Med 2021;59:1642—52.
 

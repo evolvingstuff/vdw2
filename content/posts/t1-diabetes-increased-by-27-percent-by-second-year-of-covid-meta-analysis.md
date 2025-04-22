@@ -87,7 +87,7 @@ COVID probably fails to re-activate the VDR when it leave the body**
 
 * <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
 
-  * primary suspect: deactivation of Vitamin D Receptor
+   * primary suspect: deactivation of Vitamin D Receptor
 
 * <a href="/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017">Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017</a>
 
@@ -101,7 +101,7 @@ COVID probably fails to re-activate the VDR when it leave the body**
 
 #### See also web
 
-* Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -doi: [10.1016/j.diabet.2022.101338](10.1016/j.diabet.2022.101338) FREE PDF
+* Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -[doi: [10.1016/j.diabet.2022.101338]](https://doi.org/[10.1016/j.diabet.2022.101338]) FREE PDF
 
 * Vaccine-induced autoimmunity: the role of molecular mimicry and immune crossreaction - June 2018 https://doi.org/10.1038/cmi.2017.151 FREE PDF
 
@@ -185,7 +185,7 @@ COVID probably fails to re-activate the VDR when it leave the body**
 
 * &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
 
-  * primary suspect: deactivation of Vitamin D Receptor
+   * primary suspect: deactivation of Vitamin D Receptor
 
 * &lt;a href=&quot;/posts/type-1-diabetes-16-times-more-likely-if-a-vitamin-d-receptor-problem&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&quot;&gt;Type 1 diabetes 1.6 times more likely if a Vitamin D Receptor problem – Feb 2017&lt;/a&gt;
 
@@ -199,7 +199,7 @@ COVID probably fails to re-activate the VDR when it leave the body**
 
 #### See also web
 
-* Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -doi: [10.1016/j.diabet.2022.101338](10.1016/j.diabet.2022.101338) FREE PDF
+* Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -[doi: [10.1016/j.diabet.2022.101338]](https://doi.org/[10.1016/j.diabet.2022.101338]) FREE PDF
 
 * Vaccine-induced autoimmunity: the role of molecular mimicry and immune crossreaction - June 2018 https://doi.org/10.1038/cmi.2017.151 FREE PDF
 
@@ -601,16 +601,11 @@ AST Structure:
 │   depth: `1`
 │   children:
 │   ├── TextNode
-│   │   full_match: `Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -doi: `
-│   │   inner_content: `Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -doi: `
-│   ├── LinkNode
-│   │   full_match: `[10.1016/j.diabet.2022.101338]`
-│   │   inner_content: `10.1016/j.diabet.2022.101338`
-│   │   url: `10.1016/j.diabet.2022.101338`
-│   │   children:
-│   │   ├── TextNode
-│   │   │   full_match: `10.1016/j.diabet.2022.101338`
-│   │   │   inner_content: `10.1016/j.diabet.2022.101338`
+│   │   full_match: `Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -`
+│   │   inner_content: `Could the development of COVID-19 vaccine-induced type 1 diabetes be explained by a simple mechanism? - july 2022 -`
+│   ├── DoiLinkNode
+│   │   full_match: `doi: [10.1016/j.diabet.2022.101338]`
+│   │   inner_content: `[10.1016/j.diabet.2022.101338]`
 │   ├── TextNode
 │   │   full_match: ` FREE PDF`
 │   │   inner_content: ` FREE PDF`├── TextNode

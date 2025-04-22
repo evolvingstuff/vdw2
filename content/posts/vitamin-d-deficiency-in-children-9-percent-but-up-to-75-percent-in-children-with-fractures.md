@@ -39,7 +39,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
  **Clipped from PDF  
- "There is evidence that about <span style="color:orange;">66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
+ "There is evidence that about<span style="color:#00F;">66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -130,7 +130,7 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
  **Clipped from PDF  
- &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt;66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
+ &quot;There is evidence that about&lt;span style=&quot;color:#00F;&quot;&gt;66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

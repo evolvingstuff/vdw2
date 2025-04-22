@@ -26,7 +26,7 @@ Purpose of review: Vitamin D deficiency has been implicated as a contributing fa
 
 * pathogenesis of gynaecological disorders such as 
 
-  * uterine fibroids and endometriosis, to 
+   * uterine fibroids and endometriosis, to 
 
 * metabolic and endocrine burden of polycystic ovarian syndrome (PCOS).
 
@@ -177,7 +177,7 @@ Purpose of review: Vitamin D deficiency has been implicated as a contributing fa
 
 * pathogenesis of gynaecological disorders such as 
 
-  * uterine fibroids and endometriosis, to 
+   * uterine fibroids and endometriosis, to 
 
 * metabolic and endocrine burden of polycystic ovarian syndrome (PCOS).
 

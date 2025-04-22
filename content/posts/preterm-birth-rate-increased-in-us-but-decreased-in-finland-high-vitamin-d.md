@@ -42,7 +42,7 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 * Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi:%2010.1111/apa.16753)
 
-  * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
+   * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
 
 * Prevalence of preterm birth in Scandinavian countries: a systematic review and meta-analysis - Oct 2023  &nbsp;  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
@@ -82,7 +82,7 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 * Preterm birth in the Nordic countries-Capacity, management and outcome in neonatal care [https://[doi: 10.1111/apa.16753](https://doi.org/10.1111/apa.16753)](https://doi:%2010.1111/apa.16753)
 
-  * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
+   * 5.8% were preterm, 0.83% very preterm, 0.28% were extremely preterm
 
 * Prevalence of preterm birth in Scandinavian countries: a systematic review and meta-analysis - Oct 2023  &amp;nbsp;  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 

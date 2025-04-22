@@ -51,7 +51,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 * <a href="/posts/giving-free-vitamin-d-to-every-iranian-would-pay-for-itself-by-just-reducing-cvd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021">Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021</a>
 
  **During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough  
- &nbsp; &nbsp; Suspect that <span style="color:orange;">>50 ng</span> would be much better** 
+ &nbsp; &nbsp; Suspect that<span style="color:#F00;">>50 ng</span> would be much better** 
 
 * <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
@@ -103,7 +103,7 @@ Interpretation Stratified Mendelian randomisation analyses suggest a causal rela
 * &lt;a href=&quot;/posts/giving-free-vitamin-d-to-every-iranian-would-pay-for-itself-by-just-reducing-cvd&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021&quot;&gt;Giving free vitamin D to every Iranian would pay for itself by just reducing CVD – Oct 2021&lt;/a&gt;
 
  **During the 19 year study period it was thought that rasing vitamin D levels to 30 ng was enough  
- &amp;nbsp; &amp;nbsp; Suspect that &lt;span style=&quot;color:orange;&quot;&gt;&gt;50 ng&lt;/span&gt; would be much better** 
+ &amp;nbsp; &amp;nbsp; Suspect that&lt;span style=&quot;color:#F00;&quot;&gt;&gt;50 ng&lt;/span&gt; would be much better** 
 
 * &lt;a href=&quot;/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough&quot;&gt;Is 50 ng of vitamin D too high, just right, or not enough&lt;/a&gt;
 

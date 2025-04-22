@@ -199,9 +199,9 @@ Vitamin D deficiency is a risk factor for developing multiple sclerosis (MS). Ho
 
 * <a href="/posts/epstein-barr-virus-increases-risk-of-multiple-sclerosis-by-32x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022">Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022</a>
 
-  * Many virus have learned to protect themselves by deactivating the Vitamin D Receptor
+   * Many virus have learned to protect themselves by deactivating the Vitamin D Receptor
 
-  * Which results in less Vitamin D getting to the cells
+   * Which results in less Vitamin D getting to the cells
 
 * <a href="/posts/epigenetics-of-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epigenetics of Multiple Sclerosis – March 2014">Epigenetics of Multiple Sclerosis – March 2014</a>
 
@@ -429,9 +429,9 @@ Vitamin D deficiency is a risk factor for developing multiple sclerosis (MS). Ho
 
 * &lt;a href=&quot;/posts/epstein-barr-virus-increases-risk-of-multiple-sclerosis-by-32x&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022&quot;&gt;Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022&lt;/a&gt;
 
-  * Many virus have learned to protect themselves by deactivating the Vitamin D Receptor
+   * Many virus have learned to protect themselves by deactivating the Vitamin D Receptor
 
-  * Which results in less Vitamin D getting to the cells
+   * Which results in less Vitamin D getting to the cells
 
 * &lt;a href=&quot;/posts/epigenetics-of-multiple-sclerosis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Epigenetics of Multiple Sclerosis – March 2014&quot;&gt;Epigenetics of Multiple Sclerosis – March 2014&lt;/a&gt;
 

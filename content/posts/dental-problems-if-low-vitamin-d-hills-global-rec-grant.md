@@ -47,7 +47,7 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 |  **Plausibility**  | Mechanisms exist to explain the effect. |
 |  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
 |  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
-|  **Analogy**  <span style="color:orange;">. . . . . . . . . . . . . . . . . . . . </span> | Analogous exposures for demonstrated outcomes. |
+|  **Analogy** <span style="color:#FFF;">. . . . . . . . . . . . . . . . . . . . </span> | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 
@@ -613,7 +613,7 @@ For nearly a century, researchers have associated periodontal disease (PD) with 
 |  **Plausibility**  | Mechanisms exist to explain the effect. |
 |  **Coherence**  | The interpretation should not seriously conflict with generally known facts of the natural history and biology of the disease. |
 |  **Experiment**  | RCTs are generally the strongest type of evidence. They should be for disease outcomes, not merely biological parameters related to diseases. In the absence of RCTs, prospective studies may be used. |
-|  **Analogy**  &lt;span style=&quot;color:orange;&quot;&gt;. . . . . . . . . . . . . . . . . . . . &lt;/span&gt; | Analogous exposures for demonstrated outcomes. |
+|  **Analogy** &lt;span style=&quot;color:#FFF;&quot;&gt;. . . . . . . . . . . . . . . . . . . . &lt;/span&gt; | Analogous exposures for demonstrated outcomes. |
 
 OR—odds ratio; RCT—randomized controlled trial; RR—relative risk.
 

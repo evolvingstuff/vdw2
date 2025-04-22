@@ -35,7 +35,7 @@ It has lots of options - but I only used the defaults on level 3 intensity out o
 
 * Does TENS Reduce the Intensity of Acute and Chronic Pain? A Comprehensive Appraisal of the Characteristics and Outcomes of 169 Reviews and 49 Meta-Analyses - Oct 2021 https://doi.org/10.3390/medicina57101060
 
-  * "Therefore, we recommend that TENS should be considered as a treatment option."
+   * "Therefore, we recommend that TENS should be considered as a treatment option."
 
 ---
 
@@ -73,7 +73,7 @@ It has lots of options - but I only used the defaults on level 3 intensity out o
 
 * Does TENS Reduce the Intensity of Acute and Chronic Pain? A Comprehensive Appraisal of the Characteristics and Outcomes of 169 Reviews and 49 Meta-Analyses - Oct 2021 https://doi.org/10.3390/medicina57101060
 
-  * &quot;Therefore, we recommend that TENS should be considered as a treatment option.&quot;
+   * &quot;Therefore, we recommend that TENS should be considered as a treatment option.&quot;
 
 ---
 

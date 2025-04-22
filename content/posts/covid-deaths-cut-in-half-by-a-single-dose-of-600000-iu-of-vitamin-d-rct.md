@@ -74,7 +74,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -82,7 +82,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 <img src="https://c19early.org/mr/mr-all-delay-h.png" alt="image" width="700">
 
-  * The above image is automatically updated from https://c19early.org/mr/mr-all-delay-h.png
+   * The above image is automatically updated from https://c19early.org/mr/mr-all-delay-h.png
 
 ---
 
@@ -155,7 +155,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -163,7 +163,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 &lt;img src=&quot;https://c19early.org/mr/mr-all-delay-h.png&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
-  * The above image is automatically updated from https://c19early.org/mr/mr-all-delay-h.png
+   * The above image is automatically updated from https://c19early.org/mr/mr-all-delay-h.png
 
 ---
 

@@ -20,7 +20,7 @@ categories:
 
 * "It appeared to be a heartfelt apology….well delivered….but presented by a politician so ignorant and ill-informed that he cannot see a pharmaceutical catastrophe a  **thousand times greater**  unfolding before his very eyes right now."
 
-* "It has taken 60 years for an apology to be given to the people harmed by thalidomide.  **<span style="color:orange;">How long will it take before an apology is given to the people harmed by the COVID-19 “vaccines”?</span>** 
+* "It has taken 60 years for an apology to be given to the people harmed by thalidomide.  **<span style="color:#060;">How long will it take before an apology is given to the people harmed by the COVID-19 “vaccines”?</span>** 
 
 ---
 
@@ -60,7 +60,7 @@ Markdown:
 
 * &quot;It appeared to be a heartfelt apology….well delivered….but presented by a politician so ignorant and ill-informed that he cannot see a pharmaceutical catastrophe a  **thousand times greater**  unfolding before his very eyes right now.&quot;
 
-* &quot;It has taken 60 years for an apology to be given to the people harmed by thalidomide.  **&lt;span style=&quot;color:orange;&quot;&gt;How long will it take before an apology is given to the people harmed by the COVID-19 “vaccines”?&lt;/span&gt;** 
+* &quot;It has taken 60 years for an apology to be given to the people harmed by thalidomide.  **&lt;span style=&quot;color:#060;&quot;&gt;How long will it take before an apology is given to the people harmed by the COVID-19 “vaccines”?&lt;/span&gt;** 
 
 ---
 

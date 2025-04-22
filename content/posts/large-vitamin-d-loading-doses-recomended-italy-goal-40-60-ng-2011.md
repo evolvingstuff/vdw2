@@ -76,7 +76,7 @@ regularly (e.g. once every two years).
 
 ---
 
-####  <span style="color:orange;">4+</span>  VitaminDWiki Loading Dose pages with CANCER in title
+#### <span style="color:#F06;">4+</span>  VitaminDWiki Loading Dose pages with CANCER in title
 
 <!-- {LIST()}
 {list max="150"}
@@ -169,7 +169,7 @@ regularly (e.g. once every two years).
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;4+&lt;/span&gt;  VitaminDWiki Loading Dose pages with CANCER in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;4+&lt;/span&gt;  VitaminDWiki Loading Dose pages with CANCER in title
 
 &lt;!-- {LIST()}
 {list max=&quot;150&quot;}

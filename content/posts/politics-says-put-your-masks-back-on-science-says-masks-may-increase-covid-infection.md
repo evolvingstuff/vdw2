@@ -36,7 +36,7 @@ We examined the association between face masks and risk of infection with SARS-C
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **<span style="color:orange;">1 possible reason: Felt protected by the mask, so got into potentially more riskier situations</span>** 
+ **<span style="color:#00F;">1 possible reason: Felt protected by the mask, so got into potentially more riskier situations</span>** 
 
 ---
 
@@ -126,7 +126,7 @@ We examined the association between face masks and risk of infection with SARS-C
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;1 possible reason: Felt protected by the mask, so got into potentially more riskier situations&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;1 possible reason: Felt protected by the mask, so got into potentially more riskier situations&lt;/span&gt;** 
 
 ---
 

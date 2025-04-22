@@ -102,7 +102,7 @@ Conclusion: Cholecalciferol was shown to have beneficial effects on serum ALT le
 
 ##### This RCT used 300,000 then 800 IU daily for 3 months
 
-Actual total = 300,000 + 90 X 800 =  **<span style="color:orange;">372,000 IU</span>** 
+Actual total = 300,000 + 90 X 800 =  **<span style="color:#00F;">372,000 IU</span>** 
 
 ---
 
@@ -112,9 +112,9 @@ Actual total = 300,000 + 90 X 800 =  **<span style="color:orange;">372,000 IU</s
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
-<img src="/attachments/d3.mock.jpg" alt="image" width="200">   **Translates to Before,  <span style="color:orange;">After, Weekly</span>** 
+<img src="/attachments/d3.mock.jpg" alt="image" width="200">   **Translates to Before, <span style="color:#F00;">After, Weekly</span>** 
 
-Proposed total: 300,000 + 12 X 50,000 =  **<span style="color:orange;">900,000 IU</span>** 
+Proposed total: 300,000 + 12 X 50,000 =  **<span style="color:#00F;">900,000 IU</span>** 
 
 ---
 
@@ -223,7 +223,7 @@ Conclusion: Cholecalciferol was shown to have beneficial effects on serum ALT le
 
 ##### This RCT used 300,000 then 800 IU daily for 3 months
 
-Actual total = 300,000 + 90 X 800 =  **&lt;span style=&quot;color:orange;&quot;&gt;372,000 IU&lt;/span&gt;** 
+Actual total = 300,000 + 90 X 800 =  **&lt;span style=&quot;color:#00F;&quot;&gt;372,000 IU&lt;/span&gt;** 
 
 ---
 
@@ -233,9 +233,9 @@ Actual total = 300,000 + 90 X 800 =  **&lt;span style=&quot;color:orange;&quot;&
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
-&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;   **Translates to Before,  &lt;span style=&quot;color:orange;&quot;&gt;After, Weekly&lt;/span&gt;** 
+&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;   **Translates to Before, &lt;span style=&quot;color:#F00;&quot;&gt;After, Weekly&lt;/span&gt;** 
 
-Proposed total: 300,000 + 12 X 50,000 =  **&lt;span style=&quot;color:orange;&quot;&gt;900,000 IU&lt;/span&gt;** 
+Proposed total: 300,000 + 12 X 50,000 =  **&lt;span style=&quot;color:#00F;&quot;&gt;900,000 IU&lt;/span&gt;** 
 
 ---
 

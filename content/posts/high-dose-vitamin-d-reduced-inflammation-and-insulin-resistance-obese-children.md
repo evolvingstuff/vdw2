@@ -23,7 +23,7 @@ Eur J Nutr . 2023 Dec 30. [doi: 10.1007/s00394-023-03301-x](https://doi.org/10.1
 
 Linlian Zhu # 1, Shan Li # 2, Lijuan Zhong 3, Shiping Xu 4, Hongbin Zhu 5
 
- **<span style="color:orange;">EHDS</span> = Extremely High D Supplementation** 
+ **<span style="color:black;background-color: #FF0;">EHDS</span> = Extremely High D Supplementation** 
 
  **MHDS = Medium D Supplementation** 
 
@@ -87,7 +87,7 @@ Eur J Nutr . 2023 Dec 30. [doi: 10.1007/s00394-023-03301-x](https://doi.org/10.1
 
 Linlian Zhu # 1, Shan Li # 2, Lijuan Zhong 3, Shiping Xu 4, Hongbin Zhu 5
 
- **&lt;span style=&quot;color:orange;&quot;&gt;EHDS&lt;/span&gt; = Extremely High D Supplementation** 
+ **&lt;span style=&quot;color:black;background-color: #FF0;&quot;&gt;EHDS&lt;/span&gt; = Extremely High D Supplementation** 
 
  **MHDS = Medium D Supplementation** 
 

@@ -42,7 +42,7 @@ categories:
 
 * Also. speculated on microplastics
 
-  * See VitaminDWiki - <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
+   * See VitaminDWiki - <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
 
 * No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D Crashing</a>
 
@@ -94,7 +94,7 @@ Markdown:
 
 * Also. speculated on microplastics
 
-  * See VitaminDWiki - &lt;a href=&quot;/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies&quot;&gt;Microplastics now causing problems in most life forms - many studies&lt;/a&gt;
+   * See VitaminDWiki - &lt;a href=&quot;/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies&quot;&gt;Microplastics now causing problems in most life forms - many studies&lt;/a&gt;
 
 * No mention of &lt;a href=&quot;/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)&quot;&gt;Vitamin D Crashing&lt;/a&gt;
 

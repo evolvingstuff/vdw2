@@ -203,13 +203,13 @@ Ultra-processed foods are industrially manufactured food products made from subs
 
 * Consumption of ultra-processed foods has been associated with higher risks of 
 
-  * obesity, 
+   * obesity, 
 
-  * type 2 diabetes, 
+   * type 2 diabetes, 
 
-  * cardiovascular diseases, and 
+   * cardiovascular diseases, and 
 
-  * certain types of cancer. 
+   * certain types of cancer. 
 
 * Studies suggest that limiting the intake of ultra-processed foods may be an effective strategy for preventing and treating obesity and other health issues 1 3.
 
@@ -443,13 +443,13 @@ Ultra-processed foods are industrially manufactured food products made from subs
 
 * Consumption of ultra-processed foods has been associated with higher risks of 
 
-  * obesity, 
+   * obesity, 
 
-  * type 2 diabetes, 
+   * type 2 diabetes, 
 
-  * cardiovascular diseases, and 
+   * cardiovascular diseases, and 
 
-  * certain types of cancer. 
+   * certain types of cancer. 
 
 * Studies suggest that limiting the intake of ultra-processed foods may be an effective strategy for preventing and treating obesity and other health issues 1 3.
 

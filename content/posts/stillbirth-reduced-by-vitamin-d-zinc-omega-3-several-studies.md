@@ -34,7 +34,7 @@ categories:
 
 * <a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a> has the following
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+> <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
 BMC Pregnancy and Childbirth	(2023) 23:359 https://doi.org/10.1186/s12884-023-05673-8
 
@@ -136,7 +136,7 @@ Markdown:
 
 * &lt;a href=&quot;/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022&quot;&gt;After years of adding vitamin D, Finland now has 38 ng levels - March 2022&lt;/a&gt; has the following
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
 BMC Pregnancy and Childbirth	(2023) 23:359 https://doi.org/10.1186/s12884-023-05673-8
 

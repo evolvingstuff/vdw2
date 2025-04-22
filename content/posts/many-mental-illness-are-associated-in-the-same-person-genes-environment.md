@@ -30,7 +30,7 @@ categories:
 
 * Study of 1.5 million Danes found ”depression, anorexia, autism, bipolar disorder and schizophrenia . . .”genetic variants that were common to these conditions that had roles in fetal neurodevelopment” 
 
-  * (perhaps low vitamin D)
+   * (perhaps low vitamin D)
 
 ---
 
@@ -115,7 +115,7 @@ Markdown:
 
 * Study of 1.5 million Danes found ”depression, anorexia, autism, bipolar disorder and schizophrenia . . .”genetic variants that were common to these conditions that had roles in fetal neurodevelopment” 
 
-  * (perhaps low vitamin D)
+   * (perhaps low vitamin D)
 
 ---
 

@@ -108,11 +108,11 @@ Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://ww
 
 ##### Optimal Levels: 50-80 ng
 
- <span style="color:orange;">- 20 ng/dl	(50 nmol/l)  - 30 ng/dl	(75 nmol/l)</span>
+<span style="color:Red;">- 20 ng/dl	(50 nmol/l)  - 30 ng/dl	(75 nmol/l)</span>
 
-- <span style="color:orange;">-50 ng/dl	(125 nmol/l) - 80 ng/dl	(200 nmol/l)</span>
+-<span style="color:#F69;">-50 ng/dl	(125 nmol/l) - 80 ng/dl	(200 nmol/l)</span>
 
- <span style="color:orange;">> 100 ng/dl	(250 nmol/l) > 150 ng/dl	(375 nmol/l)</span>
+<span style="color:#090;">> 100 ng/dl	(250 nmol/l) > 150 ng/dl	(375 nmol/l)</span>
 
 0:23:00.1  And the upper end of optimal is probably around 80 nanograms or 200 nanomoles. So that's the range that you're looking for. Optimal is between 50 and 80. And the reason that we wanna be in this range, and for a lot of people you probably wanna be toward the higher end of that, is that while some people can probably get by with 30, like we just talked about, there's so much individual variability in terms of absorption, in terms of binding protein transport and vitamin D receptor and your availability of cofactors that if you have one or more limitations along the way, then you have to compensate by having some more. So if you are hovering around the upper end, you're probably doing well. But we also get people in on the blood work and now they're over 100 and this is where we wanna back off because there is such a thing as vitamin D toxicity, it can put your blood calciums too high, it can cause all sorts of problems in your body, so you really don't wanna go too high either. And that's why it's so important to measure this stuff.
 
@@ -250,11 +250,11 @@ Vitamin D Deficiency Signs [https://www.youtube.com/watch?v=WRXVU...](https://ww
 
 ##### Optimal Levels: 50-80 ng
 
- &lt;span style=&quot;color:orange;&quot;&gt;- 20 ng/dl	(50 nmol/l)  - 30 ng/dl	(75 nmol/l)&lt;/span&gt;
+&lt;span style=&quot;color:Red;&quot;&gt;- 20 ng/dl	(50 nmol/l)  - 30 ng/dl	(75 nmol/l)&lt;/span&gt;
 
-- &lt;span style=&quot;color:orange;&quot;&gt;-50 ng/dl	(125 nmol/l) - 80 ng/dl	(200 nmol/l)&lt;/span&gt;
+-&lt;span style=&quot;color:#F69;&quot;&gt;-50 ng/dl	(125 nmol/l) - 80 ng/dl	(200 nmol/l)&lt;/span&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt;&gt; 100 ng/dl	(250 nmol/l) &gt; 150 ng/dl	(375 nmol/l)&lt;/span&gt;
+&lt;span style=&quot;color:#090;&quot;&gt;&gt; 100 ng/dl	(250 nmol/l) &gt; 150 ng/dl	(375 nmol/l)&lt;/span&gt;
 
 0:23:00.1  And the upper end of optimal is probably around 80 nanograms or 200 nanomoles. So that&#39;s the range that you&#39;re looking for. Optimal is between 50 and 80. And the reason that we wanna be in this range, and for a lot of people you probably wanna be toward the higher end of that, is that while some people can probably get by with 30, like we just talked about, there&#39;s so much individual variability in terms of absorption, in terms of binding protein transport and vitamin D receptor and your availability of cofactors that if you have one or more limitations along the way, then you have to compensate by having some more. So if you are hovering around the upper end, you&#39;re probably doing well. But we also get people in on the blood work and now they&#39;re over 100 and this is where we wanna back off because there is such a thing as vitamin D toxicity, it can put your blood calciums too high, it can cause all sorts of problems in your body, so you really don&#39;t wanna go too high either. And that&#39;s why it&#39;s so important to measure this stuff.
 

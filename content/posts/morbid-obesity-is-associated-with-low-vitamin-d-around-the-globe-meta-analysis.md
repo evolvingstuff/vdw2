@@ -30,7 +30,7 @@ Results: We identified 109 eligible observational studies.
 
 * whereas 26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/mL](25(OH)D%2020-30%20ng/mL). 
 
-#####  <span style="color:orange;">(thus 86% of mobidly obese had < 30 ng/mL of vitamin D)</span>
+##### <span style="color:#00F;">(thus 86% of mobidly obese had < 30 ng/mL of vitamin D)</span>
 
 * Moreover, the mean 25(OH)D level was 18.65 ng/mL in 96 studies. 
 
@@ -420,7 +420,7 @@ Results: We identified 109 eligible observational studies.
 
 * whereas 26.95% had vitamin D insufficiency [25(OH)D 20-30 ng/mL](25(OH)D%2020-30%20ng/mL). 
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;(thus 86% of mobidly obese had &lt; 30 ng/mL of vitamin D)&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;(thus 86% of mobidly obese had &lt; 30 ng/mL of vitamin D)&lt;/span&gt;
 
 * Moreover, the mean 25(OH)D level was 18.65 ng/mL in 96 studies. 
 

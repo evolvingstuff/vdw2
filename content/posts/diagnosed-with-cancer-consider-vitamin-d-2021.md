@@ -62,7 +62,7 @@ Sleep
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **<span style="color:orange;">click on chart for details</span>** 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **<span style="color:#00F;">click on chart for details</span>** 
 
 <!-- ~tc~ (alias(Diagnoses with Cancer - consider vitamin D - 2021)) ~/tc~ -->
 
@@ -122,7 +122,7 @@ Sleep
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:orange;&quot;&gt;click on chart for details&lt;/span&gt;** 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:#00F;&quot;&gt;click on chart for details&lt;/span&gt;** 
 
 &lt;!-- ~tc~ (alias(Diagnoses with Cancer - consider vitamin D - 2021)) ~/tc~ --&gt;
 

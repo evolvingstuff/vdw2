@@ -38,9 +38,9 @@ Does not mention the >700 successful Vitamin D Randomized Controled Trials (see 
 
 * Mistake #1: % of cadavers with poor bones with 20-30 ng of vitamin D
 
-  * 8%, not 1% of the people having >20 ng/ml had bone loss, so the 20 ng/ml voted level was incorrect
+   * 8%, not 1% of the people having >20 ng/ml had bone loss, so the 20 ng/ml voted level was incorrect
 
-  * should have concluded 30 ng, not 20 ng
+   * should have concluded 30 ng, not 20 ng
 
 * Mistake #2: Not having enough data to conclude that >4,000 IU is too much (i.e. harm)
 
@@ -62,7 +62,7 @@ Does not mention the >700 successful Vitamin D Randomized Controled Trials (see 
 
 ---
 
-#### Fewer Health Problems if more vitamin D  <span style="color:orange;">Pregnancy</span>
+#### Fewer Health Problems if more vitamin D <span style="color:#F06;">Pregnancy</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -126,9 +126,9 @@ Does not mention the &gt;700 successful Vitamin D Randomized Controled Trials (s
 
 * Mistake #1: % of cadavers with poor bones with 20-30 ng of vitamin D
 
-  * 8%, not 1% of the people having &gt;20 ng/ml had bone loss, so the 20 ng/ml voted level was incorrect
+   * 8%, not 1% of the people having &gt;20 ng/ml had bone loss, so the 20 ng/ml voted level was incorrect
 
-  * should have concluded 30 ng, not 20 ng
+   * should have concluded 30 ng, not 20 ng
 
 * Mistake #2: Not having enough data to conclude that &gt;4,000 IU is too much (i.e. harm)
 
@@ -150,7 +150,7 @@ Does not mention the &gt;700 successful Vitamin D Randomized Controled Trials (s
 
 ---
 
-#### Fewer Health Problems if more vitamin D  &lt;span style=&quot;color:orange;&quot;&gt;Pregnancy&lt;/span&gt;
+#### Fewer Health Problems if more vitamin D &lt;span style=&quot;color:#F06;&quot;&gt;Pregnancy&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 

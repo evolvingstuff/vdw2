@@ -36,7 +36,7 @@ by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernar
 
 This study aimed to evaluate the association between maternal gestational Vitamin D3 supplementation and early respiratory health in offspring. This was a population-based record-linkage study which used data from the French National Health Database System. 
 
-Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national <span style="color:orange;">(French)</span> guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
+Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national<span style="color:#00F;">(French)</span> guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
 
 Infants prenatally exposed to maternal Vitamin D3 supplementation (n = 54,596) were more likely to have a longer gestational age (GA) at birth (GA 36–38 weeks, 22% vs. 20%, p < 0.001 in exposed vs. non-exposed infants, respectively). 
 
@@ -79,7 +79,7 @@ by Fanny Loddo 1,Steve Nauleau 2,David Lapalus 2,Sophie Tardieu 3,Olivier Bernar
 
 This study aimed to evaluate the association between maternal gestational Vitamin D3 supplementation and early respiratory health in offspring. This was a population-based record-linkage study which used data from the French National Health Database System. 
 
-Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national &lt;span style=&quot;color:orange;&quot;&gt;(French)&lt;/span&gt; guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
+Maternal Vitamin D3 supplementation consisted of a single high oral dose of cholecalciferol,  **(100,000 IU) from the seventh month of pregnancy, according to national&lt;span style=&quot;color:#00F;&quot;&gt;(French)&lt;/span&gt; guidelines** . In total, 125,756 term-born singleton children were included, of which 37% had respiratory illness defined as hospital admission due to respiratory causes or inhalation treatment up to 24 months of age. 
 
 Infants prenatally exposed to maternal Vitamin D3 supplementation (n = 54,596) were more likely to have a longer gestational age (GA) at birth (GA 36–38 weeks, 22% vs. 20%, p &lt; 0.001 in exposed vs. non-exposed infants, respectively). 
 

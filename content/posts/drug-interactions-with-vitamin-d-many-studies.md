@@ -10,7 +10,7 @@ date: 2024-02-18
 
  **Sometimes a drug reduces Vitamin D levels in the blood  
 Scores of times Vitamin D will improve the a drug efficacy  
- <span style="color:orange;">Warning:</span> <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be amplified by vitamin D">Chemotherapy might be amplified by vitamin D</a> and become deadly  
+<span style="color:#F06;">Warning:</span> <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be amplified by vitamin D">Chemotherapy might be amplified by vitamin D</a> and become deadly  
 In rare cases Vitamin D reduces the benefit of a drug** 
 
 {{< toc >}}
@@ -672,7 +672,7 @@ Markdown:
 --------
  **Sometimes a drug reduces Vitamin D levels in the blood  
 Scores of times Vitamin D will improve the a drug efficacy  
- &lt;span style=&quot;color:orange;&quot;&gt;Warning:&lt;/span&gt; &lt;a href=&quot;/posts/chemotherapy-might-be-amplified-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chemotherapy might be amplified by vitamin D&quot;&gt;Chemotherapy might be amplified by vitamin D&lt;/a&gt; and become deadly  
+&lt;span style=&quot;color:#F06;&quot;&gt;Warning:&lt;/span&gt; &lt;a href=&quot;/posts/chemotherapy-might-be-amplified-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chemotherapy might be amplified by vitamin D&quot;&gt;Chemotherapy might be amplified by vitamin D&lt;/a&gt; and become deadly  
 In rare cases Vitamin D reduces the benefit of a drug** 
 
 {{&lt; toc &gt;}}

@@ -27,7 +27,7 @@ Right clicking on an item (not the ToC list) will copy the item URL to the clipb
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="800">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -66,7 +66,7 @@ Right clicking on an item (not the ToC list) will copy the item URL to the clipb
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

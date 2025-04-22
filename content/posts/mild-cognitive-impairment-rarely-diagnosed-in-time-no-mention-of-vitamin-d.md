@@ -19,7 +19,7 @@ But only a fraction of them are diagnosed early enough for new treatments to sta
 
 * "Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis" July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
-  * "7.4 of 8 million (92%) expected MCI cases remained undiagnosed. "
+   * "7.4 of 8 million (92%) expected MCI cases remained undiagnosed. "
 
 * "Detection Rates of Mild Cognitive Impairment in Primary Care for the United States Medicare Population"  Oct 2023 https://doi.org/10.14283/jpad.2023.131FREE PDF
 
@@ -43,13 +43,13 @@ But only a fraction of them are diagnosed early enough for new treatments to sta
 
 * [Alzheimer’s Is Now Optional - Dr. Bredesen video and transcript Sept 2023](/posts/alzheimers-is-now-optional-dr-bredesen-video-and-transcript)
 
-  * Average cost of Alzheimer’s $350,000 per patient
+   * Average cost of Alzheimer’s $350,000 per patient
 
-  * Before no Alz in 50’s, now Alz in 40’s
+   * Before no Alz in 50’s, now Alz in 40’s
 
-  * Roof with 36 holes – patching just 1 does not help
+   * Roof with 36 holes – patching just 1 does not help
 
-  * APOE – 4 – 75% have 0 copies, single copy 30% higher risk of Alz. 2 copies = 70% higher risk
+   * APOE – 4 – 75% have 0 copies, single copy 30% higher risk of Alz. 2 copies = 70% higher risk
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -66,7 +66,7 @@ But only a fraction of them are diagnosed early enough for new treatments to sta
 
 * &quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
-  * &quot;7.4 of 8 million (92%) expected MCI cases remained undiagnosed. &quot;
+   * &quot;7.4 of 8 million (92%) expected MCI cases remained undiagnosed. &quot;
 
 * &quot;Detection Rates of Mild Cognitive Impairment in Primary Care for the United States Medicare Population&quot;  Oct 2023 https://doi.org/10.14283/jpad.2023.131FREE PDF
 
@@ -90,13 +90,13 @@ But only a fraction of them are diagnosed early enough for new treatments to sta
 
 * [Alzheimer’s Is Now Optional - Dr. Bredesen video and transcript Sept 2023](/posts/alzheimers-is-now-optional-dr-bredesen-video-and-transcript)
 
-  * Average cost of Alzheimer’s $350,000 per patient
+   * Average cost of Alzheimer’s $350,000 per patient
 
-  * Before no Alz in 50’s, now Alz in 40’s
+   * Before no Alz in 50’s, now Alz in 40’s
 
-  * Roof with 36 holes – patching just 1 does not help
+   * Roof with 36 holes – patching just 1 does not help
 
-  * APOE – 4 – 75% have 0 copies, single copy 30% higher risk of Alz. 2 copies = 70% higher risk
+   * APOE – 4 – 75% have 0 copies, single copy 30% higher risk of Alz. 2 copies = 70% higher risk
 
 AST Structure:
 -------------

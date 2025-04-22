@@ -45,7 +45,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * Anesthesia (medical, dental, veterinary),    Surgical disinfectant,    Treatment (migraines, trigeminal neuralgia),    Pharmaceutical   manufacturing,  
 
-  *  *** Common current uses.** 
+   *  *** Common current uses.** 
 
  **Workplace exposure** 
 
@@ -59,7 +59,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * "He noted that the rapid increase in PD incidence cannot be explained by genetic factors alone, which affect only about 15% of patients with PD, nor can it be explained by aging alone. “Certain pesticides ... are likely causes but would not explain the high prevalence of PD in urban areas, as is the case in the U.S.” Rather, “other factors” are involved, and “TCE is likely one such factor.”"
 
-  * "In addition, it’s been used in dry cleaning, although a similar chemical (perchloroethylene <span>[PCE]</span>) is currently more widely used for that purpose. Nevertheless, the authors noted, in anaerobic conditions, perchloroethylene often transforms into TCE “and their toxicity may be similar.”
+   * "In addition, it’s been used in dry cleaning, although a similar chemical (perchloroethylene <span>[PCE]</span>) is currently more widely used for that purpose. Nevertheless, the authors noted, in anaerobic conditions, perchloroethylene often transforms into TCE “and their toxicity may be similar.”
 
 * To fill this knowledge gap,  **Dr. Dorsey**  and his coauthors of the book, “Ending Parkinson’s Disease: A Prescription for Action,” took a deep dive into studies focusing on the potential association of TCE and PD and presented seven cases to illustrate the association.
 
@@ -117,7 +117,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * Anesthesia (medical, dental, veterinary),    Surgical disinfectant,    Treatment (migraines, trigeminal neuralgia),    Pharmaceutical   manufacturing,  
 
-  *  *** Common current uses.** 
+   *  *** Common current uses.** 
 
  **Workplace exposure** 
 
@@ -131,7 +131,7 @@ Exposure is not confined to those who work with the chemical. TCE pollutes outdo
 
 * &quot;He noted that the rapid increase in PD incidence cannot be explained by genetic factors alone, which affect only about 15% of patients with PD, nor can it be explained by aging alone. “Certain pesticides ... are likely causes but would not explain the high prevalence of PD in urban areas, as is the case in the U.S.” Rather, “other factors” are involved, and “TCE is likely one such factor.”&quot;
 
-  * &quot;In addition, it’s been used in dry cleaning, although a similar chemical (perchloroethylene &lt;span&gt;[PCE]&lt;/span&gt;) is currently more widely used for that purpose. Nevertheless, the authors noted, in anaerobic conditions, perchloroethylene often transforms into TCE “and their toxicity may be similar.”
+   * &quot;In addition, it’s been used in dry cleaning, although a similar chemical (perchloroethylene &lt;span&gt;[PCE]&lt;/span&gt;) is currently more widely used for that purpose. Nevertheless, the authors noted, in anaerobic conditions, perchloroethylene often transforms into TCE “and their toxicity may be similar.”
 
 * To fill this knowledge gap,  **Dr. Dorsey**  and his coauthors of the book, “Ending Parkinson’s Disease: A Prescription for Action,” took a deep dive into studies focusing on the potential association of TCE and PD and presented seven cases to illustrate the association.
 

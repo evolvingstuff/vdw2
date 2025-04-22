@@ -38,7 +38,7 @@ Results:
 
 Three thousand four hundred and seventy-five patients were included in the present study, most of whom (58.5%) had received specific osteoporosis treatment after index fracture. Among treated patients, the vast majority (83.6%) received supplementation with calcium/vitamin D. Mean annual healthcare cost per patient was €9,289.85 in the untreated group and €4,428.26 for treated subjects (p < 0.001); mean annual healthcare cost for the osteoporosis drug-only group was higher compared to the osteoporosis drug plus calcium/vitamin D group (€5,976.88 vs €4,124.74, respectively, p < 0.001). Hospitalization costs accounted for the majority of total costs in all groups of patients.
 
- **(€5,976.88  - €4,124.74) *1.09 =  <span style="color:orange;">$2,000</span>** 
+ **(€5,976.88  - €4,124.74) *1.09 = <span style="color:#00F;">$2,000</span>** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -92,7 +92,7 @@ Results:
 
 Three thousand four hundred and seventy-five patients were included in the present study, most of whom (58.5%) had received specific osteoporosis treatment after index fracture. Among treated patients, the vast majority (83.6%) received supplementation with calcium/vitamin D. Mean annual healthcare cost per patient was €9,289.85 in the untreated group and €4,428.26 for treated subjects (p &lt; 0.001); mean annual healthcare cost for the osteoporosis drug-only group was higher compared to the osteoporosis drug plus calcium/vitamin D group (€5,976.88 vs €4,124.74, respectively, p &lt; 0.001). Hospitalization costs accounted for the majority of total costs in all groups of patients.
 
- **(€5,976.88  - €4,124.74) *1.09 =  &lt;span style=&quot;color:orange;&quot;&gt;$2,000&lt;/span&gt;** 
+ **(€5,976.88  - €4,124.74) *1.09 = &lt;span style=&quot;color:#00F;&quot;&gt;$2,000&lt;/span&gt;** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

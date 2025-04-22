@@ -19,9 +19,9 @@ categories:
 
  **[Substack - Feb 23](https://maryannedemasi.substack.com/p/exclusive-whatever-happened-to-pfizers)** 
 
-Trial with **<span style="color:orange;">pregnant rats</span>:** 
+Trial with **<span style="color:#F00;">pregnant rats</span>:** 
 
-""The study found the vaccine led to a  **statistically significant  <span style="color:orange;">doubling</span> in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
+""The study found the vaccine led to a  **statistically significant <span style="color:#F00;">doubling</span> in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
 
 * "Unlike Pfizer, Moderna kept its pregnant rodents alive to test the embryos. Documents accessed by Judicial Watch, showed a “statistically significant” number of rats were born with skeletal variations after being injected with Moderna’s mRNA vaccine."
 
@@ -50,9 +50,9 @@ Markdown:
 
  **[Substack - Feb 23](https://maryannedemasi.substack.com/p/exclusive-whatever-happened-to-pfizers)** 
 
-Trial with **&lt;span style=&quot;color:orange;&quot;&gt;pregnant rats&lt;/span&gt;:** 
+Trial with **&lt;span style=&quot;color:#F00;&quot;&gt;pregnant rats&lt;/span&gt;:** 
 
-&quot;&quot;The study found the vaccine led to a  **statistically significant  &lt;span style=&quot;color:orange;&quot;&gt;doubling&lt;/span&gt; in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
+&quot;&quot;The study found the vaccine led to a  **statistically significant &lt;span style=&quot;color:#F00;&quot;&gt;doubling&lt;/span&gt; in fetal loss** (9.77% mRNA vs 4.09% saline), but Pfizer concluded that the difference between the two groups was “not biologically meaningful.”
 
 * &quot;Unlike Pfizer, Moderna kept its pregnant rodents alive to test the embryos. Documents accessed by Judicial Watch, showed a “statistically significant” number of rats were born with skeletal variations after being injected with Moderna’s mRNA vaccine.&quot;
 

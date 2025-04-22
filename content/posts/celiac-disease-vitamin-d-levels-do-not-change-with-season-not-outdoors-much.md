@@ -71,7 +71,7 @@ This list is automatcially updated
 
 * <a href="/posts/vitamin-d-deficiency-varies-widely-with-season-in-young-women-but-not-in-old" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018">Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018</a>
 
-  * older women not outdoors as much?
+   * older women not outdoors as much?
 
 * <a href="/posts/vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010">Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010</a>
 
@@ -146,7 +146,7 @@ This list is automatcially updated
 
 * &lt;a href=&quot;/posts/vitamin-d-deficiency-varies-widely-with-season-in-young-women-but-not-in-old&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018&quot;&gt;Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018&lt;/a&gt;
 
-  * older women not outdoors as much?
+   * older women not outdoors as much?
 
 * &lt;a href=&quot;/posts/vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010&quot;&gt;Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010&lt;/a&gt;
 

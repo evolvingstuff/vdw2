@@ -113,7 +113,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Abdelmohsen AM. Comparison of central and peripheral bone mineral density measurements in postmenopausal women. J Chiropr Med 2017;16:199–203. [doi: 10.1016/j.jcm.2017.08.001.](https://doi.org/10.1016/j.jcm.2017.08.001.) PMID: 29097949; PMCID: PMC5659807 - DOI
 
-1. Nelson HD. Menopause. Lancet 2008;371:760–770. [doi: 10.1016/s0140-6736](https://doi.org/10.1016/s0140-6736)(08)60346-3 - DOI
+1. Nelson HD. Menopause. Lancet 2008;371:760–770. [doi: 10.1016/s0140-6736(08)60346-3](https://doi.org/10.1016/s0140-6736(08)60346-3) - DOI
 
 1. Rossouw JE, Anderson GL, Prentice RL, et al. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from The Women's Health Initiative randomized controlled trial. JAMA 2002;288:321–333. [doi: 10.1001/jama.288.3.321](https://doi.org/10.1001/jama.288.3.321) - DOI
 
@@ -121,7 +121,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Whittaker P. Laser acupuncture: past, present, and future. Las Med Scie 2004;19:69–80. [doi: 10.1007/s10103-004-0296-8](https://doi.org/10.1007/s10103-004-0296-8) - DOI
 
-1. Baxter GD, Bleakley C, McDonough S. Clinical effectiveness of  **laser acupuncture: a systematic review.**  J Acupunct Meridian Stud 2008;1:65–82. [doi: 10.1016/S2005-2901](https://doi.org/10.1016/S2005-2901)(09)60026-1 - DOI
+1. Baxter GD, Bleakley C, McDonough S. Clinical effectiveness of  **laser acupuncture: a systematic review.**  J Acupunct Meridian Stud 2008;1:65–82. [doi: 10.1016/S2005-2901(09)60026-1](https://doi.org/10.1016/S2005-2901(09)60026-1) - DOI
 
 1. Mason S, Tovey P, Long AF. Evaluating complementary medicine: methodological challenges of randomised controlled trials. BMJ 2002;325:832–834. [doi: 10.1136/bmj.325.7368.832](https://doi.org/10.1136/bmj.325.7368.832)
 
@@ -153,7 +153,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Weaver C, Alexander D, Boushey C, et al. Calcium plus vitamin D supplementation and risk of fractures: an updated meta-analysis from the National Osteoporosis Foundation. Osteoporos Int 2016;27:367–376. [doi: 10.1007/s00198-015-3386-5](https://doi.org/10.1007/s00198-015-3386-5) - DOI
 
-1. Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. [doi: 10.4103/jfmpc.jfmpc](https://doi.org/10.4103/jfmpc.jfmpc)_1699_20 - DOI
+1. Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. [doi: 10.4103/jfmpc.jfmpc_1699_20](https://doi.org/10.4103/jfmpc.jfmpc_1699_20) - DOI
 
 1. Guo X, Liu MQ, Man HC, et al.  **laser acupuncture** and prevention of bone loss in tail-suspended rats. Aviat Space Environ Med 2010;81:914–918. [doi: 10.3357/asem.2737.2010](https://doi.org/10.3357/asem.2737.2010) - DOI
 
@@ -177,11 +177,11 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. He J, Yang L, Qing Y, He C. Effects of  **electroacupuncture on bone mineral density** , oestradiol level and osteoprotegerin ligand expression in ovariectomized rabbits. Acupunct Med 2014;32:37–42. [doi: 10.1136/acupmed-2012-010271](https://doi.org/10.1136/acupmed-2012-010271) - DOI
 
-1. Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. [doi: 10.26355/eurrev](https://doi.org/10.26355/eurrev)_201711_13846 - DOI
+1. Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. [doi: 10.26355/eurrev_201711_13846](https://doi.org/10.26355/eurrev_201711_13846) - DOI
 
 1. Amid R, Kadkhodazadeh M, Ahsaie MG, Hakakzadeh A. Effect of low level laser therapy on proliferation and differentiation of the cells contributing in bone regeneration. J Lasers Med Sci 2014;5:163–170. PMID: 25653816; PMCID: PMC4281990
 
-1. Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. [doi: 10.4149/endo](https://doi.org/10.4149/endo)_2010_04_155 - DOI
+1. Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. [doi: 10.4149/endo_2010_04_155](https://doi.org/10.4149/endo_2010_04_155) - DOI
 
 1. Xu M, Deng T, Mo F, et al.  **Low-intensity pulsed laser irradiation**  affects RANKL and OPG mRNA expression in rat calvarial cells. Photomed Laser Surg 2009;27:309–315. [doi: 10.1089/pho.2008.2283](https://doi.org/10.1089/pho.2008.2283) - DOI
 
@@ -304,7 +304,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Abdelmohsen AM. Comparison of central and peripheral bone mineral density measurements in postmenopausal women. J Chiropr Med 2017;16:199–203. [doi: 10.1016/j.jcm.2017.08.001.](https://doi.org/10.1016/j.jcm.2017.08.001.) PMID: 29097949; PMCID: PMC5659807 - DOI
 
-1. Nelson HD. Menopause. Lancet 2008;371:760–770. [doi: 10.1016/s0140-6736](https://doi.org/10.1016/s0140-6736)(08)60346-3 - DOI
+1. Nelson HD. Menopause. Lancet 2008;371:760–770. [doi: 10.1016/s0140-6736(08)60346-3](https://doi.org/10.1016/s0140-6736(08)60346-3) - DOI
 
 1. Rossouw JE, Anderson GL, Prentice RL, et al. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from The Women&#39;s Health Initiative randomized controlled trial. JAMA 2002;288:321–333. [doi: 10.1001/jama.288.3.321](https://doi.org/10.1001/jama.288.3.321) - DOI
 
@@ -312,7 +312,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Whittaker P. Laser acupuncture: past, present, and future. Las Med Scie 2004;19:69–80. [doi: 10.1007/s10103-004-0296-8](https://doi.org/10.1007/s10103-004-0296-8) - DOI
 
-1. Baxter GD, Bleakley C, McDonough S. Clinical effectiveness of  **laser acupuncture: a systematic review.**  J Acupunct Meridian Stud 2008;1:65–82. [doi: 10.1016/S2005-2901](https://doi.org/10.1016/S2005-2901)(09)60026-1 - DOI
+1. Baxter GD, Bleakley C, McDonough S. Clinical effectiveness of  **laser acupuncture: a systematic review.**  J Acupunct Meridian Stud 2008;1:65–82. [doi: 10.1016/S2005-2901(09)60026-1](https://doi.org/10.1016/S2005-2901(09)60026-1) - DOI
 
 1. Mason S, Tovey P, Long AF. Evaluating complementary medicine: methodological challenges of randomised controlled trials. BMJ 2002;325:832–834. [doi: 10.1136/bmj.325.7368.832](https://doi.org/10.1136/bmj.325.7368.832)
 
@@ -344,7 +344,7 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. Weaver C, Alexander D, Boushey C, et al. Calcium plus vitamin D supplementation and risk of fractures: an updated meta-analysis from the National Osteoporosis Foundation. Osteoporos Int 2016;27:367–376. [doi: 10.1007/s00198-015-3386-5](https://doi.org/10.1007/s00198-015-3386-5) - DOI
 
-1. Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. [doi: 10.4103/jfmpc.jfmpc](https://doi.org/10.4103/jfmpc.jfmpc)_1699_20 - DOI
+1. Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. [doi: 10.4103/jfmpc.jfmpc_1699_20](https://doi.org/10.4103/jfmpc.jfmpc_1699_20) - DOI
 
 1. Guo X, Liu MQ, Man HC, et al.  **laser acupuncture** and prevention of bone loss in tail-suspended rats. Aviat Space Environ Med 2010;81:914–918. [doi: 10.3357/asem.2737.2010](https://doi.org/10.3357/asem.2737.2010) - DOI
 
@@ -368,11 +368,11 @@ Conclusions: LA in combination with calcium and vitamin D supplementation contai
 
 1. He J, Yang L, Qing Y, He C. Effects of  **electroacupuncture on bone mineral density** , oestradiol level and osteoprotegerin ligand expression in ovariectomized rabbits. Acupunct Med 2014;32:37–42. [doi: 10.1136/acupmed-2012-010271](https://doi.org/10.1136/acupmed-2012-010271) - DOI
 
-1. Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. [doi: 10.26355/eurrev](https://doi.org/10.26355/eurrev)_201711_13846 - DOI
+1. Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. [doi: 10.26355/eurrev_201711_13846](https://doi.org/10.26355/eurrev_201711_13846) - DOI
 
 1. Amid R, Kadkhodazadeh M, Ahsaie MG, Hakakzadeh A. Effect of low level laser therapy on proliferation and differentiation of the cells contributing in bone regeneration. J Lasers Med Sci 2014;5:163–170. PMID: 25653816; PMCID: PMC4281990
 
-1. Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. [doi: 10.4149/endo](https://doi.org/10.4149/endo)_2010_04_155 - DOI
+1. Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. [doi: 10.4149/endo_2010_04_155](https://doi.org/10.4149/endo_2010_04_155) - DOI
 
 1. Xu M, Deng T, Mo F, et al.  **Low-intensity pulsed laser irradiation**  affects RANKL and OPG mRNA expression in rat calvarial cells. Photomed Laser Surg 2009;27:309–315. [doi: 10.1089/pho.2008.2283](https://doi.org/10.1089/pho.2008.2283) - DOI
 
@@ -795,11 +795,11 @@ AST Structure:
 │   │   full_match: `Nelson HD. Menopause. Lancet 2008;371:760–770. `
 │   │   inner_content: `Nelson HD. Menopause. Lancet 2008;371:760–770. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/s0140-6736`
-│   │   inner_content: `10.1016/s0140-6736`
+│   │   full_match: `doi: 10.1016/s0140-6736(08)60346-3`
+│   │   inner_content: `10.1016/s0140-6736(08)60346-3`
 │   ├── TextNode
-│   │   full_match: `(08)60346-3 - DOI`
-│   │   inner_content: `(08)60346-3 - DOI`├── TextNode
+│   │   full_match: ` - DOI`
+│   │   inner_content: ` - DOI`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Rossouw JE, Anderson GL, Prentice RL, et al. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from The Women&#39;s Health Initiative randomized controlled trial. JAMA 2002;288:321–333. doi: 10.1001/jama.288.3.321 - DOI`
@@ -865,11 +865,11 @@ AST Structure:
 │   │   full_match: ` J Acupunct Meridian Stud 2008;1:65–82. `
 │   │   inner_content: ` J Acupunct Meridian Stud 2008;1:65–82. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.1016/S2005-2901`
-│   │   inner_content: `10.1016/S2005-2901`
+│   │   full_match: `doi: 10.1016/S2005-2901(09)60026-1`
+│   │   inner_content: `10.1016/S2005-2901(09)60026-1`
 │   ├── TextNode
-│   │   full_match: `(09)60026-1 - DOI`
-│   │   inner_content: `(09)60026-1 - DOI`├── TextNode
+│   │   full_match: ` - DOI`
+│   │   inner_content: ` - DOI`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Mason S, Tovey P, Long AF. Evaluating complementary medicine: methodological challenges of randomised controlled trials. BMJ 2002;325:832–834. doi: 10.1136/bmj.325.7368.832`
@@ -1104,11 +1104,11 @@ AST Structure:
 │   │   full_match: `Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. `
 │   │   inner_content: `Goyal V, Agrawal M. Effect of supplementation of vitamin D and calcium on patients suffering from chronic non-specific musculoskeletal pain: a pre-post study. J Family Med Prim Care 2021;10:1839–1844. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.4103/jfmpc.jfmpc`
-│   │   inner_content: `10.4103/jfmpc.jfmpc`
+│   │   full_match: `doi: 10.4103/jfmpc.jfmpc_1699_20`
+│   │   inner_content: `10.4103/jfmpc.jfmpc_1699_20`
 │   ├── TextNode
-│   │   full_match: `_1699_20 - DOI`
-│   │   inner_content: `_1699_20 - DOI`├── TextNode
+│   │   full_match: ` - DOI`
+│   │   inner_content: ` - DOI`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Guo X, Liu MQ, Man HC, et al. __laser acupuncture __and prevention of bone loss in tail-suspended rats. Aviat Space Environ Med 2010;81:914–918. doi: 10.3357/asem.2737.2010 - DOI`
@@ -1300,11 +1300,11 @@ AST Structure:
 │   │   full_match: `Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. `
 │   │   inner_content: `Zhu CT, Li T, Zhang P, Zou M, Guo Q, Qu XW. Beneficial effects of low-level laser irradiation on senile osteoporosis in rats. Eur Rev Med Pharmacol Sci 2017;21:5230–5238. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.26355/eurrev`
-│   │   inner_content: `10.26355/eurrev`
+│   │   full_match: `doi: 10.26355/eurrev_201711_13846`
+│   │   inner_content: `10.26355/eurrev_201711_13846`
 │   ├── TextNode
-│   │   full_match: `_201711_13846 - DOI`
-│   │   inner_content: `_201711_13846 - DOI`├── TextNode
+│   │   full_match: ` - DOI`
+│   │   inner_content: ` - DOI`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Amid R, Kadkhodazadeh M, Ahsaie MG, Hakakzadeh A. Effect of low level laser therapy on proliferation and differentiation of the cells contributing in bone regeneration. J Lasers Med Sci 2014;5:163–170. PMID: 25653816; PMCID: PMC4281990`
@@ -1324,11 +1324,11 @@ AST Structure:
 │   │   full_match: `Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. `
 │   │   inner_content: `Saad A, El Yamany M, Abbas O, Yehia M. Possible role of ++low level laser therapy on bone turnover__ in ovariectomized rats. Endocr Regul 2010;44:155–163. `
 │   ├── DoiLinkNode
-│   │   full_match: `doi: 10.4149/endo`
-│   │   inner_content: `10.4149/endo`
+│   │   full_match: `doi: 10.4149/endo_2010_04_155`
+│   │   inner_content: `10.4149/endo_2010_04_155`
 │   ├── TextNode
-│   │   full_match: `_2010_04_155 - DOI`
-│   │   inner_content: `_2010_04_155 - DOI`├── TextNode
+│   │   full_match: ` - DOI`
+│   │   inner_content: ` - DOI`├── TextNode
 │   full_match: `\n`
 │   inner_content: `\n`├── NumListItemNode
 │   full_match: `#Xu M, Deng T, Mo F, et al. __Low-intensity pulsed laser irradiation__ affects RANKL and OPG mRNA expression in rat calvarial cells. Photomed Laser Surg 2009;27:309–315. doi: 10.1089/pho.2008.2283 - DOI`

@@ -26,7 +26,7 @@ K. Faksova a, D. Walsh b c, Y. Jiang b c, J. Griffin c, A. Phillips d, A. Gentil
 
 Major color groups used for different pharmas: 
 
-&nbsp; &nbsp;  <span style="color:orange;">Red = Moderna</span>,  <span style="color:orange;">Blue = Pfizer,</span>  <span style="color:orange;">Amber = AstraZeneca</span>
+&nbsp; &nbsp; <span style="color:#F06;">Red = Moderna</span>, <span style="color:#00F;">Blue = Pfizer,</span> <span style="color:#F96;">Amber = AstraZeneca</span>
 
 Shades within the groups related to different doses of the particular pharma's "vaccine"
 
@@ -68,7 +68,7 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 
@@ -100,7 +100,7 @@ K. Faksova a, D. Walsh b c, Y. Jiang b c, J. Griffin c, A. Phillips d, A. Gentil
 
 Major color groups used for different pharmas: 
 
-&amp;nbsp; &amp;nbsp;  &lt;span style=&quot;color:orange;&quot;&gt;Red = Moderna&lt;/span&gt;,  &lt;span style=&quot;color:orange;&quot;&gt;Blue = Pfizer,&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;Amber = AstraZeneca&lt;/span&gt;
+&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color:#F06;&quot;&gt;Red = Moderna&lt;/span&gt;, &lt;span style=&quot;color:#00F;&quot;&gt;Blue = Pfizer,&lt;/span&gt; &lt;span style=&quot;color:#F96;&quot;&gt;Amber = AstraZeneca&lt;/span&gt;
 
 Shades within the groups related to different doses of the particular pharma&#39;s &quot;vaccine&quot;
 
@@ -142,7 +142,7 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 ---
 

@@ -27,7 +27,7 @@ categories:
 
 * “The study investigators observed that “the cumulative incidence of postvaccination uveitis was 8.6% at 3 months, 12.5% at 6 months, and  **16.8% at 1 year** , predominantly of the anterior type.” The incidence nearly doubled in just a year after the vaccination event.”
 
-  * [Study is behind a $40 paywall](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2817622)
+   * [Study is behind a $40 paywall](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2817622)
 
 ---
 
@@ -64,7 +64,7 @@ Markdown:
 
 * “The study investigators observed that “the cumulative incidence of postvaccination uveitis was 8.6% at 3 months, 12.5% at 6 months, and  **16.8% at 1 year** , predominantly of the anterior type.” The incidence nearly doubled in just a year after the vaccination event.”
 
-  * [Study is behind a $40 paywall](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2817622)
+   * [Study is behind a $40 paywall](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2817622)
 
 ---
 

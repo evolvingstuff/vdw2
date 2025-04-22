@@ -106,7 +106,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Bridgen)
 
-  * "In January 2023, Bridgen was suspended from the House of Commons for five days["
+   * "In January 2023, Bridgen was suspended from the House of Commons for five days["
 
 * Andrew Bridgen: What has suspended MP said about vaccines? - [BBC Jan 2023](https://www.bbc.com/news/uk-politics-64237949)
 
@@ -114,7 +114,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [His webpage](https://www.andrewbridgen.com/)
 
-  * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
+   * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
 ---
 
@@ -277,7 +277,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Bridgen)
 
-  * &quot;In January 2023, Bridgen was suspended from the House of Commons for five days[&quot;
+   * &quot;In January 2023, Bridgen was suspended from the House of Commons for five days[&quot;
 
 * Andrew Bridgen: What has suspended MP said about vaccines? - [BBC Jan 2023](https://www.bbc.com/news/uk-politics-64237949)
 
@@ -285,7 +285,7 @@ Why were the MHRA still asking the government to authorize the experimental vacc
 
 * [His webpage](https://www.andrewbridgen.com/)
 
-  * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
+   * &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
 ---
 

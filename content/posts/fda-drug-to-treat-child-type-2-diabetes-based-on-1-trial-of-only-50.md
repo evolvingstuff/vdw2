@@ -25,9 +25,9 @@ categories:
 
 * "“The sample size for this clinical trial is shockingly low. Given that 157 patients were split into three separate treatment groups, it was impossible to properly assess adverse events from the drug."
 
-  * __~ about 53 children per group
+   * __~ about 53 children per group
 
-  *  **Probably have to take the drug daily for life** 
+   *  **Probably have to take the drug daily for life** 
 
 * "“I would expect that the trial be  **at least 10 times larger**  with a longer period of follow-up than 26 weeks, given that these children would be on the drug indefinitely.”"
 
@@ -55,9 +55,9 @@ Markdown:
 
 * &quot;“The sample size for this clinical trial is shockingly low. Given that 157 patients were split into three separate treatment groups, it was impossible to properly assess adverse events from the drug.&quot;
 
-  * __~ about 53 children per group
+   * __~ about 53 children per group
 
-  *  **Probably have to take the drug daily for life** 
+   *  **Probably have to take the drug daily for life** 
 
 * &quot;“I would expect that the trial be  **at least 10 times larger**  with a longer period of follow-up than 26 weeks, given that these children would be on the drug indefinitely.”&quot;
 

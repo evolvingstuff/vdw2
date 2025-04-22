@@ -33,7 +33,7 @@ Melissa Bersanelli # 1 2, Alessio Cortellini # 3 4, Alessandro Leonetti 1 2, Ale
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
- **<span style="color:orange;">Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25</span>** 
+ **<span style="color:#00F;">Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25</span>** 
 
 Background: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).
 
@@ -164,7 +164,7 @@ Melissa Bersanelli # 1 2, Alessio Cortellini # 3 4, Alessandro Leonetti 1 2, Ale
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;700&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;Wonder why there is an extreme drop off in vitamin D benefit at day/week/month 25&lt;/span&gt;** 
 
 Background: Hypovitaminosis D can have a negative prognostic impact in patients with cancer. Vitamin D has a demonstrated role in T-cell-mediated immune activation. We hypothesized that systematic vitamin D repletion could impact clinical outcomes in patients with cancer receiving immune-checkpoint inhibitors (ICIs).
 

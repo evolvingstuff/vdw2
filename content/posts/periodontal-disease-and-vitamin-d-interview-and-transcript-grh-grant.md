@@ -191,13 +191,13 @@ www.grassrootshealth.net
 
 * The role of vitamin D in periodontal health and disease - Dec 2022  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
-  * talks about restriction of vitamin D by the Vitamin D Receptor
+   * talks about restriction of vitamin D by the Vitamin D Receptor
 
 * Vitamin D and Vitamin D Receptor Polymorphisms Relationship to Risk Level of Dental Caries = May 2023  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
 * Impact of serum vitamin D levels on periodontal healing outcomes: A preliminary cohort study - Sept 2022 https://doi.org/10.1111/idh.12619  PDF is behind paywall
 
-  * "Vitamin D level was not associated with the percentage of sites of gingival bleeding on probing at the final evaluation (OR = 0.58, 95% CI = 0.17–1.99, p = 0.39)."
+   * "Vitamin D level was not associated with the percentage of sites of gingival bleeding on probing at the final evaluation (OR = 0.58, 95% CI = 0.17–1.99, p = 0.39)."
 
 ---
 
@@ -395,13 +395,13 @@ www.grassrootshealth.net
 
 * The role of vitamin D in periodontal health and disease - Dec 2022  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
-  * talks about restriction of vitamin D by the Vitamin D Receptor
+   * talks about restriction of vitamin D by the Vitamin D Receptor
 
 * Vitamin D and Vitamin D Receptor Polymorphisms Relationship to Risk Level of Dental Caries = May 2023  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
 * Impact of serum vitamin D levels on periodontal healing outcomes: A preliminary cohort study - Sept 2022 https://doi.org/10.1111/idh.12619  PDF is behind paywall
 
-  * &quot;Vitamin D level was not associated with the percentage of sites of gingival bleeding on probing at the final evaluation (OR = 0.58, 95% CI = 0.17–1.99, p = 0.39).&quot;
+   * &quot;Vitamin D level was not associated with the percentage of sites of gingival bleeding on probing at the final evaluation (OR = 0.58, 95% CI = 0.17–1.99, p = 0.39).&quot;
 
 ---
 

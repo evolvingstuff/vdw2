@@ -48,7 +48,7 @@ Prospero registration number: CRD42022287057.
 
 * <a href="/posts/the-only-supplement-nasa-gives-crews-is-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The only supplement NASA gives crews is vitamin D - Sept 2015">The only supplement NASA gives crews is vitamin D - Sept 2015</a>
 
-  * But, apparently did not give Vitamin D during the MARS simulation
+   * But, apparently did not give Vitamin D during the MARS simulation
 
 * <a href="/posts/people-who-get-little-noon-day-sun-must-supplement-with-vitamin-d-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People who get little noon-day sun must supplement with Vitamin D – systematic review June 2017">People who get little noon-day sun must supplement with Vitamin D – systematic review June 2017</a>
 
@@ -95,7 +95,7 @@ Prospero registration number: CRD42022287057.
 
 * &lt;a href=&quot;/posts/the-only-supplement-nasa-gives-crews-is-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The only supplement NASA gives crews is vitamin D - Sept 2015&quot;&gt;The only supplement NASA gives crews is vitamin D - Sept 2015&lt;/a&gt;
 
-  * But, apparently did not give Vitamin D during the MARS simulation
+   * But, apparently did not give Vitamin D during the MARS simulation
 
 * &lt;a href=&quot;/posts/people-who-get-little-noon-day-sun-must-supplement-with-vitamin-d-systematic-review&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: People who get little noon-day sun must supplement with Vitamin D – systematic review June 2017&quot;&gt;People who get little noon-day sun must supplement with Vitamin D – systematic review June 2017&lt;/a&gt;
 

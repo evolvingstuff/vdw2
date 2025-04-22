@@ -46,7 +46,7 @@ VitaminDWiki has subscribed to DeepDyve since about 2011
 
 1. Should vitamin D levels ever be monitored, and people be given supplements if levels are low?
 
-&nbsp;&nbsp;&nbsp;&nbsp;If supplements are taken, what would be the ideal dose?
+> If supplements are taken, what would be the ideal dose?
 
 1. What are the research gaps and how can the vitamin D field move forward?
 
@@ -156,7 +156,7 @@ VitaminDWiki has subscribed to DeepDyve since about 2011
 
 1. Should vitamin D levels ever be monitored, and people be given supplements if levels are low?
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;If supplements are taken, what would be the ideal dose?
+&gt; If supplements are taken, what would be the ideal dose?
 
 1. What are the research gaps and how can the vitamin D field move forward?
 

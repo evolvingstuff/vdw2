@@ -61,11 +61,11 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 * Detrimental effects of 6 months exposure to very low doses of a mixture of six pesticides associated with chronic vitamin deficiency on rats - June 2021 https://doi.org/10.1016/j.fct.2021.112188
 
-  * Very low =   **100 times lower than NOAEL** . up-regulated genes CYP1A1, CYP1A2, CYP2B1 and GST level
+   * Very low =   **100 times lower than NOAEL** . up-regulated genes CYP1A1, CYP1A2, CYP2B1 and GST level
 
 * Autism Spectrum Disorder and Prenatal or Early Life Exposure to Pesticides: A Short Review - Oct 2021  https://doi.org/10.3390/ijerph182010991 FREE PDF
 
-  * "Conclusions: Among the different environmental pollutants, pesticides should be considered as emerging risk factors for ASD."
+   * "Conclusions: Among the different environmental pollutants, pesticides should be considered as emerging risk factors for ASD."
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -122,11 +122,11 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 * Detrimental effects of 6 months exposure to very low doses of a mixture of six pesticides associated with chronic vitamin deficiency on rats - June 2021 https://doi.org/10.1016/j.fct.2021.112188
 
-  * Very low =   **100 times lower than NOAEL** . up-regulated genes CYP1A1, CYP1A2, CYP2B1 and GST level
+   * Very low =   **100 times lower than NOAEL** . up-regulated genes CYP1A1, CYP1A2, CYP2B1 and GST level
 
 * Autism Spectrum Disorder and Prenatal or Early Life Exposure to Pesticides: A Short Review - Oct 2021  https://doi.org/10.3390/ijerph182010991 FREE PDF
 
-  * &quot;Conclusions: Among the different environmental pollutants, pesticides should be considered as emerging risk factors for ASD.&quot;
+   * &quot;Conclusions: Among the different environmental pollutants, pesticides should be considered as emerging risk factors for ASD.&quot;
 
 
 AST Structure:

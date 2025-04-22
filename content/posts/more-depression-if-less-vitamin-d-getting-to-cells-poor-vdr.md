@@ -32,7 +32,7 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
 
 ---
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -65,7 +65,7 @@ Mental disorders are intricate and multifaceted and encompass social, economic, 
 
 ---
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 

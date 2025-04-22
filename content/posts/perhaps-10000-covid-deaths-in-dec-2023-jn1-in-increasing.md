@@ -39,7 +39,7 @@ and a 62% increase in ICU admissions from the previous month"
 
 * <img src="https://c19vitamind.com/dsummary.png" alt="image" width="900">
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 <!-- ~tc~ (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) ~/tc~ -->
 
@@ -76,7 +76,7 @@ and a 62% increase in ICU admissions from the previous month&quot;
 
 * &lt;img src=&quot;https://c19vitamind.com/dsummary.png&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
-  * The above image is automatically updated
+   * The above image is automatically updated
 
 &lt;!-- ~tc~ (alias(Perhaps 10,000 COVID deaths in Dec 2023( JN.1 in increasing)) ~/tc~ --&gt;
 

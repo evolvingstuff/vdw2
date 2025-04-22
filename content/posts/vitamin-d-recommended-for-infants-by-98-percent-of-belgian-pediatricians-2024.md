@@ -35,11 +35,11 @@ Nearly all Belgian paediatricians prescribe vitamin D prophylaxis to infants. Al
 
 ---
 
-#####  <span style="color:orange;">Unfortunately: only 400 IU for infants, and only 30% of Drs. recommend vitamin D for children</span>
+##### <span style="color:#00F;">Unfortunately: only 400 IU for infants, and only 30% of Drs. recommend vitamin D for children</span>
 
 ---
 
-####  <span style="color:orange;">187+</span>  VitaminDWiki Infant-child pages with INFANT etc. in title
+#### <span style="color:#F06;">187+</span>  VitaminDWiki Infant-child pages with INFANT etc. in title
 
 <!-- {LIST()}
 {list max="250"}
@@ -90,11 +90,11 @@ Nearly all Belgian paediatricians prescribe vitamin D prophylaxis to infants. Al
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Unfortunately: only 400 IU for infants, and only 30% of Drs. recommend vitamin D for children&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;Unfortunately: only 400 IU for infants, and only 30% of Drs. recommend vitamin D for children&lt;/span&gt;
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;187+&lt;/span&gt;  VitaminDWiki Infant-child pages with INFANT etc. in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;187+&lt;/span&gt;  VitaminDWiki Infant-child pages with INFANT etc. in title
 
 &lt;!-- {LIST()}
 {list max=&quot;250&quot;}

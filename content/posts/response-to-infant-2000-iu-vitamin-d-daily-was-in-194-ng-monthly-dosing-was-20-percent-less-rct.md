@@ -57,7 +57,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> has the following chart
 
-&nbsp;&nbsp;&nbsp;&nbsp;This chart unrealistically assumes 100% compliance for daily dosing
+> This chart unrealistically assumes 100% compliance for daily dosing
 
 <img src="/attachments/d3.mock.jpg" alt="image"> chart was made ~2013
 
@@ -194,7 +194,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * &lt;a href=&quot;/posts/take-vitamin-d3-daily-or-weekly&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 2475&quot;&gt;Take vitamin D3 daily or weekly&lt;/a&gt; has the following chart
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;This chart unrealistically assumes 100% compliance for daily dosing
+&gt; This chart unrealistically assumes 100% compliance for daily dosing
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt; chart was made ~2013
 

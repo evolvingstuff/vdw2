@@ -16,7 +16,7 @@ categories:
 
 #### Vitamin D and eye: Current evidence and practice guidelines
 
-Indian J Ophthalmol. 2023 Apr;71(4):1127-1134. [doi: 10.4103/IJO.IJO](https://doi.org/10.4103/IJO.IJO)_3174_22.
+Indian J Ophthalmol. 2023 Apr;71(4):1127-1134. [doi: 10.4103/IJO.IJO_3174_22.](https://doi.org/10.4103/IJO.IJO_3174_22.)
 
 Bhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3
 
@@ -63,7 +63,7 @@ Markdown:
 
 #### Vitamin D and eye: Current evidence and practice guidelines
 
-Indian J Ophthalmol. 2023 Apr;71(4):1127-1134. [doi: 10.4103/IJO.IJO](https://doi.org/10.4103/IJO.IJO)_3174_22.
+Indian J Ophthalmol. 2023 Apr;71(4):1127-1134. [doi: 10.4103/IJO.IJO_3174_22.](https://doi.org/10.4103/IJO.IJO_3174_22.)
 
 Bhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3
 
@@ -128,10 +128,10 @@ AST Structure:
 │   │   inner_content: `Vitamin D and eye: Current evidence and practice guidelines`├── TextNode
 │   full_match: `\nIndian J Ophthalmol. 2023 Apr;71(4):1127-1134. `
 │   inner_content: `\nIndian J Ophthalmol. 2023 Apr;71(4):1127-1134. `├── DoiLinkNode
-│   full_match: `doi: 10.4103/IJO.IJO`
-│   inner_content: `10.4103/IJO.IJO`├── TextNode
-│   full_match: `_3174_22.\nBhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3\n\nVitamin D is a steroid hormone that has widespread role in human physiology, not only in the maintenance of calcium homeostasis but also in immunomodulation, cellular differentiation, and proliferation. The immunomodulatory effects of vitamin D are well known and are applicable to the ocular surface immune cells and structural cells. \nThe role of vitamin D in ocular surface conditions such as \n`
-│   inner_content: `_3174_22.\nBhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3\n\nVitamin D is a steroid hormone that has widespread role in human physiology, not only in the maintenance of calcium homeostasis but also in immunomodulation, cellular differentiation, and proliferation. The immunomodulatory effects of vitamin D are well known and are applicable to the ocular surface immune cells and structural cells. \nThe role of vitamin D in ocular surface conditions such as \n`├── ListItemNode
+│   full_match: `doi: 10.4103/IJO.IJO_3174_22.`
+│   inner_content: `10.4103/IJO.IJO_3174_22.`├── TextNode
+│   full_match: `\nBhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3\n\nVitamin D is a steroid hormone that has widespread role in human physiology, not only in the maintenance of calcium homeostasis but also in immunomodulation, cellular differentiation, and proliferation. The immunomodulatory effects of vitamin D are well known and are applicable to the ocular surface immune cells and structural cells. \nThe role of vitamin D in ocular surface conditions such as \n`
+│   inner_content: `\nBhavya Gorimanipalli 1, Rohit Shetty 1, Swaminathan Sethu 2, Pooja Khamar 3\n\nVitamin D is a steroid hormone that has widespread role in human physiology, not only in the maintenance of calcium homeostasis but also in immunomodulation, cellular differentiation, and proliferation. The immunomodulatory effects of vitamin D are well known and are applicable to the ocular surface immune cells and structural cells. \nThe role of vitamin D in ocular surface conditions such as \n`├── ListItemNode
 │   full_match: `*dry eye disease (DED), `
 │   inner_content: `dry eye disease (DED), `
 │   depth: `1`

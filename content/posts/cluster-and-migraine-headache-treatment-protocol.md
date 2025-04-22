@@ -20,15 +20,15 @@ categories:
 
 ##### Disclaimer
 
- **<span style="color:orange;">The following Quick Start Guide for the Anti-Inflammatory Regimen Cluster and Migraine Headache Preventative Treatment Protocol is provided for information and educational purposes.  See your Primary Care Physician (PCP) or neurologist whoever has the most knowledge of your general health, any preexisting medical conditions and prescribed medications, to discuss this Quick Start Guide and treatment protocol before starting it.</span>** 
+ **<span style="color:#000000;">The following Quick Start Guide for the Anti-Inflammatory Regimen Cluster and Migraine Headache Preventative Treatment Protocol is provided for information and educational purposes.  See your Primary Care Physician (PCP) or neurologist whoever has the most knowledge of your general health, any preexisting medical conditions and prescribed medications, to discuss this Quick Start Guide and treatment protocol before starting it.</span>** 
 
 ##### Introduction
 
- **<span style="color:orange;">This Quick Start Guide is based on the Anti-Inflammatory Regimen, Cluster and Migraine Headache Treatment Protocol developed and published in 2011.  I  published a revised version on my webpage at VitaminDWiki.com 21 Jan 2017.  Readers of my webpage have downloaded over 85,000 copies of this treatment protocol.  </span>** 
+ **<span style="color:#000000;">This Quick Start Guide is based on the Anti-Inflammatory Regimen, Cluster and Migraine Headache Treatment Protocol developed and published in 2011.  I  published a revised version on my webpage at VitaminDWiki.com 21 Jan 2017.  Readers of my webpage have downloaded over 85,000 copies of this treatment protocol.  </span>** 
 
- **<span style="color:orange;">This Quick Start Guide also introduces a new companion treatment protocol we call the Antihistamine Full Monty.  This is a collection of supplements that act as antihistamines to counter the effects of allergic reactions and the release of histamine that makes cluster headaches (CH) and migraine headaches uncontrollable.  Many of these same supplements are also potent antioxidants with antiviral and antibiotic properties.</span>** 
+ **<span style="color:#000000;">This Quick Start Guide also introduces a new companion treatment protocol we call the Antihistamine Full Monty.  This is a collection of supplements that act as antihistamines to counter the effects of allergic reactions and the release of histamine that makes cluster headaches (CH) and migraine headaches uncontrollable.  Many of these same supplements are also potent antioxidants with antiviral and antibiotic properties.</span>** 
 
- **<span style="color:orange;">The following links will take you to video interviews that explain this treatment protocol in detail.</span>** 
+ **<span style="color:#000000;">The following links will take you to video interviews that explain this treatment protocol in detail.</span>** 
 
 === **https://www.youtube.com/watch?v=SofbDDhmQUs** ===
 
@@ -36,13 +36,13 @@ categories:
 
 === **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===
 
- **<span style="color:orange;">This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.</span>** 
+ **<span style="color:#000000;">This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.</span>** 
 
  **PDF of original protocol is at the bottom of this page** 
 
 ##### Talk to your doctor
 
- <span style="color:orange;">See your primary care physician (PCP) or neurologist, whoever has the most recent knowledge of your overall health and any prescribed medications to discuss this treatment protocol and to obtain lab assays for your serum 25-Hydroxy Vitamin D3, a.k.a., 25(OH)D3, Calcium and Parathyroid Hormone (PTH).  This first set of assays will be your baseline values.   In the US, ask that the orders for these labs be sent to the Quest Diagnostics facility nearest your home.  The tests to ask for include the following:</span>
+<span style="color:#000000;">See your primary care physician (PCP) or neurologist, whoever has the most recent knowledge of your overall health and any prescribed medications to discuss this treatment protocol and to obtain lab assays for your serum 25-Hydroxy Vitamin D3, a.k.a., 25(OH)D3, Calcium and Parathyroid Hormone (PTH).  This first set of assays will be your baseline values.   In the US, ask that the orders for these labs be sent to the Quest Diagnostics facility nearest your home.  The tests to ask for include the following:</span>
 
 * 25-Hydroxyvitamin D3 <span>[25(OH)D3]</span>. Quest Diagnostics Test Name: QuestAssureD 25-OH Vitamin D (Total), LC-MS/MS.  Test #: 92888, CPT Code 82306.
 
@@ -56,41 +56,42 @@ If you haven’t already started one, there are several Smart Phone apps like  *
 
 ##### Basic Anti-Inflammatory Regimen Supplements
 
- <span style="color:orange;">If you live in the USA, order the following from amazon.com.  If you live outside the US, you may need to order them from iherb.com.  It’s important to order these same brands whenever possible as they have a proven record over the last 10 years producing the best results.  The following photo illustrates the supplements taken in this treatment protocol by brand and maintenance dose.  With the exception of the vitamin D3 which can be taken daily or weekly, all the remaining cofactors are taken daily.</span>
+<span style="color:#000000;">If you live in the USA, order the following from amazon.com.  If you live outside the US, you may need to order them from iherb.com.  It’s important to order these same brands whenever possible as they have a proven record over the last 10 years producing the best results.  The following photo illustrates the supplements taken in this treatment protocol by brand and maintenance dose.  With the exception of the vitamin D3 which can be taken daily or weekly, all the remaining cofactors are taken daily.</span>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
 ##### Basic Anti-Inflammatory Regimen Supplements and Maintenance Doses
 
- **=== <span style="color:orange;">VITAMIN D3</span>===** 
+ **===<span style="color:#000000;">VITAMIN D3</span>===** 
 
-1.  **<span style="color:orange;">Nutrasal Micro D3 Nano Emulsion – 0.5 mL/day used when loading</span>** 
+1.  **<span style="color:#000000;">Nutrasal Micro D3 Nano Emulsion – 0.5 mL/day used when loading</span>** 
 
-1.  **<span style="color:orange;">Bio-Tech D3-50 – 1 or 2 capsules a week as Maintenance dose</span>** 
+1.  **<span style="color:#000000;">Bio-Tech D3-50 – 1 or 2 capsules a week as Maintenance dose</span>** 
 
- **=== <span style="color:orange;">COFACTORS</span>===** 
+ **===<span style="color:#000000;">COFACTORS</span>===** 
 
-1.  **<span style="color:orange;">Kirkland Adult 50+ Mature Multi - 1 capsule a day</span>** 
+1.  **<span style="color:#000000;">Kirkland Adult 50+ Mature Multi - 1 capsule a day</span>** 
 
-1.  **<span style="color:orange;">Nature Made Extra Strength 400 mg Magnesium softgel - 1 capsule a day</span>** 
+1.  **<span style="color:#000000;">Nature Made Extra Strength 400 mg Magnesium softgel - 1 capsule a day</span>** 
 
-1.  **<span style="color:orange;">Nature Made Omega-3 Fish Oil – 2 capsules a day</span>** 
+1.  **<span style="color:#000000;">Nature Made Omega-3 Fish Oil – 2 capsules a day</span>** 
 
-1.  **<span style="color:orange;">Methyl Folate + Vitamin B Complex - 1 capsule a day</span>** 
+1.  **<span style="color:#000000;">Methyl Folate + Vitamin B Complex - 1 capsule a day</span>** 
 
-1.  **<span style="color:orange;">LifeExtension Super K with Advanced K2 Complex - 1 capsule a day</span>** 
+1.  **<span style="color:#000000;">LifeExtension Super K with Advanced K2 Complex - 1 capsule a day</span>** 
 
 ##### Antihistamine “Full Monty” Supplements
 
- <span style="color:orange;">We developed the Antihistamine Full Monty as a replacement for Benadryl (Diphenhydramine HCL).   The term “Full Monty” essentially means taking everything but the kitchen sink.  It’s best to start the Antihistamine Full Monty if there’s been no change in CH patterns after five (5) days loading, or any time there’s been an unexplained fall from complete CH remission after months or years of CH pain-free bliss.  The culprit is likely an immune system response to an allergen or allergens in your environment or diet or inflammation from an undiagnosed subclinical infection.  Migraineurs should start the Antihistamine Full Monty at the same time they start the initial vitamin D3 loading schedule.</span>~~#000000:The Antihistamine Full Monty supplements have, among other beneficial properties, the capacity to up-regulate the expression of the Vitamin D Receptor (VDR) and the capacity to act as antihistamines.  These supplements are also frequently recommended for migraineurs. The Full Monty is just as effective in combating the histamine released by allergic reactions yet it has none of the drowsiness or adverse side effects associated with long term use of first-generation antihistamines like Benadryl (Diphenhydramine HCL).  We start the Antihistamine Full Monty with two (2) grams/day loading doses for one week of the first three supplements listed below.  You can drop back to a maintenance dose of one (1) gram/day and stay at that dose until the allergens are gone and you’re experiencing a sustained CH pain free response.
+<span style="color:#000000;">We developed the Antihistamine Full Monty as a replacement for Benadryl (Diphenhydramine HCL).   The term “Full Monty” essentially means taking everything but the kitchen sink.  It’s best to start the Antihistamine Full Monty if there’s been no change in CH patterns after five (5) days loading, or any time there’s been an unexplained fall from complete CH remission after months or years of CH pain-free bliss.  The culprit is likely an immune system response to an allergen or allergens in your environment or diet or inflammation from an undiagnosed subclinical infection.  Migraineurs should start the Antihistamine Full Monty at the same time they start the initial vitamin D3 loading schedule.</span>~~#000000:The Antihistamine Full Monty supplements have, among other beneficial properties, the capacity to up-regulate the expression of the Vitamin D Receptor (VDR) and the capacity to act as antihistamines.  These supplements are also frequently recommended for migraineurs. The Full Monty is just as effective in combating the histamine released by allergic reactions yet it has none of the drowsiness or adverse side effects associated with long term use of first-generation antihistamines like Benadryl (Diphenhydramine HCL).  We start the Antihistamine Full Monty with two (2) grams/day loading doses for one week of the first three supplements listed below.  You can drop back to a maintenance dose of one (1) gram/day and stay at that dose until the allergens are gone and you’re experiencing a sustained CH pain free response.
 
- <span style="color:orange;">Primary Antihistamine Supplements</span> **#**  <span style="color:orange;">1 to 2 Grams/day Turmeric (Curcumin)</span> ****  <span style="color:orange;">with </span> **** Piperine **#**  <span style="color:orange;">1 to </span> ****  <span style="color:orange;">2 Grams/day Quercetin</span> **#**  <span style="color:orange;">1 to </span> ****  <span style="color:orange;">2 Grams/day Resveratrol</span> **#**  <span style="color:orange;">8 Grams/day vitamin C</span> ****  <span style="color:orange;">Optional As Needed</span> **#**  <span style="color:orange;">2 Grams/day Omega-3 Fish Oil (EPA and DHA)</span> **#**  <span style="color:orange;">250 mcg/day Selenium</span> **#**  <span style="color:orange;">1000 mg/day N-Acetyl Cysteine (NAC)</span> **#**  <span style="color:orange;">5 to 10 mg/day Melatonin (Taken at bedtime)</span> **#**  <span style="color:orange;">200 to 500 mg/day CoQ10</span> **#**  <span style="color:orange;">50 mg Zinc Picolinate</span>#F06:* <span style="color:orange;">­Diamine Oxidase (DO)</span>#F06:**~~ 4 mg 2 to 3 times/day with meals ~~ **I buy the bulk powdered vitamin C in 2 lb jar as shown below and stir two level teaspoon measures (8 grams) in 12 oz of water.  I drink a gulp of this solution every two hours throughout the day until it is gone by bedtime.  This is the least expensive form of vitamin C at 3 to 4 cents/gram.  The liposomal vitamin C costs 8 to 9 cents/gram.
+<span style="color:__~~#000000;">Primary Antihistamine Supplements</span> **#** <span style="color:#000000;">1 to 2 Grams/day Turmeric (Curcumin)</span> **** <span style="color:#000000;">with </span> **** Piperine **#** <span style="color:#000000;">1 to </span> **** <span style="color:#000000;">2 Grams/day Quercetin</span> **#** <span style="color:#000000;">1 to </span> **** <span style="color:#000000;">2 Grams/day Resveratrol</span> **#** <span style="color:#000000;">8 Grams/day vitamin C</span> **** <span style="color:#000000;">Optional As Needed</span> **#** <span style="color:#000000;">2 Grams/day Omega-3 Fish Oil (EPA and DHA)</span> **#** <span style="color:#000000;">250 mcg/day Selenium</span> **#** <span style="color:#000000;">1000 mg/day N-Acetyl Cysteine (NAC)</span> **#** <span style="color:#000000;">5 to 10 mg/day Melatonin (Taken at bedtime)</span> **#** <span style="color:#000000;">200 to 500 mg/day CoQ10</span> **#** <span style="color:#000000;">50 mg Zinc Picolinate</span>#F06:*<span style="color:__
+#__~~#000000;">­Diamine Oxidase (DO)</span>#F06:**~~ 4 mg 2 to 3 times/day with meals ~~ **I buy the bulk powdered vitamin C in 2 lb jar as shown below and stir two level teaspoon measures (8 grams) in 12 oz of water.  I drink a gulp of this solution every two hours throughout the day until it is gone by bedtime.  This is the least expensive form of vitamin C at 3 to 4 cents/gram.  The liposomal vitamin C costs 8 to 9 cents/gram.
 
 * Take the 50 mg zinc with Quercetin if viral infection is suspect or present. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;The 10 mg zinc in the Kirkland Adult 50 may not be sufficient for some viral infections. 
+> The 10 mg zinc in the Kirkland Adult 50 may not be sufficient for some viral infections. 
 
-  * The Diamine Oxidase is a naturally occurring enzyme that blocks and breaks down histamine.  It is taken for histamine intolerance.
+   * The Diamine Oxidase is a naturally occurring enzyme that blocks and breaks down histamine.  It is taken for histamine intolerance.
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="200">
 
@@ -237,15 +238,15 @@ Markdown:
 
 ##### Disclaimer
 
- **&lt;span style=&quot;color:orange;&quot;&gt;The following Quick Start Guide for the Anti-Inflammatory Regimen Cluster and Migraine Headache Preventative Treatment Protocol is provided for information and educational purposes.  See your Primary Care Physician (PCP) or neurologist whoever has the most knowledge of your general health, any preexisting medical conditions and prescribed medications, to discuss this Quick Start Guide and treatment protocol before starting it.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#000000;&quot;&gt;The following Quick Start Guide for the Anti-Inflammatory Regimen Cluster and Migraine Headache Preventative Treatment Protocol is provided for information and educational purposes.  See your Primary Care Physician (PCP) or neurologist whoever has the most knowledge of your general health, any preexisting medical conditions and prescribed medications, to discuss this Quick Start Guide and treatment protocol before starting it.&lt;/span&gt;** 
 
 ##### Introduction
 
- **&lt;span style=&quot;color:orange;&quot;&gt;This Quick Start Guide is based on the Anti-Inflammatory Regimen, Cluster and Migraine Headache Treatment Protocol developed and published in 2011.  I  published a revised version on my webpage at VitaminDWiki.com 21 Jan 2017.  Readers of my webpage have downloaded over 85,000 copies of this treatment protocol.  &lt;/span&gt;** 
+ **&lt;span style=&quot;color:#000000;&quot;&gt;This Quick Start Guide is based on the Anti-Inflammatory Regimen, Cluster and Migraine Headache Treatment Protocol developed and published in 2011.  I  published a revised version on my webpage at VitaminDWiki.com 21 Jan 2017.  Readers of my webpage have downloaded over 85,000 copies of this treatment protocol.  &lt;/span&gt;** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;This Quick Start Guide also introduces a new companion treatment protocol we call the Antihistamine Full Monty.  This is a collection of supplements that act as antihistamines to counter the effects of allergic reactions and the release of histamine that makes cluster headaches (CH) and migraine headaches uncontrollable.  Many of these same supplements are also potent antioxidants with antiviral and antibiotic properties.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#000000;&quot;&gt;This Quick Start Guide also introduces a new companion treatment protocol we call the Antihistamine Full Monty.  This is a collection of supplements that act as antihistamines to counter the effects of allergic reactions and the release of histamine that makes cluster headaches (CH) and migraine headaches uncontrollable.  Many of these same supplements are also potent antioxidants with antiviral and antibiotic properties.&lt;/span&gt;** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;The following links will take you to video interviews that explain this treatment protocol in detail.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#000000;&quot;&gt;The following links will take you to video interviews that explain this treatment protocol in detail.&lt;/span&gt;** 
 
 === **https://www.youtube.com/watch?v=SofbDDhmQUs** ===
 
@@ -253,13 +254,13 @@ Markdown:
 
 === **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===
 
- **&lt;span style=&quot;color:orange;&quot;&gt;This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#000000;&quot;&gt;This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.&lt;/span&gt;** 
 
  **PDF of original protocol is at the bottom of this page** 
 
 ##### Talk to your doctor
 
- &lt;span style=&quot;color:orange;&quot;&gt;See your primary care physician (PCP) or neurologist, whoever has the most recent knowledge of your overall health and any prescribed medications to discuss this treatment protocol and to obtain lab assays for your serum 25-Hydroxy Vitamin D3, a.k.a., 25(OH)D3, Calcium and Parathyroid Hormone (PTH).  This first set of assays will be your baseline values.   In the US, ask that the orders for these labs be sent to the Quest Diagnostics facility nearest your home.  The tests to ask for include the following:&lt;/span&gt;
+&lt;span style=&quot;color:#000000;&quot;&gt;See your primary care physician (PCP) or neurologist, whoever has the most recent knowledge of your overall health and any prescribed medications to discuss this treatment protocol and to obtain lab assays for your serum 25-Hydroxy Vitamin D3, a.k.a., 25(OH)D3, Calcium and Parathyroid Hormone (PTH).  This first set of assays will be your baseline values.   In the US, ask that the orders for these labs be sent to the Quest Diagnostics facility nearest your home.  The tests to ask for include the following:&lt;/span&gt;
 
 * 25-Hydroxyvitamin D3 &lt;span&gt;[25(OH)D3]&lt;/span&gt;. Quest Diagnostics Test Name: QuestAssureD 25-OH Vitamin D (Total), LC-MS/MS.  Test #: 92888, CPT Code 82306.
 
@@ -273,41 +274,42 @@ If you haven’t already started one, there are several Smart Phone apps like  *
 
 ##### Basic Anti-Inflammatory Regimen Supplements
 
- &lt;span style=&quot;color:orange;&quot;&gt;If you live in the USA, order the following from amazon.com.  If you live outside the US, you may need to order them from iherb.com.  It’s important to order these same brands whenever possible as they have a proven record over the last 10 years producing the best results.  The following photo illustrates the supplements taken in this treatment protocol by brand and maintenance dose.  With the exception of the vitamin D3 which can be taken daily or weekly, all the remaining cofactors are taken daily.&lt;/span&gt;
+&lt;span style=&quot;color:#000000;&quot;&gt;If you live in the USA, order the following from amazon.com.  If you live outside the US, you may need to order them from iherb.com.  It’s important to order these same brands whenever possible as they have a proven record over the last 10 years producing the best results.  The following photo illustrates the supplements taken in this treatment protocol by brand and maintenance dose.  With the exception of the vitamin D3 which can be taken daily or weekly, all the remaining cofactors are taken daily.&lt;/span&gt;
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
 ##### Basic Anti-Inflammatory Regimen Supplements and Maintenance Doses
 
- **=== &lt;span style=&quot;color:orange;&quot;&gt;VITAMIN D3&lt;/span&gt;===** 
+ **===&lt;span style=&quot;color:#000000;&quot;&gt;VITAMIN D3&lt;/span&gt;===** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Nutrasal Micro D3 Nano Emulsion – 0.5 mL/day used when loading&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Nutrasal Micro D3 Nano Emulsion – 0.5 mL/day used when loading&lt;/span&gt;** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Bio-Tech D3-50 – 1 or 2 capsules a week as Maintenance dose&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Bio-Tech D3-50 – 1 or 2 capsules a week as Maintenance dose&lt;/span&gt;** 
 
- **=== &lt;span style=&quot;color:orange;&quot;&gt;COFACTORS&lt;/span&gt;===** 
+ **===&lt;span style=&quot;color:#000000;&quot;&gt;COFACTORS&lt;/span&gt;===** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Kirkland Adult 50+ Mature Multi - 1 capsule a day&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Kirkland Adult 50+ Mature Multi - 1 capsule a day&lt;/span&gt;** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Nature Made Extra Strength 400 mg Magnesium softgel - 1 capsule a day&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Nature Made Extra Strength 400 mg Magnesium softgel - 1 capsule a day&lt;/span&gt;** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Nature Made Omega-3 Fish Oil – 2 capsules a day&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Nature Made Omega-3 Fish Oil – 2 capsules a day&lt;/span&gt;** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;Methyl Folate + Vitamin B Complex - 1 capsule a day&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;Methyl Folate + Vitamin B Complex - 1 capsule a day&lt;/span&gt;** 
 
-1.  **&lt;span style=&quot;color:orange;&quot;&gt;LifeExtension Super K with Advanced K2 Complex - 1 capsule a day&lt;/span&gt;** 
+1.  **&lt;span style=&quot;color:#000000;&quot;&gt;LifeExtension Super K with Advanced K2 Complex - 1 capsule a day&lt;/span&gt;** 
 
 ##### Antihistamine “Full Monty” Supplements
 
- &lt;span style=&quot;color:orange;&quot;&gt;We developed the Antihistamine Full Monty as a replacement for Benadryl (Diphenhydramine HCL).   The term “Full Monty” essentially means taking everything but the kitchen sink.  It’s best to start the Antihistamine Full Monty if there’s been no change in CH patterns after five (5) days loading, or any time there’s been an unexplained fall from complete CH remission after months or years of CH pain-free bliss.  The culprit is likely an immune system response to an allergen or allergens in your environment or diet or inflammation from an undiagnosed subclinical infection.  Migraineurs should start the Antihistamine Full Monty at the same time they start the initial vitamin D3 loading schedule.&lt;/span&gt;~~#000000:The Antihistamine Full Monty supplements have, among other beneficial properties, the capacity to up-regulate the expression of the Vitamin D Receptor (VDR) and the capacity to act as antihistamines.  These supplements are also frequently recommended for migraineurs. The Full Monty is just as effective in combating the histamine released by allergic reactions yet it has none of the drowsiness or adverse side effects associated with long term use of first-generation antihistamines like Benadryl (Diphenhydramine HCL).  We start the Antihistamine Full Monty with two (2) grams/day loading doses for one week of the first three supplements listed below.  You can drop back to a maintenance dose of one (1) gram/day and stay at that dose until the allergens are gone and you’re experiencing a sustained CH pain free response.
+&lt;span style=&quot;color:#000000;&quot;&gt;We developed the Antihistamine Full Monty as a replacement for Benadryl (Diphenhydramine HCL).   The term “Full Monty” essentially means taking everything but the kitchen sink.  It’s best to start the Antihistamine Full Monty if there’s been no change in CH patterns after five (5) days loading, or any time there’s been an unexplained fall from complete CH remission after months or years of CH pain-free bliss.  The culprit is likely an immune system response to an allergen or allergens in your environment or diet or inflammation from an undiagnosed subclinical infection.  Migraineurs should start the Antihistamine Full Monty at the same time they start the initial vitamin D3 loading schedule.&lt;/span&gt;~~#000000:The Antihistamine Full Monty supplements have, among other beneficial properties, the capacity to up-regulate the expression of the Vitamin D Receptor (VDR) and the capacity to act as antihistamines.  These supplements are also frequently recommended for migraineurs. The Full Monty is just as effective in combating the histamine released by allergic reactions yet it has none of the drowsiness or adverse side effects associated with long term use of first-generation antihistamines like Benadryl (Diphenhydramine HCL).  We start the Antihistamine Full Monty with two (2) grams/day loading doses for one week of the first three supplements listed below.  You can drop back to a maintenance dose of one (1) gram/day and stay at that dose until the allergens are gone and you’re experiencing a sustained CH pain free response.
 
- &lt;span style=&quot;color:orange;&quot;&gt;Primary Antihistamine Supplements&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;1 to 2 Grams/day Turmeric (Curcumin)&lt;/span&gt; ****  &lt;span style=&quot;color:orange;&quot;&gt;with &lt;/span&gt; **** Piperine **#**  &lt;span style=&quot;color:orange;&quot;&gt;1 to &lt;/span&gt; ****  &lt;span style=&quot;color:orange;&quot;&gt;2 Grams/day Quercetin&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;1 to &lt;/span&gt; ****  &lt;span style=&quot;color:orange;&quot;&gt;2 Grams/day Resveratrol&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;8 Grams/day vitamin C&lt;/span&gt; ****  &lt;span style=&quot;color:orange;&quot;&gt;Optional As Needed&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;2 Grams/day Omega-3 Fish Oil (EPA and DHA)&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;250 mcg/day Selenium&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;1000 mg/day N-Acetyl Cysteine (NAC)&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;5 to 10 mg/day Melatonin (Taken at bedtime)&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;200 to 500 mg/day CoQ10&lt;/span&gt; **#**  &lt;span style=&quot;color:orange;&quot;&gt;50 mg Zinc Picolinate&lt;/span&gt;#F06:* &lt;span style=&quot;color:orange;&quot;&gt;­Diamine Oxidase (DO)&lt;/span&gt;#F06:**~~ 4 mg 2 to 3 times/day with meals ~~ **I buy the bulk powdered vitamin C in 2 lb jar as shown below and stir two level teaspoon measures (8 grams) in 12 oz of water.  I drink a gulp of this solution every two hours throughout the day until it is gone by bedtime.  This is the least expensive form of vitamin C at 3 to 4 cents/gram.  The liposomal vitamin C costs 8 to 9 cents/gram.
+&lt;span style=&quot;color:__~~#000000;&quot;&gt;Primary Antihistamine Supplements&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;1 to 2 Grams/day Turmeric (Curcumin)&lt;/span&gt; **** &lt;span style=&quot;color:#000000;&quot;&gt;with &lt;/span&gt; **** Piperine **#** &lt;span style=&quot;color:#000000;&quot;&gt;1 to &lt;/span&gt; **** &lt;span style=&quot;color:#000000;&quot;&gt;2 Grams/day Quercetin&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;1 to &lt;/span&gt; **** &lt;span style=&quot;color:#000000;&quot;&gt;2 Grams/day Resveratrol&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;8 Grams/day vitamin C&lt;/span&gt; **** &lt;span style=&quot;color:#000000;&quot;&gt;Optional As Needed&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;2 Grams/day Omega-3 Fish Oil (EPA and DHA)&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;250 mcg/day Selenium&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;1000 mg/day N-Acetyl Cysteine (NAC)&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;5 to 10 mg/day Melatonin (Taken at bedtime)&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;200 to 500 mg/day CoQ10&lt;/span&gt; **#** &lt;span style=&quot;color:#000000;&quot;&gt;50 mg Zinc Picolinate&lt;/span&gt;#F06:*&lt;span style=&quot;color:__
+#__~~#000000;&quot;&gt;­Diamine Oxidase (DO)&lt;/span&gt;#F06:**~~ 4 mg 2 to 3 times/day with meals ~~ **I buy the bulk powdered vitamin C in 2 lb jar as shown below and stir two level teaspoon measures (8 grams) in 12 oz of water.  I drink a gulp of this solution every two hours throughout the day until it is gone by bedtime.  This is the least expensive form of vitamin C at 3 to 4 cents/gram.  The liposomal vitamin C costs 8 to 9 cents/gram.
 
 * Take the 50 mg zinc with Quercetin if viral infection is suspect or present. 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The 10 mg zinc in the Kirkland Adult 50 may not be sufficient for some viral infections. 
+&gt; The 10 mg zinc in the Kirkland Adult 50 may not be sufficient for some viral infections. 
 
-  * The Diamine Oxidase is a naturally occurring enzyme that blocks and breaks down histamine.  It is taken for histamine intolerance.
+   * The Diamine Oxidase is a naturally occurring enzyme that blocks and breaks down histamine.  It is taken for histamine intolerance.
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;200&quot;&gt;
 

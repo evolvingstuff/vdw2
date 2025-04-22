@@ -29,8 +29,8 @@ L Máčová 1, R Kancheva, M Bičíková
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- **<span style="color:orange;">Factors that are up-regulated are marked in green</span>  
-  <span style="color:orange;">factors that are down-regulated are in red</span>.** 
+ **<span style="color:#096;">Factors that are up-regulated are marked in green</span>  
+ <span style="color:#F06;">factors that are down-regulated are in red</span>.** 
 
 Vitamin D is a lipid-soluble vitamin that can be found in some foods. It is also produced endogenously (in the presence of ultraviolet light), transported through the blood to the targets organs and this is the reason to consider vitamin D as a hormone. It is known that vitamin D has genomic and non-genomic effects. 
 
@@ -42,7 +42,7 @@ This review is focused mainly on
 
 * the role of vitamin D in the pathophysiology of devastating neurological disorders 
 
-  * such as Alzheimer's disease, multiple sclerosis, amyotrophic lateral sclerosis, Parkinson's disease and 
+   * such as Alzheimer's disease, multiple sclerosis, amyotrophic lateral sclerosis, Parkinson's disease and 
 
 * the benefit of vitamin D and its derivates in alleviating these disorders.
 
@@ -80,8 +80,8 @@ L Máčová 1, R Kancheva, M Bičíková
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Factors that are up-regulated are marked in green&lt;/span&gt;  
-  &lt;span style=&quot;color:orange;&quot;&gt;factors that are down-regulated are in red&lt;/span&gt;.** 
+ **&lt;span style=&quot;color:#096;&quot;&gt;Factors that are up-regulated are marked in green&lt;/span&gt;  
+ &lt;span style=&quot;color:#F06;&quot;&gt;factors that are down-regulated are in red&lt;/span&gt;.** 
 
 Vitamin D is a lipid-soluble vitamin that can be found in some foods. It is also produced endogenously (in the presence of ultraviolet light), transported through the blood to the targets organs and this is the reason to consider vitamin D as a hormone. It is known that vitamin D has genomic and non-genomic effects. 
 
@@ -93,7 +93,7 @@ This review is focused mainly on
 
 * the role of vitamin D in the pathophysiology of devastating neurological disorders 
 
-  * such as Alzheimer&#39;s disease, multiple sclerosis, amyotrophic lateral sclerosis, Parkinson&#39;s disease and 
+   * such as Alzheimer&#39;s disease, multiple sclerosis, amyotrophic lateral sclerosis, Parkinson&#39;s disease and 
 
 * the benefit of vitamin D and its derivates in alleviating these disorders.
 

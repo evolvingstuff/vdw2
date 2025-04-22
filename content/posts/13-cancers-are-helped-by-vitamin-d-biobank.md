@@ -23,7 +23,7 @@ European Journal of Cancer :July 17, 2023 DOI:https://doi.org/10.1016/j.ejca.202
 
 Sha Sha, Li-Ju Chen, PhD, Hermann Brenner, Prof. MD. Ben Schöttker, PhD 
 
- **Reduced Cancer for people reporting taking  <span style="color:orange;">any</span> amount of Vitamin D** 
+ **Reduced Cancer for people reporting taking <span style="color:#00F;">any</span> amount of Vitamin D** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -67,7 +67,7 @@ European Journal of Cancer :July 17, 2023 DOI:https://doi.org/10.1016/j.ejca.202
 
 Sha Sha, Li-Ju Chen, PhD, Hermann Brenner, Prof. MD. Ben Schöttker, PhD 
 
- **Reduced Cancer for people reporting taking  &lt;span style=&quot;color:orange;&quot;&gt;any&lt;/span&gt; amount of Vitamin D** 
+ **Reduced Cancer for people reporting taking &lt;span style=&quot;color:#00F;&quot;&gt;any&lt;/span&gt; amount of Vitamin D** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

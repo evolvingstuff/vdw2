@@ -39,7 +39,7 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
  **Preferably starting 50,000 IU daily for the first week.   
 Otherwise it takes 5 month for the vitamin D levels to plateau  
    
- <span style="color:orange;">Any amount of Vitamin D is far better than no Vitamin D</span>  
+<span style="color:#00F;">Any amount of Vitamin D is far better than no Vitamin D</span>  
 No Vitamin D screening nor test is needed** 
 
  **Note: Vitamin D2 should NOT be taken, and if taken, D2 must be daily** 
@@ -219,7 +219,7 @@ Conclusion: While majority of the surveyed hospitals did not have a national pol
  **Preferably starting 50,000 IU daily for the first week.   
 Otherwise it takes 5 month for the vitamin D levels to plateau  
    
- &lt;span style=&quot;color:orange;&quot;&gt;Any amount of Vitamin D is far better than no Vitamin D&lt;/span&gt;  
+&lt;span style=&quot;color:#00F;&quot;&gt;Any amount of Vitamin D is far better than no Vitamin D&lt;/span&gt;  
 No Vitamin D screening nor test is needed** 
 
  **Note: Vitamin D2 should NOT be taken, and if taken, D2 must be daily** 

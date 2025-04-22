@@ -25,7 +25,7 @@ categories:
 
 * Dr. Cheng has been taking 30,000 IU per day himself
 
-  * Note: The founder of VitaminDWiki takes an average of 25,000 IU daily
+   * Note: The founder of VitaminDWiki takes an average of 25,000 IU daily
 
 * "Great news from Dr. Cheng – he has been able to help reverse or significantly improve many chronic diseases, such as coronary heart disease (as shown by angiogram – working on a paper now). Vitamin D is a major part of this protocol. He has also helped to reverse several autoimmune diseases (including Hashimoto’s, psoriasis, vitiligo, SLE, ulcerative colitis, eczema); ..."
 
@@ -63,7 +63,7 @@ Markdown:
 
 * Dr. Cheng has been taking 30,000 IU per day himself
 
-  * Note: The founder of VitaminDWiki takes an average of 25,000 IU daily
+   * Note: The founder of VitaminDWiki takes an average of 25,000 IU daily
 
 * &quot;Great news from Dr. Cheng – he has been able to help reverse or significantly improve many chronic diseases, such as coronary heart disease (as shown by angiogram – working on a paper now). Vitamin D is a major part of this protocol. He has also helped to reverse several autoimmune diseases (including Hashimoto’s, psoriasis, vitiligo, SLE, ulcerative colitis, eczema); ...&quot;
 

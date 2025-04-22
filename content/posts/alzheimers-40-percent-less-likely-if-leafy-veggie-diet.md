@@ -50,7 +50,7 @@ categories:
 
 * Mediterranean Diet, Alzheimer Disease, and Vascular Mediation doi:10.1001/archneur.63.12.noc60109
 
-  * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&as_sdt=5,48&sciodt=0,48&hl=en)
+   * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&as_sdt=5,48&sciodt=0,48&hl=en)
 
 ---
 
@@ -106,7 +106,7 @@ Markdown:
 
 * Mediterranean Diet, Alzheimer Disease, and Vascular Mediation doi:10.1001/archneur.63.12.noc60109
 
-  * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)
+   * [495 citations as of Jan 2023](https://scholar.google.com/scholar?cites=4080202086258424632&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en)
 
 ---
 

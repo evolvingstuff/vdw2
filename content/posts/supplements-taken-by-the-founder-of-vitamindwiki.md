@@ -31,17 +31,17 @@ categories:
 
  **Daily** 
 
-* Magnesium  **<span style="color:orange;">Co-Factor*</span>  <span style="color:orange;">VDR activate*</span>**   400 mg in water 
+* Magnesium  **<span style="color:#06F;">Co-Factor✻</span> <span style="color:#F00;">VDR activate✻</span>**   400 mg in water 
 
-  * need >100 mg average daily MgCl (bulk crystal, disolved in water)
+   * need >100 mg average daily MgCl (bulk crystal, disolved in water)
 
-* Omega-3  **<span style="color:orange;">Co-Factor*</span>**  - tend to take it the in morning,  (Coromega - tastes great)
+* Omega-3  **<span style="color:#06F;">Co-Factor✻</span>**  - tend to take it the in morning,  (Coromega - tastes great)
 
-  * Must also decrease Omega-6 to get the benefit from Omega-3: See <a href="/posts/omega-3-index-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 index - many studies">Omega-3 index home test</a>
+   * Must also decrease Omega-6 to get the benefit from Omega-3: See <a href="/posts/omega-3-index-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 index - many studies">Omega-3 index home test</a>
 
  **Every 2 days** 
 
-* Vitamin K -  **<span style="color:orange;">Co-Factor*</span>**  3 types in (Life Extension - Super K)
+* Vitamin K -  **<span style="color:#06F;">Co-Factor✻</span>**  3 types in (Life Extension - Super K)
 
 * Vitamin B100 8 types (Horbaach)
 
@@ -49,17 +49,17 @@ categories:
 
  **Every 3 days** 
 
-* Resveratrol  <span style="color:orange;">VDR activate*</span> (Nature's Essentials 10X more bio-available)
+* Resveratrol <span style="color:#F00;">VDR activate✻</span> (Nature's Essentials 10X more bio-available)
 
-* Tumeric/Curcumin  <span style="color:orange;">VDR activate*</span> (A1Vitality)
+* Tumeric/Curcumin <span style="color:#F00;">VDR activate✻</span> (A1Vitality)
 
  **Every 4 days** 
 
 * Vitamin D3  100,000 IU - with supper (Bio-Tech 50,000 IU)
 
-* Quercetin  <span style="color:orange;">VDR activate*</span> (Jarrow 500 mg)
+* Quercetin <span style="color:#F00;">VDR activate✻</span> (Jarrow 500 mg)
 
-* Boron  <span style="color:orange;">Co-Factor*</span>  - for better teeth and bones (Swanson Triple 3mg)
+* Boron <span style="color:#06F;">Co-Factor✻</span>  - for better teeth and bones (Swanson Triple 3mg)
 
 * Selenium (Piping Rock 200 mcg)
 
@@ -71,9 +71,9 @@ categories:
 
  **Every 7 days** 
 
-* Zinc - **<span style="color:orange;">Co-Factor*</span>**  (Spring Valley 50 mg)
+* Zinc - **<span style="color:#06F;">Co-Factor✻</span>**  (Spring Valley 50 mg)
 
-  * I also take sublingual Zinc every two hours to fight off colds (Nature's Way)
+   * I also take sublingual Zinc every two hours to fight off colds (Nature's Way)
 
 * Iodine - a few crystals (AZ Labs)
 
@@ -81,15 +81,15 @@ categories:
 
 ---
 
- **<span style="color:orange;">Co-Factor</span>**  
+ **<span style="color:#06F;">Co-Factor</span>**  
 
- <span style="color:orange;">Adds to the Vitamin D response</span>
+<span style="color:#06F;">Adds to the Vitamin D response</span>
 
- <span style="color:orange;">Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium</span>
+<span style="color:#06F;">Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium</span>
 
- **<span style="color:orange;">VDR activate</span>** 
+ **<span style="color:#F00;">VDR activate</span>** 
 
- <span style="color:orange;">Gets more Vitamin D from the blood actually into the cells</span>
+<span style="color:#F00;">Gets more Vitamin D from the blood actually into the cells</span>
 
 ---
 
@@ -107,7 +107,7 @@ categories:
 
 ### Receptor and Activation
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -140,17 +140,17 @@ Markdown:
 
  **Daily** 
 
-* Magnesium  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt;**   400 mg in water 
+* Magnesium  **&lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor✻&lt;/span&gt; &lt;span style=&quot;color:#F00;&quot;&gt;VDR activate✻&lt;/span&gt;**   400 mg in water 
 
-  * need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)
+   * need &gt;100 mg average daily MgCl (bulk crystal, disolved in water)
 
-* Omega-3  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;**  - tend to take it the in morning,  (Coromega - tastes great)
+* Omega-3  **&lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor✻&lt;/span&gt;**  - tend to take it the in morning,  (Coromega - tastes great)
 
-  * Must also decrease Omega-6 to get the benefit from Omega-3: See &lt;a href=&quot;/posts/omega-3-index-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 index - many studies&quot;&gt;Omega-3 index home test&lt;/a&gt;
+   * Must also decrease Omega-6 to get the benefit from Omega-3: See &lt;a href=&quot;/posts/omega-3-index-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 index - many studies&quot;&gt;Omega-3 index home test&lt;/a&gt;
 
  **Every 2 days** 
 
-* Vitamin K -  **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;**  3 types in (Life Extension - Super K)
+* Vitamin K -  **&lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor✻&lt;/span&gt;**  3 types in (Life Extension - Super K)
 
 * Vitamin B100 8 types (Horbaach)
 
@@ -158,17 +158,17 @@ Markdown:
 
  **Every 3 days** 
 
-* Resveratrol  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt; (Nature&#39;s Essentials 10X more bio-available)
+* Resveratrol &lt;span style=&quot;color:#F00;&quot;&gt;VDR activate✻&lt;/span&gt; (Nature&#39;s Essentials 10X more bio-available)
 
-* Tumeric/Curcumin  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt; (A1Vitality)
+* Tumeric/Curcumin &lt;span style=&quot;color:#F00;&quot;&gt;VDR activate✻&lt;/span&gt; (A1Vitality)
 
  **Every 4 days** 
 
 * Vitamin D3  100,000 IU - with supper (Bio-Tech 50,000 IU)
 
-* Quercetin  &lt;span style=&quot;color:orange;&quot;&gt;VDR activate*&lt;/span&gt; (Jarrow 500 mg)
+* Quercetin &lt;span style=&quot;color:#F00;&quot;&gt;VDR activate✻&lt;/span&gt; (Jarrow 500 mg)
 
-* Boron  &lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;  - for better teeth and bones (Swanson Triple 3mg)
+* Boron &lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor✻&lt;/span&gt;  - for better teeth and bones (Swanson Triple 3mg)
 
 * Selenium (Piping Rock 200 mcg)
 
@@ -180,9 +180,9 @@ Markdown:
 
  **Every 7 days** 
 
-* Zinc - **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor*&lt;/span&gt;**  (Spring Valley 50 mg)
+* Zinc - **&lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor✻&lt;/span&gt;**  (Spring Valley 50 mg)
 
-  * I also take sublingual Zinc every two hours to fight off colds (Nature&#39;s Way)
+   * I also take sublingual Zinc every two hours to fight off colds (Nature&#39;s Way)
 
 * Iodine - a few crystals (AZ Labs)
 
@@ -190,15 +190,15 @@ Markdown:
 
 ---
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Co-Factor&lt;/span&gt;**  
+ **&lt;span style=&quot;color:#06F;&quot;&gt;Co-Factor&lt;/span&gt;**  
 
- &lt;span style=&quot;color:orange;&quot;&gt;Adds to the Vitamin D response&lt;/span&gt;
+&lt;span style=&quot;color:#06F;&quot;&gt;Adds to the Vitamin D response&lt;/span&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt;Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium&lt;/span&gt;
+&lt;span style=&quot;color:#06F;&quot;&gt;Negates problems from high-dose Vitamin D: Vitamin K2-7, Magnesium&lt;/span&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;VDR activate&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#F00;&quot;&gt;VDR activate&lt;/span&gt;** 
 
- &lt;span style=&quot;color:orange;&quot;&gt;Gets more Vitamin D from the blood actually into the cells&lt;/span&gt;
+&lt;span style=&quot;color:#F00;&quot;&gt;Gets more Vitamin D from the blood actually into the cells&lt;/span&gt;
 
 ---
 
@@ -216,7 +216,7 @@ Markdown:
 
 ### Receptor and Activation
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 

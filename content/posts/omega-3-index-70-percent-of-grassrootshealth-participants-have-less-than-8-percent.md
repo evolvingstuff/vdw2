@@ -24,13 +24,13 @@ categories:
 
 1. Taking an oil form of Omega-3 without a fatty meal
 
-&nbsp;&nbsp;&nbsp;&nbsp;Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
+> Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
 
-&nbsp;&nbsp;&nbsp;&nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&qid=1703510253&sprefix=omega-3%2Bemu%2Caps%2C177&sr=8-21&th=1), for example, costs $0.86/day
+> But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&qid=1703510253&sprefix=omega-3%2Bemu%2Caps%2C177&sr=8-21&th=1), for example, costs $0.86/day
 
 1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Omega-6 oils to avoid: Corn, Saflower, Sunflower
+> Omega-6 oils to avoid: Corn, Saflower, Sunflower
 
 1. Alcohol and caffeine can also interfere with Omega-3 absorption
 
@@ -87,13 +87,13 @@ Markdown:
 
 1. Taking an oil form of Omega-3 without a fatty meal
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
+&gt; Emulsified forms of Omega-3 do not require fatty meals nor gall bladders
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&amp;keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&amp;qid=1703510253&amp;sprefix=omega-3%2Bemu%2Caps%2C177&amp;sr=8-21&amp;th=1), for example, costs $0.86/day
+&gt; But, they are more expensive: [Coromega](https://www.amazon.com/Coromega-Concentrate-Absorption-Inflammatory-Supplement/dp/B01M03VMSJ/ref=sr_1_21?crid=18QYY2C6TKWWV&amp;keywords=omega%2B3%2Bfish%2Boil%2Bemulsified&amp;qid=1703510253&amp;sprefix=omega-3%2Bemu%2Caps%2C177&amp;sr=8-21&amp;th=1), for example, costs $0.86/day
 
 1. Having a diet with excessive [Omega-6, which blocks Omega-3](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Omega-6 oils to avoid: Corn, Saflower, Sunflower
+&gt; Omega-6 oils to avoid: Corn, Saflower, Sunflower
 
 1. Alcohol and caffeine can also interfere with Omega-3 absorption
 

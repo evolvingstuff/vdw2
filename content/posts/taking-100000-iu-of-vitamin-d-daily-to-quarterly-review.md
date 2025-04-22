@@ -32,7 +32,7 @@ VICU = Ventilated Intensive Care Units Patients, RA = rheumatoid arthritis, CD =
 
 NVF = non- vertebral fractures, MVCIP = Mechanically Ventilated Critically Ill Patients;
 
-  * 100,000 IU vitamin D was administered for patients allocated into OL RCT and DB RCT;
+   * 100,000 IU vitamin D was administered for patients allocated into OL RCT and DB RCT;
 
 Background: Older adults are prone to vitamin D3 (VD3) deficiency, which may impair their health. A high dose of VD3 (HDVD3 = 100,000 IU) could improve their 25-hydroxyvitamin D3 <span>[25(OH)D]</span> level and health outcomes. However, evidence for such a beneficial effect of HDVD3 in older adults coming from clinical trials is mixed.
 
@@ -105,7 +105,7 @@ VICU = Ventilated Intensive Care Units Patients, RA = rheumatoid arthritis, CD =
 
 NVF = non- vertebral fractures, MVCIP = Mechanically Ventilated Critically Ill Patients;
 
-  * 100,000 IU vitamin D was administered for patients allocated into OL RCT and DB RCT;
+   * 100,000 IU vitamin D was administered for patients allocated into OL RCT and DB RCT;
 
 Background: Older adults are prone to vitamin D3 (VD3) deficiency, which may impair their health. A high dose of VD3 (HDVD3 = 100,000 IU) could improve their 25-hydroxyvitamin D3 &lt;span&gt;[25(OH)D]&lt;/span&gt; level and health outcomes. However, evidence for such a beneficial effect of HDVD3 in older adults coming from clinical trials is mixed.
 

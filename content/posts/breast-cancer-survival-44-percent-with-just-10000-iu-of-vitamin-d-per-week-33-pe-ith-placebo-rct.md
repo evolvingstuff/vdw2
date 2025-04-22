@@ -53,9 +53,9 @@ This study aimed to assess the effects of nutritional intervention in breast can
 
 * added and activator for the Vitamin D Receptor (which gets more vitamin D to the cells)
 
-  * Breast Cancer appears to protect itself by deactivating the Vitamin D Receptor
+   * Breast Cancer appears to protect itself by deactivating the Vitamin D Receptor
 
-#####  <span style="color:orange;">Warning: Vitamin D amplifies the killing power of about half of the chemos</span>
+##### <span style="color:#F06;">Warning: Vitamin D amplifies the killing power of about half of the chemos</span>
 
 Using <a href="/posts/chemotherapy-might-be-amplified-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be amplified by vitamin D">high dose vitamin D with chemo therapy</a> requires one of the following to avoid death
 
@@ -110,9 +110,9 @@ This study aimed to assess the effects of nutritional intervention in breast can
 
 * added and activator for the Vitamin D Receptor (which gets more vitamin D to the cells)
 
-  * Breast Cancer appears to protect itself by deactivating the Vitamin D Receptor
+   * Breast Cancer appears to protect itself by deactivating the Vitamin D Receptor
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Warning: Vitamin D amplifies the killing power of about half of the chemos&lt;/span&gt;
+##### &lt;span style=&quot;color:#F06;&quot;&gt;Warning: Vitamin D amplifies the killing power of about half of the chemos&lt;/span&gt;
 
 Using &lt;a href=&quot;/posts/chemotherapy-might-be-amplified-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Chemotherapy might be amplified by vitamin D&quot;&gt;high dose vitamin D with chemo therapy&lt;/a&gt; requires one of the following to avoid death
 

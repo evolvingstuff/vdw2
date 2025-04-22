@@ -41,7 +41,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### Risk of  <span style="color:orange;">44+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### Risk of <span style="color:#F00;">44+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -59,25 +59,25 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 1. No profit for Big Pharma
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Diabetes - A Lucrative Disease April 2023](https://www.trialsitenews.com/a/diabetes-a-lucrative-disease-86c7b78c)
+> [Diabetes - A Lucrative Disease April 2023](https://www.trialsitenews.com/a/diabetes-a-lucrative-disease-86c7b78c)
 
 1. Less income for doctors or hospitals if stop diabetes
 
 1. The Vitamin D dose needed often varies by 4X between individuals for many health problems
 
-&nbsp;&nbsp;&nbsp;&nbsp;Doctors prefer using a single dose of a drug for all patients
+> Doctors prefer using a single dose of a drug for all patients
 
 1. Doctors are unaware that small doses of vitamin D  gut-friendly can be used
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> is available on Amazon, but not in pharmacies, nor by prescription
+> <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> is available on Amazon, but not in pharmacies, nor by prescription
 
-&nbsp;&nbsp;&nbsp;&nbsp;they are uncomfortable prescribing 4,000+ IU of vitamin D
+> they are uncomfortable prescribing 4,000+ IU of vitamin D
 
-&nbsp;&nbsp;&nbsp;&nbsp;in many countries, doctors can only prescribe D2 (which does not work as well), not D3
+> in many countries, doctors can only prescribe D2 (which does not work as well), not D3
 
 1. Doctors are unaware that adding Magnesium helps prevent/treat Diabetes
 
-&nbsp;&nbsp;&nbsp;&nbsp;they often just want to use  a monotherapy
+> they often just want to use  a monotherapy
 
 1. Doctors are unaware that sometimes the Vitamin D Receptors also need to be activated
 
@@ -117,7 +117,7 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 ---
 
-#### Risk of  &lt;span style=&quot;color:orange;&quot;&gt;44+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### Risk of &lt;span style=&quot;color:#F00;&quot;&gt;44+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -135,25 +135,25 @@ In this review, we summarize current knowledge on the molecular mechanisms of vi
 
 1. No profit for Big Pharma
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[Diabetes - A Lucrative Disease April 2023](https://www.trialsitenews.com/a/diabetes-a-lucrative-disease-86c7b78c)
+&gt; [Diabetes - A Lucrative Disease April 2023](https://www.trialsitenews.com/a/diabetes-a-lucrative-disease-86c7b78c)
 
 1. Less income for doctors or hospitals if stop diabetes
 
 1. The Vitamin D dose needed often varies by 4X between individuals for many health problems
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Doctors prefer using a single dose of a drug for all patients
+&gt; Doctors prefer using a single dose of a drug for all patients
 
 1. Doctors are unaware that small doses of vitamin D  gut-friendly can be used
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;Gut-Friendly Vitamin D&lt;/a&gt; is available on Amazon, but not in pharmacies, nor by prescription
+&gt; &lt;a href=&quot;/posts/gut-friendly-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gut-Friendly Vitamin D&quot;&gt;Gut-Friendly Vitamin D&lt;/a&gt; is available on Amazon, but not in pharmacies, nor by prescription
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;they are uncomfortable prescribing 4,000+ IU of vitamin D
+&gt; they are uncomfortable prescribing 4,000+ IU of vitamin D
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;in many countries, doctors can only prescribe D2 (which does not work as well), not D3
+&gt; in many countries, doctors can only prescribe D2 (which does not work as well), not D3
 
 1. Doctors are unaware that adding Magnesium helps prevent/treat Diabetes
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;they often just want to use  a monotherapy
+&gt; they often just want to use  a monotherapy
 
 1. Doctors are unaware that sometimes the Vitamin D Receptors also need to be activated
 

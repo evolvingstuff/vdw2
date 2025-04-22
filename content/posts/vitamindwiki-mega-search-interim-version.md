@@ -18,7 +18,7 @@ Right-clicking on an item opens the link in a new tab
 
 * It will find the words only in the same order as entered
 
-  * Example: It will find Breast Cancer, but not Cancer Breast
+   * Example: It will find Breast Cancer, but not Cancer Breast
 
 <!-- ~tc~
 *Example searches: Acne, Antibiotics, 50,000, K2, Magnesium, topical, hair loss, weight loss, chronic pain, 80 ng, high risk, Australia, Myths, Facts, NCAA, FDA, Presenteeism, math mistake, hormone, debunked, sun better than  UV better than vitamin D, Loading dose 
@@ -3834,7 +3834,7 @@ Right-clicking on an item opens the link in a new tab
 
 * It will find the words only in the same order as entered
 
-  * Example: It will find Breast Cancer, but not Cancer Breast
+   * Example: It will find Breast Cancer, but not Cancer Breast
 
 &lt;!-- ~tc~
 *Example searches: Acne, Antibiotics, 50,000, K2, Magnesium, topical, hair loss, weight loss, chronic pain, 80 ng, high risk, Australia, Myths, Facts, NCAA, FDA, Presenteeism, math mistake, hormone, debunked, sun better than  UV better than vitamin D, Loading dose 

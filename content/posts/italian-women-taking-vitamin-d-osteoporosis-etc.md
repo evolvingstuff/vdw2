@@ -31,7 +31,7 @@ In recent years the possible multiple positive effects of vitamin D (antineoplas
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **<span style="color:orange;">They recommend 30-40 ng</span>** 
+ **<span style="color:#00F;">They recommend 30-40 ng</span>** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -58,7 +58,7 @@ In recent years the possible multiple positive effects of vitamin D (antineoplas
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;They recommend 30-40 ng&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#00F;&quot;&gt;They recommend 30-40 ng&lt;/span&gt;** 
 
 
 AST Structure:

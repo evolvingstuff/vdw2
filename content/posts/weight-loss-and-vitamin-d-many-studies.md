@@ -21,13 +21,13 @@ categories:
 
 * "A recent survey of more than 1,000 U.S. adults showed that 
 
-  * 18% were “somewhat interested” in taking a “safe, effective” weight loss drug, 
+   * 18% were “somewhat interested” in taking a “safe, effective” weight loss drug, 
 
-  * 27% were “very interested,” and 
+   * 27% were “very interested,” and 
 
-  * 4% said they were already using such an agent, 
+   * 4% said they were already using such an agent, 
 
-    * together constituting 49% of the surveyed adults."
+      * together constituting 49% of the surveyed adults."
 
 ---
 
@@ -53,13 +53,13 @@ Markdown:
 
 * &quot;A recent survey of more than 1,000 U.S. adults showed that 
 
-  * 18% were “somewhat interested” in taking a “safe, effective” weight loss drug, 
+   * 18% were “somewhat interested” in taking a “safe, effective” weight loss drug, 
 
-  * 27% were “very interested,” and 
+   * 27% were “very interested,” and 
 
-  * 4% said they were already using such an agent, 
+   * 4% said they were already using such an agent, 
 
-    * together constituting 49% of the surveyed adults.&quot;
+      * together constituting 49% of the surveyed adults.&quot;
 
 ---
 

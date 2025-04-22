@@ -48,7 +48,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 * polyphenols 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the management of sarcopenia.
+> &nbsp; in the management of sarcopenia.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -97,7 +97,7 @@ Sarcopenia is a syndrome characterized by a decline in muscular mass, strength, 
 
 * polyphenols 
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; in the management of sarcopenia.
+&gt; &amp;nbsp; in the management of sarcopenia.
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

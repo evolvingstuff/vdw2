@@ -21,7 +21,7 @@ categories:
 
 * "A new double-blind, placebo-controlled study published in Psychiatry and Clinical Neurosciences shows exciting potential for sulforaphane, a compound found in broccoli sprouts, to help ease symptoms of irritability and hyperactivity in children with autism spectrum disorder (ASD)."
 
-  * "After 10 weeks, the sulforaphane group showed significantly greater improvements in irritability scores and hyperactivity/noncompliance scores compared to placebo. However, no differences were seen between groups in other symptom areas like lethargy, stereotypic behavior, or inappropriate speech."
+   * "After 10 weeks, the sulforaphane group showed significantly greater improvements in irritability scores and hyperactivity/noncompliance scores compared to placebo. However, no differences were seen between groups in other symptom areas like lethargy, stereotypic behavior, or inappropriate speech."
 
 * " A study published in Psychiatry and Clinical Neurosciences found that when used as an adjunctive treatment alongside  **risperidone** , sulforaphane significantly improved symptoms of irritability and hyperactivity in children with ASD compared to placebo."
 
@@ -39,7 +39,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - The risk of  <span style="color:orange;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of <span style="color:#F00;">50+ </span> diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 
@@ -65,7 +65,7 @@ Markdown:
 
 * &quot;A new double-blind, placebo-controlled study published in Psychiatry and Clinical Neurosciences shows exciting potential for sulforaphane, a compound found in broccoli sprouts, to help ease symptoms of irritability and hyperactivity in children with autism spectrum disorder (ASD).&quot;
 
-  * &quot;After 10 weeks, the sulforaphane group showed significantly greater improvements in irritability scores and hyperactivity/noncompliance scores compared to placebo. However, no differences were seen between groups in other symptom areas like lethargy, stereotypic behavior, or inappropriate speech.&quot;
+   * &quot;After 10 weeks, the sulforaphane group showed significantly greater improvements in irritability scores and hyperactivity/noncompliance scores compared to placebo. However, no differences were seen between groups in other symptom areas like lethargy, stereotypic behavior, or inappropriate speech.&quot;
 
 * &quot; A study published in Psychiatry and Clinical Neurosciences found that when used as an adjunctive treatment alongside  **risperidone** , sulforaphane significantly improved symptoms of irritability and hyperactivity in children with ASD compared to placebo.&quot;
 
@@ -83,7 +83,7 @@ Markdown:
 
 ---
 
-#### VitaminDWiki - The risk of  &lt;span style=&quot;color:orange;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
+#### VitaminDWiki - The risk of &lt;span style=&quot;color:#F00;&quot;&gt;50+ &lt;/span&gt; diseases at least double with poor [Vitamin D Receptor](/categories/vitamin-d-receptor)
 
 ---
 

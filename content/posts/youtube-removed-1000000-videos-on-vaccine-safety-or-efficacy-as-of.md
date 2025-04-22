@@ -29,31 +29,31 @@ categories:
 
 * Examples:
 
-  * Claims that the  **[MMR vaccine](https://greenmedinfo.com/anti-therapeutic-action/vaccination-mumps-measles-rubella-mmr)**  causes autism.
+   * Claims that the  **[MMR vaccine](https://greenmedinfo.com/anti-therapeutic-action/vaccination-mumps-measles-rubella-mmr)**  causes autism.
 
-  * Claims that any [ **vaccine** ](https://greenmedinfo.com/anti-therapeutic-action/vaccination-all) causes contraction of COVID-19.
+   * Claims that any [ **vaccine** ](https://greenmedinfo.com/anti-therapeutic-action/vaccination-all) causes contraction of COVID-19.
 
-  * Claims that vaccines are part of a depopulation agenda.
+   * Claims that vaccines are part of a depopulation agenda.
 
-  * Claims that the  **[flu](https://greenmedinfo.com/disease/influenza-0)**  vaccine causes chronic side effects such as [ **infertility** ](https://greenmedinfo.com/disease/infertility), or causes contraction of COVID-19.
+   * Claims that the  **[flu](https://greenmedinfo.com/disease/influenza-0)**  vaccine causes chronic side effects such as [ **infertility** ](https://greenmedinfo.com/disease/infertility), or causes contraction of COVID-19.
 
-  * Claims that the  **[HPV](https://greenmedinfo.com/disease/human-papillomavirus-hpv)**  vaccine causes chronic side effects such as paralysis.
+   * Claims that the  **[HPV](https://greenmedinfo.com/disease/human-papillomavirus-hpv)**  vaccine causes chronic side effects such as paralysis.
 
-  * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
+   * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
 
-  * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
+   * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
 
-  * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
+   * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
 
  **Vaccine efficacy: Content claiming that vaccines do not reduce transmission or contraction of disease.** 
 
-  * Examples:
+   * Examples:
 
-    * Claims that vaccines do not reduce risk of contracting illness.
+      * Claims that vaccines do not reduce risk of contracting illness.
 
-    * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
+      * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
 
-    * Claims that any vaccine is a guaranteed prevention method for COVID-19.
+      * Claims that any vaccine is a guaranteed prevention method for COVID-19.
 
 ---
 
@@ -84,31 +84,31 @@ Markdown:
 
 * Examples:
 
-  * Claims that the  **[MMR vaccine](https://greenmedinfo.com/anti-therapeutic-action/vaccination-mumps-measles-rubella-mmr)**  causes autism.
+   * Claims that the  **[MMR vaccine](https://greenmedinfo.com/anti-therapeutic-action/vaccination-mumps-measles-rubella-mmr)**  causes autism.
 
-  * Claims that any [ **vaccine** ](https://greenmedinfo.com/anti-therapeutic-action/vaccination-all) causes contraction of COVID-19.
+   * Claims that any [ **vaccine** ](https://greenmedinfo.com/anti-therapeutic-action/vaccination-all) causes contraction of COVID-19.
 
-  * Claims that vaccines are part of a depopulation agenda.
+   * Claims that vaccines are part of a depopulation agenda.
 
-  * Claims that the  **[flu](https://greenmedinfo.com/disease/influenza-0)**  vaccine causes chronic side effects such as [ **infertility** ](https://greenmedinfo.com/disease/infertility), or causes contraction of COVID-19.
+   * Claims that the  **[flu](https://greenmedinfo.com/disease/influenza-0)**  vaccine causes chronic side effects such as [ **infertility** ](https://greenmedinfo.com/disease/infertility), or causes contraction of COVID-19.
 
-  * Claims that the  **[HPV](https://greenmedinfo.com/disease/human-papillomavirus-hpv)**  vaccine causes chronic side effects such as paralysis.
+   * Claims that the  **[HPV](https://greenmedinfo.com/disease/human-papillomavirus-hpv)**  vaccine causes chronic side effects such as paralysis.
 
-  * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
+   * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
 
-  * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
+   * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
 
-  * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
+   * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
 
  **Vaccine efficacy: Content claiming that vaccines do not reduce transmission or contraction of disease.** 
 
-  * Examples:
+   * Examples:
 
-    * Claims that vaccines do not reduce risk of contracting illness.
+      * Claims that vaccines do not reduce risk of contracting illness.
 
-    * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
+      * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
 
-    * Claims that any vaccine is a guaranteed prevention method for COVID-19.
+      * Claims that any vaccine is a guaranteed prevention method for COVID-19.
 
 ---
 

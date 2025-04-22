@@ -299,7 +299,7 @@ More recently:
 
 ---
 
-####  <span style="color:orange;">10</span> pages in Cancer - after diagnosis have RADIATION in the title
+#### <span style="color:#F06;">10</span> pages in Cancer - after diagnosis have RADIATION in the title
 
 <!-- {LIST()}
 {list max="50"}
@@ -609,7 +609,7 @@ More recently:
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;10&lt;/span&gt; pages in Cancer - after diagnosis have RADIATION in the title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;10&lt;/span&gt; pages in Cancer - after diagnosis have RADIATION in the title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

@@ -138,7 +138,7 @@ Vitamin D supplementation is likely beneficial for most types of cancers, especi
 
 ---
 
-####  <span style="color:orange;">5+</span>  VitaminDWiki LOADING DOSE pages with CANCER etc in title
+#### <span style="color:#F06;">5+</span>  VitaminDWiki LOADING DOSE pages with CANCER etc in title
 
 <!-- {LIST()}
 {list max="50"}
@@ -323,7 +323,7 @@ Vitamin D supplementation is likely beneficial for most types of cancers, especi
 
 ---
 
-####  &lt;span style=&quot;color:orange;&quot;&gt;5+&lt;/span&gt;  VitaminDWiki LOADING DOSE pages with CANCER etc in title
+#### &lt;span style=&quot;color:#F06;&quot;&gt;5+&lt;/span&gt;  VitaminDWiki LOADING DOSE pages with CANCER etc in title
 
 &lt;!-- {LIST()}
 {list max=&quot;50&quot;}

@@ -55,11 +55,11 @@ Synchronicity between the many peaks in ACM (in 17 countries, on 4 continents, i
 
 The all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).
 
-#####  <span style="color:orange;">17.0 ± 0.5 million COVID-19 vaccine deaths</span>
+##### <span style="color:#00F;">17.0 ± 0.5 million COVID-19 vaccine deaths</span>
 
 We quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.
 
-#####  <span style="color:orange;">Death rate 1000X higher than reported in clinical trials (which used a different process)</span>
+##### <span style="color:#00F;">Death rate 1000X higher than reported in clinical trials (which used a different process)</span>
 
 The overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).
 
@@ -120,11 +120,11 @@ Synchronicity between the many peaks in ACM (in 17 countries, on 4 continents, i
 
 The all-ages vaccine-dose fatality rate (vDFR), which is the ratio of inferred vaccine- induced deaths to vaccine doses delivered in a population, is quantified for the January- February 2022 ACM peak to fall in the range 0.02 % (New Zealand) to 0.20 % (Uruguay). In Chile and Peru, the vDFR increases exponentially with age (doubling approximately every 4 years of age), and is largest for the latest booster doses, reaching approximately 5 % in the 90+ years age groups (1 death per 20 injections of dose 4). Comparable results occur for the Northern Hemisphere, as found in previous articles (India, Israel, USA).
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;17.0 ± 0.5 million COVID-19 vaccine deaths&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;17.0 ± 0.5 million COVID-19 vaccine deaths&lt;/span&gt;
 
 We quantify the overall all-ages vDFR for the 17 countries to be (0.126 ± 0.004) %, which would imply 17.0 ± 0.5 million COVID-19 vaccine deaths worldwide, from 13.50 billion injections up to 2 September 2023. This would correspond to a mass iatrogenic event that killed (0.213 ± 0.006) % of the world population (1 death per 470 living persons, in less than 3 years), and did not measurably prevent any deaths.
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Death rate 1000X higher than reported in clinical trials (which used a different process)&lt;/span&gt;
+##### &lt;span style=&quot;color:#00F;&quot;&gt;Death rate 1000X higher than reported in clinical trials (which used a different process)&lt;/span&gt;
 
 The overall risk of death induced by injection with the COVID-19 vaccines in actual populations, inferred from excess all-cause mortality and its synchronicity with rollouts, is globally pervasive and much larger than reported in clinical trials, adverse effect monitoring, and cause-of-death statistics from death certificates, by 3 orders of magnitude (1,000-fold greater).
 

@@ -23,7 +23,7 @@ Zeyu Zhang 1, Gang Zhang 1, Jindang Cao 2, Baoqin Qiu 2, Xiaoyu Qin 2, Jinbiao Z
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
-The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **<span style="color:orange;">0, 25, 50 and 75 µg/kg in the diet</span>**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p < 0.05) and body weight (p < 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
+The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **<span style="color:#00F;">0, 25, 50 and 75 µg/kg in the diet</span>**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p < 0.05) and body weight (p < 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
 
 Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p <; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p < 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p < 0.05). 
 
@@ -54,7 +54,7 @@ Zeyu Zhang 1, Gang Zhang 1, Jindang Cao 2, Baoqin Qiu 2, Xiaoyu Qin 2, Jinbiao Z
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
-The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **&lt;span style=&quot;color:orange;&quot;&gt;0, 25, 50 and 75 µg/kg in the diet&lt;/span&gt;**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
+The study was conducted to evaluate the effects of 25(OH)VD3 with different inclusion levels of **&lt;span style=&quot;color:#00F;&quot;&gt;0, 25, 50 and 75 µg/kg in the diet&lt;/span&gt;**  on growth performance, nutrient digestibility, bone properties and pork quality in growing-finishing pigs. The results showed that the average daily gain (p &lt; 0.05) and body weight (p &lt; 0.10) of pigs showed a trend of increasing quadratically as inclusion levels of 25(OH)VD3 increased.
 
 Dietary supplementation of 50 µg/kg 25(OH)VD3 increased calcium digestibility compared with the 0 µg/kg group (p &lt;; 0.05), and calcium and phosphorus digestibility increased quadratically as inclusion levels of 25(OH)VD3 increased (p &lt; 0.05). Dietary supplementation of 50 µg/kg 25(OH)VD3  **increased concentrations of polyunsaturated fatty acids, and decreased contents of saturated and monounsaturated fatty acids**  in the longissimus dorsi of pigs (p &lt; 0.05). 
 

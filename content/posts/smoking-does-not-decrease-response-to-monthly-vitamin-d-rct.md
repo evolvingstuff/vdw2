@@ -74,7 +74,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-#####  <span style="color:orange;">16 </span>studies cited this in [Google Scholar](https://scholar.google.com/scholar?cites=14672117418679017834&as_sdt=5,48&sciodt=0,48&hl=en) as of April 2023
+##### <span style="color:#F06;">16 </span>studies cited this in [Google Scholar](https://scholar.google.com/scholar?cites=14672117418679017834&as_sdt=5,48&sciodt=0,48&hl=en) as of April 2023
 
 ---
 
@@ -153,7 +153,7 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;16 &lt;/span&gt;studies cited this in [Google Scholar](https://scholar.google.com/scholar?cites=14672117418679017834&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en) as of April 2023
+##### &lt;span style=&quot;color:#F06;&quot;&gt;16 &lt;/span&gt;studies cited this in [Google Scholar](https://scholar.google.com/scholar?cites=14672117418679017834&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en) as of April 2023
 
 ---
 

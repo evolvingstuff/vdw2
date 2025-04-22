@@ -48,7 +48,7 @@ Conclusions
 
 "In a prospective study from 2016, vitamin D supplementation in pregnancy among mothers of children with autism decreased the recurrence rate of autism in newborn siblings from previously reported 20% to 5%.(41) These mothers were prescribed 5000 IU vitamin D3 per day during pregnancy..."
 
- **<span style="color:orange;">Wonder why this study did not also use 5,000 IU</span>** 
+ **<span style="color:#F00;">Wonder why this study did not also use 5,000 IU</span>** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -116,7 +116,7 @@ Conclusions
 
 &quot;In a prospective study from 2016, vitamin D supplementation in pregnancy among mothers of children with autism decreased the recurrence rate of autism in newborn siblings from previously reported 20% to 5%.(41) These mothers were prescribed 5000 IU vitamin D3 per day during pregnancy...&quot;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Wonder why this study did not also use 5,000 IU&lt;/span&gt;** 
+ **&lt;span style=&quot;color:#F00;&quot;&gt;Wonder why this study did not also use 5,000 IU&lt;/span&gt;** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

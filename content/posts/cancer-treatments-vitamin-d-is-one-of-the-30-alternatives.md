@@ -1633,7 +1633,7 @@ As almost all patients with cancer are severely vitamin D deficient. A high load
 
 ---
 
-#### Vitamin D also PREVENTS some Cancers <span style="color:orange;">52+</span> studies
+#### Vitamin D also PREVENTS some Cancers<span style="color:#F09;">52+</span> studies
 
 <!-- {LIST()}
 {filter type="wiki page"}
@@ -3290,7 +3290,7 @@ As almost all patients with cancer are severely vitamin D deficient. A high load
 
 ---
 
-#### Vitamin D also PREVENTS some Cancers &lt;span style=&quot;color:orange;&quot;&gt;52+&lt;/span&gt; studies
+#### Vitamin D also PREVENTS some Cancers&lt;span style=&quot;color:#F09;&quot;&gt;52+&lt;/span&gt; studies
 
 &lt;!-- {LIST()}
 {filter type=&quot;wiki page&quot;}

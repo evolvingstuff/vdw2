@@ -47,11 +47,11 @@ categories:
 
 * Will no longer have milk with my chocolate or blueberries - it cancels the health benefits
 
-  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&ab_channel=ModernHealthspan) (video)
+   * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&ab_channel=ModernHealthspan) (video)
 
-  * "Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine."
+   * "Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine."
 
-  * two cents per mg. from wheat germ page 36, need about 20 mg/day
+   * two cents per mg. from wheat germ page 36, need about 20 mg/day
 
 Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting Healthier as You Get Older (p. 35). Flatiron Books. Kindle Edition.
 
@@ -71,37 +71,37 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 * "Alzheimer's" occurs 417 times in his book
 
-  * See related: [End of Alzheimer's videos, transcripts and many studies](/posts/end-of-alzheimers-videos-transcripts-and-many-studies)
+   * See related: [End of Alzheimer's videos, transcripts and many studies](/posts/end-of-alzheimers-videos-transcripts-and-many-studies)
 
 * Video sections
 
-  * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=0s) The best longevity books
+   * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=0s) The best longevity books
 
-  * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=109s) The worst longevity books
+   * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=109s) The worst longevity books
 
-  * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=223s) How Not To Age
+   * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=223s) How Not To Age
 
-  * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=381s) Fact-checking Dr. Greger
+   * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=381s) Fact-checking Dr. Greger
 
-  * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=504s) Why a book on aging
+   * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=504s) Why a book on aging
 
-  * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=912s) The main pathways of aging
+   * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=912s) The main pathways of aging
 
-  * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1528s) Hormesis
+   * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1528s) Hormesis
 
-  * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1784s) Is Dr. Greger biased?
+   * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=1784s) Is Dr. Greger biased?
 
-  * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2087s) Alzheimer's
+   * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2087s) Alzheimer's
 
-  * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2509s) Protein
+   * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2509s) Protein
 
-  * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2990s) Browning/cooking food
+   * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=2990s) Browning/cooking food
 
-  * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3415s) Plant-based America
+   * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3415s) Plant-based America
 
-  * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3677s) Beef & chicken
+   * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=3677s) Beef & chicken
 
-  * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=4620s) How good is How Not to Age?
+   * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&t=4620s) How good is How Not to Age?
 
  **He later made: [16 Longevity books compared in a video - Dec 2023](/posts/16-longevity-books-compared-in-a-video)** 
 
@@ -274,7 +274,7 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 * <a href="/posts/bird-flu-could-mutate-to-be-far-worse-of-a-pandemic-than-covid-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020">Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020</a>
 
-  * " How to Survive a Pandemic" book
+   * " How to Survive a Pandemic" book
 
 ---
 
@@ -335,11 +335,11 @@ Markdown:
 
 * Will no longer have milk with my chocolate or blueberries - it cancels the health benefits
 
-  * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&amp;ab_channel=ModernHealthspan) (video)
+   * Spermidine increases [autophagy and lifespan](https://www.youtube.com/watch?v=rikOpH6_TgE&amp;ab_channel=ModernHealthspan) (video)
 
-  * &quot;Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine.&quot;
+   * &quot;Researchers looked at 146 different nutrients in their diet, and the component most predictive of longevity was spermidine.&quot;
 
-  * two cents per mg. from wheat germ page 36, need about 20 mg/day
+   * two cents per mg. from wheat germ page 36, need about 20 mg/day
 
 Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting Healthier as You Get Older (p. 35). Flatiron Books. Kindle Edition.
 
@@ -359,37 +359,37 @@ Greger, M.D., Michael, FACLM. How Not to Age: The Scientific Approach to Getting
 
 * &quot;Alzheimer&#39;s&quot; occurs 417 times in his book
 
-  * See related: [End of Alzheimer&#39;s videos, transcripts and many studies](/posts/end-of-alzheimers-videos-transcripts-and-many-studies)
+   * See related: [End of Alzheimer&#39;s videos, transcripts and many studies](/posts/end-of-alzheimers-videos-transcripts-and-many-studies)
 
 * Video sections
 
-  * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=0s) The best longevity books
+   * [0:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=0s) The best longevity books
 
-  * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=109s) The worst longevity books
+   * [1:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=109s) The worst longevity books
 
-  * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=223s) How Not To Age
+   * [3:43](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=223s) How Not To Age
 
-  * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=381s) Fact-checking Dr. Greger
+   * [6:21](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=381s) Fact-checking Dr. Greger
 
-  * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=504s) Why a book on aging
+   * [8:24](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=504s) Why a book on aging
 
-  * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=912s) The main pathways of aging
+   * [15:12](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=912s) The main pathways of aging
 
-  * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1528s) Hormesis
+   * [25:28](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1528s) Hormesis
 
-  * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1784s) Is Dr. Greger biased?
+   * [29:44](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=1784s) Is Dr. Greger biased?
 
-  * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2087s) Alzheimer&#39;s
+   * [34:47](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2087s) Alzheimer&#39;s
 
-  * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2509s) Protein
+   * [41:49](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2509s) Protein
 
-  * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2990s) Browning/cooking food
+   * [49:50](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=2990s) Browning/cooking food
 
-  * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3415s) Plant-based America
+   * [56:55](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3415s) Plant-based America
 
-  * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3677s) Beef &amp; chicken
+   * [1:01:17](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=3677s) Beef &amp; chicken
 
-  * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=4620s) How good is How Not to Age?
+   * [1:17:00](https://www.youtube.com/watch?v=Xc6cYyL3CxM&amp;t=4620s) How good is How Not to Age?
 
  **He later made: [16 Longevity books compared in a video - Dec 2023](/posts/16-longevity-books-compared-in-a-video)** 
 
@@ -562,7 +562,7 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 * &lt;a href=&quot;/posts/bird-flu-could-mutate-to-be-far-worse-of-a-pandemic-than-covid-greger&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020&quot;&gt;Bird flu could mutate to be far worse of a pandemic than COVID - Greger Aug 2020&lt;/a&gt;
 
-  * &quot; How to Survive a Pandemic&quot; book
+   * &quot; How to Survive a Pandemic&quot; book
 
 ---
 
