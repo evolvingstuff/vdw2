@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test-page/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/our-world-in-data-vitamin-d-deficiency-map-2023/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/16-percent-of-people-getting-covid-19-vaccination-had-uveitis-middle-eye-infection-within-1-year/</loc>

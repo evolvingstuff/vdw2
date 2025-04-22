@@ -20,6 +20,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
       table = true
       taskList = true
       typographer = true
+  
+  # Table of Contents Configuration
+  [markup.tableOfContents]
+    startLevel = 2    # Start with H2
+    endLevel = 4      # End with H4
+    ordered = false   # Use bullet points
 
 [taxonomies]
   category = "categories"

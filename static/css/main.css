@@ -237,3 +237,49 @@ tr:hover {
     opacity: 0.5;
     color: #777;
 }
+
+/* Table of Contents styling */
+#TableOfContents {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px 20px;
+    margin: 20px 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    max-width: 800px;
+}
+
+#TableOfContents::before {
+    content: "Contents";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #333;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 5px;
+}
+
+#TableOfContents ul,
+#TableOfContents li {
+    list-style-type: none !important;
+    padding-left: 0;
+}
+
+#TableOfContents li li {
+    padding-left: 20px;
+}
+
+#TableOfContents li {
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+#TableOfContents a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+#TableOfContents a:hover {
+    text-decoration: underline;
+}

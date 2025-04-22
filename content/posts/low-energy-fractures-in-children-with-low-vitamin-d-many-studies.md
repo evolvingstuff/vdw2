@@ -11,6 +11,10 @@ categories:
 ---
 
 
+{{< toc >}} 
+
+---
+
 #### 4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023
 
  **Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases** 
@@ -144,3 +148,583 @@ Conclusions: Children with LEF were more frequently insufficient in 25-hydroxyvi
 
 ##### VitaminDWiki - <a href="/posts/the-vitamin-deficiency-signs-that-can-send-you-to-prison" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014">The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014</a>
 
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}} 
+
+---
+
+#### 4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023
+
+ **Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases** 
+
+J Pediatr Orthop B . 2023 Feb 8. [doi: 10.1097/BPB.0000000000001061](https://doi.org/10.1097/BPB.0000000000001061)
+
+Elio Assaf 1, Elisabeth Mohs 1, Franz-J Dally 1, Svetlana Hetjens 2, Sascha Gravius 1, Ali Darwich 1
+
+The objective is to document the rate of vitamin D deficiency and insufficiency among children with low-energy fractures and compare it to fracture-free control group. We included all children under 15 years presenting to the emergency department with low-energy fractures; controls were children without history of fractures from the outpatient department. Conventional X-ray and laboratory blood tests were performed. Vitamin D deficiency was defined as serum level ≤20 ng/ml, and the mean values were compared through two-sample t-tests. The influence of vitamin D on the fractures was defined using Chi-square test, significance with P-value &lt; 0.05. The relationships between variables and odds of fracture occurrence were examined using logistic regression models. The final sample included 37 cases (30 males, 7 females, 7.4 ± 3.7 years) and 70 control individuals (42 males, 28 females, 7.8 ± 4.6 years) without significant differences regarding age, sex, and month of inclusion. 
+
+Children with fractures had lower levels of vitamin D (21.87 ± 8.40 ng/ml vs. 25.89 ± 7.62 ng/ml) (P = 0.01). 
+
+Vitamin D played a protective role against low-energy fractures (OR, 1.08; 95% CI, 1.01-1.14; P = 0.02), 
+
+boys showed three times greater fracture risk than girls (OR, 3.00; 95% CI, 1.12-8.07; P = 0.03). 
+
+Finally, vitamin D deficiency correlated with almost five times  **increased risk of pediatric low-energy fractures (OR, 4.63** ; 95% CI, 1.92-11.18; P = 0.001). This is the first MENA study establishing a relation between vitamin D deficiency and low-energy fractures among children and adolescents. The findings show the protective role of vitamin D on the pediatric bone and may help physicians preventing morbidity on children and costs on their families and the socioeconomic health system.
+
+---
+
+#### Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021
+
+ **Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis** 
+
+Journal of Bone and Mineral Metabolism volume 39, pages 851–857 (2021) https://doi.org/10.1007/s00774-021-01238-x
+
+References are online, Publisher charges $40 for the PDF
+
+Chong Zheng, Hao Li, Shuai Rong, Liantao Liu, Kepei Zhen &amp; Kewei Li 
+
+##### Suspect that this study looked at total of both low and high energy fractures
+
+Introduction
+
+The aim of the study was to determine the relationship between vitamin D levels and the risk of bone fractures in children and adolescents.
+
+Materials and methods
+
+PubMed, Embase, and Cochrane library databases were searched using subject and free words. The Newcastle–Ottawa scale form was used to assess literature quality. ReVman 5.2 and Stata 13.0 were used for statistical analyses. The results were expressed as the mean difference (MD)/odds ratio (OR) and 95% confidence interval (95% CI). The heterogeneity test was conducted according to I2 and Q tests. Egger’s test was used to evaluate publication bias.
+
+Results
+
+Thirteen studies (3943 participants ≤ 18 years old) were included, and the quality of the literature was acceptable. Regarding the 25-hydroxyvitamin D (25OHD) level in the random effects model, the MD = − 0.12 ng/mL (95% CI: −1.93, 1.69), I2 = 83%, and P &lt; 0.00001, indicating large heterogeneity. Subgroup analyses were conducted according to vitamin D supplementation and 25OHD level, the sources of heterogeneity were not found. Regarding the proportion of subjects with vitamin D deficiency in the random effects model, OR = 1.09 (95% CI: 0.67, 1.79), I2 = 79%, and P &lt; 0.0001. By sensitivity analysis, after removing Al-Daghri’s study, OR = 1.22 (95% CI: 0.96, 1.56), I2 = 0%, and P = 0.64.
+
+Conclusion
+
+There is no relationship between vitamin D level and the risk of bone fractures in children and adolescents.
+
+---
+
+#### Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022
+
+ **High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial** 
+
+eClinicalMedicine Volume 43, January 2022, 101254 https://doi.org/10.1016/j.eclinm.2021.101254
+
+Exposure to vitamin D in early life has been associated with improved bone mineralization, but no studies have investigated the combined effect of pregnancy supplementation and childhood 25(OH)D concentrations on bone health.
+
+Methods
+
+We analyzed the effect of serum 25(OH)D concentrations at age 6 months and 6 years and the combined effect with prenatal  **high-dose vitamin D (2800** vs. 400 IU/day) on bone mineral density (BMD) and content (BMC) assessed by dual-energy X-ray absorptiometry (DXA) scans at age 3 and 6 years and longitudinal risk of fractures in a double-blinded, randomized clinical trial in the Copenhagen Prospective Studies on Asthma in Childhood 2010 (COPSAC2010) mother-child cohort with enrollment from March 4, 2009, to November 17, 2010, and clinical follow-up until January 31, 2019 (NCT00856947). All participants randomized to intervention and with complete data were included in the analyses.
+
+Findings
+
+At age 6 months, serum 25(OH)D concentration was measured in 93% (n = 541) of 584 children. Children with sufficient (≥ 75 nmol/l) vs. insufficient (&lt; 75 nmol/l) concentrations did not have lower risk of fractures: incidence rate ratio (95% CI); 0.64 (0.37;1.11), p = 0.11. 
+
+However, vitamin D sufficient children from mothers receiving high-dose supplementation during pregnancy had a  **60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose** : 0.40 (0.19;0.84), p = 0.02.
+
+At age 6 years, serum 25(OH)D concentration was measured in 83% (n = 318) of 383 children with available DXA data. Whole-body bone mineralization was higher in vitamin D sufficient children at age 6 years; BMD, adjusted mean difference (aMD) (95% CI): 0.011 g/cm2 (0.001;0.021), p = 0.03, and BMC, aMD: 12.3 g (-0.8;25.4), p = 0.07, with the largest effect in vitamin D sufficient children from mothers receiving high-dose vitamin D supplementation; BMD, aMD: 0.016 g/cm2 (0.002;0.030), p = 0.03, and BMC, aMD: 23.5 g (5.5;41.5), p = 0.01.
+
+Interpretation
+
+Childhood vitamin D sufficiency improved bone mineralization and in combination with prenatal high-dose vitamin D supplementation reduced the risk of fractures.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022
+
+ **Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures** 
+
+Children 2022, 9(5), 762; https://doi.org/10.3390/children9050762
+
+Background: The forearm is the most common fracture site in childhood, accounting for every fourth pediatric fracture. It is well described that vitamin D is involved in the regulation of bone mineralization and skeletal homeostasis by the regulation of calcium absorption. The aim of our study was to determine the influence of 25-hydroxyvitamin D levels on forearm fracture falls in a pediatric population, depending on level of energy impact. Additionally, we also aimed to evaluate the correlation between 25-hydroxyvitamin D levels and other tested risk factors for pediatric fractures. 
+
+Methods: We evaluated 50 eligible children aged 3 to 12 years with a forearm fracture. According to energy impact, patients were grouped into low-energy fractures (LEF) and high-energy fractures (HEF) groups. The general characteristics of the patients included age, gender, sport participation, and fractured bone and its localization. We analyzed 25-hydroxyvitamin D, parathyroid hormone (PTH), calcium, magnesium, phosphate, C-reactive protein (CRP) levels, and body mass index (BMI). 
+
+Results: There is a significant difference in the 25-hydroxyvitamin D levels distribution between LEF and HEF (p &lt; 0.001) and PTH levels (p = 0.002). For magnesium levels, calcium levels, phosphate levels, and CRP levels, there were no significant differences in their frequency distribution. For the group of patients with LEF, there is a significantly positive correlation between 25-hydroxyvitamin D and calcium levels (p = 0.019) and a borderline significantly positive correlation between 25-hydroxyvitamin D and magnesium levels (p = 0.050). For the group of patients with HEF, there was only a significantly positive correlation between 25-hydroxyvitamin D and PTH levels (p &lt; 0.001). 
+
+Conclusions: Children with LEF were more frequently insufficient in 25-hydroxyvitamin D levels but had normal calcium levels, compared to the ones with HEF. These findings suggest that LEF and HEF in children might to a certain degree have different pathophysiological mechanisms.
+
+ **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
+
+---
+
+#### Low and high energy fractures in Children- May 2022
+
+ **Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures**  &amp;nbsp; [10.3390/children905076](10.3390/children905076)  FREE PDF
+
+---
+
+#### Infant bone fractures sometimes diagnosed as child abuse
+
+ **4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title** 
+
+&lt;!-- {LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;109&quot;}
+{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST} --&gt;
+
+---
+
+##### VitaminDWiki - &lt;a href=&quot;/posts/childhood-fractures-consensus-report-on-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Childhood Fractures – consensus report on vitamin D – Feb 2016&quot;&gt;Childhood Fractures – consensus report on vitamin D – Feb 2016&lt;/a&gt;
+
+---
+
+##### VitaminDWiki - &lt;a href=&quot;/posts/hospital-has-banned-dr-holick-due-to-testifying-in-cases-of-infants-with-broken-bones-august-2021&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021&quot;&gt;Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021&lt;/a&gt;
+
+---
+
+##### VitaminDWiki - &lt;a href=&quot;/posts/the-vitamin-deficiency-signs-that-can-send-you-to-prison&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014&quot;&gt;The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014&lt;/a&gt;
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV}`
+│   inner_content: `{maketoc}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content: ├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023`
+│   inner_content: `4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023`
+│   │   inner_content: `4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases__`
+│   inner_content: `Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases`
+│   │   inner_content: `Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases`├── TextNode
+│   full_match: `\nJ Pediatr Orthop B . 2023 Feb 8. `
+│   inner_content: `\nJ Pediatr Orthop B . 2023 Feb 8. `├── DoiLinkNode
+│   full_match: `doi: 10.1097/BPB.0000000000001061`
+│   inner_content: `10.1097/BPB.0000000000001061`├── TextNode
+│   full_match: `\nElio Assaf 1, Elisabeth Mohs 1, Franz-J Dally 1, Svetlana Hetjens 2, Sascha Gravius 1, Ali Darwich 1\n\nThe objective is to document the rate of vitamin D deficiency and insufficiency among children with low-energy fractures and compare it to fracture-free control group. We included all children under 15 years presenting to the emergency department with low-energy fractures; controls were children without history of fractures from the outpatient department. Conventional X-ray and laboratory blood tests were performed. Vitamin D deficiency was defined as serum level ≤20 ng/ml, and the mean values were compared through two-sample t-tests. The influence of vitamin D on the fractures was defined using Chi-square test, significance with P-value &lt; 0.05. The relationships between variables and odds of fracture occurrence were examined using logistic regression models. The final sample included 37 cases (30 males, 7 females, 7.4 ± 3.7 years) and 70 control individuals (42 males, 28 females, 7.8 ± 4.6 years) without significant differences regarding age, sex, and month of inclusion. \nChildren with fractures had lower levels of vitamin D (21.87 ± 8.40 ng/ml vs. 25.89 ± 7.62 ng/ml) (P = 0.01). \nVitamin D played a protective role against low-energy fractures (OR, 1.08; 95% CI, 1.01-1.14; P = 0.02), \nboys showed three times greater fracture risk than girls (OR, 3.00; 95% CI, 1.12-8.07; P = 0.03). \nFinally, vitamin D deficiency correlated with almost five times `
+│   inner_content: `\nElio Assaf 1, Elisabeth Mohs 1, Franz-J Dally 1, Svetlana Hetjens 2, Sascha Gravius 1, Ali Darwich 1\n\nThe objective is to document the rate of vitamin D deficiency and insufficiency among children with low-energy fractures and compare it to fracture-free control group. We included all children under 15 years presenting to the emergency department with low-energy fractures; controls were children without history of fractures from the outpatient department. Conventional X-ray and laboratory blood tests were performed. Vitamin D deficiency was defined as serum level ≤20 ng/ml, and the mean values were compared through two-sample t-tests. The influence of vitamin D on the fractures was defined using Chi-square test, significance with P-value &lt; 0.05. The relationships between variables and odds of fracture occurrence were examined using logistic regression models. The final sample included 37 cases (30 males, 7 females, 7.4 ± 3.7 years) and 70 control individuals (42 males, 28 females, 7.8 ± 4.6 years) without significant differences regarding age, sex, and month of inclusion. \nChildren with fractures had lower levels of vitamin D (21.87 ± 8.40 ng/ml vs. 25.89 ± 7.62 ng/ml) (P = 0.01). \nVitamin D played a protective role against low-energy fractures (OR, 1.08; 95% CI, 1.01-1.14; P = 0.02), \nboys showed three times greater fracture risk than girls (OR, 3.00; 95% CI, 1.12-8.07; P = 0.03). \nFinally, vitamin D deficiency correlated with almost five times `├── BoldNode
+│   full_match: `__increased risk of pediatric low-energy fractures (OR, 4.63__`
+│   inner_content: `increased risk of pediatric low-energy fractures (OR, 4.63`
+│   children:
+│   ├── TextNode
+│   │   full_match: `increased risk of pediatric low-energy fractures (OR, 4.63`
+│   │   inner_content: `increased risk of pediatric low-energy fractures (OR, 4.63`├── TextNode
+│   full_match: `; 95% CI, 1.92-11.18; P = 0.001). This is the first MENA study establishing a relation between vitamin D deficiency and low-energy fractures among children and adolescents. The findings show the protective role of vitamin D on the pediatric bone and may help physicians preventing morbidity on children and costs on their families and the socioeconomic health system.`
+│   inner_content: `; 95% CI, 1.92-11.18; P = 0.001). This is the first MENA study establishing a relation between vitamin D deficiency and low-energy fractures among children and adolescents. The findings show the protective role of vitamin D on the pediatric bone and may help physicians preventing morbidity on children and costs on their families and the socioeconomic health system.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021`
+│   inner_content: `Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021`
+│   │   inner_content: `Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis__`
+│   inner_content: `Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis`
+│   │   inner_content: `Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis`├── TextNode
+│   full_match: `\nJournal of Bone and Mineral Metabolism volume 39, pages 851–857 (2021) https://doi.org/10.1007/s00774-021-01238-x\nReferences are online, Publisher charges $40 for the PDF\nChong Zheng, Hao Li, Shuai Rong, Liantao Liu, Kepei Zhen &amp; Kewei Li \n`
+│   inner_content: `\nJournal of Bone and Mineral Metabolism volume 39, pages 851–857 (2021) https://doi.org/10.1007/s00774-021-01238-x\nReferences are online, Publisher charges $40 for the PDF\nChong Zheng, Hao Li, Shuai Rong, Liantao Liu, Kepei Zhen &amp; Kewei Li \n`├── HeadingNode
+│   full_match: `!!!!!Suspect that this study looked at total of both low and high energy fractures`
+│   inner_content: `Suspect that this study looked at total of both low and high energy fractures`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Suspect that this study looked at total of both low and high energy fractures`
+│   │   inner_content: `Suspect that this study looked at total of both low and high energy fractures`├── TextNode
+│   full_match: `\nIntroduction\nThe aim of the study was to determine the relationship between vitamin D levels and the risk of bone fractures in children and adolescents.\n\nMaterials and methods\nPubMed, Embase, and Cochrane library databases were searched using subject and free words. The Newcastle–Ottawa scale form was used to assess literature quality. ReVman 5.2 and Stata 13.0 were used for statistical analyses. The results were expressed as the mean difference (MD)/odds ratio (OR) and 95% confidence interval (95% CI). The heterogeneity test was conducted according to I2 and Q tests. Egger’s test was used to evaluate publication bias.\n\nResults\nThirteen studies (3943 participants ≤ 18 years old) were included, and the quality of the literature was acceptable. Regarding the 25-hydroxyvitamin D (25OHD) level in the random effects model, the MD = − 0.12 ng/mL (95% CI: −1.93, 1.69), I2 = 83%, and P &lt; 0.00001, indicating large heterogeneity. Subgroup analyses were conducted according to vitamin D supplementation and 25OHD level, the sources of heterogeneity were not found. Regarding the proportion of subjects with vitamin D deficiency in the random effects model, OR = 1.09 (95% CI: 0.67, 1.79), I2 = 79%, and P &lt; 0.0001. By sensitivity analysis, after removing Al-Daghri’s study, OR = 1.22 (95% CI: 0.96, 1.56), I2 = 0%, and P = 0.64.\n\nConclusion\nThere is no relationship between vitamin D level and the risk of bone fractures in children and adolescents.`
+│   inner_content: `\nIntroduction\nThe aim of the study was to determine the relationship between vitamin D levels and the risk of bone fractures in children and adolescents.\n\nMaterials and methods\nPubMed, Embase, and Cochrane library databases were searched using subject and free words. The Newcastle–Ottawa scale form was used to assess literature quality. ReVman 5.2 and Stata 13.0 were used for statistical analyses. The results were expressed as the mean difference (MD)/odds ratio (OR) and 95% confidence interval (95% CI). The heterogeneity test was conducted according to I2 and Q tests. Egger’s test was used to evaluate publication bias.\n\nResults\nThirteen studies (3943 participants ≤ 18 years old) were included, and the quality of the literature was acceptable. Regarding the 25-hydroxyvitamin D (25OHD) level in the random effects model, the MD = − 0.12 ng/mL (95% CI: −1.93, 1.69), I2 = 83%, and P &lt; 0.00001, indicating large heterogeneity. Subgroup analyses were conducted according to vitamin D supplementation and 25OHD level, the sources of heterogeneity were not found. Regarding the proportion of subjects with vitamin D deficiency in the random effects model, OR = 1.09 (95% CI: 0.67, 1.79), I2 = 79%, and P &lt; 0.0001. By sensitivity analysis, after removing Al-Daghri’s study, OR = 1.22 (95% CI: 0.96, 1.56), I2 = 0%, and P = 0.64.\n\nConclusion\nThere is no relationship between vitamin D level and the risk of bone fractures in children and adolescents.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022`
+│   inner_content: `Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022`
+│   │   inner_content: `Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial__`
+│   inner_content: `High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial`
+│   children:
+│   ├── TextNode
+│   │   full_match: `High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial`
+│   │   inner_content: `High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial`├── TextNode
+│   full_match: `\neClinicalMedicine Volume 43, January 2022, 101254 https://doi.org/10.1016/j.eclinm.2021.101254\n\nExposure to vitamin D in early life has been associated with improved bone mineralization, but no studies have investigated the combined effect of pregnancy supplementation and childhood 25(OH)D concentrations on bone health.\n\nMethods\nWe analyzed the effect of serum 25(OH)D concentrations at age 6 months and 6 years and the combined effect with prenatal `
+│   inner_content: `\neClinicalMedicine Volume 43, January 2022, 101254 https://doi.org/10.1016/j.eclinm.2021.101254\n\nExposure to vitamin D in early life has been associated with improved bone mineralization, but no studies have investigated the combined effect of pregnancy supplementation and childhood 25(OH)D concentrations on bone health.\n\nMethods\nWe analyzed the effect of serum 25(OH)D concentrations at age 6 months and 6 years and the combined effect with prenatal `├── BoldNode
+│   full_match: `__high-dose vitamin D (2800 __`
+│   inner_content: `high-dose vitamin D (2800 `
+│   children:
+│   ├── TextNode
+│   │   full_match: `high-dose vitamin D (2800 `
+│   │   inner_content: `high-dose vitamin D (2800 `├── TextNode
+│   full_match: `vs. 400 IU/day) on bone mineral density (BMD) and content (BMC) assessed by dual-energy X-ray absorptiometry (DXA) scans at age 3 and 6 years and longitudinal risk of fractures in a double-blinded, randomized clinical trial in the Copenhagen Prospective Studies on Asthma in Childhood 2010 (COPSAC2010) mother-child cohort with enrollment from March 4, 2009, to November 17, 2010, and clinical follow-up until January 31, 2019 (NCT00856947). All participants randomized to intervention and with complete data were included in the analyses.\n\nFindings\nAt age 6 months, serum 25(OH)D concentration was measured in 93% (n = 541) of 584 children. Children with sufficient (≥ 75 nmol/l) vs. insufficient (&lt; 75 nmol/l) concentrations did not have lower risk of fractures: incidence rate ratio (95% CI); 0.64 (0.37;1.11), p = 0.11. \nHowever, vitamin D sufficient children from mothers receiving high-dose supplementation during pregnancy had a `
+│   inner_content: `vs. 400 IU/day) on bone mineral density (BMD) and content (BMC) assessed by dual-energy X-ray absorptiometry (DXA) scans at age 3 and 6 years and longitudinal risk of fractures in a double-blinded, randomized clinical trial in the Copenhagen Prospective Studies on Asthma in Childhood 2010 (COPSAC2010) mother-child cohort with enrollment from March 4, 2009, to November 17, 2010, and clinical follow-up until January 31, 2019 (NCT00856947). All participants randomized to intervention and with complete data were included in the analyses.\n\nFindings\nAt age 6 months, serum 25(OH)D concentration was measured in 93% (n = 541) of 584 children. Children with sufficient (≥ 75 nmol/l) vs. insufficient (&lt; 75 nmol/l) concentrations did not have lower risk of fractures: incidence rate ratio (95% CI); 0.64 (0.37;1.11), p = 0.11. \nHowever, vitamin D sufficient children from mothers receiving high-dose supplementation during pregnancy had a `├── BoldNode
+│   full_match: `__60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose__`
+│   inner_content: `60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose`
+│   children:
+│   ├── TextNode
+│   │   full_match: `60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose`
+│   │   inner_content: `60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose`├── TextNode
+│   full_match: `: 0.40 (0.19;0.84), p = 0.02.\nAt age 6 years, serum 25(OH)D concentration was measured in 83% (n = 318) of 383 children with available DXA data. Whole-body bone mineralization was higher in vitamin D sufficient children at age 6 years; BMD, adjusted mean difference (aMD) (95% CI): 0.011 g/cm2 (0.001;0.021), p = 0.03, and BMC, aMD: 12.3 g (-0.8;25.4), p = 0.07, with the largest effect in vitamin D sufficient children from mothers receiving high-dose vitamin D supplementation; BMD, aMD: 0.016 g/cm2 (0.002;0.030), p = 0.03, and BMC, aMD: 23.5 g (5.5;41.5), p = 0.01.\n\nInterpretation\nChildhood vitamin D sufficiency improved bone mineralization and in combination with prenatal high-dose vitamin D supplementation reduced the risk of fractures.\n`
+│   inner_content: `: 0.40 (0.19;0.84), p = 0.02.\nAt age 6 years, serum 25(OH)D concentration was measured in 83% (n = 318) of 383 children with available DXA data. Whole-body bone mineralization was higher in vitamin D sufficient children at age 6 years; BMD, adjusted mean difference (aMD) (95% CI): 0.011 g/cm2 (0.001;0.021), p = 0.03, and BMC, aMD: 12.3 g (-0.8;25.4), p = 0.07, with the largest effect in vitamin D sufficient children from mothers receiving high-dose vitamin D supplementation; BMD, aMD: 0.016 g/cm2 (0.002;0.030), p = 0.03, and BMC, aMD: 23.5 g (5.5;41.5), p = 0.01.\n\nInterpretation\nChildhood vitamin D sufficiency improved bone mineralization and in combination with prenatal high-dose vitamin D supplementation reduced the risk of fractures.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19191
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022 `
+│   inner_content: `Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022`
+│   │   inner_content: `Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__ Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures__`
+│   inner_content: ` Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures`
+│   │   inner_content: `Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures`├── TextNode
+│   full_match: `\nChildren 2022, 9(5), 762; https://doi.org/10.3390/children9050762\n\nBackground: The forearm is the most common fracture site in childhood, accounting for every fourth pediatric fracture. It is well described that vitamin D is involved in the regulation of bone mineralization and skeletal homeostasis by the regulation of calcium absorption. The aim of our study was to determine the influence of 25-hydroxyvitamin D levels on forearm fracture falls in a pediatric population, depending on level of energy impact. Additionally, we also aimed to evaluate the correlation between 25-hydroxyvitamin D levels and other tested risk factors for pediatric fractures. \n\nMethods: We evaluated 50 eligible children aged 3 to 12 years with a forearm fracture. According to energy impact, patients were grouped into low-energy fractures (LEF) and high-energy fractures (HEF) groups. The general characteristics of the patients included age, gender, sport participation, and fractured bone and its localization. We analyzed 25-hydroxyvitamin D, parathyroid hormone (PTH), calcium, magnesium, phosphate, C-reactive protein (CRP) levels, and body mass index (BMI). \n\nResults: There is a significant difference in the 25-hydroxyvitamin D levels distribution between LEF and HEF (p &lt; 0.001) and PTH levels (p = 0.002). For magnesium levels, calcium levels, phosphate levels, and CRP levels, there were no significant differences in their frequency distribution. For the group of patients with LEF, there is a significantly positive correlation between 25-hydroxyvitamin D and calcium levels (p = 0.019) and a borderline significantly positive correlation between 25-hydroxyvitamin D and magnesium levels (p = 0.050). For the group of patients with HEF, there was only a significantly positive correlation between 25-hydroxyvitamin D and PTH levels (p &lt; 0.001). \n\nConclusions: Children with LEF were more frequently insufficient in 25-hydroxyvitamin D levels but had normal calcium levels, compared to the ones with HEF. These findings suggest that LEF and HEF in children might to a certain degree have different pathophysiological mechanisms.\n`
+│   inner_content: `\nChildren 2022, 9(5), 762; https://doi.org/10.3390/children9050762\n\nBackground: The forearm is the most common fracture site in childhood, accounting for every fourth pediatric fracture. It is well described that vitamin D is involved in the regulation of bone mineralization and skeletal homeostasis by the regulation of calcium absorption. The aim of our study was to determine the influence of 25-hydroxyvitamin D levels on forearm fracture falls in a pediatric population, depending on level of energy impact. Additionally, we also aimed to evaluate the correlation between 25-hydroxyvitamin D levels and other tested risk factors for pediatric fractures. \n\nMethods: We evaluated 50 eligible children aged 3 to 12 years with a forearm fracture. According to energy impact, patients were grouped into low-energy fractures (LEF) and high-energy fractures (HEF) groups. The general characteristics of the patients included age, gender, sport participation, and fractured bone and its localization. We analyzed 25-hydroxyvitamin D, parathyroid hormone (PTH), calcium, magnesium, phosphate, C-reactive protein (CRP) levels, and body mass index (BMI). \n\nResults: There is a significant difference in the 25-hydroxyvitamin D levels distribution between LEF and HEF (p &lt; 0.001) and PTH levels (p = 0.002). For magnesium levels, calcium levels, phosphate levels, and CRP levels, there were no significant differences in their frequency distribution. For the group of patients with LEF, there is a significantly positive correlation between 25-hydroxyvitamin D and calcium levels (p = 0.019) and a borderline significantly positive correlation between 25-hydroxyvitamin D and magnesium levels (p = 0.050). For the group of patients with HEF, there was only a significantly positive correlation between 25-hydroxyvitamin D and PTH levels (p &lt; 0.001). \n\nConclusions: Children with LEF were more frequently insufficient in 25-hydroxyvitamin D levels but had normal calcium levels, compared to the ones with HEF. These findings suggest that LEF and HEF in children might to a certain degree have different pathophysiological mechanisms.\n`├── FontNode
+│   full_match: `{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}`
+│   inner_content: `__{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   attrs_dict:
+│   │   raw_content: size=&quot;16&quot;
+│   │   size: 16
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}`
+│   │   │   inner_content: `Download the PDF from VitaminDWiki `
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19192
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the PDF from VitaminDWiki `
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!! Low and high energy fractures in Children- May 2022`
+│   inner_content: `Low and high energy fractures in Children- May 2022`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Low and high energy fractures in Children- May 2022`
+│   │   inner_content: `Low and high energy fractures in Children- May 2022`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures __`
+│   inner_content: `Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures `
+│   │   inner_content: `Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures `├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalSpaceNode
+│   full_match: `~hs~`
+│   inner_content: ``
+│   repetitions: `1`├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── LinkNode
+│   full_match: `[10.3390/children905076]`
+│   inner_content: `10.3390/children905076`
+│   url: `10.3390/children905076`
+│   children:
+│   ├── TextNode
+│   │   full_match: `10.3390/children905076`
+│   │   inner_content: `10.3390/children905076`├── TextNode
+│   full_match: `  FREE PDF`
+│   inner_content: `  FREE PDF`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 111  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Fractures in children`
+│   inner_content: `VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 111  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Fractures in children`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki -  `
+│   │   inner_content: `VitaminDWiki -  `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 111  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 111  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind
+│   ├── TextNode
+│   │   full_match: ` Fractures in children`
+│   │   inner_content: ` Fractures in children`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── CategoryNode
+│   full_match: `{category id=&quot;111+109&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: id=&quot;111+109&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;
+│   │   id: 111+109
+│   │   types: wiki
+│   │   sort: created_desc
+│   │   split: n
+│   │   and: y
+│   │   sub: n
+│   │   showdescription: n
+│   │   showname: y
+│   │   showtype: n
+│   │   one: y
+│   │   showTitle: n├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Infant bone fractures sometimes diagnosed as child abuse`
+│   inner_content: `Infant bone fractures sometimes diagnosed as child abuse`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Infant bone fractures sometimes diagnosed as child abuse`
+│   │   inner_content: `Infant bone fractures sometimes diagnosed as child abuse`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title__`
+│   inner_content: `4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title`
+│   children:
+│   ├── TextNode
+│   │   full_match: `4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title`
+│   │   inner_content: `4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;109&quot;}\n{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;109&quot;}\n{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;109&quot;}\n{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;109&quot;}\n{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Childhood Fractures – consensus report on vitamin D – Feb 2016))`
+│   inner_content: `VitaminDWiki - ((Childhood Fractures – consensus report on vitamin D – Feb 2016))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Childhood Fractures – consensus report on vitamin D – Feb 2016))`
+│   │   inner_content: `Childhood Fractures – consensus report on vitamin D – Feb 2016`
+│   │   page: `Childhood Fractures – consensus report on vitamin D – Feb 2016`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Childhood Fractures – consensus report on vitamin D – Feb 2016`
+│   │   │   inner_content: `Childhood Fractures – consensus report on vitamin D – Feb 2016`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021))`
+│   inner_content: `VitaminDWiki - ((Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021))`
+│   │   inner_content: `Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021`
+│   │   page: `Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021`
+│   │   │   inner_content: `Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!!VitaminDWiki - ((The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014))`
+│   inner_content: `VitaminDWiki - ((The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014))`
+│   level: `5`
+│   children:
+│   ├── TextNode
+│   │   full_match: `VitaminDWiki - `
+│   │   inner_content: `VitaminDWiki - `
+│   ├── LocalLinkNode
+│   │   full_match: `((The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014))`
+│   │   inner_content: `The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014`
+│   │   page: `The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014`
+│   │   │   inner_content: `The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV} 
+---
+!!!!4.6 X more-likely for children to have low energy fracture if low Vitamin D  - Feb 2023
+__Vitamin D level and low-energy fracture risk in children and adolescents: a population-based case-control study of 45 cases__
+J Pediatr Orthop B . 2023 Feb 8. doi: 10.1097/BPB.0000000000001061
+Elio Assaf 1, Elisabeth Mohs 1, Franz-J Dally 1, Svetlana Hetjens 2, Sascha Gravius 1, Ali Darwich 1
+
+The objective is to document the rate of vitamin D deficiency and insufficiency among children with low-energy fractures and compare it to fracture-free control group. We included all children under 15 years presenting to the emergency department with low-energy fractures; controls were children without history of fractures from the outpatient department. Conventional X-ray and laboratory blood tests were performed. Vitamin D deficiency was defined as serum level ≤20 ng/ml, and the mean values were compared through two-sample t-tests. The influence of vitamin D on the fractures was defined using Chi-square test, significance with P-value &lt; 0.05. The relationships between variables and odds of fracture occurrence were examined using logistic regression models. The final sample included 37 cases (30 males, 7 females, 7.4 ± 3.7 years) and 70 control individuals (42 males, 28 females, 7.8 ± 4.6 years) without significant differences regarding age, sex, and month of inclusion. 
+Children with fractures had lower levels of vitamin D (21.87 ± 8.40 ng/ml vs. 25.89 ± 7.62 ng/ml) (P = 0.01). 
+Vitamin D played a protective role against low-energy fractures (OR, 1.08; 95% CI, 1.01-1.14; P = 0.02), 
+boys showed three times greater fracture risk than girls (OR, 3.00; 95% CI, 1.12-8.07; P = 0.03). 
+Finally, vitamin D deficiency correlated with almost five times __increased risk of pediatric low-energy fractures (OR, 4.63__; 95% CI, 1.92-11.18; P = 0.001). This is the first MENA study establishing a relation between vitamin D deficiency and low-energy fractures among children and adolescents. The findings show the protective role of vitamin D on the pediatric bone and may help physicians preventing morbidity on children and costs on their families and the socioeconomic health system.
+---
+!!!!Total fractures in children NOT associated with low vitamin D - meta-analysis June 2021
+__Vitamin D level and fractures in children and adolescents: a systematic review and meta-analysis__
+Journal of Bone and Mineral Metabolism volume 39, pages 851–857 (2021) https://doi.org/10.1007/s00774-021-01238-x
+References are online, Publisher charges $40 for the PDF
+Chong Zheng, Hao Li, Shuai Rong, Liantao Liu, Kepei Zhen &amp; Kewei Li 
+!!!!!Suspect that this study looked at total of both low and high energy fractures
+Introduction
+The aim of the study was to determine the relationship between vitamin D levels and the risk of bone fractures in children and adolescents.
+
+Materials and methods
+PubMed, Embase, and Cochrane library databases were searched using subject and free words. The Newcastle–Ottawa scale form was used to assess literature quality. ReVman 5.2 and Stata 13.0 were used for statistical analyses. The results were expressed as the mean difference (MD)/odds ratio (OR) and 95% confidence interval (95% CI). The heterogeneity test was conducted according to I2 and Q tests. Egger’s test was used to evaluate publication bias.
+
+Results
+Thirteen studies (3943 participants ≤ 18 years old) were included, and the quality of the literature was acceptable. Regarding the 25-hydroxyvitamin D (25OHD) level in the random effects model, the MD = − 0.12 ng/mL (95% CI: −1.93, 1.69), I2 = 83%, and P &lt; 0.00001, indicating large heterogeneity. Subgroup analyses were conducted according to vitamin D supplementation and 25OHD level, the sources of heterogeneity were not found. Regarding the proportion of subjects with vitamin D deficiency in the random effects model, OR = 1.09 (95% CI: 0.67, 1.79), I2 = 79%, and P &lt; 0.0001. By sensitivity analysis, after removing Al-Daghri’s study, OR = 1.22 (95% CI: 0.96, 1.56), I2 = 0%, and P = 0.64.
+
+Conclusion
+There is no relationship between vitamin D level and the risk of bone fractures in children and adolescents.
+---
+!!!!Children 60% less likely to have bone fractures if daily 2,800 IU of Vitamin D while pregnant - RCT followup Jan 2022
+__High-dose vitamin D supplementation in pregnancy and 25(OH)D sufficiency in childhood reduce the risk of fractures and improve bone mineralization in childhood: Follow-up of a randomized clinical trial__
+eClinicalMedicine Volume 43, January 2022, 101254 https://doi.org/10.1016/j.eclinm.2021.101254
+
+Exposure to vitamin D in early life has been associated with improved bone mineralization, but no studies have investigated the combined effect of pregnancy supplementation and childhood 25(OH)D concentrations on bone health.
+
+Methods
+We analyzed the effect of serum 25(OH)D concentrations at age 6 months and 6 years and the combined effect with prenatal __high-dose vitamin D (2800 __vs. 400 IU/day) on bone mineral density (BMD) and content (BMC) assessed by dual-energy X-ray absorptiometry (DXA) scans at age 3 and 6 years and longitudinal risk of fractures in a double-blinded, randomized clinical trial in the Copenhagen Prospective Studies on Asthma in Childhood 2010 (COPSAC2010) mother-child cohort with enrollment from March 4, 2009, to November 17, 2010, and clinical follow-up until January 31, 2019 (NCT00856947). All participants randomized to intervention and with complete data were included in the analyses.
+
+Findings
+At age 6 months, serum 25(OH)D concentration was measured in 93% (n = 541) of 584 children. Children with sufficient (≥ 75 nmol/l) vs. insufficient (&lt; 75 nmol/l) concentrations did not have lower risk of fractures: incidence rate ratio (95% CI); 0.64 (0.37;1.11), p = 0.11. 
+However, vitamin D sufficient children from mothers receiving high-dose supplementation during pregnancy had a __60% reduced incidence of fractures compared with vitamin D insufficient children from mothers receiving standard-dose__: 0.40 (0.19;0.84), p = 0.02.
+At age 6 years, serum 25(OH)D concentration was measured in 83% (n = 318) of 383 children with available DXA data. Whole-body bone mineralization was higher in vitamin D sufficient children at age 6 years; BMD, adjusted mean difference (aMD) (95% CI): 0.011 g/cm2 (0.001;0.021), p = 0.03, and BMC, aMD: 12.3 g (-0.8;25.4), p = 0.07, with the largest effect in vitamin D sufficient children from mothers receiving high-dose vitamin D supplementation; BMD, aMD: 0.016 g/cm2 (0.002;0.030), p = 0.03, and BMC, aMD: 23.5 g (5.5;41.5), p = 0.01.
+
+Interpretation
+Childhood vitamin D sufficiency improved bone mineralization and in combination with prenatal high-dose vitamin D supplementation reduced the risk of fractures.
+{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19191&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!!Higher risk of child forearm fracture if low vitamin D and perhaps low magnesium - 2022 
+__ Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures__
+Children 2022, 9(5), 762; https://doi.org/10.3390/children9050762
+
+Background: The forearm is the most common fracture site in childhood, accounting for every fourth pediatric fracture. It is well described that vitamin D is involved in the regulation of bone mineralization and skeletal homeostasis by the regulation of calcium absorption. The aim of our study was to determine the influence of 25-hydroxyvitamin D levels on forearm fracture falls in a pediatric population, depending on level of energy impact. Additionally, we also aimed to evaluate the correlation between 25-hydroxyvitamin D levels and other tested risk factors for pediatric fractures. 
+
+Methods: We evaluated 50 eligible children aged 3 to 12 years with a forearm fracture. According to energy impact, patients were grouped into low-energy fractures (LEF) and high-energy fractures (HEF) groups. The general characteristics of the patients included age, gender, sport participation, and fractured bone and its localization. We analyzed 25-hydroxyvitamin D, parathyroid hormone (PTH), calcium, magnesium, phosphate, C-reactive protein (CRP) levels, and body mass index (BMI). 
+
+Results: There is a significant difference in the 25-hydroxyvitamin D levels distribution between LEF and HEF (p &lt; 0.001) and PTH levels (p = 0.002). For magnesium levels, calcium levels, phosphate levels, and CRP levels, there were no significant differences in their frequency distribution. For the group of patients with LEF, there is a significantly positive correlation between 25-hydroxyvitamin D and calcium levels (p = 0.019) and a borderline significantly positive correlation between 25-hydroxyvitamin D and magnesium levels (p = 0.050). For the group of patients with HEF, there was only a significantly positive correlation between 25-hydroxyvitamin D and PTH levels (p &lt; 0.001). 
+
+Conclusions: Children with LEF were more frequently insufficient in 25-hydroxyvitamin D levels but had normal calcium levels, compared to the ones with HEF. These findings suggest that LEF and HEF in children might to a certain degree have different pathophysiological mechanisms.
+{FONT(size=&quot;16&quot;)}__{ATTACH(inline=&quot;1&quot; id=&quot;19192&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki {ATTACH}__{FONT}
+---
+!!!! Low and high energy fractures in Children- May 2022
+__Vitamin D and Forearm Fractures in Children Preliminary Findings: Risk Factors and Correlation between Low-Energy and High-Energy Fractures __ ~hs~ [10.3390/children905076]  FREE PDF
+---
+!!!!VitaminDWiki -  {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM (SELECT catObjectId, COUNT(*) FROM `tiki_category_objects` WHERE categId = 111  OR categId = 109 GROUP BY catObjectId HAVING COUNT(*) &gt; 1) AS categs INNER JOIN tiki_objects ON tiki_objects.objectId = categs.catObjectId WHERE type = &quot;wiki page&quot;{SQL} Fractures in children
+&#39;&#39;This list is automatically updated&#39;&#39;
+{category id=&quot;111+109&quot; types=&quot;wiki&quot; sort=&quot;created_desc&quot; split=&quot;n&quot; and=&quot;y&quot; sub=&quot;n&quot;- showdescription=&quot;n&quot; showname=&quot;y&quot; showtype=&quot;n&quot; one=&quot;y&quot; showTitle=&quot;n&quot;}
+---
+!!!!Infant bone fractures sometimes diagnosed as child abuse
+__4+ VitaminDWiki Infant-Child pages with ABUSE OR SHAKEN in title__
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;109&quot;}
+{filter field=&quot;title&quot; content=&quot;ABUSE OR SHAKEN&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!!VitaminDWiki - ((Childhood Fractures – consensus report on vitamin D – Feb 2016))
+---
+!!!!!VitaminDWiki - ((Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021))
+---
+!!!!!VitaminDWiki - ((The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014))
+
+</code>
+</pre>
