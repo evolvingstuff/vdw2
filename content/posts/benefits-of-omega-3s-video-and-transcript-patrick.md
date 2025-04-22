@@ -66,7 +66,7 @@ categories:
 
 0:12:55.8  I forgot all the follow-up times, but it was shown that Omega-3 was correlated with improved intelligence if the mothers were eating fish. And they were actually using mercury as a biomarker to basically validate their dietary recall because the women that were taking in more Omega-3 had higher mercury. And guess what? The higher mercury was correlated with higher intelligence in the children. Not because mercury is improving intelligence, but because the Omega-3 is and the Omega-3... The mercury doesn't even matter if you have the Omega-3 there, it's really protecting against any potential toxic effects of mercury. So I know that was a bit of a tangent, but it's important because people are kind of scared of eating fish and there are some fish that you should be scared of, like swordfish, which is terribly high in mercury and not so high in Omega-3. But things like salmon, wild caught salmon is low in mercury, high in Omega-3.
 
-*  <span style="color:orange;">VitaminDWiki <a href="/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017">Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017</a></span>
+* VitaminDWiki <a href="/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017">Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017</a>
 
 #### Live 5 years longer if have a high Omega-3 index
 
@@ -150,7 +150,7 @@ Markdown:
 
 0:12:55.8  I forgot all the follow-up times, but it was shown that Omega-3 was correlated with improved intelligence if the mothers were eating fish. And they were actually using mercury as a biomarker to basically validate their dietary recall because the women that were taking in more Omega-3 had higher mercury. And guess what? The higher mercury was correlated with higher intelligence in the children. Not because mercury is improving intelligence, but because the Omega-3 is and the Omega-3... The mercury doesn&#39;t even matter if you have the Omega-3 there, it&#39;s really protecting against any potential toxic effects of mercury. So I know that was a bit of a tangent, but it&#39;s important because people are kind of scared of eating fish and there are some fish that you should be scared of, like swordfish, which is terribly high in mercury and not so high in Omega-3. But things like salmon, wild caught salmon is low in mercury, high in Omega-3.
 
-*  &lt;span style=&quot;color:orange;&quot;&gt;VitaminDWiki &lt;a href=&quot;/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017&quot;&gt;Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017&lt;/a&gt;&lt;/span&gt;
+* VitaminDWiki &lt;a href=&quot;/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017&quot;&gt;Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017&lt;/a&gt;
 
 #### Live 5 years longer if have a high Omega-3 index
 

@@ -23,7 +23,7 @@ Shirin Vollrath 1, Lynn Matits 1 2, Achim Jerg 1, Jule Zorn 1, Lucas John 1, Jü
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
- <span style="color:orange;"> **Perhaps not outdoors as much while recovering** </span>
+ **Perhaps not outdoors as much while recovering** 
 
 Blood profiling data in athletic populations and their respective responses to SARS-CoV-2 infection are lacking. Thus, this exploratory pilot study aimed to analyze and compare clinical blood markers in previously infected trained athletes (ATH; 30 m/29 f) and a not previously infected healthy athletic control group (HC; 12 m/19 f). The ATH group undertook a sports medical examination which included extended blood analyses. Blood profiles with a total of 74 variables were assessed (blood counts, pro-/inflammatory and immunological markers, and micronutrients), and the ATH group was compared to the age-matched, vaccinated HC group with comparable athletic back grounds, though without previous SARS-CoV-2-infections. The ATH group showed lower IgG, Troponin-T levels, and they had a lower complement/acute-phase protein activation. Furthermore, Vitamin D levels were lower and electrolyte/micronutrient concentrations were higher in ATH. Soluble transferrin receptor as a marker of erythrocyte turnover was decreased whereas PTT as a coagulation marker was increased. Subgroup analyses according to sex revealed more differences between the women of the ATH and HC groups (for 25 different variables) than between the men (for 5 different variables), especially for immunological and metabolic variables. In particular, the immune system and electrolyte/micronutrient status should be observed frequently and sex-specifically in this athletic cohort.
 
@@ -51,7 +51,7 @@ Shirin Vollrath 1, Lynn Matits 1 2, Achim Jerg 1, Jule Zorn 1, Lucas John 1, Jü
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Perhaps not outdoors as much while recovering** &lt;/span&gt;
+ **Perhaps not outdoors as much while recovering** 
 
 Blood profiling data in athletic populations and their respective responses to SARS-CoV-2 infection are lacking. Thus, this exploratory pilot study aimed to analyze and compare clinical blood markers in previously infected trained athletes (ATH; 30 m/29 f) and a not previously infected healthy athletic control group (HC; 12 m/19 f). The ATH group undertook a sports medical examination which included extended blood analyses. Blood profiles with a total of 74 variables were assessed (blood counts, pro-/inflammatory and immunological markers, and micronutrients), and the ATH group was compared to the age-matched, vaccinated HC group with comparable athletic back grounds, though without previous SARS-CoV-2-infections. The ATH group showed lower IgG, Troponin-T levels, and they had a lower complement/acute-phase protein activation. Furthermore, Vitamin D levels were lower and electrolyte/micronutrient concentrations were higher in ATH. Soluble transferrin receptor as a marker of erythrocyte turnover was decreased whereas PTT as a coagulation marker was increased. Subgroup analyses according to sex revealed more differences between the women of the ATH and HC groups (for 25 different variables) than between the men (for 5 different variables), especially for immunological and metabolic variables. In particular, the immune system and electrolyte/micronutrient status should be observed frequently and sex-specifically in this athletic cohort.
 

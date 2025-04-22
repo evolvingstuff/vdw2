@@ -22,7 +22,8 @@ Savas Tuna 1, Mehmet Akif Aydin 2, Muhammet Fatih Aydin 3
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
- <span style="color:orange;"> **Note: They did not measure Omega-3   Serum Magnesium is a poor indicator of free Magnesium** </span>
+ **Note: They did not measure Omega-3    
+ Serum Magnesium is a poor indicator of free Magnesium** 
 
 Objective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.
 
@@ -61,7 +62,8 @@ Savas Tuna 1, Mehmet Akif Aydin 2, Muhammet Fatih Aydin 3
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;300&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: They did not measure Omega-3   Serum Magnesium is a poor indicator of free Magnesium** &lt;/span&gt;
+ **Note: They did not measure Omega-3    
+ Serum Magnesium is a poor indicator of free Magnesium** 
 
 Objective: Studies aiming at illuminating the complex relationships between cancer, obesity, 25-hydroxy vitamin D (25-OHD) deficiency, and body fat percentage are ongoing. The objective of this study was to investigate the relationships between 25-OHD deficiency, visceral fat tissue, and the Beck Depression Inventory (BDI) in cancer patients.
 

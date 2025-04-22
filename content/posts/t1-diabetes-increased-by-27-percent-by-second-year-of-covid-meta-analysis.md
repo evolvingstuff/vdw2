@@ -82,7 +82,8 @@ Conclusions and Relevance  This study found that incidence rates of type 1 diabe
 
 #### This increase in T1 may be due to COVID's deactivation of Vitamin D Receptor
 
- **COVID protects itself by deactivation of the VDR. COVID probably fails to re-activate the VDR when it leave the body** 
+ **COVID protects itself by deactivation of the VDR.   
+COVID probably fails to re-activate the VDR when it leave the body** 
 
 * <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
 
@@ -179,7 +180,8 @@ Conclusions and Relevance  This study found that incidence rates of type 1 diabe
 
 #### This increase in T1 may be due to COVID&#39;s deactivation of Vitamin D Receptor
 
- **COVID protects itself by deactivation of the VDR. COVID probably fails to re-activate the VDR when it leave the body** 
+ **COVID protects itself by deactivation of the VDR.   
+COVID probably fails to re-activate the VDR when it leave the body** 
 
 * &lt;a href=&quot;/posts/excess-deaths-5-possible-reasons-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies&quot;&gt;Excess deaths - 5 possible reasons - many studies&lt;/a&gt;
 

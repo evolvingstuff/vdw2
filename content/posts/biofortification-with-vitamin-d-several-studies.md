@@ -248,7 +248,7 @@ Vitamin D deficiency is prevalent worldwide and identification of alternative fo
 ---
 
 
- <span style="color:orange;"> **Note: in some cases the animal naturally has vitamin D (much less if indoors or in pond)** </span>
+ **Note: in some cases the animal naturally has vitamin D (much less if indoors or in pond)** 
 
 
 
@@ -493,7 +493,7 @@ Vitamin D deficiency is prevalent worldwide and identification of alternative fo
 ---
 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: in some cases the animal naturally has vitamin D (much less if indoors or in pond)** &lt;/span&gt;
+ **Note: in some cases the animal naturally has vitamin D (much less if indoors or in pond)** 
 
 
 

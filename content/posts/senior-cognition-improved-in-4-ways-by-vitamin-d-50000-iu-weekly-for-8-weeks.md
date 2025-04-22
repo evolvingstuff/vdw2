@@ -56,7 +56,9 @@ Conclusion: Vitamin D replacement has a positive effect on cognitive domains rel
 
 #### Comment on inadequate follow-up dosing by VitaminDWiki:
 
- **Only 1,000 IU of vitamin D was given daily during the last 4 monthsIf they had instead used 50,000 IU every two weeks they would have had much better outcomesAnd vitamin D levels of 40 ng instead of 30 ng** 
+ **Only 1,000 IU of vitamin D was given daily during the last 4 months  
+If they had instead used 50,000 IU every two weeks they would have had much better outcomes  
+And vitamin D levels of 40 ng instead of 30 ng** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -107,7 +109,9 @@ Conclusion: Vitamin D replacement has a positive effect on cognitive domains rel
 
 #### Comment on inadequate follow-up dosing by VitaminDWiki:
 
- **Only 1,000 IU of vitamin D was given daily during the last 4 monthsIf they had instead used 50,000 IU every two weeks they would have had much better outcomesAnd vitamin D levels of 40 ng instead of 30 ng** 
+ **Only 1,000 IU of vitamin D was given daily during the last 4 months  
+If they had instead used 50,000 IU every two weeks they would have had much better outcomes  
+And vitamin D levels of 40 ng instead of 30 ng** 
 
 
 AST Structure:

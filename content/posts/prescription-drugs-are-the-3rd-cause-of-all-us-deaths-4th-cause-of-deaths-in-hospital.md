@@ -15,7 +15,8 @@ categories:
 
  **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&utm_medium=email)** 
 
-* "37,309 drug deaths were reported to the FDA in 2006 and 123,927 ten years later, which is 3.3 times as many"
+* "37,309 drug deaths were reported to the FDA in 2006 and  
+ 123,927 ten years later, which is 3.3 times as many"
 
 * "Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths."
 
@@ -46,7 +47,8 @@ Markdown:
 
  **[Brownstone](https://brownstone.org/articles/prescription-drugs-are-the-leading-cause-of-death/?utm_source=substack&amp;utm_medium=email)** 
 
-* &quot;37,309 drug deaths were reported to the FDA in 2006 and 123,927 ten years later, which is 3.3 times as many&quot;
+* &quot;37,309 drug deaths were reported to the FDA in 2006 and  
+ 123,927 ten years later, which is 3.3 times as many&quot;
 
 * &quot;Depression drugs kill many people, mainly among the elderly, because they can cause orthostatic hypotension, sedation, confusion, and dizziness. The drugs double the risk of falls and hip fractures in a dose-dependent manner,8,9 and within one year after a hip fracture, about one-fifth of the patients will have died. As elderly people often fall anyway, it is not possible to know if such deaths are drug deaths.&quot;
 

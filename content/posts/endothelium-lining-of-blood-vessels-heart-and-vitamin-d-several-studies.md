@@ -138,7 +138,7 @@ Finally, we hypothesize that endothelial dysfunction relevant to  **vitamin D** 
 
 ---
 
-#####  <span style="color:orange;">Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies</span>
+##### Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies
 
 ---
 
@@ -282,7 +282,7 @@ Finally, we hypothesize that endothelial dysfunction relevant to  **vitamin D** 
 
 ---
 
-#####  &lt;span style=&quot;color:orange;&quot;&gt;Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies&lt;/span&gt;
+##### Note: COVID protects itself by [de-activation of the Vitamin D Receptor](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)  33+ studies
 
 ---
 

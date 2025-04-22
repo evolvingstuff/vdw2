@@ -54,7 +54,11 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 
 ##### Note: The author and the founder of VitaminDWiki attempted a COVID Vitamin D RCT in April 2020
 
- **People at the Gates foundation were  initially interested in funding the RCTGates foundation management; however, it had a policy to not fund ANY vitamin D projectFunding was provided by the founder of VitaminDWiki 400,000 IU vitamin D capsules with matching placebos were purchasedRCT was unable to start due to government corruption** 
+ **People at the Gates foundation were  initially interested in funding the RCT  
+Gates foundation management; however, it had a policy to not fund ANY vitamin D project  
+Funding was provided by the founder of VitaminDWiki  
+ 400,000 IU vitamin D capsules with matching placebos were purchased  
+RCT was unable to start due to government corruption** 
 
 ---
 
@@ -113,7 +117,11 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 
 ##### Note: The author and the founder of VitaminDWiki attempted a COVID Vitamin D RCT in April 2020
 
- **People at the Gates foundation were  initially interested in funding the RCTGates foundation management; however, it had a policy to not fund ANY vitamin D projectFunding was provided by the founder of VitaminDWiki 400,000 IU vitamin D capsules with matching placebos were purchasedRCT was unable to start due to government corruption** 
+ **People at the Gates foundation were  initially interested in funding the RCT  
+Gates foundation management; however, it had a policy to not fund ANY vitamin D project  
+Funding was provided by the founder of VitaminDWiki  
+ 400,000 IU vitamin D capsules with matching placebos were purchased  
+RCT was unable to start due to government corruption** 
 
 ---
 

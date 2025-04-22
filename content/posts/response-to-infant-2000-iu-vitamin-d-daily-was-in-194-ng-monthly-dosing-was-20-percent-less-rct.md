@@ -40,7 +40,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 | 2,000 IU | 60,000 IU |
 | 194 ng | 154 ng |
 
- **<span style="color:orange;">Not mentioned: Infant age, BMI, breastfeeding or mother's supplementation</span>** 
+ **Not mentioned: Infant age, BMI, breastfeeding or mother's supplementation** 
 
 ---
 
@@ -61,7 +61,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 <img src="/attachments/d3.mock.jpg" alt="image"> chart was made ~2013
 
- <span style="color:orange;"> **Study on this page must have had an untypically high compliance rate** </span>
+ **Study on this page must have had an untypically high compliance rate** 
 
 ---
 
@@ -177,7 +177,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 | 2,000 IU | 60,000 IU |
 | 194 ng | 154 ng |
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation&lt;/span&gt;** 
+ **Not mentioned: Infant age, BMI, breastfeeding or mother&#39;s supplementation** 
 
 ---
 
@@ -198,7 +198,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt; chart was made ~2013
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Study on this page must have had an untypically high compliance rate** &lt;/span&gt;
+ **Study on this page must have had an untypically high compliance rate** 
 
 ---
 

@@ -93,7 +93,10 @@ In summary, for Vitamin D supplementation, oral intake and sunlight exposure are
 
 which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble - RCT Jan 2023
 
- **The founder has been using nanoemulsion Vitamin D both topically (for skin problems) andinhaled (for improved breathing and getting D to the brain) since about 2014  &nbsp; &nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
+ **The founder has been using nanoemulsion Vitamin D both   
+topically (for skin problems) and  
+inhaled (for improved breathing and getting D to the brain) since about 2014   
+ &nbsp; &nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
 
 ---
 
@@ -191,7 +194,10 @@ In summary, for Vitamin D supplementation, oral intake and sunlight exposure are
 
 which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble - RCT Jan 2023
 
- **The founder has been using nanoemulsion Vitamin D both topically (for skin problems) andinhaled (for improved breathing and getting D to the brain) since about 2014  &amp;nbsp; &amp;nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
+ **The founder has been using nanoemulsion Vitamin D both   
+topically (for skin problems) and  
+inhaled (for improved breathing and getting D to the brain) since about 2014   
+ &amp;nbsp; &amp;nbsp; It seems to improve my ability to bike up steep hills within 5 minutes** 
 
 ---
 

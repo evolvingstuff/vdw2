@@ -52,7 +52,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
 - - - - - - - 
 
- **<span style="color:orange;">The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoking</a> and <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">obesity</a> decrease levels of Vitamin D</span>** 
+ **The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoking</a> and <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">obesity</a> decrease levels of Vitamin D** 
 
 ---
 
@@ -154,7 +154,7 @@ Conclusion Each increment of vitamin D fortification was associated with a 15% d
 
 - - - - - - - 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;smoking&lt;/a&gt; and &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;obesity&lt;/a&gt; decrease levels of Vitamin D&lt;/span&gt;** 
+ **The conclusion comments that they had a huge decrease in stillbirths when pregnant women stopped smoking. Also mentioned an increase in stillbirths as pregnant women are becoming more overweight.  Note: Both &lt;a href=&quot;/posts/smoking-reduces-vitamin-d-many-studies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Smoking reduces vitamin D - many studies&quot;&gt;smoking&lt;/a&gt; and &lt;a href=&quot;/posts/overview-obesity-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Overview Obesity and Vitamin D&quot;&gt;obesity&lt;/a&gt; decrease levels of Vitamin D** 
 
 ---
 

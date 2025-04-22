@@ -10,7 +10,13 @@ categories:
 ---
 
 
- **<span style="color:orange;">Significantly decreased risk of Alzheimer's if any of the following: 1) Leafy veggie diet 2) Reduce sugar (Type 3 Diabetes)3) Increase Vitamin D levels. 4) Increase Omega-3 5) Increase Magnesium &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Founder of VitaminDWiki does all five</span>** 
+ **Significantly decreased risk of Alzheimer's if any of the following:   
+1) Leafy veggie diet   
+2) Reduce sugar (Type 3 Diabetes)  
+3) Increase Vitamin D levels.   
+4) Increase Omega-3   
+5) Increase Magnesium   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Founder of VitaminDWiki does all five** 
 
 {{< toc >}} 
 
@@ -60,7 +66,13 @@ categories:
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Significantly decreased risk of Alzheimer&#39;s if any of the following: 1) Leafy veggie diet 2) Reduce sugar (Type 3 Diabetes)3) Increase Vitamin D levels. 4) Increase Omega-3 5) Increase Magnesium &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Founder of VitaminDWiki does all five&lt;/span&gt;** 
+ **Significantly decreased risk of Alzheimer&#39;s if any of the following:   
+1) Leafy veggie diet   
+2) Reduce sugar (Type 3 Diabetes)  
+3) Increase Vitamin D levels.   
+4) Increase Omega-3   
+5) Increase Magnesium   
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Founder of VitaminDWiki does all five** 
 
 {{&lt; toc &gt;}} 
 

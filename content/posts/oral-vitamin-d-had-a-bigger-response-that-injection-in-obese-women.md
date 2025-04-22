@@ -40,7 +40,8 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ##### I do not recall seeing this before
 
- **Is it due to obesity?Or due to when the Vitamin D test was given relative to dosing time** 
+ **Is it due to obesity?  
+Or due to when the Vitamin D test was given relative to dosing time** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -79,7 +80,8 @@ Conclusion: Treatment for vitamin D insufficiency works well when administered i
 
 ##### I do not recall seeing this before
 
- **Is it due to obesity?Or due to when the Vitamin D test was given relative to dosing time** 
+ **Is it due to obesity?  
+Or due to when the Vitamin D test was given relative to dosing time** 
 
 
 AST Structure:

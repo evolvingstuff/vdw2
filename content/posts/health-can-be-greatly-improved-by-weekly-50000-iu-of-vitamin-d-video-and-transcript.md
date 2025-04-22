@@ -163,7 +163,7 @@ This is just showing the number of health problems dealt with. Before I'd mentio
 
 &nbsp; &nbsp; &nbsp; **<span style="color:orange;">Cancers</span>** 
 
- **<span style="color:orange;">Vitamin D is not a miracle drug that acts instantly</span>** 
+ **Vitamin D is not a miracle drug that acts instantly** 
 
 This is what I was mentioning about diseases being slow growth or slow developing diseases versus fast or health problems in which you can notice the problem very quickly such as back pain, knee pain, fibromyalgia, whole assortment of pains. Oh, by the way, on the website, there's on the left-hand side of the 14,000 pages that I have, on every one of them on the left-hand side is 174 different health problems so you can look up your concerned health problem and see if there's been some study or what the study has been on your particular case. Anyway, the quick response ones, that is to say something you notice fairly soon within a month or a couple of months, there's pregnancy, there's a whole bunch of different pregnancy problems that virtually go away with taking vitamin D once a week. It also helps with influenza and colds and COVID and quite a few other things and there's quite a few slow response ones that if you take the vitamin D, you will statistically in a few years or five years have less incidence of a whole bunch of 19 different cancers. You personally won't particularly notice that but statistically it's the case, just a slow growth thing, so I tend, as I said before, tend to be interested in the fast response and that I can feel something quickly and then if there's something else that is improved much later on, that's good.
 
@@ -175,7 +175,9 @@ Not dealing with the pregnancy part, but concerned with other things that I look
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
- **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the month  
+Take allotted pills each week  
+Take all remaining pills, even those forgotten, before end of the month** 
 
 So here's just an example of a simple way of just reminding yourself. Some people are into taking supplements on a daily basis which is okay. And vitamin D actually though, works out to be better if you take it less than daily, like once a week, once every two weeks, actually the number starts to decrease its benefits at 17 days. But once a week, once every two weeks is just fine. So one of the ways of just remembering for yourself to take the vitamin D is to start the month by putting four of them into a little bowl and then just taking 'em out on one day of the week. Sunday is a nice memorable day. But towards the end of the month, if you haven't taken 'em all out, just finish it off.
 
@@ -254,9 +256,15 @@ I could discuss almost any of the 174 different health problems, but obesity is 
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
- **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateaued  
+You will experience fat/weight loss if you stress your body by:  
+1) Exercise  
+2) Calorie restrictive diet  
+3) Intermitant fasting  
+ 4) Water-only fasting** 
 
- **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> &nbsp; &nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
+ **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a>   
+&nbsp; &nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
 
 ---
 
@@ -482,7 +490,7 @@ This is just showing the number of health problems dealt with. Before I&#39;d me
 
 &amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:orange;&quot;&gt;Cancers&lt;/span&gt;** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is not a miracle drug that acts instantly&lt;/span&gt;** 
+ **Vitamin D is not a miracle drug that acts instantly** 
 
 This is what I was mentioning about diseases being slow growth or slow developing diseases versus fast or health problems in which you can notice the problem very quickly such as back pain, knee pain, fibromyalgia, whole assortment of pains. Oh, by the way, on the website, there&#39;s on the left-hand side of the 14,000 pages that I have, on every one of them on the left-hand side is 174 different health problems so you can look up your concerned health problem and see if there&#39;s been some study or what the study has been on your particular case. Anyway, the quick response ones, that is to say something you notice fairly soon within a month or a couple of months, there&#39;s pregnancy, there&#39;s a whole bunch of different pregnancy problems that virtually go away with taking vitamin D once a week. It also helps with influenza and colds and COVID and quite a few other things and there&#39;s quite a few slow response ones that if you take the vitamin D, you will statistically in a few years or five years have less incidence of a whole bunch of 19 different cancers. You personally won&#39;t particularly notice that but statistically it&#39;s the case, just a slow growth thing, so I tend, as I said before, tend to be interested in the fast response and that I can feel something quickly and then if there&#39;s something else that is improved much later on, that&#39;s good.
 
@@ -494,7 +502,9 @@ Not dealing with the pregnancy part, but concerned with other things that I look
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
- **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the month  
+Take allotted pills each week  
+Take all remaining pills, even those forgotten, before end of the month** 
 
 So here&#39;s just an example of a simple way of just reminding yourself. Some people are into taking supplements on a daily basis which is okay. And vitamin D actually though, works out to be better if you take it less than daily, like once a week, once every two weeks, actually the number starts to decrease its benefits at 17 days. But once a week, once every two weeks is just fine. So one of the ways of just remembering for yourself to take the vitamin D is to start the month by putting four of them into a little bowl and then just taking &#39;em out on one day of the week. Sunday is a nice memorable day. But towards the end of the month, if you haven&#39;t taken &#39;em all out, just finish it off.
 
@@ -573,9 +583,15 @@ I could discuss almost any of the 174 different health problems, but obesity is 
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
- **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateaued  
+You will experience fat/weight loss if you stress your body by:  
+1) Exercise  
+2) Calorie restrictive diet  
+3) Intermitant fasting  
+ 4) Water-only fasting** 
 
- **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
+ **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt;   
+&amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
 
 ---
 

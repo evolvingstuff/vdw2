@@ -20,7 +20,8 @@ categories:
 
 * "In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%)."
 
- **Comment by VitaminDWikiDue to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
+ **Comment by VitaminDWiki  
+Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -37,7 +38,8 @@ Markdown:
 
 * &quot;In total, researchers identified 83,674 Medicare beneficiaries with incident Parkinson’s disease, with  **434**  new cases per 100,000 people in the highest exposure group, compared with  **359**  new cases per 100,000 people in the lowest-exposure group. The relative risk for Parkinson’s disease increased in the highest quartile of PM2.5 by 25%, compared with the lowest quartile after adjusting for factors such as age, smoking status, and health care usage (95% confidence interval, 20%–29%).&quot;
 
- **Comment by VitaminDWikiDue to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
+ **Comment by VitaminDWiki  
+Due to less getting outdoors due to air pollution and less vitamin D from the sun due to the pollution** 
 
 
 AST Structure:

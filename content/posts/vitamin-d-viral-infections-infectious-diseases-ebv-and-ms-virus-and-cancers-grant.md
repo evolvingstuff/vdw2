@@ -65,7 +65,7 @@ Two vitamin D supplementation studies not included in the meta­analysis show th
 
  **Table 1 Details of three RCTs regarding vitamin D supplementation and incidence of influenza.** 
 
- <span style="color:orange;"> **See PDF** </span>
+ **See PDF** 
 
 In the second vitamin D RCT by the same group consisting of162 participants, with 65% of the participants Caucasian, ~80% female, age ~59 ±13 years, were enrolled in a 12-month study (Li-Ng, Aloia, et al., 2009). Half were randomized to receive 2000 IU/day and half a placebo. The baseline 25(OH)D concentration was 25 ± 11 ng/mL. The achieved 25(OH)D concentration was near 36 ± 9 ng/mL. Fifty-six percent of the vitamin D treatment group had been vaccinated against influenza, and 64% of the placebo group had been vaccinated against influenza. There was no difference in the incidence of upper respiratory tract infections (URIs) between the vitamin D and placebo groups (48 URIs vs. 50 URIs, respectively, p = 0.57). There was no difference in the duration or severity of URI symptoms between the vitamin D and placebo groups <span>[5.4 ± 4.8 days vs. 5.3 ± 3.1 days, respectively, p = 0.86]</span>.
 
@@ -81,7 +81,7 @@ Adaptive immunity may play a more important role in protecting people from pande
 
  **Table 2 Role of vitamin D for the innate and adaptive immune system against influenza.** 
 
- <span style="color:orange;"> **See PDF** </span>
+ **See PDF** 
 
 ##### SARS-CoV-2/COVID-19
 
@@ -153,11 +153,11 @@ One of the important effects of the innate immune response to viral infections i
 
  **Table 3 Periods of high RSV activity in the US in different years.** 
 
- <span style="color:orange;"> **See PDF** </span>
+ **See PDF** 
 
  **Table 4 Findings regarding vitamin D-related gene polymorphisms with respect to RSV activity.** 
 
- <span style="color:orange;"> **See PDF** </span>
+ **See PDF** 
 
 A 2011-2014 observational study found that LL-37 was inversely corre­lated with likelihood of requiring intensive care with infant’s bronchiolitis due to RSV or rhinovirus (Mansbach, Hasegawa, et al., 2017). A total of 1005 infants with mean age 3 months were enrolled in 17 centers. In multivariable models, infants with LL-37 levels < 60 ng/mL compared with >60 ng/mL, were more likely to have RSV (e.g., aOR, 2.6 <span>[lowest quartile]</span>; p < 0.001 <span>[all quartiles]</span>). LL-37 levels are increased at higher 25(OH)D concentrations.
 
@@ -664,7 +664,7 @@ Two vitamin D supplementation studies not included in the meta­analysis show th
 
  **Table 1 Details of three RCTs regarding vitamin D supplementation and incidence of influenza.** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **See PDF** &lt;/span&gt;
+ **See PDF** 
 
 In the second vitamin D RCT by the same group consisting of162 participants, with 65% of the participants Caucasian, ~80% female, age ~59 ±13 years, were enrolled in a 12-month study (Li-Ng, Aloia, et al., 2009). Half were randomized to receive 2000 IU/day and half a placebo. The baseline 25(OH)D concentration was 25 ± 11 ng/mL. The achieved 25(OH)D concentration was near 36 ± 9 ng/mL. Fifty-six percent of the vitamin D treatment group had been vaccinated against influenza, and 64% of the placebo group had been vaccinated against influenza. There was no difference in the incidence of upper respiratory tract infections (URIs) between the vitamin D and placebo groups (48 URIs vs. 50 URIs, respectively, p = 0.57). There was no difference in the duration or severity of URI symptoms between the vitamin D and placebo groups &lt;span&gt;[5.4 ± 4.8 days vs. 5.3 ± 3.1 days, respectively, p = 0.86]&lt;/span&gt;.
 
@@ -680,7 +680,7 @@ Adaptive immunity may play a more important role in protecting people from pande
 
  **Table 2 Role of vitamin D for the innate and adaptive immune system against influenza.** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **See PDF** &lt;/span&gt;
+ **See PDF** 
 
 ##### SARS-CoV-2/COVID-19
 
@@ -752,11 +752,11 @@ One of the important effects of the innate immune response to viral infections i
 
  **Table 3 Periods of high RSV activity in the US in different years.** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **See PDF** &lt;/span&gt;
+ **See PDF** 
 
  **Table 4 Findings regarding vitamin D-related gene polymorphisms with respect to RSV activity.** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **See PDF** &lt;/span&gt;
+ **See PDF** 
 
 A 2011-2014 observational study found that LL-37 was inversely corre­lated with likelihood of requiring intensive care with infant’s bronchiolitis due to RSV or rhinovirus (Mansbach, Hasegawa, et al., 2017). A total of 1005 infants with mean age 3 months were enrolled in 17 centers. In multivariable models, infants with LL-37 levels &lt; 60 ng/mL compared with &gt;60 ng/mL, were more likely to have RSV (e.g., aOR, 2.6 &lt;span&gt;[lowest quartile]&lt;/span&gt;; p &lt; 0.001 &lt;span&gt;[all quartiles]&lt;/span&gt;). LL-37 levels are increased at higher 25(OH)D concentrations.
 

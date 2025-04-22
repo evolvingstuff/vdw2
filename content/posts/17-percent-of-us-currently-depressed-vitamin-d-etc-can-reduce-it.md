@@ -10,7 +10,12 @@ categories:
 ---
 
 
- <span style="color:orange;">Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly <a href="/posts/rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11241">(RCT)</a> Start with 50,000 IU daily for the first week to get results in 1 week,  &nbsp; &nbsp; otherwise must wait for 2 months to notice reduced depression&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>Both Omega-3 and Magnesium also reduce depression </span>
+Vitamin D is the lowest-cost depression treatment: only pennies a day   
+Single 50,000 IU capsule bi-weekly or weekly <a href="/posts/rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 11241">(RCT)</a>  
+ Start with 50,000 IU daily for the first week to get results in 1 week,   
+ &nbsp; &nbsp; otherwise must wait for 2 months to notice reduced depression  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>  
+Both Omega-3 and Magnesium also reduce depression 
 
 ---
 
@@ -48,7 +53,12 @@ categories:
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is the lowest-cost depression treatment: only pennies a day Single 50,000 IU capsule bi-weekly or weekly &lt;a href=&quot;/posts/rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11241&quot;&gt;(RCT)&lt;/a&gt; Start with 50,000 IU daily for the first week to get results in 1 week,  &amp;nbsp; &amp;nbsp; otherwise must wait for 2 months to notice reduced depression&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;Both Omega-3 and Magnesium also reduce depression &lt;/span&gt;
+Vitamin D is the lowest-cost depression treatment: only pennies a day   
+Single 50,000 IU capsule bi-weekly or weekly &lt;a href=&quot;/posts/rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 11241&quot;&gt;(RCT)&lt;/a&gt;  
+ Start with 50,000 IU daily for the first week to get results in 1 week,   
+ &amp;nbsp; &amp;nbsp; otherwise must wait for 2 months to notice reduced depression  
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe&quot;&gt;Can get 50,000 IU Vitamin D anywhere on the globe&lt;/a&gt;  
+Both Omega-3 and Magnesium also reduce depression 
 
 ---
 

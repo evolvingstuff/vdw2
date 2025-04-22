@@ -16,7 +16,8 @@ categories:
 
  **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&publication_id=1119676&post_id=139148225&utm_campaign=email-post-title&isFreemail=false&r=ofo3r&utm_medium=email)** 
 
- **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
+ **1) Doctor unaware of the death  
+2) Patient left his doctor who recommended the vaccine** 
 
 ---
 
@@ -34,7 +35,8 @@ Markdown:
 
  **[Peter McCullough subtack](https://petermcculloughmd.substack.com/p/why-vaccine-pushing-cardiologists?utm_source=post-email-title&amp;publication_id=1119676&amp;post_id=139148225&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=ofo3r&amp;utm_medium=email)** 
 
- **1) Doctor unaware of the death2) Patient left his doctor who recommended the vaccine** 
+ **1) Doctor unaware of the death  
+2) Patient left his doctor who recommended the vaccine** 
 
 ---
 

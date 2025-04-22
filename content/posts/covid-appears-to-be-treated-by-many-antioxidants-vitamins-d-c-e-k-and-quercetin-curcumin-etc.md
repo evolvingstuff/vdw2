@@ -63,7 +63,7 @@ Conclusion: No wonder the selection of prevention, treatment, and cure of COVID-
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
- **<span style="color:orange;">Comment by Chambers: all those under $165 are also anti-oxidants</span>** 
+ **Comment by Chambers: all those under $165 are also anti-oxidants** 
 
 ---
 
@@ -165,7 +165,7 @@ Conclusion: No wonder the selection of prevention, treatment, and cure of COVID-
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Comment by Chambers: all those under $165 are also anti-oxidants&lt;/span&gt;** 
+ **Comment by Chambers: all those under $165 are also anti-oxidants** 
 
 ---
 

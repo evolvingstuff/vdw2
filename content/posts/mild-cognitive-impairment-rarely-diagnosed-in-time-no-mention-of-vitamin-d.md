@@ -14,7 +14,8 @@ date: 2023-11-13
 
 #### Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired
 
- **Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
+ **Millions of older adults likely have minor memory issues that can later become dementia.   
+But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
 
 * "Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis" July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 
@@ -60,7 +61,8 @@ Markdown:
 
 #### Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed - Wired
 
- **Millions of older adults likely have minor memory issues that can later become dementia. But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
+ **Millions of older adults likely have minor memory issues that can later become dementia.   
+But only a fraction of them are diagnosed early enough for new treatments to stand a chance.** 
 
 * &quot;Expected and diagnosed rates of mild cognitive impairment and dementia in the U.S. Medicare population: observational analysis&quot; July 2023 https://doi.org/10.1186/s13195-023-01272-z FREE PDF
 

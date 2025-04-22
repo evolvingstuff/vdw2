@@ -10,7 +10,13 @@ categories:
 ---
 
 
- **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,This study adds many more VDR activators, many of which are on AmazonFor most activators it is not known &nbsp; &nbsp; Which activator is best for each health problem  &nbsp; &nbsp;  Dose size   &nbsp; &nbsp;  Dose Frequency (X doses per day -- X doses per month)  &nbsp; &nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
+ **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,  
+This study adds many more VDR activators, many of which are on Amazon  
+For most activators it is not known  
+ &nbsp; &nbsp; Which activator is best for each health problem   
+ &nbsp; &nbsp;  Dose size   
+  &nbsp; &nbsp;  Dose Frequency (X doses per day -- X doses per month)  
+  &nbsp; &nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
 
 {{< toc >}}
 
@@ -606,7 +612,13 @@ Moreover, the underlying mechanisms of how TCM modulates VDR are still largely u
 <code class="language-text">
 Markdown:
 --------
- **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,This study adds many more VDR activators, many of which are on AmazonFor most activators it is not known &amp;nbsp; &amp;nbsp; Which activator is best for each health problem  &amp;nbsp; &amp;nbsp;  Dose size   &amp;nbsp; &amp;nbsp;  Dose Frequency (X doses per day -- X doses per month)  &amp;nbsp; &amp;nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
+ **Vitamin D Receptor activation has been proven to get more Vitamin D into the cells,  
+This study adds many more VDR activators, many of which are on Amazon  
+For most activators it is not known  
+ &amp;nbsp; &amp;nbsp; Which activator is best for each health problem   
+ &amp;nbsp; &amp;nbsp;  Dose size   
+  &amp;nbsp; &amp;nbsp;  Dose Frequency (X doses per day -- X doses per month)  
+  &amp;nbsp; &amp;nbsp;Should dosing be constant, ramp up, or start with a loading dose** 
 
 {{&lt; toc &gt;}}
 

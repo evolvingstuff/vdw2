@@ -40,7 +40,8 @@ In the microencapsulated vitamin D group, there was a decrease in
 
 The fasting plasma glucose levels did not change significantly.
 
-Conclusion: The results of our study show that the patients supplemented with a microencapsulated form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
+Conclusion: The results of our study show that the patients supplemented with a microencapsulated  
+ form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
 
 ---
 
@@ -120,7 +121,8 @@ In the microencapsulated vitamin D group, there was a decrease in
 
 The fasting plasma glucose levels did not change significantly.
 
-Conclusion: The results of our study show that the patients supplemented with a microencapsulated form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
+Conclusion: The results of our study show that the patients supplemented with a microencapsulated  
+ form of vitamin D3 achieved  **faster compensation of 25(OH)D levels** , which in turn, under equal conditions, led to significant improvement in the metabolic profile, in particular insulin sensitivity.
 
 ---
 

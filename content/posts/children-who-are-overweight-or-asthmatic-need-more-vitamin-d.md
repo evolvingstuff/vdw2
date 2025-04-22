@@ -28,7 +28,7 @@ Jason E Lang 1 2, Rodrigo Gonzalez Ramirez 3, Stephen Balevic 4 3, Scott Bickel 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- <span style="color:orange;"> **Note: Some of the children (age 6-15) did not get >43 ng in 4 months** </span>
+ **Note: Some of the children (age 6-15) did not get >43 ng in 4 months** 
 
 Background and objective: Vitamin D insufficiency is common in several pediatric diseases including obesity and asthma. Little data exist describing the pharmacokinetics of oral vitamin D in children or the optimal dosing to achieve therapeutic 25(OH)D targets. Describe the pharmacokinetics of oral Vitamin D in children with asthma.
 
@@ -78,7 +78,7 @@ Jason E Lang 1 2, Rodrigo Gonzalez Ramirez 3, Stephen Balevic 4 3, Scott Bickel 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: Some of the children (age 6-15) did not get &gt;43 ng in 4 months** &lt;/span&gt;
+ **Note: Some of the children (age 6-15) did not get &gt;43 ng in 4 months** 
 
 Background and objective: Vitamin D insufficiency is common in several pediatric diseases including obesity and asthma. Little data exist describing the pharmacokinetics of oral vitamin D in children or the optimal dosing to achieve therapeutic 25(OH)D targets. Describe the pharmacokinetics of oral Vitamin D in children with asthma.
 

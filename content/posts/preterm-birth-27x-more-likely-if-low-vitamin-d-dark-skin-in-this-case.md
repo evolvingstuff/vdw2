@@ -27,7 +27,7 @@ The odds of PTB were increased by  **3.34 times**  for participants with vitamin
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- <span style="color:orange;"> **Adjusted odds ratio clipped from PDF** </span>
+ **Adjusted odds ratio clipped from PDF** 
 
 Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54) after propensity score weights were applied to account for maternal age, gestational age at blood draw, and confounders (depressive symptoms and HDP). However, the overall results are similar among all three logistic regression models.
 
@@ -66,7 +66,7 @@ The odds of PTB were increased by  **3.34 times**  for participants with vitamin
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Adjusted odds ratio clipped from PDF** &lt;/span&gt;
+ **Adjusted odds ratio clipped from PDF** 
 
 Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54) after propensity score weights were applied to account for maternal age, gestational age at blood draw, and confounders (depressive symptoms and HDP). However, the overall results are similar among all three logistic regression models.
 

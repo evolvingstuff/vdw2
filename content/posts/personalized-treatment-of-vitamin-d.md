@@ -70,7 +70,8 @@ categories:
 
 1. <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">Loading dose</a> if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">cofactors</a>, [non-daily dose](/categories/better-than-daily)** 
+ **The above are all documented in VitaminDWiki - Solutions include:   
+different dose size, [different form](/categories/forms-of-vitamin-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV lamp</a>, <a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">cofactors</a>, [non-daily dose](/categories/better-than-daily)** 
 
  **<span style="color:orange;">Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations </span>** 
 
@@ -609,7 +610,9 @@ There are many ways to bypass each of those restrictions
 
 See [Genetics](/categories/genetics) for details
 
-* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-levelBut at $200 and with no data on the results, virtually no one buys the test
+* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level  
+But at $200 and with no data on the results  
+, virtually no one buys the test
 
 <!-- ~tc~ (alias(Factors for personalization of Vitamin D treatment)) ~/tc~ -->
 
@@ -677,7 +680,8 @@ Markdown:
 
 1. &lt;a href=&quot;/posts/loading-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D&quot;&gt;Loading dose&lt;/a&gt; if signs of improvement are needed in a month instead of within a fraction of a year
 
- **The above are all documented in VitaminDWiki - Solutions include: different dose size, [different form](/categories/forms-of-vitamin-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;cofactors&lt;/a&gt;, [non-daily dose](/categories/better-than-daily)** 
+ **The above are all documented in VitaminDWiki - Solutions include:   
+different dose size, [different form](/categories/forms-of-vitamin-d), &lt;a href=&quot;/posts/vitamin-d-from-low-cost-uvb-lamps&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D from low-cost UVB lamps&quot;&gt;UV lamp&lt;/a&gt;, &lt;a href=&quot;/posts/vitamin-d-cofactors-in-a-nutshell&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D Cofactors in a nutshell&quot;&gt;cofactors&lt;/a&gt;, [non-daily dose](/categories/better-than-daily)** 
 
  **&lt;span style=&quot;color:orange;&quot;&gt;Hope to have an interactive service on VitaminDWiki before the end of 2024 which will allow visitors to quickly and easily get personalized Vitamin D recommendations &lt;/span&gt;** 
 
@@ -1216,7 +1220,9 @@ There are many ways to bypass each of those restrictions
 
 See [Genetics](/categories/genetics) for details
 
-* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-levelBut at $200 and with no data on the results, virtually no one buys the test
+* At the suggestion of VitaminDWiki, it is now possible to measure Vitamin D at the cell-level  
+But at $200 and with no data on the results  
+, virtually no one buys the test
 
 &lt;!-- ~tc~ (alias(Factors for personalization of Vitamin D treatment)) ~/tc~ --&gt;
 

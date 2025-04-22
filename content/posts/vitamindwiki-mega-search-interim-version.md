@@ -632,7 +632,7 @@ Please email me if you have suggestions or questions  **<span>[hlahore@gmail.com
 
 * <a href="/posts/myopia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14515">Myopia</a> (20+)
 
- <span style="color:orange;"> **People and Low Vitamin D** </span>
+ **People and Low Vitamin D** 
 
 * [Infant/Child](/categories/infant-child) (788+)
 
@@ -4448,7 +4448,7 @@ Please email me if you have suggestions or questions  **&lt;span&gt;[hlahore@gma
 
 * &lt;a href=&quot;/posts/myopia&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14515&quot;&gt;Myopia&lt;/a&gt; (20+)
 
- &lt;span style=&quot;color:orange;&quot;&gt; **People and Low Vitamin D** &lt;/span&gt;
+ **People and Low Vitamin D** 
 
 * [Infant/Child](/categories/infant-child) (788+)
 

@@ -101,85 +101,85 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Gami AS, Caples SM, Somers VK (2003) Obesity and obstructive  **sleep apnea** . Endocrinol Metab Clin North Am 32(4):869–894 - PubMed - DOI
 
-1. Holick MF (2009)  <span style="color:orange;"> **vitamin D** </span> status: measurement, interpretation, and clinical application. Ann Epidemiol 19(2):73–78 - PubMed - DOI
+1. Holick MF (2009)  **vitamin D**  status: measurement, interpretation, and clinical application. Ann Epidemiol 19(2):73–78 - PubMed - DOI
 
-1. Wang TJ et al (2008)  <span style="color:orange;"> **vitamin D** </span> deficiency and risk of cardiovascular disease. Circulation 117(4):503–511 - PubMed - DOI
+1. Wang TJ et al (2008)  **vitamin D**  deficiency and risk of cardiovascular disease. Circulation 117(4):503–511 - PubMed - DOI
 
-1. Cosentino N et al (2021)  <span style="color:orange;"> **vitamin D** </span> and cardiovascular disease: current evidence and future perspectives. Nutrients 13(10):3603 - PubMed - PMC - DOI
+1. Cosentino N et al (2021)  **vitamin D**  and cardiovascular disease: current evidence and future perspectives. Nutrients 13(10):3603 - PubMed - PMC - DOI
 
-1. Holick MF et al (2011) Evaluation, treatment, and prevention of  <span style="color:orange;"> **vitamin D** </span> deficiency: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 96(7):1911–1930 - PubMed - DOI
+1. Holick MF et al (2011) Evaluation, treatment, and prevention of  **vitamin D**  deficiency: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 96(7):1911–1930 - PubMed - DOI
 
-1. Romano F et al (2020)  <span style="color:orange;"> **vitamin D** </span> and sleep regulation: is there a role for  <span style="color:orange;"> **vitamin D** </span>? Curr Pharm Des 26(21):2492–2496 - PubMed - DOI
+1. Romano F et al (2020)  **vitamin D**  and sleep regulation: is there a role for  **vitamin D** ? Curr Pharm Des 26(21):2492–2496 - PubMed - DOI
 
-1. Archontogeorgis K et al (2018) The role of  <span style="color:orange;"> **vitamin D** </span> in obstructive sleep  **apnoea syndrome** . Breathe (Sheff) 14(3):206–215 - PubMed - DOI
+1. Archontogeorgis K et al (2018) The role of  **vitamin D**  in obstructive sleep  **apnoea syndrome** . Breathe (Sheff) 14(3):206–215 - PubMed - DOI
 
-1. Loh HH, Sukor N (2023) Obstructive  **sleep apnea**  and  <span style="color:orange;"> **vitamin D** </span> level: Has the dust settled? Clin Respir J 1(16). https://doi.org/10.1111/crj.13593
+1. Loh HH, Sukor N (2023) Obstructive  **sleep apnea**  and  **vitamin D**  level: Has the dust settled? Clin Respir J 1(16). https://doi.org/10.1111/crj.13593
 
-1. Li X, He J, Yun J (2020) The association between serum  <span style="color:orange;"> **vitamin D** </span> and obstructive  **sleep apnea** : an updated meta-analysis. Respir Res 21(1):294 - PubMed - PMC - DOI
+1. Li X, He J, Yun J (2020) The association between serum  **vitamin D**  and obstructive  **sleep apnea** : an updated meta-analysis. Respir Res 21(1):294 - PubMed - PMC - DOI
 
-1. Neighbors CLP et al (2018)  <span style="color:orange;"> **vitamin D** </span> and obstructive  **sleep apnea** : a systematic review and meta-analysis. Sleep Med 43:100–108 - PubMed - DOI
+1. Neighbors CLP et al (2018)  **vitamin D**  and obstructive  **sleep apnea** : a systematic review and meta-analysis. Sleep Med 43:100–108 - PubMed - DOI
 
 1. Herzog R et al (2013) Are healthcare workers’ intentions to vaccinate related to their knowledge, beliefs and attitudes? A systematic review. BMC Public Health 13:154 - PubMed - PMC - DOI
 
 1. Lechat B et al (2022) Multinight prevalence, variability, and diagnostic misclassification of obstructive  **sleep apnea** . Am J Respir Crit Care Med 205(5):563–569 - PubMed - DOI
 
-1. Bouloukaki I et al (2021)  <span style="color:orange;"> **vitamin D** </span> deficiency in patients evaluated for obstructive  **sleep apnea** : is it associated with disease severity? Sleep Breath 25(2):1109–1117 - PubMed - DOI
+1. Bouloukaki I et al (2021)  **vitamin D**  deficiency in patients evaluated for obstructive  **sleep apnea** : is it associated with disease severity? Sleep Breath 25(2):1109–1117 - PubMed - DOI
 
-1. Goswami U et al (2016)  <span style="color:orange;"> **vitamin D** </span> concentrations and obstructive  **sleep apnea**  in a multicenter cohort of older males. Ann Am Thorac Soc 13(5):712–718 - PubMed - PMC - DOI
+1. Goswami U et al (2016)  **vitamin D**  concentrations and obstructive  **sleep apnea**  in a multicenter cohort of older males. Ann Am Thorac Soc 13(5):712–718 - PubMed - PMC - DOI
 
 1. Ma D et al (2020) The relationship of serum 25-hydroxyvitamin-D level with severity of obstructive  **sleep apnea**  in patients with type 2 diabetes mellitus. Diabetes Metab Syndr Obes 13:1391–1398 - PubMed - PMC - DOI
 
 1. Qiao Y et al (2018) Bone metabolic markers in patients with obstructive  **sleep apnea**  syndrome. Chin Med J (English Edition) 131(16):1898–1903
 
-1. Salepci B et al (2017)  <span style="color:orange;"> **vitamin D** </span> deficiency in patients referred for evaluation of obstructive  **sleep apnea** . J Clin Sleep Med 13(4):607–612 - PubMed - PMC - DOI
+1. Salepci B et al (2017)  **vitamin D**  deficiency in patients referred for evaluation of obstructive  **sleep apnea** . J Clin Sleep Med 13(4):607–612 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2018)  <span style="color:orange;"> **vitamin D** </span> levels in middle-aged patients with obstructive sleep  **apnoea syndrome** . Curr Vasc Pharmacol 16(3):289–297 - PubMed - DOI
+1. Archontogeorgis K et al (2018)  **vitamin D**  levels in middle-aged patients with obstructive sleep  **apnoea syndrome** . Curr Vasc Pharmacol 16(3):289–297 - PubMed - DOI
 
-1. Bhatt SP, Guleria R, Vikram NK (2021) The effect of the severity of obstructive  **sleep apnea**  on leukocyte telomere length, 25 hydroxy  <span style="color:orange;"> **vitamin D** </span>, and parathyroid hormonal concentrations in Asian Indians. Front Neurol 12:682739 - PubMed - PMC - DOI
+1. Bhatt SP, Guleria R, Vikram NK (2021) The effect of the severity of obstructive  **sleep apnea**  on leukocyte telomere length, 25 hydroxy  **vitamin D** , and parathyroid hormonal concentrations in Asian Indians. Front Neurol 12:682739 - PubMed - PMC - DOI
 
 1. Bozkurt NC et al (2012) The relation of serum 25-hydroxyvitamin-D levels with severity of obstructive  **sleep apnea**  and glucose metabolism abnormalities. Endocrine 41(3):518–525 - PubMed - DOI
 
-1. Erden ES et al (2014) Investigation of serum bisphenol A,  <span style="color:orange;"> **vitamin D** </span>, and parathyroid hormone levels in patients with obstructive  **sleep apnea**  syndrome. Endocrine 45(2):311–318 - PubMed - DOI
+1. Erden ES et al (2014) Investigation of serum bisphenol A,  **vitamin D** , and parathyroid hormone levels in patients with obstructive  **sleep apnea**  syndrome. Endocrine 45(2):311–318 - PubMed - DOI
 
-1. Kerley CP et al (2016) Serum  <span style="color:orange;"> **vitamin D** </span> is significantly inversely associated with disease severity in Caucasian adults with obstructive  **sleep apnea**  syndrome. Sleep 39(2):293–300 - PubMed - PMC - DOI
+1. Kerley CP et al (2016) Serum  **vitamin D**  is significantly inversely associated with disease severity in Caucasian adults with obstructive  **sleep apnea**  syndrome. Sleep 39(2):293–300 - PubMed - PMC - DOI
 
-1. Kirac D et al (2019) Different VDR, VDBP genotypes and  <span style="color:orange;"> **vitamin D** </span> levels may effect obstructive  **sleep apnea**  syndrome. Cell Mol Biol (Noisy-le-grand) 65(1):46–51 - PubMed - DOI
+1. Kirac D et al (2019) Different VDR, VDBP genotypes and  **vitamin D**  levels may effect obstructive  **sleep apnea**  syndrome. Cell Mol Biol (Noisy-le-grand) 65(1):46–51 - PubMed - DOI
 
-1. Klobučníková K et al (2017) Carotid intima-media thickness is not associated with homocysteine and  <span style="color:orange;"> **vitamin D** </span> levels in obstructive  **sleep apnea** . Scand J Clin Lab Invest 77(4):263–266 - PubMed - DOI
+1. Klobučníková K et al (2017) Carotid intima-media thickness is not associated with homocysteine and  **vitamin D**  levels in obstructive  **sleep apnea** . Scand J Clin Lab Invest 77(4):263–266 - PubMed - DOI
 
-1. Kotsiou OS et al (2022) Association between Interleukin-6 and  <span style="color:orange;"> **vitamin D** </span> serum levels in patients with obstructive  **sleep apnea**  syndrome and impact of long-term continuous positive airway pressure therapy on biomarker levels. Respir Physiol Neurobiol 296:103806 - PubMed - DOI
+1. Kotsiou OS et al (2022) Association between Interleukin-6 and  **vitamin D**  serum levels in patients with obstructive  **sleep apnea**  syndrome and impact of long-term continuous positive airway pressure therapy on biomarker levels. Respir Physiol Neurobiol 296:103806 - PubMed - DOI
 
-1. Liguori C et al (2015) Continuous positive airway pressure treatment increases serum  <span style="color:orange;"> **vitamin D** </span> levels in male patients with obstructive  **sleep apnea** . J Clin Sleep Med 11(6):603–607 - PubMed - PMC - DOI
+1. Liguori C et al (2015) Continuous positive airway pressure treatment increases serum  **vitamin D**  levels in male patients with obstructive  **sleep apnea** . J Clin Sleep Med 11(6):603–607 - PubMed - PMC - DOI
 
-1. Mete T et al (2013) Obstructive  **sleep apnea**  syndrome and its association with  <span style="color:orange;"> **vitamin D** </span> deficiency. J Endocrinol Invest 36(9):681–685 - PubMed
+1. Mete T et al (2013) Obstructive  **sleep apnea**  syndrome and its association with  **vitamin D**  deficiency. J Endocrinol Invest 36(9):681–685 - PubMed
 
 1. Sadaf S et al (2021) Effect of obstructive  **sleep apnea**  on bone mineral density. Turk Toraks Dergisi / Turk Thorac J 22(4):301–310 - DOI
 
-1. Siachpazidou DI et al (2021) Serum  <span style="color:orange;"> **vitamin D** </span> levels in patients with obstructive  **sleep apnea**  syndrome and level changes after continuous positive airway pressure therapy. Sleep Breath 25(2):657–668 - PubMed - DOI
+1. Siachpazidou DI et al (2021) Serum  **vitamin D**  levels in patients with obstructive  **sleep apnea**  syndrome and level changes after continuous positive airway pressure therapy. Sleep Breath 25(2):657–668 - PubMed - DOI
 
-1. Toujani S et al (2017)  <span style="color:orange;"> **vitamin D** </span> deficiency and interleukin-17 relationship in severe obstructive  **sleep apnea** –hypopnea syndrome. Ann Thorac Med 12(2):107–113 - PubMed - PMC - DOI
+1. Toujani S et al (2017)  **vitamin D**  deficiency and interleukin-17 relationship in severe obstructive  **sleep apnea** –hypopnea syndrome. Ann Thorac Med 12(2):107–113 - PubMed - PMC - DOI
 
-1. Theorell-Haglöw J et al (2018) Changes of  <span style="color:orange;"> **vitamin D** </span> levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
+1. Theorell-Haglöw J et al (2018) Changes of  **vitamin D**  levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
 
-1. Liguori C et al (2017)  <span style="color:orange;"> **vitamin D** </span> status of male OSAS patients improved after long-term CPAP treatment mainly in obese subjects. Sleep Med 29:81–85 - PubMed - DOI
+1. Liguori C et al (2017)  **vitamin D**  status of male OSAS patients improved after long-term CPAP treatment mainly in obese subjects. Sleep Med 29:81–85 - PubMed - DOI
 
-1. Ayyıldız F et al (2021) The effects of  <span style="color:orange;"> **vitamin D** </span> supplemantation on prognosis in patients with mild obstructive  **sleep apnea**  syndrome. Turk J Med Sci 51(5):2524–2533 - PubMed - DOI
+1. Ayyıldız F et al (2021) The effects of  **vitamin D**  supplemantation on prognosis in patients with mild obstructive  **sleep apnea**  syndrome. Turk J Med Sci 51(5):2524–2533 - PubMed - DOI
 
-1. Kerley CP et al (2017)  <span style="color:orange;"> **vitamin D** </span> improves selected metabolic parameters but not neuropsychological or quality of life indices in OSA: a pilot study. J Clin Sleep Med 13(1):19–26 - PubMed - PMC - DOI
+1. Kerley CP et al (2017)  **vitamin D**  improves selected metabolic parameters but not neuropsychological or quality of life indices in OSA: a pilot study. J Clin Sleep Med 13(1):19–26 - PubMed - PMC - DOI
 
 1. Gronewold J et al (2019) Sleep-disordered breathing in hospitalized geriatric patients with mild dementia and its association with cognition, emotion and mobility. Int J Environ Res Public Health <span>[Electron Resour]</span> 16(5):09
 
-1. Archontogeorgis K et al (2018) Metabolic syndrome and  <span style="color:orange;"> **vitamin D** </span> levels in patients with obstructive  **sleep apnea**  syndrome. Metab Syndr Relat Disord 16(4):190–196 - PubMed - DOI
+1. Archontogeorgis K et al (2018) Metabolic syndrome and  **vitamin D**  levels in patients with obstructive  **sleep apnea**  syndrome. Metab Syndr Relat Disord 16(4):190–196 - PubMed - DOI
 
-1. Upala S, Sanguankeo A (2015) Association between 25-hydroxy <span style="color:orange;"> **vitamin D** </span> and obstructive  **sleep apnea** : a systematic review and meta-analysis. J Clin Sleep Med 11(11):1347–1347 - PubMed - PMC - DOI
+1. Upala S, Sanguankeo A (2015) Association between 25-hydroxy **vitamin D**  and obstructive  **sleep apnea** : a systematic review and meta-analysis. J Clin Sleep Med 11(11):1347–1347 - PubMed - PMC - DOI
 
-1. Bennour I et al (2022)  <span style="color:orange;"> **vitamin D** </span> and obesity/adiposity–a brief overview of recent studies. Nutrients 14(10):2049 - PubMed - PMC - DOI
+1. Bennour I et al (2022)  **vitamin D**  and obesity/adiposity–a brief overview of recent studies. Nutrients 14(10):2049 - PubMed - PMC - DOI
 
-1. Moy FM, Bulgiba A (2011) High prevalence of  <span style="color:orange;"> **vitamin D** </span> insufficiency and its association with obesity and metabolic syndrome among Malay adults in Kuala Lumpur. Malaysia BMC Public Health 11:735 - PubMed - DOI
+1. Moy FM, Bulgiba A (2011) High prevalence of  **vitamin D**  insufficiency and its association with obesity and metabolic syndrome among Malay adults in Kuala Lumpur. Malaysia BMC Public Health 11:735 - PubMed - DOI
 
-1. Vranic L, Mikolasevic I, Milic S (2019)  <span style="color:orange;"> **vitamin D** </span> deficiency: consequence or cause of obesity? Medicina (Kaunas) 55(9):541 - PubMed - DOI
+1. Vranic L, Mikolasevic I, Milic S (2019)  **vitamin D**  deficiency: consequence or cause of obesity? Medicina (Kaunas) 55(9):541 - PubMed - DOI
 
-1. Duan L et al (2020) Effects of  <span style="color:orange;"> **vitamin D** </span> supplementation on general and central obesity: results from 20 randomized controlled trials involving apparently healthy populations. Ann Nutr Metab 76(3):153–164 - PubMed - DOI
+1. Duan L et al (2020) Effects of  **vitamin D**  supplementation on general and central obesity: results from 20 randomized controlled trials involving apparently healthy populations. Ann Nutr Metab 76(3):153–164 - PubMed - DOI
 
 1. Romero-Corral A et al (2010) Interactions between obesity and obstructive  **sleep apnea** : implications for treatment. Chest 137(3):711–719 - PubMed - PMC - DOI
 
@@ -187,21 +187,21 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Kuvat N, Tanriverdi H, Armutcu F (2020) The relationship between obstructive  **sleep apnea**  syndrome and obesity: a new perspective on the pathogenesis in terms of organ crosstalk. Clin Respir J 14(7):595–604 - PubMed - DOI
 
-1. Fan Z et al (2019) Independent association of  <span style="color:orange;"> **vitamin D** </span> and insulin resistance in obstructive  **sleep apnea** . Ann Endocrinol (Paris) 80(5–6):319–323 - PubMed - DOI
+1. Fan Z et al (2019) Independent association of  **vitamin D**  and insulin resistance in obstructive  **sleep apnea** . Ann Endocrinol (Paris) 80(5–6):319–323 - PubMed - DOI
 
 1. Gonzalez-Muniesa P et al (2017) Obesity. Nat Rev Dis Primers 3:17034 - PubMed - DOI
 
-1. Thacher TD, Clarke BL (2011)  <span style="color:orange;"> **vitamin D** </span> insufficiency. Mayo Clin Proc 86(1):50–60 - PubMed - PMC - DOI
+1. Thacher TD, Clarke BL (2011)  **vitamin D**  insufficiency. Mayo Clin Proc 86(1):50–60 - PubMed - PMC - DOI
 
-1. Lopez A-G, Kerlan V, Desailloud R (2021) Non-classical effects of  <span style="color:orange;"> **vitamin D** </span>: non-bone effects of  <span style="color:orange;"> **vitamin D** </span>. Ann Endocrinol 82(1):43–51 - DOI
+1. Lopez A-G, Kerlan V, Desailloud R (2021) Non-classical effects of  **vitamin D** : non-bone effects of  **vitamin D** . Ann Endocrinol 82(1):43–51 - DOI
 
 1. Maniero C et al (2011) Primary hyperparathyroidism with concurrent primary aldosteronism. Hypertension 58(3):341–346 - PubMed - DOI
 
 1. Gabryelska A et al (2020) Patients with obstructive  **sleep apnea**  present with chronic upregulation of serum HIF-1alpha protein. J Clin Sleep Med 16(10):1761–1768 - PubMed - PMC - DOI
 
-1. Ben-Shoshan M et al (2007) 1alpha,25-Dihydroxy <span style="color:orange;"> **vitamin D** </span>3 (calcitriol) inhibits hypoxia-inducible factor-1/vascular endothelial growth factor pathway in human cancer cells. Mol Cancer Ther 6(4):1433–1439 - PubMed - DOI
+1. Ben-Shoshan M et al (2007) 1alpha,25-Dihydroxy **vitamin D** 3 (calcitriol) inhibits hypoxia-inducible factor-1/vascular endothelial growth factor pathway in human cancer cells. Mol Cancer Ther 6(4):1433–1439 - PubMed - DOI
 
-1. McCarty DE et al (2014) The link between  <span style="color:orange;"> **vitamin D** </span> metabolism and sleep medicine. Sleep Med Rev 18(4):311–319 - PubMed - DOI
+1. McCarty DE et al (2014) The link between  **vitamin D**  metabolism and sleep medicine. Sleep Med Rev 18(4):311–319 - PubMed - DOI
 
 1. Patil SP et al (2007) Adult obstructive  **sleep apnea** : pathophysiology and diagnosis. Chest 132(1):325–337 - PubMed - DOI
 
@@ -211,39 +211,39 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Martin S et al (1997) The effect of age, sex, obesity and posture on upper airway size. Eur Respir J 10(9):2087–2090 - PubMed - DOI
 
-1. Kweder H, Eidi H (2018)  <span style="color:orange;"> **vitamin D** </span> deficiency in elderly: risk factors and drugs impact on  <span style="color:orange;"> **vitamin D** </span> status. Avicenna J Med 8(4):139–146 - PubMed - PMC - DOI
+1. Kweder H, Eidi H (2018)  **vitamin D**  deficiency in elderly: risk factors and drugs impact on  **vitamin D**  status. Avicenna J Med 8(4):139–146 - PubMed - PMC - DOI
 
-1. Gallagher JC (2013)  <span style="color:orange;"> **vitamin D** </span> and aging. Endocrinol Metab Clin North Am 42(2):319–332 - PubMed - PMC - DOI
+1. Gallagher JC (2013)  **vitamin D**  and aging. Endocrinol Metab Clin North Am 42(2):319–332 - PubMed - PMC - DOI
 
-1. Ebeling PR et al (1992) Evidence of an age-related decrease in intestinal responsiveness to  <span style="color:orange;"> **vitamin D** </span>: relationship between serum 1,25-dihydroxy <span style="color:orange;"> **vitamin D** </span>3 and intestinal  <span style="color:orange;"> **vitamin D** </span> receptor concentrations in normal women. J Clin Endocrinol Metab 75(1):176–182 - PubMed
+1. Ebeling PR et al (1992) Evidence of an age-related decrease in intestinal responsiveness to  **vitamin D** : relationship between serum 1,25-dihydroxy **vitamin D** 3 and intestinal  **vitamin D**  receptor concentrations in normal women. J Clin Endocrinol Metab 75(1):176–182 - PubMed
 
-1. Chalcraft JR et al (2020)  <span style="color:orange;"> **vitamin D** </span> synthesis following a single bout of sun exposure in older and younger men and women. Nutrients 12(8):2237 - PubMed - PMC - DOI
+1. Chalcraft JR et al (2020)  **vitamin D**  synthesis following a single bout of sun exposure in older and younger men and women. Nutrients 12(8):2237 - PubMed - PMC - DOI
 
-1. Norman AW (2006) Minireview:  <span style="color:orange;"> **vitamin D** </span> receptor: new assignments for an already busy receptor. Endocrinology 147(12):5542–5548 - PubMed - DOI
+1. Norman AW (2006) Minireview:  **vitamin D**  receptor: new assignments for an already busy receptor. Endocrinology 147(12):5542–5548 - PubMed - DOI
 
-1. Mitri J, Muraru MD, Pittas AG (2011)  <span style="color:orange;"> **vitamin D** </span> and type 2 diabetes: a systematic review. Eur J Clin Nutr 65(9):1005–1015 - PubMed - PMC - DOI
+1. Mitri J, Muraru MD, Pittas AG (2011)  **vitamin D**  and type 2 diabetes: a systematic review. Eur J Clin Nutr 65(9):1005–1015 - PubMed - PMC - DOI
 
-1. Gedik O, Akalin S (1986) Effects of  <span style="color:orange;"> **vitamin D** </span> deficiency and repletion on insulin and glucagon secretion in man. Diabetologia 29(3):142–145 - PubMed - DOI
+1. Gedik O, Akalin S (1986) Effects of  **vitamin D**  deficiency and repletion on insulin and glucagon secretion in man. Diabetologia 29(3):142–145 - PubMed - DOI
 
-1. Barchetta I, Cimini FA, Cavallo MG (2020)  <span style="color:orange;"> **vitamin D** </span> and metabolic dysfunction-associated fatty liver disease (MAFLD): an update. Nutrients 12(11):3302 - PubMed - PMC - DOI
+1. Barchetta I, Cimini FA, Cavallo MG (2020)  **vitamin D**  and metabolic dysfunction-associated fatty liver disease (MAFLD): an update. Nutrients 12(11):3302 - PubMed - PMC - DOI
 
-1. Bikle DD, Schwartz J (2019)  <span style="color:orange;"> **vitamin D** </span> binding protein, total and free  <span style="color:orange;"> **vitamin D** </span> levels in different physiological and pathophysiological conditions. Front Endocrinol (Lausanne) 10:317 - PubMed - DOI
+1. Bikle DD, Schwartz J (2019)  **vitamin D**  binding protein, total and free  **vitamin D**  levels in different physiological and pathophysiological conditions. Front Endocrinol (Lausanne) 10:317 - PubMed - DOI
 
-1. Pazarli AC, Ekiz T, İnönüKöseoğlu H (2019) Association between 25-hydroxy <span style="color:orange;"> **vitamin D** </span> and bone mineral density in people with obstructive  **sleep apnea**  syndrome. J Clin Densitom 22(1):39–46 - PubMed - DOI
+1. Pazarli AC, Ekiz T, İnönüKöseoğlu H (2019) Association between 25-hydroxy **vitamin D**  and bone mineral density in people with obstructive  **sleep apnea**  syndrome. J Clin Densitom 22(1):39–46 - PubMed - DOI
 
 1. Qiao Y et al (2018) Bone metabolic markers in patients with obstructive  **sleep apnea**  syndrome. Chin Med J (Engl) 131(16):1898–1903 - PubMed - DOI
 
-1. Ragia G et al (2019) Genetics of obstructive  **sleep apnea** :  <span style="color:orange;"> **vitamin D** </span> receptor gene variation affects both  <span style="color:orange;"> **vitamin D** </span> serum concentration and disease susceptibility. OMICS 23(1):45–53 - PubMed - DOI
+1. Ragia G et al (2019) Genetics of obstructive  **sleep apnea** :  **vitamin D**  receptor gene variation affects both  **vitamin D**  serum concentration and disease susceptibility. OMICS 23(1):45–53 - PubMed - DOI
 
 1. Sadaf S et al (2021) Effect of obstructive  **sleep apnea**  on bone mineral density. Turk Thorac J 22(4):301–310 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2022)  <span style="color:orange;"> **vitamin D** </span> levels in patients with overlap syndrome, is it associated with disease severity? J Pers Med 12(10):1693 - PubMed - PMC - DOI
+1. Archontogeorgis K et al (2022)  **vitamin D**  levels in patients with overlap syndrome, is it associated with disease severity? J Pers Med 12(10):1693 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2019) Reduced serum  <span style="color:orange;"> **vitamin D** </span> levels are associated with insulin resistance in patients with obstructive  **sleep apnea**  syndrome. Medicina (Kaunas) 55(5):174 - PubMed - DOI
+1. Archontogeorgis K et al (2019) Reduced serum  **vitamin D**  levels are associated with insulin resistance in patients with obstructive  **sleep apnea**  syndrome. Medicina (Kaunas) 55(5):174 - PubMed - DOI
 
-1. Theorell-Haglow J et al (2018) Changes of  <span style="color:orange;"> **vitamin D** </span> levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
+1. Theorell-Haglow J et al (2018) Changes of  **vitamin D**  levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
 
-1. Siachpazidou DI et al (2020) 25-hydroxy <span style="color:orange;"> **vitamin D** </span> levels in patients with obstructive  **sleep apnea**  and continuous positive airway pressure treatment: a brief review. Sleep Sci 13(1):78–83 - PubMed - PMC
+1. Siachpazidou DI et al (2020) 25-hydroxy **vitamin D**  levels in patients with obstructive  **sleep apnea**  and continuous positive airway pressure treatment: a brief review. Sleep Sci 13(1):78–83 - PubMed - PMC
 
 ---
 
@@ -347,85 +347,85 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Gami AS, Caples SM, Somers VK (2003) Obesity and obstructive  **sleep apnea** . Endocrinol Metab Clin North Am 32(4):869–894 - PubMed - DOI
 
-1. Holick MF (2009)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; status: measurement, interpretation, and clinical application. Ann Epidemiol 19(2):73–78 - PubMed - DOI
+1. Holick MF (2009)  **vitamin D**  status: measurement, interpretation, and clinical application. Ann Epidemiol 19(2):73–78 - PubMed - DOI
 
-1. Wang TJ et al (2008)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency and risk of cardiovascular disease. Circulation 117(4):503–511 - PubMed - DOI
+1. Wang TJ et al (2008)  **vitamin D**  deficiency and risk of cardiovascular disease. Circulation 117(4):503–511 - PubMed - DOI
 
-1. Cosentino N et al (2021)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and cardiovascular disease: current evidence and future perspectives. Nutrients 13(10):3603 - PubMed - PMC - DOI
+1. Cosentino N et al (2021)  **vitamin D**  and cardiovascular disease: current evidence and future perspectives. Nutrients 13(10):3603 - PubMed - PMC - DOI
 
-1. Holick MF et al (2011) Evaluation, treatment, and prevention of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 96(7):1911–1930 - PubMed - DOI
+1. Holick MF et al (2011) Evaluation, treatment, and prevention of  **vitamin D**  deficiency: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 96(7):1911–1930 - PubMed - DOI
 
-1. Romano F et al (2020)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and sleep regulation: is there a role for  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;? Curr Pharm Des 26(21):2492–2496 - PubMed - DOI
+1. Romano F et al (2020)  **vitamin D**  and sleep regulation: is there a role for  **vitamin D** ? Curr Pharm Des 26(21):2492–2496 - PubMed - DOI
 
-1. Archontogeorgis K et al (2018) The role of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; in obstructive sleep  **apnoea syndrome** . Breathe (Sheff) 14(3):206–215 - PubMed - DOI
+1. Archontogeorgis K et al (2018) The role of  **vitamin D**  in obstructive sleep  **apnoea syndrome** . Breathe (Sheff) 14(3):206–215 - PubMed - DOI
 
-1. Loh HH, Sukor N (2023) Obstructive  **sleep apnea**  and  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; level: Has the dust settled? Clin Respir J 1(16). https://doi.org/10.1111/crj.13593
+1. Loh HH, Sukor N (2023) Obstructive  **sleep apnea**  and  **vitamin D**  level: Has the dust settled? Clin Respir J 1(16). https://doi.org/10.1111/crj.13593
 
-1. Li X, He J, Yun J (2020) The association between serum  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and obstructive  **sleep apnea** : an updated meta-analysis. Respir Res 21(1):294 - PubMed - PMC - DOI
+1. Li X, He J, Yun J (2020) The association between serum  **vitamin D**  and obstructive  **sleep apnea** : an updated meta-analysis. Respir Res 21(1):294 - PubMed - PMC - DOI
 
-1. Neighbors CLP et al (2018)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and obstructive  **sleep apnea** : a systematic review and meta-analysis. Sleep Med 43:100–108 - PubMed - DOI
+1. Neighbors CLP et al (2018)  **vitamin D**  and obstructive  **sleep apnea** : a systematic review and meta-analysis. Sleep Med 43:100–108 - PubMed - DOI
 
 1. Herzog R et al (2013) Are healthcare workers’ intentions to vaccinate related to their knowledge, beliefs and attitudes? A systematic review. BMC Public Health 13:154 - PubMed - PMC - DOI
 
 1. Lechat B et al (2022) Multinight prevalence, variability, and diagnostic misclassification of obstructive  **sleep apnea** . Am J Respir Crit Care Med 205(5):563–569 - PubMed - DOI
 
-1. Bouloukaki I et al (2021)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency in patients evaluated for obstructive  **sleep apnea** : is it associated with disease severity? Sleep Breath 25(2):1109–1117 - PubMed - DOI
+1. Bouloukaki I et al (2021)  **vitamin D**  deficiency in patients evaluated for obstructive  **sleep apnea** : is it associated with disease severity? Sleep Breath 25(2):1109–1117 - PubMed - DOI
 
-1. Goswami U et al (2016)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; concentrations and obstructive  **sleep apnea**  in a multicenter cohort of older males. Ann Am Thorac Soc 13(5):712–718 - PubMed - PMC - DOI
+1. Goswami U et al (2016)  **vitamin D**  concentrations and obstructive  **sleep apnea**  in a multicenter cohort of older males. Ann Am Thorac Soc 13(5):712–718 - PubMed - PMC - DOI
 
 1. Ma D et al (2020) The relationship of serum 25-hydroxyvitamin-D level with severity of obstructive  **sleep apnea**  in patients with type 2 diabetes mellitus. Diabetes Metab Syndr Obes 13:1391–1398 - PubMed - PMC - DOI
 
 1. Qiao Y et al (2018) Bone metabolic markers in patients with obstructive  **sleep apnea**  syndrome. Chin Med J (English Edition) 131(16):1898–1903
 
-1. Salepci B et al (2017)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency in patients referred for evaluation of obstructive  **sleep apnea** . J Clin Sleep Med 13(4):607–612 - PubMed - PMC - DOI
+1. Salepci B et al (2017)  **vitamin D**  deficiency in patients referred for evaluation of obstructive  **sleep apnea** . J Clin Sleep Med 13(4):607–612 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2018)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in middle-aged patients with obstructive sleep  **apnoea syndrome** . Curr Vasc Pharmacol 16(3):289–297 - PubMed - DOI
+1. Archontogeorgis K et al (2018)  **vitamin D**  levels in middle-aged patients with obstructive sleep  **apnoea syndrome** . Curr Vasc Pharmacol 16(3):289–297 - PubMed - DOI
 
-1. Bhatt SP, Guleria R, Vikram NK (2021) The effect of the severity of obstructive  **sleep apnea**  on leukocyte telomere length, 25 hydroxy  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;, and parathyroid hormonal concentrations in Asian Indians. Front Neurol 12:682739 - PubMed - PMC - DOI
+1. Bhatt SP, Guleria R, Vikram NK (2021) The effect of the severity of obstructive  **sleep apnea**  on leukocyte telomere length, 25 hydroxy  **vitamin D** , and parathyroid hormonal concentrations in Asian Indians. Front Neurol 12:682739 - PubMed - PMC - DOI
 
 1. Bozkurt NC et al (2012) The relation of serum 25-hydroxyvitamin-D levels with severity of obstructive  **sleep apnea**  and glucose metabolism abnormalities. Endocrine 41(3):518–525 - PubMed - DOI
 
-1. Erden ES et al (2014) Investigation of serum bisphenol A,  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;, and parathyroid hormone levels in patients with obstructive  **sleep apnea**  syndrome. Endocrine 45(2):311–318 - PubMed - DOI
+1. Erden ES et al (2014) Investigation of serum bisphenol A,  **vitamin D** , and parathyroid hormone levels in patients with obstructive  **sleep apnea**  syndrome. Endocrine 45(2):311–318 - PubMed - DOI
 
-1. Kerley CP et al (2016) Serum  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; is significantly inversely associated with disease severity in Caucasian adults with obstructive  **sleep apnea**  syndrome. Sleep 39(2):293–300 - PubMed - PMC - DOI
+1. Kerley CP et al (2016) Serum  **vitamin D**  is significantly inversely associated with disease severity in Caucasian adults with obstructive  **sleep apnea**  syndrome. Sleep 39(2):293–300 - PubMed - PMC - DOI
 
-1. Kirac D et al (2019) Different VDR, VDBP genotypes and  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels may effect obstructive  **sleep apnea**  syndrome. Cell Mol Biol (Noisy-le-grand) 65(1):46–51 - PubMed - DOI
+1. Kirac D et al (2019) Different VDR, VDBP genotypes and  **vitamin D**  levels may effect obstructive  **sleep apnea**  syndrome. Cell Mol Biol (Noisy-le-grand) 65(1):46–51 - PubMed - DOI
 
-1. Klobučníková K et al (2017) Carotid intima-media thickness is not associated with homocysteine and  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in obstructive  **sleep apnea** . Scand J Clin Lab Invest 77(4):263–266 - PubMed - DOI
+1. Klobučníková K et al (2017) Carotid intima-media thickness is not associated with homocysteine and  **vitamin D**  levels in obstructive  **sleep apnea** . Scand J Clin Lab Invest 77(4):263–266 - PubMed - DOI
 
-1. Kotsiou OS et al (2022) Association between Interleukin-6 and  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; serum levels in patients with obstructive  **sleep apnea**  syndrome and impact of long-term continuous positive airway pressure therapy on biomarker levels. Respir Physiol Neurobiol 296:103806 - PubMed - DOI
+1. Kotsiou OS et al (2022) Association between Interleukin-6 and  **vitamin D**  serum levels in patients with obstructive  **sleep apnea**  syndrome and impact of long-term continuous positive airway pressure therapy on biomarker levels. Respir Physiol Neurobiol 296:103806 - PubMed - DOI
 
-1. Liguori C et al (2015) Continuous positive airway pressure treatment increases serum  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in male patients with obstructive  **sleep apnea** . J Clin Sleep Med 11(6):603–607 - PubMed - PMC - DOI
+1. Liguori C et al (2015) Continuous positive airway pressure treatment increases serum  **vitamin D**  levels in male patients with obstructive  **sleep apnea** . J Clin Sleep Med 11(6):603–607 - PubMed - PMC - DOI
 
-1. Mete T et al (2013) Obstructive  **sleep apnea**  syndrome and its association with  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency. J Endocrinol Invest 36(9):681–685 - PubMed
+1. Mete T et al (2013) Obstructive  **sleep apnea**  syndrome and its association with  **vitamin D**  deficiency. J Endocrinol Invest 36(9):681–685 - PubMed
 
 1. Sadaf S et al (2021) Effect of obstructive  **sleep apnea**  on bone mineral density. Turk Toraks Dergisi / Turk Thorac J 22(4):301–310 - DOI
 
-1. Siachpazidou DI et al (2021) Serum  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in patients with obstructive  **sleep apnea**  syndrome and level changes after continuous positive airway pressure therapy. Sleep Breath 25(2):657–668 - PubMed - DOI
+1. Siachpazidou DI et al (2021) Serum  **vitamin D**  levels in patients with obstructive  **sleep apnea**  syndrome and level changes after continuous positive airway pressure therapy. Sleep Breath 25(2):657–668 - PubMed - DOI
 
-1. Toujani S et al (2017)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency and interleukin-17 relationship in severe obstructive  **sleep apnea** –hypopnea syndrome. Ann Thorac Med 12(2):107–113 - PubMed - PMC - DOI
+1. Toujani S et al (2017)  **vitamin D**  deficiency and interleukin-17 relationship in severe obstructive  **sleep apnea** –hypopnea syndrome. Ann Thorac Med 12(2):107–113 - PubMed - PMC - DOI
 
-1. Theorell-Haglöw J et al (2018) Changes of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
+1. Theorell-Haglöw J et al (2018) Changes of  **vitamin D**  levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
 
-1. Liguori C et al (2017)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; status of male OSAS patients improved after long-term CPAP treatment mainly in obese subjects. Sleep Med 29:81–85 - PubMed - DOI
+1. Liguori C et al (2017)  **vitamin D**  status of male OSAS patients improved after long-term CPAP treatment mainly in obese subjects. Sleep Med 29:81–85 - PubMed - DOI
 
-1. Ayyıldız F et al (2021) The effects of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; supplemantation on prognosis in patients with mild obstructive  **sleep apnea**  syndrome. Turk J Med Sci 51(5):2524–2533 - PubMed - DOI
+1. Ayyıldız F et al (2021) The effects of  **vitamin D**  supplemantation on prognosis in patients with mild obstructive  **sleep apnea**  syndrome. Turk J Med Sci 51(5):2524–2533 - PubMed - DOI
 
-1. Kerley CP et al (2017)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; improves selected metabolic parameters but not neuropsychological or quality of life indices in OSA: a pilot study. J Clin Sleep Med 13(1):19–26 - PubMed - PMC - DOI
+1. Kerley CP et al (2017)  **vitamin D**  improves selected metabolic parameters but not neuropsychological or quality of life indices in OSA: a pilot study. J Clin Sleep Med 13(1):19–26 - PubMed - PMC - DOI
 
 1. Gronewold J et al (2019) Sleep-disordered breathing in hospitalized geriatric patients with mild dementia and its association with cognition, emotion and mobility. Int J Environ Res Public Health &lt;span&gt;[Electron Resour]&lt;/span&gt; 16(5):09
 
-1. Archontogeorgis K et al (2018) Metabolic syndrome and  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in patients with obstructive  **sleep apnea**  syndrome. Metab Syndr Relat Disord 16(4):190–196 - PubMed - DOI
+1. Archontogeorgis K et al (2018) Metabolic syndrome and  **vitamin D**  levels in patients with obstructive  **sleep apnea**  syndrome. Metab Syndr Relat Disord 16(4):190–196 - PubMed - DOI
 
-1. Upala S, Sanguankeo A (2015) Association between 25-hydroxy &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and obstructive  **sleep apnea** : a systematic review and meta-analysis. J Clin Sleep Med 11(11):1347–1347 - PubMed - PMC - DOI
+1. Upala S, Sanguankeo A (2015) Association between 25-hydroxy **vitamin D**  and obstructive  **sleep apnea** : a systematic review and meta-analysis. J Clin Sleep Med 11(11):1347–1347 - PubMed - PMC - DOI
 
-1. Bennour I et al (2022)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and obesity/adiposity–a brief overview of recent studies. Nutrients 14(10):2049 - PubMed - PMC - DOI
+1. Bennour I et al (2022)  **vitamin D**  and obesity/adiposity–a brief overview of recent studies. Nutrients 14(10):2049 - PubMed - PMC - DOI
 
-1. Moy FM, Bulgiba A (2011) High prevalence of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; insufficiency and its association with obesity and metabolic syndrome among Malay adults in Kuala Lumpur. Malaysia BMC Public Health 11:735 - PubMed - DOI
+1. Moy FM, Bulgiba A (2011) High prevalence of  **vitamin D**  insufficiency and its association with obesity and metabolic syndrome among Malay adults in Kuala Lumpur. Malaysia BMC Public Health 11:735 - PubMed - DOI
 
-1. Vranic L, Mikolasevic I, Milic S (2019)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency: consequence or cause of obesity? Medicina (Kaunas) 55(9):541 - PubMed - DOI
+1. Vranic L, Mikolasevic I, Milic S (2019)  **vitamin D**  deficiency: consequence or cause of obesity? Medicina (Kaunas) 55(9):541 - PubMed - DOI
 
-1. Duan L et al (2020) Effects of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; supplementation on general and central obesity: results from 20 randomized controlled trials involving apparently healthy populations. Ann Nutr Metab 76(3):153–164 - PubMed - DOI
+1. Duan L et al (2020) Effects of  **vitamin D**  supplementation on general and central obesity: results from 20 randomized controlled trials involving apparently healthy populations. Ann Nutr Metab 76(3):153–164 - PubMed - DOI
 
 1. Romero-Corral A et al (2010) Interactions between obesity and obstructive  **sleep apnea** : implications for treatment. Chest 137(3):711–719 - PubMed - PMC - DOI
 
@@ -433,21 +433,21 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Kuvat N, Tanriverdi H, Armutcu F (2020) The relationship between obstructive  **sleep apnea**  syndrome and obesity: a new perspective on the pathogenesis in terms of organ crosstalk. Clin Respir J 14(7):595–604 - PubMed - DOI
 
-1. Fan Z et al (2019) Independent association of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and insulin resistance in obstructive  **sleep apnea** . Ann Endocrinol (Paris) 80(5–6):319–323 - PubMed - DOI
+1. Fan Z et al (2019) Independent association of  **vitamin D**  and insulin resistance in obstructive  **sleep apnea** . Ann Endocrinol (Paris) 80(5–6):319–323 - PubMed - DOI
 
 1. Gonzalez-Muniesa P et al (2017) Obesity. Nat Rev Dis Primers 3:17034 - PubMed - DOI
 
-1. Thacher TD, Clarke BL (2011)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; insufficiency. Mayo Clin Proc 86(1):50–60 - PubMed - PMC - DOI
+1. Thacher TD, Clarke BL (2011)  **vitamin D**  insufficiency. Mayo Clin Proc 86(1):50–60 - PubMed - PMC - DOI
 
-1. Lopez A-G, Kerlan V, Desailloud R (2021) Non-classical effects of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;: non-bone effects of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;. Ann Endocrinol 82(1):43–51 - DOI
+1. Lopez A-G, Kerlan V, Desailloud R (2021) Non-classical effects of  **vitamin D** : non-bone effects of  **vitamin D** . Ann Endocrinol 82(1):43–51 - DOI
 
 1. Maniero C et al (2011) Primary hyperparathyroidism with concurrent primary aldosteronism. Hypertension 58(3):341–346 - PubMed - DOI
 
 1. Gabryelska A et al (2020) Patients with obstructive  **sleep apnea**  present with chronic upregulation of serum HIF-1alpha protein. J Clin Sleep Med 16(10):1761–1768 - PubMed - PMC - DOI
 
-1. Ben-Shoshan M et al (2007) 1alpha,25-Dihydroxy &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;3 (calcitriol) inhibits hypoxia-inducible factor-1/vascular endothelial growth factor pathway in human cancer cells. Mol Cancer Ther 6(4):1433–1439 - PubMed - DOI
+1. Ben-Shoshan M et al (2007) 1alpha,25-Dihydroxy **vitamin D** 3 (calcitriol) inhibits hypoxia-inducible factor-1/vascular endothelial growth factor pathway in human cancer cells. Mol Cancer Ther 6(4):1433–1439 - PubMed - DOI
 
-1. McCarty DE et al (2014) The link between  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; metabolism and sleep medicine. Sleep Med Rev 18(4):311–319 - PubMed - DOI
+1. McCarty DE et al (2014) The link between  **vitamin D**  metabolism and sleep medicine. Sleep Med Rev 18(4):311–319 - PubMed - DOI
 
 1. Patil SP et al (2007) Adult obstructive  **sleep apnea** : pathophysiology and diagnosis. Chest 132(1):325–337 - PubMed - DOI
 
@@ -457,39 +457,39 @@ Conclusion: Patients with OSA have lower serum 25-OHD levels with a higher preva
 
 1. Martin S et al (1997) The effect of age, sex, obesity and posture on upper airway size. Eur Respir J 10(9):2087–2090 - PubMed - DOI
 
-1. Kweder H, Eidi H (2018)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency in elderly: risk factors and drugs impact on  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; status. Avicenna J Med 8(4):139–146 - PubMed - PMC - DOI
+1. Kweder H, Eidi H (2018)  **vitamin D**  deficiency in elderly: risk factors and drugs impact on  **vitamin D**  status. Avicenna J Med 8(4):139–146 - PubMed - PMC - DOI
 
-1. Gallagher JC (2013)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and aging. Endocrinol Metab Clin North Am 42(2):319–332 - PubMed - PMC - DOI
+1. Gallagher JC (2013)  **vitamin D**  and aging. Endocrinol Metab Clin North Am 42(2):319–332 - PubMed - PMC - DOI
 
-1. Ebeling PR et al (1992) Evidence of an age-related decrease in intestinal responsiveness to  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;: relationship between serum 1,25-dihydroxy &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt;3 and intestinal  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; receptor concentrations in normal women. J Clin Endocrinol Metab 75(1):176–182 - PubMed
+1. Ebeling PR et al (1992) Evidence of an age-related decrease in intestinal responsiveness to  **vitamin D** : relationship between serum 1,25-dihydroxy **vitamin D** 3 and intestinal  **vitamin D**  receptor concentrations in normal women. J Clin Endocrinol Metab 75(1):176–182 - PubMed
 
-1. Chalcraft JR et al (2020)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; synthesis following a single bout of sun exposure in older and younger men and women. Nutrients 12(8):2237 - PubMed - PMC - DOI
+1. Chalcraft JR et al (2020)  **vitamin D**  synthesis following a single bout of sun exposure in older and younger men and women. Nutrients 12(8):2237 - PubMed - PMC - DOI
 
-1. Norman AW (2006) Minireview:  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; receptor: new assignments for an already busy receptor. Endocrinology 147(12):5542–5548 - PubMed - DOI
+1. Norman AW (2006) Minireview:  **vitamin D**  receptor: new assignments for an already busy receptor. Endocrinology 147(12):5542–5548 - PubMed - DOI
 
-1. Mitri J, Muraru MD, Pittas AG (2011)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and type 2 diabetes: a systematic review. Eur J Clin Nutr 65(9):1005–1015 - PubMed - PMC - DOI
+1. Mitri J, Muraru MD, Pittas AG (2011)  **vitamin D**  and type 2 diabetes: a systematic review. Eur J Clin Nutr 65(9):1005–1015 - PubMed - PMC - DOI
 
-1. Gedik O, Akalin S (1986) Effects of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; deficiency and repletion on insulin and glucagon secretion in man. Diabetologia 29(3):142–145 - PubMed - DOI
+1. Gedik O, Akalin S (1986) Effects of  **vitamin D**  deficiency and repletion on insulin and glucagon secretion in man. Diabetologia 29(3):142–145 - PubMed - DOI
 
-1. Barchetta I, Cimini FA, Cavallo MG (2020)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and metabolic dysfunction-associated fatty liver disease (MAFLD): an update. Nutrients 12(11):3302 - PubMed - PMC - DOI
+1. Barchetta I, Cimini FA, Cavallo MG (2020)  **vitamin D**  and metabolic dysfunction-associated fatty liver disease (MAFLD): an update. Nutrients 12(11):3302 - PubMed - PMC - DOI
 
-1. Bikle DD, Schwartz J (2019)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; binding protein, total and free  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in different physiological and pathophysiological conditions. Front Endocrinol (Lausanne) 10:317 - PubMed - DOI
+1. Bikle DD, Schwartz J (2019)  **vitamin D**  binding protein, total and free  **vitamin D**  levels in different physiological and pathophysiological conditions. Front Endocrinol (Lausanne) 10:317 - PubMed - DOI
 
-1. Pazarli AC, Ekiz T, İnönüKöseoğlu H (2019) Association between 25-hydroxy &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; and bone mineral density in people with obstructive  **sleep apnea**  syndrome. J Clin Densitom 22(1):39–46 - PubMed - DOI
+1. Pazarli AC, Ekiz T, İnönüKöseoğlu H (2019) Association between 25-hydroxy **vitamin D**  and bone mineral density in people with obstructive  **sleep apnea**  syndrome. J Clin Densitom 22(1):39–46 - PubMed - DOI
 
 1. Qiao Y et al (2018) Bone metabolic markers in patients with obstructive  **sleep apnea**  syndrome. Chin Med J (Engl) 131(16):1898–1903 - PubMed - DOI
 
-1. Ragia G et al (2019) Genetics of obstructive  **sleep apnea** :  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; receptor gene variation affects both  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; serum concentration and disease susceptibility. OMICS 23(1):45–53 - PubMed - DOI
+1. Ragia G et al (2019) Genetics of obstructive  **sleep apnea** :  **vitamin D**  receptor gene variation affects both  **vitamin D**  serum concentration and disease susceptibility. OMICS 23(1):45–53 - PubMed - DOI
 
 1. Sadaf S et al (2021) Effect of obstructive  **sleep apnea**  on bone mineral density. Turk Thorac J 22(4):301–310 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2022)  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in patients with overlap syndrome, is it associated with disease severity? J Pers Med 12(10):1693 - PubMed - PMC - DOI
+1. Archontogeorgis K et al (2022)  **vitamin D**  levels in patients with overlap syndrome, is it associated with disease severity? J Pers Med 12(10):1693 - PubMed - PMC - DOI
 
-1. Archontogeorgis K et al (2019) Reduced serum  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels are associated with insulin resistance in patients with obstructive  **sleep apnea**  syndrome. Medicina (Kaunas) 55(5):174 - PubMed - DOI
+1. Archontogeorgis K et al (2019) Reduced serum  **vitamin D**  levels are associated with insulin resistance in patients with obstructive  **sleep apnea**  syndrome. Medicina (Kaunas) 55(5):174 - PubMed - DOI
 
-1. Theorell-Haglow J et al (2018) Changes of  &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
+1. Theorell-Haglow J et al (2018) Changes of  **vitamin D**  levels and bone turnover markers after CPAP therapy: a randomized sham-controlled trial. J Sleep Res 27(4):e12606 - PubMed - DOI
 
-1. Siachpazidou DI et al (2020) 25-hydroxy &lt;span style=&quot;color:orange;&quot;&gt; **vitamin D** &lt;/span&gt; levels in patients with obstructive  **sleep apnea**  and continuous positive airway pressure treatment: a brief review. Sleep Sci 13(1):78–83 - PubMed - PMC
+1. Siachpazidou DI et al (2020) 25-hydroxy **vitamin D**  levels in patients with obstructive  **sleep apnea**  and continuous positive airway pressure treatment: a brief review. Sleep Sci 13(1):78–83 - PubMed - PMC
 
 ---
 

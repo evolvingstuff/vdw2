@@ -28,7 +28,7 @@ Results: The base-case analysis showed that vitamin D supplementation was associ
 
 Conclusion: In conclusion, our study shows that Vitamin D supplementation is a cost-effective strategy to prevent ARI in pediatric patients, from a societal perspective.
 
- <span style="color:orange;"> **Appears to consider 400-1,000 IU Vitamin D daily for children** </span>
+ **Appears to consider 400-1,000 IU Vitamin D daily for children** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -59,7 +59,7 @@ Results: The base-case analysis showed that vitamin D supplementation was associ
 
 Conclusion: In conclusion, our study shows that Vitamin D supplementation is a cost-effective strategy to prevent ARI in pediatric patients, from a societal perspective.
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Appears to consider 400-1,000 IU Vitamin D daily for children** &lt;/span&gt;
+ **Appears to consider 400-1,000 IU Vitamin D daily for children** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

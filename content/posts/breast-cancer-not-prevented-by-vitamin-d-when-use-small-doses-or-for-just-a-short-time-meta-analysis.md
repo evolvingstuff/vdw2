@@ -11,7 +11,8 @@ categories:
 ---
 
 
- **<span style="color:orange;">The study looked at >2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?</span>** 
+ **The study looked at >2,000 studies.   
+Wonder how much they were paid to find the 10 studies that did not find a benefit?** 
 
  **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss)** 
 
@@ -40,7 +41,8 @@ Conclusion: There is insufficient evidence to support the efficacy of vitamin D 
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;The study looked at &gt;2,000 studies. Wonder how much they were paid to find the 10 studies that did not find a benefit?&lt;/span&gt;** 
+ **The study looked at &gt;2,000 studies.   
+Wonder how much they were paid to find the 10 studies that did not find a benefit?** 
 
  **[30% of all bio-med papers appear to be fake, and 50% of those coming from China - May 2023](https://www.fastcompany.com/90895258/neuropsychologist-detects-fake-academic-research-shocking-paper-mill-fraud?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss)** 
 

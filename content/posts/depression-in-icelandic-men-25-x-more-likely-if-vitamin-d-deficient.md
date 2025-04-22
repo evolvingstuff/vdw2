@@ -39,7 +39,7 @@ Low vitamin D status may be associated with depression. Few studies have examine
 
 Furthermore, men with deficient vitamin D status were more likely to have current major depressive disorder (adjusted OR  **2·51** ; 95 % CI 1·03, 6·13) compared with men with adequate vitamin D status. Associations among women were not significant. In this older population living at northern latitudes, deficient vitamin D status may be associated with depression. Further investigations are warranted to evaluate the pathways that may be associated with risk of depression among older adults.
 
- <span style="color:orange;">Why there was not also an assocation for women?</span>
+Why there was not also an assocation for women?
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -83,7 +83,7 @@ Low vitamin D status may be associated with depression. Few studies have examine
 
 Furthermore, men with deficient vitamin D status were more likely to have current major depressive disorder (adjusted OR  **2·51** ; 95 % CI 1·03, 6·13) compared with men with adequate vitamin D status. Associations among women were not significant. In this older population living at northern latitudes, deficient vitamin D status may be associated with depression. Further investigations are warranted to evaluate the pathways that may be associated with risk of depression among older adults.
 
- &lt;span style=&quot;color:orange;&quot;&gt;Why there was not also an assocation for women?&lt;/span&gt;
+Why there was not also an assocation for women?
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

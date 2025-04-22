@@ -15,7 +15,8 @@ categories:
 
 * "...discontinue the reimbursement of all vitamin D products containing cholecalciferol or calcifediol from 1 January 2023"
 
- **People belong to this vulnerable group if they have at least 1 of these characteristics. This was selected because people often have more than 1 issue.** 
+ **People belong to this vulnerable group if they have at least 1 of these characteristics.   
+This was selected because people often have more than 1 issue.** 
 
 people with difficulty keeping oversight of their medicines;
 
@@ -33,7 +34,8 @@ people with limited health literacy;
 
 people with low-level literacy.
 
- **Study results: most people continued taking vitamin DThe study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
+ **Study results: most people continued taking vitamin D  
+The study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
 
 * 65% continued to use vitamin D and now pay for it themselves. The main reason is that people consider vitamin D necessary for their health. 
 
@@ -61,7 +63,8 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 • If this is extrapolated to the Dutch situation, it affects about 25,000 vulnerable people who are forgoing vitamin D because of the costs (available over the counter from less than 10 euros per person per year).
 
- <span style="color:orange;"> **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost <5 euros/person/year AND there would be 13 fewer occasions to forget to take it** </span>
+ **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost <5 euros/person/year   
+AND there would be 13 fewer occasions to forget to take it** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the 5 page study from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -101,7 +104,8 @@ Markdown:
 
 * &quot;...discontinue the reimbursement of all vitamin D products containing cholecalciferol or calcifediol from 1 January 2023&quot;
 
- **People belong to this vulnerable group if they have at least 1 of these characteristics. This was selected because people often have more than 1 issue.** 
+ **People belong to this vulnerable group if they have at least 1 of these characteristics.   
+This was selected because people often have more than 1 issue.** 
 
 people with difficulty keeping oversight of their medicines;
 
@@ -119,7 +123,8 @@ people with limited health literacy;
 
 people with low-level literacy.
 
- **Study results: most people continued taking vitamin DThe study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
+ **Study results: most people continued taking vitamin D  
+The study shows that a large proportion of vulnerable people have continued to take vitamin D:** 
 
 * 65% continued to use vitamin D and now pay for it themselves. The main reason is that people consider vitamin D necessary for their health. 
 
@@ -147,7 +152,8 @@ About 5% of the vulnerable group report that they have stopped taking vitamin D,
 
 • If this is extrapolated to the Dutch situation, it affects about 25,000 vulnerable people who are forgoing vitamin D because of the costs (available over the counter from less than 10 euros per person per year).
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year AND there would be 13 fewer occasions to forget to take it** &lt;/span&gt;
+ **Note by VitaminDWiki: 50,000 IU pill every two weeks would cost &lt;5 euros/person/year   
+AND there would be 13 fewer occasions to forget to take it** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the 5 page study from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

@@ -20,7 +20,8 @@ Nutrients. 2023 Jul 20;15(14):3228. [doi: 10.3390/nu15143228.](https://doi.org/1
 
 Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3
 
- <span style="color:orange;"> **It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed** </span>
+ **It is strange that the abstract barely mentions Vitamin D,  
+ while their table shows it is the most needed** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -62,7 +63,8 @@ Nutrients. 2023 Jul 20;15(14):3228. [doi: 10.3390/nu15143228.](https://doi.org/1
 
 Sarah A Crawford 1, Alexandra R Brown 2, Juliana Teruel Camargo 1, Elizabeth H Kerling 1, Susan E Carlson 1, Byron J Gajewski 2, Debra K Sullivan 1, Christina J Valentine 3
 
- &lt;span style=&quot;color:orange;&quot;&gt; **It is strange that the abstract barely mentions Vitamin D, while their table shows it is the most needed** &lt;/span&gt;
+ **It is strange that the abstract barely mentions Vitamin D,  
+ while their table shows it is the most needed** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

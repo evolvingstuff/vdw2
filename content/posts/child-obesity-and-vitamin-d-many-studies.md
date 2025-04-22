@@ -12,7 +12,13 @@ categories:
 ---
 
 
- **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D [Non-daily is better than daily](/categories/better-than-daily),Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">loading dose</a><a href="/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021">Magnesium</a> and <a href="/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018">Omega-3</a> help a lot** 
+ **Summary:   
+The amount of vitamin D needed is a function of weight  
+Obese (adults, youths. children) need 3X more Vitamin D  
+ [Non-daily is better than daily](/categories/better-than-daily),  
+Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)  
+Takes ~3 months for Vitamin D levels to be beneficial if not start with a <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">loading dose</a>  
+<a href="/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021">Magnesium</a> and <a href="/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018">Omega-3</a> help a lot** 
 
 {{< toc >}} 
 
@@ -40,7 +46,13 @@ categories:
 <code class="language-text">
 Markdown:
 --------
- **Summary: The amount of vitamin D needed is a function of weightObese (adults, youths. children) need 3X more Vitamin D [Non-daily is better than daily](/categories/better-than-daily),Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)Takes ~3 months for Vitamin D levels to be beneficial if not start with a &lt;a href=&quot;/posts/loading-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D&quot;&gt;loading dose&lt;/a&gt;&lt;a href=&quot;/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021&quot;&gt;Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018&quot;&gt;Omega-3&lt;/a&gt; help a lot** 
+ **Summary:   
+The amount of vitamin D needed is a function of weight  
+Obese (adults, youths. children) need 3X more Vitamin D  
+ [Non-daily is better than daily](/categories/better-than-daily),  
+Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)  
+Takes ~3 months for Vitamin D levels to be beneficial if not start with a &lt;a href=&quot;/posts/loading-dose-of-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Loading Dose of Vitamin D&quot;&gt;loading dose&lt;/a&gt;  
+&lt;a href=&quot;/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021&quot;&gt;Magnesium&lt;/a&gt; and &lt;a href=&quot;/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018&quot;&gt;Omega-3&lt;/a&gt; help a lot** 
 
 {{&lt; toc &gt;}} 
 

@@ -37,7 +37,7 @@ It also found that vitamin D administration significantly affected the survival 
 
 Subgroup analyses demonstrated a significant pooled RRs of the positive effect of vitamin D administration for cholecalciferol (RR = 3.11, 95%CI 2.41, 4.03, p < 0.001; I2 = 0%), doses higher than 50 µg/kg (RR = 3.37, 95%CI 2.55, 4.27, p < 0.001; I2 = 0%), and oral administration (RR = 3.01, 95%CI 2.37, 3.82, p < 0.001; I2 = 0%).
 
- <span style="color:orange;"> **Note: 50 µg/kg would be a single dose of 160,000 IU for a 80 kg (176 lb) human** </span>
+ **Note: 50 µg/kg would be a single dose of 160,000 IU for a 80 kg (176 lb) human** 
 
 Conclusion
 
@@ -108,7 +108,7 @@ It also found that vitamin D administration significantly affected the survival 
 
 Subgroup analyses demonstrated a significant pooled RRs of the positive effect of vitamin D administration for cholecalciferol (RR = 3.11, 95%CI 2.41, 4.03, p &lt; 0.001; I2 = 0%), doses higher than 50 µg/kg (RR = 3.37, 95%CI 2.55, 4.27, p &lt; 0.001; I2 = 0%), and oral administration (RR = 3.01, 95%CI 2.37, 3.82, p &lt; 0.001; I2 = 0%).
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: 50 µg/kg would be a single dose of 160,000 IU for a 80 kg (176 lb) human** &lt;/span&gt;
+ **Note: 50 µg/kg would be a single dose of 160,000 IU for a 80 kg (176 lb) human** 
 
 Conclusion
 

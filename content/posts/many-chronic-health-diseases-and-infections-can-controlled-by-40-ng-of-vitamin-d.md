@@ -388,7 +388,12 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Body Weight  &nbsp; (lbs)**  |  **Body Weight  &nbsp; (kgs)**  |  **Calcifediol &nbsp; (mg)**  |  **Equivalent in IU**  |  **If Calcifediol is not available a bolus of Vitamin D3**  |
+|  **Body Weight   
+ &nbsp; (lbs)**  |  **Body Weight   
+ &nbsp; (kgs)**  |  **Calcifediol  
+ &nbsp; (mg)**  |  **Equivalent  
+ in IU**  |  **If Calcifediol is not available  
+ a bolus of Vitamin D3**  |
 | 15-21 | 7-10 | 0.1 | 16,000 | 20,000 |
 | 22-30 | 10-14 | 0.15 | 24,000 | 35,000 |
 | 31-40 | 15-18 | 0.2 | 32,000 | 50,000 |
@@ -794,7 +799,12 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|  **Body Weight  &amp;nbsp; (lbs)**  |  **Body Weight  &amp;nbsp; (kgs)**  |  **Calcifediol &amp;nbsp; (mg)**  |  **Equivalent in IU**  |  **If Calcifediol is not available a bolus of Vitamin D3**  |
+|  **Body Weight   
+ &amp;nbsp; (lbs)**  |  **Body Weight   
+ &amp;nbsp; (kgs)**  |  **Calcifediol  
+ &amp;nbsp; (mg)**  |  **Equivalent  
+ in IU**  |  **If Calcifediol is not available  
+ a bolus of Vitamin D3**  |
 | 15-21 | 7-10 | 0.1 | 16,000 | 20,000 |
 | 22-30 | 10-14 | 0.15 | 24,000 | 35,000 |
 | 31-40 | 15-18 | 0.2 | 32,000 | 50,000 |

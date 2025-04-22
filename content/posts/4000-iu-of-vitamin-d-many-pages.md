@@ -20,7 +20,8 @@ European Journal of Nutrition February 2023
 
 Armin Zittermann, Christian Trummer, Verena Theiler-Schwetz & Stefan Pilz 
 
- <span style="color:orange;"> **Note** : No indication of how much Calcium (food or supplement) each group was takingNor if any vitamin K2 was taken (which reduces Calcium in the blood)</span>
+ **Note** : No indication of how much Calcium (food or supplement) each group was taking  
+Nor if any vitamin K2 was taken (which reduces Calcium in the blood)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="900">
 
@@ -74,7 +75,8 @@ European Journal of Nutrition February 2023
 
 Armin Zittermann, Christian Trummer, Verena Theiler-Schwetz &amp; Stefan Pilz 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note** : No indication of how much Calcium (food or supplement) each group was takingNor if any vitamin K2 was taken (which reduces Calcium in the blood)&lt;/span&gt;
+ **Note** : No indication of how much Calcium (food or supplement) each group was taking  
+Nor if any vitamin K2 was taken (which reduces Calcium in the blood)
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;900&quot;&gt;
 

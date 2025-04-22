@@ -20,7 +20,8 @@ categories:
 
  **[URL](https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/)** 
 
- **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
+ **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits.   
+For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
 
 #### What habits will extend life expectancy?
 
@@ -74,7 +75,8 @@ Markdown:
 
  **[URL](https://www.openaccessgovernment.org/eight-habits-could-lengthen-your-life-expectancy-by-decades/164200/)** 
 
- **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits. For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
+ **According to the results, men who practised all eight habits by age 40 would be predicted to live an average of 24 years longer than men with none of these habits.   
+For women, having all eight healthy lifestyle factors in middle age was associated with a predicted 21 additional years of life compared to women with none of these habits.** 
 
 #### What habits will extend life expectancy?
 

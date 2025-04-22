@@ -11,7 +11,10 @@ categories:
 ---
 
 
- **What am I missing?Dengue is increasingVitamin D fights Dengue and many other viruses.  &nbsp; &nbsp; Is Vitamin D ignored because it is not a vaccine?** 
+ **What am I missing?  
+Dengue is increasing  
+Vitamin D fights Dengue and many other viruses.   
+ &nbsp; &nbsp; Is Vitamin D ignored because it is not a vaccine?** 
 
 {{< toc >}} 
 
@@ -83,7 +86,7 @@ Journal of Rawalpindi Medical College (JRMC); 2017;21(3): 205-207
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
- <span style="color:orange;"> **Strangely: vitamin D resulted in more Dengue** </span>
+ **Strangely: vitamin D resulted in more Dengue** 
 
 Background: To compare the risk and severity of development of Dengue Hemorrhagic Fever (DHF) and Dengue Shock Syndrome(DSS) in patients receiving Vitamin D supplement compared to those not receiving it.
 
@@ -250,7 +253,10 @@ Infections with the mosquito-transmitted dengue virus (DENV) are a pressing publ
 <code class="language-text">
 Markdown:
 --------
- **What am I missing?Dengue is increasingVitamin D fights Dengue and many other viruses.  &amp;nbsp; &amp;nbsp; Is Vitamin D ignored because it is not a vaccine?** 
+ **What am I missing?  
+Dengue is increasing  
+Vitamin D fights Dengue and many other viruses.   
+ &amp;nbsp; &amp;nbsp; Is Vitamin D ignored because it is not a vaccine?** 
 
 {{&lt; toc &gt;}} 
 
@@ -322,7 +328,7 @@ Journal of Rawalpindi Medical College (JRMC); 2017;21(3): 205-207
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Strangely: vitamin D resulted in more Dengue** &lt;/span&gt;
+ **Strangely: vitamin D resulted in more Dengue** 
 
 Background: To compare the risk and severity of development of Dengue Hemorrhagic Fever (DHF) and Dengue Shock Syndrome(DSS) in patients receiving Vitamin D supplement compared to those not receiving it.
 

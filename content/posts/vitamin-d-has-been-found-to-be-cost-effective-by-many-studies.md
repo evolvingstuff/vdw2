@@ -32,7 +32,8 @@ categories:
 
 #### VitaminDWiki - <a href="/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-rs-a-year-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016">Getting all Canadians to 40 ng would save about $12 billion annually</a>
 
-||::Outcome:: |Reduction due to improving vitamin D status
+||::Outcome:: |Reduction due to   
+improving vitamin D status
 
 Cancer|15 %
 
@@ -111,7 +112,8 @@ Markdown:
 
 #### VitaminDWiki - &lt;a href=&quot;/posts/increasing-the-vitamin-d-level-of-all-canadians-to-40-ng-would-save-6-to-18-bill-rs-a-year-grant&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Increasing the vitamin D level of all Canadians to 40 ng would save 6 to 18 billion dollars a year – Grant Nov 2016&quot;&gt;Getting all Canadians to 40 ng would save about $12 billion annually&lt;/a&gt;
 
-||::Outcome:: |Reduction due to improving vitamin D status
+||::Outcome:: |Reduction due to   
+improving vitamin D status
 
 Cancer|15 %
 

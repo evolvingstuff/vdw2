@@ -140,7 +140,7 @@ It is important to note that there is no rationale in expecting studies to demon
 
 Table 1. Key nutrient clinical study recruitment criteria: Clinical studies should be conducted to test the hypothesis that intervention (e.g., vitamin D supplements) benefit recipient subjects.
 
- <span style="color:orange;">table is at the start of this page</span>
+table is at the start of this page
 
 Disregarding vitamin D as a nutrient and treating it as a pharmaceutical agent is another major fallacy of several recent RCTs. These fundamental errors, unfortunately, exist in recent larger, sponsored clinical studies, including the VITAL study <sup>[98,100]</sup>. RCTs that were designed correctly and administered age- and condition-appropriate vitamin D doses consistently improve the clinical outcomes. Examples include insulin sensitivity <sup>[42]</sup>, facilitating weight loss <sup>[102]</sup>, reducing cardiovascular risks <sup>[47,103]</sup>, improving renal functions <sup>[104]</sup>, and skeletal disorders <sup>[105]</sup>.
 
@@ -800,7 +800,7 @@ It is important to note that there is no rationale in expecting studies to demon
 
 Table 1. Key nutrient clinical study recruitment criteria: Clinical studies should be conducted to test the hypothesis that intervention (e.g., vitamin D supplements) benefit recipient subjects.
 
- &lt;span style=&quot;color:orange;&quot;&gt;table is at the start of this page&lt;/span&gt;
+table is at the start of this page
 
 Disregarding vitamin D as a nutrient and treating it as a pharmaceutical agent is another major fallacy of several recent RCTs. These fundamental errors, unfortunately, exist in recent larger, sponsored clinical studies, including the VITAL study &lt;sup&gt;[98,100]&lt;/sup&gt;. RCTs that were designed correctly and administered age- and condition-appropriate vitamin D doses consistently improve the clinical outcomes. Examples include insulin sensitivity &lt;sup&gt;[42]&lt;/sup&gt;, facilitating weight loss &lt;sup&gt;[102]&lt;/sup&gt;, reducing cardiovascular risks &lt;sup&gt;[47,103]&lt;/sup&gt;, improving renal functions &lt;sup&gt;[104]&lt;/sup&gt;, and skeletal disorders &lt;sup&gt;[105]&lt;/sup&gt;.
 

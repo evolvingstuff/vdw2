@@ -101,7 +101,8 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.** 
+ **Neuromuscular excitability, or tetany, is the  <span style="color:orange;">number 1 earliest sign</span> of a magnesium deficiency.   
+Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
 
@@ -201,7 +202,8 @@ The best sources of magnesium are leafy greens, almonds, and dark chocolate, but
 
 • Asthma 
 
- **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency. Tetany is a twitching of the muscles, often affecting the left eye.** 
+ **Neuromuscular excitability, or tetany, is the  &lt;span style=&quot;color:orange;&quot;&gt;number 1 earliest sign&lt;/span&gt; of a magnesium deficiency.   
+Tetany is a twitching of the muscles, often affecting the left eye.** 
 
 * Magnesium is required for proper nerve function. When you’re deficient, the nerves become more excited, leading to faster nerve impulses. 
 

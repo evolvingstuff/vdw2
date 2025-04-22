@@ -18,7 +18,7 @@ categories:
 
 The Journal of Steroid Biochemistry and Molecular Biology. Volume 228, April 2023, 106253 https://doi.org/10.1016/j.jsbmb.2023.106253
 
- <span style="color:orange;"> **Entire PDF is behind a paywall. The following snippets are provided by the publisher** </span>
+ **Entire PDF is behind a paywall. The following snippets are provided by the publisher** 
 
 Abstract
 
@@ -368,7 +368,7 @@ Markdown:
 
 The Journal of Steroid Biochemistry and Molecular Biology. Volume 228, April 2023, 106253 https://doi.org/10.1016/j.jsbmb.2023.106253
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Entire PDF is behind a paywall. The following snippets are provided by the publisher** &lt;/span&gt;
+ **Entire PDF is behind a paywall. The following snippets are provided by the publisher** 
 
 Abstract
 

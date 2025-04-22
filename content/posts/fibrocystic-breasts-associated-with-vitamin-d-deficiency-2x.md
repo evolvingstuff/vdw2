@@ -40,7 +40,8 @@ Hacı BOLAT  Alirıza ERDOĞAN
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 
- <span style="color:orange;"> **Breast Pattern: Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** </span>
+ **Breast Pattern:   
+Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** 
 
 Purpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.
 
@@ -88,7 +89,8 @@ Hacı BOLAT  Alirıza ERDOĞAN
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;350&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Breast Pattern: Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** &lt;/span&gt;
+ **Breast Pattern:   
+Fatty (ta),  scattered fibroglandular density (tb), heterogeneously dense (tc), and  extremely dense (td)** 
 
 Purpose: The aim of this study is to evaluate the association of blood 25-hydroxy vitamin D levels with fibrocystic breast masses and breast patterns.
 

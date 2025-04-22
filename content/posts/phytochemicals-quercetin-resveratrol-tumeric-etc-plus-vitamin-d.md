@@ -10,7 +10,8 @@ categories:
 ---
 
 
- **Phytonutrients, also called phytochemicals or antioxidants,  &nbsp; &nbsp; are compounds produced by plants that provide health benefits to the body** 
+ **Phytonutrients, also called phytochemicals or antioxidants,   
+ &nbsp; &nbsp; are compounds produced by plants that provide health benefits to the body** 
 
 {{< toc >}}
 
@@ -125,7 +126,8 @@ See <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoste
 <code class="language-text">
 Markdown:
 --------
- **Phytonutrients, also called phytochemicals or antioxidants,  &amp;nbsp; &amp;nbsp; are compounds produced by plants that provide health benefits to the body** 
+ **Phytonutrients, also called phytochemicals or antioxidants,   
+ &amp;nbsp; &amp;nbsp; are compounds produced by plants that provide health benefits to the body** 
 
 {{&lt; toc &gt;}}
 

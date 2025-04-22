@@ -38,7 +38,8 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF "There is evidence that about <span style="color:orange;">66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
+ **Clipped from PDF  
+ "There is evidence that about <span style="color:orange;">66% of all pediatric fractures occur in children who fracture on more than one occasion</span>,...** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -56,7 +57,9 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 <img src="/attachments/d3.mock.jpg" alt="image"> <img src="/attachments/d3.mock.jpg" alt="image">
 
- **<span style="color:orange;">Summary: If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is <20 ng  &nbsp; &nbsp; &nbsp; If not, nothing can be said about vitamin D level</span>** 
+ **Summary:   
+If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is <20 ng   
+ &nbsp; &nbsp; &nbsp; If not, nothing can be said about vitamin D level** 
 
 ---
 
@@ -126,7 +129,8 @@ The pediatric orthopaedic surgeon is important to optimizing bone health, partic
 
 In the pediatric population, there is a lack of consensus regarding risk factors that warrant screening for vitamin D deficit, determining insufficient thresholds, and identifying optimal supplementation recommendations and treatment dosages. More research is needed to clarify ideal amounts of vitamin D necessary through critical growth periods to prevent rickets and to mitigate fracture risk. Regardless, pediatric orthopaedic surgeons should promote supplementation to all children and treat diagnosed vitamin D deficiency.
 
- **Clipped from PDF &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt;66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
+ **Clipped from PDF  
+ &quot;There is evidence that about &lt;span style=&quot;color:orange;&quot;&gt;66% of all pediatric fractures occur in children who fracture on more than one occasion&lt;/span&gt;,...** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -144,7 +148,9 @@ You basically want to see if some of your bones bend/are painful when pressed
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt; &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot;&gt;
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Summary: If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng  &amp;nbsp; &amp;nbsp; &amp;nbsp; If not, nothing can be said about vitamin D level&lt;/span&gt;** 
+ **Summary:   
+If pain or bend in 2 of the 3 locations, 90% chance that Vitamin D is &lt;20 ng   
+ &amp;nbsp; &amp;nbsp; &amp;nbsp; If not, nothing can be said about vitamin D level** 
 
 ---
 

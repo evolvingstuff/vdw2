@@ -122,7 +122,7 @@ Conclusions: Pediatric patients with vitamin D deficiency have significantly lar
 
 1. McDougal DH, Gamlin PD (2015) Autonomic control of the eye. Compr Physiol 5(1):439–473
 
-1. Maser RE, Lenhard MJ, Pohlig RT (2015)  **vitamin D**  insufficiency is associated with reduced  <span style="color:orange;"> **parasympathetic** </span>nerve fiber function in type 2 diabetes. Endocr Pract 21(2):174–181 &nbsp;  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
+1. Maser RE, Lenhard MJ, Pohlig RT (2015)  **vitamin D**  insufficiency is associated with reduced  **parasympathetic** nerve fiber function in type 2 diabetes. Endocr Pract 21(2):174–181 &nbsp;  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
 1. Yorulmaz IS, Demiraran Y, Özlü O, Dost B (2020) The effect of  **vitamin D**  status on different neuromuscular blocker agents reverse time. Turk J Med Sci 50(4):749–755
 
@@ -249,7 +249,7 @@ Conclusions: Pediatric patients with vitamin D deficiency have significantly lar
 
 1. McDougal DH, Gamlin PD (2015) Autonomic control of the eye. Compr Physiol 5(1):439–473
 
-1. Maser RE, Lenhard MJ, Pohlig RT (2015)  **vitamin D**  insufficiency is associated with reduced  &lt;span style=&quot;color:orange;&quot;&gt; **parasympathetic** &lt;/span&gt;nerve fiber function in type 2 diabetes. Endocr Pract 21(2):174–181 &amp;nbsp;  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
+1. Maser RE, Lenhard MJ, Pohlig RT (2015)  **vitamin D**  insufficiency is associated with reduced  **parasympathetic** nerve fiber function in type 2 diabetes. Endocr Pract 21(2):174–181 &amp;nbsp;  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
 1. Yorulmaz IS, Demiraran Y, Özlü O, Dost B (2020) The effect of  **vitamin D**  status on different neuromuscular blocker agents reverse time. Turk J Med Sci 50(4):749–755
 

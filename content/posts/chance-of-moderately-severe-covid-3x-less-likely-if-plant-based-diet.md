@@ -10,7 +10,8 @@ categories:
 ---
 
 
- **<span style="color:orange;">Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D </span>** 
+ **Note: The survey did not ask about vitamin D supplementation.   
+People on a plant-based diet have less diabetes and may also supplement with Vitamin D** 
 
 {{< toc >}} 
 
@@ -76,7 +77,8 @@ Conclusion In six countries, plant-based diets or pescatarian diets were associa
 <code class="language-text">
 Markdown:
 --------
- **&lt;span style=&quot;color:orange;&quot;&gt;Note: The survey did not ask about vitamin D supplementation. People on a plant-based diet have less diabetes and may also supplement with Vitamin D &lt;/span&gt;** 
+ **Note: The survey did not ask about vitamin D supplementation.   
+People on a plant-based diet have less diabetes and may also supplement with Vitamin D** 
 
 {{&lt; toc &gt;}} 
 

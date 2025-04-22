@@ -38,7 +38,7 @@ Ultimately, the more progress that is made in improving how we age, the greater 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- <span style="color:orange;"> **It appears that this study does not consider the additional years of added income possible by having a longer healthspan** </span>
+ **It appears that this study does not consider the additional years of added income possible by having a longer healthspan** 
 
 ---
 
@@ -76,7 +76,7 @@ Ultimately, the more progress that is made in improving how we age, the greater 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **It appears that this study does not consider the additional years of added income possible by having a longer healthspan** &lt;/span&gt;
+ **It appears that this study does not consider the additional years of added income possible by having a longer healthspan** 
 
 ---
 

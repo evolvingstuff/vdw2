@@ -10,7 +10,8 @@ categories:
 ---
 
 
- **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU80% Magnesium deficiency** 
+ **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU  
+80% Magnesium deficiency** 
 
 {{< toc >}}
 
@@ -39,7 +40,8 @@ Conclusions: There is an urgent need to define direct regional actions and strat
 <code class="language-text">
 Markdown:
 --------
- **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU80% Magnesium deficiency** 
+ **98% have less than the Estimated Average Requirement (E.A.R.) typically 400- 600 IU  
+80% Magnesium deficiency** 
 
 {{&lt; toc &gt;}}
 

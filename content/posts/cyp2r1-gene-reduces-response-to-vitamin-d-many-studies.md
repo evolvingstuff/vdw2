@@ -11,7 +11,8 @@ categories:
 ---
 
 
- **People with a poor CYP2R1 genes are poor Vitamin D responders &nbsp; &nbsp; Possible solution: take larger doses of Vitamin D**  
+ **People with a poor CYP2R1 genes are poor Vitamin D responders  
+ &nbsp; &nbsp; Possible solution: take larger doses of Vitamin D**  
 
 {{< toc >}} 
 
@@ -71,7 +72,8 @@ Conclusions: Because  **CYP2R1**  plays an important role in vitamin D metabolis
 <code class="language-text">
 Markdown:
 --------
- **People with a poor CYP2R1 genes are poor Vitamin D responders &amp;nbsp; &amp;nbsp; Possible solution: take larger doses of Vitamin D**  
+ **People with a poor CYP2R1 genes are poor Vitamin D responders  
+ &amp;nbsp; &amp;nbsp; Possible solution: take larger doses of Vitamin D**  
 
 {{&lt; toc &gt;}} 
 

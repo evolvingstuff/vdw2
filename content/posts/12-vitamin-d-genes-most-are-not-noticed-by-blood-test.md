@@ -45,7 +45,8 @@ Variations in GC, CYP2R1, VDR, and CYP24A1 genes were reported most frequently, 
 
 ---
 
-#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
+#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes   
+are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
@@ -84,7 +85,8 @@ Variations in GC, CYP2R1, VDR, and CYP24A1 genes were reported most frequently, 
 
 ---
 
-#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
+#### Note: It appears that GC (binding), CYP3A4, CYP24A1, and CYP27A1 genes   
+are not involved in topical, sublingual vitamin D that does not use the liver or kidneys (see chart below)
 
 
 AST Structure:

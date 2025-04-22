@@ -4,7 +4,7 @@ slug: "test-page"
 aliases:
   - "/Test+Page"
   - "/tiki-index.php?page_id=-1"
-date: 2025-04-21
+date: 2025-04-22
 ---
 
 
@@ -121,9 +121,12 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 ---
 
 
- **<span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight &nbsp; &nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin &nbsp; &nbsp; 2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants </span>** 
+ **<span style="color:orange;">foo bar </span>** 
 
+ **foo &nbsp; &nbsp; bar** 
 
+ **foo   
+ bar** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -242,9 +245,12 @@ Research, consisting of both animal and human studies, has revealed the [benefic
 ---
 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight &amp;nbsp; &amp;nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin &amp;nbsp; &amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants &lt;/span&gt;** 
+ **&lt;span style=&quot;color:orange;&quot;&gt;foo bar &lt;/span&gt;** 
 
+ **foo &amp;nbsp; &amp;nbsp; bar** 
 
+ **foo   
+ bar** 
 
 AST Structure:
 -------------
@@ -1646,71 +1652,66 @@ AST Structure:
 │   │   inner_content: `278+ VitaminDWiki pages have &lt;a href=&quot;/posts/vaccination-pages-in-VitaminDWiki&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vaccination pages in VitaminDWiki&quot;&gt;VACCIN, BOOSTER, etc in the title&lt;/a&gt;`├── TextNode
 │   full_match: `\n\nThis list is automatically updated\n\n`
 │   inner_content: `\n\nThis list is automatically updated\n\n`├── BoldNode
-│   full_match: `__~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs~ ~hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% ~hs~ ~hs~ 2X longer if standing up and  wearing [iki-index.php?page_id=13990|long-sleeved shirt] and pants ~~__`
-│   inner_content: `~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs~ ~hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% ~hs~ ~hs~ 2X longer if standing up and  wearing [iki-index.php?page_id=13990|long-sleeved shirt] and pants ~~`
+│   full_match: `__~~#00F:foo bar ~~__`
+│   inner_content: `~~#00F:foo bar ~~`
 │   children:
 │   ├── ColorNode
-│   │   full_match: `~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs~ ~hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% ~hs~ ~hs~ 2X longer if standing up and  wearing [iki-index.php?page_id=13990|long-sleeved shirt] and pants ~~`
-│   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs~ ~hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% ~hs~ ~hs~ 2X longer if standing up and  wearing [iki-index.php?page_id=13990|long-sleeved shirt] and pants `
+│   │   full_match: `~~#00F:foo bar ~~`
+│   │   inner_content: `foo bar `
 │   │   attrs_dict:
 │   │   │   raw_content: #00F
 │   │   children:
 │   │   ├── TextNode
-│   │   │   full_match: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
-│   │   │   inner_content: `Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight`
+│   │   │   full_match: `foo bar `
+│   │   │   inner_content: `foo bar `├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__~~#00F:foo ~hs~ ~hs~ bar ~~__`
+│   inner_content: `~~#00F:foo ~hs~ ~hs~ bar ~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:foo ~hs~ ~hs~ bar ~~`
+│   │   inner_content: `foo ~hs~ ~hs~ bar `
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `foo `
+│   │   │   inner_content: `foo `
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── HorizontalSpaceNode
+│   │   │   full_match: `~hs~`
+│   │   │   inner_content: ``
+│   │   │   repetitions: `1`
+│   │   ├── TextNode
+│   │   │   full_match: ` bar `
+│   │   │   inner_content: ` bar `├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__~~#00F:foo %%% bar ~~__`
+│   inner_content: `~~#00F:foo %%% bar ~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:foo %%% bar ~~`
+│   │   inner_content: `foo %%% bar `
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `foo `
+│   │   │   inner_content: `foo `
 │   │   ├── NewlineNode
 │   │   │   full_match: `%%%`
 │   │   │   inner_content: ``
 │   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   ├── HorizontalSpaceNode
-│   │   │   full_match: `~hs~`
-│   │   │   inner_content: ``
-│   │   │   repetitions: `1`
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   ├── HorizontalSpaceNode
-│   │   │   full_match: `~hs~`
-│   │   │   inner_content: ``
-│   │   │   repetitions: `1`
-│   │   ├── TextNode
-│   │   │   full_match: ` 3X longer for each of the following: Obese, Elderly, Dark Skin`
-│   │   │   inner_content: ` 3X longer for each of the following: Obese, Elderly, Dark Skin`
-│   │   ├── NewlineNode
-│   │   │   full_match: `%%%`
-│   │   │   inner_content: ``
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   ├── HorizontalSpaceNode
-│   │   │   full_match: `~hs~`
-│   │   │   inner_content: ``
-│   │   │   repetitions: `1`
-│   │   ├── TextNode
-│   │   │   full_match: ` `
-│   │   │   inner_content: ` `
-│   │   ├── HorizontalSpaceNode
-│   │   │   full_match: `~hs~`
-│   │   │   inner_content: ``
-│   │   │   repetitions: `1`
-│   │   ├── TextNode
-│   │   │   full_match: ` 2X longer if standing up and  wearing `
-│   │   │   inner_content: ` 2X longer if standing up and  wearing `
-│   │   ├── LinkNode
-│   │   │   full_match: `[iki-index.php?page_id=13990|long-sleeved shirt]`
-│   │   │   inner_content: `long-sleeved shirt`
-│   │   │   url: `iki-index.php?page_id=13990`
-│   │   │   children:
-│   │   │   ├── TextNode
-│   │   │   │   full_match: `long-sleeved shirt`
-│   │   │   │   inner_content: `long-sleeved shirt`
-│   │   ├── TextNode
-│   │   │   full_match: ` and pants `
-│   │   │   inner_content: ` and pants `├── TextNode
-│   full_match: `\n`
-│   inner_content: `\n`
+│   │   │   full_match: ` bar `
+│   │   │   inner_content: ` bar `
 
 Original Tiki:
 -------------
@@ -1806,7 +1807,10 @@ __[https://google.com]__ and some other text
 
 This list is automatically updated
 
-__~~#00F:Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight%%% ~hs~ ~hs~ 3X longer for each of the following: Obese, Elderly, Dark Skin%%% ~hs~ ~hs~ 2X longer if standing up and  wearing [iki-index.php?page_id=13990|long-sleeved shirt] and pants ~~__
+__~~#00F:foo bar ~~__
 
+__~~#00F:foo ~hs~ ~hs~ bar ~~__
+
+__~~#00F:foo %%% bar ~~__
 </code>
 </pre>

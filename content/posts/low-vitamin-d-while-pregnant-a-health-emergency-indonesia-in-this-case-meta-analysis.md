@@ -24,7 +24,7 @@ Gilbert Sterling Octavius MD, MHM, MM 1, Vamela Adman Daleni MD 2, Glenda Angeli
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
- <span style="color:orange;"> **Only 12% had > 30 ng (75 nmol)** </span>
+ **Only 12% had > 30 ng (75 nmol)** 
 
 OBJECTIVE
 
@@ -81,7 +81,7 @@ Gilbert Sterling Octavius MD, MHM, MM 1, Vamela Adman Daleni MD 2, Glenda Angeli
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Only 12% had &gt; 30 ng (75 nmol)** &lt;/span&gt;
+ **Only 12% had &gt; 30 ng (75 nmol)** 
 
 OBJECTIVE
 

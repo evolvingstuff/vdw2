@@ -11,7 +11,8 @@ categories:
 ---
 
 
- **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery See <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>** 
+ **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery   
+See <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>** 
 
 {{< toc >}} 
 
@@ -46,7 +47,8 @@ Before the surgery, more than 80% of patients have extreme vitamin D deficiency 
 <code class="language-text">
 Markdown:
 --------
- **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery See &lt;a href=&quot;/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs&quot;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;** 
+ **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery   
+See &lt;a href=&quot;/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs&quot;&gt;Vitamin D is needed before most surgeries – many studies and RCTs&lt;/a&gt;** 
 
 {{&lt; toc &gt;}} 
 

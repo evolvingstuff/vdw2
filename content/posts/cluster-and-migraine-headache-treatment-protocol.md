@@ -30,15 +30,15 @@ categories:
 
  **<span style="color:orange;">The following links will take you to video interviews that explain this treatment protocol in detail.</span>** 
 
- <span style="color:orange;">=== **https://www.youtube.com/watch?v=SofbDDhmQUs** ===</span>
+=== **https://www.youtube.com/watch?v=SofbDDhmQUs** ===
 
- <span style="color:orange;">=== **https://www.youtube.com/watch?v=U93z9MleSkk** ===</span>
+=== **https://www.youtube.com/watch?v=U93z9MleSkk** ===
 
- <span style="color:orange;">=== **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===</span>
+=== **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===
 
  **<span style="color:orange;">This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.</span>** 
 
- <span style="color:orange;"> **PDF of original protocol is at the bottom of this page** </span>
+ **PDF of original protocol is at the bottom of this page** 
 
 ##### Talk to your doctor
 
@@ -52,7 +52,7 @@ If you live outside the US, have your doctor or PCP ask for the Liquid Chromatog
 
 ##### Start a headache log
 
- <span style="color:orange;">If you haven’t already started one, there are several Smart Phone apps like  **Migraine Buddy**  that are free to download that run on IOS and Android.  If you don’t have a smartphone, log your headaches on paper</span>
+If you haven’t already started one, there are several Smart Phone apps like  **Migraine Buddy**  that are free to download that run on IOS and Android.  If you don’t have a smartphone, log your headaches on paper
 
 ##### Basic Anti-Inflammatory Regimen Supplements
 
@@ -247,15 +247,15 @@ Markdown:
 
  **&lt;span style=&quot;color:orange;&quot;&gt;The following links will take you to video interviews that explain this treatment protocol in detail.&lt;/span&gt;** 
 
- &lt;span style=&quot;color:orange;&quot;&gt;=== **https://www.youtube.com/watch?v=SofbDDhmQUs** ===&lt;/span&gt;
+=== **https://www.youtube.com/watch?v=SofbDDhmQUs** ===
 
- &lt;span style=&quot;color:orange;&quot;&gt;=== **https://www.youtube.com/watch?v=U93z9MleSkk** ===&lt;/span&gt;
+=== **https://www.youtube.com/watch?v=U93z9MleSkk** ===
 
- &lt;span style=&quot;color:orange;&quot;&gt;=== **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===&lt;/span&gt;
+=== **https://www.youtube.com/watch?v=RBD5UUj3d5E** ===
 
  **&lt;span style=&quot;color:orange;&quot;&gt;This is a very safe and healthy treatment protocol that everyone needs to boost their immune systems even if they don’t have headaches.  10,000 IU/day vitamin D3 is very safe.  You can also take one of the Bio-Tech D3-50  50,000 IU Capsule/week.  It is also very safe.  Of course, you’ll also need the cofactors.&lt;/span&gt;** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **PDF of original protocol is at the bottom of this page** &lt;/span&gt;
+ **PDF of original protocol is at the bottom of this page** 
 
 ##### Talk to your doctor
 
@@ -269,7 +269,7 @@ If you live outside the US, have your doctor or PCP ask for the Liquid Chromatog
 
 ##### Start a headache log
 
- &lt;span style=&quot;color:orange;&quot;&gt;If you haven’t already started one, there are several Smart Phone apps like  **Migraine Buddy**  that are free to download that run on IOS and Android.  If you don’t have a smartphone, log your headaches on paper&lt;/span&gt;
+If you haven’t already started one, there are several Smart Phone apps like  **Migraine Buddy**  that are free to download that run on IOS and Android.  If you don’t have a smartphone, log your headaches on paper
 
 ##### Basic Anti-Inflammatory Regimen Supplements
 

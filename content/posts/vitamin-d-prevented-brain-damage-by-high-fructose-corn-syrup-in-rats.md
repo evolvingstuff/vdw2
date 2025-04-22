@@ -119,7 +119,8 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### VitaminDWiki - [Fructose, HFCS and Vitamin D - many studies](/posts/fructose-hfcs-and-vitamin-d-many-studies)
 
- **which contains:  Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
+ **which contains:   
+ Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
 
 ---
 
@@ -363,7 +364,8 @@ whereas treatment with vitamin D improved neurobehavioral and immunohistopatholo
 
 #### VitaminDWiki - [Fructose, HFCS and Vitamin D - many studies](/posts/fructose-hfcs-and-vitamin-d-many-studies)
 
- **which contains:  Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
+ **which contains:   
+ Scientists claim to have found root cause of obesity for most people (HFCS) - Oct 2023** 
 
 ---
 

@@ -42,7 +42,8 @@ Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting 
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
- **A poor CYP24A1 reduces the Vitamin D getting to cells  &nbsp; without reducing measured Vitamin D level in blood** 
+ **A poor CYP24A1 reduces the Vitamin D getting to cells   
+ &nbsp; without reducing measured Vitamin D level in blood** 
 
 <pre style="background-color: #e0e0e0; white-space: pre-wrap;">
 <code class="language-text">
@@ -80,7 +81,8 @@ Blood test does not show when a poor CYP24A1 gene  stops Vitamin D from getting 
 
 Several Cancers and health problems appear to protect themselves by changing CYP24A1 activation
 
- **A poor CYP24A1 reduces the Vitamin D getting to cells  &amp;nbsp; without reducing measured Vitamin D level in blood** 
+ **A poor CYP24A1 reduces the Vitamin D getting to cells   
+ &amp;nbsp; without reducing measured Vitamin D level in blood** 
 
 AST Structure:
 -------------

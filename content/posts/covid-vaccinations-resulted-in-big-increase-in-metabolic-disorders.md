@@ -25,7 +25,8 @@ categories:
 
 | | | |
 | --- | --- | --- |
-| SYMPTOM | 1. after COVIDVaccination | definition |
+| SYMPTOM | 1. after COVID  
+Vaccination | definition |
 | ACUTE RESPIRATORY FAILURE | 5971 |  |
 | HYPOPHAGIA | 1463 | Reduced ingestion of food |
 | HYPONATRAEMIA | 823 | low sodium |
@@ -65,7 +66,8 @@ Markdown:
 
 | | | |
 | --- | --- | --- |
-| SYMPTOM | 1. after COVIDVaccination | definition |
+| SYMPTOM | 1. after COVID  
+Vaccination | definition |
 | ACUTE RESPIRATORY FAILURE | 5971 |  |
 | HYPOPHAGIA | 1463 | Reduced ingestion of food |
 | HYPONATRAEMIA | 823 | low sodium |

@@ -25,7 +25,7 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="1000">
 
-*  **<span style="color:orange;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  Mandatory fortification with adequate amounts covering an adequate range 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (four or more commonly consumed foods) of products;
 
@@ -115,7 +115,7 @@ Tobias Niedermaier, Thomas Gredner, Sabine Kuznia, Ben Schöttker, Ute Mons, Jer
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;1000&quot;&gt;
 
-*  **&lt;span style=&quot;color:orange;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;**  Mandatory fortification with adequate amounts covering an adequate range 
+*  **&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;**  Mandatory fortification with adequate amounts covering an adequate range 
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (four or more commonly consumed foods) of products;
 

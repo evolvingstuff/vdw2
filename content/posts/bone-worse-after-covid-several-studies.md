@@ -11,7 +11,9 @@ categories:
 ---
 
 
- <span style="color:orange;">__Note: COVID  &nbsp; &nbsp; ==> deactivates Vitamin D Receptor &nbsp; &nbsp; &nbsp; &nbsp; ==> reduced Vitamin D for both bone cells and for gut cells to get Calcium </span>__
+__Note: COVID   
+ &nbsp; &nbsp; ==> deactivates Vitamin D Receptor   
+&nbsp; &nbsp; &nbsp; &nbsp; ==> reduced Vitamin D for both bone cells and for gut cells to get Calcium __
 
 {{< toc >}}
 
@@ -241,7 +243,9 @@ Hence, it is possible to speculate that severe COVID-19 patients are characteriz
 <code class="language-text">
 Markdown:
 --------
- &lt;span style=&quot;color:orange;&quot;&gt;__Note: COVID  &amp;nbsp; &amp;nbsp; ==&gt; deactivates Vitamin D Receptor &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium &lt;/span&gt;__
+__Note: COVID   
+ &amp;nbsp; &amp;nbsp; ==&gt; deactivates Vitamin D Receptor   
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ==&gt; reduced Vitamin D for both bone cells and for gut cells to get Calcium __
 
 {{&lt; toc &gt;}}
 

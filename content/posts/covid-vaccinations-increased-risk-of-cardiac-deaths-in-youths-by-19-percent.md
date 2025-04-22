@@ -20,7 +20,7 @@ categories:
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">
 
- <span style="color:orange;"> **"only" 450,000 in the 2 sites that recorded age range 18-24** </span>
+ **"only" 450,000 in the 2 sites that recorded age range 18-24** 
 
  **[TrialSiteNews](https://www.trialsitenews.com/a/750k-self-controlled-case-series-meta-analysis-covid-19-vax-likely-associated-with-higher-risk-of-cardiac-related-deaths-d77a40da)** 
 
@@ -50,7 +50,7 @@ Markdown:
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;800&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **&quot;only&quot; 450,000 in the 2 sites that recorded age range 18-24** &lt;/span&gt;
+ **&quot;only&quot; 450,000 in the 2 sites that recorded age range 18-24** 
 
  **[TrialSiteNews](https://www.trialsitenews.com/a/750k-self-controlled-case-series-meta-analysis-covid-19-vax-likely-associated-with-higher-risk-of-cardiac-related-deaths-d77a40da)** 
 

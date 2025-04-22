@@ -22,9 +22,9 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
- <span style="color:orange;"> **Note: Virtually all of the above are associated with low vitamin D** </span>
+ **Note: Virtually all of the above are associated with low vitamin D** 
 
- <span style="color:orange;"> **Suspect that many would decrease if Obese persons were to take enough Vitamin D** </span>
+ **Suspect that many would decrease if Obese persons were to take enough Vitamin D** 
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 
@@ -75,9 +75,9 @@ Obesity, a highly prevalent disorder and central diagnosis of the metabolic synd
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Note: Virtually all of the above are associated with low vitamin D** &lt;/span&gt;
+ **Note: Virtually all of the above are associated with low vitamin D** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **Suspect that many would decrease if Obese persons were to take enough Vitamin D** &lt;/span&gt;
+ **Suspect that many would decrease if Obese persons were to take enough Vitamin D** 
 
  **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
 

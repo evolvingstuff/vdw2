@@ -11,7 +11,8 @@ categories:
 ---
 
 
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp; &nbsp;Presented in Iceland March 4, 2023  &nbsp; &nbsp; <a href="/posts/click-here-for-charts-with-transcript" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14301">Click here for charts WITH transcript</a>** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&nbsp; &nbsp;Presented in Iceland March 4, 2023   
+ &nbsp; &nbsp; <a href="/posts/click-here-for-charts-with-transcript" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14301">Click here for charts WITH transcript</a>** 
 
 {{< toc >}} 
 
@@ -169,7 +170,7 @@ Vitamin D improves the immune system
 
 &nbsp; &nbsp; &nbsp; **<span style="color:orange;">Cancers</span>** 
 
- **<span style="color:orange;">Vitamin D is not a miracle drug that acts instantly</span>** 
+ **Vitamin D is not a miracle drug that acts instantly** 
 
 &nbsp;
 
@@ -183,7 +184,9 @@ Vitamin D improves the immune system
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
- **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the month  
+Take allotted pills each week  
+Take all remaining pills, even those forgotten, before end of the month** 
 
 &nbsp;
 
@@ -272,9 +275,15 @@ Vitamin D improves the immune system
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
- **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateaued  
+You will experience fat/weight loss if you stress your body by:  
+1) Exercise  
+2) Calorie restrictive diet  
+3) Intermitant fasting  
+ 4) Water-only fasting** 
 
- **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> &nbsp; &nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
+ **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a>   
+&nbsp; &nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
 
 ---
 
@@ -355,7 +364,8 @@ Note Humans and animals have evolved to go for days with many nutrients
 <code class="language-text">
 Markdown:
 --------
- **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp; &amp;nbsp;Presented in Iceland March 4, 2023  &amp;nbsp; &amp;nbsp; &lt;a href=&quot;/posts/click-here-for-charts-with-transcript&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14301&quot;&gt;Click here for charts WITH transcript&lt;/a&gt;** 
+ **[YouTube](https://youtu.be/hscufeebcgQ?t=1216)&amp;nbsp; &amp;nbsp;Presented in Iceland March 4, 2023   
+ &amp;nbsp; &amp;nbsp; &lt;a href=&quot;/posts/click-here-for-charts-with-transcript&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 14301&quot;&gt;Click here for charts WITH transcript&lt;/a&gt;** 
 
 {{&lt; toc &gt;}} 
 
@@ -513,7 +523,7 @@ Vitamin D improves the immune system
 
 &amp;nbsp; &amp;nbsp; &amp;nbsp; **&lt;span style=&quot;color:orange;&quot;&gt;Cancers&lt;/span&gt;** 
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Vitamin D is not a miracle drug that acts instantly&lt;/span&gt;** 
+ **Vitamin D is not a miracle drug that acts instantly** 
 
 &amp;nbsp;
 
@@ -527,7 +537,9 @@ Vitamin D improves the immune system
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;400&quot;&gt;
 
- **Put pills in at the beginning of the monthTake allotted pills each weekTake all remaining pills, even those forgotten, before end of the month** 
+ **Put pills in at the beginning of the month  
+Take allotted pills each week  
+Take all remaining pills, even those forgotten, before end of the month** 
 
 &amp;nbsp;
 
@@ -616,9 +628,15 @@ Vitamin D improves the immune system
 
 ### (17) Vitamin D helps you lose weight when you stress your body
 
- **After your vitamin D level has plateauedYou will experience fat/weight loss if you stress your body by:1) Exercise2) Calorie restrictive diet3) Intermitant fasting 4) Water-only fasting** 
+ **After your vitamin D level has plateaued  
+You will experience fat/weight loss if you stress your body by:  
+1) Exercise  
+2) Calorie restrictive diet  
+3) Intermitant fasting  
+ 4) Water-only fasting** 
 
- **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
+ **See &lt;a href=&quot;/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&quot;&gt;Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs&lt;/a&gt;   
+&amp;nbsp; &amp;nbsp;&lt;a href=&quot;/posts/the-vitamin-that-quadruples-weight-loss&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019&quot;&gt;The Vitamin That Quadruples Weight Loss - Oct 2019&lt;/a&gt;** 
 
 ---
 

@@ -11,7 +11,9 @@ categories:
 ---
 
 
- **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.It takes at least 5 months for vitamin D dosing to fully respond without a loading doseLoading doses, on the other hand, result in a response/benefit in < 1 month** 
+ **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.  
+It takes at least 5 months for vitamin D dosing to fully respond without a loading dose  
+Loading doses, on the other hand, result in a response/benefit in < 1 month** 
 
 {{< toc >}}
 
@@ -62,7 +64,9 @@ The included studies support the potential role of antioxidant vitamins in the m
 <code class="language-text">
 Markdown:
 --------
- **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.It takes at least 5 months for vitamin D dosing to fully respond without a loading doseLoading doses, on the other hand, result in a response/benefit in &lt; 1 month** 
+ **Another endometriosis-related pain trial lasting only 3 months did not result in a benefit.  
+It takes at least 5 months for vitamin D dosing to fully respond without a loading dose  
+Loading doses, on the other hand, result in a response/benefit in &lt; 1 month** 
 
 {{&lt; toc &gt;}}
 

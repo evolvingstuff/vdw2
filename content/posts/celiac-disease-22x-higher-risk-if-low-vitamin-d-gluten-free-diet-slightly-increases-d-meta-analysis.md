@@ -10,7 +10,8 @@ categories:
 ---
 
 
- **Celiac disease is reduced by Vitamin D (esp. gut-friendly), Prebioitics, Zinc, Gluten Free Diet, etc.** 
+ **Celiac disease is reduced by  
+ Vitamin D (esp. gut-friendly), Prebioitics, Zinc, Gluten Free Diet, etc.** 
 
 {{< toc >}}
 
@@ -71,7 +72,8 @@ This list is automatcially updated
 <code class="language-text">
 Markdown:
 --------
- **Celiac disease is reduced by Vitamin D (esp. gut-friendly), Prebioitics, Zinc, Gluten Free Diet, etc.** 
+ **Celiac disease is reduced by  
+ Vitamin D (esp. gut-friendly), Prebioitics, Zinc, Gluten Free Diet, etc.** 
 
 {{&lt; toc &gt;}}
 

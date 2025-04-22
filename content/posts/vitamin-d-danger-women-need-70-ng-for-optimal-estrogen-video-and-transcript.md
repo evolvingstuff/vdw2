@@ -49,7 +49,7 @@ categories:
 
 ##### Need vitamin D of 70 for good hormones, of 50 for immune system
 
- <span style="color:orange;"> **VitaminDWiki has not seen the 70 ng for hormones before** </span>
+ **VitaminDWiki has not seen the 70 ng for hormones before** 
 
 0:06:40.1  So for hormonal production, we want it up around 70. For immune system, we want to make sure that our  **vitamin d**  levels are somewhere around 50. There was some really interesting research that came out around COVID that showed that when people who caught COVID, if their  **vitamin d**  levels were really low, like under 20, their symptoms were much worse and so bad that they actually were doing IV drips of  **vitamin d**  in the ICU to bring that up so that the body could be able to have the proper immune force to fight COVID. So you want it around 50 for better immune response,  **you want it around 70 for better hormonal response** .
 
@@ -128,7 +128,7 @@ Markdown:
 
 ##### Need vitamin D of 70 for good hormones, of 50 for immune system
 
- &lt;span style=&quot;color:orange;&quot;&gt; **VitaminDWiki has not seen the 70 ng for hormones before** &lt;/span&gt;
+ **VitaminDWiki has not seen the 70 ng for hormones before** 
 
 0:06:40.1  So for hormonal production, we want it up around 70. For immune system, we want to make sure that our  **vitamin d**  levels are somewhere around 50. There was some really interesting research that came out around COVID that showed that when people who caught COVID, if their  **vitamin d**  levels were really low, like under 20, their symptoms were much worse and so bad that they actually were doing IV drips of  **vitamin d**  in the ICU to bring that up so that the body could be able to have the proper immune force to fight COVID. So you want it around 50 for better immune response,  **you want it around 70 for better hormonal response** .
 

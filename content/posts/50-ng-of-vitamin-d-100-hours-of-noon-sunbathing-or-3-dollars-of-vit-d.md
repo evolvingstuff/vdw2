@@ -16,7 +16,9 @@ categories:
 
 #### Only 90 minutes of sun daily: if 7 factors are all good
 
- **<span style="color:orange;">Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight &nbsp; &nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin &nbsp; &nbsp; 2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants </span>**   
+ **Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight  
+ &nbsp; &nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin  
+ &nbsp; &nbsp; 2X longer if standing up and  wearing <span>[iki-index.php?page_id=13990]</span> and pants**   
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -40,7 +42,9 @@ Markdown:
 
 #### Only 90 minutes of sun daily: if 7 factors are all good
 
- **&lt;span style=&quot;color:orange;&quot;&gt;Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight &amp;nbsp; &amp;nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin &amp;nbsp; &amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants &lt;/span&gt;**   
+ **Young, white skin, lying down, in bathing suit, hot summer sun, around noon, not overweight  
+ &amp;nbsp; &amp;nbsp; 3X longer for each of the following: Obese, Elderly, Dark Skin  
+ &amp;nbsp; &amp;nbsp; 2X longer if standing up and  wearing &lt;span&gt;[iki-index.php?page_id=13990]&lt;/span&gt; and pants**   
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;500&quot;&gt;
 

@@ -17,7 +17,8 @@ date: 2023-03-27
 
 * Also:  **Maternal mortality**  in the U.S. [reached a high in 2021](https://www.npr.org/sections/health-shots/2023/03/16/1163786037/maternal-deaths-in-the-u-s-spiked-in-2021-cdc-reports).
 
-* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association  &nbsp; &nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
+* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association   
+ &nbsp; &nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
 
 * "American  **children are less likely to live to age 5**  than children in other high-income countries," the authors write on the second page. It goes on: "Even Americans with healthy behaviors, 
 
@@ -27,7 +28,8 @@ date: 2023-03-27
 
 * However, "the United States has higher survival after age 75 than do peer countries,..."
 
- **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
+ **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo.   
+In many other countries a new drug must be more cost-effective than the existing drug.** 
 
 #### Life Expectancy - unknown source Sept 2023
 
@@ -77,7 +79,8 @@ Markdown:
 
 * Also:  **Maternal mortality**  in the U.S. [reached a high in 2021](https://www.npr.org/sections/health-shots/2023/03/16/1163786037/maternal-deaths-in-the-u-s-spiked-in-2021-cdc-reports).
 
-* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association  &amp;nbsp; &amp;nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
+* Also, [a paper](https://jamanetwork.com/journals/jama/fullarticle/2802602) in the Journal of the American Medical Association   
+ &amp;nbsp; &amp;nbsp; found  **rising mortality rates among U.S. children and adolescents.** 
 
 * &quot;American  **children are less likely to live to age 5**  than children in other high-income countries,&quot; the authors write on the second page. It goes on: &quot;Even Americans with healthy behaviors, 
 
@@ -87,7 +90,8 @@ Markdown:
 
 * However, &quot;the United States has higher survival after age 75 than do peer countries,...&quot;
 
- **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo. In many other countries a new drug must be more cost-effective than the existing drug.** 
+ **Reminder: in the US Big Pharma just has to show that a new drug is better than a placebo.   
+In many other countries a new drug must be more cost-effective than the existing drug.** 
 
 #### Life Expectancy - unknown source Sept 2023
 

@@ -172,7 +172,7 @@ Ultraviolet radiation (UVR) is primarily recognized for its detrimental effects 
 
 1. C. Skobowiat, R. M. Sayre, J. C. Dowdy, A. T.  **Slominski** , Ultraviolet radiation regulates cortisol activity in a waveband-dependent manner in human skin ex vivo. Br. J.	Dermatol.	168, 595-601	(2013).
 
-1. A. T.  **Slominski** , R. C. Tuckey, A. M. Jetten, M. F. Holick, Recent advances in vitamin D biology: Something new under the sun. J. invest. Dermatol.	143, 2340-2342 (2023). &nbsp; <span style="color:orange;"> **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** </span>
+1. A. T.  **Slominski** , R. C. Tuckey, A. M. Jetten, M. F. Holick, Recent advances in vitamin D biology: Something new under the sun. J. invest. Dermatol.	143, 2340-2342 (2023). &nbsp; **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
 
 1. J. P. Walterscheid et al., Cis-urocanic acid, a sunlight-induced immunosuppressive factor, activates immune suppression via the 5-HT2A receptor. Proc. Natl. Acad. Sci.	U.S.A. 103, 17420-17425 (2006).
 
@@ -524,7 +524,7 @@ Ultraviolet radiation (UVR) is primarily recognized for its detrimental effects 
 
 1. C. Skobowiat, R. M. Sayre, J. C. Dowdy, A. T.  **Slominski** , Ultraviolet radiation regulates cortisol activity in a waveband-dependent manner in human skin ex vivo. Br. J.	Dermatol.	168, 595-601	(2013).
 
-1. A. T.  **Slominski** , R. C. Tuckey, A. M. Jetten, M. F. Holick, Recent advances in vitamin D biology: Something new under the sun. J. invest. Dermatol.	143, 2340-2342 (2023). &amp;nbsp; &lt;span style=&quot;color:orange;&quot;&gt; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** &lt;/span&gt;
+1. A. T.  **Slominski** , R. C. Tuckey, A. M. Jetten, M. F. Holick, Recent advances in vitamin D biology: Something new under the sun. J. invest. Dermatol.	143, 2340-2342 (2023). &amp;nbsp; **[&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;PDF](/attachments/d3.mock.pdf)** 
 
 1. J. P. Walterscheid et al., Cis-urocanic acid, a sunlight-induced immunosuppressive factor, activates immune suppression via the 5-HT2A receptor. Proc. Natl. Acad. Sci.	U.S.A. 103, 17420-17425 (2006).
 

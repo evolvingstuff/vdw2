@@ -27,11 +27,11 @@ Methods: A cost-estimation model was developed to determine the cost-effectivene
 
 Results: Preoperative 25(OH)D screening and subsequent selective 25(OH)D supplementation was calculated to result in a  **mean cost-savings of $6,099,341** (range: $-2,993,000 - $15,191,683)  **per 250,000 primary arthroscopic RCR cases.** 
 
- <span style="color:orange;"> **$24 per procedure (just those who were deficient)** </span>
+ **$24 per procedure (just those who were deficient)** 
 
  **Nonselective 25(OH)D supplementation**  of all arthroscopic RCR patients was calculated to result in a mean cost-savings of $11,584,742 (range: $2,492,401 - $20,677,085) per 250,000 primary arthroscopic RCR cases. Univariate adjustment projects that selective supplementation is a cost-effective strategy in clinical contexts where the cost of revision RCR exceeds $14,824.69 and prevalence of 25(OH)D deficiency exceeds 6.67%. Additionally, nonselective supplementation is a cost-effective strategy in clinical scenarios where revision RCR cost ≥ $4,216.06 and prevalence of 25(OH)D deficiency ≥ 1.93%.
 
- <span style="color:orange;"> **$46 per procedure (Vitamin D given to everyone, no testing)** </span>
+ **$46 per procedure (Vitamin D given to everyone, no testing)** 
 
 Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)D supplementation as a cost-effective mechanism to reduce revision RCR rates and lower the overall healthcare burden from arthroscopic RCR. Nonselective supplementation appears to be more cost-effective than selective supplementation, likely due to the lower cost of 25(OH)D supplementation compared to serum assays.
 
@@ -111,11 +111,11 @@ Methods: A cost-estimation model was developed to determine the cost-effectivene
 
 Results: Preoperative 25(OH)D screening and subsequent selective 25(OH)D supplementation was calculated to result in a  **mean cost-savings of $6,099,341** (range: $-2,993,000 - $15,191,683)  **per 250,000 primary arthroscopic RCR cases.** 
 
- &lt;span style=&quot;color:orange;&quot;&gt; **$24 per procedure (just those who were deficient)** &lt;/span&gt;
+ **$24 per procedure (just those who were deficient)** 
 
  **Nonselective 25(OH)D supplementation**  of all arthroscopic RCR patients was calculated to result in a mean cost-savings of $11,584,742 (range: $2,492,401 - $20,677,085) per 250,000 primary arthroscopic RCR cases. Univariate adjustment projects that selective supplementation is a cost-effective strategy in clinical contexts where the cost of revision RCR exceeds $14,824.69 and prevalence of 25(OH)D deficiency exceeds 6.67%. Additionally, nonselective supplementation is a cost-effective strategy in clinical scenarios where revision RCR cost ≥ $4,216.06 and prevalence of 25(OH)D deficiency ≥ 1.93%.
 
- &lt;span style=&quot;color:orange;&quot;&gt; **$46 per procedure (Vitamin D given to everyone, no testing)** &lt;/span&gt;
+ **$46 per procedure (Vitamin D given to everyone, no testing)** 
 
 Conclusions: This cost-predictive model promotes the role of preoperative 25(OH)D supplementation as a cost-effective mechanism to reduce revision RCR rates and lower the overall healthcare burden from arthroscopic RCR. Nonselective supplementation appears to be more cost-effective than selective supplementation, likely due to the lower cost of 25(OH)D supplementation compared to serum assays.
 

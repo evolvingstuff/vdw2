@@ -22,7 +22,8 @@ Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/1
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 
- **<span style="color:orange;">4X reduction in hip fractures in those who happened to be prescribed to take some  amount of Vitamin D in addition to SERMS</span>** 
+ **4X reduction in hip fractures in those who happened to be prescribed   
+to take some  amount of Vitamin D in addition to SERMS** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -134,7 +135,8 @@ Osteoporos Int  2024 Jan 19. [doi: 10.1007/s00198-024-07022-7](https://doi.org/1
 
 Seong-Eun Byun 1, Hasung Kim 2, Seung Yun Lee 2, Sang-Min Kim 3
 
- **&lt;span style=&quot;color:orange;&quot;&gt;4X reduction in hip fractures in those who happened to be prescribed to take some  amount of Vitamin D in addition to SERMS&lt;/span&gt;** 
+ **4X reduction in hip fractures in those who happened to be prescribed   
+to take some  amount of Vitamin D in addition to SERMS** 
 
 &lt;img src=&quot;/attachments/d3.mock.jpg&quot; alt=&quot;image&quot; width=&quot;600&quot;&gt;
 

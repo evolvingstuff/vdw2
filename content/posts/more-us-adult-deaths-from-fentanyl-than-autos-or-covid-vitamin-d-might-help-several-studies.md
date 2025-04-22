@@ -26,7 +26,8 @@ New England Journal of Medicine
 
 ---
 
-#### If Vitamin D were given with Opiods, perhaps less would be used, fewer would become addicted, and fewer would die
+#### If Vitamin D were given with Opiods, perhaps less would be used,   
+fewer would become addicted, and fewer would die
 
 * <a href="/posts/hypothesis-drug-addiction-in-humans-can-be-prevented-and-treated-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014">Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014</a>
 
@@ -105,7 +106,8 @@ New England Journal of Medicine
 
 ---
 
-#### If Vitamin D were given with Opiods, perhaps less would be used, fewer would become addicted, and fewer would die
+#### If Vitamin D were given with Opiods, perhaps less would be used,   
+fewer would become addicted, and fewer would die
 
 * &lt;a href=&quot;/posts/hypothesis-drug-addiction-in-humans-can-be-prevented-and-treated-by-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014&quot;&gt;Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014&lt;/a&gt;
 

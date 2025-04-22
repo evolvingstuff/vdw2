@@ -11,7 +11,8 @@ categories:
 ---
 
 
- **Note: 39% reduction is independant of Vitamin D dose. Study using a high dose found a  70% reduction** 
+ **Note: 39% reduction is independant of Vitamin D dose.   
+Study using a high dose found a  70% reduction** 
 
 {{< toc >}}
 
@@ -180,7 +181,8 @@ Clin. Endocrinol (Oxf)
 <code class="language-text">
 Markdown:
 --------
- **Note: 39% reduction is independant of Vitamin D dose. Study using a high dose found a  70% reduction** 
+ **Note: 39% reduction is independant of Vitamin D dose.   
+Study using a high dose found a  70% reduction** 
 
 {{&lt; toc &gt;}}
 

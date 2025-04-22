@@ -13,7 +13,8 @@ date: 2023-01-07
 
  **[Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-prices-least-350-drugs-us-january-2022-12-30/)** 
 
- **Note: With new law. Medicare might be able to have price caps in Jan 2026.  &nbsp; &nbsp; BigPharma appears to want to get all their increases in before then** 
+ **Note: With new law. Medicare might be able to have price caps in Jan 2026.   
+ &nbsp; &nbsp; BigPharma appears to want to get all their increases in before then** 
 
  **In 1984 Pharma lobbyists got a law passed that handcuffed Medicare on negotiating competitive drug prices** 
 
@@ -46,7 +47,8 @@ Markdown:
 
  **[Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-prices-least-350-drugs-us-january-2022-12-30/)** 
 
- **Note: With new law. Medicare might be able to have price caps in Jan 2026.  &amp;nbsp; &amp;nbsp; BigPharma appears to want to get all their increases in before then** 
+ **Note: With new law. Medicare might be able to have price caps in Jan 2026.   
+ &amp;nbsp; &amp;nbsp; BigPharma appears to want to get all their increases in before then** 
 
  **In 1984 Pharma lobbyists got a law passed that handcuffed Medicare on negotiating competitive drug prices** 
 
