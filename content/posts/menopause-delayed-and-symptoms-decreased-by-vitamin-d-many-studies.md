@@ -200,30 +200,6 @@ Menopause—Biology, consequences, supportive care, and therapeutic options
 
 ---
 
-#### 92+ studies have Menopause and Vitamin D in the title (Google Scholar)
-
- **[Google Scholar](https://scholar.google.com/scholar?as_q=menopause&as_epq=&as_oq=%22vitamin+D%22&as_eq=&as_occt=title&as_sauthors=&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C48)  Some sample studies** 
-
-* Relationship between vitamin D levels and age of menopause and reproductive lifespan: Analysis based on the National health and nutrition examination survey (NHANES) 2001–2018 - Oct 2023 [https://doi.org/10.1016/j.ejogrb.2023.09.003](https://doi.org/10.1016/j.ejogrb.2023.09.003)
-
-* Determinants and Effects of Vitamin D Supplementation in Postmenopausal Women: A Systematic Review - Jan 2023 [https://doi.org/10.3390/nu15030685](%20https://doi.org/10.3390/nu15030685) FREE PDF
-
-* The role of vitamin D in menopausal women’s health - June 2023 https://doi.org/10.3389/fphys.2023.1211896 FREE PDF
-
-* Vitamin D supplementation after the menopause - June, 2020 https://doi.org/10.1177/2042018820931291 FREE PDF
-
-* Effect of Vitamin D on the Vaginal Health of Menopausal Women: A Systematic Review-  Dec 2019 DOI: https://doi.org/10.6118/jmm.19194 FREE PDF
-
-* EMAS position statement: Vitamin D and menopausal health - March 2023 [FREE PDF](https://www.sciencedirect.com/science/article/pii/S0378512222002602)
-
-* Vitamin D and the Immune System in Menopause: A Review - Dec 2021 https://doi.org/10.6118/jmm.21011 FREE PDF
-
-* Vitamin D, menopause, and aging: quo vadis? - Nov 2019 https://doi.org/10.1080/13697137.2019.1682543 
-
-* Vitamin D supplementation after the menopause - 2020 https://doi.org/10.1177/2042018820931291 FREE PDF
-
----
-
 #### See also: Web
 
 * Some studies have shown vitamin D can also help stabilise your emotions and moods and it is widely considered to be the most important vitamin for menopausal women. [URL](https://www.balance-menopause.com/menopause-library/vitamin-d/#:~:text=Vitamin%20D%20is%20one%20of,important%20vitamin%20for%20menopausal%20women.)

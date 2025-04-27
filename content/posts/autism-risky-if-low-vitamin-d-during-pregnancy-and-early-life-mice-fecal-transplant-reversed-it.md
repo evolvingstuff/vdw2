@@ -46,22 +46,3 @@ __They would probably benefit from 1 or more of the following__
 ~hs~ ~hs~ ((Topical Vitamin D">Topical</a>, <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual</a>, UVB
 
 4) [Higher concentrations achieved by non-daily dosing](/categories/better-than-daily)
-
----
-
-#### VitaminDWiki – [Fecal transplants - many studies](/posts/fecal-transplants-many-studies)
-
- **Includes the following sections as of March 2024** 
-
-* Faecal transplants are just the start for microbiome medicine  - Economist Nov 2023
-
-* Fecal Transplants for Ulcerative Colitis, MS, Depression, Bipolar, and Alcoholism - Dr. Greger April 2023
-
-* Fecal microbiota transplants: A review of emerging clinical data on applications, efficacy, and risks (2015–2020) - Feb 2021
-
-* Relationships Between Vitamin D, Gut Microbiome, and Systemic Autoimmunity - Jan 2020
-
-* Fecal transplants as a microbiome-based therapeutic - Aug 2020
-
-* 5+ VitaminDWiki pages with FECAL TRANSPLANT in the title
-

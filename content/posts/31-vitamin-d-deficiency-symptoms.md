@@ -90,8 +90,3 @@ date: 2023-10-25
 ---
 
 #### VitaminDWiki [Mega-Search](https://VitaminDWiki.com/MegaSearch)
-
----
-
-#### 200+ VitaminDWiki pages contain <a href="/posts/many-studies-in-the-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 13884">"many studies" in the title</a>
-

@@ -52,9 +52,3 @@ We determined that vitamin D deficiency is significantly more prevalent in patie
 #### VitaminDWiki - <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
 
  **which contains: [Fibromyalgia treated with 50,000 IU Vitamin D weekly and rehab therapy for 6 months – June 2022](https://VitaminDWiki.com/Overview+Fibromyalgia+or+Chronic+Fatigue+and+vitamin+D#Fibromyalgia_treated_with_50_000_IU_Vitamin_D_weekly_and_rehab_therapy_for_6_months_June_2022)** 
-
----
-
-#### VitaminDWiki - <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a>
-
- **204+ studies have 50,000 IU in the title as of Sept 2023** 

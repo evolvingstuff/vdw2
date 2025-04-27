@@ -63,22 +63,6 @@ categories:
 
 ---
 
-#### 5 studies of apples and health
-
-* “An apple a day keeps the doctor away”: The potentials of apple bioactive constituents for chronic disease prevention - May 2022  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
-
-* Bioavailability of quercetin in humans and the influence of food matrix comparing quercetin capsules and different apple sources - Oct 2016  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
-
-* Apple Peel Supplementation Potential in Metabolic Syndrome Prevention - March 2023  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
-
-* Apple polyphenols in human and animal health - 2021  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>PDF](/attachments/d3.mock.pdf)** 
-
-   *  **Abstract:** Apples contain substantial amounts of polyphenols, and diverse phenolics mainly flavonoids and phenolic acids, have been identified in their flesh and skins. This work aimed to analyze the overall landscape of the research literature published to date on apple phenolic compounds in the context of human and animal health. The Web of Science Core Collection electronic database was queried with (apple* polyphenol*) AND (health* OR illness* OR disease* OR medic* OR pharma*) to identify relevant papers covering these words and their derivatives in the titles, abstracts, and keywords. The resulted 890 papers were bibliometrically analyzed. The VOSviewer software was utilized to produce term maps that illustrate how the frequent phrases fared in terms of publication and citation data. The apple polyphenol papers received global contributions, particularly from China, Italy, the United States, Spain, and Germany. Examples of frequently mentioned chemicals/chemical classes are  **quercetin** , anthocyanin, catechin, epicatechin, and flavonol, while examples of frequently mentioned medical conditions are cardiovascular disease, atherosclerosis, diabetes, Alzheimers disease, and obesity. The potential health benefits of apple polyphenols on humans and animals are diverse and warrant further study.
-
-* VitaminDWiki note: <a href="/posts/quercetin-a-flavonoid-helps-activate-the-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies">Quercetin (a flavonoid) helps activate the Vitamin D receptor – many studies</a>
-
----
-
 #### 3+ studies found Mortality is reduced by Vitamin D
 
 * <a href="/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017">Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017</a>

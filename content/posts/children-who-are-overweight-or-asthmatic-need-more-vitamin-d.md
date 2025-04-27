@@ -38,17 +38,3 @@ Results: Based on empiric and simulation data, the daily dose of 8000 IU and a l
 Conclusions: Obesity impacts vitamin D clearance and the half-life, but serum concentrations > 40 ng/mL can be reached in most children using a loading dose of 50,000 IU followed by a daily dose of 8000 IU.
 
  **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki ](/attachments/d3.mock.pdf)** 
-
----
-
-#### 158+ VitaminDWiki pages contain <a href="/posts/asthma-occurrence-rate-reduced-3x-by-vitamin-d-8-study-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma occurrence rate reduced 3X by Vitamin D – 8 study meta-analysis - Aug 2021">ASTHMA... in the title</a>
-
- **which includes:** 
-
-* [Resulting childhood Asthma cut in half if 4,400 IU Vitamin D (5 ways to improve it) - RCT April 2023](/posts/resulting-childhood-asthma-cut-in-half-if-4400-iu-vitamin-d-5-ways-to-improve-it-rct)
-
-* [Asthma probably fought by Vitamin D in more than 4 ways – review May 2023](/posts/asthma-probably-fought-by-vitamin-d-in-more-than-4-ways-review)
-
-* <a href="/posts/asthma-treated-by-vitamin-d-13th-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma treated by Vitamin D - 13th Meta-analysis – July 2022">Asthma treated by Vitamin D - 13th Meta-analysis – July 2022</a>
-
-* <a href="/posts/wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wheezing and asthmatic children have weaker Vitamin D responses - May 2022">Wheezing and asthmatic children have weaker Vitamin D responses - May 2022</a>

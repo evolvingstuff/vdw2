@@ -41,7 +41,3 @@ Vitamin D, zinc, and calcium deficiencies increased COVID-19 mortality by
 0.53-fold, 0.46-fold, and 5.99-fold, respectively.
 
 Conclusion: The associations between vitamin D, zinc, and calcium deficiencies and adverse evolution of COVID-19 were positive, while the association between vitamin C and COVID-19 was insignificant. REGISTRATION: PROSPERO CRD42022353953.
-
----
-
-#### VitaminDWiki - <a href="/posts/over-690-virus-studies-have-vitamin-d-in-the-title" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Over 690 virus studies have Vitamin D in the title">Over 690 virus studies have Vitamin D in the title</a>

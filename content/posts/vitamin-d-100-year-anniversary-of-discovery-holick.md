@@ -297,28 +297,6 @@ Conflicts of Interest: Grants from Carbogen-Amcis, Solius Inc., consultant for S
 
 ---
 
-#### 9+ Vitamin D Histories that do not have HISTORY in the title
-
-* <a href="/posts/vitamin-d-in-the-context-of-evolution-400000000-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in the Context of Evolution (400,000,000 years) – July 2022">Vitamin D in the Context of Evolution (400,000,000 years) – July 2022</a>
-
-* <a href="/posts/the-last-750-million-years-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The last 750 million years of Vitamin D">The last 750 million years of Vitamin D</a>
-
-* <a href="/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019">History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019</a>
-
-* <a href="/posts/vitamin-d-millions-of-years-more-ancient-than-calcium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D – millions of years more ancient than Calcium – Jan 2016">Vitamin D – millions of years more ancient than Calcium – Jan 2016</a> 750 million years
-
-* <a href="/posts/vitamin-d-calcium-and-bone-homeostasis-during-evolution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: calcium and bone homeostasis during evolution – Jan 2014">Vitamin D: calcium and bone homeostasis during evolution – Jan 2014</a>
-
-* <a href="/posts/evolution-and-vitamin-d-omega-3-obesity-mito-dna-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evolution and Vitamin D, Omega-3, obesity, mito. DNA, etc. – Feb 2019">Evolution and Vitamin D, Omega-3, obesity, mito. DNA, etc. – Feb 2019</a>
-
-* <a href="/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunshine is a cure for “weak and soft muscles” – 425 BC">Sunshine is a cure for “weak and soft muscles” – 425 BC</a>
-
-* <a href="/posts/solar-ultraviolet-radiation-and-vitamin-d-a-historical-perspective" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: SOLAR ultraviolet radiation and vitamin D: a historical perspective – Aug 2007">SOLAR ultraviolet radiation and vitamin D: a historical perspective – Aug 2007</a>
-
-* <a href="/posts/teeth-getting-worse-due-to-lower-level-of-vitamin-d-during-the-past-5000-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Teeth getting worse due to lower level of vitamin D during the past 5,000 years">Teeth getting worse due to lower level of vitamin D during the past 5,000 years</a>
-
----
-
 #### Chart of <a href="/posts/getting-vitamin-d-into-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting Vitamin D into your body">Getting Vitamin D into and thru your body</a>
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
