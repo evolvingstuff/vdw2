@@ -36,11 +36,11 @@ People below the poverty level are 2X more likely to smoke, which reduces Vitami
 
 ---
 
-#### VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki - [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise">What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise</a>
+#### VitaminDWiki - [What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise](/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise)
 
 ---
 

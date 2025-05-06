@@ -1,0 +1,252 @@
+---
+title: "COVID-19 and variants are here to stay (he fails to mention that vitamin D might help)"
+slug: "covid-19-and-variants-are-here-to-stay-he-fails-to-mention-that-vitamin-d-might-help"
+aliases:
+  - "/COVID-19+and+variants+are+here+to+stay+he+fails+to+mention+that+vitamin+D+might+help+-+June+2021"
+  - "/tiki-index.php?page_id=12654"
+date: 2021-06-13
+categories:
+  - "Top news"
+  - "Virus"
+---
+
+ **Interview of Dr. Larry Brilliant** 
+
+{{< toc >}}
+
+---
+
+### The Doctor Who Eliminated Smallpox Says COVID-19 Is Here to Stay
+
+ **Dr. Larry Brilliant**  spoke with Harry Siegel about why it’s too late to hope for herd immunity despite the “magic” of vaccines, and much more.
+
+ **The following has none of the graphics of the original** 
+
+ **[Harry Siegel](https://www.thedailybeast.com/author/harry-siegel) &nbsp;[Senior Editor, Opinion](https://www.thedailybeast.com/author/harry-siegel)** 
+
+Updated Jun. 13, 2021 7:12AM ET / Published Jun. 13, 2021 4:42AM ET 
+
+In some pockets of the United States, if you squint hard enough, the coronavirus pandemic might feel like it’s almost over. Larry Brilliant would beg to disagree. With U.S. COVID-19 deaths soon to surpass the domestic toll from [the great influenza of a century ago](https://www.thedailybeast.com/people-also-refused-to-wear-masks-during-the-1918-influenza-pandemic-and-675000-died) even as widely available vaccines have worked wonders, Brilliant, the epidemiologist who worked with the WHO to help eradicate smallpox and was the science adviser for the eerily prescient film Contagion, thinks there’s still plenty left to worry about—but also lots of good news to appreciate.
+
+In an hour-long interview that’s been edited for length and clarity, I asked him about why he thinks [it’s too late to hope for herd immunity](https://www.wsj.com/articles/herd-immunity-wont-save-usbut-we-can-still-beat-covid-19-11616770584), and what he thinks we need to be doing now in what looks to be a long fight against a [Forever Virus](https://www.foreignaffairs.com/articles/united-states/2021-06-08/coronavirus-strategy-forever-virus). We also ended up talking about MERS, SARS, Ebola, the “Spanish flu,” anti-maskers, biological warfare and Yogi Berra **.** 
+
+ **Harry Siegel: Let’s start with the big question: Why is it that you think COVID-19 isn’t going away, and does that mean the U.S. is in a bubble right now, as vaccines are being widely distributed here?** 
+
+#### Not able to achieve herd immunity - variants and it can hide in other species
+
+ **Larry Brilliant:**  Boy, I wish we could reach herd immunity. But there’s a number of reasons why we can’t. First and foremost, a virus that infects multiple species, animals and humans, and a virus that has multiple new variants, each one having the potential to reinfect people, is sort of disqualified from being a candidate to be eradicated. Because in both cases, the denominator keeps changing, of how many people could be exposed to the disease. If you’re exposed to or get vaccinated against the disease and then a new variant comes in that can still infect you, the concept of herd immunity no longer really applies. And if animals—and we’ve got  **12 different species who’ve been infected with COVID-19, usually from humans** —if they can harbor it, and then infect humans, then you can’t eradicate the disease like we’ve been unable to eradicate yellow fever, because monkeys get it and they just don’t like to put their arms out to get vaccinated, and it’s really tough to get them to stand in line.
+
+The mRNA vaccines and the speed with which they were made are in many ways magic.
+
+ **How should Americans who’ve been vaccinated and are feeling a sense of relief and maybe going inside restaurants again or sending their kids under 12 to camp for the summer be thinking about all this and their behaviors?** 
+
+If they’re like me, they’ll feel grateful. After an abysmal start in 2020—where America was part of the problem, as China was part of the problem, instead of being part of the solution—we’re getting there. [President Biden at the G7 announced that we will supply 500 million doses of mRNA vaccines to the rest of the world](https://www.thedailybeast.com/biden-administration-to-donate-500-million-pfizer-vaccines-to-the-world) that needs it the most, and I’m very proud of that. And we should be very proud of the mRNA vaccines. When I was at Google, we used to say that any sufficiently advanced technology is indistinguishable from magic, and the mRNA vaccines and the speed with which they were made are, in many ways, magic. We shouldn’t forget that the scientists working on mRNA vaccines had been working on them for 10 years, and almost had an mRNA vaccine [against MERS](https://www.thedailybeast.com/is-middle-east-respiratory-syndrome-mers-the-next-sars) <span>[the Middle Eastern Repository Syndrome that was first identified in 2012]</span>. And that’s what helped us to get off of the starting line so quickly.
+
+Just think about this: It took us well over 200 years after we had a vaccine before we could eradicate smallpox, 70 years after we had a vaccine against polio before we could have a global polio program. And by January, really, a year from the day that COVID-19 began, we already got the start of a global vaccination program. It’s astonishing, and we should feel really grateful. Those of us who’ve been vaccinated, I think many would share the feeling I had when I had my second dose, and just felt like a load was off my shoulders.
+
+But while feeling grateful, we shouldn’t misunderstand the situation we’re in. It’s a Dickensian moment. It’s the best of times, because we’ve got the vaccines, and it’s the worst of times, because of the people who don’t have the vaccine. You can’t help but look at the funeral pyres burning in India and Nepal and contrast that to Americans, joyfully ripping off our masks and going to the beach for a summer holiday, without understanding that it’s a tale not of two cities but of two worlds, and two lived experiences.
+
+ **Could that second world, the one consumed with illness and suffering right now, return to America with the mutations? I mean, you’re writing about variants that could be more transmissible, or could be vaccine resistant, or could even be able to evade the tests we have now.** 
+
+#### 30% of cases in Marin County CA, are now the alpha variant
+
+They’re already back. I mean,  **all the variants—the alpha, beta, gamma and delta variants** —are all back in the United States. In my county, Marin County in California, when I looked a couple of weeks ago, 30 percent of all the cases here were the British variant, the B.1.1.7, and that’s the alpha variant, but we also had the beta and gamma and delta, the others that we call variants of concern.
+
+#### "If a super-variant emerges anywhere in the world, it will be everywhere."
+
+It’s likely that if a super-variant, a variant of high consequences, as WHO calls it, emerges anywhere in the world—including, you know, in Canton, Ohio, it doesn’t have to arise from an exotic place far away—it will be everywhere. It is the nature of a new variant. What makes a new variant succeed is that it outpaces all the prior variants, all the ancestral strains, and then infects all the people we have in our community who haven’t been vaccinated. Even many, perhaps, who’ve had the disease before. What we fear the most is that kind of a variant that will infect people who’ve already been vaccinated, and that the vaccines will turn out to not be effective against it.
+
+#### AstraZeneca vaccine is 10-20% effective against the beta variant,
+
+And we have a reason for concern: that  **<span style="color:#00F;">we already have one vaccine that, when matched against one variant, becomes 90 percent ineffective</span>** . And that’s the AstraZeneca vaccine matched against the beta variant, the South African variant. In trials, its effectiveness is reduced to 10 or 20 percent. It’s perfectly effective against other variants, but just not against that one.  **This should be a big red light blinking for us, that one variant has rendered one vaccine ineffective** . We have a reason to be concerned that it could happen again with a new variant, and that new version could in fact render all vaccines we have to date ineffective.
+
+#### Non-zero risk that all vaccines might not be effective against some future variants
+
+I don’t think that’s a very high risk—it’s not a 50 percent risk, but it’s a non-zero risk, and Harry, if I told you that there was a 5 percent risk that if you drove from wherever you are to the closest Starbucks, that you’d be killed in that car, you wouldn’t go. You’d walk! And there’s a non-zero risk that we’ll have a super-variant like that. I don’t want to exaggerate it. I don’t want it to be the thing that everybody thinks about all the time, but epidemiologists have to think about it sometimes.
+
+This virus is a wily virus and it’s outsmarted us before.
+
+ **So, in a war, there’s a national mobilization; with the virus, outside of the medical world, there were shutdowns. Now, as things are reopening here, and with these concerns you’re talking about looming, what can we be doing to brace for what could be coming with a variant or the next pandemic?** 
+
+We should realize that if 30 percent of Americans are  **not vaccinated, that’s 120 million people. And that’s plenty for the virus—the ancestral virus, let alone a novel virus, let alone a super-variant—to come in and create another wave, and a large one at that.**  So we need to have a defensive capability, a system of cluster-busters. That’s the term I’m borrowing from the Japanese, who use it to define teams that are mobile, that have highly computerized systems to have a situational report like a battlefield commander would have or like a CEO would have, and can see where every variant is.
+
+#### Sampling sewage to look for viral variants has worked for decades
+
+We can find out where every variant is. We can find asymptomatics. We need to be doing  **sewage sampling** , environmental sampling. Columbia University does this for all of their dorms. It’s very inexpensive once it’s set up. We need this to find out which countries are infected.
+
+We’ve done that in the polio program—this is not new! In the polio program, when we found out that Syria, which was supposedly free of polio, had causative viruses in the sewage, we sequenced the viruses to find out which polio variant it was. We did this 15 or 20 years ago—this is not science fiction. We should, all over the United States, have sewage sampling now. Because this virus is going to be with us for years or decades, and the variants are likely to return, and there will be new pandemic viruses. Why not? Why not have sewage sampling everywhere, especially in the cities, and be able to do virus sequencing to know what the variant is?
+
+And we should be using exposure notification systems. I know there was [a big article in The New York Times a few weeks ago about how bad they are](https://www.nytimes.com/2021/05/27/business/apple-google-virus-tracing-app.html). They’re not bad, they’re wonderful. We learned from scientists at Cambridge and in the U.K. that exposure notification systems, when compared to human contact-tracing systems, found two times as many contacts for people who are exposed (four, compared to two) and found them two days earlier. Well, that’s a lifetime for an epidemiologist. Then we’ll know who to test, who to isolate, and who to vaccinate.
+
+The worst part, and the hardest part, is we’ve got to put it all together at a time when everyone is feeling like we’re through with this disease, we’re over it, we can go to the beach.
+
+There’s a whole host of electronic symptom-surveillance systems, we call them syndromic-surveillance systems, and I’ll name a few of them: [Outbreaks Near Me](https://outbreaksnearme.org/), [Flu Near You](https://flunearyou.org/), [How We Feel](https://howwefeel.org/)—and [GPHIN](https://gphin.canada.ca/), the first of these digital disease-detection systems, which was how we found the original SARS. These are opt-in, voluntary systems where if somebody reports that they’ve got a fever or the symptoms of COVID-19, you can send them an email or text: When did you get sick? Do you know about the doctor here? Can I tell you about a vaccine there?
+
+Adding in testing, tracing, and isolation on top of situational awareness, a good digital disease detection, a good surveillance system, we can do it differently than we did before because of the COVID stimulus package. This is all doable. We’ve done every one of these things in part. What we have to do now is put it together. And the worst part, and the hardest part, is we’ve got to put it together at a time when everyone is feeling like we’re through with this disease, we’re over it, we can go to the beach.
+
+And then the testing that we do is so much better now. In addition to PCR testing, we’ve got rapid PCRs and viral sequencing. So a baseline of surveillance, and then containment of the outbreak. And the containment will include better isolation and just-in-time vaccination—but vaccination 
+
+ **One of the big issues last year internationally and within the United States was coordination between different governments and levels of government. In** [https://www.foreignaffairs.com/articles/united-states/2021-06-08/coronavirus-strategy-forever-virus|] **your**  **Foreign Policy**  **piece** ] **, you call for a single database for anonymized demographic epidemiological and sequencing data. But in New York City, where I am, the governor and the mayor can’t even agree on the most basic data, like the daily death count. And obviously some nations—China comes to mind here—have been much more secretive about their data. Is the answer here technologies or apps that route around governments, or what is the answer in a time of rising nationalism and suspicion of international or collaborative bodies?** 
+
+If it’s any consolation, in every pandemic, almost every country has been secretive about whether they were infected or not. I give you as evidence the Spanish flu, which started in Kansas. You don’t call it the Kansas flu or the French flu or the British flu, even though those countries also had it, because all those countries were fighting in World War I, and they had military censorship. They were forbidden to tell other countries that their armed forces might be weakened by having a disease. But poor Spain was neutral, they had no reason to lie. So when a member of the royal family got it, they just kind of innocently did the right thing and I guess no good deed goes unpunished, so it got labeled the Spanish flu. It’s always the case that people hide diseases in a pandemic, and especially in wartime.
+
+When SARS hit China, if it weren’t for that digital disease surveillance system, GPHIN, which by the way is a Canadian system, we never would have found it as quickly as we did—the original SARS. So what you’re describing is not new.
+
+I think Trump took it to an entirely new level when he—the most reliable data is hospitalization data. It’s very difficult to get accurate death data, it’s very difficult to get accurate case data, especially when they’re asymptomatics. Hospitalization data is easier to get, and is more reliable, so what Trump did was he stopped letting anybody get that data. If you remember, [he rerouted that data from CDC to Palantir.](https://www.thedailybeast.com/trump-administration-turns-to-peter-thiels-palantir-to-track-coronavirus) I can’t even imagine what was behind that story, but why did he want to do that? Recall, when that cruise ship docked in Oakland, with Americans who had COVID-19 on it, Trump said [I don’t want it to touch American territory](https://www.thedailybeast.com/coronavirus-cruise-finally-endswith-relief-and-recrimination) because if it docks and touches American territory, they’ll be counted against my score. I mean, what world are we living in? Don’t count, don’t find Americans who are sick from COVID-19, because it will be counted against my score?
+
+#### He hopes to have the world make a system that can react in 6 months to a new virus or major variant
+
+You are never going to have a vaccine on the day that a novel virus leaps out from a chimpanzee or a mink to a human. On that day, the only thing you have is early detection and rapid response and isolation.
+
+But this is not new, and Trump is not the first person to do this. Half the reason we’re having this explosion of cases in India compared to what we had before is that India didn’t do a very good job of reporting the cases. Surprise. China under-reported cases. This is not new.
+
+So we need to find ways to aggregate data, because we’re really in this for the long haul. I wrote an article in The Wall Street Journal about a decade ago called [The Age of Pandemics](https://www.wsj.com/articles/SB124121965740478983), and we now live in the age of pandemics, whether we like it or not, and we need to protect ourselves. Yes, we should be celebrating that we have this amazing mRNA technology and these vaccines. But you are never going to have a vaccine on the day that a novel virus leaps out from a chimpanzee or a mink to a human. On that day, the only thing you have is early detection and rapid response and isolation. If you’re lucky, you have an antiviral if it’s a virus that’s been hanging around on a shelf from some other disease, but you’re probably not going to be lucky.
+
+#### Every year, we’re facing the drip, drip, drip of the risk of another pandemic.   
+We might as well use this one to get good at it.
+
+The future is going to be—animals and humans are living in each other’s territory now, in a way that we haven’t done. I just heard the other day that [60 percent of the animals that we had 40, 50 years ago are gone](https://www.npr.org/2020/09/10/911500907/the-world-lost-two-thirds-of-its-wildlife-in-50-years-we-are-to-blame), because humans are eating animals, including monkeys and rodents, bushmeat. And 30 years ago in China, the number of pigs and cows that were available for food was a fraction of what it is right now. But to get there, we’ve had to cut down the rainforests and build up soy plantations, and by cutting down the forest, we’re living right next to animals.
+
+We tried to portray this in a movie that I was science adviser on, called Contagion. And if you remember the last scene, that Steven Soderbergh put in as the genius that he is, it is exactly that, it’s cutting the forest and a bat, losing its habitat, flying to a barn and eating an apple and a pig eating the apple that the bat dropped. That’s transmission. In that case, the pig would have been the animal that we’re searching for in COVID-19, but because we live in the world in which humans and animals are getting closer and closer together—there’s actually a whole branch now called One Health, which is a kind of big deal, with scientists who are convinced that animal health, human health, and environmental health all have to be looked at as one piece. That’s important for looking at the future of disease transmission.
+
+#### Every year, two to five novel viruses jump from animals to humans
+
+And these are viruses that could infect humans, and might become transmissible. Every year, we’re facing the drip, drip, drip of the risk of another pandemic. We might as well use this one to get good at it, because this risk is not going away. The last I looked, we haven’t changed our living practices to reduce the overlap between humans and animals.
+
+We don’t understand that we’re all just meat, and the virus travels everywhere.
+
+ **Is summer travel likely to cause significant problems again this year?** 
+
+#### Virus mutations will spread rapidly:   
+120 million in the US not vaccinated even for the original, few masks, little social distancing
+
+Summer travel last year caused the explosion that we saw in the fall. If a third of the population, 30 percent, is not vaccinated, not wearing masks, and we’ve already got the variants in the United States—what do you think’s going to happen? Remember, what drives a virus is not how good we’ve been at vaccinating 60 percent. It’s the 120 million Americans who are not vaccinated, not wearing masks, not practicing social distancing, and who are congregating. And it only takes one little virus, and it’s everywhere, because they’re just not protected. Of those who aren’t vaccinated but had the virus, a high percentage have already lost their immunity or have waning immunity—there’s much less and much less durable immunity from getting the disease than from getting the vaccine.
+
+ **How worried should we be about the big discrepancy in the U.S. between vaccination in the northern and southern states, a year out from the big surge in the south?** 
+
+You know, Yogi Berra said it’s very difficult to make predictions, particularly about the future. However, I am extremely worried that the Halloween, Thanksgiving, Christmas, New Year cadence will bring about another wave this year. I look at Texas, Florida, Alabama, Mississippi—the states that have been tepid about wearing masks, anti-vax, late to close, and early to open. That’s a formula for creating risk. And it’s true that if we don’t have any viruses anywhere in the country, those states will get the derivative benefit of the prudence of other states, but I wouldn’t want to bet on it.t
+
+#### 1918 influenza went around the world 4 times in a year, and that was before airplanes
+
+The virus that caused the great influenza went around the world four times in one year. And you know what there was not then? Commercial airplanes.
+
+ **What countries are you concerned may be next in line to be hit hard now, or is that back in Yogi territory?** 
+
+We have to worry about the parts of Africa that are densely populated. South Africa is an example of a country that became an explosive outbreak almost overnight. It had a new variant.
+
+By the way, I’m pretty optimistic that we’re going to get a handle on this disease, that we’re going to have booster shots, and we’re going to shame or convince the world to help build vaccine manufacturing plants all over the world. America just charitably promised 500 million doses, which is a wonderful thing, but far better would be that we help build vaccine manufacturing facilities all over Africa, all over Latin America, all over Asia, where they don’t have it. That would be better.
+
+We want to be able to manufacture them all over the world. That’s the way you deal with a global pandemic. But you mentioned earlier, because of nationalism, because of people focused on their own community, we misunderestimate this virus. We don’t understand that we’re all just meat, and it travels everywhere.
+
+Whenever I’m asked about Wuhan, I say, if we were so careless that the last death of smallpox was a lab accident, it could be anywhere, a lab accident, we just don't know.
+
+ **How far have we come since 1918?** 
+
+H1N1, the virus that caused the great influenza, went around the world four times in one year. And you know what there was not then? Commercial airplanes. You know, you don’t want to underestimate your adversary.
+
+ **I’m not sure if it’s a West Coast thing, but I know San Francisco and L.A. both closed their schools in 1918, and New York City, where the Department of Health was led by Royal Copeland, a homeopath, kept the schools open on the argument that the kids were actually safer there because they could be effectively monitored and surveilled, and otherwise you have lots of kids who are coming from tenements with bad circulation. Copeland ended up becoming a senator and fought very hard to get air conditioning into the Senate chamber which didn’t have it and apparently was unbearably hot. Forgive me, that’s random information as I’m processing here.** 
+
+No, no, I’ll give you a random one back which is, you know, I worked so hard on smallpox and my colleagues, we worked very hard, and the last case of Variola major in nature was Bhola Island, October of 1975, a little girl named Rahima Banu. And when her scabs fell off and her coughs stopped, that was the end of an unbroken chain of transmission of Variola major going back to the pharaohs. And we celebrated.
+
+Variola major was the disease that killed off the Native Americans. In New England, when you get to an old cemetery from the 1700 or 1800s, you’ll see right near it an annex that’s called Pox Acres. That’s mostly where the Indians were buried who picked up blankets from Jeffrey Amherst, after whom the city and the college are named, and who was the first bioterrorist in American history.
+
+Back to 1975, we worked so hard and we declared smallpox eliminated, and we began the clock ticking. We weren’t going to declare it eradicated until two years would have passed after the last case. And, well, before the two-year clock had ticked, we had our last case. And our last death was in Birmingham, England, and it was a young woman who was a photographer, and her photographic studio was located above a lab, a smallpox lab, and the virus somehow got into the air conditioning system and floated up through the smallpox lab and infected her and she died.
+
+That was the last case of smallpox, and whenever I’m asked about Wuhan, I say, if we were so careless that the last death of smallpox was a lab accident, it could be anywhere, a lab accident, we just don’t know. But that’s another air conditioning response to your anecdote. I mean, this world of diseases is so filled with stories. You know, Conquistadors probably killed one out of every two Aztecs, just huge numbers that we can’t even count, because they’ve got smallpox. We should never underestimate these diseases that we sort of lost familiarity with because modernity has given us cleanliness and hygiene and vaccines.
+
+That said, there’s happy news. Seven years ago it took us six months to find Ebola as the cause of that novel outbreak. And on average, it took six months to find any virus with pandemic potential that spilled over from animals. Today, it takes two or three weeks. That’s huge. It gives you the appearance of more outbreaks, but it gives you time to respond to bird flu or swine flu or a coronavirus or whatever the next pandemic is going to be. We’ve already got a global program. It may be uncoordinated, it may not have leadership, we’ve got all those problems, but we do have a global program, and we have a vaccine. Lots of good news.
+
+There are as many grieving families with COVID as there were with the great influenza. And we’re just starting with COVID.
+
+[ **I remember Trump** ](https://www.nydailynews.com/opinion/virus-donald-trump-article-1.3754193) **, in the midst of Ebola and before he was president, tweeting his fears about this in real time and blasting Obama. I also remember (then New Jersey Gov. Chris) Christie quarantining a returning nurse who had no symptoms at all.** 
+
+Ebola is one of the diseases that I worry the least about. It’s a bloodborne disease, or it’s a disease spread by sharing vital fluids, and there’s no asymptomatics, and it kills a lot of people who get it. So if you were a virus and choosing the attributes that you wanted, smallpox would be ideal, because it spreads like wildfire and is to some extent more contagious than the original COVID-19, and it kills one out of three. COVID-19 made good choices, seeing from its perspective, trying to perpetuate its life. By having asymptomatics and a very short incubation period—it can be two to 14 days, average is six.
+
+#### Ro (ignores super spreading)
+
+Note by VitaminDWiki - it appears that potential superspreaders are easily identified - they emit 100X more aerosols when exhaling
+
+Just as an aside, one of my happiest days in epidemiology was in training Kate Winslet how to stand at that blackboard (in Contagion) and explain what R naught means. R naught is really critical. It’s the definition of the number of secondary cases that come from a primary case, which tells you, because this virus is going to spread at exponential speed, it tells you what’s the exponent. In the case of measles, one case gives rise to 10 to 12 others. In the case of influenza or Ebola, one case gives rise to about 1.2 or 1.3. These are laggards. Measles is the most transmissible. Smallpox was 3.5 to 4.5 and COVID-19, initially was thought to be 2 or 3. I think in retrospect, now that we know we were missing all these asymptomatics, it was originally 5 or 6. And each variant increases that. So this is a bit wonky, but the formula for herd immunity is one minus one divided by R naught. So if R naught is 10, as it is for measles, herd immunity is one minus one over 10, or 90 percent of people have got to be immunized. If R naught is two, then it’s one minus one over two or 50 percent of the population.
+
+The theory is that what drives an epidemic is the density of susceptibles, it isn’t the number of people who are vaccinated. So if a disease transmits very slowly, it doesn’t infect very many people, then you don’t have to vaccinate that many people to stop it. But if it transmits incredibly quickly, then you have to vaccinate a huge number of people to stop it because you have to reduce the number of people who are susceptible to it.
+
+Early on in the epidemic, when the first report out of Wuhan was that the R naught was 2 or 3, people were saying how we could get to herd immunity with only 50 or 67 percent of the population vaccinated. It was always ludicrous to think that we could do what Sweden was proposing, to just let the virus run through and infect everybody. I mean, we already have 600,000 deaths.
+
+We’re about to pass the number of deaths that the United States had from the 1918 great influenza <span>[the CDC says the Spanish flu killed 675,000 Americans; while COVID-19 has killed about 600,000]</span>. Yes, the population has tripled from what it was then. But that doesn’t matter—there are as many grieving families with COVID-19 as there were with the great influenza. And we’re just starting with COVID-19.
+
+What is it Churchill said? This is not the end. It’s not the beginning of the end. But it’s the end of the beginning.
+
+---
+
+### VitaminDWiki
+
+#### 30 years ago many people had good vitamin D levels and there were few pandemics  
+Since then, levels have crashed (and there are many pandemics)
+
+ **<a href="/posts/vitamin-d-levels-have-been-crashing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10189">Vitamin D levels have been crashing</a>** 
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+
+   * Click on chart for details
+
+#### Vitamin D fights many viral diseases and their variants
+
+* <a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011">Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011</a>
+
+* <a href="/posts/yet-another-virus-associated-with-low-vitamin-d-mononucleosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yet another virus associated with low vitamin D – mononucleosis – Aug 2016">Yet another virus associated with low vitamin D – mononucleosis – Aug 2016</a>
+
+* [The interplay between vitamin D and viral infections – Jan 2019](/posts/the-interplay-between-vitamin-d-and-viral-infections)
+
+* [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
+
+* [Better response to shingles virus  after 6,400 IU Vitamin D raised above 40 ng – Jan 2021](/posts/better-response-to-shingles-virus-after-6400-iu-vitamin-d-raised-above-40-ng)
+
+* [Hepatitis B virus reduced by 5X the Vitamin D getting to liver cells in the lab – Oct 2018](/posts/hepatitis-b-virus-reduced-by-5x-the-vitamin-d-getting-to-liver-cells-in-the-lab)
+
+* <a href="/posts/stop-zika-birth-defects-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stop Zika Birth Defects with Vitamin D">Stop Zika Birth Defects with Vitamin D</a> by the founder of VitaminDWiki
+
+* <a href="/posts/vitamin-d-effective-in-preventing-flu-if-not-vaccinated" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Effective in Preventing Flu if not vaccinated - June 2018">Vitamin D Effective in Preventing Flu if not vaccinated - June 2018</a>
+
+* <a href="/posts/meningitis-and-other-brain-infections-should-be-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Meningitis and other brain infections should be prevented by Vitamin D – June 2014">Meningitis and other brain infections should be prevented by Vitamin D – June 2014</a>
+
+* [Vaccine response improved by Vitamin D (Shingles in this case) – Jan 2021](/posts/vaccine-response-improved-by-vitamin-d-shingles-in-this-case)
+
+*  **Dengue Virus** 
+
+   * [Dengue virus prevented by a small amount of Vitamin D – RCT Nov 2019](/posts/dengue-virus-prevented-by-a-small-amount-of-vitamin-d-rct)
+
+   * <a href="/posts/dengue-virus-2x-to-4x-more-likely-if-vitamin-d-receptor-gene-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue virus 2X to 4X more likely if vitamin D receptor gene problems">Dengue virus 2X to 4X more likely if vitamin D receptor gene problems</a>
+
+   * <a href="/posts/dengue-fever-8x-higher-risk-for-getting-worse-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017">Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017</a>
+
+   * [Dengue viral production decreased 1000X if activate Vitamin D Receptor (in lab) – July 2020](/posts/dengue-viral-production-decreased-1000x-if-activate-vitamin-d-receptor-in-lab)
+
+---
+
+#### Speculation 1: Vitamin D may be better than vaccines at fighting COVID-19 variants
+
+#### Speculation 2: Vitamin D can help current vaccines fight variants
+
+#### Vaccination, Vaccine, etc. in 73 VitaminDWiki titles
+
+ **[Vaccination publications in VitaminDWiki](/posts/vaccination-publications-in-vitamindwiki) 73 titles as of June 2021:Examples** 
+
+* [Problems with vaccine use during a pandemic - Dr. Bossche interview with transcript - April 22, 2021](/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-interview-with-transcript)
+
+* [COVID-19 vaccines look good in the short term, but probably not good for the long term](/posts/covid-19-vaccines-look-good-in-the-short-term-but-probably-not-good-for-the-long-term)
+
+* [COVID-19 cases increased in 26 countries soon after vaccinations - April, May 2021](/posts/covid-19-cases-increased-in-26-countries-soon-after-vaccinations-april)
+
+* [Country reliant on tourism vaccinated, but now 1 in 1,000 get COVID-19 daily - May 2021](/posts/country-reliant-on-tourism-vaccinated-but-now-1-in-1000-get-covid-19-daily)
+
+* [Vitamin D reduces COVID-19 complications – June 2021](/posts/vitamin-d-reduces-covid-19-complications)
+
+<!-- ~tc~ (alias(Dr who eradicated smallpox says COVID-19 and varients are here to stay - June 2021)) ~/tc~ -->
+
+<!-- ~tc~ (alias(Dr. who eradicated smallpox says COVID-19 and varients are here to stay - June 2021)) ~/tc~ -->
+
+<!-- ~tc~ (alias(DCOVID-19 and varients are here to stay (buno comment on how vitamin D might help) - June 2021)) ~/tc~ -->
+
+<!-- ~tc~ (alias(COVID-19 and variants are here to stay (no comment on how vitamin D might help) - June 2021)) ~/tc~ -->
+
+<!-- ~tc~ (alias(COVID-19 and variants are here to stay (it fails to mention that vitamin D might help) - June 2021)) ~/tc~ -->

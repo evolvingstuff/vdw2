@@ -42,4 +42,4 @@ Vitamin D deficiency is common in childhood, pervasive before and after bone mar
 
 ---
 
-#### VitaminDWiki - <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D - many studies</a>
+#### VitaminDWiki - [Response to Vitamin D - many studies](/posts/response-to-vitamin-d-many-studies)

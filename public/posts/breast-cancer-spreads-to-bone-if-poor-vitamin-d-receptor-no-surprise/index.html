@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Breast cancer spreads to bone if poor vitamin D Receptor (no surprise)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542214">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542214">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542214"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Breast cancer spreads to bone if poor vitamin D Receptor (no surprise)</h1>
+        <time>October 31, 2022</time>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#vitamin-d-receptor-expression-is-significantly-decreased-in-bone-metastases-compared-to-matched-primary-breast-cancer-tumours">Vitamin D receptor expression is significantly decreased in bone metastases compared to matched primary breast cancer tumours</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+<hr>
+<h4 id="vitamin-d-receptor-expression-is-significantly-decreased-in-bone-metastases-compared-to-matched-primary-breast-cancer-tumours">Vitamin D receptor expression is significantly decreased in bone metastases compared to matched primary breast cancer tumours</h4>
+<p>Cancer Invest . 2022 Oct 31;1-22. <a href="https://doi.org/10.1080/07357907.2022.2142604">doi: 10.1080/07357907.2022.2142604</a> PDF is behind a paywall</p>
+<p>Konstantin Horas  1   2 , Marc Abraham  2 , Regina Ebert  2 , Manuel Weissenberger  1 , Gerrit S Maier  3 , Franz Jakob  2 , Andreas Rosenwald  4 , Maximilian Rudert  1</p>
+<p>There is ample evidence today that vitamin D signalling via the VDR plays a pivotal role in cancer growth and metastasis.The aim of this study was to analyse VDR expression of primary breast cancer and corresponding bone metastases tissue samples. Collectively, 15 sample pairs and 11 samples of patients that did not develop metastases were analysed histologically for VDR expression (n = 41).Overall, VDR expression was significantly lower in bsone metastases compared to primary tumour samples (p &lt; 0.0001). Downregulation of the VDR in breast cancer cells may define a critical turning point in oncogenesis that accelerates cancer cell dissemination and metastases.</p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542214"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542214',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542214'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542214"></script>
+    <script src="/js/search-results-panel.js?v=1746542214"></script>
+</body>
+</html>

@@ -30,6 +30,6 @@ Out of 37 SNPs, 9 including leucine zipper transcription factor like-1 (LZTFL1) 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/long-covid-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID in VitaminDWiki">Long-COVID</a> 78+ items
+#### VitaminDWiki - [Long-COVID](/posts/long-covid-in-vitamindwiki) 78+ items
 
 <!-- ~tc~ (alias(Many poor genes associated with Long-COVID (no Vitamin D genes) – July 2023)) ~/tc~ -->

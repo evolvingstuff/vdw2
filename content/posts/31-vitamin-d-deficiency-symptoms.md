@@ -79,7 +79,7 @@ date: 2023-10-25
 
 [https://VitaminDWiki.com/Bipolar+Diso...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1GSzBud2t6WUJHLVdrLWMwUHFGdm5MUzUxUXxBQ3Jtc0tuek9rZDNXZnktUDc0WTc0QkR6UnVzcEM0VWhSdHUxbWNOZFcxbWdjbUY5bkY1MU5FMWtIWjA5Qk1QT3hiX21RMVF6WlVfLWZIT2M1cS1YTjZlTWFSUWpzX1RVczlPaUcwaWJ5N29JRlBsV0pmVmxfRQ&q=https://VitaminDWiki.com/Bipolar%20Disorder%20may%20be%20related%20to%20cellular,%20not%20blood%20Vitamin%20D#articles_in_the_Bipolar_category&v=X2T2Vd9utcs)
 
-<a href="/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies">More Vitamin D to cells should prevent Uterine Fibroids – multiple studies</a>
+[More Vitamin D to cells should prevent Uterine Fibroids – multiple studies](/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies)
 
 <a href="/posts/poor-menstrual-cycles-2x-more-likely-if-poor-vitamin-d-levels-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor menstrual cycles 2X more likely if poor vitamin D levels - many studies">Poor menstrual cycles 2X more likely if poor vitamin D levels - many studies</a>
 

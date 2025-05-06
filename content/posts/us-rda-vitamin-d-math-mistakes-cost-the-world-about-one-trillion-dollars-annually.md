@@ -71,7 +71,7 @@ Costs:
 
 ---
 
-#### <a href="/posts/more-than-700-intervention-trials-in-vitamindwiki-since-the-iom-decision" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 700 Intervention Trials in VitaminDWiki since the IoM decision">More than 700 Intervention Trials in VitaminDWiki since the IoM decision</a>
+#### [More than 700 Intervention Trials in VitaminDWiki since the IoM decision](/posts/more-than-700-intervention-trials-in-vitamindwiki-since-the-iom-decision)
 
 also <a href="/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 137 health problems associated with low vitamin D – meta-meta-analysis April 2014">137 health problems associated with low vitamin D – meta-meta-analysis April 2014</a>
 

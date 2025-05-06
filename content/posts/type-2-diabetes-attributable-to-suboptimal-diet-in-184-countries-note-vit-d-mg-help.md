@@ -75,7 +75,7 @@ Lowest burdens were attributable to dietary factors having only BMI-mediated eff
 
 ---
 
-#### See also: <a href="/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Red meat consumption increases risk of Diabetes - many studies">Red meat consumption increases risk of Diabetes - many studies</a>
+#### See also: [Red meat consumption increases risk of Diabetes - many studies](/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies)
 
 ---
 

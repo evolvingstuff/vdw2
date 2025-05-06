@@ -30,7 +30,7 @@ categories:
 
 #### See also VitaminDWiki
 
-* <a href="/posts/take-lots-of-vitamin-d-at-first-signs-of-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take lots of Vitamin D at first signs of COVID">Take lots of Vitamin D at first signs of COVID</a> by VitaminDWiki
+* [Take lots of Vitamin D at first signs of COVID](/posts/take-lots-of-vitamin-d-at-first-signs-of-covid) by VitaminDWiki
 
 * [Vitamin D was the most popular supplement during the COVID Pandemic – July 2023](/posts/vitamin-d-was-the-most-popular-supplement-during-the-covid-pandemic)
 

@@ -47,7 +47,7 @@ excellent reveiw of a decade of progress
 
 #### VitaminDWiki - <a href="/posts/food-sources-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Food Sources and Vitamin D">Food Sources and Vitamin D</a>
 
-* <a href="/posts/honey-contains-a-form-of-vitamin-d-which-is-rarely-measured" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Honey contains a form of Vitamin D which is rarely measured">Honey contains a form of Vitamin D which is rarely measured</a>
+* [Honey contains a form of Vitamin D which is rarely measured](/posts/honey-contains-a-form-of-vitamin-d-which-is-rarely-measured)
 
 * <a href="/posts/vitamin-d-content-of-over-400-types-of-food" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D content of over 400 types of food">Vitamin D content of over 400 types of food</a>
 

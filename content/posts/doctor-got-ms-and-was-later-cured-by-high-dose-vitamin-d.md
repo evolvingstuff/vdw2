@@ -139,7 +139,7 @@ Accept yourself, love yourself, forgive yourself, be nice to yourself and always
 
 ---
 
-#### VitaminDWiki – <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a>
+#### VitaminDWiki – [Comparing High-dose vitamin D therapies](/posts/comparing-high-dose-vitamin-d-therapies)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 

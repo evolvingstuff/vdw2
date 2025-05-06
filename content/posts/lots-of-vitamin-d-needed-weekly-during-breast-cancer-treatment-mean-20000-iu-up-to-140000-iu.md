@@ -56,7 +56,7 @@ Conclusions: Physicians should monitor 25(OH)D levels before, during, and after 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vitamin-d-not-one-size-type-form-route-for-all" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: not one size, type, form, route for all - Jan 2022">Vitamin D: not one size, type, form, route for all - Jan 2022</a>
+#### VitaminDWiki - [Vitamin D: not one size, type, form, route for all - Jan 2022](/posts/vitamin-d-not-one-size-type-form-route-for-all)
 
 ---
 

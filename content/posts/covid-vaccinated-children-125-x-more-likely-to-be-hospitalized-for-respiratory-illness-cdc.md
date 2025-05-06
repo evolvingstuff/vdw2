@@ -18,6 +18,6 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a>
+#### VitaminDWiki - [Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies)
 
 <!-- ~tc~ (alias(COVID Vaccinated Children 2X More Likely to Be Hospitalized for Respiratory Illness - CDC Jan 2024)) ~/tc~ -->

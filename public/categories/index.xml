@@ -960,5 +960,131 @@
       <guid>http://localhost:1313/categories/category/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Z</title>
+      <link>http://localhost:1313/categories/z/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/z/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ear</title>
+      <link>http://localhost:1313/categories/ear/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ear/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spinal Cord</title>
+      <link>http://localhost:1313/categories/spinal-cord/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/spinal-cord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Z-Section</title>
+      <link>http://localhost:1313/categories/z-section/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/z-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calcitriol</title>
+      <link>http://localhost:1313/categories/calcitriol/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/calcitriol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kidney Stones</title>
+      <link>http://localhost:1313/categories/kidney-stones/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/kidney-stones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HIV</title>
+      <link>http://localhost:1313/categories/hiv/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/hiv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virus-Pregnancy</title>
+      <link>http://localhost:1313/categories/virus-pregnancy/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/virus-pregnancy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Injection</title>
+      <link>http://localhost:1313/categories/injection/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/injection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africa</title>
+      <link>http://localhost:1313/categories/africa/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alternate Name</title>
+      <link>http://localhost:1313/categories/alternate-name/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/alternate-name/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Old Name</title>
+      <link>http://localhost:1313/categories/old-name/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/old-name/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Treatment by Vitamin D</title>
+      <link>http://localhost:1313/categories/treatment-by-vitamin-d/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/treatment-by-vitamin-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glyphosate</title>
+      <link>http://localhost:1313/categories/glyphosate/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/glyphosate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>World</title>
+      <link>http://localhost:1313/categories/world/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Follow-Thru</title>
+      <link>http://localhost:1313/categories/follow-thru/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/follow-thru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overviews</title>
+      <link>http://localhost:1313/categories/overviews/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/overviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Too Much D</title>
+      <link>http://localhost:1313/categories/too-much-d/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/too-much-d/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

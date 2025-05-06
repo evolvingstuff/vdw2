@@ -47,7 +47,7 @@ Refers to Dr. Anderson's and Grimes book
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) </a>
+#### VitaminDWiki - [Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc) ](/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

@@ -31,7 +31,7 @@ Less is known about the radioprotective effects of vitamin D, but the results to
 
 ---
 
-#### VitaminDWiki - <a href="/posts/melatonin-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melatonin and Vitamin D - many studies">Melatonin and Vitamin D - many studies</a>
+#### VitaminDWiki - [Melatonin and Vitamin D - many studies](/posts/melatonin-and-vitamin-d-many-studies)
 
 ---
 

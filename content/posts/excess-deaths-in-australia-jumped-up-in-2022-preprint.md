@@ -48,5 +48,5 @@ That is 15% above Australia's average mortality rate
 
 ---
 
-#### See also: <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### See also: [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 

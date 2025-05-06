@@ -1,0 +1,11 @@
+---
+title: "Vitamin D extended C.elegans life by about 30 percent"
+slug: "vitamin-d-extended-celegans-life-by-about-30-percent"
+aliases:
+  - "/Vitamin+D+extended+Celegans+life+by+about+30+percent+–+Oct+2016"
+  - "/tiki-index.php?page_id=11555"
+date: 2020-01-12
+categories:
+  - "Mortality and D"
+---
+

@@ -141,6 +141,6 @@ Finally, we hypothesize that endothelial dysfunction relevant to  **vitamin D** 
 
 ---
 
-#### See also: <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+#### See also: [Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.](/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies)
 
 <!-- ~tc~ (alias(Endothelium  (lining of blood vessels, heart) and Vitamin D - several studies)) ~/tc~ -->

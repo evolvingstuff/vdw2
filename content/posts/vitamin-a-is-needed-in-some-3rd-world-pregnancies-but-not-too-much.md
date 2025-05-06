@@ -1,0 +1,12 @@
+---
+title: "Vitamin A is needed in some 3rd world pregnancies (but not too much)"
+slug: "vitamin-a-is-needed-in-some-3rd-world-pregnancies-but-not-too-much"
+aliases:
+  - "/Vitamin+A+is+needed+in+some+3rd+world+pregnancies+but+not+too+much+–+March+2019"
+  - "/tiki-index.php?page_id=10597"
+date: 2019-03-22
+categories:
+  - "Pregnancy"
+  - "Vitamin D and Vitamin A"
+---
+

@@ -68,4 +68,4 @@ The large age dependence and large values of vDFR quantified in this study of 17
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### VitaminDWiki - [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)

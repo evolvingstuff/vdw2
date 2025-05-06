@@ -66,9 +66,9 @@ I personally had tried intermittent fasting for several years - with no long-ter
 
 .---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Autophagy aided by Vitamin D</a>
+#### VitaminDWiki – [Autophagy aided by Vitamin D](/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies)
 
- **<a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Vitamin D aids the clearing out of old cells (autophagy) – many studies</a> isthe link in the above section title** 
+ **[Vitamin D aids the clearing out of old cells (autophagy) – many studies](/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies) isthe link in the above section title** 
 
  **Vitamin D activates autophagy ...** 
 
@@ -100,7 +100,7 @@ Autophagy is a vital process for the survival, growth, differentiation, and home
 
 ---
 
-#### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### VitaminDWiki - [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 A few possible treatments look promising
 

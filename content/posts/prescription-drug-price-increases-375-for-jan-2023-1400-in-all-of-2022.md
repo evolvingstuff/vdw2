@@ -25,13 +25,13 @@ date: 2023-01-07
 
    * ROI: $44 profit for every $1 spent
 
-* <a href="/posts/insulin-prices-and-usage-are-soaring" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Insulin prices and usage are soaring">Insulin prices and usage are soaring</a>
+* [Insulin prices and usage are soaring](/posts/insulin-prices-and-usage-are-soaring)
 
-* <a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>
+* [FDA drug section gets 75% of its income from Big Pharma - Oct 2022](/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma)
 
-* <a href="/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022">The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022</a>
+* [The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022](/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments)
 
-* <a href="/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021">New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021</a>
+* [New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021](/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma)
 
 <!-- ~tc~ (alias(Prescription drug increases: 1,400 in all of 2022, 375 in just Jan 2023)) ~/tc~ -->
 

@@ -1,0 +1,13 @@
+---
+title: "Metabolic Syndrome 3.5 X more likely if both Vitamin D and Estrogen are low (senior women)"
+slug: "metabolic-syndrome-35-x-more-likely-if-both-vitamin-d-and-estrogen-are-low-senior-women"
+aliases:
+  - "/Metabolic+Syndrome+35+X+more+likely+if+both+Vitamin+D+and+Estrogen+are+low+senior+women–+June+2019"
+  - "/tiki-index.php?page_id=10921"
+date: 2019-06-25
+categories:
+  - "Seniors"
+  - "Metabolic Syndrome"
+  - "Women"
+---
+

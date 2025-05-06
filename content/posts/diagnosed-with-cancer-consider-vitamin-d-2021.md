@@ -51,7 +51,7 @@ Sleep
 | --- | --- |
 | Websites | Action |
 | www.grassrootshealth.net   | [Vitamin D for cancer – find “Call-To-Action”](https://www.grassrootshealth.net/?s=cancer+call+for+action) |
-| www.VitaminDWiki.com  | Search for cancer<br><a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a><br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
+| www.VitaminDWiki.com  | Search for cancer<br>[Cancer and Vitamin D - many studies](/posts/cancer-and-vitamin-d-many-studies)<br> [Cancer - After diagnosis](/categories/cancer---after-diagnosis)  |
 | www.canceractive.com     | Subscribe to newsletter & search website |
 | https://yestolife.org.uk/      | Start with:  I’m New Here |
 

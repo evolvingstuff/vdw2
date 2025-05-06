@@ -44,8 +44,8 @@ Conclusion Although the absolute number of observed myo/pericarditis cases remai
 
 #### See also in VitaminDWiki
 
-* <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+* [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a> 
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies) 
 
 <!-- ~tc~ (alias(Myocarditis, Pericarditis 2X more likely if get COVID vaccination  - Aug 2023)) ~/tc~ -->

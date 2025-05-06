@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Comparing High-dose vitamin D therapies</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542226">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542226">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542226"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Comparing High-dose vitamin D therapies</h1>
+        <time>February 1, 2019</time>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#comparing-high-dose-protocols">Comparing high-dose protocols</a></li>
+            <li><a href="#a-hrefpostsvitamin-d-cofactors-in-a-nutshell-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-cofactors-in-a-nutshellvitamin-d-cofactors-in-a-nutshella-has-thefollowing"><a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">Vitamin D Cofactors in a nutshell</a> has the following</a></li>
+            <li><a href="#a-hrefpostsoverview-toxicity-of-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-toxicity-of-vitamin-doverview-toxicity-of-vitamin-da-has-thefollowing"><a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> has the following</a></li>
+            <li><a href="#see-alsovitamindwiki">See also VitaminDWiki</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+<hr>
+<h4 id="comparing-high-dose-protocols">Comparing high-dose protocols</h4>
+<!-- ~tc~ start ~/tc~ -->
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td></td>
+          <td>Dr. Coimbra<br>books ((High-Dose Vitamin D Therapy – book July 2018</td>
+          <td>2018)) ((Multiple Sclerosis and (lots of) Vitamin D - book by patient on Coimbra protocol - Feb 2016</td>
+          <td>2016))</td>
+          <td>Dr. Somerville<br><a href="/posts/optimal-dose" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10434">Optimal Dose</a></td>
+          <td>((Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018</td>
+          <td>Dr. Gominak))</td>
+          <td>((Cluster and Migraine headache treatment protocol - Sept 2023</td>
+          <td>Mr. Batcheller))</td>
+          <td>((The End of Alzheimer&rsquo;s and Dementia if adjust Vitamin D, B-12, Iron, Omega-3, etc.</td>
+          <td>Dr. Bredsen))<br>End of Alz.</td>
+      </tr>
+      <tr>
+          <td>Health problem</td>
+          <td>Multiple Sclerosis<br>autoimmune, PD</td>
+          <td>sleep, flu, pain, <br>obesity, etc.</td>
+          <td>Sleep</td>
+          <td>Cluster, Migraine <br>Headaches</td>
+          <td>Alzheimer&rsquo;s <br>Park. being added</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Number of people<br> (2019)</td>
+          <td>30,000 <br><a href="https://www.betterplace.org/en/projects/74058-coimba-protocol-vitamin-d-high-dose-therapy-stops-autoimmune-diseases#:~:text=since%202002%20this%20therapy%20has%20already%20helped%20more%20than%2030%2C000%20people%20worldwide%20to%20stop%20their%20disease%20and%20gain%20back%20quality%20of%20life">by 2022</a></td>
+          <td>5,000</td>
+          <td>5,000</td>
+          <td>8,000 <br>(2023)</td>
+          <td>&gt;1,000 ?</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Vitamin D target</td>
+          <td>PTH is target <br>typ: 150ng of D</td>
+          <td>100-140+ ng</td>
+          <td>60-80 ng</td>
+          <td>PTH is target<br>typ: 80 ng of D</td>
+          <td>40-60 ng</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Vitamin D daily dose<br>(K = 1,000 IU)</td>
+          <td>20K - 200K<br> 1,000 IU/kg</td>
+          <td>30K</td>
+          <td>2K + monthly<br> test increasing <br>dose until goal</td>
+          <td>4K - 40K<br>110 IU/kg</td>
+          <td>?</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Overview: Omega-3 many benefits include helping vitamin D</td>
+          <td>Omega-3))   <strong><span style="color:#F00;">✻</span></strong></td>
+          <td>O-3</td>
+          <td>O-3</td>
+          <td>- - -</td>
+          <td>O-3</td>
+          <td>O-3</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Overview Magnesium and vitamin D</td>
+          <td>Magnesium))  <strong><span style="color:#F00;">✻</span></strong></td>
+          <td>Mg</td>
+          <td>Mg</td>
+          <td>- - -</td>
+          <td>Mg (400 mg)</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Overview Vitamin K and Vitamin D</td>
+          <td>Vitamin K2))</td>
+          <td>K2 (no longer?)</td>
+          <td>K2</td>
+          <td>- - -</td>
+          <td>K2</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Vitamin B&hellip;</td>
+          <td>B2, B9, ((Vitamin B12</td>
+          <td>B12))</td>
+          <td>B3</td>
+          <td>B50-B100 <br> 3 months</td>
+          <td>B50</td>
+          <td>B12</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Zinc and Vitamin D</td>
+          <td>Zinc))   <strong><span style="color:#F00;">✻</span></strong></td>
+          <td>Zn</td>
+          <td></td>
+          <td>- - -</td>
+          <td>Zn</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Vitamin D and Boron</td>
+          <td>Boron))  *** ?**</td>
+          <td>B</td>
+          <td></td>
+          <td>- - -</td>
+          <td>B</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Calcium hazards and bioavailability</td>
+          <td>Calcium))<br>Minimize rock-based Ca</td>
+          <td>Decrease Ca</td>
+          <td></td>
+          <td>- - -</td>
+          <td>Ca</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>((Vitamin D and Vitamin A</td>
+          <td>Vitamin A))<br> avoid extremes</td>
+          <td>avoid A</td>
+          <td>avoid A</td>
+          <td>- - -</td>
+          <td>A</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Other</td>
+          <td>Choline<br> Selenium<br>Co-Q 10</td>
+          <td></td>
+          <td>- - -</td>
+          <td>Co-Q 10</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Loading dose<br>Days instead of months</td>
+          <td>- - -</td>
+          <td>- - -</td>
+          <td>- - -</td>
+          <td>Loading<br>&ldquo;Cluster Balm&rdquo;</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<!-- ~tc~ end ~/tc~ -->
+<p><strong>Most highly successful uses of high-dose Vitamin D have a lot in common</strong></p>
+<p>Evolved over a period of 4 - 16 years</p>
+<p>60+ ng of vitamin D is needed - see also <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough-when-increasing-vitamin--s-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough))
+When increasing Vitamin D, it is important to also increase ((Vitamin D Cofactors in a nutshell">cofactors</a>: <a href="/posts/overview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>, <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Vitamin K</a> and some B vitamins</p>
+<p>The dose size typically varies both with the <a href="/posts/obese-need-2x-to-3x-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X to 3X more vitamin D - Nov 2014">weight</a> of the adult and individual need</p>
+<p>None have generated any clinical trials. Their goal is success, not publication</p>
+<p>Also, trials generally require same dose for everyone. with no changing of the dose during  treatment</p>
+<p>Use a pill containing many B Vitamins B50 (or B100)</p>
+<p>    Thiamin, Riboflavin, Niacin, Vitamin B-6, Folic Acid, Vitamin B-12, Biotin, Pantothenic Acid,</p>
+<p>        Which apparently is B1, B2, B3, B5, B6, B7, B9, and B12. - at least 50mg of each</p>
+<p><strong>As of 2019, none appear to (but probably should)</strong></p>
+<ul>
+<li>
+<p>Employ ways to <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">increase the response to vitamin D dose</a></p>
+</li>
+<li>
+<p>Use one of the many <a href="/posts/overview-gut-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Gut and vitamin D">gut-friendly forms</a> of Vitamin D when needed</p>
+</li>
+<li>
+<p><a href="/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One pill every two weeks gives you all the vitamin D most adults need">Prescribe weekly or biweekly doses instead of daily</a> which appears to provide higher response and more benefit</p>
+</li>
+<li>
+<p>Try to increase Vitamin D <a href="/categories/vitamin-d-receptor">in the tissue</a>, rather than just in the blood</p>
+<ul>
+<li>
+<p>Using one of more of: Resveratrol, Quercetin, Progesterone, high-intensity exercise and cofactors: Omega-3, Magnesium, Zinc</p>
+</li>
+<li>
+<p>The founder of VitaminDWiki uses 10 of them</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="a-hrefpostsvitamin-d-cofactors-in-a-nutshell-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-vitamin-d-cofactors-in-a-nutshellvitamin-d-cofactors-in-a-nutshella-has-thefollowing"><a href="/posts/vitamin-d-cofactors-in-a-nutshell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cofactors in a nutshell">Vitamin D Cofactors in a nutshell</a> has the following</h4>
+<p><img src="/attachments/d3.mock.jpg" alt="image" width="500"> </p>
+<h4 id="a-hrefpostsoverview-toxicity-of-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-overview-toxicity-of-vitamin-doverview-toxicity-of-vitamin-da-has-thefollowing"><a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> has the following</h4>
+<img src="/attachments/d3.mock.jpg" alt="image" width="400">
+<hr>
+<h4 id="see-alsovitamindwiki">See also VitaminDWiki</h4>
+<ul>
+<li>
+<p><a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a></p>
+</li>
+<li>
+<p><a href="/posts/personalized-vitamin-d-treatment-of-multiple-sclerosis-michael-cawley">Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley</a></p>
+<ul>
+<li>Nutritionist who cured his own and others MS with a modified Coimbra Protocol</li>
+</ul>
+</li>
+<li>
+<p><a href="/posts/vitamin-d-resistance-hypothesis-confirmed-by-coimbra-high-dose-vitamin-d-protocol">Vitamin D Resistance hypothesis confirmed by Coimbra high-dose vitamin D protocol – April 2021</a></p>
+</li>
+<li>
+<p><a href="/posts/poor-response-to-vitamin-d-supplementation-if-poor-level-of-b-vitamins-rats-in-this-case">Poor response to vitamin D supplementation if poor level of B Vitamins (rats in this case) March 2021</a></p>
+</li>
+<li>
+<p><a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer&rsquo;s-Cognition and Vitamin D</a> has a lot of data to support the following</p>
+<ul>
+<li><strong>PREDICTION:</strong>  By 2024 high dose Vitamin D, Omega-3, and Magneisum will be found to reverse Alzheimer&rsquo;s in humans</li>
+</ul>
+</li>
+</ul>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542226"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542226',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542226'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542226"></script>
+    <script src="/js/search-results-panel.js?v=1746542226"></script>
+</body>
+</html>

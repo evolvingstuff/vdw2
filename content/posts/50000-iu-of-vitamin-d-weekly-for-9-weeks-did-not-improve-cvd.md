@@ -1,0 +1,13 @@
+---
+title: "50,000 IU of Vitamin D weekly for 9 weeks did not improve CVD"
+slug: "50000-iu-of-vitamin-d-weekly-for-9-weeks-did-not-improve-cvd"
+aliases:
+  - "/50000+IU+of+Vitamin+D+weekly+for+9+weeks+did+not+improve+CVD+–+Aug+2018"
+  - "/tiki-index.php?page_id=9984"
+date: 2018-08-28
+categories:
+  - "Cardiovascular"
+  - "Intervention"
+  - "Intervention - non daily"
+---
+

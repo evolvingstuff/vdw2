@@ -22,7 +22,7 @@ categories:
 
 ---
 
-#### <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 ---
 
@@ -32,6 +32,6 @@ categories:
 
 * [Excess Deaths in Australia jumped up in 2022– preprint Feb 2023](/posts/excess-deaths-in-australia-jumped-up-in-2022-preprint)
 
-* <a href="/posts/australias-covid-response-resulted-in-31-x-more-life-years-lost-than-were-saved" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Australia’s COVID Response resulted in 31 X more life years lost than were saved - Sept 2022">Australia’s COVID Response resulted in 31 X more life years lost than were saved - Sept 2022</a>
+* [Australia’s COVID Response resulted in 31 X more life years lost than were saved - Sept 2022](/posts/australias-covid-response-resulted-in-31-x-more-life-years-lost-than-were-saved)
 
 * [Vitamin D in Australia and New Zealand](/categories/vitamin-d-in-australia-and-new-zealand)

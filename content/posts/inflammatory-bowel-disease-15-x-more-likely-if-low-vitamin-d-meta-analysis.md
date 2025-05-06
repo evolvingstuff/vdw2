@@ -1,0 +1,12 @@
+---
+title: "Inflammatory Bowel Disease 1.5 X more likely if low vitamin D – meta-analysis"
+slug: "inflammatory-bowel-disease-15-x-more-likely-if-low-vitamin-d-meta-analysis"
+aliases:
+  - "/Inflammatory+Bowel+Disease+15+X+more+likely+if+low+vitamin+D+–+meta-analysis+Dec+2019"
+  - "/tiki-index.php?page_id=11396"
+date: 2019-11-26
+categories:
+  - "Meta-analysis of Vitamin D"
+  - "Gut"
+---
+

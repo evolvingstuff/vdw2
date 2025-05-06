@@ -17,7 +17,7 @@ Obese (adults, youths. children) need 3X more Vitamin D
  [Non-daily is better than daily](/categories/better-than-daily),  
 Vitamin D turbo-charges many weight-loss regimes (fewer calories, more exercise, and perhaps fasting)  
 Takes ~3 months for Vitamin D levels to be beneficial if not start with a <a href="/posts/loading-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading Dose of Vitamin D">loading dose</a>  
-<a href="/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium in Obesity, Metabolic Syndrome, and Type 2 Diabetes - Jan 2021">Magnesium</a> and <a href="/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 may reduce weight gain and maintain weight loss – Aug 2018">Omega-3</a> help a lot** 
+[Magnesium](/posts/magnesium-in-obesity-metabolic-syndrome-and-type-2-diabetes) and [Omega-3](/posts/omega-3-may-reduce-weight-gain-and-maintain-weight-loss) help a lot** 
 
 {{< toc >}} 
 

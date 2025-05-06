@@ -175,13 +175,13 @@ With a deactivated Receptor you can have a good level of vitamin D in you blood,
 
 #### VitaminDWiki - [Vitamin D Receptor](/categories/vitamin-d-receptor) can be re-activated in 14 ways
 
- **<a href="/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, &nbsp;<a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,&nbsp; <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>, &nbsp; <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>, &nbsp; [non-daily Vit D](/categories/better-than-daily), &nbsp;<a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin</a>, intense exercise, <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate</a> &nbsp; Ginger, &nbsp; Essential oils, etc&nbsp; Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators** 
+ **<a href="/posts/resveratrol-hsoverview-omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol)), ~hs~((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, &nbsp;<a href="/posts/magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D">Magnesium</a>,&nbsp; <a href="/posts/zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc and Vitamin D">Zinc</a>, &nbsp; <a href="/posts/quercetin-flavonoid-helps-activate-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quercetin (flavonoid) helps activate the Vitamin D receptor – March 2016">Quercetin</a>, &nbsp; [non-daily Vit D](/categories/better-than-daily), &nbsp;[Curcumin](/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor), intense exercise, [Butyrate](/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement) &nbsp; Ginger, &nbsp; Essential oils, etc&nbsp; Note: The founder of VitaminDWiki uses 10 of the 14 known VDR activators** 
 
 ---
 
 #### Related items in VitaminDWiki
 
-* <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+* [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
    * which contains: Long COVID associated with Low Vitamin D – Oct 2023
 
@@ -189,15 +189,15 @@ With a deactivated Receptor you can have a good level of vitamin D in you blood,
 
 * [COVID, Long COVID, and Vitamin D – May 2023](/posts/covid-long-covid-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-might-also-help-the-long-covid-older-adult" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might also help the Long-COVID older adult – Jan 2023">Vitamin D might also help the Long-COVID older adult – Jan 2023</a>
+* [Vitamin D might also help the Long-COVID older adult – Jan 2023](/posts/vitamin-d-might-also-help-the-long-covid-older-adult)
 
-* <a href="/posts/long-covid-short-magnesium-chambers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long Covid, Short Magnesium - Chambers April 2022">Long Covid, Short Magnesium - Chambers April 2022</a>
+* [Long Covid, Short Magnesium - Chambers April 2022](/posts/long-covid-short-magnesium-chambers)
 
 * [Better than Daily](/categories/better-than-daily) category
 
-* <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+* [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
-* <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>
+* [Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies)
 
 <!-- ~tc~ (alias(The ONLY Solution to Long COVID (Vitamin D) - video Sept 2023)) ~/tc~ -->
 

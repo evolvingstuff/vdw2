@@ -38,7 +38,7 @@ Thus, lack of prenatal vitamin D, particularly at the time of hematopoietic stem
 
 #### See related in VitaminDWiki
 
-* <a href="/posts/children-41x-more-likely-to-be-vitamin-d-deficient-if-both-parents-were-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children 41X more likely to be vitamin D deficient if both parents were deficient – Dec 2018">Children 41X more likely to be vitamin D deficient if both parents were deficient – Dec 2018</a>
+* [Children 41X more likely to be vitamin D deficient if both parents were deficient – Dec 2018](/posts/children-41x-more-likely-to-be-vitamin-d-deficient-if-both-parents-were-deficient)
 
 * <a href="/posts/both-parents-smoke-childs-vitamin-d-level-was-30-percent-lower-and-worse-asthma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Both parents smoke – child’s vitamin D level was 30 percent lower and worse asthma – May 2018">Both parents smoke – child’s vitamin D level was 30 percent lower and worse asthma – May 2018</a>
 

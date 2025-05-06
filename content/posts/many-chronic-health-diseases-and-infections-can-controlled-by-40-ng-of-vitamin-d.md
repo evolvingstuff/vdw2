@@ -407,4 +407,4 @@ Apart from developmental disabilities, the prevalence of chronic diseases increa
 
 ---
 
-#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)

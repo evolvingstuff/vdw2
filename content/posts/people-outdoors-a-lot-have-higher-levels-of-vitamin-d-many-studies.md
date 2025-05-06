@@ -15,7 +15,7 @@ date: 2024-02-28
 
 * <a href="/posts/does-less-sun-mean-more-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease">Does Less Sun mean More Disease</a> 5 minute video
 
-* <a href="/posts/does-less-sun-mean-more-myopia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does less sun mean more Myopia - June 2022">Does less sun mean more Myopia - June 2022</a>
+* [Does less sun mean more Myopia - June 2022](/posts/does-less-sun-mean-more-myopia)
 
 * <a href="/posts/embrace-the-sun-benefits-of-the-sun-throughout-the-day-and-year-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Embrace the Sun – benefits of the sun throughout the day and year – book June 2018">Embrace the Sun – benefits of the sun throughout the day and year – book June 2018</a>
 
@@ -25,7 +25,7 @@ date: 2024-02-28
 
 * <a href="/posts/sun-is-better-than-uv-which-is-better-than-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sun is better than UV, which is better than Vitamin D">Sun is better than UV, which is better than Vitamin D</a>
 
-* <a href="/posts/sunlight-on-skin-has-decreased-9x-while-melanoma-has-increased-30x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight on skin has decreased 9X while melanoma has increased 30X – Feb 2020">Sunlight on skin has decreased 9X while melanoma has increased 30X – Feb 2020</a>
+* [Sunlight on skin has decreased 9X while melanoma has increased 30X – Feb 2020](/posts/sunlight-on-skin-has-decreased-9x-while-melanoma-has-increased-30x)
 
 ---
 

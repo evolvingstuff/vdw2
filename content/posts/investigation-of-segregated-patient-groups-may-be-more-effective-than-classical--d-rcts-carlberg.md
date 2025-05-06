@@ -275,7 +275,7 @@ A low responsiveness to vitamin D3 supplementation may serve as a trait that ide
 
 ---
 
-#### VitaminDWiki - <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D: 173+ studies</a>
+#### VitaminDWiki - [Response to Vitamin D: 173+ studies](/posts/response-to-vitamin-d-many-studies)
 
 ---
 

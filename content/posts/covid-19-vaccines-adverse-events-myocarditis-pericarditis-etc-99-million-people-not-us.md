@@ -63,5 +63,5 @@ URL = [https://www.globalvaccinedatanetwork.org/](https://www.globalvaccinedatan
 
 ---
 
-#### VitaminDWiki: 273+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### VitaminDWiki: 273+ [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 

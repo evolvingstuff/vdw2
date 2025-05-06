@@ -19,7 +19,7 @@ categories:
 
 "...noting that the majority of the population is just fine at 16 ng/ml."
 
-"...Levels have actually risen since <sup>[2010]</sup>"  Actually, levels <a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing">have fallen</a>
+"...Levels have actually risen since <sup>[2010]</sup>"  Actually, levels [have fallen](/posts/4-reasons-why-vitamin-d-levels-are-crashing)
 
 Describes the failure of 4 trials that used too little vitamin D
 

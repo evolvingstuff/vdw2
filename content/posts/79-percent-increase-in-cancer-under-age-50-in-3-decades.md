@@ -39,7 +39,7 @@ Conclusion Early-onset cancer morbidity continues to increase worldwide with not
 
 * [50% increase in Cancer deaths (age 15-44) since before COVID - Nov 2023](/posts/50-percent-increase-in-cancer-deaths-age-15-44-since-before-covid)
 
-* <a href="/posts/2x-increase-of-14-cancers-in-non-seniors-in-20-years-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022">2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022</a>
+* [2X increase of 14 cancers in non-seniors in 20 years (low vitamin D) – Sept 2022](/posts/2x-increase-of-14-cancers-in-non-seniors-in-20-years-low-vitamin-d)
 
    * breast, colorectum, Endometrium, oesophagus, extrahepatic bile duct, gallbladder, head and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
 

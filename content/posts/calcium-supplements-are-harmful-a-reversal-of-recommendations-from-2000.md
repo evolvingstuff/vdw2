@@ -25,9 +25,9 @@ categories:
 
 #### 6 ways which might decrease Calcium Hazards
 
-1. Take more Magnesium - Increase the <a href="/posts/calcium-to-magnesium-ratio-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies">Magnesium/Calcium Ratio</a>
+1. Take more Magnesium - Increase the [Magnesium/Calcium Ratio](/posts/calcium-to-magnesium-ratio-many-studies)
 
-1. Use <a href="/posts/plant-based-calcium-probably-better-than-rock-based" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plant-based Calcium probably better than rock-based">Plant-based Calcium</a>
+1. Use [Plant-based Calcium](/posts/plant-based-calcium-probably-better-than-rock-based)
 
 1. Increase [Vitamin K2 - to keep Calcium out of the soft tissues](/posts/calcium-and-vitamin-k2-many-studies)
 

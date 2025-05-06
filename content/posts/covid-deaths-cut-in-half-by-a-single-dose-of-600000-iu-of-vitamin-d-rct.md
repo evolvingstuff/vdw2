@@ -63,7 +63,7 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 ---
 
-#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
  **Very cost-effective to give Vitamin D to everyone who has COVID infection than to wait till they enter the ICU** 
 
@@ -77,4 +77,4 @@ Conclusions: single high-dose oral cholecalciferol supplementation on ICU admiss
 
 ---
 
-#### VitaminDWiki - <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a>
+#### VitaminDWiki - [50,000 IU Vitamin D weekly is often recommended](/posts/50000-iu-vitamin-d-weekly-is-often-recommended)

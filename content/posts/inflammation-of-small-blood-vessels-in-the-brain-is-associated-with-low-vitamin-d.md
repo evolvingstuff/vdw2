@@ -60,4 +60,4 @@ Symptoms of cerebral small vessel disease can vary depending on the type and sev
 
 ---
 
-#### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>  94 as of March 2023
+#### VitaminDWiki - [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)  94 as of March 2023

@@ -63,4 +63,4 @@ Audience and Patient Population: The audience for this guideline includes all cl
 
 * <a href="/posts/bisphosphonates-45-x-more-likely-to-work-when-vitamin-d-level-above-33-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bisphosphonates 4.5 X more likely to work when vitamin D level above 33 ng – Sept 2011">Bisphosphonates 4.5 X more likely to work when vitamin D level above 33 ng – Sept 2011</a>
 
-* <a href="/posts/osteoporosis-treatment-with-vitamin-d-far-healthier-and-10x-fewer-afib-events-vs-bisphosphonates" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis treatment with Vitamin D – far healthier and 10X fewer afib events (vs bisphosphonates) – Oct 2018">Osteoporosis treatment with Vitamin D – far healthier and 10X fewer afib events (vs bisphosphonates) – Oct 2018</a>
+* [Osteoporosis treatment with Vitamin D – far healthier and 10X fewer afib events (vs bisphosphonates) – Oct 2018](/posts/osteoporosis-treatment-with-vitamin-d-far-healthier-and-10x-fewer-afib-events-vs-bisphosphonates)

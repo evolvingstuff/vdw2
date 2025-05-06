@@ -53,8 +53,8 @@ Obesity is defined as an excess amount of body fat and represents a significant 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/high-dose-vitamin-d-puts-surplus-calories-into-muscles-instead-of-fat-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High-Dose Vitamin D puts surplus calories into muscles instead of fat (mice) – May 2022">High-Dose Vitamin D puts surplus calories into muscles instead of fat (mice) – May 2022</a>
+#### VitaminDWiki - [High-Dose Vitamin D puts surplus calories into muscles instead of fat (mice) – May 2022](/posts/high-dose-vitamin-d-puts-surplus-calories-into-muscles-instead-of-fat-mice)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/unhealthy-obesity-5-percent-more-likely-with-each-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Unhealthy obesity 5 percent more likely with each ng less Vitamin D – Nov 2020">Unhealthy obesity 5 percent more likely with each ng less Vitamin D – Nov 2020</a>
+#### VitaminDWiki - [Unhealthy obesity 5 percent more likely with each ng less Vitamin D – Nov 2020](/posts/unhealthy-obesity-5-percent-more-likely-with-each-ng-less-vitamin-d)

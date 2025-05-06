@@ -41,12 +41,12 @@ categories:
 
 #### <span style="color:#F00;">5</span>  related items in VitaminDWiki
 
-* <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+* [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
 * [Vaccinated children have more health problems](/posts/vaccinated-children-have-more-health-problems)
 
 * [800x Higher Incidence of Myocardial Injury After Booster Vaccination - July 2023](/posts/800x-higher-incidence-of-myocardial-injury-after-booster-vaccination)
 
-* <a href="/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023">Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023</a>
+* [Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023](/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023)
 
 * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)

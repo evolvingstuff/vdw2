@@ -557,7 +557,7 @@ Dr. Joseph Mercola:  All right, you too.
 
 ### Previous Mercola Interview Oct 2021
 
- **<a href="/posts/end-of-alzheimers-video-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: End of Alzheimer's video and transcript - Oct 2021">End of Alzheimer's video and transcript - Oct 2021</a>** 
+ **[End of Alzheimer's video and transcript - Oct 2021](/posts/end-of-alzheimers-video-and-transcript)** 
 
 ---
 
@@ -601,7 +601,7 @@ Dr. Joseph Mercola:  All right, you too.
 
 ---
 
-#### <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">Comparing High-dose vitamin D therapies</a>
+#### [Comparing High-dose vitamin D therapies](/posts/comparing-high-dose-vitamin-d-therapies)
 
  **a lot of commonality in the protocols for Multiple Sclerosis, Sleep, Cluster Headache, and Alzheimer's** 
 

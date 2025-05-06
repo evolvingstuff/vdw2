@@ -17,17 +17,17 @@ date: 2023-11-11
 
 * <a href="/posts/less-fatigue-if-more-vitamin-d-90-percent-of-palliative-cancer-were-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less fatigue if more vitamin D (90 percent of palliative cancer were deficient) – Aug 2015">Less fatigue if more vitamin D (90 percent of palliative cancer were deficient) – Aug 2015</a>
 
-* <a href="/posts/palliative-care-is-helped-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Palliative care is helped by Vitamin D - many studies">Palliative care is helped by Vitamin D - many studies</a>
+* [Palliative care is helped by Vitamin D - many studies](/posts/palliative-care-is-helped-by-vitamin-d-many-studies)
 
-* <a href="/posts/fatigued-seniors-have-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fatigued seniors have lower levels of Vitamin D – Oct 2019">Fatigued seniors have lower levels of Vitamin D – Oct 2019</a>
+* [Fatigued seniors have lower levels of Vitamin D – Oct 2019](/posts/fatigued-seniors-have-lower-levels-of-vitamin-d)
 
 * <a href="/posts/chemotherapy-drugs-often-reduce-vitamin-d-levels-restoring-levels-helps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy drugs often reduce Vitamin D levels, restoring levels helps– Aug 2018">Chemotherapy drugs often reduce Vitamin D levels, restoring levels helps– Aug 2018</a>
 
-* <a href="/posts/even-after-a-cancer-diagnosis-vitamin-d-improves-survival-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Even after a Cancer diagnosis Vitamin D improves survival – meta-analysis Aug 2022">Even after a Cancer diagnosis Vitamin D improves survival – meta-analysis Aug 2022</a>
+* [Even after a Cancer diagnosis Vitamin D improves survival – meta-analysis Aug 2022](/posts/even-after-a-cancer-diagnosis-vitamin-d-improves-survival-meta-analysis)
 
 * <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer probably reduced by vitamin D - many studies</a>
 
-* <a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a>
+* [Cancer and Vitamin D - many studies](/posts/cancer-and-vitamin-d-many-studies)
 
  **Other** 
 

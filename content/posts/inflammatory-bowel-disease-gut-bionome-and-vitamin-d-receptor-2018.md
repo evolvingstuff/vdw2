@@ -1,0 +1,13 @@
+---
+title: "Inflammatory bowel disease, gut bionome and Vitamin D Receptor – 2018"
+slug: "inflammatory-bowel-disease-gut-bionome-and-vitamin-d-receptor-2018"
+aliases:
+  - "/Inflammatory+bowel+disease+gut+bionome+and+Vitamin+D+Receptor+–+2018"
+  - "/tiki-index.php?page_id=10862"
+date: 2019-06-13
+categories:
+  - "Gut"
+  - "Vitamin D Receptor"
+  - "Microbiome"
+---
+

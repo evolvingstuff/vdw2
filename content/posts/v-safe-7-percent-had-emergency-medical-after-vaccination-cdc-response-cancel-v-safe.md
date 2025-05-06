@@ -20,7 +20,7 @@ categories:
 
 * [Vaccinated children have more health problems ](/posts/vaccinated-children-have-more-health-problems)
 
-* <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>  includes a chart of deaths per day after vaccination
+* [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)  includes a chart of deaths per day after vaccination
 
 * [Myocarditis, Pericarditis 2X more likely if had COVID vaccination in previous 30 days - meta-analysis June 2023](/posts/myocarditis-pericarditis-2x-more-likely-if-had-covid-vaccination-in-previous-30-days-meta-analysis)
 
@@ -36,6 +36,6 @@ categories:
 
 * [8X increased risk of stroke if COVID vaccinated and catch COVID within 3 weeks – June 2023](/posts/8x-increased-risk-of-stroke-if-covid-vaccinated-and-catch-covid-within-3-weeks)
 
-* <a href="/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023">Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023</a>
+* [Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023](/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023)
 
 * [13 B dollar income to Pfizer and Moderna, 147 B dollar cost of vaccine problems (just US) - March 2023](/posts/13-b-dollar-income-to-pfizer-and-moderna-147-b-dollar-cost-of-vaccine-problems-just-us)

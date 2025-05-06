@@ -24,4 +24,4 @@ However,herein, the lethality was below 1.1%, indicating a beneficial effect of 
 
 ---
 
-#### VitaminDWiki – <a href="/posts/ivermectin-and-covid-19-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ivermectin and COVID-19 - many studies">Ivermectin and COVID-19 - many studies</a>
+#### VitaminDWiki – [Ivermectin and COVID-19 - many studies](/posts/ivermectin-and-covid-19-many-studies)

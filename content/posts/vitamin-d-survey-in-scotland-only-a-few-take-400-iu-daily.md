@@ -47,4 +47,4 @@ Conclusion: The current study highlights the need to improve both knowledge of v
 
 * <a href="/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can get 50,000 IU Vitamin D anywhere on the globe">Can get 50,000 IU Vitamin D anywhere on the globe</a>
 
-* <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a>
+* [50,000 IU Vitamin D weekly is often recommended](/posts/50000-iu-vitamin-d-weekly-is-often-recommended)

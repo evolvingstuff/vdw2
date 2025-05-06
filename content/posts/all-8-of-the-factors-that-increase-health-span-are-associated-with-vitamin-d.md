@@ -39,7 +39,7 @@ based on Association of Cardiovascular Health With Life Expectancy Free of Cardi
 
  **Healthy diet** 
 
-&nbsp; &nbsp; <a href="/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far fewer health problems from western diet if add Vitamin D (in rats in this study) – May 2018">Vitamin D partially compensates for a poor diet</a>
+&nbsp; &nbsp; [Vitamin D partially compensates for a poor diet](/posts/far-fewer-health-problems-from-western-diet-if-add-vitamin-d-in-rats-in-this-study)
 
  **Healthy sleep (average of 7-9 hours)** 
 
@@ -61,18 +61,18 @@ based on Association of Cardiovascular Health With Life Expectancy Free of Cardi
 
 #### 8 related items in VitaminDWiki
 
-* <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+* [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
-* <a href="/posts/several-smoking-problems-treated-by-vitamin-d-bi-weekly-50000-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Several smoking problems treated by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021">Several smoking problems treated by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021</a>
+* [Several smoking problems treated by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021](/posts/several-smoking-problems-treated-by-vitamin-d-bi-weekly-50000-iu-rct)
 
-* <a href="/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Live 7 years longer free of major disease if eat well, not smoke, not obese, moderate drink and exercise (100,000 people) – Jan 2020">Live 7 years longer free of major disease if eat well, not smoke, not obese, moderate drink and exercise (100,000 people) – Jan 2020</a>
+* [Live 7 years longer free of major disease if eat well, not smoke, not obese, moderate drink and exercise (100,000 people) – Jan 2020](/posts/live-7-years-longer-free-of-major-disease-if-eat-well-not-smoke-not-obese-modera-e-100000-people)
 
 * <a href="/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALL of the top 10 health problems of women are associated with low vitamin D">ALL of the top 10 health problems of women are associated with low vitamin D</a>
 
-* <a href="/posts/low-vitamin-d-is-worse-for-your-health-than-smoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Vitamin D is worse for your health than smoking">Low Vitamin D is worse for your health than smoking</a>
+* [Low Vitamin D is worse for your health than smoking](/posts/low-vitamin-d-is-worse-for-your-health-than-smoking)
 
 * <a href="/posts/avoiding-the-sun-reduces-lifespan-by-2-years-smoking-reduces-lifespan-by-10-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Avoiding the sun reduces lifespan by 2 years (smoking reduces lifespan by 10 years) – March 2016">Avoiding the sun reduces lifespan by 2 years (smoking reduces lifespan by 10 years) – March 2016</a>
 
-* <a href="/posts/healthspan-is-more-important-than-lifespan-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthspan is more important than Lifespan – JAMA Oct 2018">Healthspan is more important than Lifespan – JAMA Oct 2018</a>
+* [Healthspan is more important than Lifespan – JAMA Oct 2018](/posts/healthspan-is-more-important-than-lifespan-jama)
 
 * <a href="/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 13 reasons why many seniors need more vitamin D (both dose and level) - July 2023">13 reasons why many seniors need more vitamin D (both dose and level) - July 2023</a>

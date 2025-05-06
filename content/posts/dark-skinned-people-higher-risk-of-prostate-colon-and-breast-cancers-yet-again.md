@@ -43,9 +43,9 @@ The health disparity for dark skinned people is almost the same as whites having
 
 #### See also VitaminDWiki
 
-* <a href="/posts/breast-prostate-and-colon-cancers-are-still-strongly-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020">Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020</a>
+* [Breast, Prostate and Colon Cancers are still strongly associated with low Vitamin D – Grant Jan 2020](/posts/breast-prostate-and-colon-cancers-are-still-strongly-associated-with-low-vitamin-d-grant)
 
-* <a href="/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 more frequent and deadly for those with dark skins (high risk of low vitamin D)">COVID-19 and Dark Skins</a>
+* [COVID-19 and Dark Skins](/posts/covid-19-more-frequent-and-deadly-for-those-with-dark-skins-high-risk-of-low-vitamin-d)
 
 <!-- ~tc~ (alias(Cancers and race - April 2024)) ~/tc~ -->
 

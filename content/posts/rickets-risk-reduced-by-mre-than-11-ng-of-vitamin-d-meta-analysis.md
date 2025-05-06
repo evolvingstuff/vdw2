@@ -32,11 +32,11 @@ Conclusion: This systematic review and IPD meta-analysis suggests that from a pu
 
 ---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021">30 ng of Vitamin D needed to stop rickets</a>
+#### VitaminDWiki – [30 ng of Vitamin D needed to stop rickets](/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct)
 
 ---
 
-#### VitaminDWiki – <a href="/posts/nutritional-rickets-associated-with-vitamin-d-levels-less-than-19-or-perhaps-26-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nutritional Rickets associated with vitamin D levels less than 19 or perhaps 26 ng – April 2021">Nutritional Rickets associated with vitamin D levels less than 19 or perhaps 26 ng – April 2021</a>
+#### VitaminDWiki – [Nutritional Rickets associated with vitamin D levels less than 19 or perhaps 26 ng – April 2021](/posts/nutritional-rickets-associated-with-vitamin-d-levels-less-than-19-or-perhaps-26-ng)
 
 ---
 
@@ -48,6 +48,6 @@ Conclusion: This systematic review and IPD meta-analysis suggests that from a pu
 
 ---
 
-#### VitaminDWiki – <a href="/posts/rickets-almost-eradicated-in-counties-giving-free-vitamin-d-perhaps-the-world-can-learn" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets almost eradicated in counties giving free Vitamin D, perhaps the world can learn – Dec 2019">Rickets almost eradicated in counties giving free Vitamin D, perhaps the world can learn – Dec 2019</a>
+#### VitaminDWiki – [Rickets almost eradicated in counties giving free Vitamin D, perhaps the world can learn – Dec 2019](/posts/rickets-almost-eradicated-in-counties-giving-free-vitamin-d-perhaps-the-world-can-learn)
 
 <!-- ~tc~ (alias(Rickets risk reduced by  XX ng of Vitamin D - Meta-list Jan 2024)) ~/tc~ -->

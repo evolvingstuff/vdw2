@@ -29,7 +29,7 @@ Conclusions: Among vitamin D deficient patients with schizophrenia, vitamin D su
 
 ---
 
-#### VitaminDWiki - <a href="/posts/every-schizophrenia-measure-was-improved-when-vitamin-d-levels-were-normalized" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Every schizophrenia measure was improved when vitamin D levels were normalized – June 2021">Every schizophrenia measure was improved when vitamin D levels were normalized – June 2021</a>
+#### VitaminDWiki - [Every schizophrenia measure was improved when vitamin D levels were normalized – June 2021](/posts/every-schizophrenia-measure-was-improved-when-vitamin-d-levels-were-normalized)
 
  **The goal: everyone > 30 ng** 
 

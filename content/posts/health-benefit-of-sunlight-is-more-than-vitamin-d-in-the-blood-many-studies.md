@@ -1,0 +1,13 @@
+---
+title: "Health benefit of Sunlight is more than Vitamin D in the blood - many studies"
+slug: "health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies"
+aliases:
+  - "/Health+benefit+of+Sunlight+is+more+than+Vitamin+D+in+the+blood+-+many+studies"
+  - "/tiki-index.php?page_id=11904"
+date: 2020-08-13
+categories:
+  - "Noontime sun and D"
+  - "UV and Vitamin D"
+  - "Top news"
+---
+

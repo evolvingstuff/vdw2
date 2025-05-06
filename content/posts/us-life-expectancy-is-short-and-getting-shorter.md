@@ -38,17 +38,17 @@ In many other countries a new drug must be more cost-effective than the existing
 
 #### See also VitaminDWiki
 
-* <a href="/posts/healthspan-is-more-important-than-lifespan-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthspan is more important than Lifespan – JAMA Oct 2018">Healthspan is more important than Lifespan – JAMA Oct 2018</a>
+* [Healthspan is more important than Lifespan – JAMA Oct 2018](/posts/healthspan-is-more-important-than-lifespan-jama)
 
 * <a href="/posts/sunbathing-vitamin-d-increases-lifespan-in-sweden-by-about-1-year" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunbathing (vitamin D) increases lifespan in Sweden by about 1 year – March 2016">Sunbathing (vitamin D) increases lifespan in Sweden by about 1 year – March 2016</a>
 
 * <a href="/posts/increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increase life expectancy by 2 years if double Vitamin D levels – Grant July 2011">Increase life expectancy by 2 years if double Vitamin D levels – Grant July 2011</a>
 
-* <a href="/posts/vitamin-d-predicts-good-health-and-long-life-in-seniors-review-of-20-cohort-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D predicts good health and long life in seniors, review of 20 cohort studies – Oct 2019">Vitamin D predicts good health and long life in seniors, review of 20 cohort studies – Oct 2019</a>
+* [Vitamin D predicts good health and long life in seniors, review of 20 cohort studies – Oct 2019](/posts/vitamin-d-predicts-good-health-and-long-life-in-seniors-review-of-20-cohort-studies)
 
-* <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+* [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
-* <a href="/posts/longevity-expert-sinclair-supplements-include-vitamin-d-vitamin-k-and-resveratrol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity expert (Sinclair) supplements include Vitamin D, Vitamin K, and Resveratrol – Sept 2019">Longevity expert (Sinclair) supplements include Vitamin D, Vitamin K, and Resveratrol – Sept 2019</a>
+* [Longevity expert (Sinclair) supplements include Vitamin D, Vitamin K, and Resveratrol – Sept 2019](/posts/longevity-expert-sinclair-supplements-include-vitamin-d-vitamin-k-and-resveratrol)
 
 ---
 

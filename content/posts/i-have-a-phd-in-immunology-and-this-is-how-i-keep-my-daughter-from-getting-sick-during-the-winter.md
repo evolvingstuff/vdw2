@@ -1,0 +1,19 @@
+---
+title: "I have a PhD in immunology and this is how I keep my daughter from getting sick during the winter"
+slug: "i-have-a-phd-in-immunology-and-this-is-how-i-keep-my-daughter-from-getting-sick-during-the-winter"
+aliases:
+  - "/I+have+a+PhD+in+immunology+and+this+is+how+I+keep+my+daughter+from+getting+sick+during+the+winter"
+  - "/tiki-index.php?page_id=11361"
+date: 2019-11-16
+categories:
+  - "Supplement"
+  - "Immunity"
+  - "Infant-Child"
+---
+
+
+#### [Business Insider Nov 2019](https://www.businessinsider.sg/how-to-prevent-colds-flu-in-children-in-the-winter-2019-11/)
+
+ **Vitamin D, &nbsp; Omega-3, &nbsp; Probiotics, &nbsp; Tumeric, &nbsp; Elderberry**  
+
+#### Note: The first 4 items have been proven to increased the amount of Vitamin D which gets to the cells

@@ -49,4 +49,4 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 * [Excess deaths in 34 countries (probably due to COVID vaccination) – preprint Aug 2023](/posts/excess-deaths-in-34-countries-probably-due-to-covid-vaccination-preprint)
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a> 25,000 visitors as of Oct 2023
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies) 25,000 visitors as of Oct 2023

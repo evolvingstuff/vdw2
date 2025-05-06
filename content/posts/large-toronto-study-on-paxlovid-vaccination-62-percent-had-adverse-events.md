@@ -18,6 +18,6 @@ categories:
 
 ---
 
-#### See also <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### See also [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 <!-- ~tc~ (alias(Large Toronto Hospital Study on Paxlovid: 62% had Adverse Events - Oct 2023)) ~/tc~ -->

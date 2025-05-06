@@ -25,7 +25,7 @@ categories:
 
 * 5. Melatonin: start at 1 mg and increase to 20-30 mg at night (extended/slow release) 
 
-   * See VitaminDWiki <a href="/posts/melatonin-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melatonin and Vitamin D - many studies">Melatonin and Vitamin D - many studies</a>
+   * See VitaminDWiki [Melatonin and Vitamin D - many studies](/posts/melatonin-and-vitamin-d-many-studies)
 
 * 6. Green tea catechins: 500-1,000 mg daily 
 
@@ -33,7 +33,7 @@ categories:
 
 * 8. Curcumin (nanocurcumin): 600 mg daily or as per the manufacturer’s suggested dosing
 
-   * See VitaminDWiki <a href="/posts/curcumin-helps-many-health-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin helps many health problems">Curcumin helps many health problems</a>
+   * See VitaminDWiki [Curcumin helps many health problems](/posts/curcumin-helps-many-health-problems)
 
 * 9. Mebendazole: 100-200 mg daily
 

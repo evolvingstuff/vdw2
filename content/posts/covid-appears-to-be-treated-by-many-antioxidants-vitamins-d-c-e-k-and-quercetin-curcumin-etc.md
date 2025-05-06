@@ -56,7 +56,7 @@ Conclusion: No wonder the selection of prevention, treatment, and cure of COVID-
 
 ---
 
-#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
  **November 2022 [https://c19early.org/](https://c19early.org/)** 
 
@@ -66,7 +66,7 @@ Conclusion: No wonder the selection of prevention, treatment, and cure of COVID-
 
 ---
 
-#### VitaminDWiki - <a href="/posts/covid-fought-by-the-antioxidants-vitamin-d-zinc-vitamin-c-and-selenium-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID fought by the antioxidants: Vitamin D, Zinc, Vitamin C, and Selenium – Review Sept 2022">COVID fought by the antioxidants: Vitamin D, Zinc, Vitamin C, and Selenium – Review Sept 2022</a>
+#### VitaminDWiki - [COVID fought by the antioxidants: Vitamin D, Zinc, Vitamin C, and Selenium – Review Sept 2022](/posts/covid-fought-by-the-antioxidants-vitamin-d-zinc-vitamin-c-and-selenium-review)
 
 ---
 

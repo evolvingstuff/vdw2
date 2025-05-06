@@ -247,8 +247,8 @@ You will experience fat/weight loss if you stress your body by:
 3) Intermitant fasting  
  4) Water-only fasting** 
 
- **See <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a>   
-&nbsp; &nbsp;<a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>** 
+ **See [Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs](/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts)   
+&nbsp; &nbsp;[The Vitamin That Quadruples Weight Loss - Oct 2019](/posts/the-vitamin-that-quadruples-weight-loss)** 
 
 ---
 
@@ -310,4 +310,4 @@ Well, that's basically all I've got to say for the introduction, and I'm kind of
 
 ---
 
- **See also <a href="/posts/iceland-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iceland and Vitamin D - many studies">Iceland and Vitamin D - many studies</a>**  
+ **See also [Iceland and Vitamin D - many studies](/posts/iceland-and-vitamin-d-many-studies)**  

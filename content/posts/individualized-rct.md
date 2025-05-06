@@ -178,6 +178,6 @@ On the day when 25(OH)D blood concentrations of 40 ng/mL were calculated to prev
 
 * <a href="/posts/molecular-approaches-for-optimizing-vitamin-d-one-size-does-not-fit-all-carlberg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Molecular Approaches for Optimizing Vitamin D (one size does not fit all) – Carlberg Nov 2015">Molecular Approaches for Optimizing Vitamin D (one size does not fit all) – Carlberg Nov 2015</a>
 
-* <a href="/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019">Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a>
+* [Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019](/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders)
 
 * <a href="/posts/huge-variation-in-response-to-vitamin-d-supplementation-personal-vitamin-d-response-index" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge variation in response to vitamin D supplementation – personal vitamin D response index – Dec 2016">Huge variation in response to vitamin D supplementation – personal vitamin D response index – Dec 2016</a>

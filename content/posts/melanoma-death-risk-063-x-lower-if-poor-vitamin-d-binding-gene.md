@@ -36,4 +36,4 @@ Conclusions: Our findings suggest that individuals with the GC haplotype Gc1f ma
 
 ---
 
-#### See also: <a href="/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma might be suppressed by Vitamin D - many studies">Melanoma might be suppressed by Vitamin D - many studies</a>
+#### See also: [Melanoma might be suppressed by Vitamin D - many studies](/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies)

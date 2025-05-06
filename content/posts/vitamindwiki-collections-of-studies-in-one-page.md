@@ -33,7 +33,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
+* [Microplastics now causing problems in most life forms - many studies](/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies)
 
 *
 
@@ -77,7 +77,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/knee-osteoarthritis-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee osteoarthritis treated by Vitamin D - many studies">Knee osteoarthritis treated by Vitamin D - many studies</a>
+* [Knee osteoarthritis treated by Vitamin D - many studies](/posts/knee-osteoarthritis-treated-by-vitamin-d-many-studies)
 
 *
 
@@ -105,7 +105,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/ulcerative-colitis-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ulcerative Colitis and Vitamin D - many studies">Ulcerative Colitis and Vitamin D - many studies</a>
+* [Ulcerative Colitis and Vitamin D - many studies](/posts/ulcerative-colitis-and-vitamin-d-many-studies)
 
 *
 
@@ -125,11 +125,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>
+* [Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies)
 
 *
 
-* <a href="/posts/traumatic-brain-injury-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Traumatic Brain Injury treated by Vitamin D - many studies">Traumatic Brain Injury treated by Vitamin D - many studies</a>
+* [Traumatic Brain Injury treated by Vitamin D - many studies](/posts/traumatic-brain-injury-treated-by-vitamin-d-many-studies)
 
 *
 
@@ -165,7 +165,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More Cognitive Impairment after some types of stroke if low vitamin D - many studies">More Cognitive Impairment after some types of stroke if low vitamin D - many studies</a>
+* [More Cognitive Impairment after some types of stroke if low vitamin D - many studies](/posts/more-cognitive-impairment-after-some-types-of-stroke-if-low-vitamin-d-many-studies)
 
 *
 
@@ -197,7 +197,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious Mononucleosis (virus) and Vitamin D - many studies">Infectious Mononucleosis (virus) and Vitamin D - many studies</a>
+* [Infectious Mononucleosis (virus) and Vitamin D - many studies](/posts/infectious-mononucleosis-virus-and-vitamin-d-many-studies)
 
 *
 
@@ -213,7 +213,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/melatonin-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melatonin and Vitamin D - many studies">Melatonin and Vitamin D - many studies</a>
+* [Melatonin and Vitamin D - many studies](/posts/melatonin-and-vitamin-d-many-studies)
 
 *
 
@@ -265,7 +265,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/atrial-fibrillation-decreased-by-vitamin-d-or-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atrial Fibrillation decreased by Vitamin D or Magnesium - many studies">Atrial Fibrillation decreased by Vitamin D or Magnesium - many studies</a>
+* [Atrial Fibrillation decreased by Vitamin D or Magnesium - many studies](/posts/atrial-fibrillation-decreased-by-vitamin-d-or-magnesium-many-studies)
 
 *
 
@@ -293,7 +293,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/age-related-macular-degeneration-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Age-Related Macular Degeneration and Vitamin D - many studies">Age-Related Macular Degeneration and Vitamin D - many studies</a>
+* [Age-Related Macular Degeneration and Vitamin D - many studies](/posts/age-related-macular-degeneration-and-vitamin-d-many-studies)
 
 *
 
@@ -305,7 +305,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/coronavirus-travels-on-air-pollution-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Coronavirus travels on air pollution - many studies">Coronavirus travels on air pollution - many studies</a>
+* [Coronavirus travels on air pollution - many studies](/posts/coronavirus-travels-on-air-pollution-many-studies)
 
 *
 
@@ -313,7 +313,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/periodontitis-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Periodontitis reduced by Vitamin D - many studies">Periodontitis reduced by Vitamin D - many studies</a>
+* [Periodontitis reduced by Vitamin D - many studies](/posts/periodontitis-reduced-by-vitamin-d-many-studies)
 
 *
 
@@ -341,11 +341,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/omega-3-reduces-risk-of-breast-cancer-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 Reduces risk of Breast Cancer - many studies">Omega-3 Reduces risk of Breast Cancer - many studies</a>
+* [Omega-3 Reduces risk of Breast Cancer - many studies](/posts/omega-3-reduces-risk-of-breast-cancer-many-studies)
 
 *
 
-* <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies">Preeclampsia reduced by Vitamin D - many studies</a>
+* [Preeclampsia reduced by Vitamin D - many studies](/posts/preeclampsia-reduced-by-vitamin-d-many-studies)
 
 *
 
@@ -365,7 +365,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Avoiding the sun may be as bad as smoking - many studies">Avoiding the sun may be as bad as smoking - many studies</a>
+* [Avoiding the sun may be as bad as smoking - many studies](/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies)
 
 *
 
@@ -389,11 +389,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 *
 
-* <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D - many studies</a>
+* [Response to Vitamin D - many studies](/posts/response-to-vitamin-d-many-studies)
 
 *
 
@@ -401,7 +401,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+* [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
 *
 
@@ -417,7 +417,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/neuropathy-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Neuropathy treated by vitamin D - many studies">Neuropathy treated by vitamin D - many studies</a>
+* [Neuropathy treated by vitamin D - many studies](/posts/neuropathy-treated-by-vitamin-d-many-studies)
 
 *
 
@@ -433,15 +433,15 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/iceland-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iceland and Vitamin D - many studies">Iceland and Vitamin D - many studies</a>
+* [Iceland and Vitamin D - many studies](/posts/iceland-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/bird-flu-possible-pandemic-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bird flu possible pandemic - many studies">Bird flu possible pandemic - many studies</a>
+* [Bird flu possible pandemic - many studies](/posts/bird-flu-possible-pandemic-many-studies)
 
 *
 
-* <a href="/posts/covid-and-zinc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID and Zinc - many studies">COVID and Zinc - many studies</a>
+* [COVID and Zinc - many studies](/posts/covid-and-zinc-many-studies)
 
 *
 
@@ -465,7 +465,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Vitamin D aids the clearing out of old cells (autophagy) – many studies</a>
+* [Vitamin D aids the clearing out of old cells (autophagy) – many studies](/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies)
 
 *
 
@@ -473,7 +473,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+* [Diseases treated by high-dose Vitamin D - many studies](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies)
 
 *
 
@@ -497,11 +497,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH and Vitamin D - many studies</a>
+* [PTH and Vitamin D - many studies](/posts/pth-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/crohns-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn's and Vitamin D - many studies">Crohn's and Vitamin D - many studies</a>
+* [Crohn's and Vitamin D - many studies](/posts/crohns-and-vitamin-d-many-studies)
 
 *
 
@@ -509,15 +509,15 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/ivermectin-and-covid-19-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ivermectin and COVID-19 - many studies">Ivermectin and COVID-19 - many studies</a>
+* [Ivermectin and COVID-19 - many studies](/posts/ivermectin-and-covid-19-many-studies)
 
 *
 
-* <a href="/posts/orthopaedic-surgeries-need-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Orthopaedic surgeries need Vitamin D – many studies">Orthopaedic surgeries need Vitamin D – many studies</a>
+* [Orthopaedic surgeries need Vitamin D – many studies](/posts/orthopaedic-surgeries-need-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/photobiomodulation-lllt-treats-many-covid-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Photobiomodulation (LLLT) treats many COVID problems - many studies">Photobiomodulation (LLLT) treats many COVID problems - many studies</a>
+* [Photobiomodulation (LLLT) treats many COVID problems - many studies](/posts/photobiomodulation-lllt-treats-many-covid-problems-many-studies)
 
 *
 
@@ -529,31 +529,31 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma might be suppressed by Vitamin D - many studies">Melanoma might be suppressed by Vitamin D - many studies</a>
+* [Melanoma might be suppressed by Vitamin D - many studies](/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/cancer-during-childhood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer during childhood - many studies">Cancer during childhood - many studies</a>
+* [Cancer during childhood - many studies](/posts/cancer-during-childhood-many-studies)
 
 *
 
-* <a href="/posts/low-magnesium-associated-with-severe-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies">Low Magnesium associated with severe COVID – many studies</a>
+* [Low Magnesium associated with severe COVID – many studies](/posts/low-magnesium-associated-with-severe-covid-many-studies)
 
 *
 
-* <a href="/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory viral infection (RSV) and low vitamin D - many studies">Respiratory viral infection (RSV) and low vitamin D - many studies</a>
+* [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/herpes-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Herpes virus and vitamin D - many studies">Herpes virus and vitamin D - many studies</a>
+* [Herpes virus and vitamin D - many studies](/posts/herpes-virus-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>
+* [Vitamin D is needed before most surgeries – many studies and RCTs](/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts)
 
 *
 
-* <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric Cancer, Vitamin D, VDR, UV - many studies</a>
+* [Gastric Cancer, Vitamin D, VDR, UV - many studies](/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies)
 
 *
 
@@ -565,39 +565,39 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/kidney-dialysis-low-vitamin-d-low-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney Dialysis, low Vitamin D, low Magnesium - many studies">Kidney Dialysis, low Vitamin D, low Magnesium - many studies</a>
+* [Kidney Dialysis, low Vitamin D, low Magnesium - many studies](/posts/kidney-dialysis-low-vitamin-d-low-magnesium-many-studies)
 
 *
 
-* <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+* [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/cancer-stem-cells-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer stem cells and Vitamin D - many studies">Cancer stem cells and Vitamin D - many studies</a>
+* [Cancer stem cells and Vitamin D - many studies](/posts/cancer-stem-cells-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/obesity-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity, Virus, and Vitamin D - many studies">Obesity, Virus, and Vitamin D - many studies</a>
+* [Obesity, Virus, and Vitamin D - many studies](/posts/obesity-virus-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/russia-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Russia and Vitamin D - many studies">Russia and Vitamin D - many studies</a>
+* [Russia and Vitamin D - many studies](/posts/russia-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/cancer-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and Vitamin D - many studies">Cancer and Vitamin D - many studies</a>
+* [Cancer and Vitamin D - many studies](/posts/cancer-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular Disease is treated by Vitamin D - many studies">Cardiovascular Disease is treated by Vitamin D - many studies</a>
+* [Cardiovascular Disease is treated by Vitamin D - many studies](/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/children-and-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children and COVID - many studies">Children and COVID - many studies</a>
+* [Children and COVID - many studies](/posts/children-and-covid-many-studies)
 
 *
 
-* <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+* [Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.](/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies)
 
 *
 
@@ -605,11 +605,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/preterm-birth-decreased-by-omege-3-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies">Preterm birth decreased by Omege-3, etc. - many studies</a>
+* [Preterm birth decreased by Omege-3, etc. - many studies](/posts/preterm-birth-decreased-by-omege-3-etc-many-studies)
 
 *
 
-* <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a>
+* [Magnesium Role in Health and Longevity - many studies](/posts/magnesium-role-in-health-and-longevity-many-studies)
 
 *
 
@@ -617,11 +617,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/selenium-is-important-to-health-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Selenium is important to health - many studies">Selenium is important to health - many studies</a>
+* [Selenium is important to health - many studies](/posts/selenium-is-important-to-health-many-studies)
 
 *
 
-* <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+* [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 *
 
@@ -629,23 +629,23 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/covid-infection-might-prevent-infection-better-than-vaccinations-transcript-and-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID infection might prevent infection better than vaccinations - transcript and many studies">COVID infection might prevent infection better than vaccinations - transcript and many studies</a>
+* [COVID infection might prevent infection better than vaccinations - transcript and many studies](/posts/covid-infection-might-prevent-infection-better-than-vaccinations-transcript-and-many-studies)
 
 *
 
-* <a href="/posts/phosphate-phosphatonins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Phosphate, Phosphatonins and Vitamin D - many studies">Phosphate, Phosphatonins and Vitamin D - many studies</a>
+* [Phosphate, Phosphatonins and Vitamin D - many studies](/posts/phosphate-phosphatonins-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Red meat consumption increases risk of Diabetes - many studies">Red meat consumption increases risk of Diabetes - many studies</a>
+* [Red meat consumption increases risk of Diabetes - many studies](/posts/red-meat-consumption-increases-risk-of-diabetes-many-studies)
 
 *
 
-* <a href="/posts/vitamin-d-most-popular-supplement-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D most popular supplement - many studies">Vitamin D most popular supplement - many studies</a>
+* [Vitamin D most popular supplement - many studies](/posts/vitamin-d-most-popular-supplement-many-studies)
 
 *
 
-* <a href="/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies">Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies</a>
+* [Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies](/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies)
 
 *
 
@@ -653,7 +653,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/vitamin-d-and-vitamin-k-intervention-trials-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Vitamin K intervention trials - many studies">Vitamin D and Vitamin K intervention trials - many studies</a>
+* [Vitamin D and Vitamin K intervention trials - many studies](/posts/vitamin-d-and-vitamin-k-intervention-trials-many-studies)
 
 *
 
@@ -677,11 +677,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/palliative-care-is-helped-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Palliative care is helped by Vitamin D - many studies">Palliative care is helped by Vitamin D - many studies</a>
+* [Palliative care is helped by Vitamin D - many studies](/posts/palliative-care-is-helped-by-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">Topical Vitamin D provides more benefits than oral sometimes - many studies</a>
+* [Topical Vitamin D provides more benefits than oral sometimes - many studies](/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies)
 
 *
 
@@ -693,19 +693,19 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/dna-repair-helped-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DNA repair helped by Vitamin D - many studies">DNA repair helped by Vitamin D - many studies</a>
+* [DNA repair helped by Vitamin D - many studies](/posts/dna-repair-helped-by-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/calcium-to-magnesium-ratio-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium to Magnesium Ratio - many studies">Calcium to Magnesium Ratio - many studies</a>
+* [Calcium to Magnesium Ratio - many studies](/posts/calcium-to-magnesium-ratio-many-studies)
 
 *
 
-* <a href="/posts/vitamin-d-fights-many-health-problems-an-umbrella-review-of-508-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D fights many health problems – an umbrella review of 508 studies – July 2022">Vitamin D fights many health problems – an umbrella review of 508 studies – July 2022</a>
+* [Vitamin D fights many health problems – an umbrella review of 508 studies – July 2022](/posts/vitamin-d-fights-many-health-problems-an-umbrella-review-of-508-studies)
 
 *
 
-* <a href="/posts/pfas-forever-chemicals-reduce-vitamin-d-and-vdr-cause-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PFAS (forever chemicals) reduce Vitamin D and VDR, cause health problems - many studies">PFAS (forever chemicals) reduce Vitamin D and VDR, cause health problems - many studies</a>
+* [PFAS (forever chemicals) reduce Vitamin D and VDR, cause health problems - many studies](/posts/pfas-forever-chemicals-reduce-vitamin-d-and-vdr-cause-health-problems-many-studies)
 
 *
 
@@ -713,19 +713,19 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/fertility-is-a-function-of-vitamin-d-around-each-egg-follicular-fluid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fertility is a function of vitamin D around each egg (follicular fluid) – many studies">Fertility is a function of vitamin D around each egg (follicular fluid) – many studies</a>
+* [Fertility is a function of vitamin D around each egg (follicular fluid) – many studies](/posts/fertility-is-a-function-of-vitamin-d-around-each-egg-follicular-fluid-many-studies)
 
 *
 
-* <a href="/posts/moving-medical-evidence-into-practice-implementation-science-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Moving medical evidence into practice: Implementation Science - many studies">Moving medical evidence into practice: Implementation Science - many studies</a>
+* [Moving medical evidence into practice: Implementation Science - many studies](/posts/moving-medical-evidence-into-practice-implementation-science-many-studies)
 
 *
 
-* <a href="/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies">Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies</a>
+* [Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies](/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/anesthesia-can-cause-cognitive-problems-in-elderly-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anesthesia can cause cognitive problems in elderly with low vitamin D - many studies">Anesthesia can cause cognitive problems in elderly with low vitamin D - many studies</a>
+* [Anesthesia can cause cognitive problems in elderly with low vitamin D - many studies](/posts/anesthesia-can-cause-cognitive-problems-in-elderly-with-low-vitamin-d-many-studies)
 
 *
 
@@ -733,19 +733,19 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/diabetic-retinopathy-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic Retinopathy associated with low Vitamin D - many studies">Diabetic Retinopathy associated with low Vitamin D - many studies</a>
+* [Diabetic Retinopathy associated with low Vitamin D - many studies](/posts/diabetic-retinopathy-associated-with-low-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a>
+* [Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies)
 
 *
 
-* <a href="/posts/magnesium-reduces-pain-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium reduces pain - many studies">Magnesium reduces pain - many studies</a>
+* [Magnesium reduces pain - many studies](/posts/magnesium-reduces-pain-many-studies)
 
 *
 
-* <a href="/posts/vitamin-d-and-magnesium-need-each-other-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Magnesium need each other - many studies">Vitamin D and Magnesium need each other - many studies</a>
+* [Vitamin D and Magnesium need each other - many studies](/posts/vitamin-d-and-magnesium-need-each-other-many-studies)
 
 *
 
@@ -757,27 +757,27 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus increases the risk of many health problems – many studies">Epstein-Barr Virus increases the risk of many health problems – many studies</a>
+* [Epstein-Barr Virus increases the risk of many health problems – many studies](/posts/epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies)
 
 *
 
-* <a href="/posts/multiple-sclerosis-risk-factors-include-virus-such-as-human-herpesvirus-6a-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis Risk factors include virus such as Human Herpesvirus 6A – many studies">Multiple Sclerosis Risk factors include virus such as Human Herpesvirus 6A – many studies</a>
+* [Multiple Sclerosis Risk factors include virus such as Human Herpesvirus 6A – many studies](/posts/multiple-sclerosis-risk-factors-include-virus-such-as-human-herpesvirus-6a-many-studies)
 
 *
 
-* <a href="/posts/skin-aging-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin Aging and Vitamin D - many studies">Skin Aging and Vitamin D - many studies</a>
+* [Skin Aging and Vitamin D - many studies](/posts/skin-aging-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/covid-is-also-associated-with-low-vitamin-k-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID is also associated with low Vitamin K - many studies">COVID is also associated with low Vitamin K - many studies</a>
+* [COVID is also associated with low Vitamin K - many studies](/posts/covid-is-also-associated-with-low-vitamin-k-many-studies)
 
 *
 
-* <a href="/posts/mouthwashes-temporarily-reduce-covid-infectiousness-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mouthwashes temporarily reduce COVID infectiousness - many studies">Mouthwashes temporarily reduce COVID infectiousness - many studies</a>
+* [Mouthwashes temporarily reduce COVID infectiousness - many studies](/posts/mouthwashes-temporarily-reduce-covid-infectiousness-many-studies)
 
 *
 
-* <a href="/posts/some-foot-and-ankle-problems-are-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some Foot and ankle problems are treated by Vitamin D – many studies">Some Foot and ankle problems are treated by Vitamin D – many studies</a>
+* [Some Foot and ankle problems are treated by Vitamin D – many studies](/posts/some-foot-and-ankle-problems-are-treated-by-vitamin-d-many-studies)
 
 *
 
@@ -793,11 +793,11 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/premenstrual-syndrome-pms-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premenstrual Syndrome (PMS) and Vitamin D - many studies">Premenstrual Syndrome (PMS) and Vitamin D - many studies</a>
+* [Premenstrual Syndrome (PMS) and Vitamin D - many studies](/posts/premenstrual-syndrome-pms-and-vitamin-d-many-studies)
 
 *
 
-* <a href="/posts/omega-3-reduces-risk-of-covid-19-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 reduces risk of COVID-19 - many studies">Omega-3 reduces risk of COVID-19 - many studies</a>
+* [Omega-3 reduces risk of COVID-19 - many studies](/posts/omega-3-reduces-risk-of-covid-19-many-studies)
 
 *
 
@@ -813,7 +813,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/many-covid-19-risks-are-associated-with-low-vitamin-d-7-studies-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many COVID-19 risks are associated with low vitamin D (7 studies) – Systematic Review Jan 2021">Many COVID-19 risks are associated with low vitamin D (7 studies) – Systematic Review Jan 2021</a>
+* [Many COVID-19 risks are associated with low vitamin D (7 studies) – Systematic Review Jan 2021](/posts/many-covid-19-risks-are-associated-with-low-vitamin-d-7-studies-systematic-review)
 
 *
 
@@ -829,7 +829,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
 *
 
@@ -849,23 +849,23 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/restless-legs-syndrome-has-increased-risk-with-diabetes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Restless Legs Syndrome has increased risk with diabetes – many studies">Restless Legs Syndrome has increased risk with diabetes – many studies</a>
+* [Restless Legs Syndrome has increased risk with diabetes – many studies](/posts/restless-legs-syndrome-has-increased-risk-with-diabetes-many-studies)
 
 *
 
-* <a href="/posts/resveratrol-treats-multiple-sclerosis-and-other-autoimmune-diseases-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies">Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies</a>
+* [Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies](/posts/resveratrol-treats-multiple-sclerosis-and-other-autoimmune-diseases-many-studies)
 
 *
 
-* <a href="/posts/depression-substantially-reduced-by-vitamin-d-omega-3-magnesium-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression substantially reduced by Vitamin D, Omega-3, Magnesium, etc – many studies">Depression substantially reduced by Vitamin D, Omega-3, Magnesium, etc – many studies</a>
+* [Depression substantially reduced by Vitamin D, Omega-3, Magnesium, etc – many studies](/posts/depression-substantially-reduced-by-vitamin-d-omega-3-magnesium-etc-many-studies)
 
 *
 
-* <a href="/posts/many-non-bone-diseases-associated-with-low-vitamin-d-dog-and-cats-in-this-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many non-bone diseases associated with low Vitamin D (dog and cats in this study) – Dec 2019">Many non-bone diseases associated with low Vitamin D (dog and cats in this study) – Dec 2019</a>
+* [Many non-bone diseases associated with low Vitamin D (dog and cats in this study) – Dec 2019](/posts/many-non-bone-diseases-associated-with-low-vitamin-d-dog-and-cats-in-this-study)
 
 *
 
-* <a href="/posts/t1-diabetes-treated-by-vitamin-d-and-omega-3-many-other-studies-agree" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: T1 Diabetes treated by Vitamin D and Omega-3 (many other studies agree) Jan 2018">T1 Diabetes treated by Vitamin D and Omega-3 (many other studies agree) Jan 2018</a>
+* [T1 Diabetes treated by Vitamin D and Omega-3 (many other studies agree) Jan 2018](/posts/t1-diabetes-treated-by-vitamin-d-and-omega-3-many-other-studies-agree)
 
 *
 
@@ -873,7 +873,7 @@ date: 2023-12-03
 
 *
 
-* <a href="/posts/saliva-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Saliva and Vitamin D – many studies">Saliva and Vitamin D – many studies</a>
+* [Saliva and Vitamin D – many studies](/posts/saliva-and-vitamin-d-many-studies)
 
 *
 

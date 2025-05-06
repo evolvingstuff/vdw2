@@ -44,7 +44,7 @@ Why there was not also an assocation for women?
 
 ---
 
-#### See also <a href="/posts/iceland-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iceland and Vitamin D - many studies">Iceland and Vitamin D - many studies</a>
+#### See also [Iceland and Vitamin D - many studies](/posts/iceland-and-vitamin-d-many-studies)
 
 ---
 

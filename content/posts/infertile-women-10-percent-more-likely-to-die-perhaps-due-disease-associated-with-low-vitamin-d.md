@@ -1,0 +1,19 @@
+---
+title: "Infertile women 10 percent more likely to die (perhaps due disease associated with low vitamin D"
+slug: "infertile-women-10-percent-more-likely-to-die-perhaps-due-disease-associated-with-low-vitamin-d"
+aliases:
+  - "/Infertile+women+10+percent+more+likely+to+die+perhaps+due+disease+associated+with+low+vitamin+D+–+Nov+2017"
+  - "/tiki-index.php?page_id=10606"
+date: 2019-03-23
+categories:
+  - "Diabetes"
+  - "Cancer - Breast"
+  - "Fertility and sperm"
+---
+
+
+#### [Infertile Women At Greater Risk Of Early Death, Study Finds](https://www.studyfinds.org/infertile-women-infertility-death/)
+
+* “Interestingly, some cancers, such as breast cancer, were found to be highly linked to a woman’s infertility, while others, including ovarian and endometrial cancers, did not develop at heightened levels.”
+
+* “… 70 percent more likely than healthy women to die from diabetes,…”

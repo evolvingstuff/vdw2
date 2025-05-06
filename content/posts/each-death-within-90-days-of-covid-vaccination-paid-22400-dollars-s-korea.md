@@ -42,7 +42,7 @@ categories:
 
 * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 
-* <a href="/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023">COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023</a>
+* [COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023](/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk)
 
 * [Vaccine Clinical Trial - cardiovascular death 3.7X more likely if vaccinated - preprint Sept 2023](/posts/vaccine-clinical-trial-cardiovascular-death-37x-more-likely-if-vaccinated-preprint)
 
@@ -52,7 +52,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki - [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
 <!-- ~tc~ (alias(Death within 90 days of COVID vaccination paid 22,400 dollars (S. Korea) - Sept 2023)) ~/tc~ -->
 

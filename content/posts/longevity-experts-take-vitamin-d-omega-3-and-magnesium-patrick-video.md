@@ -21,15 +21,15 @@ categories:
 
 ---
 
-#### See also: <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a>
+#### See also: [Magnesium Role in Health and Longevity - many studies](/posts/magnesium-role-in-health-and-longevity-many-studies)
 
 ---
 
-#### See also: <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### See also: [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
 ---
 
-#### See also: <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies">Vitamin D aids the clearing out of old cells (autophagy) – many studies</a>
+#### See also: [Vitamin D aids the clearing out of old cells (autophagy) – many studies](/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies)
 
 ---
 
@@ -37,6 +37,6 @@ categories:
 
 ---
 
-#### See also: <a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+#### See also: [Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)
 
  **200+supplements reviewed Includes Vitamin D, Magnesium, Omega-3** 

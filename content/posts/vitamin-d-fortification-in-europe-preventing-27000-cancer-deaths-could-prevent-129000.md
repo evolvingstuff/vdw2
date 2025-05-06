@@ -54,13 +54,13 @@ Interpretation: Systematic fortification of foods might considerably reduce the 
 
  **Chickens** 
 
-* <a href="/posts/3-proven-ways-to-increase-vitamin-d-in-eggs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 proven ways to increase Vitamin D in eggs – Aug 2020">3 proven ways to increase Vitamin D in eggs – Aug 2020</a>
+* [3 proven ways to increase Vitamin D in eggs – Aug 2020](/posts/3-proven-ways-to-increase-vitamin-d-in-eggs)
 
 * <a href="/posts/feed-chicken-lots-of-vitamin-d-get-6000-iu-per-egg-with-no-change-in-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Feed chicken lots of vitamin D, get 6000 IU per egg with no change in production – Nov 2013">Feed chicken lots of vitamin D, get 6000 IU per egg with no change in production – Nov 2013</a>
 
-* <a href="/posts/chicken-bones-eggs-and-activated-vitamin-d-in-eggs-increased-with-2-hours-of-daily-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chicken bones, eggs, and activated vitamin D in eggs increased with 2 hours of daily UVB – Dec 2019">Chicken bones, eggs, and activated vitamin D in eggs increased with 2 hours of daily UVB – Dec 2019</a>
+* [Chicken bones, eggs, and activated vitamin D in eggs increased with 2 hours of daily UVB – Dec 2019](/posts/chicken-bones-eggs-and-activated-vitamin-d-in-eggs-increased-with-2-hours-of-daily-uvb)
 
-* <a href="/posts/vitamin-d-in-eggs-increased-4x-after-uv-lighting-near-legs-was-added" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in eggs increased 4X after UV lighting near legs was added – April 2019">Vitamin D in eggs increased 4X after UV lighting near legs was added – April 2019</a>
+* [Vitamin D in eggs increased 4X after UV lighting near legs was added – April 2019](/posts/vitamin-d-in-eggs-increased-4x-after-uv-lighting-near-legs-was-added)
 
 * <a href="/posts/uvb-on-legs-of-chickens-resulted-in-70-iu-vitamin-d-per-egg-yoke" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013">UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013</a>
 

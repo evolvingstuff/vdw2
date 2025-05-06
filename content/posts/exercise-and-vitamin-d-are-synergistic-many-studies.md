@@ -29,7 +29,7 @@ Improving sports performance
 
 Improving the Vitamin D Receptor
 
- **<a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd</a>** 
+ **[Vitamin D is the 3rd most important contributor to health, Exercise is the 2nd](/posts/ways-to-improve-health)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
 

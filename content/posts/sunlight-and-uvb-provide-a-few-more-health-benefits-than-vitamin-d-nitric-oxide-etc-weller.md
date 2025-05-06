@@ -326,5 +326,5 @@ UVR is a skin carcinogen, yet no studies link sun exposure to increased all-caus
 
 ---
 
-#### VitaminDWiki – <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+#### VitaminDWiki – [Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.](/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies)
 

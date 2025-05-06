@@ -31,23 +31,23 @@ The 2019 coronavirus outbreak originated in Hubei Province, Wuhan, in China. Des
 
 ##### Related items in VitaminDWiki
 
-* <a href="/posts/fight-infections-such-as-covid-with-50-ng-of-vitamin-d-sunil" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fight infections such as COVID with 50 ng of Vitamin D – Sunil Dec 2022">Fight infections such as COVID with 50 ng of Vitamin D – Sunil Dec 2022</a>
+* [Fight infections such as COVID with 50 ng of Vitamin D – Sunil Dec 2022](/posts/fight-infections-such-as-covid-with-50-ng-of-vitamin-d-sunil)
 
-* <a href="/posts/coronavirus-how-bad-is-it-wimalawansa" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Coronavirus: How Bad Is It - Wimalawansa Feb 9 2020">Coronavirus: How Bad Is It - Wimalawansa Feb 9 2020</a> original publication of this study on VitaminDWiki
+* [Coronavirus: How Bad Is It - Wimalawansa Feb 9 2020](/posts/coronavirus-how-bad-is-it-wimalawansa) original publication of this study on VitaminDWiki
 
-* <a href="/posts/biology-of-vitamin-d-30ng-min-50ng-preferred-1000x-lower-cost-than-health-problem" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Biology of Vitamin D – 30ng min., 50ng preferred, 1000X lower cost than health problem – Feb 2019">Biology of Vitamin D – 30ng min., 50ng preferred, 1000X lower cost than health problem – Feb 2019</a>
+* [Biology of Vitamin D – 30ng min., 50ng preferred, 1000X lower cost than health problem – Feb 2019](/posts/biology-of-vitamin-d-30ng-min-50ng-preferred-1000x-lower-cost-than-health-problem)
 
 * <a href="/posts/non-musculoskeletal-benefits-of-vitamin-d-wimalawansa" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Non-musculoskeletal benefits of vitamin D– Wimalawansa – Sept 2016">Non-musculoskeletal benefits of vitamin D– Wimalawansa – Sept 2016</a>
 
 * <a href="/posts/vitamin-d-everything-you-need-to-know-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: Everything You Need to Know - book Aug 2012">Vitamin D: Everything You Need to Know - book Aug 2012</a>  review of his book - not available Feb 2020
 
-* <a href="/posts/covid-us-deaths-116000-fewer-if-everyone-had-been-taking-vitamin-d-campbell-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID US deaths: 116,000 fewer if everyone had been taking Vitamin D – Campbell transcript Nov 2022">COVID US deaths: 116,000 fewer if everyone had been taking Vitamin D – Campbell transcript Nov 2022</a>
+* [COVID US deaths: 116,000 fewer if everyone had been taking Vitamin D – Campbell transcript Nov 2022](/posts/covid-us-deaths-116000-fewer-if-everyone-had-been-taking-vitamin-d-campbell-transcript)
 
-* <a href="/posts/debunking-misinformation-about-vitamin-d-grant-podcast-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Debunking Misinformation About Vitamin D - Grant podcast and transcript - Sept 2022">Debunking Misinformation About Vitamin D - Grant podcast and transcript - Sept 2022</a>
+* [Debunking Misinformation About Vitamin D - Grant podcast and transcript - Sept 2022](/posts/debunking-misinformation-about-vitamin-d-grant-podcast-and-transcript)
 
 * [Vitamin D, now conclusive (for COVID) - Dr. Campbell Video and transcript - Feb 1, 2023](/posts/vitamin-d-now-conclusive-for-covid-dr-campbell-video-and-transcript)
 
-* <a href="/posts/covid-19-vitamin-d-overview-by-dr-in-sri-lanka-video-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 Vitamin D: Overview by Dr. in Sri Lanka (Video and transcript) - Dec 8, 2020">COVID-19 Vitamin D: Overview by Dr. in Sri Lanka (Video and transcript) - Dec 8, 2020</a>
+* [COVID-19 Vitamin D: Overview by Dr. in Sri Lanka (Video and transcript) - Dec 8, 2020](/posts/covid-19-vitamin-d-overview-by-dr-in-sri-lanka-video-and-transcript)
 
 ---
 

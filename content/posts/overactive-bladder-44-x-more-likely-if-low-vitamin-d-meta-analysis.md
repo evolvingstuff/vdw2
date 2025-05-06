@@ -56,7 +56,7 @@ Systematic Review Registration: PROSPERO registration no. CRD42022351443.
 
 * <a href="/posts/prostate-and-urinary-systems-much-better-with-higher-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate and Urinary systems much better with higher vitamin D – many studies">Prostate and Urinary systems much better with higher vitamin D – many studies</a>
 
-* <a href="/posts/overactive-bladder-32-x-more-likely-if-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overactive bladder 32 X more likely if very low vitamin D – April 2019">Overactive bladder 32 X more likely if very low vitamin D – April 2019</a>
+* [Overactive bladder 32 X more likely if very low vitamin D – April 2019](/posts/overactive-bladder-32-x-more-likely-if-very-low-vitamin-d)
 
 * <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 

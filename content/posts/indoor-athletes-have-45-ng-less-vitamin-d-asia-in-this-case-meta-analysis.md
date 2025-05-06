@@ -33,4 +33,4 @@ To control for multiple cofounders (the season, latitude, and Asian/Caucasian ra
 
 ---
 
-#### VitaminDWiki – <a href="/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift work associated with lower Vitamin D in 12 of 13 studies – meta-analysis July 2022">Shiftwork. like indoor sports, also reduces Vitamin D</a>
+#### VitaminDWiki – [Shiftwork. like indoor sports, also reduces Vitamin D](/posts/shift-work-associated-with-lower-vitamin-d-in-12-of-13-studies-meta-analysis)

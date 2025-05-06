@@ -22,7 +22,7 @@ categories:
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+* [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 * [COVID infections and vaccinations decrease Vitamin D – many studies](/posts/covid-infections-and-vaccinations-decrease-vitamin-d-many-studies)
 

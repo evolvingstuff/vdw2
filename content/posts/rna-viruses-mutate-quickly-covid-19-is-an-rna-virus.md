@@ -16,6 +16,6 @@ categories:
 
 ---
 
- **<a href="/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-interview-with-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with vaccine use during a pandemic - Dr. Bossche interview with transcript - April 22, 2021">Problems with vaccine use during a pandemic - Dr. Bossche interview with transcript - April 22, 2021</a>** 
+ **[Problems with vaccine use during a pandemic - Dr. Bossche interview with transcript - April 22, 2021](/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-interview-with-transcript)** 
 
  **<a href="/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-zoster-epstein-hepatitis-rsv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011">Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Zoster, Epstein, Hepatitis, RSV) – March 2011</a>** 

@@ -317,7 +317,7 @@ date: 2023-11-27
 
 ---
 
-#### VitaminDWiki- <a href="/posts/do-not-expect-your-doctor-to-know-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do not expect your doctor to know about vitamin D">Do not expect your doctor to know about vitamin D</a>
+#### VitaminDWiki- [Do not expect your doctor to know about vitamin D](/posts/do-not-expect-your-doctor-to-know-about-vitamin-d)
 
 ---
 

@@ -63,7 +63,7 @@ categories:
 
 ---
 
-#### VitaminDWiki <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a>
+#### VitaminDWiki [Ways to improve health](/posts/ways-to-improve-health)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

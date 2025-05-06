@@ -83,9 +83,9 @@ To end in a more positive note, there is still a lot to discover in the field of
 
 * <a href="/posts/birth-rates-doubled-with-vitamin-d-300000-for-infertile-men-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017">Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017</a>
 
-* <a href="/posts/covid-19-defeated-3x-faster-by-420000-iu-vitamin-d-nanoemulsion-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 defeated 3x faster by 420,000 IU Vitamin D nanoemulsion – RCT Nov 12, 2020">COVID-19 defeated 3x faster by 420,000 IU Vitamin D nanoemulsion – RCT Nov 12, 2020</a>
+* [COVID-19 defeated 3x faster by 420,000 IU Vitamin D nanoemulsion – RCT Nov 12, 2020](/posts/covid-19-defeated-3x-faster-by-420000-iu-vitamin-d-nanoemulsion-rct)
 
-* <a href="/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those getting an injection of 300,000 IU Vitamin D got out of the ICU a week sooner – RCT Dec 2020">Those getting an injection of 300,000 IU Vitamin D got out of the ICU a week sooner – RCT Dec 2020</a>
+* [Those getting an injection of 300,000 IU Vitamin D got out of the ICU a week sooner – RCT Dec 2020](/posts/those-getting-an-injection-of-300000-iu-vitamin-d-got-out-of-the-icu-a-week-sooner-rct)
 
  **Pregnancy** 
 
@@ -97,39 +97,39 @@ To end in a more positive note, there is still a lot to discover in the field of
 
  **Children** 
 
-* <a href="/posts/24-x-fewer-lower-respiratory-track-infections-in-infants-getting-400-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.4 X fewer lower respiratory track infections in infants getting 400 IU of Vitamin D – May 2022">2.4 X fewer lower respiratory track infections in infants getting 400 IU of Vitamin D – May 2022</a>
+* [2.4 X fewer lower respiratory track infections in infants getting 400 IU of Vitamin D – May 2022](/posts/24-x-fewer-lower-respiratory-track-infections-in-infants-getting-400-iu-of-vitamin-d)
 
 * <a href="/posts/half-the-risk-of-influenza-a-in-infants-taking-1200-iu-of-vitamin-d-for-4-months-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018">Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018</a>
 
-* <a href="/posts/allergic-rhinitis-in-infants-treated-by-1000-iu-vitamin-d-daily" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergic Rhinitis in infants treated by 1,000 IU vitamin D daily – June 2019">Allergic Rhinitis in infants treated by 1,000 IU vitamin D daily – June 2019</a>
+* [Allergic Rhinitis in infants treated by 1,000 IU vitamin D daily – June 2019](/posts/allergic-rhinitis-in-infants-treated-by-1000-iu-vitamin-d-daily)
 
  **Diabetes** 
 
-* <a href="/posts/diabetes-prevented-by-50000-iu-vitamin-d-monthly-iran" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes prevented by 50,000 IU vitamin D monthly (Iran) – Jan 2022">Diabetes prevented by 50,000 IU vitamin D monthly (Iran) – Jan 2022</a>
+* [Diabetes prevented by 50,000 IU vitamin D monthly (Iran) – Jan 2022](/posts/diabetes-prevented-by-50000-iu-vitamin-d-monthly-iran)
 
-* <a href="/posts/prediabetes-reduced-by-weekly-60000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021">Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021</a>
+* [Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021](/posts/prediabetes-reduced-by-weekly-60000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/diabetic-inflammation-reduced-by-vitamin-d-30000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020">Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020</a>
+* [Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020](/posts/diabetic-inflammation-reduced-by-vitamin-d-30000-iu-weekly-rct)
 
-* <a href="/posts/diabetics-and-prediabetics-helped-by-5000-iu-of-vitamin-d-for-6-months-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetics and prediabetics helped by 5,000 IU of Vitamin D for 6 months– RCT July 2019">Diabetics and prediabetics helped by 5,000 IU of Vitamin D for 6 months– RCT July 2019</a>
+* [Diabetics and prediabetics helped by 5,000 IU of Vitamin D for 6 months– RCT July 2019](/posts/diabetics-and-prediabetics-helped-by-5000-iu-of-vitamin-d-for-6-months-rct)
 
  **Virus** 
 
-* <a href="/posts/covid-in-hospital-fought-by-vitamin-d-25000-iu-daily-for-4-days-then-25k-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID in hospital fought by Vitamin D (25,000 IU daily for 4 days, then 25K weekly) - RCT – July 2022">COVID in hospital fought by Vitamin D (25,000 IU daily for 4 days, then 25K weekly) - RCT – July 2022</a>
+* [COVID in hospital fought by Vitamin D (25,000 IU daily for 4 days, then 25K weekly) - RCT – July 2022](/posts/covid-in-hospital-fought-by-vitamin-d-25000-iu-daily-for-4-days-then-25k-weekly-rct)
 
-* <a href="/posts/4x-less-likely-to-get-covid-following-4000-iu-daily-for-a-month-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X less likely to get COVID following 4,000 IU daily for a month – RCT April 2022">4X less likely to get COVID following 4,000 IU daily for a month – RCT April 2022</a>
+* [4X less likely to get COVID following 4,000 IU daily for a month – RCT April 2022](/posts/4x-less-likely-to-get-covid-following-4000-iu-daily-for-a-month-rct)
 
-* <a href="/posts/21-fewer-days-in-hospital-with-ards-covid-if-10000-iu-of-vitamin-d-daily-after-e--rct-april-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 21 fewer days in hospital with ARDS (COVID) if 10,000 IU of Vitamin D daily after enter hospital – RCT April, 2022">21 fewer days in hospital with ARDS (COVID) if 10,000 IU of Vitamin D daily after enter hospital – RCT April, 2022</a>
+* [21 fewer days in hospital with ARDS (COVID) if 10,000 IU of Vitamin D daily after enter hospital – RCT April, 2022](/posts/21-fewer-days-in-hospital-with-ards-covid-if-10000-iu-of-vitamin-d-daily-after-e--rct-april-2022)
 
-* <a href="/posts/group-achieving-30-ng-vs-26-ng-were-2x-less-likely-to-get-covid-symptoms-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Group achieving 30 ng (vs 26 ng) were 2X less likely to get COVID symptoms - RCT Jan 2022">Group achieving 30 ng (vs 26 ng) were 2X less likely to get COVID symptoms - RCT Jan 2022</a>
+* [Group achieving 30 ng (vs 26 ng) were 2X less likely to get COVID symptoms - RCT Jan 2022](/posts/group-achieving-30-ng-vs-26-ng-were-2x-less-likely-to-get-covid-symptoms-rct)
 
-* <a href="/posts/covid-19-mortality-reduced-4x-chart-looks-like-2x-by-large-infrequent-doses-of-vitamin-d-in-france" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 mortality reduced 4X (chart looks like 2X) by large, infrequent doses of Vitamin D in France – July 2021">COVID-19 mortality reduced 4X (chart looks like 2X) by large, infrequent doses of Vitamin D in France – July 2021</a>
+* [COVID-19 mortality reduced 4X (chart looks like 2X) by large, infrequent doses of Vitamin D in France – July 2021](/posts/covid-19-mortality-reduced-4x-chart-looks-like-2x-by-large-infrequent-doses-of-vitamin-d-in-france)
 
  **Obesity** 
 
-* <a href="/posts/weight-loss-on-low-calorie-diet-7-lbs-more-lost-if-got-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weight loss on low-calorie diet: 7 lbs more lost if got lots of Vitamin D – June 2021">Weight loss on low-calorie diet: 7 lbs more lost if got lots of Vitamin D – June 2021</a>
+* [Weight loss on low-calorie diet: 7 lbs more lost if got lots of Vitamin D – June 2021](/posts/weight-loss-on-low-calorie-diet-7-lbs-more-lost-if-got-lots-of-vitamin-d)
 
-* <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a>
+* [Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs](/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts)
 
  **Multiple Sclerosis** 
 
@@ -139,10 +139,10 @@ To end in a more positive note, there is still a lot to discover in the field of
 
  **Autoimmune** 
 
-* <a href="/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019">Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019</a>
+* [Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019](/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct)
 
 * [https://VitaminDWiki.com/Chronic+Hives+treated+by+Vitamin+D+-+many+studies#Hives_treated_by_28_000_IU_of_Vitamin_D_weekly_RCT_Aug_2020 |Hives treated by 28,000 IU of Vitamin D weekly – RCT Aug 2020))
 
  **Better than Daily** 
 
-* <a href="/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020">44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020</a>
+* [44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020](/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing)

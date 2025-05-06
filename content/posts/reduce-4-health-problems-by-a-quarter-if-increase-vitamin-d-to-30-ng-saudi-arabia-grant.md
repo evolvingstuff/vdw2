@@ -100,7 +100,7 @@ Methods to increase serum 25(OH)D concentrations at the population level could i
 
 #### Saudi Arabia needs Magnesium (most of their water has been desalinated)
 
-* <a href="/posts/low-magnesium-associated-with-severe-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies">Low Magnesium associated with severe COVID – many studies</a>
+* [Low Magnesium associated with severe COVID – many studies](/posts/low-magnesium-associated-with-severe-covid-many-studies)
 
 * [Diabetes, Metabolic Syndrome and Magnesium - many studies](/posts/diabetes-metabolic-syndrome-and-magnesium-many-studies)
 

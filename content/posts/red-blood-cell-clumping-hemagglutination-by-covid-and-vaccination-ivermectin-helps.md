@@ -52,7 +52,7 @@ Int J Mol Sci 2022 Dec 7;23(24):15480. [doi: 10.3390/ijms232415480.](https://doi
 
 ---
 
-#### VitaminDWiki - <a href="/posts/ivermectin-and-covid-19-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ivermectin and COVID-19 - many studies">Ivermectin and COVID-19 - many studies</a>
+#### VitaminDWiki - [Ivermectin and COVID-19 - many studies](/posts/ivermectin-and-covid-19-many-studies)
 
 <!-- ~tc~ (alias(clumping of red blood cells (Hemagglutination) - by both COVID and COVID vaccination - Dec 2023)) ~/tc~ -->
 

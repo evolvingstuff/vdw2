@@ -42,4 +42,4 @@ Conclusion: although reduced inflammatory markers were observed, preoperative ad
 
 * [Omega-6 blocks Omega-3 etc. -many studies](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
-* <a href="/posts/emulsified-form-of-omega-3-is-3x-more-bioavailable-in-low-fat-meal" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Emulsified form of Omega-3 is 3X more bioavailable in low fat meal – Dec 2019">Emulsified form of Omega-3 is 3X more bioavailable in low fat meal – Dec 2019</a>
+* [Emulsified form of Omega-3 is 3X more bioavailable in low fat meal – Dec 2019](/posts/emulsified-form-of-omega-3-is-3x-more-bioavailable-in-low-fat-meal)

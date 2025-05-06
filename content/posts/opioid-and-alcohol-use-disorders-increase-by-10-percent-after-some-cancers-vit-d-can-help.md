@@ -41,15 +41,15 @@ The distribution of specific SUDs was different compared with that in the lifeti
 
 *  **[Diagnosed with Cancer - consider vitamin D - 2021](/posts/diagnosed-with-cancer-consider-vitamin-d-2021)** 
 
-*  **<a href="/posts/easiest-way-to-treat-cancer-take-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Easiest way to treat cancer – take Vitamin D – Nov 2022">Easiest way to treat cancer – take Vitamin D – Nov 2022</a>** 
+*  **[Easiest way to treat cancer – take Vitamin D – Nov 2022](/posts/easiest-way-to-treat-cancer-take-vitamin-d)** 
 
-*  **<a href="/posts/vitamin-d-prevents-and-treats-cancer-in-many-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D prevents and treats cancer in many ways – May 2021">Vitamin D prevents and treats cancer in many ways – May 2021</a>** 
+*  **[Vitamin D prevents and treats cancer in many ways – May 2021](/posts/vitamin-d-prevents-and-treats-cancer-in-many-ways)** 
 
 *  **[Head and neck cancers and vitamin D - many studies](/posts/head-and-neck-cancers-and-vitamin-d-many-studies)** 
 
-*  **<a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric Cancer, Vitamin D, VDR, UV - many studies</a>** 
+*  **[Gastric Cancer, Vitamin D, VDR, UV - many studies](/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies)** 
 
-*  **<a href="/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma might be suppressed by Vitamin D - many studies">Melanoma might be suppressed by Vitamin D - many studies</a>** 
+*  **[Melanoma might be suppressed by Vitamin D - many studies](/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies)** 
 
 *  **<a href="/posts/addictive-pain-relievers-oxycodone-and-percocet-not-needed-as-much-if-have-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Addictive pain relievers Oxycodone and Percocet (not needed as much if have enough vitamin D?) – July 2014">Addictive pain relievers Oxycodone and Percocet (not needed as much if have enough vitamin D?) – July 2014</a>** 
 
@@ -59,8 +59,8 @@ The distribution of specific SUDs was different compared with that in the lifeti
 
 *  **<a href="/posts/overview-alcohol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alcohol and Vitamin D">Overview Alcohol and Vitamin D</a>** 
 
-*  **<a href="/posts/opioid-addiction-related-to-low-vitamin-d-in-many-ways-in-both-mice-and-men" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Opioid addiction related to low vitamin D in many ways (in both mice and men) – June 2021">Opioid addiction related to low vitamin D in many ways (in both mice and men) – June 2021</a>** 
+*  **[Opioid addiction related to low vitamin D in many ways (in both mice and men) – June 2021](/posts/opioid-addiction-related-to-low-vitamin-d-in-many-ways-in-both-mice-and-men)** 
 
-*  **<a href="/posts/opiate-addiction-24-x-more-likely-if-vitamin-d-deficient-before-surgery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Opiate addiction 2.4 X more likely if vitamin D deficient before surgery – June 2020">Opiate addiction 2.4 X more likely if vitamin D deficient before surgery – June 2020</a>** 
+*  **[Opiate addiction 2.4 X more likely if vitamin D deficient before surgery – June 2020](/posts/opiate-addiction-24-x-more-likely-if-vitamin-d-deficient-before-surgery)** 
 
 *  **<a href="/posts/off-topic-opiate-deaths-increased-54-x-in-us-in-just-three-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: Opiate Deaths increased 5.4 X in US in just three years - Sept 2017">Off topic: Opiate Deaths increased 5.4 X in US in just three years - Sept 2017</a>** 

@@ -29,7 +29,7 @@ categories:
 
 ---
 
-#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination</a> pages includes:
+#### VitaminDWiki [Vaccination](/posts/vaccination-pages-in-vitamindwiki) pages includes:
 
 * [COVID Vaccination problems - 3,500 studies - Oct 2023](/posts/covid-vaccination-problems-3500-studies)
 
@@ -37,7 +37,7 @@ categories:
 
 * [Excess deaths in 34 countries (probably due to COVID vaccination) – preprint Aug 2023](/posts/excess-deaths-in-34-countries-probably-due-to-covid-vaccination-preprint)
 
-* <a href="/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies">Sudden Infant Deaths (SIDS) soon after vaccination - several studies</a>
+* [Sudden Infant Deaths (SIDS) soon after vaccination - several studies](/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies)
 
 * [YouTube removed 1,000,000 videos on Vaccine Safety or Efficacy as of Sept 2022](/posts/youtube-removed-1000000-videos-on-vaccine-safety-or-efficacy-as-of)
 

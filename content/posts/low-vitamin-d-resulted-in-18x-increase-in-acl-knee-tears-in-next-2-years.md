@@ -59,7 +59,7 @@ Albright and colleagues1 are commended for performing an outstanding study that 
 
 #### See related in VitaminDWiki
 
-* <a href="/posts/3x-less-muscle-atrophy-after-acl-surgery-if-more-than-40-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X less muscle atrophy after ACL surgery if more than 40 ng of vitamin D – May 2022">3X less muscle atrophy after ACL surgery if more than 40 ng of vitamin D – May 2022</a>
+* [3X less muscle atrophy after ACL surgery if more than 40 ng of vitamin D – May 2022](/posts/3x-less-muscle-atrophy-after-acl-surgery-if-more-than-40-ng-of-vitamin-d)
 
 * <a href="/posts/if-you-tear-a-knee-ligament-arthritis-is-likely-to-follow-in-10-years-both-are-r-o-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If You Tear a Knee Ligament, Arthritis Is Likely to Follow in 10 Years (both are related to low Vitamin D) – Nov 2017">If You Tear a Knee Ligament, Arthritis Is Likely to Follow in 10 Years (both are related to low Vitamin D) – Nov 2017</a>
 

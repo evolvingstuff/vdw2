@@ -173,4 +173,4 @@ The MPs much thicker political mud associated with being part of the nationalist
 
 ---
 
-#### 206+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### 206+ [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)

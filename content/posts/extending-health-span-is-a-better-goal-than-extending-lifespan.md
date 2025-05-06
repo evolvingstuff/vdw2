@@ -41,4 +41,4 @@ Ultimately, the more progress that is made in improving how we age, the greater 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/healthspan-is-more-important-than-lifespan-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthspan is more important than Lifespan – JAMA Oct 2018">Healthspan is more important than Lifespan – JAMA Oct 2018</a>
+#### VitaminDWiki - [Healthspan is more important than Lifespan – JAMA Oct 2018](/posts/healthspan-is-more-important-than-lifespan-jama)

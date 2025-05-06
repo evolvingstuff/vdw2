@@ -82,4 +82,4 @@ More studies are needed to establish safe and effective doses in the management 
 
 ---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-receptor-is-associated-in-over-58-autoimmune-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor is associated in over 58 autoimmune studies">Vitamin D Receptor is associated in over 58 autoimmune studies</a>
+#### VitaminDWiki – [Vitamin D Receptor is associated in over 58 autoimmune studies](/posts/vitamin-d-receptor-is-associated-in-over-58-autoimmune-studies)

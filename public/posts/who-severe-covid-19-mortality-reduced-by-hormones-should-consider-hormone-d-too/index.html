@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>WHO – Severe COVID-19 mortality reduced by hormones (should consider hormone D too)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542399">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542399">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542399"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>WHO – Severe COVID-19 mortality reduced by hormones (should consider hormone D too)</h1>
+        <time>September 3, 2020</time>
+        <p><strong>WHO guideline panel looked at two  COVID-19 corticosteroid meta-analyses and found that</strong></p>
+<ul>
+<li>
+<p><strong>Relative risk of 28 day mortality <span style="color:#00F;">reduced 20%</span>  if severe</strong></p>
+</li>
+<li>
+<p><strong>Relative risk of 28 day mortality <span style="color:#F00;">increased 20%</span> if non-severe</strong></p>
+</li>
+</ul>
+<p><strong>Note: There might be ZERO benefit from corticosteroids, even for those with severe COVID-19</strong></p>
+<p><strong>The treatment might have only delayed deaths beyond the 28 day cut- off point</strong></p>
+<p><strong><a href="https://www.nytimes.com/2020/09/02/health/coronavirus-steroids.html">Steroids Can Be Lifesaving for Covid-19 Patients, Scientists Report</a> NYT Sept 2</strong></p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the WHO PDF from VitaminDWiki</a></strong></p>
+<p><strong><span style="color:#00F;">Severe COVID-19 criteria</span></strong></p>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<p><strong>See also JAMA</strong></p>
+<ul>
+<li>
+<p><a href="https://jamanetwork.com/journals/jama/fullarticle/2770276?guestAccessKey=2511ef6a-e716-434d-8bb1-a1b028ed9c12&amp;utm_source=silverchair&amp;utm_medium=email&amp;utm_campaign=article_alert-jama&amp;utm_content=olf&amp;utm_term=090220%20%20">Effect of Hydrocortisone on 21-Day Mortality or Respiratory Support Among Critically Ill Patients With COVID-19 A Randomized Clinical Trial</a> Sept 2, FREE PDF</p>
+</li>
+<li>
+<p><a href="https://jamanetwork.com/journals/jama/fullarticle/2770279?guestAccessKey=42e10088-052f-4b83-9016-e25ef4898adb&amp;utm_source=silverchair&amp;utm_medium=email&amp;utm_campaign=article_alert-jama&amp;utm_content=olf&amp;utm_term=090220%20">Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19 - A Meta-analysis</a> Sept 2, FREE PDF</p>
+</li>
+<li>
+<p><a href="https://jamanetwork.com/journals/jama/fullarticle/2770275?guestAccessKey=f009127e-da1a-408b-a53c-f786cb7a9e0d&amp;utm_source=silverchair&amp;utm_medium=email&amp;utm_campaign=article_alert-jama&amp;utm_content=olf&amp;utm_term=090220%20">Corticosteroids in COVID-19 ARDS -Evidence and Hope During the Pandemic</a> Sept 2,  Editorial FREE PDF</p>
+</li>
+</ul>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542399"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542399',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542399'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542399"></script>
+    <script src="/js/search-results-panel.js?v=1746542399"></script>
+</body>
+</html>

@@ -45,7 +45,7 @@ categories:
 
    * See: <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
 
-   * See: <a href="/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018">Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018</a>
+   * See: [Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018](/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama)
 
 * non-organic apples do not have to put chemicals in their skin to protect themselves from insects
 
@@ -55,7 +55,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a>
+#### VitaminDWiki - [Ways to improve health](/posts/ways-to-improve-health)
 
  **Vitamin D is the lowest-cost way to improve health**   **<span style="color:#006;">(thin line, large circle)</span>** 
 
@@ -67,7 +67,7 @@ categories:
 
 * <a href="/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017">Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017</a>
 
-* <a href="/posts/prostate-cancer-death-40-percent-less-likely-if-40-ng-level-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate Cancer death 40 percent less likely if 40 ng level of vitamin D – Meta-analysis Oct 2018">Prostate Cancer death 40 percent less likely if 40 ng level of vitamin D – Meta-analysis Oct 2018</a>
+* [Prostate Cancer death 40 percent less likely if 40 ng level of vitamin D – Meta-analysis Oct 2018](/posts/prostate-cancer-death-40-percent-less-likely-if-40-ng-level-of-vitamin-d-meta-analysis)
 
 * <a href="/posts/death-of-women-from-cancer-24-percent-less-likely-if-20-ng-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death of women from cancer 24% less likely if 20 ng more vitamin D – meta-analysis Sept 2013">Death of women from cancer 24% less likely if 20 ng more vitamin D – meta-analysis Sept 2013</a>
 

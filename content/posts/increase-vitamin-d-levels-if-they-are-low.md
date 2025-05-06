@@ -44,7 +44,7 @@ Implications: Although 25(OH)D deficiency is prevalent in nonskeletal diseases, 
 
 * [Restore your Vitamin D levels before surgery (Gastric Cancer in this case) - Jan 2023](/posts/restore-your-vitamin-d-levels-before-surgery-gastric-cancer-in-this-case)
 
-* <a href="/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024">Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024</a>
+* [Rapidly restore Vitamin D levels with 10,000 IU per kg for children in ICU – RCT 2024](/posts/rapidly-restore-vitamin-d-levels-with-10000-iu-per-kg-for-children-in-icu-rct-2024)
 
 * <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Restore in just days, not months</a>
 

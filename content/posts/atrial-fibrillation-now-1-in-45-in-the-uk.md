@@ -40,6 +40,6 @@ categories:
 
 #### A portion of increase due to COVID turning off the vitamin D Receptor (less D to heart cells)
 
-This could also be a reason for <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">excess deaths around the world</a>
+This could also be a reason for [excess deaths around the world](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 COVID protects itself from vitamin D by de-activating the Vitamin D Receptor

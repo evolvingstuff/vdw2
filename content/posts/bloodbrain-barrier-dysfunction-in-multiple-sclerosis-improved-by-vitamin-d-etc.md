@@ -947,13 +947,13 @@ Scopus (27)
 
 #### See Brain in VitaminDWiki
 
-* <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+* [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)
 
 * [Global burden of brain disorders surpasses cardiovascular disease and cancer - July 2023](/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer)
 
    * Contains: Vitamin D inhaled thru the nose gets some directly to the brain
 
-* <a href="/posts/vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021">Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021</a>
+* [Vitamin D3 Attenuates Blood-Brain Barrier Disruption due to TBI (in rats) – Feb 2021](/posts/vitamin-d3-attenuates-blood-brain-barrier-disruption-due-to-tbi-in-rats)
 
 * [Many Neurological Diseases fought by Vitamin D - Dec 2022](/posts/many-neurological-diseases-fought-by-vitamin-d)
 
@@ -965,6 +965,6 @@ Scopus (27)
 
 * [Multiple Sclerosis prevention with high-dose vitamin D (in rats in this case) - July 2023](/posts/multiple-sclerosis-prevention-with-high-dose-vitamin-d-in-rats-in-this-case)
 
-* <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+* [Diseases treated by high-dose Vitamin D - many studies](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies)
 
-* <a href="/posts/an-opportunity-use-vitamin-d-to-treat-multiple-sclerosis-has-been-used-for-14-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: An opportunity - use Vitamin D to treat Multiple Sclerosis (has been used for 14 years) - Feb 2022">An opportunity - use Vitamin D to treat Multiple Sclerosis (has been used for 14 years) - Feb 2022</a>
+* [An opportunity - use Vitamin D to treat Multiple Sclerosis (has been used for 14 years) - Feb 2022](/posts/an-opportunity-use-vitamin-d-to-treat-multiple-sclerosis-has-been-used-for-14-years)

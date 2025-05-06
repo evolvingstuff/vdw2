@@ -35,6 +35,6 @@ Conclusions: Heterogeneous data suggested that vitamin D supplements are effecti
 
 ---
 
-#### VitaminDWiki – <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+#### VitaminDWiki – [Diseases treated by high-dose Vitamin D - many studies](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies)
 
 <!-- ~tc~ (alias(Depression reduced by large intermittent doses of vitamin D – meta-analysis of 18 trials – Jan 2023)) ~/tc~ -->

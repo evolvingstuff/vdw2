@@ -27,7 +27,7 @@ categories:
 
 ---
 
-#### 219+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### 219+ [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 <!-- ~tc~ (alias(33,000 studies documented COVID Vaccination problems - as of April 2022)) ~/tc~ -->
 

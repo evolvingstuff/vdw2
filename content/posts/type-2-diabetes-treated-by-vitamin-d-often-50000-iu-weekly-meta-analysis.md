@@ -62,7 +62,7 @@ Conclusions: More than half of patients with T2DM were suffering from VDD. Being
 
 ---
 
-#### VitaminDWiki -  <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a> 200+ studies
+#### VitaminDWiki -  [50,000 IU Vitamin D weekly is often recommended](/posts/50000-iu-vitamin-d-weekly-is-often-recommended) 200+ studies
 
 ---
 

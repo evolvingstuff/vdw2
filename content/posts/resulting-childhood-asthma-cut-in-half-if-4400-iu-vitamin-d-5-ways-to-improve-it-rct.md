@@ -57,7 +57,7 @@ Conclusion: Pregnant women with severe vitamin D deficiency show the greatest 25
 
 * <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
 
-* <a href="/posts/asthma-treated-by-vitamin-d-13th-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma treated by Vitamin D - 13th Meta-analysis – July 2022">Asthma treated by Vitamin D - 13th Meta-analysis – July 2022</a>
+* [Asthma treated by Vitamin D - 13th Meta-analysis – July 2022](/posts/asthma-treated-by-vitamin-d-13th-meta-analysis)
 
 * [Vitamin D is cost-effective to give to asthmatic children in Columbia - Feb 2023](https://VitaminDWiki.com/Overview+Asthma+and+Vitamin+D#Vitamin_D_is_cost-effective_to_give_to_asthmatic_children_in_Columbia_-_Feb_2023)
 

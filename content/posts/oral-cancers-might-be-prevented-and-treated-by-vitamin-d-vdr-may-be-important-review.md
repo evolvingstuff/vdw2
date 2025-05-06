@@ -31,7 +31,7 @@ Conclusions: The current evidence suggests an association between vitamin D defi
 
 ---
 
-#### VitaminDWiki <a href="/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019">A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019</a>
+#### VitaminDWiki [A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019](/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case)
 
 ---
 

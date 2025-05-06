@@ -57,21 +57,21 @@ Dr. Morris was forced to retire in 1980, at which time he became a consultant fo
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a> contains
+#### VitaminDWiki - [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki) contains
 
 * [Excess deaths after COVID vaccination - 17 countries - Sept 2023](/posts/excess-deaths-after-covid-vaccination-17-countries)
 
-* <a href="/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies">Sudden Infant Deaths (SIDS) soon after vaccination - several studies</a>
+* [Sudden Infant Deaths (SIDS) soon after vaccination - several studies](/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies)
 
 * [Vaccinated children have more health problems](/posts/vaccinated-children-have-more-health-problems)
 
 * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 
-* <a href="/posts/polio-vaccine-absolute-risk-reduction-was-only-001-percent-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Polio vaccine absolute risk reduction was only 0.01 percent - 2022">Polio vaccine absolute risk reduction was only 0.01 percent - 2022</a>
+* [Polio vaccine absolute risk reduction was only 0.01 percent - 2022](/posts/polio-vaccine-absolute-risk-reduction-was-only-001-percent-2022)
 
-* <a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a>
+* [Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies)
 
-* <a href="/posts/vaccinated-children-had-more-chronic-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccinated children had more chronic diseases - Sept 2018">Vaccinated children had more chronic diseases - Sept 2018</a>
+* [Vaccinated children had more chronic diseases - Sept 2018](/posts/vaccinated-children-had-more-chronic-diseases)
 
 * <a href="/posts/deaths-during-past-decade-measles-zero-measles-vaccines-100" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Deaths during past decade: Measles Zero, Measles Vaccines 100 - Feb 2015">Deaths during past decade: Measles Zero, Measles Vaccines 100 - Feb 2015</a>
 
@@ -81,9 +81,9 @@ Dr. Morris was forced to retire in 1980, at which time he became a consultant fo
 
 * <a href="/posts/researchers-found-flu-vaccine-increased-miscarriage-risk-by-7x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Researchers found flu vaccine increased miscarriage risk by 7X -Sept 2017">Researchers found flu vaccine increased miscarriage risk by 7X -Sept 2017</a>
 
-* <a href="/posts/why-vitamin-d-is-better-than-the-flu-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why Vitamin D is better than the Flu Vaccine – Nov 2018">Why Vitamin D is better than the Flu Vaccine – Nov 2018</a>
+* [Why Vitamin D is better than the Flu Vaccine – Nov 2018](/posts/why-vitamin-d-is-better-than-the-flu-vaccine)
 
-* <a href="/posts/vitamin-d-10-x-better-than-flu-vaccine-if-you-have-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D 10 x better than Flu Vaccine if you have very low vitamin D – Feb 2017">Vitamin D 10 x better than Flu Vaccine if you have very low vitamin D – Feb 2017</a>
+* [Vitamin D 10 x better than Flu Vaccine if you have very low vitamin D – Feb 2017](/posts/vitamin-d-10-x-better-than-flu-vaccine-if-you-have-very-low-vitamin-d)
 
 * <a href="/posts/flu-vaccine-effectiveness-and-side-effects" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Flu vaccine effectiveness and side effects">Flu vaccine effectiveness and side effects</a>
 

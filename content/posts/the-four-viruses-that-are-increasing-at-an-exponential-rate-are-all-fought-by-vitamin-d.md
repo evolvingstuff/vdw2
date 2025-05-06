@@ -25,13 +25,13 @@ categories:
 
 #### Many virus fought by Vitamin D
 
-* <a href="/posts/infectious-diseases-in-the-uk-so-far-this-year-omicron-h5-bird-flu-lassa-fever-h-eypox-and-polio" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infectious diseases in the UK so far this year: Omicron, H5 bird flu, Lassa fever, haemorrhagic fever, monkeypox, and polio – June 2022">Infectious diseases in the UK so far this year: Omicron, H5 bird flu, Lassa fever, haemorrhagic fever, monkeypox, and polio – June 2022</a>
+* [Infectious diseases in the UK so far this year: Omicron, H5 bird flu, Lassa fever, haemorrhagic fever, monkeypox, and polio – June 2022](/posts/infectious-diseases-in-the-uk-so-far-this-year-omicron-h5-bird-flu-lassa-fever-h-eypox-and-polio)
 
-* <a href="/posts/croup-due-to-viruses-has-surged-with-omicron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Croup (due to viruses) has surged with Omicron - March 2022">Croup (due to viruses) has surged with Omicron - March 2022</a>
+* [Croup (due to viruses) has surged with Omicron - March 2022](/posts/croup-due-to-viruses-has-surged-with-omicron)
 
-* <a href="/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory viral infection (RSV) and low vitamin D - many studies">Respiratory viral infection (RSV) and low vitamin D - many studies</a>
+* [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
 
-* <a href="/posts/low-vitamin-d-increases-the-risk-of-hepatitis-influenza-covid-19-aids-and-other-viral-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D increases the risk of hepatitis, influenza, Covid-19, AIDS and other viral diseases – Sept 2020">Low vitamin D increases the risk of hepatitis, influenza, Covid-19, AIDS and other viral diseases – Sept 2020</a>
+* [Low vitamin D increases the risk of hepatitis, influenza, Covid-19, AIDS and other viral diseases – Sept 2020](/posts/low-vitamin-d-increases-the-risk-of-hepatitis-influenza-covid-19-aids-and-other-viral-diseases)
 
 * <a href="/posts/vitamin-d-may-protect-against-ebola" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D may protect against Ebola">Vitamin D may protect against Ebola</a>
 
@@ -57,9 +57,9 @@ categories:
 
 * <a href="/posts/rotavirus-diarrhea-nearly-every-child-gets-it-is-strongly-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rotavirus diarrhea (nearly every child gets it) is strongly associated with low vitamin D – Aug 2015">Rotavirus diarrhea (nearly every child gets it) is strongly associated with low vitamin D – Aug 2015</a>
 
-* <a href="/posts/vitamin-d-does-not-prevent-all-viral-infections-enveloped-virus-not-mentioned" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D does not prevent all viral infections (enveloped virus not mentioned) – Jan 2019">Vitamin D does not prevent all viral infections (enveloped virus not mentioned) – Jan 2019</a>
+* [Vitamin D does not prevent all viral infections (enveloped virus not mentioned) – Jan 2019](/posts/vitamin-d-does-not-prevent-all-viral-infections-enveloped-virus-not-mentioned)
 
-* <a href="/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory viral infection (RSV) and low vitamin D - many studies">Respiratory viral infection (RSV) and low vitamin D - many studies</a>
+* [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
 
 * [Vitamin D was the most popular supplement during the COVID Pandemic – July 2023](/posts/vitamin-d-was-the-most-popular-supplement-during-the-covid-pandemic)
 

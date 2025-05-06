@@ -67,20 +67,20 @@ Vitamin D deficiency is a global public health concern with significant implicat
 
 1. Elderly have about 1/4 the absorption of Vitamin D from their intestines
 
-1. <a href="/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor absorption of Vitamin D is strongly related to type of gut bacteria – Dec 2020">Poor gut bacteria</a>
+1. [Poor gut bacteria](/posts/poor-absorption-of-vitamin-d-is-strongly-related-to-type-of-gut-bacteria)
 
-> <a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
+> [Vitamin D is aided by probiotics (review of RCTs) – Dec 2020](/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts)
 
  **See also: low response to fortification, oral, UV, etc** 
 
-* <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D - many studies</a>
+* [Response to Vitamin D - many studies](/posts/response-to-vitamin-d-many-studies)
 
 * <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
 
 * <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
 
-* <a href="/posts/increased-vitamin-d-response-if-take-cofactors-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased Vitamin D response if take cofactors, etc">Increased Vitamin D response if take cofactors, etc</a>
+* [Increased Vitamin D response if take cofactors, etc](/posts/increased-vitamin-d-response-if-take-cofactors-etc)
 
-* <a href="/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019">Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a>
+* [Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019](/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders)
 
 * <a href="/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015">Boron improves magnesium absorption and may help vitamin D non-responders – Aug 2015</a>

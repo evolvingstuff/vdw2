@@ -71,4 +71,4 @@ IMPLICATIONS OF ALL THE AVAILABLE EVIDENCE: Taken together with null findings fr
 
 * <a href="/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is needed by Vitamin D in 8 places - 2013">Magnesium is needed by Vitamin D in 8 places - 2013</a>
 
-* <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021">Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets</a>
+* [Younger children needed equiv. of 28,000 IU Vitamin D weekly to treat rickets](/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct)

@@ -41,7 +41,7 @@ The results of this study suggest that vitamin D deficiency and inadequacy might
 
 * [Menopause is earlier in black women (low vitamin D) - Aug 2023](/posts/menopause-is-earlier-in-black-women-low-vitamin-d)
 
-* <a href="/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Age of menopause increases if add vitamin D or UVB">Age of menopause increases if add vitamin D or UVB</a>
+* [Age of menopause increases if add vitamin D or UVB](/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb)
 
 * <a href="/posts/vitamin-d-and-menopause-a-narrative-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and menopause -A narrative review – July 2014">Vitamin D and menopause -A narrative review – July 2014</a>
 

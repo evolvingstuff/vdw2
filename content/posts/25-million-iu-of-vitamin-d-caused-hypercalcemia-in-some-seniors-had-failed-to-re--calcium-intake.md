@@ -36,4 +36,4 @@ Conclusion VDT can manifest with AMS as an initial presenting complaint. The ger
 
 ---
 
-##### Note: Successful <a href="/posts/comparing-high-dose-vitamin-d-therapies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing High-dose vitamin D therapies">High-dose vitamin D therapies</a> typically avoid hypercalcemia by just reducing Calcium intake
+##### Note: Successful [High-dose vitamin D therapies](/posts/comparing-high-dose-vitamin-d-therapies) typically avoid hypercalcemia by just reducing Calcium intake

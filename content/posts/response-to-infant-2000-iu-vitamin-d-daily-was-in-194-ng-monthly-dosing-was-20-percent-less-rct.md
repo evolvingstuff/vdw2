@@ -47,7 +47,7 @@ Conclusions: Both daily and monthly oral vitamin D3 in equivalent doses are effi
 
 * <a href="/posts/vitamin-d-every-25-days-may-be-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D every 25 days may be BETTER than daily – RCT May 2018">Vitamin D every 25 days may be BETTER than daily – RCT May 2018</a>
 
-* <a href="/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D dosing - weekly may be better than daily – video Aug 2018">Vitamin D dosing - weekly may be better than daily – video Aug 2018</a>
+* [Vitamin D dosing - weekly may be better than daily – video Aug 2018](/posts/vitamin-d-dosing-weekly-may-be-better-than-daily-video)
 
 * <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> has the following chart
 

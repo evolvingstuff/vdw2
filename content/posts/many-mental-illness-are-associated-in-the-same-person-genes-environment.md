@@ -39,7 +39,7 @@ categories:
 
 #### VitaminDWiki - <a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental Illness and Vitamin D">Mental Illness and Vitamin D</a>
 
-*  **<a href="/posts/mental-health-of-children-vast-majority-of-studies-reviewed-found-that-vitamin-d-helped" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental health of children: vast majority of studies reviewed found that vitamin D helped – March 2021">Mental health of children: vast majority of studies reviewed found that vitamin D helped – March 2021</a>** 
+*  **[Mental health of children: vast majority of studies reviewed found that vitamin D helped – March 2021](/posts/mental-health-of-children-vast-majority-of-studies-reviewed-found-that-vitamin-d-helped)** 
 
 ---
 
@@ -87,5 +87,5 @@ categories:
 
 #### VitaminDWiki - [Global burden of brain disorders surpasses cardiovascular disease and cancer - July 2023](/posts/global-burden-of-brain-disorders-surpasses-cardiovascular-disease-and-cancer)
 
-*  **<a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>** 
+*  **[Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)** 
 

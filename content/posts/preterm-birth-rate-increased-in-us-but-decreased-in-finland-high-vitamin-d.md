@@ -31,9 +31,9 @@ Joyce A. Martin, and Michelle J.K. Osterman, M.H.S.
 
 #### Finland appears to have the highest Vitamin D level in the world
 
- **<a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a>** 
+ **[After years of adding vitamin D, Finland now has 38 ng levels - March 2022](/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels)** 
 
- **<a href="/posts/95-percent-of-pregnant-women-in-finland-took-vitamin-d-phd-dissertation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 95 percent of pregnant women in Finland took vitamin D – PHD Dissertation Dec 2019">95 percent of pregnant women in Finland took vitamin D – PHD Dissertation Dec 2019</a>** 
+ **[95 percent of pregnant women in Finland took vitamin D – PHD Dissertation Dec 2019](/posts/95-percent-of-pregnant-women-in-finland-took-vitamin-d-phd-dissertation)** 
 
 ---
 

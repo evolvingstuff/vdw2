@@ -22,9 +22,9 @@ categories:
 
  **[The Deceptive Campaign for Bivalent Covid Boosters - WSJ Jan 2023](/posts/the-deceptive-campaign-for-bivalent-covid-boosters-wsj)** 
 
- **<a href="/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023">COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023</a>** 
+ **[COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023](/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk)** 
 
- **<a href="/posts/more-covid-vaccinations-more-infections-cleveland-clinic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022">More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022</a>** 
+ **[More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022](/posts/more-covid-vaccinations-more-infections-cleveland-clinic)** 
 
  **[NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023](/posts/nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years)** 
 

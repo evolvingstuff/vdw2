@@ -1,0 +1,24 @@
+---
+title: "Vitamin K1 or Vitamin K2 may decrease COVID-19 deaths"
+slug: "vitamin-k1-or-vitamin-k2-may-decrease-covid-19-deaths"
+aliases:
+  - "/Vitamin+K1+or+Vitamin+K2+may+decrease+COVID-19+deaths+-+Feb+2021"
+  - "/tiki-index.php?page_id=12506"
+date: 2021-04-16
+categories:
+  - "Vitamin D and Vitamin K"
+  - "Virus"
+---
+
+
+#### Potential Beneficial Effects of Vitamin K in SARS-CoV-2 Induced Vascular Disease? - Feb 2021
+
+ **[<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki](/attachments/d3.mock.pdf)** 
+
+---
+
+#### [RCT to Investigate Effects of Vitamin K2 in COVID-19 (KOVIT)](https://www.clinicaltrials.gov/ct2/show/NCT04770740?term=NCT04770740) Clinical Trials.gov
+
+ **K2 MK7, 1 gram/day while in hospital in Netherlands, trial completion Oct 2021** 
+
+Thanks to Hilja Gebest for pointing out these two items

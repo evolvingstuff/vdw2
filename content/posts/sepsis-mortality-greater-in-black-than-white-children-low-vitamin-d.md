@@ -24,15 +24,15 @@ The word vitamin does not occur even once on the page
 
 #### Blacks have lower levels of Vitamin D than whites
 
-* <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021">African American Health Disparities are associated with low Vitamin D - Grant Feb 2021</a>
+* [African American Health Disparities are associated with low Vitamin D - Grant Feb 2021](/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant)
 
-* <a href="/posts/darker-skin-health-disparities-might-be-eliminated-by-vitamin-d-no-surprise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Darker Skin Health Disparities might be eliminated by Vitamin D (no surprise) - April 2022">Darker Skin Health Disparities might be eliminated by Vitamin D (no surprise) - April 2022</a>
+* [Darker Skin Health Disparities might be eliminated by Vitamin D (no surprise) - April 2022](/posts/darker-skin-health-disparities-might-be-eliminated-by-vitamin-d-no-surprise)
 
-* <a href="/posts/covid-19-mortality-for-blacks-is-5x-that-for-whites-in-2-la-hospitals" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals - July 2021">COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals - July 2021</a>
+* [COVID-19 mortality for Blacks is 5X that for whites in 2 LA Hospitals - July 2021](/posts/covid-19-mortality-for-blacks-is-5x-that-for-whites-in-2-la-hospitals)
 
 * [Preterm Birth 2.7X more likely if low vitamin D (dark skin in this case) - Nov 2023](/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case)
 
-* <a href="/posts/cancer-continues-to-be-more-deadly-for-blacks-than-whites-hint-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022">Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022</a>
+* [Cancer continues to be more deadly for Blacks than Whites (hint – low Vitamin D) – May 2022](/posts/cancer-continues-to-be-more-deadly-for-blacks-than-whites-hint-low-vitamin-d)
 
 * [Dark-skinned children 3.4 X more likely to die after surgery than white skinned children](https://www.nytimes.com/2020/07/20/science/black-children-surgery-deaths.html) NYT July 20, 2020
 

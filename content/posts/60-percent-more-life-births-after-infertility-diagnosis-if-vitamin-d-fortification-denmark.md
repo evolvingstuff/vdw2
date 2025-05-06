@@ -1,0 +1,11 @@
+---
+title: "60 percent more life births after infertility diagnosis if Vitamin D fortification (Denmark)"
+slug: "60-percent-more-life-births-after-infertility-diagnosis-if-vitamin-d-fortification-denmark"
+aliases:
+  - "/60+percent+more+life+births+after+infertility+diagnosis+if+Vitamin+D+fortification+Denmark+-+Nov+2019"
+  - "/tiki-index.php?page_id=11386"
+date: 2019-11-24
+categories:
+  - "old name"
+---
+

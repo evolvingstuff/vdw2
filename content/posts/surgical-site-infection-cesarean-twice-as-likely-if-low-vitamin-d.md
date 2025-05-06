@@ -33,6 +33,6 @@ Conclusion: This study provides important evidence supporting the relationship b
 
 ---
 
-#### VitaminDWiki - <a href="/posts/infections-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infections and low vitamin D">Infections and low vitamin D</a>
+#### VitaminDWiki - [Infections and low vitamin D](/posts/infections-and-low-vitamin-d)
 
 <!-- ~tc~ (alias(Surgical Site Infection (Cesarian) twice a likely if low Vitamin D - Jan 2024)) ~/tc~ -->

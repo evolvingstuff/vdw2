@@ -70,6 +70,6 @@ Other problems included
 
 #### Having enough Vitamin D is important for women
 
-*  **<a href="/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is indispensable for the health of women - editorial June 2022">Vitamin D is indispensable for the health of women - editorial June 2022</a>** 
+*  **[Vitamin D is indispensable for the health of women - editorial June 2022](/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial)** 
 
 *  **<a href="/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALL of the top 10 health problems of women are associated with low vitamin D">ALL of the top 10 health problems of women are associated with low vitamin D</a>** 

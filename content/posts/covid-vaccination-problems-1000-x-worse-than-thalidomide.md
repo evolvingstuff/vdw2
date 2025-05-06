@@ -35,11 +35,11 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a> 260+ pages
+#### VitaminDWiki - [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki) 260+ pages
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### VitaminDWiki - [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 <!-- ~tc~ (alias(COViD vaccination problems 1000 X worse than Thalidomde problems - Dec 2023)) ~/tc~ -->
 

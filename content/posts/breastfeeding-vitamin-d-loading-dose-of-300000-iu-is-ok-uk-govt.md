@@ -154,6 +154,6 @@ If there is no published clinical evidence, assessments are based on: pharmacody
 
  **Which includes** 
 
-* <a href="/posts/monthly-120000-iu-of-vitamin-d-while-breastfeeding-was-good-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022">Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022</a>
+* [Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022](/posts/monthly-120000-iu-of-vitamin-d-while-breastfeeding-was-good-rct)
 
-* <a href="/posts/6400-iu-of-vitamin-d-is-safe-and-effective-during-breastfeeding-rct-dec-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020">6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020</a>
+* [6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020](/posts/6400-iu-of-vitamin-d-is-safe-and-effective-during-breastfeeding-rct-dec-2020)

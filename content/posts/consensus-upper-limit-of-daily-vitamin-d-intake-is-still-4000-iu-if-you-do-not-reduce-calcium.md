@@ -1,0 +1,13 @@
+---
+title: "Consensus: Upper Limit of daily Vitamin D intake is still 4,000 IU (if you do not reduce Calcium)"
+slug: "consensus-upper-limit-of-daily-vitamin-d-intake-is-still-4000-iu-if-you-do-not-reduce-calcium"
+aliases:
+  - "/Consensus+Upper+Limit+of+daily+Vitamin+D+intake+is+still+4000+IU+if+you+do+not+reduce+Calcium+–+Aug+2020"
+  - "/tiki-index.php?page_id=12150"
+date: 2020-12-17
+categories:
+  - "Supplement"
+  - "Vitamin D and Calcium"
+  - "Consensus"
+---
+

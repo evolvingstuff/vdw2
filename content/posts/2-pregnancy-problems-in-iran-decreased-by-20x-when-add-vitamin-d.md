@@ -52,7 +52,7 @@ Previous publications of this study
 
 #### See also VitaminDWiki
 
-* <a href="/posts/preeclampsia-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by Vitamin D - many studies">Preeclampsia & Vitamin D: >55 studies</a>
+* [Preeclampsia & Vitamin D: >55 studies](/posts/preeclampsia-reduced-by-vitamin-d-many-studies)
 
 * <a href="/posts/preterm-birth-116-studies" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14440">Preterm birth >116 studies</a>
 

@@ -85,9 +85,9 @@ Low vitamin D concentrations are a causal factor for multiple noncommunicable ch
 
 #### A few VitaminDWiki items that have OBSERVATIONAL in their title
 
-<a href="/posts/comparing-vitamin-d-randomized-controlled-trials-and-observational-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Comparing Vitamin D Randomized controlled Trials and Observational studies – Sept 2022">Comparing Vitamin D Randomized controlled Trials and Observational studies – Sept 2022</a> Dr. Grant
+[Comparing Vitamin D Randomized controlled Trials and Observational studies – Sept 2022](/posts/comparing-vitamin-d-randomized-controlled-trials-and-observational-studies) Dr. Grant
 
-<a href="/posts/vitamin-d-and-covid-19-observational-studies-found-it-helps-never-hurts-campbell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and COVID-19 - observational studies found it helps, never hurts - Campbell Oct 31, 2020">Vitamin D and COVID-19 - observational studies found it helps, never hurts - Campbell Oct 31, 2020</a>
+[Vitamin D and COVID-19 - observational studies found it helps, never hurts - Campbell Oct 31, 2020](/posts/vitamin-d-and-covid-19-observational-studies-found-it-helps-never-hurts-campbell)
 
 <a href="/posts/off-topic-for-proof-random-controlled-and-observational-trials-should-agree" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: For proof: Random Controlled and Observational Trials should agree– May 2013">Off topic: For proof: Random Controlled and Observational Trials should agree– May 2013</a>
 

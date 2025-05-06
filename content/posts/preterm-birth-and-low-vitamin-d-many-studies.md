@@ -22,7 +22,7 @@ categories:
 
 * Low Omega-3
 
-* <a href="/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019">Poor vitamin D receptor</a>
+* [Poor vitamin D receptor](/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor)
 
 * [Dark Skin](/posts/preterm-birth-27x-more-likely-if-low-vitamin-d-dark-skin-in-this-case)
 
@@ -30,11 +30,11 @@ categories:
 
  **Preterm birth rates decrease when add** 
 
-* <a href="/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth interventions – 4 studies found possible vitamin D benefit – Cochrane – Nov 2018">Vitamin D</a> (if low, and most people are)
+* [Vitamin D](/posts/preterm-birth-interventions-4-studies-found-possible-vitamin-d-benefit-cochrane) (if low, and most people are)
 
-* <a href="/posts/preterm-birth-decreased-by-omege-3-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth decreased by Omege-3, etc. - many studies">Omega-3</a> (if low Omega-3 index, like most people)
+* [Omega-3](/posts/preterm-birth-decreased-by-omege-3-etc-many-studies) (if low Omega-3 index, like most people)
 
-* <a href="/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019">Zinc</a> (small decrease)
+* [Zinc](/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d) (small decrease)
 
 * [VDR activator](/categories/vitamin-d-receptor) (not yet proven)
 

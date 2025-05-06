@@ -23,9 +23,9 @@ Appears to refer to: [Monitoring reports of the effectiveness of COVID-19 vaccin
 
 #### See related VitaminDWiki
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
-* <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+* [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 * [800x Higher Incidence of Myocardial Injury After Booster Vaccination - July 2023](/posts/800x-higher-incidence-of-myocardial-injury-after-booster-vaccination)
 

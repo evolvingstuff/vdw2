@@ -89,7 +89,7 @@ A sustained dietary change may give substantial health gains for people of all a
 
 ---
 
-#### VitaminDWiki - <a href="/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise">What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise</a>
+#### VitaminDWiki - [What is the easiest way to get healthy: Vitamin D, Healthy Food, or Exercise](/posts/what-is-the-easiest-way-to-get-healthy-vitamin-d-healthy-food-or-exercise)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
@@ -101,9 +101,9 @@ A sustained dietary change may give substantial health gains for people of all a
 
    * [76 minute video describing the book](https://nutritionfacts.org/video/how-not-to-age-live-presentation/)
 
-* <a href="/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019">Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019</a>
+* [Live 14 years longer with healthy lifestyle (2 years longer if good vitamin D) – Dr. Greger Oct 2019](/posts/live-14-years-longer-with-healthy-lifestyle-2-years-longer-if-good-vitamin-d-dr-greger)
 
-* <a href="/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ">Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) </a>
+* [Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ](/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets)
 
 <!-- ~tc~ (alias(Good diet leads to longer and healthier life)) ~/tc~ -->
 

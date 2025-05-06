@@ -30,7 +30,7 @@ Coronavirus disease 2019 (COVID-19) vaccines are associated with several ocular 
 
 ---
 
-#### 278+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### 278+ [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 including: [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 

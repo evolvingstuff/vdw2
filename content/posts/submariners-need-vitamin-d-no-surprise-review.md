@@ -39,7 +39,7 @@ Prospero registration number: CRD42022287057.
 
 * <a href="/posts/1700-iu-vitamin-d-50000-monthly-helped-antarctic-explorers-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012">1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012</a>
 
-* <a href="/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Simulated Mars trip ran low on vitamin D (no supplements, no UV) – Sept 2019">Simulated Mars trip ran low on vitamin D (no supplements, no UV) – Sept 2019</a>
+* [Simulated Mars trip ran low on vitamin D (no supplements, no UV) – Sept 2019](/posts/simulated-mars-trip-ran-low-on-vitamin-d-no-supplements-no-uv)
 
 * <a href="/posts/nasa-might-save-700000-dollars-a-day-by-giving-astronauts-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: NASA might save 700,000 dollars a day by giving astronauts enough Vitamin D">NASA might save 700,000 dollars a day by giving astronauts enough Vitamin D</a>
 

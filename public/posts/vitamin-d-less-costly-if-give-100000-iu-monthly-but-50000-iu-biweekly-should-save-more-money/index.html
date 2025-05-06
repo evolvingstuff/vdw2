@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vitamin D less costly if give 100,000 IU monthly (but 50,000 IU biweekly should save more money)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542387">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542387">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542387"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Vitamin D less costly if give 100,000 IU monthly (but 50,000 IU biweekly should save more money)</h1>
+        <time>July 16, 2019</time>
+        <h4 id="can-a-different-formulation-of-vitamin-d3-allow-savings-an-analysis-from-an-italian-regional-perspective">Can a Different Formulation of Vitamin D3 Allow Savings? An Analysis From an Italian Regional Perspective</h4>
+<p>Health Services Research and Managerial Epidemiology Volume 6: 1-8</p>
+<p>Mario Sanò), Patrizia Dutto1, Stefano D’Anna1, and Carla Rognoni  <a href="mailto:carla.rognoni@unibocconi.it">carla.rognoni@unibocconi.it</a></p>
+<ol>
+<li>
+<p>ASL CN2 Alba-Bra, Farmacia Ospedaliera e Servizio Farmaceutico Territoriale</p>
+</li>
+<li>
+<p>Centre for Research on Health and Social Care Management (CERGAS), SDA Bocconi School of Management, Bocconi University, Milan, Italy</p>
+</li>
+</ol>
+<p>Vitamin D3 reported in Italy in 2017 the net expenditure of almost €180 million, reaching the first place for consumption and the third place for conventional pharmaceutical spending. The aim of the study was to evaluate whether a shift of vitamin D3 prescriptions toward 100 000 IU formulation, less costly, could allow savings from the health-care perspective. An approach promoting the prescription of this formulation has been applied in a local health authority (ASL CN2) in Piedmont Region (Italy) starting from 2015. The retail pharmaceutical market and the consumption of vitamin D3 has been analyzed from year 2014 to 2017 in order to evaluate differences in expenditures. Despite an increase in consumption, the introduction of the new formulation enabled ASL CN2 to save about €280 000 in 2017 considering the regional average expenditure per 1000 inhabitants as a reference. If Piedmont Region had presented an average expenditure in line with that of ASL CN2, the annual regional savings would have exceeded €7 million in 2017 alone. A shift of vitamin D3 prescriptions toward 100 000 IU formulations would allow reducing costs from the payer perspective. Savings may be used to contain public pharmaceutical expenditure or can be allocated to fund other health-care technologies and services.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki</a></strong></p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542387"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542387',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542387'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542387"></script>
+    <script src="/js/search-results-panel.js?v=1746542387"></script>
+</body>
+</html>

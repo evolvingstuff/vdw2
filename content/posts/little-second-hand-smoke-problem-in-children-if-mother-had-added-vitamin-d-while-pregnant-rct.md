@@ -75,6 +75,6 @@ Our study indicates that cumulative TSE, reflected by increased plasma cotinine 
 
 *  **<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>** 
 
-*  **<a href="/posts/low-vitamin-d-is-worse-for-your-health-than-smoking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Vitamin D is worse for your health than smoking">Low Vitamin D is worse for your health than smoking</a>** 
+*  **[Low Vitamin D is worse for your health than smoking](/posts/low-vitamin-d-is-worse-for-your-health-than-smoking)** 
 
 <!-- ~tc~ (alias(No second-hand smoke problem in children if had good first-hand vitamin D as a fetus – Feb 2023)) ~/tc~ -->

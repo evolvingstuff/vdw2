@@ -33,6 +33,6 @@ Mediation analysis showed a 16.3% contribution of maternal hsCRP to the relation
 
 * <a href="/posts/air-pollution-while-pregnant-reduced-vitamin-d-level-in-infant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution while pregnant reduced vitamin D level in infant – Aug 2012">Air pollution while pregnant reduced vitamin D level in infant – Aug 2012</a>
 
-* <a href="/posts/air-pollution-while-pregnant-associated-with-lower-vitamin-d-perhaps-indoors-more" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution while pregnant associated with lower vitamin D (perhaps indoors more) – March 2019">Air pollution while pregnant associated with lower vitamin D (perhaps indoors more) – March 2019</a>
+* [Air pollution while pregnant associated with lower vitamin D (perhaps indoors more) – March 2019](/posts/air-pollution-while-pregnant-associated-with-lower-vitamin-d-perhaps-indoors-more)
 
-* <a href="/posts/air-pollution-decreases-vitamin-d-levels-while-pregnant-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution decreases Vitamin D levels (while pregnant in this case) – July 2022">Air pollution decreases Vitamin D levels (while pregnant in this case) – July 2022</a>
+* [Air pollution decreases Vitamin D levels (while pregnant in this case) – July 2022](/posts/air-pollution-decreases-vitamin-d-levels-while-pregnant-in-this-case)

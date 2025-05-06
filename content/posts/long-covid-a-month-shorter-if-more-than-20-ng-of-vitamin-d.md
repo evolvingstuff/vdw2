@@ -41,7 +41,7 @@ The non-use of antivirals, lower 25(OH)D3 levels, leukocytosis, FVC < 90% predic
 
 ---
 
-#### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### VitaminDWiki - [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 which contains:  **Long COVID associated with Low Vitamin D – Oct 2023** 
 

@@ -46,8 +46,8 @@ Discussion: This study indicates that psoriasis patients with insufficient (21-2
 
 #### See also VitaminDWiki
 
-* <a href="/posts/micronutrients-such-as-vitamin-d-should-improve-vaccine-effectiveness-and-decrease-side-effects" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Micronutrients such as vitamin D should improve vaccine effectiveness (and decrease side effects) – April 2022">Micronutrients such as vitamin D should improve vaccine effectiveness (and decrease side effects) – April 2022</a>
+* [Micronutrients such as vitamin D should improve vaccine effectiveness (and decrease side effects) – April 2022](/posts/micronutrients-such-as-vitamin-d-should-improve-vaccine-effectiveness-and-decrease-side-effects)
 
-* <a href="/posts/covid-vaccination-makes-6x-more-antibodies-in-those-having-good-levels-of-both-vitamin-d-and-iron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination makes 6X more antibodies in those having good levels of both vitamin D and Iron – June 2021">COVID vaccination makes 6X more antibodies in those having good levels of both vitamin D and Iron – June 2021</a>
+* [COVID vaccination makes 6X more antibodies in those having good levels of both vitamin D and Iron – June 2021](/posts/covid-vaccination-makes-6x-more-antibodies-in-those-having-good-levels-of-both-vitamin-d-and-iron)
 
-* <a href="/posts/vitamin-d-might-augment-covid-19-vaccines-6-papers-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might augment COVID-19 vaccines – 6 papers as of Dec 2021">Vitamin D might augment COVID-19 vaccines – 6 papers as of Dec 2021</a>
+* [Vitamin D might augment COVID-19 vaccines – 6 papers as of Dec 2021](/posts/vitamin-d-might-augment-covid-19-vaccines-6-papers-as-of)

@@ -124,4 +124,4 @@ We identified an association of increased incidence of CM and vitamin D insuffic
 
 ---
 
-#### VitaminDWiki - <a href="/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma might be suppressed by Vitamin D - many studies">Melanoma might be suppressed by Vitamin D - many studies</a>
+#### VitaminDWiki - [Melanoma might be suppressed by Vitamin D - many studies](/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies)

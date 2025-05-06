@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>The higher the BMI, the lower the Vitamin D, with some difference between men and women</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542364">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542364">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542364"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>The higher the BMI, the lower the Vitamin D, with some difference between men and women</h1>
+        <time>December 30, 2019</time>
+        <h4 id="sex-differences-of-vitamin-d-status-across-bmi-classes-an-observational-prospective-cohort-study">Sex Differences of Vitamin D Status across BMI Classes: An Observational Prospective Cohort Study</h4>
+<p>Nutrients 2019, 11(12), 3034; <a href="https://doi.org/10.3390/nu11123034">https://doi.org/10.3390/nu11123034</a></p>
+<p>Giovanna Muscogiuri †,Luigi Barrea *,†,Carolina Di Somma,Daniela Laudisio,Ciro Salzano,Gabriella Pugliese,Giulia de Alteriis,Annamaria Colao and Silvia Savastano</p>
+<p>Dipartimento di Medicina Clinica e Chirurgia, Unit of Endocrinology, Federico II University Medical School of Naples, Via Sergio Pansini 5, 80131 Naples, Italy</p>
+<p>(This article belongs to the <a href="https://www.mdpi.com/journal/nutrients/special_issues/VitaminD_Obesity%20">Special Issue Vitamin D and Obesity</a>)</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki</a></strong></p>
+<p>Growing evidence reported that vitamin D deficiency is a common finding in obesity. Vitamin D status also seems to be sex-related, although little is known regarding this association. Therefore, the aim of this study was to investigate the sex-related differences of serum 25OH vitamin D (25OHD) concentrations across body mass index (BMI) classes and, if there were any differences, whether they could be explained by sex-related differences in body composition. We enrolled 500 subjects (250 males, age 37.4 ± 11.8 years; 250 females, age 36.6 ± 11.8 years). Body composition was assessed by bioelectrical impedance analysis (BIA) phase-sensitive system. Serum 25OHD concentration was quantified by a direct, competitive chemiluminescence immunoassay. Vitamin D deficiency was defined as a serum 25OHD concentrations &lt; 20 ng/mL (50 nmol/L). Stratifying the sample population according to sex and BMI categories, 25OHD concentrations were significantly higher in males compared to females in all BMI classes and decreased along with the increase of BMI values. Females with vitamin D deficiency had higher fat mass (FM) % compared to males with vitamin D deficiency. The 25OHD concentrations inversely correlated with FM % in both sexes. In a multiple regression analysis model, sex, FM %, and BMI were predictive factors of 25OHD concentration. In conclusion, our study suggests that 25OHD concentrations were lower in females than males across all BMI categories. Given the tight correlation between 25OHD concentrations and FM %, it can be hypothesized that the lower 25OHD concentrations in females than males can be explained by the fact that females have a higher amount of fat than males.</p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542365"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542365',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542365'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542365"></script>
+    <script src="/js/search-results-panel.js?v=1746542365"></script>
+</body>
+</html>

@@ -14,7 +14,7 @@ categories:
 
 <!-- ~tc~ start ~/tc~ -->
 
-<a href="/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Kidney Disease decreases Vitamin D in 4 ways – Nov 2017">Chronic Kidney Disease decreases Vitamin D level in 4 ways</a>
+[Chronic Kidney Disease decreases Vitamin D level in 4 ways](/posts/chronic-kidney-disease-decreases-vitamin-d-in-4-ways)
 
 <a href="/posts/4x-more-chronic-kidney-disease-patients-are-now-using-vitamin-d-march-2014-vitam--d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X more Chronic Kidney disease patients are now using vitamin D – March 2014))
 ((Vitamin D testers have different test results if there is chronic kidney disease – Sept 2019))
@@ -24,14 +24,14 @@ Low vitamin D causes many health problems, such as weak bones
 
 Want to have good Vitamin D levels to prevent CKD from causing other health problems
 
-Higher vitamin D levels can treat CKD <a href="/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019">50 ng</a> &nbsp; <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012">80 ng</a>
+Higher vitamin D levels can treat CKD [50 ng](/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng) &nbsp; <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012">80 ng</a>
 
-<a href="/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D treatment of Chronic Kidney Disease: monthly better than daily – RCT May 2022">Monthly dosing appears better than daily for CKD</a> and many other health problems
+[Monthly dosing appears better than daily for CKD](/posts/vitamin-d-treatment-of-chronic-kidney-disease-monthly-better-than-daily-rct) and many other health problems
 
-<a href="/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K2 MK- 7 not as available if have Chronic Kidney Disease - Nov 2021">CKD also decreases Vitamin K2-7</a>
+[CKD also decreases Vitamin K2-7](/posts/vitamin-k2-mk-7-not-as-available-if-have-chronic-kidney-disease)
 
 Form of vitamin D to be used; normal, <a href="/posts/calcitriol-or-synthetic-non-oral-form-is-often-better-for-ckd-topical-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcitriol)), or synthetic
-Non-oral form is often better for CKD ( ((Topical Vitamin D">topical</a>, <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">emulsion swished in mouth</a>, <a href="/posts/vitamin-d3-patch-expensive-many-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Patch - expensive, many available">patch</a> [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&keywords=%22vitamin%2Bd%22%2Bpatch&qid=1681836167&sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&sr=8-7&th=1), etc)
+Non-oral form is often better for CKD ( ((Topical Vitamin D">topical</a>, <a href="/posts/nanoemulsion-vitamin-d-may-be-a-substantially-better-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D may be a substantially better form">emulsion swished in mouth</a>, [patch](/posts/vitamin-d3-patch-expensive-many-available) [cream](https://www.amazon.com/All-Natural-Vitamin-10000IU-Cream/dp/B071DHCTMT/ref=sr_1_7?crid=US845WQLUDJJ&keywords=%22vitamin%2Bd%22%2Bpatch&qid=1681836167&sprefix=vitamin%2Bd%2Bpatch%2Caps%2C176&sr=8-7&th=1), etc)
 
 <!-- ~tc~ end ~/tc~ -->
 
@@ -71,6 +71,6 @@ Vitamin D supplements have long been advocated for people with chronic kidney di
 
 * <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012">Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012</a>
 
-* <a href="/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019">More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019</a>
+* [More than 30 ng of vitamin D is sometimes needed (Kidney needs 50 ng) – March 2019](/posts/more-than-30-ng-of-vitamin-d-is-sometimes-needed-kidney-needs-50-ng)
 
 * See also: <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>

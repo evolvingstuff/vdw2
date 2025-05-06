@@ -55,12 +55,12 @@ This assumes no vitamin D supplementation by supplements, sun, etc.
 
 ---
 
-#### <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a> faster than Calcidiol?, on Amazon
+#### [Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies) faster than Calcidiol?, on Amazon
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700">
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a> includes 11+ videos by Dr. Campbell
+#### VitaminDWiki - [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies) includes 11+ videos by Dr. Campbell
 
 <!-- ~tc~ (alias(COVID, Vitamin D, Drs, Grimes and Campbell - Jan 2024)) ~/tc~ -->

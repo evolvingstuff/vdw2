@@ -1,0 +1,12 @@
+---
+title: "COVID-19 deaths - 30 percent fewer if high UVA (US, etc)"
+slug: "covid-19-deaths-30-percent-fewer-if-high-uva-us-etc"
+aliases:
+  - "/COVID-19+deaths+-+30+percent+fewer+if+high+UVA+US+etc+–+Aug+2021"
+  - "/tiki-index.php?page_id=12941"
+date: 2021-09-29
+categories:
+  - "UV and Vitamin D"
+  - "Virus"
+---
+

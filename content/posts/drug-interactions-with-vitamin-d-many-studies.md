@@ -18,15 +18,15 @@ In rare cases Vitamin D reduces the benefit of a drug**
 
 #### 9 drug interaction studies in VitaminDWiki
 
-<a href="/posts/common-drugs-as-vitamin-d-disruptors-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020">Common drugs as vitamin D disruptors – 2020</a>
+[Common drugs as vitamin D disruptors – 2020](/posts/common-drugs-as-vitamin-d-disruptors-2020)
 
-<a href="/posts/vitamin-d-generally-improves-the-efficacy-of-drugs-while-reducing-their-adverse-effects" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D generally improves the efficacy of drugs while reducing their adverse effects – Jan 2020">Vitamin D generally improves the efficacy of drugs while reducing their adverse effects – Jan 2020</a>
+[Vitamin D generally improves the efficacy of drugs while reducing their adverse effects – Jan 2020](/posts/vitamin-d-generally-improves-the-efficacy-of-drugs-while-reducing-their-adverse-effects)
 
-<a href="/posts/24-drugs-that-typically-reduce-vitamin-d-levels-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 24 drugs that typically reduce Vitamin D levels – Review Aug 2021">24 drugs that typically reduce Vitamin D levels – Review Aug 2021</a>
+[24 drugs that typically reduce Vitamin D levels – Review Aug 2021](/posts/24-drugs-that-typically-reduce-vitamin-d-levels-review)
 
-<a href="/posts/interaction-of-drugs-with-vitamin-d-magnesium-vitamin-b12-selenium-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Interaction of drugs with Vitamin D, Magnesium, Vitamin B12, Selenium, etc – Dec 2018">Interaction of drugs with Vitamin D, Magnesium, Vitamin B12, Selenium, etc – Dec 2018</a>
+[Interaction of drugs with Vitamin D, Magnesium, Vitamin B12, Selenium, etc – Dec 2018](/posts/interaction-of-drugs-with-vitamin-d-magnesium-vitamin-b12-selenium-etc)
 
-<a href="/posts/some-drugs-change-potency-when-vitamin-d-is-increased-increase-in-a-hormone" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some drugs change potency when Vitamin D is increased (increase in a hormone) ">Some drugs change potency when Vitamin D is increased (increase in a hormone) </a>
+[Some drugs change potency when Vitamin D is increased (increase in a hormone) ](/posts/some-drugs-change-potency-when-vitamin-d-is-increased-increase-in-a-hormone)
 
 <a href="/posts/glucocorticoid-treatment-reduces-vitamin-d-getting-to-cells-via-3-or-4-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glucocorticoid treatment reduces Vitamin D getting to cells via 3 or 4 genes">Glucocorticoid treatment reduces Vitamin D getting to cells via 3 or 4 genes</a>
 
@@ -38,7 +38,7 @@ In rare cases Vitamin D reduces the benefit of a drug**
 
 ---
 
-#### <a href="/posts/endocrine-disrupting-chemicals-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endocrine Disrupting Chemicals - book April 2019">Endocrine Disrupting Chemicals - book April 2019</a> contains:
+#### [Endocrine Disrupting Chemicals - book April 2019](/posts/endocrine-disrupting-chemicals-book) contains:
 
 | | | |
 | --- | --- | --- |

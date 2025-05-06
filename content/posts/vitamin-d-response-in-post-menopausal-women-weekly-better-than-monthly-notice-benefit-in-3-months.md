@@ -35,7 +35,7 @@ Conclusions: Supplementation with calcifediol is more effective and faster compa
 
 ---
 
-#### VitaminDWiki - <a href="/posts/5000-or-10000-iu-vitamin-d-for-7-years-both-safe-and-effective-4700-patients-8-months-to-plateau" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5,000 or 10,000 IU Vitamin D for 7 years both safe and effective (4700 patients, 8 months to plateau) – Jan 2019">5,000 or 10,000 IU Vitamin D for 7 years both safe and effective (4700 patients, 8 months to plateau) – Jan 2019</a>
+#### VitaminDWiki - [5,000 or 10,000 IU Vitamin D for 7 years both safe and effective (4700 patients, 8 months to plateau) – Jan 2019](/posts/5000-or-10000-iu-vitamin-d-for-7-years-both-safe-and-effective-4700-patients-8-months-to-plateau)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

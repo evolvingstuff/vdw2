@@ -1,0 +1,11 @@
+---
+title: "2,000 IU of Vitamin D raised all girls to above 20 ng (India) – RCT"
+slug: "2000-iu-of-vitamin-d-raised-all-girls-to-above-20-ng-india-rct"
+aliases:
+  - "/2000+IU+of+Vitamin+D+raised+all+girls+to+above+20+ng+India+–+RCT+Nov+2018"
+  - "/tiki-index.php?page_id=10343"
+date: 2018-12-28
+categories:
+  - "old name"
+---
+

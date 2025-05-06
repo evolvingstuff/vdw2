@@ -21,7 +21,7 @@ categories:
 
 1. Have genes that restrict the amount [getting to cells](/categories/genetics)
 
-> Measurement of <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH may be a proxy for Vitamin D level in cells</a>
+> Measurement of [PTH may be a proxy for Vitamin D level in cells](/posts/pth-and-vitamin-d-many-studies)
 
 > One of the genes, that deactivates the Vitamin D Receptor, [can be activated 16+ ways](/categories/vitamin-d-receptor)
 
@@ -29,9 +29,9 @@ categories:
 
 1. Have a disease that consumes a lot of Vitamin D
 
-1. Have a disease that is associated with poor Vitamin D response ( <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Asthma</a>, etc.)
+1. Have a disease that is associated with poor Vitamin D response ( [Asthma](/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d), etc.)
 
-1. Have a disease that can only be fought by <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">|high levels of Vitamin D</a> (such as MS, psoriasis)
+1. Have a disease that can only be fought by [|high levels of Vitamin D](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies) (such as MS, psoriasis)
 
 1. Have a disease that deactivates the [Vitamin D Receptor](/categories/vitamin-d-receptor) (COVID, Breast Cancer, etc)
 
@@ -41,7 +41,7 @@ categories:
 
 1. <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking</a>
 
-1. Taking <a href="/posts/common-drugs-as-vitamin-d-disruptors-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common drugs as vitamin D disruptors – 2020">drugs that reduce Vitamin D</a>
+1. Taking [drugs that reduce Vitamin D](/posts/common-drugs-as-vitamin-d-disruptors-2020)
 
 1. Having a medical procedure that decreases Vitamin D level (Dialysis, surgery, etc.)
 
@@ -91,11 +91,11 @@ different dose size, [different form](/categories/forms-of-vitamin-d), <a href="
 
 ---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-not-one-size-type-form-route-for-all" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: not one size, type, form, route for all - Jan 2022">Vitamin D: not one size, type, form, route for all - Jan 2022</a>
+#### VitaminDWiki – [Vitamin D: not one size, type, form, route for all - Jan 2022](/posts/vitamin-d-not-one-size-type-form-route-for-all)
 
 ---
 
-#### VitaminDWiki – <a href="/posts/increased-vitamin-d-response-if-take-cofactors-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased Vitamin D response if take cofactors, etc">Increased Vitamin D response if take cofactors, etc</a>
+#### VitaminDWiki – [Increased Vitamin D response if take cofactors, etc](/posts/increased-vitamin-d-response-if-take-cofactors-etc)
 
 ---
 
@@ -103,7 +103,7 @@ different dose size, [different form](/categories/forms-of-vitamin-d), <a href="
 
 ---
 
-#### VitaminDWiki – <a href="/posts/pth-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PTH and Vitamin D - many studies">PTH and Vitamin D - many studies</a>
+#### VitaminDWiki – [PTH and Vitamin D - many studies](/posts/pth-and-vitamin-d-many-studies)
 
 PTH bottoming out shows that Vitamin D got to cells: not restricted by 5 genes nor Magnesium
 

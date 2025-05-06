@@ -27,6 +27,6 @@ Both vegetarians and vegans have lower concentrations of 25(OH)D if unsupplement
 
 #### VitaminDWiki
 
-* <a href="/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ">Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) </a>
+* [Not a single case of multiple sclerosis in 15,000,000 people (plant-based diets) ](/posts/not-a-single-case-of-multiple-sclerosis-in-15000000-people-plant-based-diets)
 
-* <a href="/posts/severe-covid-19-risk-similarly-reduced-by-vitamin-d-and-plant-based-diets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Severe COVID-19 risk similarly reduced by Vitamin D and plant-based diets – June 2021">Severe COVID-19 risk similarly reduced by Vitamin D and plant-based diets – June 2021</a>
+* [Severe COVID-19 risk similarly reduced by Vitamin D and plant-based diets – June 2021](/posts/severe-covid-19-risk-similarly-reduced-by-vitamin-d-and-plant-based-diets)

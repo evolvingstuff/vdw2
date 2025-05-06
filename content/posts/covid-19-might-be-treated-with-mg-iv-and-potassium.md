@@ -1,0 +1,12 @@
+---
+title: "COVID-19 might be treated with Mg IV and Potassium"
+slug: "covid-19-might-be-treated-with-mg-iv-and-potassium"
+aliases:
+  - "/COVID-19+might+be+treated+with+Mg+IV+and+Potassium+–+July+2020"
+  - "/tiki-index.php?page_id=11837"
+date: 2020-07-11
+categories:
+  - "Vitamin D and Magnesium"
+  - "Virus"
+---
+

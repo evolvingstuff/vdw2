@@ -33,7 +33,7 @@ The main source of vitamin D results from skin sunlight exposure. Vitamin D defi
 
 #### See also VitaminDWiki
 
-* <a href="/posts/11-percent-fewer-covid-19-deaths-if-lockdowns-had-allowed-sunshine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 11 percent fewer COVID-19 deaths if lockdowns had allowed sunshine – Nov 2021">11 percent fewer COVID-19 deaths if lockdowns had allowed sunshine – Nov 2021</a>
+* [11 percent fewer COVID-19 deaths if lockdowns had allowed sunshine – Nov 2021](/posts/11-percent-fewer-covid-19-deaths-if-lockdowns-had-allowed-sunshine)
 
 * [Submariners need Vitamin D (no surprise) – Review March 2023](/posts/submariners-need-vitamin-d-no-surprise-review)
 

@@ -27,13 +27,13 @@ categories:
 
 * <a href="/posts/poor-menstrual-cycles-2x-more-likely-if-poor-vitamin-d-levels-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor menstrual cycles 2X more likely if poor vitamin D levels - many studies">Poor menstrual cycles 2X more likely if poor vitamin D levels - many studies</a>
 
-* <a href="/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Age of menopause increases if add vitamin D or UVB">Age of menopause increases if add vitamin D or UVB</a>
+* [Age of menopause increases if add vitamin D or UVB](/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb)
 
 * <a href="/posts/early-menarche-miscarriage-and-stillbirth-are-associated-with-heart-disease-all--h-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early menarche, miscarriage and stillbirth are associated with heart disease (all are associated with low Vitamin D) – Jan 2018">Early menarche, miscarriage and stillbirth are associated with heart disease (all are associated with low Vitamin D) – Jan 2018</a>
 
 * <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
 
-* <a href="/posts/sleep-fragmentation-2x-worse-in-uk-senior-women-having-dark-skins" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sleep fragmentation 2X worse in UK senior women having dark skins – Jan 2019">Sleep fragmentation 2X worse in UK senior women having dark skins – Jan 2019</a>
+* [Sleep fragmentation 2X worse in UK senior women having dark skins – Jan 2019](/posts/sleep-fragmentation-2x-worse-in-uk-senior-women-having-dark-skins)
 
 * <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
 

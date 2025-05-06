@@ -73,17 +73,17 @@ This episode features Rhonda Patrick, Ph.D., and was originally recorded for the
 
 * [Longevity experts take Vitamin D, Omega-3, and Magnesium - Patrick video Sept 2023](/posts/longevity-experts-take-vitamin-d-omega-3-and-magnesium-patrick-video)
 
-* <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+* [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
-* <a href="/posts/vitamin-d-overview-by-rhonda-patrick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D overview by Rhonda Patrick – Oct 2022">Vitamin D overview by Rhonda Patrick – Oct 2022</a>
+* [Vitamin D overview by Rhonda Patrick – Oct 2022](/posts/vitamin-d-overview-by-rhonda-patrick)
 
-* <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a>
+* [Magnesium Role in Health and Longevity - many studies](/posts/magnesium-role-in-health-and-longevity-many-studies)
 
 * [Number 1 Vitamin D Danger You Absolutely Must Know! - with transcript Nov 2023](/posts/number-1-vitamin-d-danger-you-absolutely-must-know-with-transcript)
 
 * [The INSANE BENEFITS of Vitamin D and How To Get It SAFELY - video and transcript July 2023](/posts/the-insane-benefits-of-vitamin-d-and-how-to-get-it-safely-video-and-transcript)
 
-* <a href="/posts/moving-vitamin-d-research-into-practice-video-and-transcript-baggerly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Moving Vitamin D Research into Practice - Video and transcript - Baggerly - Oct 2021">Moving Vitamin D Research into Practice - Video and transcript - Baggerly - Oct 2021</a>
+* [Moving Vitamin D Research into Practice - Video and transcript - Baggerly - Oct 2021](/posts/moving-vitamin-d-research-into-practice-video-and-transcript-baggerly)
 
 * [Exercise and Vitamin D are synergistic - many studies](/posts/exercise-and-vitamin-d-are-synergistic-many-studies)
 

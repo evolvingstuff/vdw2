@@ -61,7 +61,7 @@ Pulses can alter fat-soluble micronutrient bioavailability. Pulses should thus b
 
 * <a href="/posts/spray-and-oral-forms-of-3000-iu-vitamin-d-provide-similar-long-term-response-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spray and oral forms of 3000 IU vitamin D provide similar long-term response – RCT Oct 2016">Spray and oral forms of 3000 IU vitamin D provide similar long-term response – RCT Oct 2016</a>
 
-* <a href="/posts/vitamin-d3-patch-expensive-many-available" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 Patch - expensive, many available">Vitamin D3 Patch - expensive, many available</a>
+* [Vitamin D3 Patch - expensive, many available](/posts/vitamin-d3-patch-expensive-many-available)
 
 * <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">Sublingual vitamin D</a>  - also Vitamin K
 

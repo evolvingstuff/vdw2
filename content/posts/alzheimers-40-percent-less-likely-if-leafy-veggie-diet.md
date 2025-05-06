@@ -35,13 +35,13 @@ categories:
 
 * [Ways to improve the gut microbiome to reduce Alzheimer's disease – Feb 2023](/posts/ways-to-improve-the-gut-microbiome-to-reduce-alzheimers-disease)
 
-* <a href="/posts/dementia-135-x-more-likely-if-poor-diet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia 1.35 X more-likely if poor diet – Oct 2022">Dementia 1.35 X more-likely if poor diet – Oct 2022</a>
+* [Dementia 1.35 X more-likely if poor diet – Oct 2022](/posts/dementia-135-x-more-likely-if-poor-diet)
 
-* <a href="/posts/alzheimers-9x-more-likely-in-women-with-a-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alzheimer's 9X more likely in women with a poor Vitamin D receptor – Sept 2022">Alzheimer's 9X more likely in women with a poor Vitamin D receptor – Sept 2022</a>
+* [Alzheimer's 9X more likely in women with a poor Vitamin D receptor – Sept 2022](/posts/alzheimers-9x-more-likely-in-women-with-a-poor-vitamin-d-receptor)
 
-* <a href="/posts/dementia-10x-lower-in-a-group-who-are-outdoors-a-lot-and-eat-unprocessed-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia 10X lower in a group who are outdoors a lot and eat unprocessed foods - March 2022">Dementia 10X lower in a group who are outdoors a lot and eat unprocessed foods - March 2022</a>
+* [Dementia 10X lower in a group who are outdoors a lot and eat unprocessed foods - March 2022](/posts/dementia-10x-lower-in-a-group-who-are-outdoors-a-lot-and-eat-unprocessed-foods)
 
-* <a href="/posts/alzheimers-3x-higher-risk-in-countries-with-high-meat-consumption-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alzheimer's 3X higher risk in countries with high meat consumption - 2016">Alzheimer's 3X higher risk in countries with high meat consumption - 2016</a>
+* [Alzheimer's 3X higher risk in countries with high meat consumption - 2016](/posts/alzheimers-3x-higher-risk-in-countries-with-high-meat-consumption-2016)
 
  **Mediterranean Diet: 69% reduced risk of Alzheimer's - 2006** 
 

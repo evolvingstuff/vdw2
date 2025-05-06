@@ -32,7 +32,7 @@ Chloasma, which is distinguished by irregularities in the pigmentation of skin, 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/melasma-pregnancy-mask-treated-by-vitamin-d-vitamin-b12-vitamin-c-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melasma (pregnancy mask) treated by Vitamin D, Vitamin B12, Vitamin C, etc.">Melasma (pregnancy mask) treated by Vitamin D, Vitamin B12, Vitamin C, etc.</a>
+#### VitaminDWiki - [Melasma (pregnancy mask) treated by Vitamin D, Vitamin B12, Vitamin C, etc.](/posts/melasma-pregnancy-mask-treated-by-vitamin-d-vitamin-b12-vitamin-c-etc)
 
 ---
 

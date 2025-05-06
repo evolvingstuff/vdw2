@@ -68,7 +68,7 @@ Periodontitis is associated with vitamin D deficiency, in contrast to gingivitis
 
 * <a href="/posts/quick-free-self-test-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, free, self test of vitamin D deficiency">Quick, free, self test of vitamin D deficiency</a>
 
-* <a href="/posts/periodontitis-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Periodontitis reduced by Vitamin D - many studies">Periodontitis reduced by Vitamin D - many studies</a>
+* [Periodontitis reduced by Vitamin D - many studies](/posts/periodontitis-reduced-by-vitamin-d-many-studies)
 
 <!-- ~tc~ (alias(Use of a chair-side vitamin D test - Sept 2023)) ~/tc~ -->
 

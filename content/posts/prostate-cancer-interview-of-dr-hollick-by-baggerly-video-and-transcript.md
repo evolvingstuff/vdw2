@@ -272,9 +272,9 @@ course of more than five years that's addressed the nasal passages in such a way
 
 #### Vitamin D ha been use to reduce hot flahes, prevent Protate Cancer, etc.
 
-* <a href="/posts/risk-of-hot-flashes-decreased-by-vitamin-d-vegan-diet-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of hot flashes decreased by vitamin D, vegan diet, etc.">Risk of hot flashes decreased by vitamin D, vegan diet, etc.</a>
+* [Risk of hot flashes decreased by vitamin D, vegan diet, etc.](/posts/risk-of-hot-flashes-decreased-by-vitamin-d-vegan-diet-etc)
 
-* <a href="/posts/the-use-of-vitamin-d-to-prevent-prostate-cancer-doubled-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The use of Vitamin D to prevent prostate cancer doubled in a decade – May 2019">The use of Vitamin D to prevent prostate cancer doubled in a decade – May 2019</a>
+* [The use of Vitamin D to prevent prostate cancer doubled in a decade – May 2019](/posts/the-use-of-vitamin-d-to-prevent-prostate-cancer-doubled-in-a-decade)
 
 ---
 

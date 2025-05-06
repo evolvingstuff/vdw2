@@ -47,7 +47,7 @@ We examined the association between face masks and risk of infection with SARS-C
 
 ---
 
-#### VitaminDWiki - <a href="/posts/face-masks-increased-covid-death-rate-in-kansas-by-15x-re-inhalation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Face masks INCREASED COVID death rate in Kansas by 1.5X (re-inhalation) – Feb 2022">Face masks INCREASED COVID death rate in Kansas by 1.5X (re-inhalation) – Feb 2022</a>
+#### VitaminDWiki - [Face masks INCREASED COVID death rate in Kansas by 1.5X (re-inhalation) – Feb 2022](/posts/face-masks-increased-covid-death-rate-in-kansas-by-15x-re-inhalation)
 
 ---
 

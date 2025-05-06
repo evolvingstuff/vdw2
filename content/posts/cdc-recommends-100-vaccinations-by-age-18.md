@@ -24,13 +24,13 @@ categories:
 
 *  **[Multiple COVID vaccinations might increase Cancer Incidence - many studies](/posts/multiple-covid-vaccinations-might-increase-cancer-incidence-many-studies)** 
 
-*  **<a href="/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies">Sudden Infant Deaths (SIDS) soon after vaccination - several studies</a>** 
+*  **[Sudden Infant Deaths (SIDS) soon after vaccination - several studies](/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies)** 
 
 *  **[Infants getting lots of vaccinations are 2X more likely to die - July 2023](/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die)** 
 
-*  **<a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a>** 
+*  **[6X increase in excess deaths of children since vaccinations were started - Oct 2022](/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started)** 
 
-*  **<a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a>** 
+*  **[Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies)** 
 
 ---
 

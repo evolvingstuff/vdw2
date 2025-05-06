@@ -32,7 +32,7 @@ categories:
 
 ---
 
-#### – <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric Cancer, Vitamin D, VDR, UV - many studies</a>
+#### – [Gastric Cancer, Vitamin D, VDR, UV - many studies](/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies)
 
 <!-- ~tc~ (alias(Most common cause of Cancer  - world map)) ~/tc~ -->
 

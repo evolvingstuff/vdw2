@@ -137,4 +137,4 @@ Plasma GDF-15 and C-reactive protein (CRP) concentrations were quantified as mar
 
 ---
 
-#### VitaminDWiki – <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki – [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)

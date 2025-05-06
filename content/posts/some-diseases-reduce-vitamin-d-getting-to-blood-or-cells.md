@@ -1,0 +1,11 @@
+---
+title: "Some diseases reduce vitamin D getting to blood or cells"
+slug: "some-diseases-reduce-vitamin-d-getting-to-blood-or-cells"
+aliases:
+  - "/Some+diseases+reduce+vitamin+D+getting+to+blood+or+cells"
+  - "/tiki-index.php?page_id=13275"
+date: 2022-01-21
+categories:
+  - "Genetics"
+---
+

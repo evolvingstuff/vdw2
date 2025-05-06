@@ -33,7 +33,7 @@ categories:
 
 #### Would be far better if supplement benefits, problems, and costs were provided by non-govt entity
 
-Example, in the US <a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+Example, in the US [Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)
 
 ---
 
@@ -41,7 +41,7 @@ Example, in the US <a href="/posts/excellent-reviews-of-supplements-at-consumerl
 
 * [A New Zealand bill would require prescriptions for Vitamins A, C, D, E, Omega-3, Zinc, Magnesium, etc. – Jan 2023](/posts/a-new-zealand-bill-would-require-prescriptions-for-vitamins-a-c-d-e-omega-3-zinc-magnesium-etc)
 
-* <a href="/posts/2500-iu-vitamin-d-is-the-max-dose-size-in-canada" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2,500 IU Vitamin D is the max dose size in Canada">2,500 IU Vitamin D is the max dose size in Canada</a>
+* [2,500 IU Vitamin D is the max dose size in Canada](/posts/2500-iu-vitamin-d-is-the-max-dose-size-in-canada)
 
 * <a href="/posts/multiple-sclerosis-rates-are-highest-in-canada-far-from-equator" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis rates are highest in Canada (far from equator) – May 2018">Multiple Sclerosis rates are highest in Canada (far from equator) – May 2018</a>
 

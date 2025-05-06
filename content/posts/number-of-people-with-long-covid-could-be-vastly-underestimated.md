@@ -51,6 +51,6 @@ Patients with post-viral syndrome may benefit from the same clinical care as con
 
 ---
 
-#### See VitaminDWiki: <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### See VitaminDWiki: [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 <!-- ~tc~ (alias(Number of people with long COVID could be vastly underestimated - Sept 2023)) ~/tc~ -->

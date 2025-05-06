@@ -34,6 +34,6 @@ Compelling evidence indicates that Epstein Barr virus (EBV) infection is a prere
 
 ---
 
-#### VitaminDWiki - <a href="/posts/epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus increases the risk of many health problems – many studies">Epstein-Barr Virus increases the risk of many health problems – many studies</a>
+#### VitaminDWiki - [Epstein-Barr Virus increases the risk of many health problems – many studies](/posts/epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies)
 
- **See also: <a href="/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies">Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies</a>** 
+ **See also: [Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies](/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies)** 

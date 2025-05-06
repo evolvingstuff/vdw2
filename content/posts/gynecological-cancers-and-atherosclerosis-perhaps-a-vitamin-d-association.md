@@ -60,7 +60,7 @@ constitute common ground between these two afflictions, which this article aims 
 
 ---
 
-#### VitaminDWiki - <a href="/posts/many-gynecological-diseases-associated-with-vitamin-d-less-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many gynecological diseases associated with Vitamin D less than 30 ng – Nov 2021">Many gynecological diseases associated with Vitamin D less than 30 ng – Nov 2021</a>
+#### VitaminDWiki - [Many gynecological diseases associated with Vitamin D less than 30 ng – Nov 2021](/posts/many-gynecological-diseases-associated-with-vitamin-d-less-than-30-ng)
 
 ---
 

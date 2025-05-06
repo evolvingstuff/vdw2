@@ -21,16 +21,16 @@ categories:
 
 ---
 
- **<a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>** 
+ **[FDA drug section gets 75% of its income from Big Pharma - Oct 2022](/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma)** 
 
- **<a href="/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018">More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018</a>** 
+ **[More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018](/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt)** 
 
- **<a href="/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022">The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022</a>** 
+ **[The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022](/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments)** 
 
- **<a href="/posts/america-desperately-needs-a-much-better-fda-nyt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: America Desperately Needs a Much Better FDA - NYT Sept 2, 2021">America Desperately Needs a Much Better FDA - NYT Sept 2, 2021</a>** 
+ **[America Desperately Needs a Much Better FDA - NYT Sept 2, 2021](/posts/america-desperately-needs-a-much-better-fda-nyt)** 
 
  **[NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023](/posts/nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years)** 
 
- **<a href="/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021">New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021</a>** 
+ **[New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021](/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">

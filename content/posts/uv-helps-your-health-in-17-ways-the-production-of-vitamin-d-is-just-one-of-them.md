@@ -323,21 +323,21 @@ Ultraviolet radiation (UVR) is primarily recognized for its detrimental effects 
 
 * [Light improves health by more than just Vitamin D - April 2022](/posts/light-improves-health-by-more-than-just-vitamin-d)
 
-* <a href="/posts/model-discovered-more-uv-less-covid-many-excellent-charts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Model discovered: More UV, less COVID (many excellent charts) – Sept 2022">Model discovered: More UV, less COVID (many excellent charts) – Sept 2022</a>
+* [Model discovered: More UV, less COVID (many excellent charts) – Sept 2022](/posts/model-discovered-more-uv-less-covid-many-excellent-charts)
 
-* <a href="/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Avoiding the sun may be as bad as smoking - many studies">Avoiding the sun may be as bad as smoking - many studies</a>
+* [Avoiding the sun may be as bad as smoking - many studies](/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies)
 
-* <a href="/posts/uv-has-treated-psoriasis-for-over-a-century-guidelines-finally-agreed-upon" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV has treated psoriasis for over a century, guidelines finally agreed upon – Aug 2019">UV has treated psoriasis for over a century, guidelines finally agreed upon – Aug 2019</a>
+* [UV has treated psoriasis for over a century, guidelines finally agreed upon – Aug 2019](/posts/uv-has-treated-psoriasis-for-over-a-century-guidelines-finally-agreed-upon)
 
-* <a href="/posts/poor-responses-to-uv-and-vitamin-d-were-correlated-to-just-4-poor-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor responses to UV and Vitamin D were correlated to just 4 poor genes – June 2019">Poor responses to UV and Vitamin D were correlated to just 4 poor genes – June 2019</a>
+* [Poor responses to UV and Vitamin D were correlated to just 4 poor genes – June 2019](/posts/poor-responses-to-uv-and-vitamin-d-were-correlated-to-just-4-poor-genes)
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
-* <a href="/posts/uv-provides-the-best-explanation-of-covid-19-variation-in-italy-74-pcnt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV provides the best explanation of COVID-19 variation in Italy (74 pcnt) – Nov 2020">UV provides the best explanation of COVID-19 variation in Italy (74 pcnt) – Nov 2020</a>
+* [UV provides the best explanation of COVID-19 variation in Italy (74 pcnt) – Nov 2020](/posts/uv-provides-the-best-explanation-of-covid-19-variation-in-italy-74-pcnt)
 
-* <a href="/posts/make-your-own-uvb-vitamin-d-lamp-for-40-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Make your own UVB Vitamin D lamp for 40 dollars - Jan 2019">Make your own UVB Vitamin D lamp for 40 dollars - Jan 2019</a>
+* [Make your own UVB Vitamin D lamp for 40 dollars - Jan 2019](/posts/make-your-own-uvb-vitamin-d-lamp-for-40-dollars)
 
-* <a href="/posts/parkinsons-patients-50x-less-likely-to-get-even-a-little-sun-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019">Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019</a>
+* [Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019](/posts/parkinsons-patients-50x-less-likely-to-get-even-a-little-sun-meta-analysis)
 
 * <a href="/posts/ultraviolet-light-like-vitamin-d-is-great-especially-while-pregnant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultraviolet light (like Vitamin D) is great, especially while pregnant – Aug 2018">Ultraviolet light (like Vitamin D) is great, especially while pregnant – Aug 2018</a>
 

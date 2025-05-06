@@ -32,4 +32,4 @@ Because butyrate synthesis-related transferase was decreased in the feces of VDR
 
 ---
 
-#### VitaminDWiki - <a href="/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 14th activator of the Vitamin D Receptor – Butyrate (from gut bacteria, or supplement)">Butyrate is one of 16+ activators of VDR</a>
+#### VitaminDWiki - [Butyrate is one of 16+ activators of VDR](/posts/14th-activator-of-the-vitamin-d-receptor-butyrate-from-gut-bacteria-or-supplement)

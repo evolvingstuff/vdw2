@@ -51,7 +51,7 @@ In this study, higher ORs were observed within the vaccinated versus unvaccinate
 
 ---
 
-#### VitaminDWiki - <a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a> which contains
+#### VitaminDWiki - [Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies) which contains
 
  **Increased Office Visits after vaccination start about day 500** 
 
@@ -59,6 +59,6 @@ In this study, higher ORs were observed within the vaccinated versus unvaccinate
 
 ---
 
-#### VitaminDWiki <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">200+ Vaccination problems</a>
+#### VitaminDWiki [200+ Vaccination problems](/posts/vaccination-pages-in-vitamindwiki)
 
 <!-- ~tc~ (alias(Vaccinated children have more health problems (16th study) )) ~/tc~ -->

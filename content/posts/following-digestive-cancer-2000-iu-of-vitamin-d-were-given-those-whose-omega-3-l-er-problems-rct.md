@@ -46,14 +46,14 @@ A meta-analysis suggested that marine n-3 polyunsaturated fatty acids (PUFAs), e
 
 #### 5 related items in VitaminDWiki
 
-1. <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric Cancer, Vitamin D, VDR, UV - many studies</a>
+1. [Gastric Cancer, Vitamin D, VDR, UV - many studies](/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies)
 
-1. <a href="/posts/digestive-tract-cancer-survival-increased-3x-if-2000-iu-of-vitamin-d-and-have-hi-el-of-pd-l1-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Digestive Tract Cancer survival increased 3X if 2,000 IU of vitamin D and have high level of PD-L1 – RCT June 2021">Digestive Tract Cancer survival increased 3X if 2,000 IU of vitamin D and have high level of PD-L1 – RCT June 2021</a>
+1. [Digestive Tract Cancer survival increased 3X if 2,000 IU of vitamin D and have high level of PD-L1 – RCT June 2021](/posts/digestive-tract-cancer-survival-increased-3x-if-2000-iu-of-vitamin-d-and-have-hi-el-of-pd-l1-rct)
 
-1. <a href="/posts/gastrointestinal-cancers-mostly-positive-vitamin-d-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastrointestinal Cancers - mostly positive Vitamin D studies – May 2019">Gastrointestinal Cancers - mostly positive Vitamin D studies – May 2019</a>
+1. [Gastrointestinal Cancers - mostly positive Vitamin D studies – May 2019](/posts/gastrointestinal-cancers-mostly-positive-vitamin-d-studies)
 
-1. <a href="/posts/esophageal-cancer-surgery-helped-by-300000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Esophageal Cancer surgery helped by 300,000 IU of Vitamin D – RCT Sept 2018">Esophageal Cancer surgery helped by 300,000 IU of Vitamin D – RCT Sept 2018</a>
+1. [Esophageal Cancer surgery helped by 300,000 IU of Vitamin D – RCT Sept 2018](/posts/esophageal-cancer-surgery-helped-by-300000-iu-of-vitamin-d-rct)
 
 1. <a href="/posts/people-taking-vitamin-d-far-more-likely-to-be-disease-free-after-esophageal-cancer-surgery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People taking Vitamin D far more likely to be disease free after esophageal cancer surgery – Dec 2016">People taking Vitamin D far more likely to be disease free after esophageal cancer surgery – Dec 2016</a>
 
-1. <a href="/posts/omega-3-increases-vitamin-d-levels-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 increases Vitamin D levels – Meta-analysis May 2022">Omega-3 increases Vitamin D levels – Meta-analysis May 2022</a> - opposate of what current trial found
+1. [Omega-3 increases Vitamin D levels – Meta-analysis May 2022](/posts/omega-3-increases-vitamin-d-levels-meta-analysis) - opposate of what current trial found

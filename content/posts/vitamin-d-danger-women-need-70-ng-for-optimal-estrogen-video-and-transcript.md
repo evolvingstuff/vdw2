@@ -76,10 +76,10 @@ categories:
 
 #### See also VitaminDWiki
 
-* <a href="/posts/estrogen-supplements-may-cut-covid-19-deaths-by-half-no-surprise-more-e-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Estrogen supplements may cut COVID-19 deaths by half (no surprise - more E, more Vitamin D) - Feb 2022">Estrogen supplements may cut COVID-19 deaths by half (no surprise - more E, more Vitamin D) - Feb 2022</a>
+* [Estrogen supplements may cut COVID-19 deaths by half (no surprise - more E, more Vitamin D) - Feb 2022](/posts/estrogen-supplements-may-cut-covid-19-deaths-by-half-no-surprise-more-e-more-vitamin-d)
 
-* <a href="/posts/progesterone-and-ace2-are-possible-reasons-for-fewer-female-covid-19-deaths" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Progesterone and ACE2 are possible reasons for fewer female COVID-19 deaths">Progesterone and ACE2 are possible reasons for fewer female COVID-19 deaths</a>
+* [Progesterone and ACE2 are possible reasons for fewer female COVID-19 deaths](/posts/progesterone-and-ace2-are-possible-reasons-for-fewer-female-covid-19-deaths)
 
-* <a href="/posts/estradiol-vitamin-d-omega-3-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Estradiol, vitamin D, Omega-3 – RCT Feb 2019">Estradiol, vitamin D, Omega-3 – RCT Feb 2019</a>
+* [Estradiol, vitamin D, Omega-3 – RCT Feb 2019](/posts/estradiol-vitamin-d-omega-3-rct)
 
 * <a href="/posts/estrogen-contraception-pill-doubled-the-response-to-1000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Estrogen contraception pill doubled the response to 1,000 IU of vitamin D – RCT Sept 2017">Estrogen contraception pill doubled the response to 1,000 IU of vitamin D – RCT Sept 2017</a>

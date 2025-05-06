@@ -44,7 +44,7 @@ Conclusion: Among the COVID-19 patients, VDD might be associated with a higher r
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - many studies</a>
+#### VitaminDWiki - [Excess deaths - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 ---
 

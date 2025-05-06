@@ -87,17 +87,17 @@ The findings were presented at Congress of the European Academy of Neurology (EA
 
 #### Vitamin D inhaled thru the nose gets some directly to the brain
 
- **<a href="/posts/inhaled-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inhaled Vitamin D">Inhaled Vitamin D</a>** 
+ **[Inhaled Vitamin D](/posts/inhaled-vitamin-d)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="150">
 
- **<a href="/posts/perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps drugs such as inhaled vitamin D can get directly to the brain – March 2018">Perhaps drugs such as inhaled vitamin D can get directly to the brain – March 2018</a>** 
+ **[Perhaps drugs such as inhaled vitamin D can get directly to the brain – March 2018](/posts/perhaps-drugs-such-as-inhaled-vitamin-d-can-get-directly-to-the-brain)** 
 
  **<a href="/posts/inhaled-vitamin-d-helped-lungs-of-new-born-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inhaled vitamin D helped lungs of new-born (rats) – Dec 2016">Inhaled vitamin D helped lungs of new-born (rats) – Dec 2016</a> started my interest** 
 
  **<a href="/posts/brain-cells-can-probably-activate-vitamin-d-without-liver-or-kidney-at-least-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain cells can probably activate Vitamin D without liver or kidney (at least in rats) – Sept 2017">Brain cells can probably activate Vitamin D without liver or kidney (at least in rats) – Sept 2017</a>** 
 
- **<a href="/posts/vitamin-d-activation-is-mainly-done-by-the-tissues-not-the-liver-and-kidneys" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D activation is mainly done by the tissues, not the Liver and Kidneys">Vitamin D activation is mainly done by the tissues, not the Liver and Kidneys</a>** 
+ **[Vitamin D activation is mainly done by the tissues, not the Liver and Kidneys](/posts/vitamin-d-activation-is-mainly-done-by-the-tissues-not-the-liver-and-kidneys)** 
 
 ---
 
@@ -129,4 +129,4 @@ ADHD has been treated by each of: Vitamin D, Omega-3, Magnesium, and Zinc
 
 ---
 
-##### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain - 98 items</a>
+##### VitaminDWiki - [Brain - 98 items](/posts/brain-and-vitamin-d-many-studies)

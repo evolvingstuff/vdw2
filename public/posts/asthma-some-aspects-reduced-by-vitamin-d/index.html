@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Asthma: some aspects reduced by Vitamin D</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542205">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542205">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542205"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Asthma: some aspects reduced by Vitamin D</h1>
+        <time>July 26, 2022</time>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#asthma-and-vitamin-d-deficiency-occurrence-immune-mechanisms-and-new-perspectives">Asthma and Vitamin D Deficiency: Occurrence, Immune Mechanisms, and New Perspectives</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+<hr>
+<h4 id="asthma-and-vitamin-d-deficiency-occurrence-immune-mechanisms-and-new-perspectives">Asthma and Vitamin D Deficiency: Occurrence, Immune Mechanisms, and New Perspectives</h4>
+<p>J Immunol Res. 2022 Jul 15;2022:6735900. <a href="https://doi.org/10.1155/2022/6735900">doi: 10.1155/2022/6735900</a></p>
+<p>Fardis Salmanpour 1 2 3, Naghmeh Kian 2 3 4, Noosha Samieefar 2 3 4, Mohammad Amin Khazeei Tabari 2 5 6, Nima Rezaei 2 7 8</p>
+<h5 id="asthma-pdf-table-of-contents">Asthma PDF Table of Contents</h5>
+<img src="/attachments/d3.mock.jpg" alt="image" width="600">
+<h5 id="asthma-chart">Asthma chart</h5>
+<img src="/attachments/d3.mock.jpg" alt="image" width="900">
+<p>Asthma, as a chronic inflammatory condition of the airways, has a considerable prevalence among children. Vitamin D might play a role in asthma pathogenesis by affecting the development of the lung, regulating the immune responses, and remodeling of airway smooth muscle (ASM). Study results on the association between the serum level of vitamin D and asthma severity have suggested a converse relationship between lower vitamin D levels and more severe clinical courses. However, they are not consistent in these findings and have shown insignificant correlations, as well. The possible effects of vitamin D on asthma have led researchers to consider this vitamin a potential prophylactic and therapeutic tool for managing children with variant degrees of asthma. Adding vitamin D to the routine corticosteroid therapy of asthmatic children is another field of interest that has shown promising results. In this narrative review study, we aim to elaborate on the existing knowledge on the role of vitamin D in asthma pathogenesis and prognosis, explain the controversies that exist on the effectiveness of treating patients with vitamin D supplements, and make a general conclusion about how vitamin D actually is linked to asthma in children.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki </a></strong></p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542205"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542205',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542205'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542205"></script>
+    <script src="/js/search-results-panel.js?v=1746542205"></script>
+</body>
+</html>

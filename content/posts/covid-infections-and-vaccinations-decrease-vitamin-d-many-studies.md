@@ -49,21 +49,21 @@ categories:
 
 * [50% increase in Cancer deaths (age 15-44) since before COVID - Nov 2023](/posts/50-percent-increase-in-cancer-deaths-age-15-44-since-before-covid)
 
-* <a href="/posts/early-puberty-during-pandemic-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early puberty during pandemic (low vitamin D) - several studies">Early puberty during pandemic (low vitamin D) - several studies</a>
+* [Early puberty during pandemic (low vitamin D) - several studies](/posts/early-puberty-during-pandemic-low-vitamin-d-several-studies)
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 * <a href="/posts/low-heart-rate-variability-bad-is-associated-with-low-vitamin-d-and-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low heart rate variability (bad) is associated with low Vitamin D and COVID – many studies">Low heart rate variability (bad) is associated with low Vitamin D and COVID – many studies</a>
 
 * [T1 Diabetes increased by 27% by second year of COVID – meta-analysis June 2023](/posts/t1-diabetes-increased-by-27-percent-by-second-year-of-covid-meta-analysis)
 
-* <a href="/posts/hepatitis-normally-rare-in-children-huge-increase-after-lockdown-adenovirus-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hepatitis normally rare in children: huge increase after lockdown (Adenovirus, low Vitamin D) - April 2022">Hepatitis normally rare in children: huge increase after lockdown (Adenovirus, low Vitamin D) - April 2022</a>
+* [Hepatitis normally rare in children: huge increase after lockdown (Adenovirus, low Vitamin D) - April 2022](/posts/hepatitis-normally-rare-in-children-huge-increase-after-lockdown-adenovirus-low-vitamin-d)
 
-* <a href="/posts/increased-risk-of-many-neuro-problems-after-covid-14-x-youths-12x-seniors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased risk of many neuro problems after COVID (1.4 X youths, 1.2X seniors) – Aug 2022">Increased risk of many neuro problems after COVID (1.4 X youths, 1.2X seniors) – Aug 2022</a>
+* [Increased risk of many neuro problems after COVID (1.4 X youths, 1.2X seniors) – Aug 2022](/posts/increased-risk-of-many-neuro-problems-after-covid-14-x-youths-12x-seniors)
 
-* <a href="/posts/covid-increased-seniors-risk-of-alzheimers-by-17x-in-the-next-year" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID increased seniors risk of Alzheimer's by 1.7X in the next year- Sept 2022">COVID increased seniors risk of Alzheimer's by 1.7X in the next year- Sept 2022</a>
+* [COVID increased seniors risk of Alzheimer's by 1.7X in the next year- Sept 2022](/posts/covid-increased-seniors-risk-of-alzheimers-by-17x-in-the-next-year)
 
-* <a href="/posts/increase-in-children-with-low-vitamin-d-and-with-tibia-fractures-during-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increase in children with low vitamin D and with tibia fractures during COVID – June 2022">Increase in children with low vitamin D and with tibia fractures during COVID – June 2022</a>
+* [Increase in children with low vitamin D and with tibia fractures during COVID – June 2022](/posts/increase-in-children-with-low-vitamin-d-and-with-tibia-fractures-during-covid)
 
 * [Athletes who had been COVID infected had lower Vitamin D levels – July 2023](/posts/athletes-who-had-been-covid-infected-had-lower-vitamin-d-levels)
 

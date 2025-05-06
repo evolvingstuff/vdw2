@@ -39,4 +39,4 @@ The aim of the current analysis was to investigate the effects of 5-year vitamin
 
 #### Note: Finns already have a high level of vitamin D
 
- **<a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a>** 
+ **[After years of adding vitamin D, Finland now has 38 ng levels - March 2022](/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels)** 

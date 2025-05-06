@@ -264,11 +264,11 @@ You can have [Google Translation](https://translate.google.com/) of PDF text  in
 
 ---
 
-#### VitaminDWiki - <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a>
+#### VitaminDWiki - [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/magnesium-role-in-health-and-longevity-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Role in Health and Longevity - many studies">Magnesium Role in Health and Longevity - many studies</a>
+#### VitaminDWiki - [Magnesium Role in Health and Longevity - many studies](/posts/magnesium-role-in-health-and-longevity-many-studies)
 
 ---
 

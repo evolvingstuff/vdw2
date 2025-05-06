@@ -1,0 +1,12 @@
+---
+title: "Poor COVID-19 prognosis was 6 X more likely if low vitamin D"
+slug: "poor-covid-19-prognosis-was-6-x-more-likely-if-low-vitamin-d"
+aliases:
+  - "/Poor+COVID-19+prognosis+was+6+X+more+likely+if+low+vitamin+D+–+Jan+21+2021"
+  - "/tiki-index.php?page_id=12221"
+date: 2021-01-13
+categories:
+  - "Mortality and D"
+  - "Virus"
+---
+

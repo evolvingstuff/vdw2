@@ -1,0 +1,11 @@
+---
+title: "Vitamin K Deficiency - NCBI review"
+slug: "vitamin-k-deficiency-ncbi-review"
+aliases:
+  - "/Vitamin+K+Deficiency+-+NCBI+review+Jan+2019"
+  - "/tiki-index.php?page_id=10481"
+date: 2019-02-12
+categories:
+  - "Vitamin D and Vitamin K"
+---
+

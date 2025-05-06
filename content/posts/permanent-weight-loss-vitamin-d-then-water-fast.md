@@ -15,10 +15,10 @@ categories:
 
 #### Weight loss studies turbocharged by Vitamin D
 
-*  **<a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a>** 
+*  **[Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs](/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts)** 
 
-* <a href="/posts/many-people-are-actively-trying-to-lose-weight-gained-during-pandemic-vitamin-d-will-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many people are actively trying to lose weight gained during pandemic - Vitamin D will help">Many people are actively trying to lose weight gained during pandemic - Vitamin D will help</a>
+* [Many people are actively trying to lose weight gained during pandemic - Vitamin D will help](/posts/many-people-are-actively-trying-to-lose-weight-gained-during-pandemic-vitamin-d-will-help)
 
-* <a href="/posts/the-vitamin-that-quadruples-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Vitamin That Quadruples Weight Loss - Oct 2019">The Vitamin That Quadruples Weight Loss - Oct 2019</a>
+* [The Vitamin That Quadruples Weight Loss - Oct 2019](/posts/the-vitamin-that-quadruples-weight-loss)
 
 * [Weight loss and Vitamin D - many studies](/posts/weight-loss-and-vitamin-d-many-studies)

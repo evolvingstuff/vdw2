@@ -23,7 +23,7 @@ NY State Government Department of Health provides a lesson in how the Federal Va
 
 #### See also VitaminDWiki
 
-* <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+* [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
 * [YouTube removed 1,000,000 videos on Vaccine Safety or Efficacy as of Sept 2022](/posts/youtube-removed-1000000-videos-on-vaccine-safety-or-efficacy-as-of)
 

@@ -43,7 +43,7 @@ categories:
 
 0:07:20.3  There's also evidence that it's related to cardiovascular-related mortality as well. But also a very interesting piece of data that Bill published was looking at smokers, and everybody knows smoking is terrible for your health. What can you do to accelerate the aging process? Like smoking, right? Smoking cigarettes, tobacco, it's terrible. And this was so interesting. The Omega-3 in smokers that had a high Omega-3 index, so they were smoking, but they were also eating a lot of fish supplementing with fish oil, they had an 8% Omega-3 index. They had the same life expectancy as non-smokers with a low Omega-3 index. In other words, smoking was like being deficient in Omega-3. I was blown away by that. There's a beautiful graph in the paper. I forgot what journal it was published in. It was a couple of years ago, but it's just kind of mind blowing.
 
-* See VitaminDWiki <a href="/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Avoiding the sun may be as bad as smoking - many studies">Avoiding the sun may be as bad as smoking - many studies</a>
+* See VitaminDWiki [Avoiding the sun may be as bad as smoking - many studies](/posts/avoiding-the-sun-may-be-as-bad-as-smoking-many-studies)
 
 * See VitaminDWiki <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
 

@@ -73,11 +73,11 @@ The role of vitamin D on gene transcription and the immune response is also revi
 
 ---
 
-#### VitaminDWiki – <a href="/posts/neuropathy-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Neuropathy treated by vitamin D - many studies">Neuropathy treated by vitamin D - many studies</a>
+#### VitaminDWiki – [Neuropathy treated by vitamin D - many studies](/posts/neuropathy-treated-by-vitamin-d-many-studies)
 
 ---
 
-#### VitaminDWiki – <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+#### VitaminDWiki – [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)
 
 ---
 

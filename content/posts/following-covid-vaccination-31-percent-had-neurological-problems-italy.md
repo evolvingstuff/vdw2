@@ -31,7 +31,7 @@ The [NEURO-COVAX](https://pubmed.ncbi.nlm.nih.gov/37897023/)-cohort included 19,
 
 ---
 
-#### <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a> includes:
+#### [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki) includes:
 
 * [Large Toronto Study on Paxlovid vaccination: 62% had Adverse Events - Oct 2023](/posts/large-toronto-study-on-paxlovid-vaccination-62-percent-had-adverse-events)
 

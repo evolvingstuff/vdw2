@@ -61,7 +61,7 @@ The findings showed that low serum levels were observed more in asthmatic childr
 
 #### It appears that severe asthmatics have poor guts, which results in less vitamin D getting into the body
 
- **<a href="/posts/wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wheezing and asthmatic children have weaker Vitamin D responses - May 2022">Wheezing and asthmatic children have weaker Vitamin D responses - May 2022</a>** 
+ **[Wheezing and asthmatic children have weaker Vitamin D responses - May 2022](/posts/wheezing-and-asthmatic-children-have-weaker-vitamin-d-responses)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -79,4 +79,4 @@ https://doi.org/10.1186/s12916-022-02283-7  FREE PDF
 
 [Severe asthmatics willing to pay 5180 dollars for relief, Vitamin D needed costs only 45 dollars – Sept 2023](/posts/severe-asthmatics-willing-to-pay-5180-dollars-for-relief-vitamin-d-needed-costs-only-45-dollars)
 
-<a href="/posts/poor-response-to-asthma-inhaler-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019">Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019</a>
+[Poor response to Asthma inhaler if poor Vitamin D Receptor – Dec 2019](/posts/poor-response-to-asthma-inhaler-if-poor-vitamin-d-receptor)

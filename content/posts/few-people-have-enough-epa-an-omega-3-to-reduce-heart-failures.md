@@ -1,0 +1,12 @@
+---
+title: "Few people have enough EPA (an Omega-3) to reduce heart failures"
+slug: "few-people-have-enough-epa-an-omega-3-to-reduce-heart-failures"
+aliases:
+  - "/Few+people+have+enough+EPA+an+Omega-3+to+reduce+heart+failures+–+July+2019"
+  - "/tiki-index.php?page_id=10993"
+date: 2019-07-16
+categories:
+  - "Cardiovascular"
+  - "Vitamin D and Omega-3"
+---
+

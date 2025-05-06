@@ -41,7 +41,7 @@ Authors' conclusions: In contrast to findings of our previous Cochrane Review on
 
 * <a href="/posts/vitamin-d-supplements-could-halve-risk-of-serious-asthma-attacks-cochrane-conclusion" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplements could halve risk of serious asthma attacks – Cochrane conclusion – Sept 2016">Vitamin D supplements could halve risk of serious asthma attacks – Cochrane conclusion – Sept 2016</a>
 
-* <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Those with Asthma or COPD had half the response to Vitamin D – March 2020</a>
+* [Those with Asthma or COPD had half the response to Vitamin D – March 2020](/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d)
 
 * <a href="/posts/asthma-treated-by-daily-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma treated by daily 50,000 IU of Vitamin D – April 2018">Asthma treated by daily 50,000 IU of Vitamin D – April 2018</a>
 

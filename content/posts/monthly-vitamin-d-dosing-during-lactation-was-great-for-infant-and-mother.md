@@ -69,7 +69,7 @@ The bottom line is that this is the time that a comprehensive plan of action mus
 
 ---
 
-#### See also: <a href="/posts/monthly-120000-iu-of-vitamin-d-while-breastfeeding-was-good-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022">Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022</a>
+#### See also: [Monthly 120,000 IU of Vitamin D while breastfeeding was good – RCT Jan 2022](/posts/monthly-120000-iu-of-vitamin-d-while-breastfeeding-was-good-rct)
 
 ---
 

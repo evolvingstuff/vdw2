@@ -1,0 +1,12 @@
+---
+title: "In-home testing of viral load, etc. Dr. Topol interview with transcript"
+slug: "in-home-testing-of-viral-load-etc-dr-topol-interview-with-transcript"
+aliases:
+  - "/In-home+testing+of+viral+load+etc+Dr+Topol+interview+with+transcript+–+Aug+11+2021"
+  - "/tiki-index.php?page_id=12824"
+date: 2021-08-14
+categories:
+  - "Books, videos on Vitamin D"
+  - "Virus"
+---
+

@@ -31,7 +31,7 @@ Children with asthma and obesity are more likely to have lower vitamin D levels,
 
 ---
 
-#### VitaminDWiki - <a href="/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with Asthma or COPD had half the response to Vitamin D – March 2020">Asthmatics have 1/2 the response to Vitamin D</a>  genes?, poor gut?
+#### VitaminDWiki - [Asthmatics have 1/2 the response to Vitamin D](/posts/those-with-asthma-or-copd-had-half-the-response-to-vitamin-d)  genes?, poor gut?
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 

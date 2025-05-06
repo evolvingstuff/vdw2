@@ -41,8 +41,8 @@ To obtain reliable data that allow health authorities to re-evaluate recommendat
 
 #### See also VitaminDWiki
 
-* <a href="/posts/2700-iu-of-vitamin-d-needed-to-get-above-20-ng-if-dark-skinned-and-high-latitude" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2700 IU of vitamin D needed to get above 20 ng if dark-skinned and high latitude – Oct 2021">2700 IU of vitamin D needed to get above 20 ng if dark-skinned and high latitude – Oct 2021</a>
+* [2700 IU of vitamin D needed to get above 20 ng if dark-skinned and high latitude – Oct 2021](/posts/2700-iu-of-vitamin-d-needed-to-get-above-20-ng-if-dark-skinned-and-high-latitude)
 
-* <a href="/posts/increased-vitamin-d-response-if-take-cofactors-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased Vitamin D response if take cofactors, etc">Increased Vitamin D response if take cofactors, etc</a>
+* [Increased Vitamin D response if take cofactors, etc](/posts/increased-vitamin-d-response-if-take-cofactors-etc)
 
-* <a href="/posts/vitamin-d-rda-of-600-iu-is-not-enough-global-rct-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D RDA of 600 IU is not enough - global RCT meta-analysis March 2019">Vitamin D RDA of 600 IU is not enough - global RCT meta-analysis March 2019</a>
+* [Vitamin D RDA of 600 IU is not enough - global RCT meta-analysis March 2019](/posts/vitamin-d-rda-of-600-iu-is-not-enough-global-rct-meta-analysis)

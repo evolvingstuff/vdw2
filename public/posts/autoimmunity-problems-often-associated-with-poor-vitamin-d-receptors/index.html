@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Autoimmunity problems often associated with poor Vitamin D Receptors</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542207">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542207">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542207"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Autoimmunity problems often associated with poor Vitamin D Receptors</h1>
+        <time>July 31, 2019</time>
+        <p>Erin Yamamoto a, Trine N. J0rgensen b’ <a href="mailto:jorgent@ccf.org">jorgent@ccf.org</a></p>
+<p>a Cleveland Clinic Lerner College of Medicine of Case Western Reserve University, Cleveland, OH, 44195, USA</p>
+<p>b Department of Inflammation and Immunity, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, 44106, USA</p>
+<p>Vitamin D deficiency is an established risk factor for many autoimmune diseases and the anti-inflammatory properties of vitamin D underscore its potential therapeutic value for these diseases. However, results of vitamin D3 supplementation clinical trials have been varied. To understand the clinical heterogeneity, we reviewed the pre-clinical data on vitamin D activity in four common autoimmune diseases:</p>
+<ul>
+<li>
+<p>multiple sclerosis (MS),</p>
+</li>
+<li>
+<p>rheumatoid arthritis (RA),</p>
+</li>
+<li>
+<p>systemic lupus erythematosus (SLE), and</p>
+</li>
+<li>
+<p>inflammatory bowel disease (IBD),</p>
+</li>
+</ul>
+<p>in which patients are commonly maintained on oral vitamin D3 supplementation. In contrast, many pre-clinical studies utilize other methods of manipulation (i.e. genetic, injection). Given the many actions of vitamin D3 and data supporting a vitamin D-independent role of the  <strong>Vitamin D receptor (VDR)</strong> , a more detailed mechanistic understanding of vitamin D3 activity is needed to properly translate pre-clinical findings into the clinic. Therefore, we assessed studies based on route of vitamin D3 administration, and identified where discrepancies in results exist and where more research is needed to establish the benefit of vitamin D supplementation.</p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542207"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542207',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542207'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542207"></script>
+    <script src="/js/search-results-panel.js?v=1746542207"></script>
+</body>
+</html>

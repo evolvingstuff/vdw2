@@ -47,6 +47,6 @@ Hopefully the symptoms have not changed with the
 
 ---
 
-#### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### VitaminDWiki - [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 <!-- ~tc~ (alias(You have long-COVID if you have more than 12 points - May 2023)) ~/tc~ -->

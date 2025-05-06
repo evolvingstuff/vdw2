@@ -1,0 +1,12 @@
+---
+title: "Spinal Fusion complications 2.2 X more likely if low Vitamin D"
+slug: "spinal-fusion-complications-22-x-more-likely-if-low-vitamin-d"
+aliases:
+  - "/Spinal+Fusion+complications+22+X+more+likely+if+low+Vitamin+D+–+Dec+2020"
+  - "/tiki-index.php?page_id=12102"
+date: 2020-12-01
+categories:
+  - "Trauma and surgery"
+  - "Back pain"
+---
+

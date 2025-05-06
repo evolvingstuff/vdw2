@@ -1,0 +1,12 @@
+---
+title: "Mutated gene, OAS1, which lowers vitamin D in brain, increases Alzheimers and severe COVID-19"
+slug: "mutated-gene-oas1-which-lowers-vitamin-d-in-brain-increases-alzheimers-and-severe-covid-19"
+aliases:
+  - "/Mutated+gene+OAS1+which+lowers+vitamin+D+in+brain+increases+Alzheimers+and+severe+COVID-19+–+Oct+2021"
+  - "/tiki-index.php?page_id=12986"
+date: 2021-10-14
+categories:
+  - "Cognitive"
+  - "Virus"
+---
+

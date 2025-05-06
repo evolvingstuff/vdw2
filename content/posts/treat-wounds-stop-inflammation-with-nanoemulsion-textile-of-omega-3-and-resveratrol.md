@@ -1,0 +1,13 @@
+---
+title: "Treat wounds, stop inflammation with nanoemulsion textile of Omega-3 and Resveratrol"
+slug: "treat-wounds-stop-inflammation-with-nanoemulsion-textile-of-omega-3-and-resveratrol"
+aliases:
+  - "/Treat+wounds+stop+inflammation+with+nanoemulsion+textile+of+Omega-3+and+Resveratrol+-+Sept+2019"
+  - "/tiki-index.php?page_id=11074"
+date: 2019-08-15
+categories:
+  - "Vitamin D and Omega-3"
+  - "Inflammation"
+  - "Resveratrol"
+---
+

@@ -39,4 +39,4 @@ Conclusions: Supplement use was frequent in this sample of adult individuals wit
 
 #### Note: Finns may have the highest Vitamin D levels on the planet, so do not need much more
 
- **<a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a>** 
+ **[After years of adding vitamin D, Finland now has 38 ng levels - March 2022](/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels)** 

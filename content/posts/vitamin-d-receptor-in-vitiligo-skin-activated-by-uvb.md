@@ -1,0 +1,13 @@
+---
+title: "Vitamin D Receptor in vitiligo skin activated by UVB"
+slug: "vitamin-d-receptor-in-vitiligo-skin-activated-by-uvb"
+aliases:
+  - "/Vitamin+D+Receptor+in+vitiligo+skin+activated+by+UVB+–+May+2018"
+  - "/tiki-index.php?page_id=10194"
+date: 2018-11-11
+categories:
+  - "UV and Vitamin D"
+  - "Skin"
+  - "Vitamin D Receptor"
+---
+

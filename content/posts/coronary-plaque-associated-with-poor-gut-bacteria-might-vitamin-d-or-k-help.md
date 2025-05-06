@@ -43,9 +43,9 @@ This study provides evidence of an association of a gut microbiota composition c
 
 ##### Note: Vitamin K decreases and even dissolves coranary plaque
 
-* <a href="/posts/vitamin-k-reduces-calcification-reported-yet-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K reduces calcification (reported yet again) – Feb 2019">Vitamin K reduces calcification (reported yet again) – Feb 2019</a>
+* [Vitamin K reduces calcification (reported yet again) – Feb 2019](/posts/vitamin-k-reduces-calcification-reported-yet-again)
 
-* <a href="/posts/vitamin-d-and-vitamin-k-together-fight-cvd-part-1-pizzorno" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Vitamin K together fight CVD Part 1- Pizzorno">Vitamin D and Vitamin K together fight CVD Part 1- Pizzorno</a>
+* [Vitamin D and Vitamin K together fight CVD Part 1- Pizzorno](/posts/vitamin-d-and-vitamin-k-together-fight-cvd-part-1-pizzorno)
 
 * <a href="/posts/decalcify-aortic-valve-3-year-trial-with-1-mg-of-vitamin-k-and-5000-iu-of-vitamin-d-2021" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Decalcify Aortic Valve – 3 year trial with 1 mg of Vitamin K and 5,000 IU of Vitamin D – 2021">Decalcify Aortic Valve – 3 year trial with 1 mg of Vitamin K and 5,000 IU of Vitamin D – 2021</a>
 

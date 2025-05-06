@@ -14,7 +14,7 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/more-us-infants-die-in-1st-day-than-in-all-other-developed-countries-combined-an-ne-in-first-day" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More US infants die in 1st day than in all other developed countries COMBINED (and US gives vaccine in first day) – May 2013">More US infants die in 1st day than in all other developed countries COMBINED (and US gives vaccine in first day) – May 2013</a>
+#### VitaminDWiki - [More US infants die in 1st day than in all other developed countries COMBINED (and US gives vaccine in first day) – May 2013](/posts/more-us-infants-die-in-1st-day-than-in-all-other-developed-countries-combined-an-ne-in-first-day)
 
 ---
 
@@ -96,7 +96,7 @@ Men C vaccine (Meningococcal group C): one dose from 12 months old
 
 ---
 
-#### VitaminDWiki - <a href="/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Infant Deaths (SIDS) soon after vaccination - several studies">Sudden Infant Deaths (SIDS) soon after vaccination - several studies</a>
+#### VitaminDWiki - [Sudden Infant Deaths (SIDS) soon after vaccination - several studies](/posts/sudden-infant-deaths-sids-soon-after-vaccination-several-studies)
 
 50% of SIDS cases happened within 48 hours post vaccine (over 7 years) - Sept 2023
 
@@ -106,4 +106,4 @@ Drop in US SIDS when vaccinations slowed due to COVID-19 – July 2021
 
 #### VitaminDWiki - [Infants getting lots of vaccinations are 2X more likely to die - July 2023](/posts/infants-getting-lots-of-vaccinations-are-2x-more-likely-to-die)
 
-#### VitaminDWiki - <a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a>
+#### VitaminDWiki - [6X increase in excess deaths of children since vaccinations were started - Oct 2022](/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started)

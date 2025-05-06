@@ -31,7 +31,7 @@ categories:
 
 * <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
-* <a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a> has the following
+* [After years of adding vitamin D, Finland now has 38 ng levels - March 2022](/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels) has the following
 
 > <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -73,7 +73,7 @@ No surprise - blacks have a much lower vitamin D levels than whites
 
 ---
 
-#### See also <a href="/posts/miscarriage-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Miscarriage and low Vitamin D – many studies">Miscarriage and low vitamin D</a> occur before 20th week
+#### See also [Miscarriage and low vitamin D](/posts/miscarriage-and-low-vitamin-d-many-studies) occur before 20th week
 
 ---
 

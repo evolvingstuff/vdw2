@@ -36,7 +36,7 @@ Conclusions There are statistically significant positive correlations between mo
 
 ---
 
-#### VitaminDWiki - <a href="/posts/problems-after-childhood-vaccinations-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems after childhood vaccinations - many studies">Problems after childhood vaccinations - many studies</a> :
+#### VitaminDWiki - [Problems after childhood vaccinations - many studies](/posts/problems-after-childhood-vaccinations-many-studies) :
 
  **Increased Office Visits start about 500 days after vaccination** 
 

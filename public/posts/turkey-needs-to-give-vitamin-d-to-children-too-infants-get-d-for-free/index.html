@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Turkey needs to give Vitamin D to children too (infants get D for free)</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542369">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542369">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542369"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Turkey needs to give Vitamin D to children too (infants get D for free)</h1>
+        <time>December 18, 2019</time>
+        <h4 id="suspected-by-the-founder-of-vitamindwiki">Suspected by the founder of VitaminDWiki</h4>
+<p>Suspect a bimodal distribution of vitamin D levels:</p>
+<ol>
+<li>
+<p>Higher levels if child got Vitamin D from parents - carr-on from free govt. Vitamin D for infants</p>
+</li>
+<li>
+<p>Lower levels if no Vitamin D supplementation</p>
+</li>
+</ol>
+</div>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki</a></strong></p>
+<p>Objective:</p>
+<p>This study aimed to determine the ratio of seasonal vitamin D deficiency and insufficiency in elementary school children aged between 6-9 years old, living in one of the largest metropols of Europe, İstanbul.</p>
+<p>Methods:</p>
+<p>Serum 25(OH)D levels of 640 children aged 6-9 years old were scanned retrospectively from the hospital information system records between September 2017-August 2018 period. Vitamin D deficiency was defined as a serum 25(OH)D level less than 12 ng/mL (30 nmol/L) and insufficiency as levels between 12 and 20 ng/mL (30-50 nmol/L).</p>
+<p>Results:</p>
+<p>Serum 25(OH)D levels ranged from 3.90 to 64.60 ng/mL, the median value was 25.95 ng/mL for all subjects. Of all the primary school children, 485 (75.78%) had adequate levels of 25(OH)D. Vitamin D deficiency was observed in 36 of children (5.62%), whereas insufficient levels of 25(OH)D were found in 119 children (18.60%). The ratio of vitamin D insufficiency and deficiency together was highest in spring (31.87%) and lowest in summer (13.12%).</p>
+<p>Conclusion:</p>
+<p>Vitamin D deficiency is a widely observed and preventable public health problem among children of different ages. It is necessary to increase the awareness among health professionals, and providing 25(OH)D supplements will yield generations with healthy bone structure and well growth.</p>
+<!-- ~tc~ (alias(Turkey needs to give Vitamin D to children (they give Vti D free to all infants) – June 2019)) ~/tc~ -->
+<!-- ~tc~ (alias(Turkey needs to give Vitamin D to children (all Turkish infants get D for free) – June 2019)) ~/tc~ -->
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542370"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542370',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542370'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542370"></script>
+    <script src="/js/search-results-panel.js?v=1746542370"></script>
+</body>
+</html>

@@ -76,11 +76,11 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
    * many of them, such as Bio-innovations Pharmacal and Bio-Tech Pharmacal, are water soluable = faster
 
-* <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>
+* [Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies)
 
 * Calcidiol = 25-hydroxyvitamin D3 = 25(OH)D = Calcifediol
 
-   * <a href="/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies">Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies</a>
+   * [Calcifediol (Calcidiol, semiactivated Vitamin D) - many studies](/posts/calcifediol-calcidiol-semiactivated-vitamin-d-many-studies)
 
  **Suspect: Both sublingual and emulsion forms of the vitamins get into the blood stream much faster** 
 
@@ -100,7 +100,7 @@ Since the lymph system does not have a pump, you might speed up the response to 
 
 #### Vitamin D from the skin enters the blood quickly, bypassing the lymphatic system
 
- **Skin sources of Vitamin D:[Sun](/categories/noontime-sun-and-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV</a>, <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">topical</a>, <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual</a>** 
+ **Skin sources of Vitamin D:[Sun](/categories/noontime-sun-and-d), <a href="/posts/vitamin-d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D from low-cost UVB lamps">UV</a>, [topical](/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies), <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">sublingual</a>** 
 
 ---
 

@@ -30,11 +30,11 @@ Conclusion: More than half of gastric cancer patients had preoperative 25(OH)vit
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>
+#### VitaminDWiki - [Vitamin D is needed before most surgeries – many studies and RCTs](/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer, Vitamin D, VDR, UV - many studies">Gastric Cancer, Vitamin D, VDR, UV - many studies</a>
+#### VitaminDWiki - [Gastric Cancer, Vitamin D, VDR, UV - many studies](/posts/gastric-cancer-vitamin-d-vdr-uv-many-studies)
 
  **Many easy ways to decrease the need Cancer surgery** 
 

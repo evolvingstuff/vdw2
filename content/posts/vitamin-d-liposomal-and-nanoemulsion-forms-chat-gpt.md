@@ -88,7 +88,7 @@ In summary, for Vitamin D supplementation, oral intake and sunlight exposure are
 
 ---
 
-#### VitaminDWiki - <a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>
+#### VitaminDWiki - [Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies)
 
 which contains: Nanoemulsion vitamin D 40% more bio-available than fat-soluble - RCT Jan 2023
 

@@ -1,0 +1,11 @@
+---
+title: "Some Dental Malocclusions 5X more likely if low vitamin D"
+slug: "some-dental-malocclusions-5x-more-likely-if-low-vitamin-d"
+aliases:
+  - "/Some+Dental+Malocclusions+5X+more+likely+if+low+vitamin+D+–+June+2021"
+  - "/tiki-index.php?page_id=12674"
+date: 2021-06-21
+categories:
+  - "Dental"
+---
+

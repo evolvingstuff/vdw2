@@ -32,4 +32,4 @@ in contrast, intake of alpha-linolenic acid, long-chain omega-3 fatty acids, and
 
 ---
 
-#### See also <a href="/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular Disease is treated by Vitamin D - many studies">Cardiovascular Disease is treated by Vitamin D - many studies</a>
+#### See also [Cardiovascular Disease is treated by Vitamin D - many studies](/posts/cardiovascular-disease-is-treated-by-vitamin-d-many-studies)

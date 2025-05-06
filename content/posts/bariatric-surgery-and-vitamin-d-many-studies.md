@@ -17,7 +17,7 @@ categories:
 
 &nbsp; &nbsp;  **<span style="color:#F00;">48 lbs</span>**  lost if <30 ng of Vitamin D
 
-Note: Might not have needed surgery if <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">weight loss plan + weekly 50,000 IU of Vitamin D</a>
+Note: Might not have needed surgery if [weight loss plan + weekly 50,000 IU of Vitamin D](/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts)
 
 {{< toc >}} 
 

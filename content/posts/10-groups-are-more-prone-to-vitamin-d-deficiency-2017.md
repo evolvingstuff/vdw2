@@ -48,10 +48,10 @@ Lots of details in the article
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-deficiency-is-the-most-common-nutritional-deficiency-in-the-world" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency is the most common nutritional deficiency in the world – July 2022">Vitamin D deficiency is the most common nutritional deficiency in the world – July 2022</a>
+* [Vitamin D deficiency is the most common nutritional deficiency in the world – July 2022](/posts/vitamin-d-deficiency-is-the-most-common-nutritional-deficiency-in-the-world)
 
 * [Vitamin D Deficiency - 14 signs - March 2023](/posts/vitamin-d-deficiency-14-signs)
 
-* <a href="/posts/shift-workers-2x-more-likely-to-get-covid-19-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020">Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020</a>
+* [Shift workers 2X more likely to get COVID-19 (low Vitamin D) - Dec 2020](/posts/shift-workers-2x-more-likely-to-get-covid-19-low-vitamin-d)
 
 * <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>

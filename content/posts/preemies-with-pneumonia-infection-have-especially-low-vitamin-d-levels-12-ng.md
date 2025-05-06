@@ -37,4 +37,4 @@ Conclusion: Our results demonstrated a high prevalence of 25 (OH) vitamin D defi
 
 #### Probably preemies should get: 10K daily, 600K bolus - April 2022
 
-<a href="/posts/high-dose-vitamin-d-safe-for-children-10000-iu-daily-600000-iu-bolus-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022">High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022</a>
+[High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022](/posts/high-dose-vitamin-d-safe-for-children-10000-iu-daily-600000-iu-bolus-meta-analysis)

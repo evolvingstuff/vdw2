@@ -32,7 +32,7 @@ Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54)
 
 ---
 
-#### <a href="/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: African American Health Disparities are associated with low Vitamin D - Grant Feb 2021">Whites with low Vitamin D have similar health problems as Blacks</a>
+#### [Whites with low Vitamin D have similar health problems as Blacks](/posts/african-american-health-disparities-are-associated-with-low-vitamin-d-grant)
 
  **<span style="color:#00F;">Low Vitamin D increases health problems - independent of skin color</span>** 
 
@@ -42,4 +42,4 @@ Vitamin D showed a slightly weaker effect ( **OR = 2.74** , 95% CI: 1.35–5.54)
 
 #### See also in VitaminDWiki
 
-* <a href="/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019">Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019</a>  skin color not described
+* [Preterm birth 8X more likely if poor Vitamin D Receptor – Dec 2019](/posts/preterm-birth-8x-more-likely-if-poor-vitamin-d-receptor)  skin color not described

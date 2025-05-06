@@ -42,11 +42,11 @@ Conclusions: A significant association of female infertility with pesticide expo
 
 * <a href="/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016">Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016</a>
 
-* <a href="/posts/risk-of-severe-adhd-increased-2x-if-multiple-pesticides-in-urine-while-pregnant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019">Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019</a>
+* [Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019](/posts/risk-of-severe-adhd-increased-2x-if-multiple-pesticides-in-urine-while-pregnant)
 
 * <a href="/posts/if-parents-exposed-to-pesticides-genes-changed-will-need-more-vitamin-d-to-avoid-prostate-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If parents exposed to pesticides, genes changed. will need more vitamin D to avoid Prostate Cancer – July 2013">If parents exposed to pesticides, genes changed. will need more vitamin D to avoid Prostate Cancer – July 2013</a>
 
-* <a href="/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018">Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018</a>
+* [Off Topic: Organic food consumption decreases cancer by 25 percent – JAMA Oct 2018](/posts/off-topic-organic-food-consumption-decreases-cancer-by-25-percent-jama)
 
 ---
 

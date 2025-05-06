@@ -77,15 +77,15 @@ AND there would be 13 fewer occasions to forget to take it**
 
 #### 6 studies of giving Vitamin D
 
-* <a href="/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022">Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022</a>
+* [Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022](/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better)
 
-* <a href="/posts/romania-joins-turkey-in-giving-free-vitamin-d-to-all-infants-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Romania joins Turkey in giving free Vitamin D to all infants – 2018">Romania joins Turkey in giving free Vitamin D to all infants – 2018</a>
+* [Romania joins Turkey in giving free Vitamin D to all infants – 2018](/posts/romania-joins-turkey-in-giving-free-vitamin-d-to-all-infants-2018)
 
-* <a href="/posts/employers-gain-10-dollars-in-productivity-for-every-dollar-spent-on-giving-vitamin-d-for-free" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Employers gain 10 dollars in productivity for every dollar spent on giving Vitamin D for free">Employers gain 10 dollars in productivity for every dollar spent on giving Vitamin D for free</a>
+* [Employers gain 10 dollars in productivity for every dollar spent on giving Vitamin D for free](/posts/employers-gain-10-dollars-in-productivity-for-every-dollar-spent-on-giving-vitamin-d-for-free)
 
 * [US Food stamps program being asked to add free Vitamin D - June 2023](/posts/us-food-stamps-program-being-asked-to-add-free-vitamin-d)
 
-* <a href="/posts/employers-should-give-night-shift-workers-free-vitamin-d-gmb-union" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Employers should give night shift workers free vitamin D – GMB Union June 2019">Employers should give night shift workers free vitamin D – GMB Union June 2019</a>
+* [Employers should give night shift workers free vitamin D – GMB Union June 2019](/posts/employers-should-give-night-shift-workers-free-vitamin-d-gmb-union)
 
 * <a href="/posts/all-pregnant-women-in-scotland-to-get-free-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: All pregnant women in Scotland to get free vitamin D - April 2017">All pregnant women in Scotland to get free vitamin D - April 2017</a>
 

@@ -67,7 +67,7 @@ As to the scientific journal literature, you can generally obtain PDFs through p
 
 ---
 
-#### 47+ items by <a href="/posts/by-dr-grant-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: By Dr. Grant in VitaminDWiki">By Dr. Grant in VitaminDWiki</a>
+#### 47+ items by [By Dr. Grant in VitaminDWiki](/posts/by-dr-grant-in-vitamindwiki)
 
 <!-- ~tc~ (alias(My Life as A Vitamin D Rreascher – Dr. Grant Feb 2023)) ~/tc~ -->
 

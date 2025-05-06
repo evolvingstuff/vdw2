@@ -25,19 +25,19 @@ categories:
 
 #### Genes and other reasons for poor blood response to Vitamin D supplementation
 
-* <a href="/posts/poor-or-no-response-to-vitamin-d-was-associated-with-poor-genes-cystic-fibrosis-4-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor or no response to vitamin D was associated with poor genes (cystic fibrosis, 4 genes) Sept 2022">Poor or no response to vitamin D was associated with poor genes (cystic fibrosis, 4 genes) Sept 2022</a>
+* [Poor or no response to vitamin D was associated with poor genes (cystic fibrosis, 4 genes) Sept 2022](/posts/poor-or-no-response-to-vitamin-d-was-associated-with-poor-genes-cystic-fibrosis-4-genes)
 
 * <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
 
-* <a href="/posts/autistics-have-half-of-the-response-to-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autistics have half of the response to Vitamin D – RCT Oct 2018">Autistics have half of the response to Vitamin D – RCT Oct 2018</a>
+* [Autistics have half of the response to Vitamin D – RCT Oct 2018](/posts/autistics-have-half-of-the-response-to-vitamin-d-rct)
 
-* <a href="/posts/poor-cyp2r1-gene-reduces-blood-response-to-vitamin-d-supplementation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor CYP2R1 gene reduces blood response to Vitamin D supplementation – Aug 2019">Poor CYP2R1 gene reduces blood response to Vitamin D supplementation – Aug 2019</a>
+* [Poor CYP2R1 gene reduces blood response to Vitamin D supplementation – Aug 2019](/posts/poor-cyp2r1-gene-reduces-blood-response-to-vitamin-d-supplementation)
 
-* <a href="/posts/poor-vitamin-d-response-4x-more-likely-if-poor-vitamin-d-binding-proteins" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor Vitamin D response 4X more likely if poor Vitamin D binding proteins - July 2019">Poor Vitamin D response 4X more likely if poor Vitamin D binding proteins - July 2019</a>
+* [Poor Vitamin D response 4X more likely if poor Vitamin D binding proteins - July 2019](/posts/poor-vitamin-d-response-4x-more-likely-if-poor-vitamin-d-binding-proteins)
 
-* <a href="/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019">Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a>
+* [Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019](/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders)
 
-* <a href="/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022">Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022</a>
+* [Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022](/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b)
 
 ---
 

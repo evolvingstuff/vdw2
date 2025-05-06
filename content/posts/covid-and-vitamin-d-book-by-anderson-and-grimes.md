@@ -158,10 +158,10 @@ The Kindle address of your device is under the settings
 
 ---
 
-#### A previous book: <a href="/posts/influence-of-vitamin-d-on-covid-19-guidebook-benskin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influence of Vitamin D on COVID-19 (Guidebook) - Benskin Sept 2021">Influence of Vitamin D on COVID-19 (Guidebook) - Benskin Sept 2021</a>
+#### A previous book: [Influence of Vitamin D on COVID-19 (Guidebook) - Benskin Sept 2021](/posts/influence-of-vitamin-d-on-covid-19-guidebook-benskin)
 
 ---
 
-#### A previous book: <a href="/posts/vitamin-d-deficiency-and-covid-19-book-by-drs-anderson-and-grimes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Deficiency and Covid-19: Book by Drs Anderson and Grimes - July 2020">Vitamin D Deficiency and Covid-19: Book by Drs Anderson and Grimes - July 2020</a>
+#### A previous book: [Vitamin D Deficiency and Covid-19: Book by Drs Anderson and Grimes - July 2020](/posts/vitamin-d-deficiency-and-covid-19-book-by-drs-anderson-and-grimes)
 
 which has links to books and videos on COVID and Vitamin D

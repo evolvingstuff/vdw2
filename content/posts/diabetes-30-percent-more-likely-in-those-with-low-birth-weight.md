@@ -108,7 +108,7 @@ Conclusion/interpretation: Despite younger age at diagnosis, and fewer individua
 
 #### increasing Vitamin D decreases low birth weight (and thus decreases early diabetes)
 
-* <a href="/posts/37x-decrease-in-very-low-weight-births-following-huge-increase-in-vitamin-d-sales" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3.7X decrease in Very Low Weight Births (following huge increase in Vitamin D sales) - June 2020">3.7X decrease in Very Low Weight Births (following huge increase in Vitamin D sales) - June 2020</a>
+* [3.7X decrease in Very Low Weight Births (following huge increase in Vitamin D sales) - June 2020](/posts/37x-decrease-in-very-low-weight-births-following-huge-increase-in-vitamin-d-sales)
 
 * <a href="/posts/vitamin-d-intervention-reduces-preterm-births-and-low-birth-weight-by-60-percent-cochrane-reviews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017">Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017</a>
 

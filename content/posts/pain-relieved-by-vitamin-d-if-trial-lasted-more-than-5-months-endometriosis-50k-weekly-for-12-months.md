@@ -56,4 +56,4 @@ The included studies support the potential role of antioxidant vitamins in the m
 
 ---
 
-##### Example: <a href="/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021">Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021</a>
+##### Example: [Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021](/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct)

@@ -26,10 +26,10 @@ date: 2023-08-11
 
 * [NIH employees got 1.4 billion dollars in big-pharma royalties in 12 years - Jan 2023](/posts/nih-employees-got-14-billion-dollars-in-big-pharma-royalties-in-12-years)
 
-* <a href="/posts/nih-scientists-get-personal-non-documented-kickbacks-from-nih-funded-companies-2-ent-to-dr-fauci" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: NIH scientists get personal, non-documented kickbacks from NIH funded companies (23 payments went to Dr. Fauci) ">NIH scientists get personal, non-documented kickbacks from NIH funded companies (23 payments went to Dr. Fauci) </a>
+* [NIH scientists get personal, non-documented kickbacks from NIH funded companies (23 payments went to Dr. Fauci) ](/posts/nih-scientists-get-personal-non-documented-kickbacks-from-nih-funded-companies-2-ent-to-dr-fauci)
 
-* <a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>
+* [FDA drug section gets 75% of its income from Big Pharma - Oct 2022](/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma)
 
-* <a href="/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022">The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022</a>
+* [The FDA, CDC and most other Western govt. regulators only approve patented, profitable, COVID-19 treatments - June 2022](/posts/the-fda-cdc-and-most-other-western-govt-regulators-only-approve-patented-profita-d-19-treatments)
 
 * <a href="/posts/extremely-big-pharma-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Extremely Big Pharma - many studies">Extremely Big Pharma - many studies</a>

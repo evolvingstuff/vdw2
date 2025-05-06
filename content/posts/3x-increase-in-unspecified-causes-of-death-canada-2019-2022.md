@@ -57,7 +57,7 @@ categories:
 
 #### Some related studies in VitaminDWiki
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 * [Hospital utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022](/posts/hospital-utilization-australia-nsw-1415-vaccinated-0-unvaccinated)
 

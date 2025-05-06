@@ -14,11 +14,11 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/risk-of-hot-flashes-decreased-by-vitamin-d-vegan-diet-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of hot flashes decreased by vitamin D, vegan diet, etc.">Risk of hot flashes decreased by vitamin D, vegan diet, etc.</a>
+#### VitaminDWiki - [Risk of hot flashes decreased by vitamin D, vegan diet, etc.](/posts/risk-of-hot-flashes-decreased-by-vitamin-d-vegan-diet-etc)
 
 #### VitaminDWiki - <a href="/posts/the-role-of-vitamin-d-in-menopausal-medicine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Role of Vitamin D in Menopausal Medicine – Jan 2016">The Role of Vitamin D in Menopausal Medicine – Jan 2016</a>
 
-#### VitaminDWiki - <a href="/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Age of menopause increases if add vitamin D or UVB">Age of menopause increases if add vitamin D or UVB</a>
+#### VitaminDWiki - [Age of menopause increases if add vitamin D or UVB](/posts/age-of-menopause-increases-if-add-vitamin-d-or-uvb)
 
 ---
 

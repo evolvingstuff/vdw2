@@ -49,7 +49,7 @@ This review is focused mainly on
 
 ---
 
-#### VitaminDWiki - <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+#### VitaminDWiki - [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)
 
 ---
 

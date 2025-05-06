@@ -45,9 +45,9 @@ Conclusions: Our results showed low levels of vitamin D diagnosis of T1D, CD, an
 
 #### Vitamin D levels do not vary with season sometimes
 
-* <a href="/posts/not-all-vitamin-d-levels-follow-the-season-asthma-rhinitis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019">Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019</a>
+* [Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019](/posts/not-all-vitamin-d-levels-follow-the-season-asthma-rhinitis)
 
-* <a href="/posts/majority-of-frail-hospital-patients-had-low-vitamin-d-which-did-not-change-with-season-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Majority of frail hospital patients had low vitamin D, which did not change with season – 2018">Majority of frail hospital patients had low vitamin D, which did not change with season – 2018</a>
+* [Majority of frail hospital patients had low vitamin D, which did not change with season – 2018](/posts/majority-of-frail-hospital-patients-had-low-vitamin-d-which-did-not-change-with-season-2018)
 
 * <a href="/posts/vitamin-d-deficiency-varies-widely-with-season-in-young-women-but-not-in-old" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018">Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018</a>
 

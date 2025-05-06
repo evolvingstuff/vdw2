@@ -55,17 +55,17 @@ Interpretation: The consistency seen among cases in this review with known COVID
 
 #### Related items of interest
 
-* <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+* [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
-* 216+ <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a> includes:
+* 216+ [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki) includes:
 
    * [3,400 peer-reviewed studies found COVID Vaccination problems as of April 2023](/posts/3400-peer-reviewed-studies-found-covid-vaccination-problems-as-of)
 
-   * <a href="/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023">COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023</a>
+   * [COVID vaccination increased by 137X the risk of 10-14 year olds of dying (UK) – Jan 2023](/posts/covid-vaccination-increased-by-137x-the-risk-of-10-14-year-olds-of-dying-uk)
 
-   * <a href="/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chart of excess deaths and vaccination in the Netherlands - for 2022">Chart of excess deaths and vaccination in the Netherlands - for 2022</a>
+   * [Chart of excess deaths and vaccination in the Netherlands - for 2022](/posts/chart-of-excess-deaths-and-vaccination-in-the-netherlands-for-2022)
 
-   * <a href="/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022">2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022</a>
+   * [2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022](/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations)
 
 ---
 

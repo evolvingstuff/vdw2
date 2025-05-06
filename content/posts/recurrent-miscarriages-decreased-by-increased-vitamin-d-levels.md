@@ -39,7 +39,7 @@ Conclusion: The rate of VD deficiency is higher in RSA patients. VD deficiency m
 
 ---
 
-#### VitaminDWiki - <a href="/posts/miscarriage-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Miscarriage and low Vitamin D – many studies">Miscarriage and low Vitamin D – many studies</a>
+#### VitaminDWiki - [Miscarriage and low Vitamin D – many studies](/posts/miscarriage-and-low-vitamin-d-many-studies)
 
 ---
 

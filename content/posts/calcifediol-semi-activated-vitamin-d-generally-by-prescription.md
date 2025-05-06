@@ -367,4 +367,4 @@ The field of vitamin D has made considerable advancements over the last years, e
 
 ---
 
-##### VitaminDWiki –  <a href="/posts/some-vitamin-d-is-stored-in-skeletal-muscles-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some vitamin D is stored in skeletal muscles – multiple studies">Some vitamin D is stored in skeletal muscles – multiple studies</a>
+##### VitaminDWiki –  [Some vitamin D is stored in skeletal muscles – multiple studies](/posts/some-vitamin-d-is-stored-in-skeletal-muscles-multiple-studies)

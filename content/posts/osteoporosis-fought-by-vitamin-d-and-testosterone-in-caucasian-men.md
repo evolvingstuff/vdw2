@@ -111,7 +111,7 @@ TRT is able to inhibit bone resorption and increase bone mass, particularly at t
 
 ---
 
-#### <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D levels have been crashing</a>
+#### [Vitamin D levels have been crashing](/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

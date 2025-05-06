@@ -81,4 +81,4 @@ In summary, in a subsample of the ViDA study with 854 older adults in New Zealan
 
  **<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>** 
 
- **<a href="/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020">44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020</a>** 
+ **[44 percent of successful RCTs in VitaminDWiki used non-daily dosing - Nov 2020](/posts/44-percent-of-successful-rcts-in-vitamindwiki-used-non-daily-dosing)** 

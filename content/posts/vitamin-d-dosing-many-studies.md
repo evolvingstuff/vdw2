@@ -13,9 +13,9 @@ date: 2024-03-01
 
 #### 7+ VitaminDWiki pages have 50,000 or 60,000 IU with DAILY dosing
 
-1. <a href="/posts/long-term-psoriasis-cured-by-30000-to-60000-iu-of-vitamin-d-daily-pictures-and-video-early-2022" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-term Psoriasis cured by 30,000 to 60,000 IU of Vitamin D daily (pictures and video) – early 2022">Long-term Psoriasis cured by 30,000 to 60,000 IU of Vitamin D daily (pictures and video) – early 2022</a>
+1. [Long-term Psoriasis cured by 30,000 to 60,000 IU of Vitamin D daily (pictures and video) – early 2022](/posts/long-term-psoriasis-cured-by-30000-to-60000-iu-of-vitamin-d-daily-pictures-and-video-early-2022)
 
-1. <a href="/posts/vitamin-d-reduced-covid-19-inflammation-60000-iu-daily-for-8-days-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduced COVID-19 inflammation (60,000 IU daily for 8 days) - RCT Feb 2021">Vitamin D reduced COVID-19 inflammation (60,000 IU daily for 8 days) - RCT Feb 2021</a>
+1. [Vitamin D reduced COVID-19 inflammation (60,000 IU daily for 8 days) - RCT Feb 2021](/posts/vitamin-d-reduced-covid-19-inflammation-60000-iu-daily-for-8-days-rct)
 
 1. <a href="/posts/asthma-treated-by-daily-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma treated by daily 50,000 IU of Vitamin D – April 2018">Asthma treated by daily 50,000 IU of Vitamin D – April 2018</a>
 

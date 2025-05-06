@@ -1,0 +1,11 @@
+---
+title: "Macular Degeneration (AMD) antioxidants treated by Vitamin D in the lab"
+slug: "macular-degeneration-amd-antioxidants-treated-by-vitamin-d-in-the-lab"
+aliases:
+  - "/Macular+Degeneration+AMD+antioxidants+treated+by+Vitamin+D+in+the+lab+–+Aug+2019"
+  - "/tiki-index.php?page_id=11097"
+date: 2019-08-24
+categories:
+  - "Vision"
+---
+

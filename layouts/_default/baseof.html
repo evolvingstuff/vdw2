@@ -36,22 +36,23 @@
         </div>
     </div>
     <div class="container">
+        <!-- CATEGORIES SIDEBAR COMMENTED OUT - BEGIN
         <div class="sidebar">
             <h2>Categories</h2>
             <ul class="hierarchical-categories" data-spa-nav>
                 {{- range .Site.Data.categories.topLevelCategories -}}
                 {{- $topCat := . -}}
-                <!-- Calculate total count -->
+                {{- /* Calculate total count */ -}}
                 {{- $totalCount := 0 -}}
                 
-                <!-- Special handling for default category (isDefault=true) -->
+                {{- /* Special handling for default category (isDefault=true) */ -}}
                 {{- if .isDefault -}}
-                    <!-- Count all categories not explicitly mapped elsewhere -->
+                    {{- /* Count all categories not explicitly mapped elsewhere */ -}}
                     {{- range $.Site.Taxonomies.categories -}}
                         {{- $currentCat := .Page.Title -}}
                         {{- $isExplicitlyMapped := false -}}
                         
-                        <!-- Check if this category is explicitly mapped elsewhere -->
+                        {{- /* Check if this category is explicitly mapped elsewhere */ -}}
                         {{- range $.Site.Data.categories.topLevelCategories -}}
                             {{- if not .isDefault -}}
                                 {{- range .subcategories -}}
@@ -62,13 +63,13 @@
                             {{- end -}}
                         {{- end -}}
                         
-                        <!-- If not explicitly mapped, count it for default category -->
+                        {{- /* If not explicitly mapped, count it for default category */ -}}
                         {{- if not $isExplicitlyMapped -}}
                             {{- $totalCount = add $totalCount .Count -}}
                         {{- end -}}
                     {{- end -}}
                 {{- else -}}
-                    <!-- Normal category count calculation -->
+                    {{- /* Normal category count calculation */ -}}
                     {{- range $.Site.Taxonomies.categories -}}
                         {{- $category := . -}}
                         {{- range $topCat.subcategories -}}
@@ -84,7 +85,7 @@
                         <span class="category-expander">+</span>
                         <span class="category-name">
                             {{ .name }}
-                            <!-- Always show count for default category, otherwise only show if > 0 -->
+                            {{- /* Always show count for default category, otherwise only show if > 0 */ -}}
                             {{- if or .isDefault (gt $totalCount 0) -}}
                                 ({{ $totalCount }})
                             {{- end -}}
@@ -92,12 +93,12 @@
                     </div>
                     <ul class="subcategory-list" style="display: none;">
                         {{- if .isDefault -}}
-                            <!-- Default category - show all categories not explicitly mapped elsewhere -->
+                            {{- /* Default category - show all categories not explicitly mapped elsewhere */ -}}
                             {{- range $.Site.Taxonomies.categories -}}
                                 {{- $currentCat := .Page.Title -}}
                                 {{- $isExplicitlyMapped := false -}}
                                 
-                                <!-- Check if this category is explicitly mapped elsewhere -->
+                                {{- /* Check if this category is explicitly mapped elsewhere */ -}}
                                 {{- range $.Site.Data.categories.topLevelCategories -}}
                                     {{- if not .isDefault -}}
                                         {{- range .subcategories -}}
@@ -108,13 +109,13 @@
                                     {{- end -}}
                                 {{- end -}}
                                 
-                                <!-- If not explicitly mapped, show it here -->
+                                {{- /* If not explicitly mapped, show it here */ -}}
                                 {{- if not $isExplicitlyMapped -}}
                                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
                                 {{- end -}}
                             {{- end -}}
                         {{- else -}}
-                            <!-- Normal category - only show explicitly mapped subcategories -->
+                            {{- /* Normal category - only show explicitly mapped subcategories */ -}}
                             {{- range $.Site.Taxonomies.categories -}}
                                 {{- $category := . -}}
                                 {{- range $topCat.subcategories -}}
@@ -129,7 +130,8 @@
                 {{- end -}}
             </ul>
         </div>
-        <div class="content" role="main">
+        CATEGORIES SIDEBAR COMMENTED OUT - END -->
+        <div class="content content-full-width" role="main">
             {{- block "main" . }}{{- end -}}
         </div>
     </div>

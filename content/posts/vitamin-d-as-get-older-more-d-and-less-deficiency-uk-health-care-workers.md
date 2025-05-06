@@ -49,6 +49,6 @@ Conclusion: It is concluded that our population of healthcare workers have highe
 
 *  **[5 X less COVID infection of health care workers who took lots of vitamin D – meta-analysis Feb 2024](/posts/5-x-less-covid-infection-of-health-care-workers-who-took-lots-of-vitamin-d-meta-analysis)** 
 
-*  **<a href="/posts/diseases-arising-from-depletion-are-cured-by-repletion-hippocrates-400-bc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases arising from depletion are cured by repletion - Hippocrates 400 BC">Diseases arising from depletion are cured by repletion - Hippocrates 400 BC</a>** 
+*  **[Diseases arising from depletion are cured by repletion - Hippocrates 400 BC](/posts/diseases-arising-from-depletion-are-cured-by-repletion-hippocrates-400-bc)** 
 
 <!-- ~tc~ (alias(HCW)) ~/tc~ -->

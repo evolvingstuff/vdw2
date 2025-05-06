@@ -27,4 +27,4 @@ categories:
 
 ---
 
-#### VitaminDWiki – <a href="/posts/phosphate-phosphatonins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Phosphate, Phosphatonins and Vitamin D - many studies">Phosphate, Phosphatonins and Vitamin D - many studies</a>
+#### VitaminDWiki – [Phosphate, Phosphatonins and Vitamin D - many studies](/posts/phosphate-phosphatonins-and-vitamin-d-many-studies)

@@ -1,0 +1,13 @@
+---
+title: "Autoimmune disease treated by Vitamin D, Zinc (and other activators of Vitamin D Receptor)"
+slug: "autoimmune-disease-treated-by-vitamin-d-zinc-and-other-activators-of-vitamin-d-receptor"
+aliases:
+  - "/Autoimmune+disease+treated+by+Vitamin+D+Zinc+and+other+activators+of+Vitamin+D+Receptor+–+Oct+2019"
+  - "/tiki-index.php?page_id=11463"
+date: 2019-12-17
+categories:
+  - "Autoimmune"
+  - "Vitamin D Receptor"
+  - "Zinc"
+---
+

@@ -1,0 +1,12 @@
+---
+title: "Sleepiness in children 1.7X more likely if low vitamin D"
+slug: "sleepiness-in-children-17x-more-likely-if-low-vitamin-d"
+aliases:
+  - "/Sleepiness+in+children+17X+more+likely+if+low+vitamin+D+–+Nov+2020"
+  - "/tiki-index.php?page_id=12143"
+date: 2020-12-15
+categories:
+  - "Sleep"
+  - "Infant-Child"
+---
+

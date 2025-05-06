@@ -1,0 +1,14 @@
+---
+title: "Omega-3 probably can decrease Autism and ADHD"
+slug: "omega-3-probably-can-decrease-autism-and-adhd"
+aliases:
+  - "/Omega-3+probably+can+decrease+Autism+and+ADHD+–+March+2019"
+  - "/tiki-index.php?page_id=10608"
+date: 2019-03-23
+categories:
+  - "Autism"
+  - "Infant-Child"
+  - "Vitamin D and Omega-3"
+  - "ADHD"
+---
+

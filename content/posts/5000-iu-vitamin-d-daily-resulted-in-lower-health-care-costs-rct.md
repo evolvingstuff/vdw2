@@ -67,6 +67,6 @@ However, the abstract says: "Costs of care between the groups were not statistic
 
 ##### It actually takes >150 days for response to plateau, not 60 days (in this study)
 
-* <a href="/posts/10000-iu-of-vitamin-d-for-7-years-with-no-excessive-calcium-in-4800-patients" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10,000 IU of Vitamin D for 7 years with no excessive Calcium in 4,800 patients – Dec 2018">10,000 IU of Vitamin D for 7 years with no excessive Calcium in 4,800 patients – Dec 2018</a>
+* [10,000 IU of Vitamin D for 7 years with no excessive Calcium in 4,800 patients – Dec 2018](/posts/10000-iu-of-vitamin-d-for-7-years-with-no-excessive-calcium-in-4800-patients)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">

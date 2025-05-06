@@ -576,7 +576,7 @@ Viruses are responsible for many human diseases with respiratory tract infection
 
 ---
 
-##### 55+ papers <a href="/posts/by-dr-grant-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: By Dr. Grant in VitaminDWiki">By Dr. Grant in VitaminDWiki</a>
+##### 55+ papers [By Dr. Grant in VitaminDWiki](/posts/by-dr-grant-in-vitamindwiki)
 
 ---
 
@@ -584,11 +584,11 @@ Viruses are responsible for many human diseases with respiratory tract infection
 
 ---
 
-#### VitaminDWiki – <a href="/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory viral infection (RSV) and low vitamin D - many studies">Respiratory viral infection (RSV) and low vitamin D - many studies</a>
+#### VitaminDWiki – [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
 
 ---
 
-#### VitaminDWiki – <a href="/posts/infections-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infections and low vitamin D">Infections and low vitamin D</a>
+#### VitaminDWiki – [Infections and low vitamin D](/posts/infections-and-low-vitamin-d)
 
 ---
 
@@ -596,4 +596,4 @@ Viruses are responsible for many human diseases with respiratory tract infection
 
 ---
 
-#### VitaminDWiki – <a href="/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies">Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies</a>
+#### VitaminDWiki – [Epstein-Barr Virus probably causes Long-COVID, CFS, and MS - many studies](/posts/epstein-barr-virus-probably-causes-long-covid-cfs-and-ms-many-studies)

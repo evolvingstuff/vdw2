@@ -86,4 +86,4 @@ Conclusion: Vitamin D concentrations were often insufficient among children livi
 
 #### Finland has learned to both fortify and supplement – and now may have the best vitamin D level on the planet
 
-*  **<a href="/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After years of adding vitamin D, Finland now has 38 ng levels - March 2022">After years of adding vitamin D, Finland now has 38 ng levels - March 2022</a>** 
+*  **[After years of adding vitamin D, Finland now has 38 ng levels - March 2022](/posts/after-years-of-adding-vitamin-d-finland-now-has-38-ng-levels)** 

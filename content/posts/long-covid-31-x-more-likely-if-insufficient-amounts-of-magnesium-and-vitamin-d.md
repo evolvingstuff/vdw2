@@ -30,8 +30,8 @@ The adjusted odds ratio for the association between hypomagnesemia and hydroxyvi
 
 ---
 
-#### VitaminDWiki - <a href="/posts/low-magnesium-associated-with-severe-covid-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Magnesium associated with severe COVID – many studies">Low Magnesium associated with severe COVID – many studies</a>
+#### VitaminDWiki - [Low Magnesium associated with severe COVID – many studies](/posts/low-magnesium-associated-with-severe-covid-many-studies)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID is now the biggest COVID concern - many studies</a>
+#### VitaminDWiki - [Long-COVID is now the biggest COVID concern - many studies](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)

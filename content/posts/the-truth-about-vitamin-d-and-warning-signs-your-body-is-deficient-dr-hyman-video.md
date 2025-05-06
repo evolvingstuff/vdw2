@@ -38,7 +38,7 @@ References for research mentioned in this episode can be found here: [https://bi
 
 ---
 
-#### VitaminDWiki – <a href="/posts/warning-signs-that-you-have-a-vitamin-d-deficiency-videos" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Warning signs that you have a Vitamin D Deficiency - videos Nov 2019">Warning signs that you have a Vitamin D Deficiency - videos Nov 2019</a>
+#### VitaminDWiki – [Warning signs that you have a Vitamin D Deficiency - videos Nov 2019](/posts/warning-signs-that-you-have-a-vitamin-d-deficiency-videos)
 
 ---
 

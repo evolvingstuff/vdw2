@@ -196,7 +196,7 @@ Vitamin D deficiency is a risk factor for developing multiple sclerosis (MS). Ho
 
 #### 9 related items in VitaminDWiki
 
-* <a href="/posts/epstein-barr-virus-increases-risk-of-multiple-sclerosis-by-32x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022">Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022</a>
+* [Epstein-Barr virus increases risk of Multiple Sclerosis by 32X - Jan 2022](/posts/epstein-barr-virus-increases-risk-of-multiple-sclerosis-by-32x)
 
    * Many virus have learned to protect themselves by deactivating the Vitamin D Receptor
 
@@ -204,17 +204,17 @@ Vitamin D deficiency is a risk factor for developing multiple sclerosis (MS). Ho
 
 * <a href="/posts/epigenetics-of-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epigenetics of Multiple Sclerosis – March 2014">Epigenetics of Multiple Sclerosis – March 2014</a>
 
-* <a href="/posts/resveratrol-treats-multiple-sclerosis-and-other-autoimmune-diseases-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies">Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies</a>
+* [Resveratrol treats Multiple Sclerosis and other autoimmune diseases – many studies](/posts/resveratrol-treats-multiple-sclerosis-and-other-autoimmune-diseases-many-studies)
 
-* <a href="/posts/gene-variants-can-reduce-vitamin-d-response-by-17x-14000-iu-daily-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021">Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021</a>
+* [Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021](/posts/gene-variants-can-reduce-vitamin-d-response-by-17x-14000-iu-daily-multiple-sclerosis)
 
-* <a href="/posts/uk-people-with-multiple-sclerosis-are-3x-more-likely-to-take-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UK people with Multiple Sclerosis are 3X more likely to take Vitamin D - Oct 2020">UK people with Multiple Sclerosis are 3X more likely to take Vitamin D - Oct 2020</a>
+* [UK people with Multiple Sclerosis are 3X more likely to take Vitamin D - Oct 2020](/posts/uk-people-with-multiple-sclerosis-are-3x-more-likely-to-take-vitamin-d)
 
 * <a href="/posts/multiple-sclerosis-much-more-likely-if-poor-vitamin-d-receptor-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis much more likely if poor Vitamin D Receptor – several studies">Multiple Sclerosis much more likely if poor Vitamin D Receptor – several studies</a>
 
-* <a href="/posts/7-ng-less-response-by-multiple-sclerosis-patients-to-5000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7 ng less response by Multiple Sclerosis patients to 5,000 IU of vitamin D – Aug 2015">7 ng less response by Multiple Sclerosis patients to 5,000 IU of vitamin D – Aug 2015</a>
+* [7 ng less response by Multiple Sclerosis patients to 5,000 IU of vitamin D – Aug 2015](/posts/7-ng-less-response-by-multiple-sclerosis-patients-to-5000-iu-of-vitamin-d)
 
-* <a href="/posts/gene-variants-can-reduce-vitamin-d-response-by-17x-14000-iu-daily-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021">Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021</a>
+* [Gene variants can reduce Vitamin D response by 1.7X (14,000 IU daily, Multiple Sclerosis) – Dec 2021](/posts/gene-variants-can-reduce-vitamin-d-response-by-17x-14000-iu-daily-multiple-sclerosis)
 
 ---
 

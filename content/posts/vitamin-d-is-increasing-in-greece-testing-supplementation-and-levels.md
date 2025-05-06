@@ -44,7 +44,7 @@ Conclusions: Despite the significant rise in VDT and VDS use, VDA was found in a
 
 #### Doctors often prescribe too small of doses
 
-* <a href="/posts/many-doctors-continue-to-believe-2000-iu-of-vitamin-d-is-max-hungary-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many doctors continue to believe 2,000 IU of vitamin D is max (Hungary in this case)– Dec 2021">Many doctors continue to believe 2,000 IU of vitamin D is max (Hungary in this case)– Dec 2021</a>
+* [Many doctors continue to believe 2,000 IU of vitamin D is max (Hungary in this case)– Dec 2021](/posts/many-doctors-continue-to-believe-2000-iu-of-vitamin-d-is-max-hungary-in-this-case)
 
 * <a href="/posts/do-not-expect-a-doctor-to-recommend-a-pill-which-will-eliminate-his-job-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do not expect a doctor to recommend a pill which will eliminate his job (vitamin D) ">Do not expect a doctor to recommend a pill which will eliminate his job (vitamin D) </a>
 

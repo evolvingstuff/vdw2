@@ -22,23 +22,23 @@ The freedom of information results from the CDC are at the above website
 
 #### Some related pages in VitaminDWiki
 
-* <a href="/posts/more-covid-vaccinations-more-infections-cleveland-clinic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022">More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022</a>
+* [More COVID vaccinations, more infections - Cleveland Clinic - Dec 2022](/posts/more-covid-vaccinations-more-infections-cleveland-clinic)
 
-* <a href="/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022">2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022</a>
+* [2.3X increase in sudden deaths in Germany after start of vaccinations - Dec 2022](/posts/23x-increase-in-sudden-deaths-in-germany-after-start-of-vaccinations)
 
-* <a href="/posts/the-more-covid-vaccinations-you-get-the-more-likely-youll-get-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The more COVID vaccinations you get, the More Likely you’ll get COVID - Oct 2022">The more COVID vaccinations you get, the More Likely you’ll get COVID - Oct 2022</a>
+* [The more COVID vaccinations you get, the More Likely you’ll get COVID - Oct 2022](/posts/the-more-covid-vaccinations-you-get-the-more-likely-youll-get-covid)
 
-* <a href="/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6X increase in excess deaths of children since vaccinations were started - Oct 2022">6X increase in excess deaths of children since vaccinations were started - Oct 2022</a>
+* [6X increase in excess deaths of children since vaccinations were started - Oct 2022](/posts/6x-increase-in-excess-deaths-of-children-since-vaccinations-were-started)
 
-* <a href="/posts/congress-members-demand-fda-investigate-covid-19-vaccine-injuries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Congress members demand FDA Investigate COVID-19 Vaccine Injuries – Sept 2022">Congress members demand FDA Investigate COVID-19 Vaccine Injuries – Sept 2022</a>
+* [Congress members demand FDA Investigate COVID-19 Vaccine Injuries – Sept 2022](/posts/congress-members-demand-fda-investigate-covid-19-vaccine-injuries)
 
-* <a href="/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023">Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023</a>
+* [Problems with vaccine use during a pandemic - Dr. Bossche 2021 - 2023](/posts/problems-with-vaccine-use-during-a-pandemic-dr-bossche-2021-2023)
 
-* <a href="/posts/phd-working-at-vaers-on-problems-with-vacc-system-masterjohn-interview-and-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PhD working at VAERS on problems with vacc system - Masterjohn interview and transcript- Dec 27, 2021">PhD working at VAERS on problems with vacc system - Masterjohn interview and transcript- Dec 27, 2021</a>
+* [PhD working at VAERS on problems with vacc system - Masterjohn interview and transcript- Dec 27, 2021](/posts/phd-working-at-vaers-on-problems-with-vacc-system-masterjohn-interview-and-transcript)
 
-* <a href="/posts/long-haul-vaers-ivermectin-vaccines-etc-drs-seheult-patrick-video-with-table-of-contents" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-haul, VAERS, Ivermectin, vaccines, etc. Drs. Seheult, Patrick: Video with table of contents - Sept 17, 2021">Long-haul, VAERS, Ivermectin, vaccines, etc. Drs. Seheult, Patrick: Video with table of contents - Sept 17, 2021</a>
+* [Long-haul, VAERS, Ivermectin, vaccines, etc. Drs. Seheult, Patrick: Video with table of contents - Sept 17, 2021](/posts/long-haul-vaers-ivermectin-vaccines-etc-drs-seheult-patrick-video-with-table-of-contents)
 
-* <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+* [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 <!-- ~tc~ (alias(CDC analyze VAERS until 2022, has not reported on it - freedom of info. data - Jan 2023)) ~/tc~ -->
 

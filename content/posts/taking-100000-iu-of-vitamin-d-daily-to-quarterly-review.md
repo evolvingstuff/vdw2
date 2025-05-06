@@ -47,4 +47,4 @@ Conclusions: A single high dose of VD3 may positively affect some health outcome
 
 ---
 
-#### VitaminDWiki - <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+#### VitaminDWiki - [Diseases treated by high-dose Vitamin D - many studies](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies)

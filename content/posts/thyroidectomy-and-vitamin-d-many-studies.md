@@ -11,7 +11,7 @@ categories:
 ---
 
  **Appears that Thyroidectomies, like may other surgeries, benefits from Vitamin D before and after surgery   
-See <a href="/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed before most surgeries – many studies and RCTs">Vitamin D is needed before most surgeries – many studies and RCTs</a>** 
+See [Vitamin D is needed before most surgeries – many studies and RCTs](/posts/vitamin-d-is-needed-before-most-surgeries-many-studies-and-rcts)** 
 
 {{< toc >}} 
 

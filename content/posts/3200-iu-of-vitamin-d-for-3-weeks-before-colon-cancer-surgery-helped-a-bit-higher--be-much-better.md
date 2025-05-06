@@ -45,4 +45,4 @@ Conclusion: High dose pre-operative vitamin D supplementation is associated with
 
 ---
 
-#### See VitaminDWiki <a href="/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018">Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018</a>
+#### See VitaminDWiki [Improve your health BEFORE surgery (prehabilitation) helps your recovery - 2018](/posts/improve-your-health-before-surgery-prehabilitation-helps-your-recovery-2018)

@@ -37,4 +37,4 @@ Conclusion: Our study showed a continuous positive change in vitamin D status ti
 
 * [Seniors raised Vitamin D levels, more COVID survivors, less CKD (Slovakia) – Feb 2023](/posts/seniors-raised-vitamin-d-levels-more-covid-survivors-less-ckd-slovakia)
 
-* <a href="/posts/vitamin-d-levels-increased-in-korea-during-lockdown-supplementation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels INCREASED in Korea during lockdown (supplementation) – Nov 2022">Vitamin D levels INCREASED in Korea during lockdown (supplementation) – Nov 2022</a>
+* [Vitamin D levels INCREASED in Korea during lockdown (supplementation) – Nov 2022](/posts/vitamin-d-levels-increased-in-korea-during-lockdown-supplementation)

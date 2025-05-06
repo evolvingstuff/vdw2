@@ -42,11 +42,11 @@ For women, having all eight healthy lifestyle factors in middle age was associat
 
 ---
 
-#### See also: <a href="/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Longevity and healthspan increased by Vitamin D - many studies">Longevity and healthspan increased by Vitamin D - many studies</a> 80+ studies
+#### See also: [Longevity and healthspan increased by Vitamin D - many studies](/posts/longevity-and-healthspan-increased-by-vitamin-d-many-studies) 80+ studies
 
 ---
 
-#### See also: <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a>
+#### See also: [Ways to improve health](/posts/ways-to-improve-health)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

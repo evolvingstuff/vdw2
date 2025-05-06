@@ -41,9 +41,9 @@ categories:
 
 * Also. speculated on microplastics
 
-   * See VitaminDWiki - <a href="/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Microplastics now causing problems in most life forms - many studies">Microplastics now causing problems in most life forms - many studies</a>
+   * See VitaminDWiki - [Microplastics now causing problems in most life forms - many studies](/posts/microplastics-now-causing-problems-in-most-life-forms-many-studies)
 
-* No mention of <a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc)">Vitamin D Crashing</a>
+* No mention of [Vitamin D Crashing](/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc)
 
 ---
 

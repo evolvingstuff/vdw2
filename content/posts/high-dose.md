@@ -38,13 +38,13 @@ Is not the same as a <a href="/posts/overview-loading-of-vitamin-d" style="color
 
 <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
 
-<a href="/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021">Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021</a>
+[Vitamin D: Bolus is Bogus (if more than 17 days between oral doses) – Oct 2021](/posts/vitamin-d-bolus-is-bogus-if-more-than-17-days-between-oral-doses)
 
-<a href="/posts/high-dose-vitamin-d-safe-for-children-10000-iu-daily-600000-iu-bolus-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022">High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022</a>
+[High-dose Vitamin D safe for children (10,000 IU daily, 600,000 IU bolus) – meta-analysis April 2022](/posts/high-dose-vitamin-d-safe-for-children-10000-iu-daily-600000-iu-bolus-meta-analysis)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/diseases-treated-by-high-dose-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases treated by high-dose Vitamin D - many studies">Diseases treated by high-dose Vitamin D - many studies</a>
+#### VitaminDWiki - [Diseases treated by high-dose Vitamin D - many studies](/posts/diseases-treated-by-high-dose-vitamin-d-many-studies)
 
 ---
 

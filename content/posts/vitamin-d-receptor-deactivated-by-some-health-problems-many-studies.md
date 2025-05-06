@@ -15,7 +15,7 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
 &nbsp; &nbsp; In which case the cells may continue to have low vitamin D levels for months/years
 
-&nbsp; &nbsp; &nbsp; &nbsp; Suspect that is the case for <a href="/posts/long-covid-is-now-the-biggest-covid-concern-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Long-COVID is now the biggest COVID concern - many studies">Long-COVID</a>
+&nbsp; &nbsp; &nbsp; &nbsp; Suspect that is the case for [Long-COVID](/posts/long-covid-is-now-the-biggest-covid-concern-many-studies)
 
 ---
 
@@ -33,4 +33,4 @@ Unfortunately, when the disease leaves the body, it fails to re-activate the Vit
 
  **[Controversial Effects of Vitamin D and Related Genes on Viral Infections, Pathogenesis, and Treatment Outcomes - 2020](https://VitaminDWiki.com/Herpes+%28Cytomegalovirus%29+downregulates+the+vitamin+D+receptor+by+8X+%E2%80%93+Jan+2017#Controversial_Effects_of_Vitamin_D_and_Related_Genes_on_Viral_Infections_Pathogenesis_and_Treatment_Outcomes_-_2020)** 
 
- **<a href="/posts/colon-cancer-protects-itself-by-changing-the-vdr-and-cyp3a4-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022">Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022</a>** 
+ **[Colon Cancer protects itself by changing the VDR and CYP3A4 genes – Dec 2022](/posts/colon-cancer-protects-itself-by-changing-the-vdr-and-cyp3a4-genes)** 

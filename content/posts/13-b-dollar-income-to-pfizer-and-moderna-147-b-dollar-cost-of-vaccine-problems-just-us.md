@@ -23,11 +23,11 @@ categories:
 
 ---
 
-#### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages in VitaminDWiki</a>
+#### VitaminDWiki - [Vaccination pages in VitaminDWiki](/posts/vaccination-pages-in-vitamindwiki)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+#### VitaminDWiki - [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
  **Note: Cost of injuries and disability >> Cost of excess deaths** 
 

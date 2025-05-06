@@ -14,7 +14,7 @@ categories:
 
  **Note: Vitamin D massively changes the composiition of gut bacteria** 
 
-* <a href="/posts/vitamin-d-levels-change-gut-microbiota-25-study-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels change Gut Microbiota – 25 study review Sept 2021">Vitamin D levels change Gut Microbiota – 25 study review Sept 2021</a>
+* [Vitamin D levels change Gut Microbiota – 25 study review Sept 2021](/posts/vitamin-d-levels-change-gut-microbiota-25-study-review)
 
 * <a href="/posts/gut-microbiome-massively-changed-by-weekly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut microbiome massively changed by weekly vitamin D – July 2015">Gut microbiome massively changed by weekly vitamin D – July 2015</a>
 

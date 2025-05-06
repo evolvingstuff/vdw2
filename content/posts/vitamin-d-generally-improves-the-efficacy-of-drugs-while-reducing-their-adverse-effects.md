@@ -1,0 +1,11 @@
+---
+title: "Vitamin D generally improves the efficacy of drugs while reducing their adverse effects"
+slug: "vitamin-d-generally-improves-the-efficacy-of-drugs-while-reducing-their-adverse-effects"
+aliases:
+  - "/Vitamin+D+generally+improves+the+efficacy+of+drugs+while+reducing+their+adverse+effects+–+Jan+2020"
+  - "/tiki-index.php?page_id=11616"
+date: 2020-02-06
+categories:
+  - "Interactions with Vitamin D"
+---
+

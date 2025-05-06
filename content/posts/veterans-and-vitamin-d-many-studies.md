@@ -21,7 +21,7 @@ categories:
 
 * <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
 
-* <a href="/posts/40-percent-less-likely-to-die-if-vitamin-d-was-prescribed-10000-va-patients-no-surprise" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 percent less likely to die if vitamin D was prescribed (10,000 VA patients, no surprise) – Oct 2021">40 percent less likely to die if vitamin D was prescribed (10,000 VA patients, no surprise) – Oct 2021</a>
+* [40 percent less likely to die if vitamin D was prescribed (10,000 VA patients, no surprise) – Oct 2021](/posts/40-percent-less-likely-to-die-if-vitamin-d-was-prescribed-10000-va-patients-no-surprise)
 
 * <a href="/posts/dementia-risk-increased-24-x-following-tbi-even-if-had-not-lost-consciousness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia risk increased 2.4 X following TBI, even if had not lost consciousness – May 2018">Dementia risk increased 2.4 X following TBI, even if had not lost consciousness – May 2018</a>
 

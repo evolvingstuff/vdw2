@@ -1,0 +1,13 @@
+---
+title: "Stroke patients getting weekly 50,000 IU Vitamin D did better – trial"
+slug: "stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial"
+aliases:
+  - "/Stroke+patients+getting+weekly+50000+IU+Vitamin+D+did+better+–+trial+March+2021"
+  - "/tiki-index.php?page_id=12401"
+date: 2021-03-12
+categories:
+  - "Intervention"
+  - "Stroke"
+  - "Intervention - non daily"
+---
+

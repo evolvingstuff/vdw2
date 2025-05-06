@@ -103,7 +103,7 @@ VitaminDWiki has subscribed to DeepDyve since about 2011
 
 ---
 
-#### VitaminDWiki - <a href="/posts/worlds-top-authors-in-vitamin-d-vdr-vitamin-k-omega-3-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: World's Top Authors in Vitamin D, VDR, Vitamin K, Omega-3, etc - Jan 2019">World's Top Authors in Vitamin D, VDR, Vitamin K, Omega-3, etc - Jan 2019</a>
+#### VitaminDWiki - [World's Top Authors in Vitamin D, VDR, Vitamin K, Omega-3, etc - Jan 2019](/posts/worlds-top-authors-in-vitamin-d-vdr-vitamin-k-omega-3-etc)
 
  **Vitamin D Experts** 
 

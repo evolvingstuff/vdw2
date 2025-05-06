@@ -44,7 +44,7 @@ Conclusions: In this study, children born after in vitro fertilization have a hi
 
 ##### Note: IVF facilities would probably lose business if they mentioned the huge fertility benefit of Vitamin D
 
- **<a href="/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars">In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars</a>** 
+ **[In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars](/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars)** 
 
 ---
 

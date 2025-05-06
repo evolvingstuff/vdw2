@@ -61,11 +61,11 @@ Note:  Most of the vaccinations were given later, so deaths would not show up on
 
 ---
 
-#### VitaminDWiki - <a href="/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory viral infection (RSV) and low vitamin D - many studies">Respiratory viral infection (RSV) and low vitamin D - many studies</a>
+#### VitaminDWiki - [Respiratory viral infection (RSV) and low vitamin D - many studies](/posts/respiratory-viral-infection-rsv-and-low-vitamin-d-many-studies)
 
 ---
 
-#### VitaminDWiki - <a href="/posts/tripledemic-flu-covid-and-rsv-all-fought-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tripledemic: Flu, COVID, and RSV (all fought by Vitamin D) - Oct 2022">Tripledemic: Flu, COVID, and RSV (all fought by Vitamin D) - Oct 2022</a>
+#### VitaminDWiki - [Tripledemic: Flu, COVID, and RSV (all fought by Vitamin D) - Oct 2022](/posts/tripledemic-flu-covid-and-rsv-all-fought-by-vitamin-d)
 
 ---
 

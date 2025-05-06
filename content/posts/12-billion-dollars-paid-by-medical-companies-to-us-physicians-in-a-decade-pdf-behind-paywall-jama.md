@@ -70,4 +70,4 @@ Study limitations included not recording payments made to other health care prof
 
 ##### VitaminDWiki - <a href="/posts/extremely-big-pharma-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Extremely Big Pharma - many studies">Extremely Big Pharma - many studies</a>
 
- **<a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>** 
+ **[FDA drug section gets 75% of its income from Big Pharma - Oct 2022](/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma)** 

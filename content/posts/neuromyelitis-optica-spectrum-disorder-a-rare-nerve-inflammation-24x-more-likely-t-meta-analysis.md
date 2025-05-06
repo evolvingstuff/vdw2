@@ -241,4 +241,4 @@ MS prevalence: 1 in 333 (30 to 300X more common)
 
 ---
 
-#### VitaminDWiki – <a href="/posts/vitamin-d-receptor-is-associated-in-over-58-autoimmune-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor is associated in over 58 autoimmune studies">Vitamin D Receptor is associated in over 58 autoimmune studies</a>
+#### VitaminDWiki – [Vitamin D Receptor is associated in over 58 autoimmune studies](/posts/vitamin-d-receptor-is-associated-in-over-58-autoimmune-studies)

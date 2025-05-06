@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Very low Vitamin D in Indian pregnancies– 1 in 3 women not even have 20 ng – meta-analysis</title>
+    <link rel="stylesheet" href="/css/main.css?v=1746542374">
+    <link rel="stylesheet" href="/css/pagination.css?v=1746542374">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+    <script src="/js/search.js?v=1746542374"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home-icon">
+            <a href="/" title="Go to Home Page">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="28" height="28">
+                    <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="search-container">
+            <div class="search-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <input type="text" id="search-input" placeholder="Search..." disabled>
+            <div id="suggestions" class="search-suggestions" style="display: none;"></div>
+            <ul id="search-results" style="display: none;"></ul>
+            
+            
+            <div id="search-results-panel" class="search-results-panel">
+                <div class="results-header">Search Results</div>
+                <ul id="search-results-panel-list" class="results-list"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        <div class="content content-full-width" role="main">
+    <article>
+        <h1>Very low Vitamin D in Indian pregnancies– 1 in 3 women not even have 20 ng – meta-analysis</h1>
+        <time>June 30, 2021</time>
+        <h4 id="pooled-estimate-of-vitamin-d-deficiency-among-pregnant-women-in-india-a-systematic-review-and-meta-analysis">Pooled estimate of vitamin D deficiency among pregnant women in India: a systematic review and meta-analysis</h4>
+<p>J Health Popul Nutr. 2021 Jun 29;40(1):28. <a href="https://doi.org/10.1186/s41043-021-00253-y.">doi: 10.1186/s41043-021-00253-y.</a></p>
+<p>Angeline Jeyakumar 1 2, Vidhya Shinde 3, Reshma Ravindran 3</p>
+<p>Background: Vitamin D deficiency among pregnant women is a public health concern globally. In India, individual studies report high prevalence. However, lack of national data masks the true burden. This work determined the pooled prevalence of vitamin D deficiency among pregnant women in India through a systematic review of literature and meta-analysis.</p>
+<p>Methods: Three different search engines yielded 15 eligible articles. Study quality was assessed by 10 different criteria and summary of study quality was categorized as per Cochrane standards. Meta-analysis was performed to estimate pooled prevalence of vitamin D deficiency among healthy pregnant women and heterogeneity among selected studies. A sample of n = 4088 was used to study the pooled prevalence among pregnant women.</p>
+<p>Results: The random effects combined estimate was 32.35% (95% CI, (12.58-117.48). High heterogeneity (tau2 = 0.39, I2 = 100%) and high risk of bias was observed among the selected studies. The test for overall effect was observed to be z = 2.54(P = 0.01).</p>
+<p>Conclusion: Pooled estimate &gt; 30% emphasizes the need for screening through antenatal care services and initiate preventive measures to address the deficiency.</p>
+<p><strong><a href="/attachments/d3.mock.pdf"><i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i>Download the PDF from VitaminDWiki</a></strong></p>
+
+    </article>
+</div>
+    </div>
+
+    <script src="/js/lightspa.js?v=1746542374"></script>
+    <script>
+        
+        const spa = new LightSPA({
+            mainContentSelector: '[role="main"]',
+            navigationSelector: '[data-spa-nav]'
+        });
+
+        
+        window.search = new Search({
+            documentsUrl: '\/search\/search_documents.json.gz?v=1746542374',
+            indexUrl: '\/search\/search_index.json.gz?v=1746542374'
+        });
+        
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            function toggleCategory(parentItem) {
+                var expander = parentItem.querySelector('.category-expander');
+                var subList = parentItem.querySelector('.subcategory-list');
+                
+                if (parentItem.classList.contains('collapsed')) {
+                    
+                    parentItem.classList.remove('collapsed');
+                    parentItem.classList.add('expanded');
+                    expander.textContent = '-'; 
+                    subList.style.display = 'block';
+                } else {
+                    
+                    parentItem.classList.remove('expanded');
+                    parentItem.classList.add('collapsed');
+                    expander.textContent = '+'; 
+                    subList.style.display = 'none';
+                }
+            }
+            
+            
+            document.querySelectorAll('.category-expander').forEach(function(expander) {
+                expander.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+            
+            
+            document.querySelectorAll('.category-name').forEach(function(categoryName) {
+                categoryName.addEventListener('click', function(e) {
+                    
+                    e.stopPropagation();
+                    
+                    var parentItem = this.closest('.top-level-category');
+                    toggleCategory(parentItem);
+                });
+            });
+        });
+    </script>
+    <script src="/js/toc-sanitizer.js?v=1746542374"></script>
+    <script src="/js/search-results-panel.js?v=1746542374"></script>
+</body>
+</html>

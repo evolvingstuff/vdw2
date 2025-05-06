@@ -120,7 +120,7 @@ Conclusions: Children with LEF were more frequently insufficient in 25-hydroxyvi
 
 ---
 
-##### VitaminDWiki - <a href="/posts/hospital-has-banned-dr-holick-due-to-testifying-in-cases-of-infants-with-broken-bones-august-2021" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021">Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021</a>
+##### VitaminDWiki - [Hospital has banned Dr. Holick due to testifying in cases of infants with broken bones- August, 2021](/posts/hospital-has-banned-dr-holick-due-to-testifying-in-cases-of-infants-with-broken-bones-august-2021)
 
 ---
 

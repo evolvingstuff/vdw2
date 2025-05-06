@@ -41,7 +41,7 @@ Conclusion: According to our results, a window of opportunity for policymaking o
 
    * Reason #6: Medical training has an emphasis on treatment, not prevention
 
-* <a href="/posts/do-not-expect-your-doctor-to-know-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do not expect your doctor to know about vitamin D">Do not expect your doctor to know about vitamin D</a>
+* [Do not expect your doctor to know about vitamin D](/posts/do-not-expect-your-doctor-to-know-about-vitamin-d)
 
 * <a href="/posts/extremely-big-pharma-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Extremely Big Pharma - many studies">Extremely Big Pharma - many studies</a>
 
@@ -49,9 +49,9 @@ Conclusion: According to our results, a window of opportunity for policymaking o
 
    *  **A drug that cured a disease would destroy its market.** 
 
-* <a href="/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021">Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021</a>
+* [Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021](/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020)
 
-* <a href="/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018">More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018</a>
+* [More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018](/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt)
 
    * "Note: Even after clinical trials showed that Vitamin D treated or prevented 90+ health problems, the FDA still will not permit a single health claim for Vitamin D"
 

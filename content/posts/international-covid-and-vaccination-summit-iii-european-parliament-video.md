@@ -147,10 +147,10 @@ MR. CRISTIAN TERHES, European Conservatives and Reformists- ROMANIA
 
 ---
 
-### VitaminDWiki - <a href="/posts/excess-deaths-5-possible-reasons-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excess deaths - 5 possible reasons - many studies">Excess deaths - 5 possible reasons - many studies</a>
+### VitaminDWiki - [Excess deaths - 5 possible reasons - many studies](/posts/excess-deaths-5-possible-reasons-many-studies)
 
 ---
 
-### VitaminDWiki - <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">Vaccination pages</a>
+### VitaminDWiki - [Vaccination pages](/posts/vaccination-pages-in-vitamindwiki)
 
 <!-- ~tc~ (alias(International Covid Summit III in the European Parliament, Brussels – Video May 2023)) ~/tc~ -->

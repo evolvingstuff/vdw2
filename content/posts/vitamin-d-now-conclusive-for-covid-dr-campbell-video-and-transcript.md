@@ -96,7 +96,7 @@ Medicines & Healthcare products Regulatory Agency [https://www.bmj.com/content/3
 
 ---
 
-#### VitaminDWiki – <a href="/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023">Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023</a>
+#### VitaminDWiki – [Prevent a COVID death: 9 dollars of Vitamin D or 900,000 dollars of vaccine - Aug 2023](/posts/prevent-a-covid-death-9-dollars-of-vitamin-d-or-900000-dollars-of-vaccine)
 
  **November 2022 [https://c19early.org/](https://c19early.org/)** 
 
@@ -124,11 +124,11 @@ Comment by Chambers: all those under $165 are also anti-oxidants
 
  **Note: before vaccines there were many publications concerning Vitamin D and COVID** 
 
-* <a href="/posts/covid-vitamin-d-publications-bibliometric-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID vitamin D publications - bibliometric analysis - July 2022">COVID vitamin D publications - bibliometric analysis - July 2022</a>
+* [COVID vitamin D publications - bibliometric analysis - July 2022](/posts/covid-vitamin-d-publications-bibliometric-analysis)
 
 * The funder of VitaminWiki co-authored a paper on vitamin D and COVID before vaccines which was very widely read
 
-   * <a href="/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020">Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020</a> 
+   * [Vitamin D supplementation could prevent and treat influenza, CORONAVIRUS, and pneumonia infections - March 2020](/posts/vitamin-d-supplementation-could-prevent-and-treat-influenza-coronavirus-and-pneumonia-infections) 
 
 ---
 

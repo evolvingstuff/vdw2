@@ -27,11 +27,11 @@ Pregnant women with low vitamin D levels tend to have poor clinical outcomes. Me
 
 #### See also VitaminDWiki
 
-* <a href="/posts/supplement-usage-us-50-percent-china-07-percent-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Supplement usage - US 50 percent, China 0.7 percent - 2018">Supplement usage - US 50 percent, China 0.7 percent - 2018</a>
+* [Supplement usage - US 50 percent, China 0.7 percent - 2018](/posts/supplement-usage-us-50-percent-china-07-percent-2018)
 
 * <a href="/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011">Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011</a>
 
-* <a href="/posts/vitamin-d-levels-are-correlated-with-6-environmental-variables-in-china" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels are correlated with 6 environmental variables in China – July 2022">Vitamin D levels are correlated with 6 environmental variables in China – July 2022</a> 
+* [Vitamin D levels are correlated with 6 environmental variables in China – July 2022](/posts/vitamin-d-levels-are-correlated-with-6-environmental-variables-in-china) 
 
 * <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
 

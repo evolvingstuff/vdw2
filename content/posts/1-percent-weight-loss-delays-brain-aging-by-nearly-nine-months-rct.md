@@ -53,6 +53,6 @@ https://doi.org/10.7554/eLife.83604.sa0
 
 ---
 
-#### See also: <a href="/posts/brain-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain and Vitamin D - many studies">Brain and Vitamin D - many studies</a>
+#### See also: [Brain and Vitamin D - many studies](/posts/brain-and-vitamin-d-many-studies)
 
 <!-- ~tc~ (alias(1 percent weight loss delays brain aging by nearly nine months - July 2023)) ~/tc~ -->

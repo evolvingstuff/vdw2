@@ -39,7 +39,7 @@ In previously infected individuals, a fourth vaccination was not associated with
 
 ---
 
-#### A few of the <a href="/posts/vaccination-pages-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination pages in VitaminDWiki">260+ Vaccination studies</a> in VitaminDWiki
+#### A few of the [260+ Vaccination studies](/posts/vaccination-pages-in-vitamindwiki) in VitaminDWiki
 
 * [Hospital utilization Australia (NSW) 1415 Vaccinated, 0 unvaccinated - Dec 2022](/posts/hospital-utilization-australia-nsw-1415-vaccinated-0-unvaccinated)
 

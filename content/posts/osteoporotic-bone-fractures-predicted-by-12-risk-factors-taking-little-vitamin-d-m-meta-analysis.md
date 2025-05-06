@@ -61,8 +61,8 @@ Our findings facilitate the early prediction of osteoporotic fracture in postmen
 
 * [Fractures 1.5 X more-likely if low serum Magnesium – meta-analysis March 2023](/posts/fractures-15-x-more-likely-if-low-serum-magnesium-meta-analysis)
 
-* <a href="/posts/hip-fractures-requiring-hospitalization-cut-in-half-by-vitamin-k1-100-mcg-per-day" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hip fractures requiring hospitalization cut in half by Vitamin K1 (100 mcg per day) – Sept 2022">Hip fractures requiring hospitalization cut in half by Vitamin K1 (100 mcg per day) – Sept 2022</a>
+* [Hip fractures requiring hospitalization cut in half by Vitamin K1 (100 mcg per day) – Sept 2022](/posts/hip-fractures-requiring-hospitalization-cut-in-half-by-vitamin-k1-100-mcg-per-day)
 
-* <a href="/posts/osteoporosis-risk-varies-with-vitamin-d-receptor-three-meta-analyses-in-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis Risk varies with Vitamin D Receptor – three meta-analyses in 2020">Osteoporosis Risk varies with Vitamin D Receptor – three meta-analyses in 2020</a>
+* [Osteoporosis Risk varies with Vitamin D Receptor – three meta-analyses in 2020](/posts/osteoporosis-risk-varies-with-vitamin-d-receptor-three-meta-analyses-in-2020)
 
 * <a href="/posts/osteoporosis-28-x-more-likely-if-vitamin-d-receptor-vdr-genes-altered" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis 2.8 X more likely if Vitamin D receptor (VDR) genes altered – Aug 2013">Osteoporosis 2.8 X more likely if Vitamin D receptor (VDR) genes altered – Aug 2013</a>
